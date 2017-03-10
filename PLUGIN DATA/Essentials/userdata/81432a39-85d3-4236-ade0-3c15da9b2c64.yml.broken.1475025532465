@@ -1,0 +1,358 @@
+timestamps:
+  logout: 1475025368259
+  login: 1475025367059
+  lastteleport: 1474818125095
+  kits:
+    wool: 1467940342088
+    ande: 1465166940330
+    color: 1467017724612
+    pw: 1474817549430
+    drinks: 1467798349989
+    potion1: 1466499966852
+    mobeggs: 1462482981668
+    dtools: 1471924211174
+    pvpsword1: 1471525433502
+    test1: 1462483579392
+    tools: 1468477407094
+    ultra: 1467798359435
+    mccharacter: 1466244303016
+    sking_arena: 1467836064744
+    wood: 1466315200551
+    overlord: 1471949038636
+    eggs: 1462484867613
+    citizen: 1470049617991
+    glass: 1471926832079
+    test: 1465524127690
+    f: 1462233764137
+    this: 1462483950978
+    banner: 1471041285048
+    dupe: 1469089335710
+    transport: 1468385879975
+    pvp: 1472965348872
+    food: 1471764539494
+    planks: 1466315186700
+    firework: 1471867020047
+    jesus: 1461896187896
+    wekit: 1470037935547
+    redstone: 1466315176899
+lastAccountName: Chalwk
+ipAddress: 121.73.221.100
+lastlocation:
+  world: world
+  x: 695.8890113371966
+  y: 68.0
+  z: 119.22376355147792
+  yaw: 267.7664
+  pitch: 13.800005
+logoutlocation:
+  world: world
+  x: 668.7721722917923
+  y: 69.0
+  z: 114.05355302104321
+  yaw: -269.84573
+  pitch: 19.350006
+money: '883104.41769999999995826'
+afk: false
+nickname: §cC§4h§aa§bl§ew§5k
+socialspy: false
+godmode: false
+geolocation: Christchurch, Canterbury, New Zealand
+teleportenabled: false
+homes:
+  ratrace:
+    world: world
+    x: -2419.4009841608504
+    y: 75.0
+    z: -1263.9872409624656
+    yaw: 184.51367
+    pitch: 14.400018
+  farmhouse:
+    world: world
+    x: 3928.5
+    y: 131.0
+    z: -1258.5
+    yaw: -317.0584
+    pitch: 11.638775
+  f:
+    world: world
+    x: 3896.957413886226
+    y: 131.0
+    z: -1254.4765118088499
+    yaw: 254.17499
+    pitch: 6.2978954
+  hs:
+    world: world
+    x: -895.7616873579067
+    y: 90.0
+    z: -3840.675290175301
+    yaw: 180.51091
+    pitch: 2.250002
+  v:
+    world: world
+    x: 4435.15145643969
+    y: 67.0
+    z: -1812.0059104755019
+    yaw: 308.60742
+    pitch: 1.649992
+  ch:
+    world: world
+    x: 541.8553648608404
+    y: 71.98360051499148
+    z: 657.6057874881724
+    yaw: -83.6418
+    pitch: 5.9380608
+  plat:
+    world: world
+    x: -583.610779608652
+    y: 72.36783682018371
+    z: -3902.4387523609007
+    yaw: 358.40723
+    pitch: 15.000035
+  buildplot:
+    world: world
+    x: 10691.087031468915
+    y: 74.0
+    z: -5327.004917803472
+    yaw: 13.0494995
+    pitch: 7.950002
+  temple:
+    world: world
+    x: -1802.0659444560524
+    y: 65.60714364632747
+    z: -150.59690389467212
+    yaw: -98.85187
+    pitch: 31.949965
+  ar:
+    world: world
+    x: 4676.013112410786
+    y: 64.0
+    z: -1881.537570439858
+    yaw: 93.65625
+    pitch: 8.550004
+  tree:
+    world: world
+    x: 509.25696287437586
+    y: 95.41428916609006
+    z: -35.35208045714998
+    yaw: 252.2102
+    pitch: 5.2499943
+  archery:
+    world: world
+    x: 743.646809677612
+    y: 64.0
+    z: -184.69999998807907
+    yaw: 6.6997986
+    pitch: 14.10001
+  tower:
+    world: world
+    x: 366.8146701002145
+    y: 83.94223125483684
+    z: -3870.1321992960234
+    yaw: 64.3501
+    pitch: 15.900097
+  station:
+    world: world
+    x: -2.036702934914715E7
+    y: 98.10625565859229
+    z: -1.2851706890206963E7
+    yaw: 80.097015
+    pitch: 14.999808
+  decor:
+    world: world
+    x: -294779.0649381298
+    y: 58.0
+    z: 243043.1940419226
+    yaw: 18.48291
+    pitch: 3.6000142
+  lazybutt:
+    world: world
+    x: 4933.942839502627
+    y: 71.0
+    z: -2400.8969037534494
+    yaw: 314.06592
+    pitch: 12.600013
+  sftut_npcs:
+    world: world
+    x: -7359.922769166553
+    y: 65.0
+    z: -5244.681555896912
+    yaw: -136.3498
+    pitch: 10.500006
+  hangar:
+    world: world
+    x: -813.8861000470675
+    y: 66.53934517291437
+    z: 2261.402882106535
+    yaw: 170.0381
+    pitch: 2.3999906
+  newparkour:
+    world: flat
+    x: 636.9698060344366
+    y: 7.5
+    z: -476.13259660719564
+    yaw: 313.50018
+    pitch: 2.399992
+  old_parkour:
+    world: world
+    x: -1616.155771759421
+    y: 69.5
+    z: -1051.2499300379138
+    yaw: 308.0444
+    pitch: 1.5994742
+  oldshop:
+    world: world
+    x: -310437.5
+    y: 63.0
+    z: -625985.5
+    yaw: 269.54413
+    pitch: 10.93512
+  homename:
+    world: world
+    x: 2976.4977293534457
+    y: 94.0
+    z: 1460.0410305729915
+    yaw: 27.885742
+    pitch: 15.750082
+  world_110_spawn:
+    world: world_1_10
+    x: 477.2949709827137
+    y: 89.0
+    z: -187.59174152973682
+    yaw: 117.900055
+    pitch: 57.45001
+  inters:
+    world: world_1_10
+    x: 650.2978778938054
+    y: 70.99064752468261
+    z: 44.14315796684655
+    yaw: -243.31941
+    pitch: 18.31319
+  corner1:
+    world: world
+    x: -2237.6270139965527
+    y: 83.0
+    z: -1261.300000011921
+    yaw: 202.9607
+    pitch: 21.325235
+  corner2:
+    world: world
+    x: -1950.4564706078545
+    y: 80.0
+    z: -1553.6253934817432
+    yaw: 40.810688
+    pitch: 64.225235
+  area1:
+    world: world_1_10
+    x: 523.0681165566963
+    y: 78.99379960829259
+    z: 392.1230606301722
+    yaw: -295.21887
+    pitch: 29.849941
+  thiscorner:
+    world: world_1_10
+    x: 580.8680209628269
+    y: 63.0
+    z: 618.4045369975362
+    yaw: 270.7316
+    pitch: 23.69996
+  svfarm:
+    world: world_1_10
+    x: 712.7666130437383
+    y: 81.62199658200657
+    z: -339.10473680120936
+    yaw: -126.60001
+    pitch: 17.099997
+  sek_nether:
+    world: new_world_nether
+    x: -764.6767763635007
+    y: 55.0
+    z: 3301.8743119521105
+    yaw: -243.29999
+    pitch: 24.450003
+  here:
+    world: world
+    x: 602.1183456399011
+    y: 77.0
+    z: 71.40797815393891
+    yaw: 87.84946
+    pitch: 14.549993
+  pasteloc:
+    world: world_1_10
+    x: -310439.5
+    y: 64.0
+    z: -627013.5
+    yaw: 0.0
+    pitch: 0.0
+  home:
+    world: world
+    x: 296.0
+    y: 60.0
+    z: -839.0
+    yaw: 0.0
+    pitch: 0.0
+  vampcat_area:
+    world: world
+    x: 296.0
+    y: 60.0
+    z: -839.0
+    yaw: 0.0
+    pitch: 0.0
+  chalwk_shrine:
+    world: world
+    x: 406.5
+    y: 66.0
+    z: 373.5
+    yaw: 0.0
+    pitch: 0.0
+  shrine:
+    world: world
+    x: 406.5
+    y: 65.0
+    z: 373.5
+    yaw: 0.0
+    pitch: 0.0
+  npc:
+    world: flat
+    x: 745.0905693757755
+    y: 5.3737061505981725
+    z: -494.197202108033
+    yaw: -0.3032054
+    pitch: 4.800231
+  new:
+    world: flat
+    x: 447.5
+    y: 5.0
+    z: -648.5
+    yaw: 91.74624
+    pitch: 34.80002
+  new2:
+    world: flat
+    x: 379.10858566556357
+    y: 5.0
+    z: -597.9806418882401
+    yaw: -144.00835
+    pitch: 15.000001
+  build_npc_main:
+    world: flat
+    x: 367.1238413396142
+    y: 4.0
+    z: -646.5559190021904
+    yaw: 265.00537
+    pitch: 10.500003
+  newtree:
+    world: world
+    x: -14351.636317360264
+    y: 76.62148034212852
+    z: 22841.65044117184
+    yaw: -176.70715
+    pitch: 21.830486
+powertools:
+  '280':
+  - vaporize {player} 5
+  '290':
+  - lightning
+  '273':
+  - bigtree tree
+  '294':
+  - mob horse 100
+acceptingPay: true

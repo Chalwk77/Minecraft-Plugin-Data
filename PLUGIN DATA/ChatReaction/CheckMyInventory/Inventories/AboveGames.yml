@@ -1,0 +1,1459 @@
+Inventories:
+  '67':
+    Time: 1462634325614
+    Exp: 548503
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3643.8696101202945
+      y: 68.0
+      z: -1696.3833746074474
+      pitch: -17.541136
+      yaw: 150.41516
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Elucidator
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 76
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Spade
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '2':
+        type: COBBLESTONE
+        amount: 2
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 1115
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ice Breaker
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 15
+      '4':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Magnesium
+      '5':
+        type: COAL
+        amount: 64
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 168
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+            DURABILITY: 3
+          repair-cost: 3
+      '7':
+        type: BOW
+        damage: 49
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '9':
+        type: ARROW
+        amount: 7
+      '10':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '11':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '12':
+        type: DIAMOND_AXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 3
+      '13':
+        type: COOKED_BEEF
+        amount: 42
+      '15':
+        type: COAL
+        amount: 5
+  '68':
+    Time: 1462634442723
+    Exp: 548518
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 8.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3672.316285918455
+      y: 96.0
+      z: -1722.7419101967896
+      pitch: 9.758857
+      yaw: 41.66515
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Elucidator
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 49
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: COOKED_BEEF
+        amount: 41
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 168
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+            DURABILITY: 3
+          repair-cost: 3
+      '4':
+        type: GRILLED_PORK
+        amount: 2
+      '5':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: SNOW_BLOCK
+      '7':
+        type: REDSTONE_BLOCK
+      '8':
+        type: WOOL
+        damage: 7
+      '9':
+        type: DIAMOND_PICKAXE
+        damage: 1115
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ice Breaker
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 15
+      '10':
+        type: DIAMOND_SPADE
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Spade
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '11':
+        type: COAL
+        amount: 64
+      '12':
+        type: DIAMOND_AXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 3
+      '13':
+        type: COAL
+        amount: 5
+      '14':
+        type: DIRT
+        amount: 7
+      '15':
+        type: WOOL
+        damage: 15
+      '16':
+        type: WOOL
+      '17':
+        type: COBBLESTONE
+        amount: 2
+      '18':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Magnesium
+      '19':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '20':
+        type: SAND
+        damage: 1
+      '21':
+        type: GRASS
+      '22':
+        type: LOG
+        damage: 1
+      '23':
+        type: ITEM_FRAME
+      '24':
+        type: BONE
+        amount: 6
+      '25':
+        type: LEATHER
+      '26':
+        type: RAW_BEEF
+      '27':
+        type: WOOD
+        damage: 4
+      '28':
+        type: ARROW
+        amount: 14
+      '29':
+        type: WOOD
+        damage: 1
+      '30':
+        type: WOOL
+        damage: 4
+      '31':
+        type: COOKED_CHICKEN
+        amount: 8
+  '69':
+    Time: 1462669635534
+    Exp: 567079
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 67429
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2983.300000011921
+      y: 4.0
+      z: -2408.699999988079
+      pitch: -12.450024
+      yaw: 52.502686
+    Items:
+      '1':
+        type: BOW
+        damage: 178
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 688
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ice Breaker
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 31
+      '3':
+        type: DIAMOND_AXE
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 3
+      '4':
+        type: DIAMOND_SPADE
+        damage: 116
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Spade
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '5':
+        type: COOKED_BEEF
+        amount: 41
+      '6':
+        type: MELON
+        amount: 23
+      '9':
+        type: SAND
+        amount: 64
+      '10':
+        type: SANDSTONE
+        amount: 41
+      '11':
+        type: LEATHER_CHESTPLATE
+        damage: 9
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+      '12':
+        type: STONE
+        damage: 1
+        amount: 17
+      '13':
+        type: LEATHER_LEGGINGS
+        damage: 9
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            DURABILITY: 3
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+      '14':
+        type: LEATHER_BOOTS
+        damage: 9
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+            PROTECTION_FALL: 2
+          repair-cost: 15
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+      '15':
+        type: GLOWSTONE_DUST
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Dust
+      '16':
+        type: COAL
+        amount: 43
+      '17':
+        type: FLINT
+        amount: 5
+      '18':
+        type: STONE
+        damage: 3
+        amount: 64
+      '19':
+        type: SULPHUR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lead Dust
+      '21':
+        type: DIRT
+        amount: 7
+      '23':
+        type: IRON_ORE
+        amount: 10
+      '24':
+        type: SAND
+        amount: 32
+      '26':
+        type: STRING
+      '28':
+        type: ARROW
+        amount: 14
+      '29':
+        type: DIAMOND_PICKAXE
+        damage: 221
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+            DURABILITY: 3
+          repair-cost: 3
+      '30':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '33':
+        type: STONE
+        damage: 3
+        amount: 22
+  '70':
+    Time: 1462681506186
+    Exp: 568275
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 8968
+        Amplifier: 1
+    Location:
+      world: world
+      x: 1059.242082030786
+      y: 66.0
+      z: -643.9421577467365
+      pitch: 23.999987
+      yaw: -356.78076
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 74
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Elucidator
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ice Breaker
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 31
+      '3':
+        type: DIAMOND_AXE
+        damage: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 3
+      '4':
+        type: DIAMOND_SPADE
+        damage: 42
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '5':
+        type: COOKED_BEEF
+        amount: 36
+      '28':
+        type: ARROW
+        amount: 25
+      '29':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '36':
+        type: LEATHER_BOOTS
+        damage: 60
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+            PROTECTION_FALL: 2
+          repair-cost: 15
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+      '37':
+        type: LEATHER_LEGGINGS
+        damage: 56
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            DURABILITY: 3
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 64
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+  '71':
+    Time: 1462683372495
+    Exp: 570151
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 69162
+        Amplifier: 1
+    Location:
+      world: world
+      x: 14675.574967480985
+      y: 70.27312498927117
+      z: 9214.95815136205
+      pitch: 16.168943
+      yaw: -229.98865
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Elucidator
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ice Breaker
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 31
+      '3':
+        type: DIAMOND_AXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 3
+      '4':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '5':
+        type: COOKED_BEEF
+        amount: 32
+      '6':
+        type: SULPHUR
+        amount: 2
+      '28':
+        type: ARROW
+        amount: 25
+      '30':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '36':
+        type: LEATHER_BOOTS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+            PROTECTION_FALL: 2
+          repair-cost: 15
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+      '37':
+        type: LEATHER_LEGGINGS
+        damage: 20
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            DURABILITY: 3
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 20
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+  '72':
+    Time: 1462712319825
+    Exp: 576811
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -704039.231744215
+      y: 72.5
+      z: 446005.4533775444
+      pitch: 12.253003
+      yaw: -119.650856
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Elucidator
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 66
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 350
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ice Breaker
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 31
+      '3':
+        type: DIAMOND_SPADE
+        damage: 244
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: COOKED_BEEF
+        amount: 63
+      '28':
+        type: ARROW
+        amount: 25
+      '29':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '30':
+        type: DIAMOND_AXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 3
+      '36':
+        type: LEATHER_BOOTS
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+            PROTECTION_FALL: 2
+          repair-cost: 15
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+      '37':
+        type: LEATHER_LEGGINGS
+        damage: 33
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            DURABILITY: 3
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 31
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+  '73':
+    Time: 1462712939701
+    Exp: 576811
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 177.47135222312258
+      y: 64.9140114523433
+      z: 1692.1466527510988
+      pitch: 27.092106
+      yaw: -12.862518
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Elucidator
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 74
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 350
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ice Breaker
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 31
+      '3':
+        type: DIAMOND_AXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 3
+      '4':
+        type: DIAMOND_SPADE
+        damage: 244
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '5':
+        type: COOKED_BEEF
+        amount: 62
+      '28':
+        type: ARROW
+        amount: 25
+      '29':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '36':
+        type: LEATHER_BOOTS
+        damage: 44
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+            PROTECTION_FALL: 2
+          repair-cost: 15
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+      '37':
+        type: LEATHER_LEGGINGS
+        damage: 50
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            DURABILITY: 3
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+  '74':
+    Time: 1462713204815
+    Exp: 576811
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 2.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 181.12082904161122
+      y: 67.0
+      z: 1701.6125429637634
+      pitch: 7.142147
+      yaw: 176.73697
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 350
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ice Breaker
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 31
+      '1':
+        type: DIAMOND_AXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 3
+      '2':
+        type: COOKED_BEEF
+        amount: 61
+      '3':
+        type: ARROW
+        amount: 25
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: DIAMOND_SPADE
+        damage: 244
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '6':
+        type: BOW
+        damage: 78
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '7':
+        type: DIAMOND_SWORD
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Elucidator
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+  '75':
+    Time: 1462713321361
+    Exp: 576811
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 185.26838764759597
+      y: 67.0
+      z: 1699.4838531034204
+      pitch: 11.192147
+      yaw: -299.663
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Elucidator
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 78
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 350
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ice Breaker
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 31
+      '3':
+        type: DIAMOND_SPADE
+        damage: 244
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: COOKED_BEEF
+        amount: 57
+      '28':
+        type: ARROW
+        amount: 26
+      '29':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '30':
+        type: DIAMOND_AXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 3
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 157
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 154
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 160
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 157
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '76':
+    Time: 1462713434883
+    Exp: 576811
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 184.9891732733988
+      y: 67.0
+      z: 1700.2860057028568
+      pitch: 12.392151
+      yaw: -178.7631
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Elucidator
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '11':
+        type: COOKED_BEEF
+        amount: 57
+      '28':
+        type: ARROW
+        amount: 24
+      '29':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '30':
+        type: DIAMOND_AXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 3
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 344
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 338
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 335
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '40':
+        type: BOW
+        damage: 93
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10

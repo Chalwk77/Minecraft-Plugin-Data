@@ -1,0 +1,474 @@
+Inventories:
+  '338':
+    Time: 1461660753155
+    Exp: 30225
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 14693.862773385286
+      y: 70.0
+      z: 9291.224500841578
+      pitch: 12.899996
+      yaw: 134.4631
+    Items:
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '5':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '6':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '7':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '9':
+        type: ARROW
+      '27':
+        type: SHIELD
+        amount: 63
+  '339':
+    Time: 1461832618254
+    Exp: 44459
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2396.228033897529
+      y: 64.0
+      z: 2463.300000011921
+      pitch: -6.449986
+      yaw: -177.75037
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: SHIELD
+  '340':
+    Time: 1461878793643
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0367056012499988E7
+      y: 85.0
+      z: -1.2851722699999988E7
+      pitch: 2.699949
+      yaw: 47.701904
+  '341':
+    Time: 1461878842033
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0367043300000012E7
+      y: 85.0
+      z: -1.2851719699999988E7
+      pitch: 2.099982
+      yaw: 46.500977
+  '342':
+    Time: 1461878882037
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.036705596889316E7
+      y: 85.0
+      z: -1.2851699712327838E7
+      pitch: 2.5499823
+      yaw: 31.800537
+  '343':
+    Time: 1461884550069
+    Exp: 67791
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3881.2748929576333
+      y: 70.0
+      z: -11775.746551111195
+      pitch: 4.4999423
+      yaw: 178.1087
+    Items:
+      '0':
+        type: GOLD_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bAssassin's Blade
+          lore:
+          - §7§oSneak up on your enemies and hit them hard!
+          - '§7§o '
+          - §7§o(High chance of failure against Hacked Clients)
+          - ''
+  '344':
+    Time: 1462120697679
+    Exp: 101490
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -7191.880535567081
+      y: 70.04260581913448
+      z: -5584.8444906551795
+      pitch: 3.450018
+      yaw: 117.84247
+    Items:
+      '0':
+        type: WOOD_AXE
+  '345':
+    Time: 1462252258684
+    Exp: 144171
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 7.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 60582
+        Amplifier: 1
+    Location:
+      world: world
+      x: -360.62852474228043
+      y: 83.50132005126119
+      z: 4384.021591038739
+      pitch: 18.6
+      yaw: 300.61566
+    Items:
+      '0':
+        type: QUARTZ_BLOCK
+  '346':
+    Time: 1462483212736
+    Exp: 305974
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3507.1232614344394
+      y: 67.0
+      z: -1889.8896348088924
+      pitch: 15.300004
+      yaw: 223.79988
+    Items:
+      '8':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALSkxKyixhYAAAFcawFB4AAAA=
+      '9':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANLiwFUgwAxMeU0x0AAAA=
+      '10':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAJz89JY2AAAIves4gcAAAA
+      '11':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALLshMSS1iYAAAmJdvsh4AAAA=
+      '12':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWCLys9NykxlYAAAb93Yex4AAAA=
+      '13':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeByTixLDS7ITEktYmAAAAPjG5IiAAAA
+      '14':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD0SSxLDM7JzE1lYAAAOFY+siEAAAA=
+      '15':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAPzijNyU4tYmAAAGLDXgUfAAAA
+      '16':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3zshMzk7NY2AAAGifiu0fAAAA
+      '17':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwL00sSslMzGNgAACFWNpqIAAAAA==
+      '18':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAOyExnYAAASo1SARsAAAA=
+      '19':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANzkhNLWBgAAABt1TGHQAAAA==
+      '20':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+      '21':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeAIzk7NSS3Jz2NgAAA4/sUgIAAAAA==
+      '22':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANzsnMTWVgAABiUWxHHQAAAA==
+      '23':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeAMyEyPys9NykxlYAAAHOM0OiEAAAA=
+      '24':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB1z0gsLmFgAACDCT7SHQAAAA==
+      '25':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwzUtJLcpNzGNgAAB2vyyKIAAAAA==
+      '26':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANzyxJzmBgAACRU5mTHQAAAA==
+      '27':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeAKzswpSy1KyyzOYGAAAH2TOTgiAAAA
+      '28':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB1ykmsSmVgAAD/4nt7HQAAAA==
+      '29':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB2SixhYAAAbnymwBsAAAA=
+      '30':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeAIy8zJSUxPLWJgAADlEwUxIAAAAA==
+      '31':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB2zi9nYAAAtJxfHxsAAAA=
+      '32':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD2LS3OKMrPz3XOL2dgAADFQ0VuIwAAAA==
+      '33':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWDzr0rNyS9hYAAA3vuJER4AAAA=
+      '34':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeCG8D3yi4pTGRgA104FmCMAAAA=
+      '35':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMAfFTUotyM0tSGRgApa6DsSEAAAA=
+  '347':
+    Time: 1462786665051
+    Exp: 1045295
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 6.21689864940975
+      y: 69.71954885794605
+      z: -3527.8841998241796
+      pitch: 23.550026
+      yaw: 352.79886

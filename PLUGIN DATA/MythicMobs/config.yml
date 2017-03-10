@@ -1,0 +1,77 @@
+# 
+# CONFIGURATION INFORMATION AVAILABLE AT: http://xikage.elseland.net/mythicmobs/
+
+Configuration:
+  Version: 2.3
+  General:
+    AllowMetrics: true
+    CheckForUpdates: true
+    CompatibilityMode: true
+    DebugLevel: 0
+    ErrorLogging: true
+    UseVolatileFeatures: true
+  Clock:
+    ClockInterval: 5
+    SaveInterval: 10
+    SpawnsInterval: 2
+    ScannerInterval: 10
+    CleanupInterval: 600
+  Components:
+    CustomSpawners: true
+    RandomSpawning: true
+  Mobs:
+    EnableAIModifiers: true
+    EnableTimerSkills: true
+    EnableThreatTables: true
+    EnablePlayerFactions: true
+    EnableLegacySkills: true
+    KillMessagePrefix: ''
+    ShowHealth:
+      Radius: 25
+      Format: <mob.name> - <mob.php> (<mob.hp> / <mob.mhp>)
+    Scaling:
+      Default:
+        Enabled: true
+        PerBlocksFromSpawn: 1500
+      world2:
+        Enabled: true
+        PerBlocksFromSpawn: 1500
+      world2_nether:
+        Enabled: true
+        PerBlocksFromSpawn: 1500
+    DefaultLevelModifiers:
+      Health: 0.1
+      Armor: 0
+      Damage: 0
+      KnockbackResistance: 0
+      Power: 0
+  RandomSpawning:
+    GenerateSpawnPoints: true
+    MaxMobsPerChunk: 1
+    SpawnRadiusPerPlayer: 400
+    SpawnRadiusPerPlayerY: 400
+    DespawnLazyRandomMobs: false
+    PointsPerSecond:
+      Land: 1
+      Air: 0
+      Sea: 0
+      Lava: 0
+      Ground: 1
+  Compatibility:
+    Heroes:
+      Enabled: true
+      ShowXPMessage: true
+      XPMessageFormat: "&7You received &e<drops.xp> &7experience for slaying <mob.name>"
+    McMMO:
+      Enabled: true
+      ShowXPMessage: true
+      XPMessageFormat: "&7You received &e<drops.xp> &7experience for slaying <mob.name>"
+    SkillAPI:
+      Enabled: true
+      ShowXPMessage: true
+      XPMessageFormat: "&7You received &e<drops.xp> &7experience for slaying <mob.name>"
+    Vault:
+      Enabled: true
+      ShowMoneyMessage: true
+      MoneyMessageFormat: "&7You received &a$&e<drops.money> &7for slaying <mob.name>"
+      

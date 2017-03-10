@@ -1,0 +1,127 @@
+# PlaceholderAPI version 2.6.0
+# Created by extended_clip
+
+check_updates: true
+cloud_enabled: true
+injector_enabled: true
+boolean:
+  'true': 'yes'
+  'false': 'no'
+date_format: MM/dd/yy HH:mm:ss
+placeholder_hooks:
+  bungeecord: false
+  redisbungee: false
+  invcheck: false
+  javascript: true
+  player: true
+  nmsplayer: false
+  server: true
+  statistic: true
+  pinger: false
+  date: false
+  globalsound: false
+  playersound: false
+  memory: false
+  acidisland: false
+  askyblock: false
+  autorank: false
+  autosell: true
+  chatcolor: true
+  chatreaction: true
+  checknamehistory: false
+  deluxetags: true
+  enjin: true
+  essentials: true
+  ezblocks: false
+  ezprestige: false
+  ezrankspro: false
+  factions: false
+  factionsuuid: false
+  galistener: false
+  gangsplus: false
+  heroes: false
+  islandworld: false
+  jobs: true
+  killstats: false
+  leaderheads: false
+  lwc: true
+  marriage: false
+  marriagemaster: false
+  mcinfected: false
+  mcinfected-ranks: false
+  mcmmo: true
+  minecrates: false
+  mvdw: true
+  mysqltokens: false
+  nicknamer: false
+  nicky: false
+  ontime: false
+  playerpoints: false
+  plotsquared: false
+  pointsapi: true
+  prisonmines: false
+  pvpstats: false
+  quicksell: false
+  royalcommands: false
+  sellall: false
+  simpleclans: false
+  simplecoinsapi: false
+  simpleprefix: false
+  simplesuffix: false
+  skillapi: false
+  skywarsreloaded: false
+  sqlperms: false
+  sqltokens: false
+  sttitles: false
+  superbvote: false
+  tokenenchant: false
+  tokenmanager: false
+  towny: false
+  ultimatevotes: false
+  uskyblock: false
+  vaulteco: true
+  vault: true
+  voteparty: false
+  voteroulette: false
+  wickedskywars: false
+  ezrankslite: false
+  prisongangs: false
+injector:
+  enabled: true
+  chat:
+    enabled: true
+  inventory:
+    enabled: true
+  title:
+    enabled: true
+  tab:
+    enabled: true
+  signs:
+    enabled: true
+    update_interval: 30
+  holographicdisplays:
+    enabled: true
+    update_interval: 30
+bungeecord:
+  check_interval: 60
+pinger:
+  check_interval: 60
+  online: '&aOnline'
+  offline: '&cOffline'
+expansions:
+  bungee:
+    check_interval: 30
+  javascript:
+    engine: javascript
+  vault:
+    formatting:
+      thousands: k
+      trillions: T
+      quadrillions: Q
+      billions: B
+      millions: M
+  enjin:
+    check_interval: 30
+injectors:
+  sign:
+    update_interval: 30

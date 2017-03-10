@@ -1,0 +1,30 @@
+lastAccountName: Ozrotten
+timestamps:
+  login: 1477282587849
+  lastteleport: 1472199420565
+  logout: 1477282628625
+ipAddress: 1.132.96.82
+geolocation: Australia
+lastlocation:
+  world: world
+  x: -10893.296283804484
+  y: 62.0
+  z: 907.5829266615417
+  yaw: -36.666214
+  pitch: 18.180492
+homes:
+  home:
+    world: world
+    x: -10881.337523322243
+    y: 98.0
+    z: 949.4407786584987
+    yaw: 45.835384
+    pitch: 19.275642
+money: '5117.4270000000000026'
+logoutlocation:
+  world: world
+  x: -10883.981409641416
+  y: 98.0
+  z: 956.0876685192825
+  yaw: 221.74847
+  pitch: -2.3763347

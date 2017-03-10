@@ -1,0 +1,68 @@
+lastAccountName: exactproject
+timestamps:
+  login: 1474269853717
+  lastteleport: 1474268695509
+  kits:
+    citizen: 1468240094845
+    color: 1468240088544
+    drinks: 1468301928821
+    rules: 1468243336133
+    dtools: 1474269398004
+    tools: 1471753465031
+    food: 1471674043296
+  logout: 1474273068372
+ipAddress: 121.217.56.21
+geolocation: Menai, New South Wales, Australia
+lastlocation:
+  world: world
+  x: 22096.578541855175
+  y: 141.80047941710714
+  z: 16190.783867477398
+  yaw: 101.399864
+  pitch: 66.150055
+money: '196556.77716666666618780'
+homes:
+  mountains:
+    world: world
+    x: 22101.476292713913
+    y: 103.0
+    z: 16177.578054913334
+    yaw: 181.64993
+    pitch: 29.250053
+  town:
+    world: world
+    x: -477.5
+    y: 79.0
+    z: 822.5
+    yaw: -52.050266
+    pitch: 59.39994
+  home:
+    world: world
+    x: 22104.448492353677
+    y: 94.0
+    z: 16179.55040203378
+    yaw: 72.449844
+    pitch: 18.300077
+logoutlocation:
+  world: world
+  x: 22103.869991343636
+  y: 96.0
+  z: 16213.167480690403
+  yaw: -27.918396
+  pitch: -7.8000283
+afk: false
+mail:
+- §6[§rChalwk§6] §rCustom Runes Enchant Shop now open! &b/warp runeshop
+- §6[§rChalwk§6] §rNew content available at /warp runeshop
+- '§6[§rServer§6] §rNotice: Known issue with /nv when wearing any type of helmet.'
+- '§6[§rChalwk§6] §rNotice: Known issue with Veinminer Rune Enchant. Do not use!'
+- '§6[§rChalwk§6] §rNotice: Disguises (/d) are ''temporarily'' disabled.'
+- '§6[§rServer§6] §rNotice: Webstore sale extended to Mon 25th Jul'
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'

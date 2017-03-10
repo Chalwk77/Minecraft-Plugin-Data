@@ -1,0 +1,115 @@
+# +----------------------------------------------------+
+# <               This is the Items File               >
+# <          Modify The items to your liking           >
+# +----------------------------------------------------+
+
+NoPermissionItem:
+  name: '&4You do not have permission!'
+  itemid: 95
+  itemdata: 14
+  amount: 1
+RED:
+  name: '&4Red'
+  itemid: 160
+  itemdata: 14
+  amount: 1
+LIGHTRED:
+  name: '&cLight Red'
+  itemid: 160
+  itemdata: 14
+  amount: 1
+GOLD:
+  name: '&6Gold'
+  itemid: 160
+  itemdata: 1
+  amount: 1
+YELLOW:
+  name: '&eYellow'
+  itemid: 160
+  itemdata: 4
+  amount: 1
+DARKGREEN:
+  name: '&2Dark Green'
+  itemid: 160
+  itemdata: 13
+  amount: 1
+LIGHTGREEN:
+  name: '&aLight Green'
+  itemid: 160
+  itemdata: 5
+  amount: 1
+LIGHTBLUE:
+  name: '&bLight Blue'
+  itemid: 160
+  itemdata: 3
+  amount: 1
+AQUA:
+  name: '&3Aqua Blue'
+  itemid: 160
+  itemdata: '9'
+  amount: 1
+DARKBLUE:
+  name: '&1Dark Blue'
+  itemid: 160
+  itemdata: 11
+  amount: 1
+DARKPURPLE:
+  name: '&5Dark Purple'
+  itemid: 160
+  itemdata: 10
+  amount: 1
+PURPLE:
+  name: '&9Purple'
+  itemid: 160
+  itemdata: 2
+  amount: 1
+PINK:
+  name: '&dPink'
+  itemid: 160
+  itemdata: 6
+  amount: 1
+WHITE:
+  name: '&fWhite'
+  itemid: 160
+  itemdata: 0
+  amount: 1
+GRAY:
+  name: '&7Gray'
+  itemid: 160
+  itemdata: 8
+  amount: 1
+DARKGRAY:
+  name: '&8Dark Gray'
+  itemid: 160
+  itemdata: 7
+  amount: 1
+BOLD:
+  name: '&lBold'
+  itemid: 95
+  itemdata: 1
+  amount: 1
+ITALIC:
+  name: '&oItalic'
+  itemid: 95
+  itemdata: 2
+  amount: 1
+MAGIC:
+  name: '&fMagic (&kMagic&f)'
+  itemid: 95
+  itemdata: 3
+  amount: 1
+STRIKE:
+  name: '&mStrike'
+  itemid: 95
+  itemdata: 4
+  amount: 1
+UNDERLINE:
+  name: '&nUnderline'
+  itemid: 95
+  itemdata: 5
+  amount: 1
+RESET:
+  name: '&rReset'
+  itemid: 95
+  itemdata: 6
+  amount: 1

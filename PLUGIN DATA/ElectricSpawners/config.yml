@@ -1,0 +1,42 @@
+# 
+# Name: ElectricSpawners
+# Author: mrCookieSlime
+# 
+# Do not modify the Config while the Server is running
+# otherwise bad things might happen!
+# 
+# This Plugin also requires CS-CoreLib to run!
+# If you don't have it installed already, its going to be
+# automatically installed for you
+# 
+# This Plugin utilises an Auto-Updater. If you want to turn that off,
+# simply set options -> auto-update to false
+mobs:
+- BLAZE
+- CAVE_SPIDER
+- CHICKEN
+- COW
+- CREEPER
+- ENDERMAN
+- ENDERMITE
+- GHAST
+- GUARDIAN
+- HORSE
+- IRON_GOLEM
+- MAGMA_CUBE
+- MUSHROOM_COW
+- OCELOT
+- PIG
+- PIG_ZOMBIE
+- RABBIT
+- SHEEP
+- SILVERFISH
+- SKELETON
+- SLIME
+- SPIDER
+- SQUID
+- VILLAGER
+- WITHER_SKELETON
+- WITCH
+- WOLF
+- ZOMBIE

@@ -1,0 +1,24 @@
+lastlocation:
+  world: world
+  x: 800.4524752073868
+  y: 65.0
+  z: -108.15295326269029
+  yaw: 262.69977
+  pitch: 10.31714
+geolocation: Australia
+lastAccountName: Sinsateon
+timestamps:
+  login: 1481432457704
+  lastteleport: 1481436571603
+  logout: 1481436666501
+  kits:
+    food: 1481435787922
+ipAddress: 114.75.92.58
+logoutlocation:
+  world: world
+  x: 672.9622208543569
+  y: 65.0
+  z: -185.58936565874419
+  yaw: 297.22845
+  pitch: 31.560152
+money: '9841.567999999999987'

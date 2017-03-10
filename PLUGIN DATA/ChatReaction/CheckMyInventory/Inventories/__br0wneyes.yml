@@ -1,0 +1,828 @@
+Inventories:
+  '4':
+    Time: 1460274445053
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14748.880983956498
+      y: 71.0
+      z: 9145.309276375321
+      pitch: -6.14999
+      yaw: 19.400513
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SWORD
+        damage: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: DIAMOND_SPADE
+        damage: 95
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '4':
+        type: SNOW_BALL
+        amount: 2
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '6':
+        type: COOKED_CHICKEN
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '7':
+        type: COOKED_BEEF
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '10':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+  '5':
+    Time: 1460274574100
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14668.152044676384
+      y: 69.35490164121856
+      z: 9234.537097317585
+      pitch: 13.499988
+      yaw: 238.10094
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: DIAMOND_SPADE
+        damage: 130
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '6':
+        type: COOKED_CHICKEN
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '7':
+        type: COOKED_BEEF
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '8':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '9':
+        type: DIRT
+  '6':
+    Time: 1460274588345
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14671.339170855439
+      y: 68.0
+      z: 9230.924013390895
+      pitch: 3.599981
+      yaw: 82.70112
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: DIAMOND_SPADE
+        damage: 130
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '4':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '5':
+        type: COOKED_CHICKEN
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '6':
+        type: COOKED_BEEF
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: DIRT
+  '7':
+    Time: 1460274658046
+    Exp: 5
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14716.790216676942
+      y: 70.0
+      z: 9135.761332130533
+      pitch: -2.699999
+      yaw: 50.301697
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: DIAMOND_SPADE
+        damage: 151
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '4':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '5':
+        type: COOKED_CHICKEN
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '6':
+        type: COOKED_BEEF
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: SNOW_BALL
+        amount: 10
+      '9':
+        type: SNOW_BALL
+        amount: 16
+      '10':
+        type: ARROW
+        amount: 10
+      '11':
+        type: BONE
+        amount: 8
+  '8':
+    Time: 1460275048884
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14703.881582365651
+      y: 71.0
+      z: 9140.781586957248
+      pitch: 31.424286
+      yaw: 13.293084
+    Items:
+      '1':
+        type: DIAMOND_SPADE
+        damage: 151
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: COOKED_CHICKEN
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: COOKED_BEEF
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '4':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '5':
+        type: DIAMOND_SWORD
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: ARROW
+        amount: 10
+      '7':
+        type: BONE
+        amount: 8
+      '8':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '9':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '10':
+        type: DIAMOND_PICKAXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '11':
+        type: DIAMOND_HELMET
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '12':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '14':
+        type: DIAMOND_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+  '9':
+    Time: 1460276016924
+    Exp: 105
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 3.2000003
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14722.77597807328
+      y: 71.25220334025373
+      z: 9146.254891078017
+      pitch: 6.7078285
+      yaw: 0.17553711
+    Items:
+      '0':
+        type: DIAMOND_SPADE
+        damage: 151
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: DIAMOND_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '3':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '4':
+        type: BONE
+        amount: 8
+      '6':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '7':
+        type: DIAMOND_SWORD
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 216
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '10':
+    Time: 1460276060075
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14714.266878576456
+      y: 68.0
+      z: 9067.47160778048
+      pitch: -27.192171
+      yaw: 8.425568
+    Items:
+      '0':
+        type: DIAMOND_SPADE
+        damage: 151
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '1':
+        type: DIAMOND_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '3':
+        type: BONE
+        amount: 8
+      '4':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '5':
+        type: DIAMOND_SWORD
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: ROTTEN_FLESH
+        amount: 13
+      '9':
+        type: DIAMOND_CHESTPLATE
+        damage: 217
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '11':
+    Time: 1460883173554
+    Exp: 18
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 11.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2899.074999988079
+      y: 64.0
+      z: 3433.1036125429628
+      pitch: 17.249975
+      yaw: 350.4555
+    Items:
+      '0':
+        type: DIAMOND_SPADE
+        damage: 151
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '1':
+        type: DIAMOND_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '3':
+        type: BONE
+        amount: 8
+      '4':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '5':
+        type: DIAMOND_SWORD
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: GRILLED_PORK
+        amount: 61
+      '9':
+        type: DIAMOND_CHESTPLATE
+        damage: 242
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '12':
+    Time: 1462120698297
+    Exp: 18
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2707.300000011921
+      y: 65.0
+      z: 3455.315021807309
+      pitch: 14.24998
+      yaw: 281.49008
+    Items:
+      '0':
+        type: DIAMOND_SPADE
+        damage: 151
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '1':
+        type: DIAMOND_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '3':
+        type: BONE
+        amount: 8
+      '4':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '5':
+        type: DIAMOND_SWORD
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: GRILLED_PORK
+        amount: 61
+      '7':
+        type: STRING
+        amount: 6
+      '8':
+        type: SPIDER_EYE
+        amount: 10
+      '9':
+        type: DIAMOND_CHESTPLATE
+        damage: 242
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '13':
+    Time: 1462483222612
+    Exp: 18
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2707.300000011921
+      y: 65.0
+      z: 3455.315021807309
+      pitch: 14.24998
+      yaw: 281.49008
+    Items:
+      '0':
+        type: DIAMOND_SPADE
+        damage: 151
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '1':
+        type: DIAMOND_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '3':
+        type: BONE
+        amount: 8
+      '4':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '5':
+        type: DIAMOND_SWORD
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: GRILLED_PORK
+        amount: 61
+      '7':
+        type: STRING
+        amount: 6
+      '8':
+        type: SPIDER_EYE
+        amount: 10
+      '9':
+        type: DIAMOND_CHESTPLATE
+        damage: 242
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

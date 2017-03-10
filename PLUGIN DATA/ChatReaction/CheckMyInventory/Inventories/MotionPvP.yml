@@ -1,0 +1,163 @@
+Inventories:
+  '1':
+    Time: 1462120693776
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 482.27591740079
+      y: 88.0
+      z: -175.52498813949356
+      pitch: 6.5999875
+      yaw: 224.05003
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '2':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '4':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '8':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+  '2':
+    Time: 1462483217386
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 482.27591740079
+      y: 88.0
+      z: -175.52498813949356
+      pitch: 6.5999875
+      yaw: 224.05003
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '2':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '4':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '8':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe

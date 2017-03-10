@@ -1,0 +1,33 @@
+lastAccountName: OooSpooky
+timestamps:
+  login: 1471679688126
+  logout: 1471680357115
+  lastteleport: 1471680316114
+  kits:
+    food: 1471675834471
+ipAddress: 120.150.231.190
+geolocation: Sydney, New South Wales, Australia
+lastlocation:
+  world: world
+  x: -482.019702243203
+  y: 63.5
+  z: 798.3380381594748
+  yaw: -180.59868
+  pitch: 11.55005
+homes:
+  home:
+    world: world
+    x: -492.3065806161953
+    y: 63.5
+    z: 804.5853070638077
+    yaw: 89.85145
+    pitch: -5.9999614
+money: '5389.18110000000000677'
+logoutlocation:
+  world: world
+  x: -495.84307231233583
+  y: 64.0
+  z: 805.534122820573
+  yaw: 232.50139
+  pitch: 30.75004
+afk: false

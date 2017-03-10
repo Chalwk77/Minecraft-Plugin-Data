@@ -1,0 +1,21 @@
+lastAccountName: sirius_viper
+timestamps:
+  login: 1470317607675
+  logout: 1470317670139
+ipAddress: 88.159.64.218
+geolocation: Eindhoven, Noord-Brabant, Netherlands
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+logoutlocation:
+  world: world
+  x: 441.3896394590033
+  y: 88.0
+  z: -197.55119752661358
+  yaw: 261.84998
+  pitch: 15.29998
+money: '2500'

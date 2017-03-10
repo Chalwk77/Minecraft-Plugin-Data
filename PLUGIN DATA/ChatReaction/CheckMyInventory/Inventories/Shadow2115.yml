@@ -1,0 +1,528 @@
+Inventories:
+  '9':
+    Time: 1460862360497
+    Exp: 1
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703998.6278462079
+      y: 81.0
+      z: 446001.7941648278
+      pitch: 6.5529947
+      yaw: 24.198921
+    Items:
+      '0':
+        type: WOOD
+        amount: 19
+      '1':
+        type: STICK
+        amount: 2
+      '7':
+        type: WOOD_AXE
+      '8':
+        type: WOOD
+        damage: 2
+        amount: 20
+  '10':
+    Time: 1460862600013
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -704021.791448998
+      y: 73.16610926093821
+      z: 445966.5088406818
+      pitch: 36.000046
+      yaw: 48.049316
+    Items:
+      '0':
+        type: WOOD
+        amount: 19
+      '1':
+        type: WOOD_AXE
+      '2':
+        type: WOOD_AXE
+        damage: 2
+      '3':
+        type: WOOD
+        damage: 2
+        amount: 20
+      '4':
+        type: STICK
+        amount: 2
+      '5':
+        type: ARROW
+      '6':
+        type: COOKED_BEEF
+        amount: 7
+  '11':
+    Time: 1460862867862
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703989.4306889472
+      y: 71.0
+      z: 445994.25044141733
+      pitch: 12.402983
+      yaw: 346.39966
+    Items:
+      '0':
+        type: WOOD
+        amount: 38
+      '1':
+        type: WOOD_AXE
+        damage: 6
+      '2':
+        type: WOOD_AXE
+        damage: 2
+      '3':
+        type: WOOD
+        damage: 2
+        amount: 40
+      '4':
+        type: STICK
+        amount: 4
+      '5':
+        type: ARROW
+        amount: 2
+      '6':
+        type: COOKED_BEEF
+        amount: 11
+      '7':
+        type: WOOD_AXE
+      '8':
+        type: WOOD_AXE
+        damage: 2
+  '12':
+    Time: 1460863067233
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -704006.237168571
+      y: 72.26636799395752
+      z: 445968.7568489876
+      pitch: 7.950012
+      yaw: 238.09889
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 63
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COOKED_CHICKEN
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '9':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '10':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '11':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '12':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '13':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '14':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '15':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '16':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '17':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '18':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '19':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '20':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '21':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '22':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '23':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '24':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '25':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '26':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '27':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+  '13':
+    Time: 1460863342632
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -704014.220133296
+      y: 73.0
+      z: 445960.73753018887
+      pitch: 20.549982
+      yaw: 220.39876
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '9':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '10':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '11':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '12':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '30':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 158
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 143
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 152
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 155
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '14':
+    Time: 1460863409834
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -704027.0559446394
+      y: 72.0
+      z: 445966.65797330654
+      pitch: 6.300003
+      yaw: 53.148865
+  '15':
+    Time: 1460868499939
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -704009.5754018486
+      y: 71.17281248886606
+      z: 446009.3000000119
+      pitch: 29.399994
+      yaw: 214.84906
+  '16':
+    Time: 1460883166755
+    Exp: 9
+    Health: 9.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: HUNGER
+        Duration: 248
+        Amplifier: 0
+    Location:
+      world: world
+      x: -3791.047753002605
+      y: 64.0
+      z: -2113.4114736536108
+      pitch: -11.1
+      yaw: -44.848145
+    Items:
+      '0':
+        type: FEATHER
+      '1':
+        type: SEEDS
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMustard Seed Plant
+  '17':
+    Time: 1462120691281
+    Exp: 9
+    Health: 9.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: HUNGER
+        Duration: 248
+        Amplifier: 0
+    Location:
+      world: world
+      x: -3791.047753002605
+      y: 64.0
+      z: -2113.4114736536108
+      pitch: -11.1
+      yaw: -44.848145
+    Items:
+      '0':
+        type: FEATHER
+      '1':
+        type: SEEDS
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMustard Seed Plant
+  '18':
+    Time: 1462483214314
+    Exp: 9
+    Health: 9.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: HUNGER
+        Duration: 248
+        Amplifier: 0
+    Location:
+      world: world
+      x: -3791.047753002605
+      y: 64.0
+      z: -2113.4114736536108
+      pitch: -11.1
+      yaw: -44.848145
+    Items:
+      '0':
+        type: FEATHER
+      '1':
+        type: SEEDS
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMustard Seed Plant

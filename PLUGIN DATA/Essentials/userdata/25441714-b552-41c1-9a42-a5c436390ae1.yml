@@ -1,0 +1,86 @@
+lastAccountName: LegendaryKay
+timestamps:
+  login: 1480840554389
+  lastteleport: 1480840989363
+  logout: 1480841052306
+  kits:
+    citizen: 1472179603106
+    color: 1471158539397
+    tools: 1480840574057
+    food: 1471814935117
+ipAddress: 99.228.87.136
+geolocation: Brampton, Ontario, Canada
+lastlocation:
+  world: world
+  x: 478.5573679834868
+  y: 88.0
+  z: -99.53194088032298
+  yaw: -236.28128
+  pitch: 27.299984
+money: '21046.38530000000123825'
+homes:
+  home:
+    world: world
+    x: 9173.439640329458
+    y: 73.0
+    z: -17374.186025494928
+    yaw: -56.29837
+    pitch: 15.192524
+  h:
+    world: world
+    x: 625.4683657761824
+    y: 64.0
+    z: 456.0073540593336
+    yaw: -75.56187
+    pitch: 18.525988
+  n:
+    world: world
+    x: 9179.231190622137
+    y: 58.0
+    z: -17360.30000001192
+    yaw: -85.779755
+    pitch: -11.394401
+  s:
+    world: world_nether
+    x: 38.16530583639309
+    y: 32.0
+    z: 55.706901089917174
+    yaw: -329.7422
+    pitch: 22.79307
+  ms:
+    world: world
+    x: 9191.988343149731
+    y: 12.0
+    z: -17367.498773684085
+    yaw: -291.22253
+    pitch: 6.3260007
+  ex:
+    world: world_nether
+    x: 150.06157397125583
+    y: 36.0
+    z: 786.4700290746407
+    yaw: -137.51569
+    pitch: 4.8297815
+  lb:
+    world: world_nether
+    x: -240.73110937922513
+    y: 54.0
+    z: -72.68291446458286
+    yaw: 204.56496
+    pitch: 3.2182052
+  lb2:
+    world: world_nether
+    x: -276.4763239286893
+    y: 77.0
+    z: -140.24122846924416
+    yaw: -309.33426
+    pitch: 14.958024
+logoutlocation:
+  world: world
+  x: 597.0241706416048
+  y: 88.0
+  z: -410.5360044684812
+  yaw: -85.38129
+  pitch: 21.94024
+afk: false
+godmode: false

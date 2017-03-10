@@ -1,0 +1,91 @@
+Keys: 0
+Ammo:
+  batblaster: 0
+  chickenator: 0
+  colorbomb: 0
+  discoball: 0
+  etherealpearl: 0
+  fleshhook: 0
+  melonthrower: 0
+  blizzardblaster: 0
+  portalgun: 0
+  explosivesheep: 96
+  paintballgun: 0
+  thorhammer: 0
+  antigravity: 0
+  smashdown: 0
+  rocket: 257
+  blackhole: 0
+  tsunami: 0
+  tnt: 78
+  fungun: 0
+  parachute: 93
+  quakegun: 0
+  ghostparty: 0
+  firework: 0
+  christmastree: 0
+  freezecannon: 0
+  snowball: 0
+  partypopper: 0
+  trampoline: 150
+  be:
+    isach:
+      ultracosmetics:
+        cosmetics:
+          gadgets:
+            gadgettype@57dd2dd8: 0
+            gadgettype@d21f3ac: 0
+            gadgettype@161be75e: 0
+            gadgettype@34dbb34e: 0
+            gadgettype@7ee7d1dd: 0
+            gadgettype@11515fab: 0
+            gadgettype@5e210e97: 0
+            gadgettype@16c892e3: 0
+            gadgettype@5c586ea6: 0
+            gadgettype@917f780: 0
+            gadgettype@7ee37b20: 0
+            gadgettype@afdd6eb: 0
+            gadgettype@21b851bc: 0
+            gadgettype@5ac9bfbf: 0
+            gadgettype@58ca3b2a: 0
+            gadgettype@aaedcf5: 0
+            gadgettype@7f5a17b: 0
+            gadgettype@76cc7909: 0
+            gadgettype@41ccfb53: 0
+            gadgettype@b9127f2: 0
+            gadgettype@155ce086: 0
+            gadgettype@3c574597: 0
+            gadgettype@471a42e0: 0
+            gadgettype@5e22d055: 0
+            gadgettype@795adccf: 0
+            gadgettype@3367b815: 0
+            gadgettype@c0b15e0: 0
+            gadgettype@4162f381: 0
+            gadgettype@40a9d5bc: 0
+            gadgettype@1e4cff4: 0
+            gadgettype@6f160bce: 0
+            gadgettype@75510be5: 0
+            gadgettype@2b8532b2: 0
+            gadgettype@18fb900d: 0
+            gadgettype@3a5b9358: 0
+            gadgettype@549b58ad: 0
+            gadgettype@1275c8f0: 0
+            gadgettype@716624cd: 0
+            gadgettype@6a6ae66a: 0
+            gadgettype@cc9b95e: 0
+            gadgettype@684e282b: 0
+            gadgettype@44f84c5f: 0
+            gadgettype@2442ef92: 0
+            gadgettype@17454e79: 0
+            gadgettype@4183585d: 0
+            gadgettype@62a63c51: 0
+            gadgettype@4ff700e3: 0
+            gadgettype@3556893e: 0
+            gadgettype@39bfa4d5: 0
+            gadgettype@399ea3fe: 0
+            gadgettype@62ac4d84: 0
+            gadgettype@7808fe89: 0
+            gadgettype@23d16cf3: 0
+            gadgettype@601f0d62: 0
+Gadgets-Enabled: true
+Third-Person-Morph-View: false

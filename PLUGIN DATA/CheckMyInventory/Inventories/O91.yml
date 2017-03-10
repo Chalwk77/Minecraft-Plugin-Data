@@ -1,0 +1,72 @@
+Inventories:
+  '1':
+    Time: 1481878098805
+    DeathReasson: Fall
+    Exp: 182
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: FIRE_RESISTANCE
+        Duration: 3256
+        Amplifier: 0
+      '2':
+        Name: DAMAGE_RESISTANCE
+        Duration: 3256
+        Amplifier: 0
+    Location:
+      world: world
+      x: -2078.4515256047835
+      y: 134.0
+      z: -1213.1012865334903
+      pitch: 88.64999
+      yaw: 120.61105
+    Items:
+      '11':
+        type: BEETROOT
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '18':
+        type: BONE_BLOCK
+  '2':
+    Time: 1481878105313
+    DeathReasson: Unknown
+    Exp: 182
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1610.9831706725013
+      y: 68.21589434553873
+      z: -1003.3000000119209
+      pitch: 22.199997
+      yaw: 24.000036
+  '3':
+    Time: 1481878128999
+    DeathReasson: Unknown
+    Exp: 182
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1612.2117068967937
+      y: 68.72906941194748
+      z: -999.8121174408232
+      pitch: 26.549992
+      yaw: -83.54993

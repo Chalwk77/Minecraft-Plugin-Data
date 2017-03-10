@@ -1,0 +1,20 @@
+geolocation: Rockville, Maryland, United States
+lastAccountName: brickman241
+timestamps:
+  login: 1477792147141
+  logout: 1477792330520
+ipAddress: 73.180.156.205
+lastlocation:
+  world: world
+  x: 545.4868165903783
+  y: 88.24918707874468
+  z: -210.80689180137762
+  yaw: -82.19376
+  pitch: 23.717373
+logoutlocation:
+  world: world
+  x: 483.473718747844
+  y: 89.0
+  z: -180.7850845735899
+  yaw: 310.39322
+  pitch: 1.4113395

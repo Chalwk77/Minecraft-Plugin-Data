@@ -1,0 +1,214 @@
+# Maximum 54 slots.
+
+1:
+ enchantment: lifesteal
+ level: 1
+ price: 274  
+2:
+ enchantment: lifesteal
+ level: 2
+ price: 479 
+3:
+ enchantment: lifesteal
+ level: 3
+ price: 696 
+4:
+ enchantment: assassin
+ level: 1
+ price: 267   
+5:
+ enchantment: assassin
+ level: 2
+ price: 513 
+6:
+ enchantment: assassin
+ level: 3
+ price: 768 
+7:
+ enchantment: kill_confirm
+ level: 1
+ price: 287 
+8:
+ enchantment: kill_confirm
+ level: 2
+ price: 412 
+9:
+ enchantment: kill_confirm
+ level: 3
+ price: 873
+10:
+ enchantment: hex
+ level: 1
+ price: 202 
+11:
+ enchantment: hex
+ level: 2
+ price: 458 
+12:
+ enchantment: hex
+ level: 3
+ price: 964
+13:
+ enchantment: wild_mark
+ level: 1
+ price: 146 
+14:
+ enchantment: jump
+ level: 1
+ price: 196
+15:
+ enchantment: jump
+ level: 2
+ price: 506 
+16:
+ enchantment: jump
+ level: 3
+ price: 691 
+17:
+ enchantment: speed
+ level: 1
+ price: 193 
+18:
+ enchantment: speed
+ level: 2
+ price: 617 
+19:
+ enchantment: speed
+ level: 3
+ price: 700 
+20:
+ enchantment: zeus
+ level: 1
+ price: 255 
+21:
+ enchantment: zeus
+ level: 2
+ price: 448 
+22:
+ enchantment: zeus
+ level: 3
+ price: 443 
+23:
+ enchantment: demonic_aura
+ level: 1
+ price: 269 
+24:
+ enchantment: demonic_aura
+ level: 2
+ price: 551 
+25:
+ enchantment: demonic_aura
+ level: 3
+ price: 758 
+26:
+ enchantment: demonic_aura
+ level: 4
+ price: 1043 
+27:
+ enchantment: demonic_aura
+ level: 5
+ price: 4898 
+28:
+ enchantment: dodge
+ level: 1
+ price: 280 
+29:
+ enchantment: dodge
+ level: 2
+ price: 483 
+30:
+ enchantment: dodge
+ level: 3
+ price: 904
+31:
+ enchantment: dodge
+ level: 4
+ price: 1121 
+32:
+ enchantment: dodge
+ level: 5
+ price: 2244 
+33:
+ enchantment: blessed
+ level: 1
+ price: 248 
+34:
+ enchantment: blessed
+ level: 2
+ price: 501 
+35:
+ enchantment: blessed
+ level: 3
+ price: 872 
+36:
+ enchantment: snare
+ level: 1
+ price: 144 
+37:
+ enchantment: snare
+ level: 2
+ price: 445 
+38:
+ enchantment: snare
+ level: 3
+ price: 733 
+39:
+ enchantment: snare
+ level: 4
+ price: 1047 
+40:
+ enchantment: curse
+ level: 1
+ price: 174 
+41:
+ enchantment: curse
+ level: 2
+ price: 614 
+42:
+ enchantment: curse
+ level: 3
+ price: 744 
+43:
+ enchantment: curse
+ level: 4
+ price: 1268 
+44:
+ enchantment: crushing
+ level: 1
+ price: 112 
+45:
+ enchantment: crushing
+ level: 2
+ price: 459 
+46:
+ enchantment: crushing
+ level: 3
+ price: 945 
+47:
+ enchantment: crushing
+ level: 4
+ price: 1125 
+48:
+ enchantment: crushing
+ level: 5
+ price: 2030 
+49:
+ enchantment: execute
+ level: 1
+ price: 243 
+50:
+ enchantment: execute
+ level: 2
+ price: 302 
+51:
+ enchantment: execute
+ level: 3
+ price: 664
+52:
+ enchantment: execute
+ level: 4
+ price: 1254
+53:
+ enchantment: execute
+ level: 5
+ price: 3336 

@@ -1,0 +1,7 @@
+Blaze_Fireball_Barrage:
+  Skills:
+  - shootfireball{y=1;v=4} @target
+  - delay 10
+  - shootfireball{y=1;v=4} @target
+  - delay 10
+  - shootfireball{y=1;v=4} @target

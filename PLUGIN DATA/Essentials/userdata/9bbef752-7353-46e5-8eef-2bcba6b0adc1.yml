@@ -1,0 +1,59 @@
+lastlocation:
+  world: world
+  x: -2031.7861921025776
+  y: 78.0
+  z: -1107.3455437296643
+  yaw: 254.44421
+  pitch: -49.799995
+geolocation: Mona Vale, New South Wales, Australia
+lastAccountName: NewportPeak
+timestamps:
+  login: 1474410092249
+  logout: 1474410539277
+  lastteleport: 1474410275744
+ipAddress: 14.200.160.128
+logoutlocation:
+  world: world
+  x: -2066.405489357604
+  y: 80.0
+  z: -1154.6938180480965
+  yaw: 329.55957
+  pitch: 21.449984
+homes:
+  house:
+    world: world
+    x: 1072.2469205446025
+    y: 66.0625
+    z: -638.4781979755242
+    yaw: 43.959103
+    pitch: 7.199991
+  pigshouse:
+    world: world
+    x: 1032.7842887216818
+    y: 60.0
+    z: -658.2162138661471
+    yaw: 2.8526611
+    pitch: -16.650003
+  down:
+    world: world
+    x: -2066.5326259312437
+    y: 80.0
+    z: -1170.6644496614404
+    yaw: 106.24384
+    pitch: 21.595152
+  underground:
+    world: world
+    x: -2076.963110743135
+    y: 63.0
+    z: -1198.960657954646
+    yaw: 3.516449
+    pitch: 30.662407
+  myhouse:
+    world: world
+    x: -1994.9157615317247
+    y: 114.0
+    z: -1141.0497652000986
+    yaw: 89.144226
+    pitch: 8.99516
+money: '4320.0'
+afk: false

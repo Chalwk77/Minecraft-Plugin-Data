@@ -1,0 +1,1341 @@
+Inventories:
+  '25':
+    Time: 1458455352815
+    Exp: 80
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310436.45899955806
+      y: 71.0
+      z: -625906.1677453434
+      pitch: 13.307667
+      yaw: -139.5193
+    Items:
+      '0':
+        type: RAW_FISH
+        damage: 1
+        amount: 2
+      '1':
+        type: COOKED_BEEF
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Beef Jerky
+          lore:
+          - ''
+          - §a§oSaturating
+      '2':
+        type: RAW_FISH
+        amount: 6
+      '3':
+        type: DIAMOND
+        amount: 19
+      '4':
+        type: FISHING_ROD
+        damage: 16
+      '5':
+        type: EMERALD
+      '6':
+        type: COOKED_BEEF
+        amount: 3
+      '7':
+        type: GOLD_INGOT
+        amount: 25
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 16
+      '9':
+        type: COAL
+        amount: 16
+      '10':
+        type: INK_SACK
+        damage: 15
+        amount: 16
+      '11':
+        type: STONE
+        amount: 16
+      '12':
+        type: STONE
+        damage: 2
+        amount: 16
+      '13':
+        type: STONE
+        damage: 3
+        amount: 12
+      '14':
+        type: STONE
+        damage: 5
+        amount: 16
+      '15':
+        type: STONE
+        damage: 6
+        amount: 16
+      '18':
+        type: COBBLESTONE
+        amount: 16
+      '19':
+        type: CACTUS
+        amount: 16
+      '20':
+        type: WOOL
+        damage: 9
+        amount: 16
+      '21':
+        type: WOOL
+        damage: 11
+        amount: 16
+      '22':
+        type: WOOL
+        damage: 12
+        amount: 16
+      '23':
+        type: WOOL
+        damage: 13
+        amount: 16
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eQuest Book §7(Right Click)
+          lore:
+          - ''
+          - §rYour basic Guide for Quests
+          - §rIn case you lose it, simply place a
+          - §rWorkbench into your Crafting Grid
+      '27':
+        type: WOOD_AXE
+        damage: 4
+      '28':
+        type: SEEDS
+      '29':
+        type: REDSTONE_BLOCK
+      '30':
+        type: BUCKET
+      '31':
+        type: CHEST
+      '32':
+        type: BREAD
+        amount: 4
+      '33':
+        type: DOUBLE_PLANT
+        damage: 4
+      '34':
+        type: IRON_INGOT
+        amount: 25
+      '35':
+        type: IRON_ORE
+        amount: 3
+  '26':
+    Time: 1459465461134
+    Exp: 80
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310436.45899955806
+      y: 71.0
+      z: -625906.1677453434
+      pitch: 13.307667
+      yaw: -139.5193
+    Items:
+      '0':
+        type: RAW_FISH
+        damage: 1
+        amount: 2
+      '1':
+        type: COOKED_BEEF
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Beef Jerky
+          lore:
+          - ''
+          - §a§oSaturating
+      '2':
+        type: RAW_FISH
+        amount: 6
+      '3':
+        type: DIAMOND
+        amount: 19
+      '4':
+        type: FISHING_ROD
+        damage: 16
+      '5':
+        type: EMERALD
+      '6':
+        type: COOKED_BEEF
+        amount: 3
+      '7':
+        type: GOLD_INGOT
+        amount: 25
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 16
+      '9':
+        type: COAL
+        amount: 16
+      '10':
+        type: INK_SACK
+        damage: 15
+        amount: 16
+      '11':
+        type: STONE
+        amount: 16
+      '12':
+        type: STONE
+        damage: 2
+        amount: 16
+      '13':
+        type: STONE
+        damage: 3
+        amount: 12
+      '14':
+        type: STONE
+        damage: 5
+        amount: 16
+      '15':
+        type: STONE
+        damage: 6
+        amount: 16
+      '18':
+        type: COBBLESTONE
+        amount: 16
+      '19':
+        type: CACTUS
+        amount: 16
+      '20':
+        type: WOOL
+        damage: 9
+        amount: 16
+      '21':
+        type: WOOL
+        damage: 11
+        amount: 16
+      '22':
+        type: WOOL
+        damage: 12
+        amount: 16
+      '23':
+        type: WOOL
+        damage: 13
+        amount: 16
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eQuest Book §7(Right Click)
+          lore:
+          - ''
+          - §rYour basic Guide for Quests
+          - §rIn case you lose it, simply place a
+          - §rWorkbench into your Crafting Grid
+      '27':
+        type: WOOD_AXE
+        damage: 4
+      '28':
+        type: SEEDS
+      '29':
+        type: REDSTONE_BLOCK
+      '30':
+        type: BUCKET
+      '31':
+        type: CHEST
+      '32':
+        type: BREAD
+        amount: 4
+      '33':
+        type: DOUBLE_PLANT
+        damage: 4
+      '34':
+        type: IRON_INGOT
+        amount: 25
+      '35':
+        type: IRON_ORE
+        amount: 3
+  '27':
+    Time: 1459469870321
+    Exp: 80
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310436.45899955806
+      y: 71.0
+      z: -625906.1677453434
+      pitch: 13.307667
+      yaw: -139.5193
+    Items:
+      '0':
+        type: RAW_FISH
+        damage: 1
+        amount: 2
+      '1':
+        type: COOKED_BEEF
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Beef Jerky
+          lore:
+          - ''
+          - §a§oSaturating
+      '2':
+        type: RAW_FISH
+        amount: 6
+      '3':
+        type: DIAMOND
+        amount: 19
+      '4':
+        type: FISHING_ROD
+        damage: 16
+      '5':
+        type: EMERALD
+      '6':
+        type: COOKED_BEEF
+        amount: 3
+      '7':
+        type: GOLD_INGOT
+        amount: 25
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 16
+      '9':
+        type: COAL
+        amount: 16
+      '10':
+        type: INK_SACK
+        damage: 15
+        amount: 16
+      '11':
+        type: STONE
+        amount: 16
+      '12':
+        type: STONE
+        damage: 2
+        amount: 16
+      '13':
+        type: STONE
+        damage: 3
+        amount: 12
+      '14':
+        type: STONE
+        damage: 5
+        amount: 16
+      '15':
+        type: STONE
+        damage: 6
+        amount: 16
+      '18':
+        type: COBBLESTONE
+        amount: 16
+      '19':
+        type: CACTUS
+        amount: 16
+      '20':
+        type: WOOL
+        damage: 9
+        amount: 16
+      '21':
+        type: WOOL
+        damage: 11
+        amount: 16
+      '22':
+        type: WOOL
+        damage: 12
+        amount: 16
+      '23':
+        type: WOOL
+        damage: 13
+        amount: 16
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eQuest Book §7(Right Click)
+          lore:
+          - ''
+          - §rYour basic Guide for Quests
+          - §rIn case you lose it, simply place a
+          - §rWorkbench into your Crafting Grid
+      '27':
+        type: WOOD_AXE
+        damage: 4
+      '28':
+        type: SEEDS
+      '29':
+        type: REDSTONE_BLOCK
+      '30':
+        type: BUCKET
+      '31':
+        type: CHEST
+      '32':
+        type: BREAD
+        amount: 4
+      '33':
+        type: DOUBLE_PLANT
+        damage: 4
+      '34':
+        type: IRON_INGOT
+        amount: 25
+      '35':
+        type: IRON_ORE
+        amount: 3
+  '28':
+    Time: 1459659259445
+    Exp: 80
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310436.45899955806
+      y: 71.0
+      z: -625906.1677453434
+      pitch: 13.307667
+      yaw: -139.5193
+    Items:
+      '0':
+        type: RAW_FISH
+        damage: 1
+        amount: 2
+      '1':
+        type: COOKED_BEEF
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Beef Jerky
+          lore:
+          - ''
+          - §a§oSaturating
+      '2':
+        type: RAW_FISH
+        amount: 6
+      '3':
+        type: DIAMOND
+        amount: 19
+      '4':
+        type: FISHING_ROD
+        damage: 16
+      '5':
+        type: EMERALD
+      '6':
+        type: COOKED_BEEF
+        amount: 3
+      '7':
+        type: GOLD_INGOT
+        amount: 25
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 16
+      '9':
+        type: COAL
+        amount: 16
+      '10':
+        type: INK_SACK
+        damage: 15
+        amount: 16
+      '11':
+        type: STONE
+        amount: 16
+      '12':
+        type: STONE
+        damage: 2
+        amount: 16
+      '13':
+        type: STONE
+        damage: 3
+        amount: 12
+      '14':
+        type: STONE
+        damage: 5
+        amount: 16
+      '15':
+        type: STONE
+        damage: 6
+        amount: 16
+      '18':
+        type: COBBLESTONE
+        amount: 16
+      '19':
+        type: CACTUS
+        amount: 16
+      '20':
+        type: WOOL
+        damage: 9
+        amount: 16
+      '21':
+        type: WOOL
+        damage: 11
+        amount: 16
+      '22':
+        type: WOOL
+        damage: 12
+        amount: 16
+      '23':
+        type: WOOL
+        damage: 13
+        amount: 16
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eQuest Book §7(Right Click)
+          lore:
+          - ''
+          - §rYour basic Guide for Quests
+          - §rIn case you lose it, simply place a
+          - §rWorkbench into your Crafting Grid
+      '27':
+        type: WOOD_AXE
+        damage: 4
+      '28':
+        type: SEEDS
+      '29':
+        type: REDSTONE_BLOCK
+      '30':
+        type: BUCKET
+      '31':
+        type: CHEST
+      '32':
+        type: BREAD
+        amount: 4
+      '33':
+        type: DOUBLE_PLANT
+        damage: 4
+      '34':
+        type: IRON_INGOT
+        amount: 25
+      '35':
+        type: IRON_ORE
+        amount: 3
+  '29':
+    Time: 1459766733027
+    Exp: 80
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310436.45899955806
+      y: 71.0
+      z: -625906.1677453434
+      pitch: 13.307667
+      yaw: -139.5193
+    Items:
+      '0':
+        type: RAW_FISH
+        damage: 1
+        amount: 2
+      '1':
+        type: COOKED_BEEF
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Beef Jerky
+          lore:
+          - ''
+          - §a§oSaturating
+      '2':
+        type: RAW_FISH
+        amount: 6
+      '3':
+        type: DIAMOND
+        amount: 19
+      '4':
+        type: FISHING_ROD
+        damage: 16
+      '5':
+        type: EMERALD
+      '6':
+        type: COOKED_BEEF
+        amount: 3
+      '7':
+        type: GOLD_INGOT
+        amount: 25
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 16
+      '9':
+        type: COAL
+        amount: 16
+      '10':
+        type: INK_SACK
+        damage: 15
+        amount: 16
+      '11':
+        type: STONE
+        amount: 16
+      '12':
+        type: STONE
+        damage: 2
+        amount: 16
+      '13':
+        type: STONE
+        damage: 3
+        amount: 12
+      '14':
+        type: STONE
+        damage: 5
+        amount: 16
+      '15':
+        type: STONE
+        damage: 6
+        amount: 16
+      '18':
+        type: COBBLESTONE
+        amount: 16
+      '19':
+        type: CACTUS
+        amount: 16
+      '20':
+        type: WOOL
+        damage: 9
+        amount: 16
+      '21':
+        type: WOOL
+        damage: 11
+        amount: 16
+      '22':
+        type: WOOL
+        damage: 12
+        amount: 16
+      '23':
+        type: WOOL
+        damage: 13
+        amount: 16
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eQuest Book §7(Right Click)
+          lore:
+          - ''
+          - §rYour basic Guide for Quests
+          - §rIn case you lose it, simply place a
+          - §rWorkbench into your Crafting Grid
+      '27':
+        type: WOOD_AXE
+        damage: 4
+      '28':
+        type: SEEDS
+      '29':
+        type: REDSTONE_BLOCK
+      '30':
+        type: BUCKET
+      '31':
+        type: CHEST
+      '32':
+        type: BREAD
+        amount: 4
+      '33':
+        type: DOUBLE_PLANT
+        damage: 4
+      '34':
+        type: IRON_INGOT
+        amount: 25
+      '35':
+        type: IRON_ORE
+        amount: 3
+  '30':
+    Time: 1459847484233
+    Exp: 80
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310436.45899955806
+      y: 71.0
+      z: -625906.1677453434
+      pitch: 13.307667
+      yaw: -139.5193
+    Items:
+      '0':
+        type: RAW_FISH
+        damage: 1
+        amount: 2
+      '1':
+        type: COOKED_BEEF
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Beef Jerky
+          lore:
+          - ''
+          - §a§oSaturating
+      '2':
+        type: RAW_FISH
+        amount: 6
+      '3':
+        type: DIAMOND
+        amount: 19
+      '4':
+        type: FISHING_ROD
+        damage: 16
+      '5':
+        type: EMERALD
+      '6':
+        type: COOKED_BEEF
+        amount: 3
+      '7':
+        type: GOLD_INGOT
+        amount: 25
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 16
+      '9':
+        type: COAL
+        amount: 16
+      '10':
+        type: INK_SACK
+        damage: 15
+        amount: 16
+      '11':
+        type: STONE
+        amount: 16
+      '12':
+        type: STONE
+        damage: 2
+        amount: 16
+      '13':
+        type: STONE
+        damage: 3
+        amount: 12
+      '14':
+        type: STONE
+        damage: 5
+        amount: 16
+      '15':
+        type: STONE
+        damage: 6
+        amount: 16
+      '18':
+        type: COBBLESTONE
+        amount: 16
+      '19':
+        type: CACTUS
+        amount: 16
+      '20':
+        type: WOOL
+        damage: 9
+        amount: 16
+      '21':
+        type: WOOL
+        damage: 11
+        amount: 16
+      '22':
+        type: WOOL
+        damage: 12
+        amount: 16
+      '23':
+        type: WOOL
+        damage: 13
+        amount: 16
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eQuest Book §7(Right Click)
+          lore:
+          - ''
+          - §rYour basic Guide for Quests
+          - §rIn case you lose it, simply place a
+          - §rWorkbench into your Crafting Grid
+      '27':
+        type: WOOD_AXE
+        damage: 4
+      '28':
+        type: SEEDS
+      '29':
+        type: REDSTONE_BLOCK
+      '30':
+        type: BUCKET
+      '31':
+        type: CHEST
+      '32':
+        type: BREAD
+        amount: 4
+      '33':
+        type: DOUBLE_PLANT
+        damage: 4
+      '34':
+        type: IRON_INGOT
+        amount: 25
+      '35':
+        type: IRON_ORE
+        amount: 3
+  '31':
+    Time: 1460146820449
+    Exp: 80
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310436.45899955806
+      y: 71.0
+      z: -625906.1677453434
+      pitch: 13.307667
+      yaw: -139.5193
+    Items:
+      '0':
+        type: RAW_FISH
+        damage: 1
+        amount: 2
+      '1':
+        type: COOKED_BEEF
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Beef Jerky
+          lore:
+          - ''
+          - §a§oSaturating
+      '2':
+        type: RAW_FISH
+        amount: 6
+      '3':
+        type: DIAMOND
+        amount: 19
+      '4':
+        type: FISHING_ROD
+        damage: 16
+      '5':
+        type: EMERALD
+      '6':
+        type: COOKED_BEEF
+        amount: 3
+      '7':
+        type: GOLD_INGOT
+        amount: 25
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 16
+      '9':
+        type: COAL
+        amount: 16
+      '10':
+        type: INK_SACK
+        damage: 15
+        amount: 16
+      '11':
+        type: STONE
+        amount: 16
+      '12':
+        type: STONE
+        damage: 2
+        amount: 16
+      '13':
+        type: STONE
+        damage: 3
+        amount: 12
+      '14':
+        type: STONE
+        damage: 5
+        amount: 16
+      '15':
+        type: STONE
+        damage: 6
+        amount: 16
+      '18':
+        type: COBBLESTONE
+        amount: 16
+      '19':
+        type: CACTUS
+        amount: 16
+      '20':
+        type: WOOL
+        damage: 9
+        amount: 16
+      '21':
+        type: WOOL
+        damage: 11
+        amount: 16
+      '22':
+        type: WOOL
+        damage: 12
+        amount: 16
+      '23':
+        type: WOOL
+        damage: 13
+        amount: 16
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eQuest Book §7(Right Click)
+          lore:
+          - ''
+          - §rYour basic Guide for Quests
+          - §rIn case you lose it, simply place a
+          - §rWorkbench into your Crafting Grid
+      '27':
+        type: WOOD_AXE
+        damage: 4
+      '28':
+        type: SEEDS
+      '29':
+        type: REDSTONE_BLOCK
+      '30':
+        type: BUCKET
+      '31':
+        type: CHEST
+      '32':
+        type: BREAD
+        amount: 4
+      '33':
+        type: DOUBLE_PLANT
+        damage: 4
+      '34':
+        type: IRON_INGOT
+        amount: 25
+      '35':
+        type: IRON_ORE
+        amount: 3
+  '32':
+    Time: 1460883167141
+    Exp: 80
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310436.45899955806
+      y: 71.0
+      z: -625906.1677453434
+      pitch: 13.307667
+      yaw: -139.5193
+    Items:
+      '0':
+        type: RAW_FISH
+        damage: 1
+        amount: 2
+      '1':
+        type: COOKED_BEEF
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Beef Jerky
+          lore:
+          - ''
+          - §a§oSaturating
+      '2':
+        type: RAW_FISH
+        amount: 6
+      '3':
+        type: DIAMOND
+        amount: 19
+      '4':
+        type: FISHING_ROD
+        damage: 16
+      '5':
+        type: EMERALD
+      '6':
+        type: COOKED_BEEF
+        amount: 3
+      '7':
+        type: GOLD_INGOT
+        amount: 25
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 16
+      '9':
+        type: COAL
+        amount: 16
+      '10':
+        type: INK_SACK
+        damage: 15
+        amount: 16
+      '11':
+        type: STONE
+        amount: 16
+      '12':
+        type: STONE
+        damage: 2
+        amount: 16
+      '13':
+        type: STONE
+        damage: 3
+        amount: 12
+      '14':
+        type: STONE
+        damage: 5
+        amount: 16
+      '15':
+        type: STONE
+        damage: 6
+        amount: 16
+      '18':
+        type: COBBLESTONE
+        amount: 16
+      '19':
+        type: CACTUS
+        amount: 16
+      '20':
+        type: WOOL
+        damage: 9
+        amount: 16
+      '21':
+        type: WOOL
+        damage: 11
+        amount: 16
+      '22':
+        type: WOOL
+        damage: 12
+        amount: 16
+      '23':
+        type: WOOL
+        damage: 13
+        amount: 16
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eQuest Book §7(Right Click)
+          lore:
+          - ''
+          - §rYour basic Guide for Quests
+          - §rIn case you lose it, simply place a
+          - §rWorkbench into your Crafting Grid
+      '27':
+        type: WOOD_AXE
+        damage: 4
+      '28':
+        type: SEEDS
+      '29':
+        type: REDSTONE_BLOCK
+      '30':
+        type: BUCKET
+      '31':
+        type: CHEST
+      '32':
+        type: BREAD
+        amount: 4
+      '33':
+        type: DOUBLE_PLANT
+        damage: 4
+      '34':
+        type: IRON_INGOT
+        amount: 25
+      '35':
+        type: IRON_ORE
+        amount: 3
+  '33':
+    Time: 1462120691812
+    Exp: 80
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310436.45899955806
+      y: 71.0
+      z: -625906.1677453434
+      pitch: 13.307667
+      yaw: -139.5193
+    Items:
+      '0':
+        type: RAW_FISH
+        damage: 1
+        amount: 2
+      '1':
+        type: COOKED_BEEF
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Beef Jerky
+          lore:
+          - ''
+          - §a§oSaturating
+      '2':
+        type: RAW_FISH
+        amount: 6
+      '3':
+        type: DIAMOND
+        amount: 19
+      '4':
+        type: FISHING_ROD
+        damage: 16
+      '5':
+        type: EMERALD
+      '6':
+        type: COOKED_BEEF
+        amount: 3
+      '7':
+        type: GOLD_INGOT
+        amount: 25
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 16
+      '9':
+        type: COAL
+        amount: 16
+      '10':
+        type: INK_SACK
+        damage: 15
+        amount: 16
+      '11':
+        type: STONE
+        amount: 16
+      '12':
+        type: STONE
+        damage: 2
+        amount: 16
+      '13':
+        type: STONE
+        damage: 3
+        amount: 12
+      '14':
+        type: STONE
+        damage: 5
+        amount: 16
+      '15':
+        type: STONE
+        damage: 6
+        amount: 16
+      '18':
+        type: COBBLESTONE
+        amount: 16
+      '19':
+        type: CACTUS
+        amount: 16
+      '20':
+        type: WOOL
+        damage: 9
+        amount: 16
+      '21':
+        type: WOOL
+        damage: 11
+        amount: 16
+      '22':
+        type: WOOL
+        damage: 12
+        amount: 16
+      '23':
+        type: WOOL
+        damage: 13
+        amount: 16
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eQuest Book §7(Right Click)
+          lore:
+          - ''
+          - §rYour basic Guide for Quests
+          - §rIn case you lose it, simply place a
+          - §rWorkbench into your Crafting Grid
+      '27':
+        type: WOOD_AXE
+        damage: 4
+      '28':
+        type: SEEDS
+      '29':
+        type: REDSTONE_BLOCK
+      '30':
+        type: BUCKET
+      '31':
+        type: CHEST
+      '32':
+        type: BREAD
+        amount: 4
+      '33':
+        type: DOUBLE_PLANT
+        damage: 4
+      '34':
+        type: IRON_INGOT
+        amount: 25
+      '35':
+        type: IRON_ORE
+        amount: 3
+  '34':
+    Time: 1462483214829
+    Exp: 80
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310436.45899955806
+      y: 71.0
+      z: -625906.1677453434
+      pitch: 13.307667
+      yaw: -139.5193
+    Items:
+      '0':
+        type: RAW_FISH
+        damage: 1
+        amount: 2
+      '1':
+        type: COOKED_BEEF
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Beef Jerky
+          lore:
+          - ''
+          - §a§oSaturating
+      '2':
+        type: RAW_FISH
+        amount: 6
+      '3':
+        type: DIAMOND
+        amount: 19
+      '4':
+        type: FISHING_ROD
+        damage: 16
+      '5':
+        type: EMERALD
+      '6':
+        type: COOKED_BEEF
+        amount: 3
+      '7':
+        type: GOLD_INGOT
+        amount: 25
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 16
+      '9':
+        type: COAL
+        amount: 16
+      '10':
+        type: INK_SACK
+        damage: 15
+        amount: 16
+      '11':
+        type: STONE
+        amount: 16
+      '12':
+        type: STONE
+        damage: 2
+        amount: 16
+      '13':
+        type: STONE
+        damage: 3
+        amount: 12
+      '14':
+        type: STONE
+        damage: 5
+        amount: 16
+      '15':
+        type: STONE
+        damage: 6
+        amount: 16
+      '18':
+        type: COBBLESTONE
+        amount: 16
+      '19':
+        type: CACTUS
+        amount: 16
+      '20':
+        type: WOOL
+        damage: 9
+        amount: 16
+      '21':
+        type: WOOL
+        damage: 11
+        amount: 16
+      '22':
+        type: WOOL
+        damage: 12
+        amount: 16
+      '23':
+        type: WOOL
+        damage: 13
+        amount: 16
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eQuest Book §7(Right Click)
+          lore:
+          - ''
+          - §rYour basic Guide for Quests
+          - §rIn case you lose it, simply place a
+          - §rWorkbench into your Crafting Grid
+      '27':
+        type: WOOD_AXE
+        damage: 4
+      '28':
+        type: SEEDS
+      '29':
+        type: REDSTONE_BLOCK
+      '30':
+        type: BUCKET
+      '31':
+        type: CHEST
+      '32':
+        type: BREAD
+        amount: 4
+      '33':
+        type: DOUBLE_PLANT
+        damage: 4
+      '34':
+        type: IRON_INGOT
+        amount: 25
+      '35':
+        type: IRON_ORE
+        amount: 3

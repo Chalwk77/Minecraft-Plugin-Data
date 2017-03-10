@@ -1,0 +1,12 @@
+WitherSkeleton_Warriors:
+  Type: WITHER_SKELETON
+  Display: '&5Skeleton Warrior'
+  Health: 10
+  Damage: 10
+  Equipment:
+  - ChainMailHelmet:4
+  Drops:
+  - money 350
+  - exp 1-25 1
+  Options:
+    MovementSpeed: 0.1

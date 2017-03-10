@@ -1,0 +1,33 @@
+lastlocation:
+  world: world
+  x: -501.13046732347897
+  y: 9.0
+  z: 780.8093582560851
+  yaw: -325.04105
+  pitch: 89.399994
+geolocation: Nelson Bay, New South Wales, Australia
+lastAccountName: gusto9918
+timestamps:
+  login: 1471773134220
+  logout: 1471773497553
+  lastteleport: 1471773421519
+  kits:
+    color: 1471768458755
+    food: 1471771259809
+ipAddress: 101.161.161.231
+money: '-1592.1639999999999985'
+homes:
+  home:
+    world: world
+    x: -476.41550208440435
+    y: 77.0
+    z: 823.6949045368585
+    yaw: -171.29108
+    pitch: 14.250024
+logoutlocation:
+  world: world
+  x: -472.92500001192093
+  y: 71.0
+  z: 799.5029766984615
+  yaw: -94.19092
+  pitch: 15.450023

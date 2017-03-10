@@ -1,0 +1,34 @@
+lastlocation:
+  world: world
+  x: -1618.245996415615
+  y: 83.0
+  z: -988.6999999880791
+  yaw: -43.046646
+  pitch: 22.616318
+geolocation: Australia
+lastAccountName: Dnomderyaj
+timestamps:
+  login: 1480822148027
+  lastteleport: 1478829059008
+  kits:
+    tools: 1476593118719
+    food: 1476797459242
+  logout: 1480822360929
+ipAddress: 124.177.221.23
+money: '662352.29759999999993922'
+logoutlocation:
+  world: world
+  x: 16369.70261349341
+  y: 109.0
+  z: -8856.00655788493
+  yaw: 189.32758
+  pitch: 30.41196
+afk: false
+homes:
+  home:
+    world: world
+    x: 16385.290808517122
+    y: 64.0
+    z: -8792.683631226228
+    yaw: -58.766296
+    pitch: 32.19874

@@ -1,0 +1,356 @@
+Inventories:
+  '1':
+    Time: 1479523561086
+    DeathReasson: Fall
+    Exp: 363426
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 13
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 65320
+        Amplifier: 1
+    Location:
+      world: world
+      x: -29376.857315026627
+      y: 67.0
+      z: 15829.681122999968
+      pitch: 14.100049
+      yaw: 284.5523
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: LEATHER
+      '2':
+        type: SEEDS
+        amount: 2
+      '7':
+        type: WOOD_SPADE
+        damage: 8
+      '8':
+        type: WOOD_AXE
+      '9':
+        type: STICK
+      '10':
+        type: STICK
+      '11':
+        type: WORKBENCH
+      '12':
+        type: WOOD
+        amount: 11
+      '15':
+        type: STICK
+      '16':
+        type: STICK
+      '17':
+        type: STICK
+      '18':
+        type: STICK
+      '26':
+        type: STICK
+      '28':
+        type: STICK
+      '29':
+        type: STICK
+  '2':
+    Time: 1479523690230
+    Killer: §a§lZombie Warrior
+    DeathReasson: Entity attack
+    Exp: 363426
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -6867.104504138952
+      y: 63.49520087700592
+      z: 5995.748160832727
+      pitch: 25.04998
+      yaw: 288.90012
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: LEATHER
+      '2':
+        type: SEEDS
+        amount: 2
+      '7':
+        type: WOOD_SPADE
+        damage: 8
+      '8':
+        type: WOOD_AXE
+      '9':
+        type: STICK
+      '10':
+        type: STICK
+      '11':
+        type: WORKBENCH
+      '12':
+        type: WOOD
+        amount: 11
+      '15':
+        type: STICK
+      '16':
+        type: STICK
+      '17':
+        type: STICK
+      '18':
+        type: STICK
+      '26':
+        type: STICK
+      '28':
+        type: STICK
+      '29':
+        type: STICK
+  '3':
+    Time: 1479523783016
+    Killer: §a§lZombie Warrior
+    DeathReasson: Entity attack
+    Exp: 363641
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -6860.612790336175
+      y: 64.0625
+      z: 5997.0303857621875
+      pitch: 30.299942
+      yaw: 49.500103
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: LEATHER
+      '2':
+        type: SEEDS
+        amount: 2
+      '3':
+        type: DIRT
+      '4':
+        type: GOLD_NUGGET
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '5':
+        type: ROTTEN_FLESH
+        amount: 4
+      '6':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nStrength II
+          lore:
+          - §lRune of Strength II
+          - §a51% Success Rate and §c49% Destroy Rate.
+          - §6Chestplate Enchant
+          - §7Place the Rune on a chestplate to enchant.
+      '7':
+        type: WOOD_SPADE
+        damage: 8
+      '8':
+        type: WOOD_AXE
+        damage: 58
+      '9':
+        type: STICK
+      '10':
+        type: STICK
+      '11':
+        type: WORKBENCH
+      '12':
+        type: WOOD
+        amount: 11
+      '15':
+        type: STICK
+      '16':
+        type: STICK
+      '17':
+        type: STICK
+      '18':
+        type: STICK
+      '26':
+        type: STICK
+      '28':
+        type: STICK
+      '29':
+        type: STICK
+  '4':
+    Time: 1480636129419
+    DeathReasson: Drowning
+    Exp: 486840
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -15653.459711112826
+      y: 34.61999889552333
+      z: 16624.30000001192
+      pitch: 90.0
+      yaw: 149.94179
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §aTea Leaf
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JbkIg/LogujKQ5xsCCgzA5kDI8ZNQgN+FX9xLLs8uScowKo8LZveiG+2+u5ElyBZ1LAu45o2rppagY6qJnFydE+OFpabji2kxeLDDNDBXWabrztKn6fgdLxoetbflcB4EmB1yQTPYdfPnrIjiUWR0+cRmJPHO1R7Eh9W5BLMuYrYhM5+c3S3o7Ov9bqsoMlUsMr2SXoc5ng1ggF34T6ScY/NIoH36VmWgdzGhH0518VjQrJIjqnayZ8GY+sDhv6SB/M9ev0EFvsEOipTBq2Xg5UEtxFZTN9YucmFR0953zETwAFXvxMcpit9qtry7dVDvAHcA8phyoBAAA=
+          skull-owner: CSCoreLib
+      '1':
+        type: LEATHER
+      '2':
+        type: WORKBENCH
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 237
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 999
+            SILK_TOUCH: 1
+      '4':
+        type: GOLD_NUGGET
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '5':
+        type: ROTTEN_FLESH
+      '6':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nStrength II
+          lore:
+          - §lRune of Strength II
+          - §a51% Success Rate and §c49% Destroy Rate.
+          - §6Chestplate Enchant
+          - §7Place the Rune on a chestplate to enchant.
+      '7':
+        type: PAPER
+        amount: 6
+      '8':
+        type: SAND
+        amount: 6
+      '9':
+        type: STONE
+        amount: 11
+      '10':
+        type: STONE
+        damage: 1
+      '11':
+        type: ICE
+        amount: 36
+      '12':
+        type: WOOD
+        amount: 11
+      '13':
+        type: SAPLING
+      '14':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nAssassin III
+          lore:
+          - §lRune of Assassin III
+          - §a32% Success Rate and §c68% Destroy Rate.
+          - §6Sword Enchant
+          - §7Place the Rune on a sword to enchant.
+      '15':
+        type: STICK
+        amount: 9
+      '19':
+        type: WATER_LILY
+        amount: 3
+      '21':
+        type: SIGN
+      '24':
+        type: STONE_HOE
+        damage: 93
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7§kAnalize meh
+          lore:
+          - ''
+          - §7§oUnanalized
+      '25':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cSoul Jar §7(Cave Spider)
+          lore:
+          - ''
+          - '§7Infused Souls: §e128'
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJusuPHBsadYksRRFZbvwsFVjUIDTCU/URy7HHycyoACq8HZpByq/uWlZSKPBMC3i3rEwX9irXyoLoml4SQ7NLlGkktQgqkC3ylamCOk830fWVuC9A6cWjHzpxVwHgSYHXKJWDgF8xuiiJz6iIXZmP1Jw5PCDp0/pm0Us0Zg41aTv77Ye5G+1/rdGnJ0Ny4p6TSzBkbYR2ZC/Fdr/M2+MPb4MHn3LCcCS9kGM+BYTjtWR1o/PTEfM6x/5pf2ab48hrTpI6wP7n95KF3uRt1g3DbpNsAsLCdc1CaniYV2W8tAEUeGFpK2DhHJxrJ3ZVBvAHQcXUEyoBAAA=
+          skull-owner: CSCoreLib
+      '30':
+        type: DIRT
+        amount: 2
+      '32':
+        type: WOOL
+        amount: 2
+      '34':
+        type: WOOD_SPADE
+        damage: 8
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            FROST_WALKER: 1000
+      '37':
+        type: IRON_LEGGINGS
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Damascus Steel Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 4

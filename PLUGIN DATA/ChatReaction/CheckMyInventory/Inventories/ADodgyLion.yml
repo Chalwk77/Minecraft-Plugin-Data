@@ -1,0 +1,1511 @@
+Inventories:
+  '25':
+    Time: 1458455351414
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 475.03130292289256
+      y: 88.0
+      z: -201.70981191233935
+      pitch: 0.9666871
+      yaw: -19.70473
+    Items:
+      '0':
+        type: COBBLESTONE
+        amount: 64
+      '1':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '2':
+        type: STICK
+        amount: 2
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: IRON_ORE
+        amount: 64
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: DIRT
+        amount: 21
+      '8':
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        type: STRING
+        amount: 3
+      '10':
+        type: ROTTEN_FLESH
+        amount: 4
+      '11':
+        type: IRON_ORE
+        amount: 11
+      '12':
+        type: GRILLED_PORK
+        amount: 61
+      '13':
+        type: DIAMOND_PICKAXE
+        damage: 141
+      '14':
+        type: SAPLING
+        damage: 1
+        amount: 10
+      '15':
+        type: GRAVEL
+        amount: 4
+      '16':
+        type: NAME_TAG
+      '17':
+        type: BOW
+        damage: 359
+      '18':
+        type: WHEAT
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '21':
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '24':
+        type: WOOD
+        amount: 3
+      '25':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sweet Potato Plant
+      '26':
+        type: COOKED_CHICKEN
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '27':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '28':
+        type: SADDLE
+      '29':
+        type: FLINT
+        amount: 15
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: RABBIT
+      '32':
+        type: BONE
+        amount: 3
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: STONE
+        damage: 1
+        amount: 64
+      '35':
+        type: COBBLESTONE
+        amount: 64
+  '26':
+    Time: 1459465460337
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 475.03130292289256
+      y: 88.0
+      z: -201.70981191233935
+      pitch: 0.9666871
+      yaw: -19.70473
+    Items:
+      '0':
+        type: COBBLESTONE
+        amount: 64
+      '1':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '2':
+        type: STICK
+        amount: 2
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: IRON_ORE
+        amount: 64
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: DIRT
+        amount: 21
+      '8':
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        type: STRING
+        amount: 3
+      '10':
+        type: ROTTEN_FLESH
+        amount: 4
+      '11':
+        type: IRON_ORE
+        amount: 11
+      '12':
+        type: GRILLED_PORK
+        amount: 61
+      '13':
+        type: DIAMOND_PICKAXE
+        damage: 141
+      '14':
+        type: SAPLING
+        damage: 1
+        amount: 10
+      '15':
+        type: GRAVEL
+        amount: 4
+      '16':
+        type: NAME_TAG
+      '17':
+        type: BOW
+        damage: 359
+      '18':
+        type: WHEAT
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '21':
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '24':
+        type: WOOD
+        amount: 3
+      '25':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sweet Potato Plant
+      '26':
+        type: COOKED_CHICKEN
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '27':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '28':
+        type: SADDLE
+      '29':
+        type: FLINT
+        amount: 15
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: RABBIT
+      '32':
+        type: BONE
+        amount: 3
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: STONE
+        damage: 1
+        amount: 64
+      '35':
+        type: COBBLESTONE
+        amount: 64
+  '27':
+    Time: 1459469869503
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 475.03130292289256
+      y: 88.0
+      z: -201.70981191233935
+      pitch: 0.9666871
+      yaw: -19.70473
+    Items:
+      '0':
+        type: COBBLESTONE
+        amount: 64
+      '1':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '2':
+        type: STICK
+        amount: 2
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: IRON_ORE
+        amount: 64
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: DIRT
+        amount: 21
+      '8':
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        type: STRING
+        amount: 3
+      '10':
+        type: ROTTEN_FLESH
+        amount: 4
+      '11':
+        type: IRON_ORE
+        amount: 11
+      '12':
+        type: GRILLED_PORK
+        amount: 61
+      '13':
+        type: DIAMOND_PICKAXE
+        damage: 141
+      '14':
+        type: SAPLING
+        damage: 1
+        amount: 10
+      '15':
+        type: GRAVEL
+        amount: 4
+      '16':
+        type: NAME_TAG
+      '17':
+        type: BOW
+        damage: 359
+      '18':
+        type: WHEAT
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '21':
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '24':
+        type: WOOD
+        amount: 3
+      '25':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sweet Potato Plant
+      '26':
+        type: COOKED_CHICKEN
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '27':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '28':
+        type: SADDLE
+      '29':
+        type: FLINT
+        amount: 15
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: RABBIT
+      '32':
+        type: BONE
+        amount: 3
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: STONE
+        damage: 1
+        amount: 64
+      '35':
+        type: COBBLESTONE
+        amount: 64
+  '28':
+    Time: 1459659258533
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 475.03130292289256
+      y: 88.0
+      z: -201.70981191233935
+      pitch: 0.9666871
+      yaw: -19.70473
+    Items:
+      '0':
+        type: COBBLESTONE
+        amount: 64
+      '1':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '2':
+        type: STICK
+        amount: 2
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: IRON_ORE
+        amount: 64
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: DIRT
+        amount: 21
+      '8':
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        type: STRING
+        amount: 3
+      '10':
+        type: ROTTEN_FLESH
+        amount: 4
+      '11':
+        type: IRON_ORE
+        amount: 11
+      '12':
+        type: GRILLED_PORK
+        amount: 61
+      '13':
+        type: DIAMOND_PICKAXE
+        damage: 141
+      '14':
+        type: SAPLING
+        damage: 1
+        amount: 10
+      '15':
+        type: GRAVEL
+        amount: 4
+      '16':
+        type: NAME_TAG
+      '17':
+        type: BOW
+        damage: 359
+      '18':
+        type: WHEAT
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '21':
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '24':
+        type: WOOD
+        amount: 3
+      '25':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sweet Potato Plant
+      '26':
+        type: COOKED_CHICKEN
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '27':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '28':
+        type: SADDLE
+      '29':
+        type: FLINT
+        amount: 15
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: RABBIT
+      '32':
+        type: BONE
+        amount: 3
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: STONE
+        damage: 1
+        amount: 64
+      '35':
+        type: COBBLESTONE
+        amount: 64
+  '29':
+    Time: 1459766731775
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 475.03130292289256
+      y: 88.0
+      z: -201.70981191233935
+      pitch: 0.9666871
+      yaw: -19.70473
+    Items:
+      '0':
+        type: COBBLESTONE
+        amount: 64
+      '1':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '2':
+        type: STICK
+        amount: 2
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: IRON_ORE
+        amount: 64
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: DIRT
+        amount: 21
+      '8':
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        type: STRING
+        amount: 3
+      '10':
+        type: ROTTEN_FLESH
+        amount: 4
+      '11':
+        type: IRON_ORE
+        amount: 11
+      '12':
+        type: GRILLED_PORK
+        amount: 61
+      '13':
+        type: DIAMOND_PICKAXE
+        damage: 141
+      '14':
+        type: SAPLING
+        damage: 1
+        amount: 10
+      '15':
+        type: GRAVEL
+        amount: 4
+      '16':
+        type: NAME_TAG
+      '17':
+        type: BOW
+        damage: 359
+      '18':
+        type: WHEAT
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '21':
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '24':
+        type: WOOD
+        amount: 3
+      '25':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sweet Potato Plant
+      '26':
+        type: COOKED_CHICKEN
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '27':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '28':
+        type: SADDLE
+      '29':
+        type: FLINT
+        amount: 15
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: RABBIT
+      '32':
+        type: BONE
+        amount: 3
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: STONE
+        damage: 1
+        amount: 64
+      '35':
+        type: COBBLESTONE
+        amount: 64
+  '30':
+    Time: 1459847483118
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 475.03130292289256
+      y: 88.0
+      z: -201.70981191233935
+      pitch: 0.9666871
+      yaw: -19.70473
+    Items:
+      '0':
+        type: COBBLESTONE
+        amount: 64
+      '1':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '2':
+        type: STICK
+        amount: 2
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: IRON_ORE
+        amount: 64
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: DIRT
+        amount: 21
+      '8':
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        type: STRING
+        amount: 3
+      '10':
+        type: ROTTEN_FLESH
+        amount: 4
+      '11':
+        type: IRON_ORE
+        amount: 11
+      '12':
+        type: GRILLED_PORK
+        amount: 61
+      '13':
+        type: DIAMOND_PICKAXE
+        damage: 141
+      '14':
+        type: SAPLING
+        damage: 1
+        amount: 10
+      '15':
+        type: GRAVEL
+        amount: 4
+      '16':
+        type: NAME_TAG
+      '17':
+        type: BOW
+        damage: 359
+      '18':
+        type: WHEAT
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '21':
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '24':
+        type: WOOD
+        amount: 3
+      '25':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sweet Potato Plant
+      '26':
+        type: COOKED_CHICKEN
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '27':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '28':
+        type: SADDLE
+      '29':
+        type: FLINT
+        amount: 15
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: RABBIT
+      '32':
+        type: BONE
+        amount: 3
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: STONE
+        damage: 1
+        amount: 64
+      '35':
+        type: COBBLESTONE
+        amount: 64
+  '31':
+    Time: 1460146819722
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 475.03130292289256
+      y: 88.0
+      z: -201.70981191233935
+      pitch: 0.9666871
+      yaw: -19.70473
+    Items:
+      '0':
+        type: COBBLESTONE
+        amount: 64
+      '1':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '2':
+        type: STICK
+        amount: 2
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: IRON_ORE
+        amount: 64
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: DIRT
+        amount: 21
+      '8':
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        type: STRING
+        amount: 3
+      '10':
+        type: ROTTEN_FLESH
+        amount: 4
+      '11':
+        type: IRON_ORE
+        amount: 11
+      '12':
+        type: GRILLED_PORK
+        amount: 61
+      '13':
+        type: DIAMOND_PICKAXE
+        damage: 141
+      '14':
+        type: SAPLING
+        damage: 1
+        amount: 10
+      '15':
+        type: GRAVEL
+        amount: 4
+      '16':
+        type: NAME_TAG
+      '17':
+        type: BOW
+        damage: 359
+      '18':
+        type: WHEAT
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '21':
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '24':
+        type: WOOD
+        amount: 3
+      '25':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sweet Potato Plant
+      '26':
+        type: COOKED_CHICKEN
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '27':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '28':
+        type: SADDLE
+      '29':
+        type: FLINT
+        amount: 15
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: RABBIT
+      '32':
+        type: BONE
+        amount: 3
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: STONE
+        damage: 1
+        amount: 64
+      '35':
+        type: COBBLESTONE
+        amount: 64
+  '32':
+    Time: 1460883166208
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 475.03130292289256
+      y: 88.0
+      z: -201.70981191233935
+      pitch: 0.9666871
+      yaw: -19.70473
+    Items:
+      '0':
+        type: COBBLESTONE
+        amount: 64
+      '1':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '2':
+        type: STICK
+        amount: 2
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: IRON_ORE
+        amount: 64
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: DIRT
+        amount: 21
+      '8':
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        type: STRING
+        amount: 3
+      '10':
+        type: ROTTEN_FLESH
+        amount: 4
+      '11':
+        type: IRON_ORE
+        amount: 11
+      '12':
+        type: GRILLED_PORK
+        amount: 61
+      '13':
+        type: DIAMOND_PICKAXE
+        damage: 141
+      '14':
+        type: SAPLING
+        damage: 1
+        amount: 10
+      '15':
+        type: GRAVEL
+        amount: 4
+      '16':
+        type: NAME_TAG
+      '17':
+        type: BOW
+        damage: 359
+      '18':
+        type: WHEAT
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '21':
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '24':
+        type: WOOD
+        amount: 3
+      '25':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sweet Potato Plant
+      '26':
+        type: COOKED_CHICKEN
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '27':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '28':
+        type: SADDLE
+      '29':
+        type: FLINT
+        amount: 15
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: RABBIT
+      '32':
+        type: BONE
+        amount: 3
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: STONE
+        damage: 1
+        amount: 64
+      '35':
+        type: COBBLESTONE
+        amount: 64
+  '33':
+    Time: 1462120690786
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 475.03130292289256
+      y: 88.0
+      z: -201.70981191233935
+      pitch: 0.9666871
+      yaw: -19.70473
+    Items:
+      '0':
+        type: COBBLESTONE
+        amount: 64
+      '1':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '2':
+        type: STICK
+        amount: 2
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: IRON_ORE
+        amount: 64
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: DIRT
+        amount: 21
+      '8':
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        type: STRING
+        amount: 3
+      '10':
+        type: ROTTEN_FLESH
+        amount: 4
+      '11':
+        type: IRON_ORE
+        amount: 11
+      '12':
+        type: GRILLED_PORK
+        amount: 61
+      '13':
+        type: DIAMOND_PICKAXE
+        damage: 141
+      '14':
+        type: SAPLING
+        damage: 1
+        amount: 10
+      '15':
+        type: GRAVEL
+        amount: 4
+      '16':
+        type: NAME_TAG
+      '17':
+        type: BOW
+        damage: 359
+      '18':
+        type: WHEAT
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '21':
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '24':
+        type: WOOD
+        amount: 3
+      '25':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sweet Potato Plant
+      '26':
+        type: COOKED_CHICKEN
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '27':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '28':
+        type: SADDLE
+      '29':
+        type: FLINT
+        amount: 15
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: RABBIT
+      '32':
+        type: BONE
+        amount: 3
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: STONE
+        damage: 1
+        amount: 64
+      '35':
+        type: COBBLESTONE
+        amount: 64
+  '34':
+    Time: 1462483213706
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 475.03130292289256
+      y: 88.0
+      z: -201.70981191233935
+      pitch: 0.9666871
+      yaw: -19.70473
+    Items:
+      '0':
+        type: COBBLESTONE
+        amount: 64
+      '1':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '2':
+        type: STICK
+        amount: 2
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: IRON_ORE
+        amount: 64
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: DIRT
+        amount: 21
+      '8':
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        type: STRING
+        amount: 3
+      '10':
+        type: ROTTEN_FLESH
+        amount: 4
+      '11':
+        type: IRON_ORE
+        amount: 11
+      '12':
+        type: GRILLED_PORK
+        amount: 61
+      '13':
+        type: DIAMOND_PICKAXE
+        damage: 141
+      '14':
+        type: SAPLING
+        damage: 1
+        amount: 10
+      '15':
+        type: GRAVEL
+        amount: 4
+      '16':
+        type: NAME_TAG
+      '17':
+        type: BOW
+        damage: 359
+      '18':
+        type: WHEAT
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '21':
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '24':
+        type: WOOD
+        amount: 3
+      '25':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sweet Potato Plant
+      '26':
+        type: COOKED_CHICKEN
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '27':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '28':
+        type: SADDLE
+      '29':
+        type: FLINT
+        amount: 15
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: RABBIT
+      '32':
+        type: BONE
+        amount: 3
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: STONE
+        damage: 1
+        amount: 64
+      '35':
+        type: COBBLESTONE
+        amount: 64

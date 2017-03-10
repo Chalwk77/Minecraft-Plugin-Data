@@ -1,0 +1,18 @@
+Name: EndShadow
+TeleportLocation:
+  X: 443.45503980760776
+  Pitch: 2.5457337
+  Y: 88.0
+  Z: -199.97119460625495
+  World: world
+  Yaw: -171.7945
+Charges:
+  Amount: 0
+  LastGot: 1481958552893
+LogOutLocation:
+  X: 49.96130363565504
+  Pitch: 43.80002
+  Y: 38.0
+  Z: 48.10216555079314
+  World: world_nether
+  Yaw: -48.29779

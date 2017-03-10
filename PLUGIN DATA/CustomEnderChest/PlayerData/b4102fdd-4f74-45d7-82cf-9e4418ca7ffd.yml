@@ -1,0 +1,295 @@
+PlayerLastName: GlassAngel
+EnderChestSize: 54
+EnderChestInventory:
+  '53':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §5Ender Chest Pet
+      lore:
+      - §aUtility (Peaceful)
+      - '§7Favourite Food: Ender Pearls'
+      - ''
+      - '§rRight-Click: §7Open'
+      internal: H4sIAAAAAAAAAE2LzW6CQBhFvzZtgqSP0S3J8DNYFy4aSOoQwSqgDrsBZiowowbBQp+qj1iWXZ577tEBdHiJm17Kz/YiKsk1eCQlvDpmaQvG5gayRG44QmDjTTjYKOYMlcixEHeRDvoUXXnbVfw2A63jQ9e3/KYDwIMGz3smew6/fAxQdjyh8hjIYiTuxEmM5IbU1zk578fcIy5Rk1+9u+tx8e+LO3bAktrBKTtv+1zt0dreSb7amYVK7zTJavqzdSIVjlSlA7UIzj6mrQ5klERN5stTaKWYJl9OaAWKHnZVWJeTb8xI0WHjN1bm0+9QERT61CZncyG2yyWABk8RUxxmXuxdWr6ucoA/i4d3SSoBAAA=
+      skull-owner: CSCoreLib
+  '52':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §bWalshrus Pet
+      lore:
+      - §9Special
+      - '§7Favourite Food: Raw Fish'
+      - ''
+      - §rCannot drown
+      internal: H4sIAAAAAAAAAE2LzU6DQBgAP40mlPgYXkkW6IIcDRgL6S62pdDdGz9LCuy2DQUrfSofUY4eJzOjA+jwsutGKb/6c91IocFjWMGrbRWuu1wioy7t2lh6Njby0kFGiR3kuqJwnfpNB32eLqIfGnFdgDaIn2HsxVUHgAcNntNcjgJ+xRQhfjii6hDJcgqdmZMdknHYXtzwlE6FHzqhmv3q3VlP3r8WD3mGJbOjIz9txkKlaG1vpVhtzVLtv9m9s6hiN55FHb1XimRRywNmUsWPRG1bYqWKBORGrP1E1YfFEtrxZIPjT3KPkw7zgGA+dyyjLc2YybJNUx9MD0CDJ5orAQt/5597sW4KgD/HDfzWKgEAAA==
+      skull-owner: CSCoreLib
+  '45':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Scuba mask
+      enchants:
+        OXYGEN: 3
+        WATER_WORKER: 1
+      repair-cost: 3
+  '46':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Flippers
+      enchants:
+        DEPTH_STRIDER: 3
+        PROTECTION_FALL: 4
+      repair-cost: 7
+  '44':
+    ==: org.bukkit.inventory.ItemStack
+    type: FLINT_AND_STEEL
+    damage: 4
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        PROTECTION_FIRE: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eExplosive Pickaxe
+      lore:
+      - ''
+      - §rAllows you to mine a good bit
+      - §rof Blocks at once...
+      - ''
+      - §9Works with Fortune
+  '28':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eExplosive Pickaxe
+      lore:
+      - ''
+      - §rAllows you to mine a good bit
+      - §rof Blocks at once...
+      - ''
+      - §9Works with Fortune
+      enchants:
+        DIG_SPEED: 4
+        DURABILITY: 3
+        LOOT_BONUS_BLOCKS: 3
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eSmall Backpack
+      lore:
+      - ''
+      - '§7Size: §e9'
+      - '§7ID: b4102fdd-4f74-45d7-82cf-9e4418ca7ffd#0'
+      - ''
+      - §7§eRight Click§7 to open
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+      skull-owner: CSCoreLib
+  '43':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rChicken Pet
+      lore:
+      - §2Farm Animal (Peaceful)
+      - '§7Favourite Food: Seeds'
+      - ''
+      - §rGives you Eggs over time...
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSgkLnwcOibNZIGYogvVGoEW3VIKj0d+0HjuOOL+89E8CEt/WxlfKnPu8qKQx4JiW8Y8dDNv7ILYfjwhqNBLa4I7glsMtdXIx2JSpNMPvpIuqmEtcBGI14NG0triYAPBnwmuSyFfArugVi2z0qtwtZdMTrOV4jGZLDBZNT0vEp8Yjq/fzTW3bjf63b5Kkrs+Fiz05Ry1WClsOVFPOVXajNLYgzHc4iJ0x9O4zlgaWJoprcqd5oqrN7oAkKv303S8kjSJmi8fHBVNS7fcVSH1Ed2NkhQFT5Q6a+ZDg7anKyx7toMgEw4IXmSsBgup6ea7GsOMAfe7oceC4BAAA=
+      skull-owner: CSCoreLib
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+  '29':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Lumber Axe
+      lore:
+      - §a§oCuts down the whole Tree...
+      enchants:
+        DIG_SPEED: 3
+  '37':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Chestplate
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        DURABILITY: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  '38':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    damage: 104
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 10
+        DAMAGE_UNDEAD: 10
+        DURABILITY: 10
+        DAMAGE_ARTHROPODS: 10
+        KNOCKBACK: 10
+        FIRE_ASPECT: 10
+        LOOT_BONUS_MOBS: 10
+  '30':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_AXE
+    damage: 10
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Axe
+      enchants:
+        DAMAGE_ALL: 10
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eSmall Backpack
+      lore:
+      - ''
+      - '§7Size: §e9'
+      - '§7ID: b4102fdd-4f74-45d7-82cf-9e4418ca7ffd#0'
+      - ''
+      - §7§eRight Click§7 to open
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+      skull-owner: CSCoreLib
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 27
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 4
+        DURABILITY: 3
+        LOOT_BONUS_BLOCKS: 3
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 79
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 4
+        DURABILITY: 3
+        LOOT_BONUS_BLOCKS: 3
+  '33':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    damage: 34
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 4
+        DURABILITY: 3
+        LOOT_BONUS_BLOCKS: 3
+  '31':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 1278
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 4
+        DURABILITY: 3
+  '51':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTMENT_TABLE
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 51
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 3
+        SILK_TOUCH: 1
+        DURABILITY: 3
+  '47':
+    ==: org.bukkit.inventory.ItemStack
+    type: SHEARS
+    damage: 16
+  '48':
+    ==: org.bukkit.inventory.ItemStack
+    type: TORCH
+    amount: 16
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aLight the way...
+      enchants:
+        DAMAGE_UNDEAD: 65535

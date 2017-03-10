@@ -1,0 +1,7 @@
+PlayerLastName: brotherband
+EnderChestSize: 18
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 10

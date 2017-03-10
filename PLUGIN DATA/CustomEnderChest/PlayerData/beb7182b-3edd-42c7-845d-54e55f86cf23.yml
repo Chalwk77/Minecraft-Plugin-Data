@@ -1,0 +1,397 @@
+PlayerLastName: BilboSwagginzz_
+EnderChestSize: 45
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    damage: 91
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - §6Slots 3
+      - §7Dodge V
+      - §7Demonic Aura V
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    damage: 90
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+    amount: 3
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3zshMzk7NY2AAAGifiu0fAAAA
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANzsnMTWVgAABiUWxHHQAAAA==
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWCLys9NykxlYAAAb93Yex4AAAA=
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB2zi9nYAAAtJxfHxsAAAA=
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwL00sSslMzGNgAACFWNpqIAAAAA==
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAOyExnYAAASo1SARsAAAA=
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMAfFTUotyM0tSGRgApa6DsSEAAAA=
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANzyxJzmBgAACRU5mTHQAAAA==
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeAIzk7NSS3Jz2NgAAA4/sUgIAAAAA==
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALLshMSS1iYAAAmJdvsh4AAAA=
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANzkhNLWBgAAABt1TGHQAAAA==
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANLiwFUgwAxMeU0x0AAAA=
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAJz89JY2AAAIves4gcAAAA
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD2LS3OKMrPz3XOL2dgAADFQ0VuIwAAAA==
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeByTixLDS7ITEktYmAAAAPjG5IiAAAA
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeAMyEyPys9NykxlYAAAHOM0OiEAAAA=
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB1z0gsLmFgAACDCT7SHQAAAA==
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeAIy8zJSUxPLWJgAADlEwUxIAAAAA==
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALSkxKyixhYAAAFcawFB4AAAA=
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeCG8D3yi4pTGRgA104FmCMAAAA=
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeANy8zJSUxPLXLPz0nNZWAAAPpsTrYlAAAA
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB1ykmsSmVgAAD/4nt7HQAAAA==
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeAKzswpSy1KyyzOYGAAAH2TOTgiAAAA
+  '28':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD0SSxLDM7JzE1lYAAAOFY+siEAAAA=
+  '29':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §k§1§kii§r§6Ultra§k§1§kii
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        PROTECTION_EXPLOSIONS: 1
+  '30':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §cStrange Night
+      custom-effects:
+      - ==: PotionEffect
+        effect: 21
+        duration: 1000
+        amplifier: 3
+        ambient: true
+        has-particles: true
+      - ==: PotionEffect
+        effect: 2
+        duration: 800
+        amplifier: 3
+        ambient: true
+        has-particles: true
+  '31':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §cLegendary Crime
+      custom-effects:
+      - ==: PotionEffect
+        effect: 23
+        duration: 800
+        amplifier: 4
+        ambient: true
+        has-particles: true
+      - ==: PotionEffect
+        effect: 26
+        duration: 1200
+        amplifier: 3
+        ambient: true
+        has-particles: true
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §cTravelling Intelligence
+      custom-effects:
+      - ==: PotionEffect
+        effect: 22
+        duration: 1200
+        amplifier: 3
+        ambient: true
+        has-particles: true
+  '33':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §bSharp Sun
+      custom-effects:
+      - ==: PotionEffect
+        effect: 14
+        duration: 400
+        amplifier: 3
+        ambient: true
+        has-particles: true
+  '34':
+    ==: org.bukkit.inventory.ItemStack
+    type: SAPLING
+    amount: 5
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Sweet Potato Plant
+  '35':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §cAwakened Dragon
+      custom-effects:
+      - ==: PotionEffect
+        effect: 4
+        duration: 800
+        amplifier: 4
+        ambient: true
+        has-particles: true
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rChicken Sandwich
+      lore:
+      - ''
+      - §7§oRestores §b§o5.5 §7§oHunger
+      internal: H4sIAAAAAAAAAE2Ly06DQBiFf40mlPgYbkmGS2lZGiB2SAekYMuw4zIIONM2FCrwVD6iLF2c5Dv5zpEBZHiJvgfOP7pL1XAmwSMu4dXIrE2l5ZZi5ExXDF1TFctQS2VbbgqzLFFWqVsZ5OV0ZV3fsNsKpJ6N/dCxmwwADxI8HzM+MPhlk4fSpEZl4vFiwubS4wjxALfXDT4fp9zGJhaL372Z+8n6t1332WnNqe7V6TkccnFEe/3A2e6gFuLzTmMXkdbVUsf98eeFna+JCo8TjSIS48X53Bd4DGI8k5aoRFCUOktaXlPNnYPYnamGkd+SMXgP5/QUNlWiWgASPPmZYLCyI/vSsX2TA/wBC+7veioBAAA=
+      skull-owner: CSCoreLib
+  '37':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §7Tome of Analizing
+      lore:
+      - ''
+      - §eRight Click §7to analize Items
+  '38':
+    ==: org.bukkit.inventory.ItemStack
+    type: CHAINMAIL_HELMET
+    damage: 69
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §7§kAnalize meh
+      lore:
+      - ''
+      - §7§oUnanalized
+  '39':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §aHelpful Sun
+      stored-enchants:
+        DIG_SPEED: 2
+        PROTECTION_FALL: 2
+        KNOCKBACK: 7
+  '40':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    amount: 3
+  '41':
+    ==: org.bukkit.inventory.ItemStack
+    type: QUARTZ
+    amount: 3
+  '42':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    damage: 162
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §cPrecious Night
+      enchants:
+        DAMAGE_UNDEAD: 5
+        OXYGEN: 5
+        LOOT_BONUS_MOBS: 3
+        LURE: 4
+  '43':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nSuperman Punch II
+      lore:
+      - §lRune of Superman Punch II
+      - §a3% Success Rate and §c97% Destroy Rate.
+      - §6Armour Enchant
+      - §7Place the Rune on armour to enchant.
+  '44':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 11

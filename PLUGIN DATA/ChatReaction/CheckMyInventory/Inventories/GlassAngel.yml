@@ -1,0 +1,849 @@
+Inventories:
+  '32':
+    Time: 1459766736669
+    Exp: 981359
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9544517
+        Amplifier: 1
+      '2':
+        Name: SPEED
+        Duration: 148
+        Amplifier: 0
+    Location:
+      world: world
+      x: 3925.332329879716
+      y: 88.0625
+      z: 3292.991067343698
+      pitch: 26.099787
+      yaw: 209.96124
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 1299
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 4
+            FIRE_ASPECT: 2
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_SPADE
+        damage: 188
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 1265
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 1278
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '36':
+        type: GOLD_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+  '33':
+    Time: 1459847487609
+    Exp: 981359
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9544517
+        Amplifier: 1
+      '2':
+        Name: SPEED
+        Duration: 148
+        Amplifier: 0
+    Location:
+      world: world
+      x: 3925.332329879716
+      y: 88.0625
+      z: 3292.991067343698
+      pitch: 26.099787
+      yaw: 209.96124
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 1299
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 4
+            FIRE_ASPECT: 2
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_SPADE
+        damage: 188
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 1265
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 1278
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '36':
+        type: GOLD_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+  '34':
+    Time: 1460146823251
+    Exp: 981359
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9544517
+        Amplifier: 1
+      '2':
+        Name: SPEED
+        Duration: 148
+        Amplifier: 0
+    Location:
+      world: world
+      x: 3925.332329879716
+      y: 88.0625
+      z: 3292.991067343698
+      pitch: 26.099787
+      yaw: 209.96124
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 1299
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 4
+            FIRE_ASPECT: 2
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_SPADE
+        damage: 188
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 1265
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 1278
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '36':
+        type: GOLD_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+  '35':
+    Time: 1460883170225
+    Exp: 981359
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9544477
+        Amplifier: 1
+      '2':
+        Name: SPEED
+        Duration: 108
+        Amplifier: 0
+    Location:
+      world: world
+      x: 3925.332329879716
+      y: 88.0625
+      z: 3292.991067343698
+      pitch: 26.099787
+      yaw: 209.96124
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 1299
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 4
+            FIRE_ASPECT: 2
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_SPADE
+        damage: 188
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 1265
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 1278
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '36':
+        type: GOLD_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+  '36':
+    Time: 1461470263786
+    Exp: 982970
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9520277
+        Amplifier: 1
+    Location:
+      world: world
+      x: -703985.4787301875
+      y: 72.0
+      z: 445980.4251921484
+      pitch: 25.957493
+      yaw: 154.09538
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+      '2':
+        type: LOG
+        amount: 5
+      '9':
+        type: SUGAR_CANE
+        amount: 14
+      '10':
+        type: STICK
+        amount: 3
+      '36':
+        type: GOLD_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+  '37':
+    Time: 1461470682871
+    Exp: 983019
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703870.209639557
+      y: 77.0
+      z: 446395.5623603906
+      pitch: 14.952309
+      yaw: 205.46448
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 7
+      '8':
+        type: ARROW
+        amount: 20
+      '9':
+        type: GOLD_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+      '10':
+        type: STICK
+        amount: 3
+      '11':
+        type: LOG
+        amount: 5
+      '22':
+        type: DIAMOND_SWORD
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+  '38':
+    Time: 1461470804652
+    Exp: 983033
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703871.0483576996
+      y: 77.0
+      z: 446392.8455206488
+      pitch: 13.350953
+      yaw: 216.21631
+    Items:
+      '0':
+        type: GOLD_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+      '1':
+        type: STICK
+        amount: 3
+      '2':
+        type: LOG
+        amount: 5
+      '3':
+        type: DIAMOND_SWORD
+        damage: 14
+      '4':
+        type: BONE
+        amount: 64
+      '5':
+        type: BOW
+        damage: 167
+      '6':
+        type: STONE
+        damage: 5
+        amount: 11
+      '7':
+        type: SLIME_BALL
+        amount: 35
+      '8':
+        type: BAKED_POTATO
+        amount: 3
+      '9':
+        type: RABBIT_STEW
+      '10':
+        type: MELON
+        amount: 3
+      '11':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '12':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '13':
+        type: TORCH
+      '14':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '15':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '16':
+        type: INK_SACK
+        damage: 4
+        amount: 10
+      '17':
+        type: SPIDER_EYE
+        amount: 11
+      '18':
+        type: COBBLESTONE
+        amount: 32
+      '19':
+        type: BONE
+        amount: 38
+      '20':
+        type: COAL
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Carbon
+      '23':
+        type: ARROW
+        amount: 64
+      '24':
+        type: STRING
+      '25':
+        type: COAL
+        amount: 12
+      '26':
+        type: COOKED_CHICKEN
+        amount: 10
+      '27':
+        type: REDSTONE
+        amount: 21
+      '28':
+        type: SUGAR_CANE
+        amount: 14
+      '29':
+        type: ARROW
+        amount: 16
+  '39':
+    Time: 1461470905535
+    Exp: 983047
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703867.6783397273
+      y: 76.0
+      z: 446379.76681736356
+      pitch: 12.409001
+      yaw: 166.51807
+    Items:
+      '0':
+        type: GOLD_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+      '1':
+        type: STICK
+        amount: 3
+      '2':
+        type: LOG
+        amount: 5
+      '3':
+        type: DIAMOND_SWORD
+        damage: 28
+      '4':
+        type: BONE
+        amount: 64
+      '5':
+        type: BOW
+        damage: 167
+      '6':
+        type: STONE
+        damage: 5
+        amount: 11
+      '7':
+        type: SLIME_BALL
+        amount: 35
+      '8':
+        type: BAKED_POTATO
+        amount: 2
+      '9':
+        type: RABBIT_STEW
+      '10':
+        type: MELON
+        amount: 3
+      '11':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '12':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '13':
+        type: TORCH
+      '14':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '15':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '16':
+        type: SPIDER_EYE
+        amount: 11
+      '17':
+        type: COBBLESTONE
+        amount: 32
+      '18':
+        type: BONE
+        amount: 38
+      '19':
+        type: COAL
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Carbon
+      '20':
+        type: ARROW
+        amount: 64
+      '21':
+        type: STRING
+      '22':
+        type: COAL
+        amount: 12
+      '23':
+        type: SUGAR_CANE
+        amount: 14
+      '24':
+        type: ARROW
+        amount: 16
+      '25':
+        type: COOKED_BEEF
+        amount: 63
+      '26':
+        type: SEEDS
+      '27':
+        type: REDSTONE
+        amount: 21
+      '28':
+        type: INK_SACK
+        damage: 4
+        amount: 10
+      '29':
+        type: COOKED_CHICKEN
+        amount: 10
+  '40':
+    Time: 1462120694980
+    Exp: 983101
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 92577
+        Amplifier: 1
+    Location:
+      world: world
+      x: -1361.3670410509264
+      y: 76.0
+      z: 3341.452146742944
+      pitch: 6.8181195
+      yaw: -88.47464
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 46
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SWORD
+        damage: 71
+      '2':
+        type: BOW
+        damage: 180
+      '3':
+        type: LEATHER
+        amount: 5
+      '4':
+        type: MUTTON
+        amount: 8
+      '5':
+        type: WOOL
+        amount: 5
+      '6':
+        type: RAW_BEEF
+        amount: 7
+      '7':
+        type: COOKED_BEEF
+        amount: 60
+      '8':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JbkIg/LogujKQ5xsCCgzA5kDI8ZNQgN+FX9xLLs8uScowKo8LZveiG+2+u5ElyBZ1LAu45o2rppagY6qJnFydE+OFpabji2kxeLDDNDBXWabrztKn6fgdLxoetbflcB4EmB1yQTPYdfPnrIjiUWR0+cRmJPHO1R7Eh9W5BLMuYrYhM5+c3S3o7Ov9bqsoMlUsMr2SXoc5ng1ggF34T6ScY/NIoH36VmWgdzGhH0518VjQrJIjqnayZ8GY+sDhv6SB/M9ev0EFvsEOipTBq2Xg5UEtxFZTN9YucmFR0953zETwAFXvxMcpit9qtry7dVDvAHcA8phyoBAAA=
+          skull-owner: CSCoreLib
+      '9':
+        type: BONE
+        amount: 2
+      '10':
+        type: ROTTEN_FLESH
+        amount: 7
+      '11':
+        type: ARROW
+        amount: 63
+      '12':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '14':
+        type: DOUBLE_PLANT
+        damage: 4
+        amount: 4
+      '15':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '16':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '18':
+        type: GOLD_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+      '29':
+        type: ARROW
+        amount: 19
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+  '41':
+    Time: 1462483218576
+    Exp: 984475
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 27740
+        Amplifier: 1
+    Location:
+      world: world
+      x: -1366.1716486298722
+      y: 76.0
+      z: 3340.2489595777847
+      pitch: 16.237541
+      yaw: 78.500244
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 554
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '1':
+        type: DIAMOND_SWORD
+        damage: 71
+      '17':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '27':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '28':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '36':
+        type: GOLD_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib

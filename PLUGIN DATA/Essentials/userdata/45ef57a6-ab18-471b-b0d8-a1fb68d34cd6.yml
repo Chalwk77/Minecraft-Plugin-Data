@@ -1,0 +1,31 @@
+lastlocation:
+  world: world
+  x: -1612.300000011921
+  y: 68.21589434553873
+  z: -1043.3057394376008
+  yaw: 269.1325
+  pitch: 60.09446
+lastAccountName: LazyChickenz
+timestamps:
+  login: 1470900462135
+  logout: 1470902268680
+  lastteleport: 1470902217654
+ipAddress: 203.87.100.166
+geolocation: Australia
+money: '2500'
+logoutlocation:
+  world: world
+  x: -1620.597894706636
+  y: 68.0
+  z: -1043.5900695096566
+  yaw: -35.455826
+  pitch: 18.752989
+godmode: false
+homes:
+  home:
+    world: world
+    x: -595.3000000119209
+    y: 34.0
+    z: 1721.0659914690373
+    yaw: -80.38837
+    pitch: 9.493378

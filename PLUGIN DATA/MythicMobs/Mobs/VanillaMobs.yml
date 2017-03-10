@@ -1,0 +1,28 @@
+# 
+# This example file shows you how to change default values for 
+# vanilla mobs. Most MythicMobs options will work here, including
+# skills and effects! **Despawn: FALSE does not work, though.**
+ZOMBIE:
+  Display: '&a&lZombie Warrior'
+  Drops:
+  - money 350
+  - exp 50-150 1
+  - lucky_chunk_of_luck 1 1
+SKELETON:
+  Display: '&c&lSkeletal Warrior'
+  Drops:
+  - money 320
+  - exp 1-200
+  - lucky_chunk_of_luck 1 1
+ENDERMAN:
+  Display: '&5&lEnder Warrior'
+  Drops:
+  - money 400
+  - exp 1-10 1
+  - lucky_chunk_of_luck 1 1
+CREEPER:
+  Display: '&5&lCreeper Warrior'
+  Drops:
+  - money 300
+  - exp 1-20 1
+  - lucky_chunk_of_luck 1 1

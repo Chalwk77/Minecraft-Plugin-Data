@@ -1,0 +1,21 @@
+lastAccountName: stumpyfoot
+timestamps:
+  login: 1471273956204
+  logout: 1471273967701
+ipAddress: 106.69.216.174
+geolocation: Perth, Western Australia, Australia
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+logoutlocation:
+  world: world
+  x: 478.736002325637
+  y: 89.0
+  z: -186.30429874253593
+  yaw: 156.84982
+  pitch: 8.099981
+money: '2500'

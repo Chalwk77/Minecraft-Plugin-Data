@@ -1,0 +1,11 @@
+Name: TypoKing
+TeleportLocation:
+  X: -185.5
+  Pitch: 0.0
+  Y: 56.0
+  Z: -109.5
+  World: world
+  Yaw: 0.0
+Charges:
+  Amount: 0
+  LastGot: 1479371201822

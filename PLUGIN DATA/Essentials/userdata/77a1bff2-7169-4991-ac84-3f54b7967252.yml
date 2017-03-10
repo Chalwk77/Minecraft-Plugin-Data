@@ -1,0 +1,39 @@
+lastAccountName: CUBE075
+timestamps:
+  login: 1477356173967
+  logout: 1477356292855
+  lastteleport: 1477356186666
+  jail: 0
+  kits:
+    tools: 1449799314665
+    overlord: 1449798318942
+    regular: 1449798368690
+    dtools: 1449799376916
+ipAddress: 220.233.191.184
+geolocation: Australia
+lastlocation:
+  world: world
+  x: 703.2350885709282
+  y: 63.0
+  z: 663.5137318505547
+  yaw: -289.54987
+  pitch: 5.5500197
+money: '2500'
+logoutlocation:
+  world: world
+  x: 658.6724582375949
+  y: 71.54075094113864
+  z: 159.22122457935768
+  yaw: -355.85046
+  pitch: 10.349948
+afk: false
+jailed: false
+homes:
+  home:
+    world: world
+    x: -641.531136612094
+    y: 71.0
+    z: 3434.5688292112054
+    yaw: 89.838524
+    pitch: 4.499981
+godmode: true

@@ -1,0 +1,68 @@
+lastAccountName: _Deathtrap
+timestamps:
+  login: 1480635000339
+  logout: 1480638019382
+  lastteleport: 1480637195664
+  mute: 0
+  kits:
+    mccharacter: 1457751064800
+    donor: 1475888303487
+    dtools: 1480284793982
+ipAddress: 50.151.236.112
+geolocation: Hoffman Estates, Illinois, United States
+logoutlocation:
+  world: world
+  x: -294769.1821758081
+  y: 78.0
+  z: 243022.4794691223
+  yaw: -101.980385
+  pitch: 13.289798
+lastlocation:
+  world: world
+  x: -294774.5
+  y: 79.07500000000746
+  z: 243022.5
+  yaw: 279.87207
+  pitch: 3.4013884
+afk: false
+money: '317547.67969999998952444'
+homes:
+  home:
+    world: world
+    x: -294767.09542246046
+    y: 76.0
+    z: 243048.45485692937
+    yaw: 182.77533
+    pitch: -6.98638
+  ender:
+    world: world_the_end
+    x: 459.81474390122287
+    y: 63.0
+    z: -6011.845192995421
+    yaw: 93.25714
+    pitch: -17.773737
+  water:
+    world: world
+    x: 26852.8724044135
+    y: 64.81928030396281
+    z: 4791.140945924922
+    yaw: -248.55302
+    pitch: 25.37018
+  farm:
+    world: world
+    x: -27383.977183692306
+    y: 64.0
+    z: 28614.728011775478
+    yaw: -89.47363
+    pitch: 5.993771
+  underwater:
+    world: world
+    x: -13710.470235997718
+    y: 35.0
+    z: 20039.84254480108
+    yaw: 179.15959
+    pitch: 10.992588
+nickname: §5_Deathtrap
+muted: false
+godmode: true
+teleportenabled: true

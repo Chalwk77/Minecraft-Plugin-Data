@@ -1,0 +1,478 @@
+PlayerLastName: Lady_Yashacat
+EnderChestSize: 54
+EnderChestInventory:
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+    amount: 64
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD_AXE
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: END_ROD
+    amount: 61
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: CHORUS_FRUIT
+    amount: 64
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: CHORUS_FRUIT
+    amount: 64
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nReinforced V
+      lore:
+      - §lRune of Reinforced V
+      - §a65% Success Rate and §c35% Destroy Rate.
+      - §6Chestplate Enchant
+      - §7Place the Rune on a chestplate to enchant.
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: CHORUS_FRUIT
+    amount: 60
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 1
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENDER_PEARL
+    amount: 4
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: COAL
+    amount: 28
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 14
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    damage: 483
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §k§a§kii§r§3V.I.P§k§a§kii
+      enchants:
+        DAMAGE_ALL: 4
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 9
+  '37':
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_ROD
+    amount: 64
+  '38':
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_ROD
+    amount: 64
+  '41':
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+    amount: 39
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eInfernal Dust
+      lore:
+      - §8§o▹SensibleToolbox (STB) item
+      - §7Sometimes dropped from blazes.
+      - §7Looting enchantment may help.
+      - §7Combine this with iron or gold dust.
+      ItemFlags: !!set
+        HIDE_PLACED_ON: null
+        HIDE_ENCHANTS: null
+        HIDE_UNBREAKABLE: null
+        HIDE_POTION_EFFECTS: null
+        HIDE_ATTRIBUTES: null
+        HIDE_DESTROYS: null
+      internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCViymrhUSGeCqbqWQmZeWWpSXmJNSWlwCdBAAs4+ezawAAAA=
+  '42':
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_ROD
+    amount: 64
+  '46':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_NUGGET
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Magical Lump §7- §eII
+      lore:
+      - ''
+      - '§c§oTier: II'
+  '48':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nImmolation IV
+      lore:
+      - §lRune of Immolation IV
+      - §a71% Success Rate and §c29% Destroy Rate.
+      - §6Chestplate Enchant
+      - §7Place the Rune on a chestplate to enchant.
+  '49':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    amount: 10
+  '39':
+    ==: org.bukkit.inventory.ItemStack
+    type: QUARTZ_BLOCK
+    amount: 64
+  '53':
+    ==: org.bukkit.inventory.ItemStack
+    type: QUARTZ_BLOCK
+    amount: 64
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: BONE_BLOCK
+    amount: 50
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: MAGMA_CREAM
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §rSteel Chestplate
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §9Jet Boots §7- §eIII
+      lore:
+      - ''
+      - '§8⇨ §7Material: §bBillon'
+      - §c§o§8⇨ §e⚡ §70 / 40 J
+      - '§8⇨ §7Speed: §a0.45'
+      - '§8⇨ §7Accuracy: §665%'
+      - ''
+      - §7Hold §eShift§7 to use
+      color:
+        ==: Color
+        RED: 192
+        BLUE: 192
+        GREEN: 192
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §a§lSlime Chestplate
+      lore:
+      - ''
+      - §a§oBouncy Feeling
+      color:
+        ==: Color
+        RED: 0
+        BLUE: 0
+        GREEN: 255
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Gold Leggings
+      lore:
+      - §912-Carat
+      enchants:
+        DURABILITY: 10
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_NUGGET
+    amount: 3
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §e§lGlowstone Helmet
+      lore:
+      - ''
+      - §a§oShining like the sun!
+      - ''
+      - §9+ Night Vision
+      color:
+        ==: Color
+        RED: 255
+        BLUE: 0
+        GREEN: 255
+  '28':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §4Carbon Chunk
+      internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JeAGcRRcNWhwiY1GKOjsuQxxmRg1CKzxVH7Esu/tOzvlMABNedrJV6rO+lEJxAx5JAa+pa6dF5swtXKalNZthbGVohizsIGy78zkv3YkJ5nC68roR/DYCo+H3pq35zQSABwOek1S1HH55FyB2OKHiEKi8I87A8Q6pDamuLjknXeYRh+jBr96ddYf/tXaT7m11nAYndo7aTCdoPd0qvtqOc/31HfbkzhaRTePlhMY52vhRHw6bVdJmCyboPpB0H6FQJ2LjBycay+6oqWT6Q4Z9odlCjlmlBNXhD/WX/VEEuDygNwADnmiqOYy8nXep+VpkAH8tV0JnKgEAAA==
+      skull-owner: CSCoreLib
+  '30':
+    ==: org.bukkit.inventory.ItemStack
+    type: GLOWSTONE_DUST
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Copper Dust
+  '31':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rButter
+      internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkRgcqiy6MGB0i2Iq1DjuBR3UY1CAYma/qJ3aWXd5z7rEBbHhJqk6pj+ZcHhVa8MgLePVzyjKXooOMjB3GaOb4LiNO6XoGlAUpx2iDbaILNu0RrwOwWry3XYNXGwAeLHje7lWH8It9SNLdgRS7UOU998zeJEStuLy88dO2z6bc47Xxi4m37P1/X7fdf7tKjMJDevrssnpLlqO1wsWa5vXXTUgxFHLmprKoYhnRNJjoOMj1Kqju6VzoSE/u8TCicVBp4/soUIfVXAwjzZnY/BgeykjOtOlYvOE0TUK/3JF3AAue4n2NMJgm03ODy2MG8AdWh1JvKgEAAA==
+      skull-owner: CSCoreLib
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §cCompressed Carbon
+      internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JeAGcRRcNWhwiY1GKOjsuQxxmRg1CKzxVH7Esu/tOzvlMABNedrJV6rO+lEJxAx5JAa+pa6dF5swtXKalNZthbGVohizsIGy78zkv3YkJ5nC68roR/DYCo+H3pq35zQSABwOek1S1HH55FyB2OKHiEKi8I87A8Q6pDamuLjknXeYRh+jBr96ddYf/tXaT7m11nAYndo7aTCdoPd0qvtqOc/31HfbkzhaRTePlhMY52vhRHw6bVdJmCyboPpB0H6FQJ2LjBycay+6oqWT6Q4Z9odlCjlmlBNXhD/WX/VEEuDygNwADnmiqOYy8nXep+VpkAH8tV0JnKgEAAA==
+      skull-owner: CSCoreLib
+  '34':
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §rMagical Essence
+      lore:
+      - ''
+      - §7Gold
+  '44':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:healing
+  '45':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BLOCK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §rGold Block §7(24-Carat)
+  '50':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    amount: 3
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §aCarbonado Edged Energy Capacitor
+      lore:
+      - ''
+      - §4End-Game Capacitor
+      - §8⇨ §e⚡ §765536 J Capacity
+      internal: H4sIAAAAAAAAAE3LzW6CQBwE8H+bNkHSx+iVZBcU5OChobUukbV8iXBbYCngrhoEU3yuPmA59jSZ/GZUABVewuMgxFd3rhrBFXgkJbxWOkYVtmxtyZeFNmelruUl4xozsW1aGJc6M1RQp9OFd33DrzNQev7TDx2/qgDwoMDznomBwy8fXZQdalQeXFGMxJx6FCKxI+3FIqf9mDvEJHLyzZu5He1/20XPkoVIDbfOTv6Qyz3aGoHgmwAXMr7too87bdeCRoWetv7C02mTyUCmSXz32m99sjZLgqOXrI/Ze4wzuW7o55QJQV5UN7vIndyVtCUGTdJ5KgkiJ2xX/moFoMATZZLDzAmdc8e3TQ7wB8lfcYguAQAA
+      skull-owner: CSCoreLib
+  '47':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_NUGGET
+    amount: 48
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Magical Lump §7- §eI
+      lore:
+      - ''
+      - '§c§oTier: I'
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nDodge V
+      lore:
+      - §lRune of Dodge V
+      - §a67% Success Rate and §c33% Destroy Rate.
+      - §6Armour Enchant
+      - §7Place the Rune on Armour to enchant.
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nWolves V
+      lore:
+      - §lRune of Wolves V
+      - §a67% Success Rate and §c33% Destroy Rate.
+      - §6Armour Enchant
+      - §7Place the Rune on amour to enchant.
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nReinforced IV
+      lore:
+      - §lRune of Reinforced IV
+      - §a61% Success Rate and §c39% Destroy Rate.
+      - §6Chestplate Enchant
+      - §7Place the Rune on a chestplate to enchant.
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nTnt Shooter I
+      lore:
+      - §lRune of Tnt Shooter I
+      - §a67% Success Rate and §c33% Destroy Rate.
+      - §6Bow Enchant
+      - §7Place the Rune on a bow to enchant.
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nAegis V
+      lore:
+      - §lRune of Aegis V
+      - §a63% Success Rate and §c37% Destroy Rate.
+      - §6Armour Enchant
+      - §7Place the Rune on Armour to enchant.
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nEntangle II
+      lore:
+      - §lRune of Entangle II
+      - §a79% Success Rate and §c21% Destroy Rate.
+      - §6Bow Enchant
+      - §7Place the Rune on a bow to enchant.
+  '29':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nReinforced II
+      lore:
+      - §lRune of Reinforced II
+      - §a73% Success Rate and §c27% Destroy Rate.
+      - §6Chestplate Enchant
+      - §7Place the Rune on a chestplate to enchant.
+  '33':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nSnare IV
+      lore:
+      - §lRune of Snare IV
+      - §a62% Success Rate and §c38% Destroy Rate.
+      - §6Bow Enchant
+      - §7Place the Rune on a bow to enchant.
+  '35':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nWeb Trap III
+      lore:
+      - §lRune of Web Trap III
+      - §a60% Success Rate and §c40% Destroy Rate.
+      - §6Weapon Enchant
+      - §7Place the Rune on any weapon to enchant.
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nShadowstep III
+      lore:
+      - §lRune of Shadowstep III
+      - §a69% Success Rate and §c31% Destroy Rate.
+      - §6Armour Enchant
+      - §7Place the Rune on Armour to enchant.
+  '40':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nTurmoil II
+      lore:
+      - §lRune of Turmoil II
+      - §a79% Success Rate and §c21% Destroy Rate.
+      - §6Axe Enchant
+      - §7Place the Rune on a axe to enchant.
+  '43':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nDemonic Aura II
+      lore:
+      - §lRune of Demonic Aura II
+      - §a74% Success Rate and §c26% Destroy Rate.
+      - §6Armour Enchant
+      - §7Place the Rune on Armour to enchant.
+  '51':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nHoly Smite V
+      lore:
+      - §lRune of Holy Smite V
+      - §a68% Success Rate and §c32% Destroy Rate.
+      - §6Axe Enchant
+      - §7Place the Rune on a axe to enchant.
+  '52':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nPlatemail I
+      lore:
+      - §lRune of Platemail I
+      - §a77% Success Rate and §c23% Destroy Rate.
+      - §6Armour Enchant
+      - §7Place the Rune on Armour to enchant.

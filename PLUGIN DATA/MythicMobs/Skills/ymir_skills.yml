@@ -1,0 +1,1776 @@
+################################################
+### INITIALISATION, ENGINES, CORES
+ymir_initialisation:
+  Skills:
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>Invulnerable<&co>1b<&rc>"}
+  - skill{s=ymir_initial_freezing}
+  - setstance{stance=PreCombat_Phase1}
+  - delay 100
+  - remove @MobsInRadius{r=100;t=ymir_wisp1,ymir_wisp2,ymir_wisp3}
+  - summon{m=ymir_wisp1;a=1;r=7}
+  - effect:lightning @MobsInRadius{radius=30;types=ymir_wisp1}
+  - delay 20
+  - summon{m=ymir_wisp2;a=1;r=7}
+  - effect:lightning @MobsInRadius{radius=30;types=ymir_wisp2}
+  - delay 20
+  - summon{m=ymir_wisp3;a=1;r=7}
+  - effect:lightning @MobsInRadius{radius=30;types=ymir_wisp3}
+  - delay 20
+  - effect:sound{s=mob.enderdragon.growl;v=0.9;p=0.5} @PlayersInRadius{radius=50}
+  - delay 5
+  - effect:sound{s=mob.enderdragon.growl;v=0.85;p=0.6} @PlayersInRadius{radius=50}
+ymir_initialisation_wisps:                     # executed by the wisps
+  Skills:
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>Invulnerable<&co>1b<&rc>"}
+  - setstance{stance=Cosmetic}
+  - potion{type=INVISIBILITY;d=72000;l=1}
+ymir_initialisation_wisps_2:                   # ^ ditto, makes the wisps vulnerable
+  Cooldown: 1
+  Conditions:
+  - stance Processing
+  Skills:
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>Invulnerable<&co>0b<&rc>"}
+  - setstance{stance=Practical_Calm}
+ymir_misc_engine:                              # (~onTimer:5)
+  Skills:
+  - weather{type=storm}
+  - potion{t=INVISIBILITY;d=72000;l=0}
+  - potion{t=FIRE_RESISTANCE;d=72000;l=0}
+  - skill{s=ymir_forcefield_listener}
+  - skill{s=ymir_waves_listener} @PlayersInRadius{radius=50}
+  - skill{s=ymir_continuous_freezing}
+  - skill{s=ymir_fx}
+  - skill{s=ymir_wisp_fx}
+  - skill{s=ymir_removal_cooler}
+ymir_removal_cooler:
+  Cooldown: 10
+  Skills:
+  - skill{s=ymir_removal}
+ymir_removal:
+  Conditions:
+  - playernotwithin 128
+  Skills:
+  - message{m="&bYmir &rdespawned at <mob.l.x> / <mob.l.y> / <mob.l.z>"} @PlayersInWorld
+  - remove @MobsInRadius{r=150;t=ymir_dwa_w,ymir_dwa_a,ymir_dwa_b,ymir_wisp1,ymir_wisp2,ymir_wisp3}
+  - remove
+ymir_battle_skill_engine:                      # (~onTimer:5)
+  Conditions:
+  - stance InCombat
+  Skills:
+  - skill{s=ymir_fire_weakness_listener}
+  - skill{s=ymir_feedback_healthbar} @PlayersInRadius{r=45}
+  - skill{s=ymir_iceblock_minion_parent} @PlayersInRing{min=25;max=50} 0.03
+ymir_on_attack_core:
+  Skills:
+  - skill{s=ymir_freezing_attack_soft} @target 0.075
+ymir_on_damaged_core:
+  Conditions:
+  - stance InCombat
+  Skills:
+  - skill{s=ymir_on_damaged_core_wet}
+  - skill{s=ymir_on_damaged_core_dry}
+  - skill{s=ymir_on_damaged_core_soaking}
+ymir_on_damaged_core_wet:
+  Conditions:
+  - stance Wet
+  Skills:
+  - skill{s=ymir_feedback} @PlayersInRadius{r=45}
+  - skill{s=ymir_feedback_healthbar_damaged} @PlayersInRadius{r=45}
+  - skill{s=ymir_icebomb_rain} 0.0005 >50%
+  - skill{s=ymir_icebomb_rain} 0.009 =50%-10%
+  - skill{s=ymir_icebomb_rain} 0.06 <10%
+  - skill{s=ymir_ice_projectile} 0.15
+  - skill{s=ymir_frostnova} 0.025 =75%-50%
+  - skill{s=ymir_frostnova} 0.05 =50%-20%
+  - skill{s=ymir_frostnova} 0.075 <20%
+  - delay 1
+  - skill{s=ymir_jump_toggler} 0.5
+  - skill{s=ymir_lightning_retaliation} 0.075
+  - skill{s=ymir_lightning_ambient} 0.01
+  - skill{s=ymir_lightning_retaliation_mad_smite} 0.0075 <50%
+ymir_on_damaged_core_dry:
+  Conditions:
+  - stance Dry
+  Skills:
+#  - skill{s=ymir_fire_weakness_extra_damage}
+  - skill{s=ymir_feedback_healthbar_damaged} @PlayersInRadius{r=45}
+ymir_on_damaged_core_soaking:
+  Conditions:
+  - stance Soaking
+  Skills:
+  - skill{s=ymir_feedback} @PlayersInRadius{r=45}
+  - skill{s=ymir_feedback_healthbar_damaged} @PlayersInRadius{r=45}
+  - skill{s=ymir_icebomb_rain} 0.001 >50%
+  - skill{s=ymir_icebomb_rain} 0.01 =50%-10%
+  - skill{s=ymir_icebomb_rain} 0.098 <10%
+  - skill{s=ymir_ice_projectile} 0.175
+  - skill{s=ymir_frostnova} 0.050 =75%-50%
+  - skill{s=ymir_frostnova} 0.075 =50%-20%
+  - skill{s=ymir_frostnova} 0.098 <20%
+  - delay 1
+  - skill{s=ymir_jump_toggler} 0.75
+  - skill{s=ymir_lightning_retaliation} 0.1
+  - skill{s=ymir_lightning_ambient} 0.1
+  - skill{s=ymir_lightning_retaliation_mad_smite} 0.01 <50%
+################################################
+### PROTECTIVE FORCEFIELD / WISPS
+ymir_forcefield_listener:                      # this is the core skill for all forcefield related skills
+  Conditions:
+  - stance PreCombat
+  Skills:
+  - potion{t=SLOW;d=60;l=99}
+  - effect:particlesphere{p=depthsuspend;a=300;hS=0.3;v=0;y=5;r=12}
+  - effect:particlesphere{p=snowshovel;a=10;hS=0.3;v=0;y=5;r=12}
+  - effect:particlesphere{p=smoke;a=400;vS=0.1;hS=0.1;Speed=0;y=5;r=13} 0.05
+  - skill{s=ymir_forcefield_perimeter_fx}
+  - skill{s=ymir_forcefield_knockback_parent} @PlayersInRadius{r=13}
+  - skill{s=ymir_forcefield_knockback_wisp_animator_1} @MobsInRadius{r=20;t=ymir_wisp1} 0.08
+  - skill{s=ymir_forcefield_knockback_wisp_animator_2} @MobsInRadius{r=20;t=ymir_wisp2} 0.08
+  - skill{s=ymir_forcefield_knockback_wisp_animator_3} @MobsInRadius{r=20;t=ymir_wisp3} 0.08
+  - skill{s=ymir_forcefield_scatter_wisps_1} 0.1
+  - skill{s=ymir_forcefield_scatter_wisps_2}
+  - skill{s=ymir_forcefield_scatter_wisps_3} 0.9
+ymir_forcefield_perimeter_fx:
+  Conditions:
+  - playerwithin 20
+  Skills:
+  - effect:particlesphere{p=smoke;a=200;vS=0.1;hS=0.1;Speed=0;y=5;r=13}
+ymir_forcefield_knockback_parent:
+  Conditions:
+  - playerwithin 20
+  Skills:
+  - skill{s=ymir_forcefield_knockback_wisp_animator_1}
+  - skill{s=ymir_forcefield_knockback_wisp_animator_2}
+  - skill{s=ymir_forcefield_knockback_wisp_animator_3}
+  - skill{s=ymir_forcefield_knockback_sub}
+  - delay 1
+  - skill{s=ymir_forcefield_knockback_sub}
+  - delay 1
+  - skill{s=ymir_forcefield_knockback_sub}
+  - delay 1
+  - skill{s=ymir_forcefield_knockback_sub}
+  - delay 1
+  - skill{s=ymir_forcefield_knockback_sub}
+ymir_forcefield_knockback_wisp_animator_1:
+  Conditions:
+  - stance Phase1
+  Skills:
+  - effect:particleline{p=instantSpell;a=1;v=0;ys=6} @MobsInRadius{r=20;t=ymir_wisp1} 0.75
+ymir_forcefield_knockback_wisp_animator_2:
+  Conditions:
+  - stance Phase2
+  Skills:
+  - effect:particleline{p=instantSpell;a=1;v=0;ys=6} @MobsInRadius{r=20;t=ymir_wisp2} 0.75
+ymir_forcefield_knockback_wisp_animator_3:
+  Conditions:
+  - stance Phase3
+  Skills:
+  - effect:particleline{p=instantSpell;a=1;v=0;ys=6} @MobsInRadius{r=20;t=ymir_wisp3} 0.75
+ymir_forcefield_knockback_sub:
+  Skills:
+  - effect:particles{p=snowshovel;a=25;vS=0.5;hS=0.5;Speed=0;y=0}
+  - effect:sound{s=mob.zombie.unfect;p=2}
+  - effect:sound{s=mob.zombie.unfect;p=1.9}
+  - throw{v=10;vy=4}
+  - throw{v=10;vy=4} @MobsInRadius{r=15;t=ymir_ib}
+  - damage{a=0;i=false}
+  - potion{type=DAMAGE_RESISTANCE;d=60;l=5}
+ymir_forcefield_scatter_wisps_1:
+  Cooldown: 3
+  Conditions:
+  - stance Phase
+  Skills:
+  - gcd{t=30}
+  - forcepull{s=9;vS=7} @MobsInRadius{r=100;t=ymir_wisp1,ymir_wisp2,ymir_wisp3}
+ymir_forcefield_scatter_wisps_2:
+  Conditions:
+  - offgcd true
+  - stance Phase
+  Skills:
+  - throw{v=1;vy=2} @MobsInRadius{r=12;t=ymir_wisp1,ymir_wisp2,ymir_wisp3}
+ymir_forcefield_scatter_wisps_3:
+  Conditions:
+  - stance Wispscrambler
+  - stance Phase
+  Skills:
+  - forcepull{s=9;vS=7} @MobsInRadius{r=100;t=ymir_wisp1,ymir_wisp2,ymir_wisp3}
+ymir_wisps_perimeter_skill_listener:           # this isnt fully developed yet. atm just FX
+  Skills:
+  - skill{s=ymir_wisps_perimeter_skill_deactivator}
+  - skill{s=ymir_wisps_perimeter_skill_activator}
+  - skill{s=ymir_wisps_perimeter_skill_warning}
+ymir_wisps_perimeter_skill_activator:
+  Conditions:
+  - playerwithin 7
+  - stance Practical
+  - stance Calm
+  Skills:
+  - setstance{stance=Practical_Alarmed}
+  - effect:sound{s=mob.wither.idle;v=0.5;p=2}
+ymir_wisps_perimeter_skill_deactivator:
+  Conditions:
+  - playernotwithin 7
+  - stance Practical
+  - stance Alarmed
+  Skills:
+  - setstance{stance=Practical_Calm}
+  - effect:sound{s=mob.wither.idle;v=0.05;p=0.5}
+ymir_wisps_perimeter_skill_warning:
+  Conditions:
+  - playerwithin 7
+  - stance Alarmed
+  Skills:
+  - effect:particlesphere{p=smoke;a=15;hS=0.1;v=0;y=0.5;r=2} 0.9
+  - delay 1
+  - effect:particlesphere{p=smoke;a=15;hS=0.1;v=0;y=0.5;r=2} 0.9
+  - delay 1
+  - effect:particlesphere{p=smoke;a=15;hS=0.1;v=0;y=0.5;r=2} 0.9
+  - delay 1
+  - effect:particlesphere{p=smoke;a=15;hS=0.1;v=0;y=0.5;r=2} 0.9
+  - delay 1
+  - effect:particlesphere{p=smoke;a=15;hS=0.1;v=0;y=0.5;r=2} 0.9
+################################################
+### DWARF WAVES
+ymir_waves_listener:
+  Conditions:
+  - stance PreCombat
+  Skills:
+  - skill{s=ymir_waves_third}
+  - skill{s=ymir_waves_second}
+  - skill{s=ymir_waves_first}
+  - skill{s=ymir_waves_combat_enabler_1} @self
+ymir_waves_misc:
+  Skills:
+  - potion{t=NIGHT_VISION;d=40;l=1}
+  - potion{t=BLINDNESS;d=25;l=1}
+  - effect:sound{s=random.explode;v=1;p=0}
+  - delay 1
+  - effect:sound{s=mob.enderdragon.growl;v=0.45;p=0.5}
+  - effect:sound{s=mob.enderdragon.growl;v=0.5;p=0.7}
+ymir_waves_first:
+  Conditions:
+  - stance Phase1
+  - stance Wavetoggler
+  Skills:
+  - skill{s=ymir_waves_misc}
+  - setstance{stance=PreCombat_Phase2_Wispscrambler} @self
+  - effect:particles{p=blockcrack_133;a=5000;vS=4;hS=4;Speed=0;y=2} @MobsInRadius{r=100;t=ymir_wisp1}
+  - effect:particles{p=largeexplode;a=500;vS=2;hS=2;Speed=0;y=1} @MobsInRadius{r=100;t=ymir_wisp1}
+  - summon{m=ymir_dwa_w;a=3;r=7;yr=0}
+  - sendactionmessage{m="&c&oOr<&sp>Ymis<&sp>holdi,<&sp>var<&sp>joerd<&sp>of<&sp>skoepud"}
+  - delay 10
+  - sendactionmessage{m="&c&oOr<&sp>Ymis<&sp>holdi,<&sp>var<&sp>joerd<&sp>of<&sp>skoepud"}
+  - delay 10
+  - sendactionmessage{m="&c&oOr<&sp>Ymis<&sp>holdi,<&sp>var<&sp>joerd<&sp>of<&sp>skoepud"}
+  - delay 10
+  - sendactionmessage{m="&c&oOr<&sp>Ymis<&sp>holdi,<&sp>var<&sp>joerd<&sp>of<&sp>skoepud"}
+  - delay 10
+  - sendactionmessage{m="&c&oOr<&sp>Ymis<&sp>holdi,<&sp>var<&sp>joerd<&sp>of<&sp>skoepud"}
+  - skill{s=ymir_ice_projectile}
+  - delay 40
+  - setstance{stance=PreCombat_Phase2} @self
+  - setstance{stance=Processing} @MobsInRadius{r=100;t=ymir_wisp2}
+ymir_waves_second:
+  Conditions:
+  - stance Phase2
+  - stance Wavetoggler
+  Skills:
+  - skill{s=ymir_waves_misc}
+  - setstance{stance=PreCombat_Phase3_Wispscrambler} @self
+  - effect:particles{p=blockcrack_57;a=5000;vS=4;hS=4;Speed=0;y=2} @MobsInRadius{r=100;t=ymir_wisp2}
+  - effect:particles{p=largeexplode;a=500;vS=2;hS=2;Speed=0;y=1} @MobsInRadius{r=100;t=ymir_wisp2}
+  - summon{m=ymir_dwa_w;a=3;r=7;yr=0}
+  - summon{m=ymir_dwa_a;a=2;r=9;yr=0}
+  - sendactionmessage{msg="&c&oen<&sp>or<&sp>sveita<&sp>saer,<&sp>bjoerg<&sp>or<&sp>beinum"}
+  - delay 10
+  - sendactionmessage{msg="&c&oen<&sp>or<&sp>sveita<&sp>saer,<&sp>bjoerg<&sp>or<&sp>beinum"}
+  - delay 10
+  - sendactionmessage{msg="&c&oen<&sp>or<&sp>sveita<&sp>saer,<&sp>bjoerg<&sp>or<&sp>beinum"}
+  - delay 10
+  - sendactionmessage{msg="&c&oen<&sp>or<&sp>sveita<&sp>saer,<&sp>bjoerg<&sp>or<&sp>beinum"}
+  - delay 10
+  - sendactionmessage{msg="&c&oen<&sp>or<&sp>sveita<&sp>saer,<&sp>bjoerg<&sp>or<&sp>beinum"}
+  - skill{s=ymir_frostnova} @self
+  - delay 40
+  - setstance{stance=PreCombat_Phase3} @self
+  - setstance{stance=Processing} @MobsInRadius{r=100;t=ymir_wisp3}
+ymir_waves_third:
+  Conditions:
+  - stance Phase3
+  - stance Wavetoggler
+  Skills:
+  - skill{s=ymir_waves_misc}
+  - setstance{stance=PreCombat_Phase4_Deactivator} @self
+  - effect:particles{p=blockcrack_152;a=5000;vS=4;hS=4;Speed=0;y=2} @MobsInRadius{r=100;t=ymir_wisp3}
+  - effect:particles{p=largeexplode;a=500;vS=2;hS=2;Speed=0;y=1} @MobsInRadius{r=100;t=ymir_wisp3}
+  - summon{m=ymir_dwa_w;a=4;r=17;yr=0}
+  - summon{m=ymir_dwa_a;a=1;r=13;yr=0}
+  - summon{m=ymir_dwa_b;a=1;r=10;yr=0}
+  - delay 1
+  - setstance{stance=PreRage_Phase3} @MobsInRadius{r=100;t=ymir_dwa_w,ymir_dwa_a,ymir_dwa_b}
+  - sendactionmessage{msg="&c&obadmr<&sp>or<&sp>hari,<&sp>en<&sp>or<&sp>hausi<&sp>himinn."}
+  - delay 10
+  - sendactionmessage{msg="&c&obadmr<&sp>or<&sp>hari,<&sp>en<&sp>or<&sp>hausi<&sp>himinn."}
+  - delay 10
+  - sendactionmessage{msg="&c&obadmr<&sp>or<&sp>hari,<&sp>en<&sp>or<&sp>hausi<&sp>himinn."}
+  - delay 10
+  - sendactionmessage{msg="&c&obadmr<&sp>or<&sp>hari,<&sp>en<&sp>or<&sp>hausi<&sp>himinn."}
+  - delay 10
+  - sendactionmessage{msg="&c&obadmr<&sp>or<&sp>hari,<&sp>en<&sp>or<&sp>hausi<&sp>himinn."}
+  - skill{s=ymir_icebomb_rain} @self
+  - delay 6000
+  - skill{s=ymir_waves_combat_enabler_3}
+ymir_waves_combat_enabler_1:                   # attempts to enter combat, gets reset by dwarfs in perimeter
+  Cooldown: 3
+  Conditions:
+  - stance Phase4
+  - stance Deactivator
+  Skills:
+  - setstance{stance=PreCombat_Phase4_Activator}
+  - delay 10
+  - skill{s=ymir_waves_combat_enabler_2}
+ymir_waves_combat_enabler_2:                   # toggled if no dwarfs are present
+  Cooldown: 10
+  Conditions:
+  - stance Phase4
+  - stance Activator
+  Skills:
+  - effect:sound{s=mob.enderdragon.growl;v=1;p=0.5}
+  - effect:sound{s=mob.zombie.unfect;v=0.2;p=0.5} @PlayersInRadius{r=50}
+  - sendactionmessage{msg="&4&l-&7&l---------"} @PlayersInRadius{r=50}
+  - delay 7
+  - effect:sound{s=mob.zombie.unfect;v=0.3;p=0.5} @PlayersInRadius{r=50}
+  - sendactionmessage{msg="&4&l--&7&l--------"} @PlayersInRadius{r=50}
+  - delay 7
+  - effect:sound{s=mob.zombie.unfect;v=0.4;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.4;p=0.6} @PlayersInRadius{r=50}
+  - sendactionmessage{msg="&4&l---&7&l-------"} @PlayersInRadius{r=50}
+  - delay 7
+  - effect:sound{s=mob.zombie.unfect;v=0.5;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.5;p=0.6} @PlayersInRadius{r=50}
+  - sendactionmessage{msg="&4&l----&7&l------"} @PlayersInRadius{r=50}
+  - delay 7
+  - effect:sound{s=mob.zombie.unfect;v=0.6;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.6;p=0.6} @PlayersInRadius{r=50}
+  - sendactionmessage{msg="&4&l-----&7&l-----"} @PlayersInRadius{r=50}
+  - delay 7
+  - effect:sound{s=mob.zombie.unfect;v=0.7;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.7;p=0.6} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.7;p=0.7} @PlayersInRadius{r=50}
+  - sendactionmessage{msg="&4&l------&7&l----"} @PlayersInRadius{r=50}
+  - delay 7
+  - effect:sound{s=mob.zombie.unfect;v=0.8;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.8;p=0.6} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.8;p=0.7} @PlayersInRadius{r=50}
+  - sendactionmessage{msg="&4&l-------&7&l---"} @PlayersInRadius{r=50}
+  - delay 7
+  - effect:sound{s=mob.zombie.unfect;v=0.85;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.85;p=0.6} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.85;p=0.7} @PlayersInRadius{r=50}
+  - sendactionmessage{msg="&4&l--------&7&l--"} @PlayersInRadius{r=50}
+  - delay 7
+  - sendactionmessage{msg="&4&l---------&7&l-"} @PlayersInRadius{r=50}
+  - delay 7
+  - sendactionmessage{msg="&4&l----------"} @PlayersInRadius{r=50}
+  - delay 7
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>Invulnerable<&co>0b<&rc>"}
+  - setstance{stance=InCombat_Wet}
+  - skill{s=ymir_waves_misc} @PlayersInRadius{r=50}
+  - effect:particlesphere{p=smoke;a=1000;vS=0.1;hS=0.1;v=0;y=5;r=13}
+  - effect:particlesphere{p=explode;a=300;vS=0.1;hS=0.1;v=10;y=5;r=13}
+  - effect:particles{p=depthsuspend;a=5000;hS=5;vS=3;v=0;y=0.2}
+ymir_waves_combat_enabler_3:                   # forcibly kills all dwarfs and makes ymir enter combat after 5 minutes
+  Conditions:
+  - stance Phase4
+  Skills:
+  - damage{a=999;i=true} @MobsInRadius{r=150;t=ymir_dwa_w,ymir_dwa_a,ymir_dwa_b}
+  - setstance{stance=PreCombat_Phase4_Activator} @self
+################################################
+### ENVIRONMENTAL SKILLS
+ymir_initial_freezing:                         #(summon_ymir_3)
+  Skills:
+# extinguish fires
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~14 ~7 ~14 ~-14 ~-7 ~-14 air 0 replace fire"}
+# blow snow
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~10 ~7 ~10 ~-10 ~-7 ~-10 air 0 replace snow_layer"}
+# pillar 1
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-15 ~9 ~9 ~13 ~9 packed_ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~10 ~-7 ~9 ~10 ~9 ~9 ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~8 ~-5 ~9 ~8 ~6 ~9 ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-6 ~10 ~9 ~7 ~10 packed_ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-7 ~8 ~9 ~8 ~8 ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-2 ~9 ~9 ~-2 ~9 sea_lantern 0 replace"} 0.5
+  - delay 2
+# pillar 2
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-9 ~-15 ~9 ~-9 ~12 ~9 packed_ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-10 ~-7 ~9 ~-10 ~7 ~9 ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-8 ~-8 ~9 ~-8 ~6 ~9 packed_ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-9 ~-7 ~10 ~-9 ~6 ~10 ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-9 ~-6 ~8 ~-9 ~5 ~8 ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-9 ~-7 ~7 ~-9 ~4 ~7 packed_ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-9 ~-2 ~9 ~-9 ~-2 ~9 sea_lantern 0 replace"} 0.5
+  - delay 2
+# pillar 3
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-9 ~-15 ~-9 ~-9 ~11 ~-9 packed_ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-10 ~-8 ~-9 ~-10 ~8 ~-9 ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-8 ~-6 ~-9 ~-8 ~6 ~-9 ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-9 ~-4 ~-10 ~-9 ~5 ~-10 ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-9 ~-7 ~-9 ~-9 ~4 ~-11 packed_ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-9 ~-3 ~-8 ~-9 ~5 ~-8 ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~-9 ~-2 ~-9 ~-9 ~-2 ~-9 sea_lantern 0 replace"} 0.5
+  - delay 2
+# pillar 4
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-15 ~-9 ~9 ~12 ~-9 packed_ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~10 ~-5 ~-9 ~10 ~8 ~-9 packed_ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~8 ~-8 ~-9 ~8 ~7 ~-9 packed_ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-7 ~-10 ~9 ~6 ~-10 ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-5 ~-8 ~9 ~5 ~-8 ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-5 ~-7 ~9 ~4 ~-7 packed_ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-6 ~-6 ~9 ~3 ~-6 ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-7 ~-5 ~9 ~2 ~-5 packed_ice 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-2 ~-9 ~9 ~-2 ~-9 sea_lantern 0 replace"} 0.5
+# ground
+  - delay 10
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~14 ~-3 ~14 ~-14 ~6 ~-14 air 0 replace water"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~14 ~-3 ~14 ~-14 ~6 ~-14 obsidian 0 replace lava"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-2 ~9 ~-9 ~4 ~-9 ice 0 replace grass"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-1 ~9 ~-9 ~4 ~-9 ice 0 replace dirt"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~9 ~-2 ~9 ~-9 ~4 ~-9 packed_ice 0 replace stone"}
+ymir_continuous_freezing:                      # freezes the ground under ymirs feet
+  Cooldown: 2
+  Skills:
+  - effect:blockmask{m=ice;r=7}
+ymir_continuous_freezing_precombat:            # keeps ice from melting in a larger radius
+  Cooldown: 6
+  Conditions:
+  - stance PreCombat
+  Skills:
+  - command{cmd="execute <mob.uuid> ~ ~ ~ fill ~12 ~-3 ~12 ~-12 ~3 ~-12 ice 0 replace water"}
+################################################
+### FX SKILLS
+ymir_fx:
+  Skills:
+#  - skill{s=ymir_particles_vfx} @self
+  - skill{s=ymir_idle_growl_sfx} @self 0.02
+  - skill{s=ymir_idle_windy_sfx} @self 0.075
+ymir_idle_growl_sfx:
+  Cooldown: 5
+  Skills:
+  - effect:sound{s=mob.enderdragon.growl;v=1;p=0.5}
+  - effect:sound{s=mob.enderdragon.growl;v=0.25;p=0.5} @PlayersInRadius{r=50}
+ymir_idle_windy_sfx:
+  Cooldown: 1
+  Skills:
+  - effect:sound{s=mob.wither.idle;v=0.01;p=0.2} @PlayersInRadius{r=75}
+ymir_fire_weakness_dry_fx:                     #
+  Cooldown: 1
+  Conditions:
+  - stance Dry
+  Skills:
+  - effect:sound{s=random.fizz;v=0.35;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=random.fizz;v=0.35;p=1} @PlayersInRadius{r=50} 0.2
+  - effect:sound{s=random.fizz;v=0.35;p=2} @PlayersInRadius{r=50} 0.1
+ymir_fire_weakness_soaking_fx:                 #
+  Conditions:
+  - stance Soaking
+  Skills:
+  - effect:particles{p=cloud;a=125;hS=1.6;vS=0.4;v=1;y=0.1} 0.6
+  - effect:particles{p=blockcrack_79;a=300;hS=1.3;vS=0.2;v=0;y=0.1} 0.7
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~3 ~7 ~3 ~-3 ~-7 ~-3 air 0 replace fire"}
+ymir_fire_weakness_blow_fires_fx:              # extinguishes nearby fires - i love this
+  Skills:
+  - effect:sound{s=mob.enderdragon.growl;v=0.45;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.enderdragon.growl;v=0.5;p=0.7} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.wither.idle;v=0.3;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.enderdragon.hit;v=0.3;p=0} @PlayersInRadius{r=50}
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~1 ~7 ~1 ~-1 ~-7 ~-1 air 0 replace fire"}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~2 ~7 ~2 ~-2 ~-7 ~-2 air 0 replace fire"}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~3 ~7 ~3 ~-3 ~-7 ~-3 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=1.2;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~4 ~7 ~4 ~-4 ~-7 ~-4 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=1.6;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~5 ~7 ~5 ~-5 ~-7 ~-5 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=2.2;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~6 ~7 ~6 ~-6 ~-7 ~-6 air 0 replace fire"}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~7 ~7 ~7 ~-7 ~-7 ~-7 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=2.8;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~8 ~7 ~8 ~-8 ~-7 ~-8 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=3.2;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~9 ~7 ~9 ~-9 ~-7 ~-9 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=3.6;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~10 ~7 ~10 ~-10 ~-7 ~-10 air 0 replace fire"}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~11 ~7 ~11 ~-11 ~-7 ~-11 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=4.4;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~12 ~7 ~12 ~-12 ~-7 ~-12 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=4.8;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~13 ~7 ~13 ~-13 ~-7 ~-13 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=5.2;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~14 ~7 ~14 ~-14 ~-7 ~-14 air 0 replace fire"}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~15 ~7 ~15 ~-15 ~-7 ~-15 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=6;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~16 ~7 ~16 ~-16 ~-7 ~-16 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=6.4;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~17 ~7 ~17 ~-17 ~-7 ~-17 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=6.8;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~18 ~7 ~18 ~-18 ~-7 ~-18 air 0 replace fire"}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~19 ~7 ~19 ~-19 ~-7 ~-19 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=7.6;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~20 ~7 ~20 ~-20 ~-7 ~-20 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=8;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~21 ~7 ~21 ~-21 ~-7 ~-21 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=8.4;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~22 ~7 ~22 ~-22 ~-7 ~-22 air 0 replace fire"}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~23 ~7 ~23 ~-23 ~-7 ~-23 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=9.2;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~24 ~7 ~24 ~-24 ~-7 ~-24 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=9.6;vS=0.1;v=1;y=0.1}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~25 ~7 ~25 ~-25 ~-7 ~-25 air 0 replace fire"}
+  - effect:particles{p=cloud;a=100;hS=10;vS=0.1;v=1;y=0.1}
+ymir_particles_vfx:                            # currently unused, produces lag and sucks
+  Skills:
+  - skill{s=ymir_particles_vfx_1} =101%-90%
+  - skill{s=ymir_particles_vfx_2} =90%-80%
+  - skill{s=ymir_particles_vfx_3} =80%-70%
+  - skill{s=ymir_particles_vfx_4} =70%-60%
+  - skill{s=ymir_particles_vfx_5} =60%-50%
+  - skill{s=ymir_particles_vfx_6} =50%-40%
+  - skill{s=ymir_particles_vfx_7} =40%-30%
+  - skill{s=ymir_particles_vfx_8} =30%-20%
+  - skill{s=ymir_particles_vfx_9} =20%-10%
+  - skill{s=ymir_particles_vfx_10} =10%-0%
+ymir_particles_vfx_1:
+  Skills:
+  - effect:particlering{p=snowshovel;a=50;hS=0.3;vS=0.3;v=0;y=0;r=1.5;pts=25} 0.95
+  - effect:particlering{p=snowshovel;a=50;hS=0.3;vS=0.3;v=0;y=1.5;r=1.5;pts=25} 0.95
+  - effect:particlering{p=snowshovel;a=50;hS=0.3;vS=0.3;v=0;y=3;r=1.5;pts=25} 0.95
+  - effect:particlering{p=snowshovel;a=50;hS=0.3;vS=0.3;v=0;y=4.5;r=1.5;pts=25} 0.95
+  - effect:particlering{p=snowshovel;a=50;hS=0.3;vS=0.3;v=0;y=6;r=2;pts=25} 0.95
+  - effect:particlering{p=snowshovel;a=50;hS=0.3;vS=0.3;v=0;y=7.5;r=3.5;pts=25} 0.95
+  - effect:particlering{p=snowshovel;a=50;hS=0.3;vS=0.3;v=0;y=9;r=2.6;pts=25} 0.95
+  - effect:particlering{p=snowshovel;a=50;hS=0.3;vS=0.3;v=0;y=10.5;r=2.5;pts=25} 0.95
+  - effect:particlering{p=snowshovel;a=50;hS=0.3;vS=0.3;v=0;y=11;r=1.5;pts=20} 0.95
+ymir_particles_vfx_2:
+  Skills:
+  - effect:particlering{p=snowshovel;a=48;hS=0.3;vS=0.3;v=0;y=0;r=1.5;pts=25} 0.9
+  - effect:particlering{p=snowshovel;a=48;hS=0.3;vS=0.3;v=0;y=1.5;r=1.5;pts=25} 0.9
+  - effect:particlering{p=snowshovel;a=48;hS=0.3;vS=0.3;v=0;y=3;r=1.5;pts=25} 0.9
+  - effect:particlering{p=snowshovel;a=48;hS=0.3;vS=0.3;v=0;y=4.5;r=1.5;pts=25} 0.9
+  - effect:particlering{p=snowshovel;a=48;hS=0.3;vS=0.3;v=0;y=6;r=2;pts=25} 0.9
+  - effect:particlering{p=snowshovel;a=48;hS=0.3;vS=0.3;v=0;y=7.5;r=3.5;pts=25} 0.9
+  - effect:particlering{p=snowshovel;a=48;hS=0.3;vS=0.3;v=0;y=9;r=2.6;pts=25} 0.9
+  - effect:particlering{p=snowshovel;a=48;hS=0.3;vS=0.3;v=0;y=10.5;r=2.5;pts=25} 0.9
+  - effect:particlering{p=snowshovel;a=48;hS=0.3;vS=0.3;v=0;y=11;r=1.5;pts=20} 0.9
+ymir_particles_vfx_3:
+  Skills:
+  - effect:particlering{p=snowshovel;a=46;hS=0.3;vS=0.3;v=0;y=0;r=1.5;pts=25} 0.85
+  - effect:particlering{p=snowshovel;a=46;hS=0.3;vS=0.3;v=0;y=1.5;r=1.5;pts=25} 0.85
+  - effect:particlering{p=snowshovel;a=46;hS=0.3;vS=0.3;v=0;y=3;r=1.5;pts=25} 0.85
+  - effect:particlering{p=snowshovel;a=46;hS=0.3;vS=0.3;v=0;y=4.5;r=1.5;pts=25} 0.85
+  - effect:particlering{p=snowshovel;a=46;hS=0.3;vS=0.3;v=0;y=6;r=2;pts=25} 0.85
+  - effect:particlering{p=snowshovel;a=46;hS=0.3;vS=0.3;v=0;y=7.5;r=3.5;pts=25} 0.85
+  - effect:particlering{p=snowshovel;a=46;hS=0.3;vS=0.3;v=0;y=9;r=2.6;pts=25} 0.85
+  - effect:particlering{p=snowshovel;a=46;hS=0.3;vS=0.3;v=0;y=10.5;r=2.5;pts=25} 0.85
+  - effect:particlering{p=snowshovel;a=46;hS=0.3;vS=0.3;v=0;y=11;r=1.5;pts=20} 0.85
+ymir_particles_vfx_4:
+  Skills:
+  - effect:particlering{p=snowshovel;a=44;hS=0.3;vS=0.3;v=0;y=0;r=1.5;pts=25} 0.8
+  - effect:particlering{p=snowshovel;a=44;hS=0.3;vS=0.3;v=0;y=1.5;r=1.5;pts=25} 0.8
+  - effect:particlering{p=snowshovel;a=44;hS=0.3;vS=0.3;v=0;y=3;r=1.5;pts=25} 0.8
+  - effect:particlering{p=snowshovel;a=44;hS=0.3;vS=0.3;v=0;y=4.5;r=1.5;pts=25} 0.8
+  - effect:particlering{p=snowshovel;a=44;hS=0.3;vS=0.3;v=0;y=6;r=2;pts=25} 0.8
+  - effect:particlering{p=snowshovel;a=44;hS=0.3;vS=0.3;v=0;y=7.5;r=3.5;pts=25} 0.8
+  - effect:particlering{p=snowshovel;a=44;hS=0.3;vS=0.3;v=0;y=9;r=2.6;pts=25} 0.8
+  - effect:particlering{p=snowshovel;a=44;hS=0.3;vS=0.3;v=0;y=10.5;r=2.5;pts=25} 0.8
+  - effect:particlering{p=snowshovel;a=44;hS=0.3;vS=0.3;v=0;y=11;r=1.5;pts=20} 0.8
+ymir_particles_vfx_5:
+  Skills:
+  - effect:particlering{p=snowshovel;a=42;hS=0.3;vS=0.3;v=0;y=0;r=1.5;pts=25} 0.75
+  - effect:particlering{p=snowshovel;a=42;hS=0.3;vS=0.3;v=0;y=1.5;r=1.5;pts=25} 0.75
+  - effect:particlering{p=snowshovel;a=42;hS=0.3;vS=0.3;v=0;y=3;r=1.5;pts=25} 0.75
+  - effect:particlering{p=snowshovel;a=42;hS=0.3;vS=0.3;v=0;y=4.5;r=1.5;pts=25} 0.75
+  - effect:particlering{p=snowshovel;a=42;hS=0.3;vS=0.3;v=0;y=6;r=2;pts=25} 0.75
+  - effect:particlering{p=snowshovel;a=42;hS=0.3;vS=0.3;v=0;y=7.5;r=3.5;pts=25} 0.75
+  - effect:particlering{p=snowshovel;a=42;hS=0.3;vS=0.3;v=0;y=9;r=2.6;pts=25} 0.75
+  - effect:particlering{p=snowshovel;a=42;hS=0.3;vS=0.3;v=0;y=10.5;r=2.5;pts=25} 0.75
+  - effect:particlering{p=snowshovel;a=42;hS=0.3;vS=0.3;v=0;y=11;r=1.5;pts=20} 0.75
+ymir_particles_vfx_6:
+  Skills:
+  - effect:particlering{p=snowshovel;a=40;hS=0.3;vS=0.3;v=0;y=0;r=1.5;pts=25} 0.7
+  - effect:particlering{p=snowshovel;a=40;hS=0.3;vS=0.3;v=0;y=1.5;r=1.5;pts=25} 0.7
+  - effect:particlering{p=snowshovel;a=40;hS=0.3;vS=0.3;v=0;y=3;r=1.5;pts=25} 0.7
+  - effect:particlering{p=snowshovel;a=40;hS=0.3;vS=0.3;v=0;y=4.5;r=1.5;pts=25} 0.7
+  - effect:particlering{p=snowshovel;a=40;hS=0.3;vS=0.3;v=0;y=6;r=2;pts=25} 0.7
+  - effect:particlering{p=snowshovel;a=40;hS=0.3;vS=0.3;v=0;y=7.5;r=3.5;pts=25} 0.7
+  - effect:particlering{p=snowshovel;a=40;hS=0.3;vS=0.3;v=0;y=9;r=2.6;pts=25} 0.7
+  - effect:particlering{p=snowshovel;a=40;hS=0.3;vS=0.3;v=0;y=10.5;r=2.5;pts=25} 0.7
+  - effect:particlering{p=snowshovel;a=40;hS=0.3;vS=0.3;v=0;y=11;r=1.5;pts=20} 0.7
+ymir_particles_vfx_7:
+  Skills:
+  - effect:particlering{p=snowshovel;a=38;hS=0.3;vS=0.3;v=0;y=0;r=1.5;pts=25} 0.65
+  - effect:particlering{p=snowshovel;a=38;hS=0.3;vS=0.3;v=0;y=1.5;r=1.5;pts=25} 0.65
+  - effect:particlering{p=snowshovel;a=38;hS=0.3;vS=0.3;v=0;y=3;r=1.5;pts=25} 0.65
+  - effect:particlering{p=snowshovel;a=38;hS=0.3;vS=0.3;v=0;y=4.5;r=1.5;pts=25} 0.65
+  - effect:particlering{p=snowshovel;a=38;hS=0.3;vS=0.3;v=0;y=6;r=2;pts=25} 0.65
+  - effect:particlering{p=snowshovel;a=38;hS=0.3;vS=0.3;v=0;y=7.5;r=3.5;pts=25} 0.65
+  - effect:particlering{p=snowshovel;a=38;hS=0.3;vS=0.3;v=0;y=9;r=2.6;pts=25} 0.65
+  - effect:particlering{p=snowshovel;a=38;hS=0.3;vS=0.3;v=0;y=10.5;r=2.5;pts=25} 0.65
+  - effect:particlering{p=snowshovel;a=38;hS=0.3;vS=0.3;v=0;y=11;r=1.5;pts=20} 0.65
+ymir_particles_vfx_8:
+  Skills:
+  - effect:particlering{p=snowshovel;a=36;hS=0.3;vS=0.3;v=0;y=0;r=1.5;pts=25} 0.6
+  - effect:particlering{p=snowshovel;a=36;hS=0.3;vS=0.3;v=0;y=1.5;r=1.5;pts=25} 0.6
+  - effect:particlering{p=snowshovel;a=36;hS=0.3;vS=0.3;v=0;y=3;r=1.5;pts=25} 0.6
+  - effect:particlering{p=snowshovel;a=36;hS=0.3;vS=0.3;v=0;y=4.5;r=1.5;pts=25} 0.6
+  - effect:particlering{p=snowshovel;a=36;hS=0.3;vS=0.3;v=0;y=6;r=2;pts=25} 0.6
+  - effect:particlering{p=snowshovel;a=36;hS=0.3;vS=0.3;v=0;y=7.5;r=3.5;pts=25} 0.6
+  - effect:particlering{p=snowshovel;a=36;hS=0.3;vS=0.3;v=0;y=9;r=2.6;pts=25} 0.6
+  - effect:particlering{p=snowshovel;a=36;hS=0.3;vS=0.3;v=0;y=10.5;r=2.5;pts=25} 0.6
+  - effect:particlering{p=snowshovel;a=36;hS=0.3;vS=0.3;v=0;y=11;r=1.5;pts=20} 0.6
+ymir_particles_vfx_9:
+  Skills:
+  - effect:particlering{p=snowshovel;a=34;hS=0.3;vS=0.3;v=0;y=0;r=1.5;pts=25} 0.55
+  - effect:particlering{p=snowshovel;a=34;hS=0.3;vS=0.3;v=0;y=1.5;r=1.5;pts=25} 0.55
+  - effect:particlering{p=snowshovel;a=34;hS=0.3;vS=0.3;v=0;y=3;r=1.5;pts=25} 0.55
+  - effect:particlering{p=snowshovel;a=34;hS=0.3;vS=0.3;v=0;y=4.5;r=1.5;pts=25} 0.55
+  - effect:particlering{p=snowshovel;a=34;hS=0.3;vS=0.3;v=0;y=6;r=2;pts=25} 0.55
+  - effect:particlering{p=snowshovel;a=34;hS=0.3;vS=0.3;v=0;y=7.5;r=3.5;pts=25} 0.55
+  - effect:particlering{p=snowshovel;a=34;hS=0.3;vS=0.3;v=0;y=9;r=2.6;pts=25} 0.55
+  - effect:particlering{p=snowshovel;a=34;hS=0.3;vS=0.3;v=0;y=10.5;r=2.5;pts=25} 0.55
+  - effect:particlering{p=snowshovel;a=34;hS=0.3;vS=0.3;v=0;y=11;r=1.5;pts=20} 0.55
+ymir_particles_vfx_10:
+  Skills:
+  - effect:particlering{p=snowshovel;a=32;hS=0.3;vS=0.3;v=0;y=0;r=1.5;pts=25} 0.5
+  - effect:particlering{p=snowshovel;a=32;hS=0.3;vS=0.3;v=0;y=1.5;r=1.5;pts=25} 0.5
+  - effect:particlering{p=snowshovel;a=32;hS=0.3;vS=0.3;v=0;y=3;r=1.5;pts=25} 0.5
+  - effect:particlering{p=snowshovel;a=32;hS=0.3;vS=0.3;v=0;y=4.5;r=1.5;pts=25} 0.5
+  - effect:particlering{p=snowshovel;a=32;hS=0.3;vS=0.3;v=0;y=6;r=2;pts=25} 0.5
+  - effect:particlering{p=snowshovel;a=32;hS=0.3;vS=0.3;v=0;y=7.5;r=3.5;pts=25} 0.5
+  - effect:particlering{p=snowshovel;a=32;hS=0.3;vS=0.3;v=0;y=9;r=2.6;pts=25} 0.5
+  - effect:particlering{p=snowshovel;a=32;hS=0.3;vS=0.3;v=0;y=10.5;r=2.5;pts=25} 0.5
+  - effect:particlering{p=snowshovel;a=32;hS=0.3;vS=0.3;v=0;y=11;r=1.5;pts=20} 0.5
+ymir_wisp_fx:
+  Skills:
+  - skill{s=ymir_wisp_sfx} @MobsInRadius{r=100;t=ymir_wisp1,ymir_wisp2,ymir_wisp3}
+  - skill{s=ymir_wisp_vfx}
+ymir_wisp_sfx:
+  Skills:
+  - effect:sound{s=random.orb;v=0.1;p=2} @selflocation ~onTimer:5 0.1
+ymir_wisp_vfx:
+  Skills:
+  - effect:particles{p=snowshovel;a=2;vS=0.5;hS=0.5;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp1,ymir_wisp2,ymir_wisp3} 0.9
+  - effect:particles{p=blockcrack_133;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp1} 0.9
+  - effect:particles{p=blockcrack_57;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp2} 0.9
+  - effect:particles{p=blockcrack_152;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp3} 0.9
+  - delay 1
+  - effect:particles{p=blockcrack_133;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp1} 0.9
+  - effect:particles{p=blockcrack_57;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp2} 0.9
+  - effect:particles{p=blockcrack_152;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp3} 0.9
+  - delay 1
+  - effect:particles{p=blockcrack_133;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp1} 0.9
+  - effect:particles{p=blockcrack_57;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp2} 0.9
+  - effect:particles{p=blockcrack_152;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp3} 0.9
+  - delay 1
+  - effect:particles{p=blockcrack_133;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp1} 0.9
+  - effect:particles{p=blockcrack_57;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp2} 0.9
+  - effect:particles{p=blockcrack_152;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp3} 0.9
+  - delay 1
+  - effect:particles{p=blockcrack_133;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp1} 0.9
+  - effect:particles{p=blockcrack_57;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp2} 0.9
+  - effect:particles{p=blockcrack_152;a=7;vS=0;hS=0;v=0;y=1.25} @MobsInRadius{r=100;t=ymir_wisp3} 0.9
+ymir_feedback:
+  Conditions:
+  - stance InCombat
+  Skills:
+  - skill{s=ymir_feedback_growl} 0.2
+ymir_feedback_healthbar:
+# mysterious ASCII bug with these: █, ▀
+  Conditions:
+  - stance InCombat
+  Skills:
+  - sendactionmessage{msg="&4&l----------&7"} =101%-90%
+  - sendactionmessage{msg="&4&l---------&7&l-"} =90%-80%
+  - sendactionmessage{msg="&4&l--------&7&l--"} =80%-70%
+  - sendactionmessage{msg="&4&l-------&7&l---"} =70%-60%
+  - sendactionmessage{msg="&4&l------&7&l----"} =60%-50%
+  - sendactionmessage{msg="&4&l-----&7&l-----"} =50%-40%
+  - sendactionmessage{msg="&4&l----&7&l------"} =40%-30%
+  - sendactionmessage{msg="&4&l---&7&l-------"} =30%-20%
+  - sendactionmessage{msg="&4&l--&7&l--------"} =20%-10%
+  - sendactionmessage{msg="&4&l-&7&l---------"} =10%-0%
+ymir_feedback_healthbar_damaged:               # makes the healthbar flash
+  Skills:
+  - skill{s=ymir_feedback_healthbar_damaged_1}
+  - skill{s=ymir_feedback_healthbar_damaged_2}
+  - skill{s=ymir_feedback_healthbar_damaged_3}
+ymir_feedback_healthbar_damaged_1:
+  Conditions:
+  - stance Wet
+  Skills:
+  - sendactionmessage{msg="&4&l---------&c&l-&7"} =101%-90%
+  - sendactionmessage{msg="&4&l--------&c&l-&7&l-"} =90%-80%
+  - sendactionmessage{msg="&4&l-------&c&l-&7&l--"} =80%-70%
+  - sendactionmessage{msg="&4&l------&c&l-&7&l---"} =70%-60%
+  - sendactionmessage{msg="&4&l-----&c&l-&7&l----"} =60%-50%
+  - sendactionmessage{msg="&4&l----&c&l-&7&l-----"} =50%-40%
+  - sendactionmessage{msg="&4&l---&c&l-&7&l------"} =40%-30%
+  - sendactionmessage{msg="&4&l--&c&l-&7&l-------"} =30%-20%
+  - sendactionmessage{msg="&4&l-&c&l-&7&l--------"} =20%-10%
+  - sendactionmessage{msg="&c&l-&7&l---------"} =10%-0%
+  - delay 7
+  - skill{s=ymir_feedback_healthbar}
+ymir_feedback_healthbar_damaged_2:
+  Conditions:
+  - stance Dry
+  Skills:
+  - sendactionmessage{msg="&4&l--------&c&l--&7"} =101%-90%
+  - sendactionmessage{msg="&4&l-------&c&l--&7&l-"} =90%-80%
+  - sendactionmessage{msg="&4&l------&c&l--&7&l--"} =80%-70%
+  - sendactionmessage{msg="&4&l-----&c&l--&7&l---"} =70%-60%
+  - sendactionmessage{msg="&4&l----&c&l--&7&l----"} =60%-50%
+  - sendactionmessage{msg="&4&l---&c&l--&7&l-----"} =50%-40%
+  - sendactionmessage{msg="&4&l--&c&l--&7&l------"} =40%-30%
+  - sendactionmessage{msg="&4&l-&c&l--&7&l-------"} =30%-20%
+  - sendactionmessage{msg="&4&l&c&l--&7&l--------"} =20%-10%
+  - sendactionmessage{msg="&c&l-&7&l---------"} =10%-0%
+  - delay 7
+  - skill{s=ymir_feedback_healthbar}
+ymir_feedback_healthbar_damaged_3:
+  Conditions:
+  - stance Soaking
+  Skills:
+  - sendactionmessage{msg="&4&l---------&c&l-&7"} =101%-90%
+  - sendactionmessage{msg="&4&l--------&c&l-&7&l-"} =90%-80%
+  - sendactionmessage{msg="&4&l-------&c&l-&7&l--"} =80%-70%
+  - sendactionmessage{msg="&4&l------&c&l-&7&l---"} =70%-60%
+  - sendactionmessage{msg="&4&l-----&c&l-&7&l----"} =60%-50%
+  - sendactionmessage{msg="&4&l----&c&l-&7&l-----"} =50%-40%
+  - sendactionmessage{msg="&4&l---&c&l-&7&l------"} =40%-30%
+  - sendactionmessage{msg="&4&l--&c&l-&7&l-------"} =30%-20%
+  - sendactionmessage{msg="&4&l-&c&l-&7&l--------"} =20%-10%
+  - sendactionmessage{msg="&c&l-&7&l---------"} =10%-0%
+  - delay 7
+  - skill{s=ymir_feedback_healthbar}
+ymir_feedback_growl:
+  Cooldown: 7
+  Skills:
+  - effect:sound{s=mob.enderdragon.growl;v=0.775;p=0.5}
+  - delay 5
+  - effect:sound{s=mob.enderdragon.growl;v=0.4;p=0.525} =90%-70%
+  - effect:sound{s=mob.enderdragon.growl;v=0.4;p=0.55} =70%-50%
+  - effect:sound{s=mob.enderdragon.growl;v=0.4;p=0.575} =50%-10%
+  - effect:sound{s=mob.enderdragon.growl;v=0.4;p=0.6} =30%-10%
+  - effect:sound{s=mob.enderdragon.growl;v=0.4;p=0.625} =10%-1%
+  - effect:sound{s=mob.enderdragon.growl;v=0.4;p=0.65} =0%
+ymir_death_1:                                  # replaces itself with a dummy for animation purposes
+  Skills:
+  - setstance{stance=Dead}
+  - sendactionmessage{msg="&7&l----------"} @PlayersInRadius{r=50}
+  - weather{type=clear}
+  - equip{i=Dummy:4}
+  - equip{i=Dummy:3}
+  - equip{i=Dummy:2}
+  - equip{i=Dummy:1}
+  - equip{i=Dummy:0}
+  - summon{m=ymir_dummy;a=1;r=0}
+  - remove
+ymir_death_2:                                  # executed by "ymir_dummy"
+  Skills:
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>Invulnerable<&co>1b<&rc>"} @self
+  - potion{type=INVISIBILITY;d=72000;l=0} @self
+  - jump{v=1}
+  - effect:sound{s=portal.travel;v=1.5;p=0}
+  - effect:sound{s=mob.enderdragon.growl;v=1.25;p=0.5}
+  - effect:sound{s=mob.enderdragon.growl;v=1.5;p=0.6}
+  - effect:sound{s=portal.trigger;v=2;p=0}
+  - effect:sound{s=mob.wither.spawn;v=1;p=0.25}
+  - effect:particles{p=instantSpell;a=400;vS=6;hS=4;Speed=0;y=0} @self
+  - throw{v=13;vy=7} @PlayersInRadius{r=12}
+  - potion{type=DAMAGE_RESISTANCE;d=60;l=5} @PlayersInRadius{r=12}
+  - effect:sound{s=random.explode;v=1;p=0.5}
+  - effect:particles{p=explode;a=400;vS=2;hS=2;Speed=0;y=1} @self
+  - effect:particles{p=blockcrack_57;a=150;vS=3;hS=4;Speed=0;y=1} @self
+  - delay 20
+  - effect:sound{s=mob.zombie.unfect;v=1;p=0.5}
+  - effect:sound{s=mob.zombie.unfect;v=1;p=0.55}
+  - effect:sound{s=mob.zombie.unfect;v=1;p=0.6}
+  - delay 60
+  - effect:sound{s=mob.wither.spawn;v=1;p=0}
+  - effect:particles{p=instantSpell;a=400;vS=6;hS=4;Speed=0;y=0} @self
+  - throw{v=13;vy=7} @PlayersInRadius{r=12}
+  - potion{type=DAMAGE_RESISTANCE;d=60;l=5} @PlayersInRadius{r=12}
+  - effect:sound{s=random.explode;v=1;p=0.5}
+  - effect:particles{p=explode;a=500;vS=2;hS=4;Speed=5;y=3.5} @self
+  - effect:particles{p=blockcrack_57;a=300;vS=4;hS=5;Speed=0;y=3.5} @self
+  - equip{i=ymir_dummy:2} @self
+  - delay 20
+  - effect:particles{p=instantSpell;a=400;vS=6;hS=4;Speed=0;y=0} @self
+  - throw{v=13;vy=7} @PlayersInRadius{r=12}
+  - potion{type=DAMAGE_RESISTANCE;d=60;l=5} @PlayersInRadius{r=12}
+  - effect:sound{s=random.explode;v=1;p=0.5}
+  - effect:particles{p=explode;a=1000;vS=5;hS=7;Speed=0;y=6} @self
+  - effect:particles{p=blockcrack_57;a=600;vS=5;hS=7;Speed=0;y=6} @self
+  - equip{i=ymir_dummy:3} @self
+  - delay 5
+  - summon{m=ymir_pl;a=1;r=0} @self
+  - summon{m=ymir_sl;a=15;r=7}
+  - throw{v=0;vy=24} @MobsInRadius{r=100;t=ymir_pl,ymir_sl}
+  - delay 55
+  - effect:particles{p=instantSpell;a=400;vS=6;hS=4;Speed=0;y=0} @self
+  - throw{v=13;vy=7} @PlayersInRadius{r=12}
+  - potion{type=DAMAGE_RESISTANCE;d=60;l=5} @PlayersInRadius{r=12}
+  - effect:sound{s=random.explode;v=1;p=0}
+  - effect:sound{s=random.explode;v=1;p=0.25}
+  - effect:sound{s=random.explode;v=1;p=0.5}
+  - potion{type=BLINDNESS;d=20;l=0}
+  - effect:particles{p=explode;a=600;vS=2;hS=4.5;Speed=5;y=11.5} @self
+  - effect:particles{p=blockcrack_57;a=350;vS=5;hS=5;Speed=0;y=11.5} @self
+  - equip{i=ymir_dummy:4} @self
+  - equip{i=ymir_dummy:0} @self
+  - remove @MobsInRadius{r=50;t=ymir_dblock_animator}
+  - remove @self
+################################################
+### BATTLE SKILLS
+ymir_fire_weakness_listener:                   #
+  Skills:
+  - skill{s=ymir_fire_weakness_enabler} >20%
+  - skill{s=ymir_fire_weakness_prevention}
+  - skill{s=ymir_fire_weakness_dry_fx}
+  - skill{s=ymir_fire_weakness_soaking_fx}
+ymir_fire_weakness_enabler:                    #
+  Cooldown: 70
+  Conditions:
+  - inblock FIRE
+  - stance Wet
+  Skills:
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~2 ~7 ~2 ~-2 ~-7 ~-2 air 0 replace fire"}
+  - setstance{stance=InCombat_Dry}
+  - potion{t=SLOW;d=200;l=99}
+  - potion{t=FIRE_RESISTANCE;d=200;l=99}
+  - effect:sound{s=mob.enderdragon.growl;v=0.45;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.enderdragon.growl;v=0.5;p=0.7} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.ghast.fireball;v=0.7;p=0.5} @PlayersInRadius{r=50}
+  - ignite{t=200}
+  - equip{i=ymir_chestplate_leather:3}
+  - equip{i=ymir_leggings_leather:2}
+  - delay 190
+  - jump{v=0.75}
+  - equip{i=ymir_chestplate:3}
+  - equip{i=ymir_leggings:2}
+  - delay 10
+  - setstance{stance=InCombat_Soaking}
+  - skill{s=ymir_fire_weakness_blow_fires_fx}
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>Fire<&co>-1s<&rc>"}
+  - delay 1200 >20%
+  - setstance{stance=InCombat_Wet} >20%
+ymir_fire_weakness_prevention:                 #
+  Skills:
+  - skill{s=ymir_fire_weakness_prevention_1}
+  - skill{s=ymir_fire_weakness_prevention_2}
+ymir_fire_weakness_prevention_1:               #
+  Conditions:
+  - stance Wet
+  Skills:
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>Fire<&co>-1s<&rc>"}
+ymir_fire_weakness_prevention_2:               #
+  Conditions:
+  - stance Soaking
+  Skills:
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>Fire<&co>-1s<&rc>"}
+ymir_fire_weakness_extra_damage:               #
+  Cooldown: 0.1
+  Conditions:
+  - stance Dry
+  Skills:
+  - damage{a=5;i=true}
+ymir_freezing_attack_soft:                     # freezes target for 6 seconds and disables his attacks
+  Cooldown: 21
+  Conditions:
+  - targetwithin 5
+  - offgcd true
+  Skills:
+  - gcd{t=5}
+  - summon{m=ymir_ss;a=1;r=0}
+  - potion{type=SLOW;d=120;l=1}
+  - effect:sound{s=random.fizz;v=2;p=2}
+ymir_freezing_attack_hard:                     # ditto, longer and more intensive
+  Conditions:
+  - offgcd true
+  Skills:
+  - gcd{t=5}
+  - summon{m=ymir_ls;a=1;r=0}
+  - potion{type=SLOW;d=240;l=2}
+  - effect:sound{s=random.fizz;v=2;p=2}
+  - effect:sound{s=random.fizz;v=2;p=1.75}
+  - effect:sound{s=random.fizz;v=2;p=1.5}
+ymir_ice_prison:                               # damages and encases the target in ice
+  Conditions:
+  - offgcd true
+  Skills:
+  - gcd{t=5}
+  - damage{a=6;i=true}
+  - prison{type=ICE;duration=100;breakable=true}
+  - effect:sound{s=step.snow;v=2;p=1}
+ymir_jump_toggler:                             # giants can't jump >.>
+  Cooldown: 3
+  Conditions:
+  - targetnotwithin 10
+  Skills:
+  - skill{s=ymir_jump_validity_check}
+ymir_jump_validity_check:                      #
+  Skills:
+  - skill{s=ymir_jump_validity_check_1}
+  - skill{s=ymir_jump_validity_check_2}
+ymir_jump_validity_check_1:                    #
+  Conditions:
+  - stance Wet
+  - offgcd true
+  Skills:
+  - delay 40
+  - effect:particles{p=explode;a=100;vS=1;hS=1.75;v=0;y=1}
+  - jump{v=0.75}
+  - delay 7
+  - leap{v=70;noise=5} @target
+ymir_jump_validity_check_2:                    #
+  Conditions:
+  - stance Soaking
+  - offgcd true
+  Skills:
+  - delay 40
+  - effect:particles{p=explode;a=100;vS=1;hS=1.75;v=0;y=1}
+  - jump{v=0.75}
+  - delay 7
+  - leap{v=70;noise=5} @target
+ymir_icebomb_rain:                             # ice bomb skill - destructive
+  Cooldown: 45
+  Conditions:
+  - outside true
+  Skills:
+  - gcd{t=200}
+  - potion{t=SLOW;d=200;l=99}
+  - effect:sound{s=mob.zombie.unfect;v=1;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=1;p=0.6} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=1;p=0.7} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=1;p=0.8} @PlayersInRadius{r=50}
+  - delay 30
+  - summon{m=ymir_ibs;a=1;r=0}
+  - delay 130
+  - delay 40
+  - remove @MobsInRadius{r=100;t=ymir_ib}
+ymir_lightning_retaliation:                    # lightning...
+  Cooldown: 7
+  Conditions:
+  - offgcd true
+  Skills:
+  - summon{m=ymir_plr;a=1;r=0} @trigger
+  - effect:sound{s=random.fizz;v=1;p=0} @MobsInRadius{r=100;t=ymir_plr}
+  - effect:particles{p=blockcrack_174;a=500;vS=0.25;hS=0.25;v=0;y=11.5} @self
+  - effect:particles{p=blockcrack_174;a=200;vS=0;hS=0.5;v=0;y=2} @MobsInRadius{r=100;t=ymir_plr}
+  - delay 5
+  - effect:particles{p=blockcrack_174;a=150;vS=0;hS=0.5;v=0;y=1.5} @MobsInRadius{r=100;t=ymir_plr}
+  - delay 5
+  - effect:sound{s=random.fizz;v=1;p=0} @MobsInRadius{r=100;t=ymir_plr}
+  - effect:particles{p=blockcrack_174;a=500;vS=0.25;hS=0.25;v=0;y=11.5} @self
+  - effect:particles{p=blockcrack_174;a=125;vS=0;hS=0.5;v=0;y=1} @MobsInRadius{r=100;t=ymir_plr}
+  - delay 5
+  - effect:particles{p=blockcrack_174;a=100;vS=0;hS=0.5;v=0;y=0.66} @MobsInRadius{r=100;t=ymir_plr}
+  - delay 5
+  - effect:sound{s=random.fizz;v=1;p=0} @MobsInRadius{r=100;t=ymir_plr}
+  - effect:particles{p=blockcrack_174;a=500;vS=0.25;hS=0.25;v=0;y=11.5} @self
+  - effect:particles{p=blockcrack_174;a=75;vS=0;hS=0.5;v=0;y=0.33} @MobsInRadius{r=100;t=ymir_plr}
+  - delay 5
+  - effect:particles{p=blockcrack_174;a=50;vS=0;hS=0.5;v=0;y=0} @MobsInRadius{r=100;t=ymir_plr}
+  - remove @MobsInRadius{r=100;t=ymir_plr}
+ymir_lightning_ambient:                        # no damage
+  Skills:
+  - summon{m=ymir_alr;a=1;r=20;yn=0} @self
+ymir_lightning_retaliation_mad_smite:          # made this rare - aint zeus
+  Conditions:
+  - offgcd true
+  Skills:
+  - projectile{oT=ymir_lightning_retaliation_mad_smite_tick;oH=ymir_lightning_retaliation_mad_smite_hit;hs=true;i=5;v=15} @trigger
+ymir_lightning_retaliation_mad_smite_tick:     # 
+  Skills:
+  - effect:lightning @origin
+  - damage{a=1;i=true} @PlayersNearOrigin
+  - throw{v=5;vy=2} @PlayersNearOrigin
+ymir_lightning_retaliation_mad_smite_hit:      #
+  Skills:
+  - effect:lightning @origin
+  - effect:explosion @origin
+  - damage{a=3;i=true} @PlayersNearOrigin
+  - throw{v=10;vy=3} @PlayersNearOrigin
+ymir_iceblock_minion_parent:                   # ever got killed by a block?
+  Skills:
+  - summon{m=ymir_ibmc;a=2;r=7;yn=2;yu=true}
+ymir_iceblock_minion_check:                    # 
+  Conditions:
+  - onblock ICE
+  Skills:
+  - summon{m=ymir_ibm;a=1;r=0} @self
+ymir_iceblock_minion_initialisation:           #
+  Skills:
+  - disguise{d=block:ICE}
+  - effect:sound{s=random.pop;v=1;p=0} @selflocation
+  - command{cmd="execute <mob.uuid> ~ ~ ~ fill ~ ~-1 ~ ~ ~-1 ~ air 0 replace ice"}
+  - jump{v=1}
+  - delay 1
+  - damage{a=0}
+  - mount{m=ymir_ibmm} 0.1
+ymir_ice_projectile:                           # shoots a projectile that toggles a random skill on hit
+  Skills:
+  - projectile{oT=ymir_ice_projectile_tick;oH=ymir_ice_projectile_hit;v=10;i=1;hR=1;vR=1;syo=10} @PlayersInRadius{r=50}
+ymir_ice_projectile_tick:                      #
+  Skills:
+  - effect:particles{p=blockcrack_174;a=20;speed=0;hR=0.2;vR=0.2} @origin
+  - effect:particles{p=instantSpell;a=1;speed=20;hS=0.5;vS=0.05} @origin 0.8
+  - effect:sound{s=step.snow;p=2} @origin
+ymir_ice_projectile_hit:                       #
+  Skills:
+  - randomskill{skills=ymir_ice_prison,ymir_freezing_attack_hard,ymir_iceblock_minion_parent,ymir_fillerskill} @PlayersNearOrigin
+ymir_frostnova:                                # guess what this does 
+  Cooldown: 20
+  Skills:
+  - gcd{t=80}
+  - potion{t=SLOW;d=80;l=99}
+  - effect:sound{s=mob.zombie.unfect;v=0.8;p=1.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.8;p=1.4} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.8;p=1.3} @PlayersInRadius{r=50}
+  - delay 20
+  - effect:sound{s=mob.zombie.unfect;v=0.25;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.25;p=0.6} @PlayersInRadius{r=50}
+  - delay 5
+  - effect:sound{s=mob.zombie.unfect;v=0.5;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.5;p=0.6} @PlayersInRadius{r=50}
+  - delay 5
+  - effect:sound{s=mob.zombie.unfect;v=0.6;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.6;p=0.6} @PlayersInRadius{r=50}
+  - delay 5
+  - effect:sound{s=mob.zombie.unfect;v=0.7;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.7;p=0.6} @PlayersInRadius{r=50}
+  - delay 5
+  - effect:sound{s=mob.zombie.unfect;v=0.8;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.8;p=0.6} @PlayersInRadius{r=50}
+  - delay 5
+  - effect:sound{s=mob.zombie.unfect;v=0.9;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=0.9;p=0.6} @PlayersInRadius{r=50}
+  - delay 5
+  - jump{v=0.75}
+  - effect:sound{s=mob.zombie.unfect;v=1;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=1;p=0.6} @PlayersInRadius{r=50}
+  - delay 5
+  - effect:sound{s=mob.zombie.unfect;v=1;p=0.5} @PlayersInRadius{r=50}
+  - effect:sound{s=mob.zombie.unfect;v=1;p=0.6} @PlayersInRadius{r=50}
+  - delay 15
+  - effect:sound{s=mob.zombie.unfect;v=1;p=0.5} @PlayersInRadius{r=50}
+  - summon{m=ymir_ibmm;a=10;r=15;yu=true} @self
+  - summon{m=ymir_ibmm;a=5;r=7;yu=true} @PlayersInRadius{r=50}
+  - projectile{oT=ymir_frostnova_tick;oH=ymir_frostnova_hit;v=15;i=4;hR=1;vR=1;hs=true} @MobsInRadius{r=60;t=ymir_ibmm}
+  - projectile{oT=ymir_frostnova_tick;oH=ymir_frostnova_hit;v=15;i=1;hR=1;vR=1;hs=true} @PlayersInRadius{r=50}
+  - delay 5
+  - remove @MobsInRadius{r=100;t=ymir_ibmm}
+ymir_frostnova_tick:                           #
+  Skills:
+  - effect:particles{p=blockcrack_174;a=20;speed=20;hS=1;vS=0.2} @origin 0.9
+  - effect:particles{p=instantSpell;a=4;speed=20;hS=0.5;vS=0.05} @origin 0.9
+  - effect:sound{s=step.snow;p=2} @origin 0.3
+ymir_frostnova_hit:                            #
+  Skills:
+  - skill{s=ymir_frostbite_toggler} @PlayersNearOrigin 0.95
+ymir_frostbite_toggler:                        # summons "ymir_it"
+  Skills:
+  - summon{m=ymir_it;a=1;r=0}
+ymir_frostbite:                                # toggled by dummy "ymir_it"
+  Skills:
+  - potion{type=DAMAGE_RESISTANCE;d=20;l=2} @PlayersInRadius{r=2}
+  - explosion{blockdamage=true;fire=false;yield=3} @self
+  - delay 3
+  - throw{v=0.2;vy=25} @PlayersInRadius{r=3.5}
+  - effect:explosion
+  - delay 9
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~ ~-3 ~ ~ ~6 ~ packed_ice 0 replace air"}
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~1 ~-3 ~ ~ ~5 ~ ice 0 replace air"}
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~-1 ~-3 ~ ~ ~4 ~ ice 0 replace air"}
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~ ~-3 ~1 ~ ~3 ~ packed_ice 0 replace air"}
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~ ~-3 ~-1 ~ ~2 ~ ice 0 replace air"}
+  - delay 1
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~ ~-3 ~ ~ ~6 ~ ice 0 replace packed_ice"} 0.5
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~1 ~-3 ~ ~ ~5 ~ packed_ice 0 replace ice"} 0.5
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~-1 ~-3 ~ ~ ~4 ~ packed_ice 0 replace ice"} 0.5
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~ ~-3 ~1 ~ ~3 ~ ice 0 replace packed_ice"} 0.5
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~ ~-3 ~-1 ~ ~2 ~ packed_ice 0 replace ice"} 0.5
+  - remove
+ymir_random_ice_projectile:                    # randomly toggled during the dwarf waves - copy of "ymir_ice_projectile"
+  Cooldown: 7
+  Conditions:
+  - stance PreCombat
+  Skills:
+  - skill{s=ymir_random_ice_projectile_1} 0.005
+  - skill{s=ymir_random_ice_projectile_2} 0.010
+  - skill{s=ymir_random_ice_projectile_3} 0.015
+  - skill{s=ymir_random_ice_projectile_4} 0.02
+ymir_random_ice_projectile_1:                  #
+  Cooldown: 60
+  Conditions:
+  - stance Phase1
+  Skills:
+  - skill{s=ymir_ice_projectile}
+ymir_random_ice_projectile_2:                  #
+  Cooldown: 50
+  Conditions:
+  - stance Phase2
+  Skills:
+  - skill{s=ymir_ice_projectile}
+ymir_random_ice_projectile_3:                  #
+  Cooldown: 40
+  Conditions:
+  - stance Phase3
+  Skills:
+  - skill{s=ymir_ice_projectile}
+ymir_random_ice_projectile_4:                  #
+  Cooldown: 30
+  Conditions:
+  - stance Phase4
+  Skills:
+  - skill{s=ymir_ice_projectile}
+################################################
+################################################
+### dwarf skills
+ymir_dwa_initiation:
+  Skills:
+  - setstance{stance=passive}
+  - skill{s=ymir_dwa_w_equip_4}
+  - skill{s=ymir_dwa_w_equip_3}
+  - skill{s=ymir_dwa_w_equip_2}
+  - skill{s=ymir_dwa_w_equip_1}
+ymir_dwa_target_manipulator:
+  Conditions:
+  - stance passive
+  Skills:
+  - runaitargetselector{s=players}
+  - setstance{stance=phase1}
+ymir_dwa_ragemode_check:
+#  Conditions:
+#  - stance phase1
+  Skills:
+  - skill{s=ymir_dwa_summon_ymir_check_parent}
+  - delay 2
+  - skill{s=ymir_dwa_ragemode}
+ymir_dwa_ragemode:
+  Conditions:
+  - offgcd true
+  Skills:
+  - setstance{stance=phase2}
+  - potion{t=SLOW;d=60;l=10}
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <mob.uuid> <&lc>Invulnerable<&co>1b<&rc>"}
+  - potion{type=DAMAGE_RESISTANCE;d=10;l=99} @PlayersInRadius{r=7}
+  - throw{v=5;vy=2} @PlayersInRadius{r=7}
+  - explosion{blockdamage=true;fire=false;yield=3}
+  - command{cmd="execute <mob.uuid> ~ ~ ~ fill ~4 ~4 ~4 ~-4 ~-4 ~-4 air 0 replace obsidian"}
+  - effect:particles{p=depthsuspend;a=150;vS=0.5;hS=3;v=1;y=1}
+  - effect:particles{p=reddust;a=250;vS=0.5;hS=2;v=0;y=1}
+  - effect:sound{s=mob.zombie.remedy;p=0.66} @selflocation
+  - throw{v=11;vy=3} @PlayersInRadius{r=7}
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <mob.uuid> <&lc>Invulnerable<&co>0b<&rc>"}
+  - delay 20
+  - equip{item=Dummy:0}
+  - delay 40
+  - effect:sound{s=mob.horse.armor;v=2;p=0.5} @selflocation
+  - equip{item=DwarfenDiamondPick:0}
+ymir_dwa_slowness:
+  Skills:
+  - skill{s=ymir_dwa_diamond_block_slowness_1}
+  - skill{s=ymir_dwa_diamond_block_slowness_2}
+  - skill{s=ymir_dwa_sunlight_slowness}
+ymir_dwa_diamond_block_slowness_1:
+  Conditions:
+#  - stance phase1
+  - outside true
+#  - heightabove 62
+  - inblock AIR
+  - onblock DIAMOND_BLOCK
+#  - biome ICE_PLAINS,ICE_MOUNTAINS,FROZEN_OCEAN,FROZEN_RIVER,COLD_TAIGA,COLD_TAIGA_HILLS
+  Skills:
+  - equip{i=NoRageIronPickKBR:0}
+  - potion{t=SLOW;d=60;l=99}
+  - effect:particles{p=blockcrack_57;a=15;hS=0.15;vs=0.2;v=0;y=0}
+ymir_dwa_diamond_block_slowness_2:
+  Conditions:
+#  - stance phase1
+  - outside true
+  - heightabove 62
+  - inblock AIR
+  - onblock DIAMOND_BLOCK
+  - biome EXTREME_HILLS,EXTREME_HILLS_PLUS,STONE_BEACH
+  Skills:
+  - equip{i=NoRageIronPickKBR:0}
+  - potion{t=SLOW;d=60;l=99}
+  - effect:particles{p=blockcrack_57;a=15;hS=0.15;vs=0.2;v=0;y=0}
+ymir_dwa_sunlight_slowness:                    # slowness in sunlight >50%
+  Conditions:
+  - stance phase1
+  - sunny true
+  - outside true
+  - lightlevelabove 10
+  - worldtime 0-12500
+  Skills:
+  - potion{t=SLOW;d=10;l=1} @self
+ymir_dwa_random_powerpunch:                    # ! improve sfx
+  Skills:
+  - effect:sound{s=step.ladder;p=0.5}
+  - throw{v=6;vy=4}
+ymir_dwa_random_poison:
+  Skills:
+  - potion{t=POISON;d=140;l=0}
+ymir_dwa_stone_minion:                         # stone block minion section   /// shared with dwarven minions
+  Conditions:
+  - incombat
+  Skills:
+  - summon{m=ymir_dwa_sbc;n=7;yn=0;os=true}
+ymir_dwa_stone_minion_check:
+  Skills:
+  - skill{s=ymir_dwa_stone_minion_summon}
+  - remove{delay=1}
+ymir_dwa_stone_minion_summon:
+  Conditions:
+  - onblock STONE
+  Skills:
+  - summon{m=ymir_dwa_sb;r=0}
+ymir_dwa_stone_minion_spawn:
+  Skills:
+  - disguise{d=block:1}
+  - effect:sound{s=random.pop;v=1;p=0} @selflocation
+  - command{cmd="execute <mob.uuid> ~ ~ ~ fill ~ ~-1 ~ ~ ~-1 ~ air 0 replace stone"}
+  - jump{v=1}
+  - delay 1
+  - damage{a=0}
+ymir_dwa_stone_minion_fx:
+  Skills:
+  - effect:sound{s=step.stone;v=1;p=0} @trigger
+  - effect:particles{p=blockcrack_1;a=25;hS=0.5;vS=0.5}
+ymir_dwa_hit_fx:                               # on taking damage   /// shared with dwarven minions
+  Skills:
+  - effect:sound{s=random.break;p=0}
+  - effect:sound{s=mob.zombie.hurt;v=0.66;p=0.7} >50%
+  - effect:sound{s=mob.zombie.hurt;v=0.66;p=0.65} <50%
+ymir_dwa_death_fx:                             # on death          /// shared with dwarven minions
+  Skills:
+  - disguise{d=zombie}
+  - potion{type=SLOW;d=18000;l=10} @MobsInRadius{radius=30;types=ymir_dwa_sb}
+  - effect:particles{particle=depthsuspend;amount=500;vSpread=0.1;hSpread=0.75;Speed=0;yoffset=0.1}
+  - effect:sound{s=mob.zombie.death;v=0.4;p=0.6} @selflocation
+################################################
+### summoning of ymir
+ymir_dwa_summon_ymir_check_parent:
+  Skills:
+  - skill{s=ymir_dwa_summon_ymir_check_1}
+  - skill{s=ymir_dwa_summon_ymir_check_2}
+ymir_dwa_summon_ymir_check_1:                  # cold biomes or
+  Conditions:
+  - outside true
+#  - heightabove 62
+  - inblock AIR
+  - onblock DIAMOND_BLOCK
+#  - biome ICE_PLAINS,ICE_MOUNTAINS,FROZEN_OCEAN,FROZEN_RIVER,COLD_TAIGA,COLD_TAIGA_HILLS
+  Skills:
+  - skill{s=ymir_dwa_summon_ymir_1}
+ymir_dwa_summon_ymir_check_2:                  # extreme hills >y100
+  Conditions:
+  - outside true
+  - heightabove 100
+  - inblock AIR
+  - onblock DIAMOND_BLOCK
+  - biome EXTREME_HILLS,EXTREME_HILLS_PLUS,STONE_BEACH
+  Skills:
+  - skill{s=ymir_dwa_summon_ymir_1}
+ymir_dwa_summon_ymir_1:                        # executed by "dwa"
+  Skills:
+  - gcd{t=10}
+  - potion{type=DAMAGE_RESISTANCE;d=10;l=99} @PlayersInRadius{r=7}
+  - throw{v=5;vy=2} @PlayersInRadius{r=7}
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~6 ~-1 ~6 ~-6 ~-3 ~-6 stone 0 replace dirt"}
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~6 ~-1 ~6 ~-6 ~-3 ~-6 stone 0 replace gravel"}
+  - delay 4
+  - explosion{blockdamage=true;fire=false;yield=3}
+  - delay 1
+  - explosion{blockdamage=true;fire=false;yield=5}
+  - summon{m=ymir_dblock;a=1;r=0}
+  - effect:lightning
+  - remove
+ymir_dwa_summon_ymir_2:                        # executed by "ymir_dblock"
+  Skills:
+  - weather{type=storm} @self
+  - effect:sound{s=mob.wither.spawn;v=0.4;p=1.9}
+  - effect:sound{s=mob.wither.spawn;v=0.4;p=1.6}
+  - delay 140
+  - effect:sound{s=portal.trigger;v=0.9;p=0.5}
+  - delay 20
+  - effect:sound{s=portal.trigger;v=10;p=0.7} @self
+  - effect:sound{s=portal.trigger;v=1.5;p=0.7}
+  - delay 40
+  - effect:sound{s=mob.zombie.unfect;v=0.7;p=0.5} 
+  - delay 5
+  - effect:sound{s=mob.zombie.unfect;v=0.7;p=0.7}
+  - delay 15
+  - effect:sound{s=mob.zombie.unfect;v=0.7;p=0.5}
+  - effect:sound{s=mob.zombie.unfect;v=0.7;p=0.6}
+  - effect:sound{s=mob.zombie.unfect;v=0.7;p=0.7}
+  - delay 30
+  - effect:sound{s=mob.enderdragon.growl;v=0.4;p=0.5}
+  - effect:sound{s=mob.enderdragon.growl;v=0.45;p=0.6}
+  - delay 20
+  - effect:flames @self
+  - lightning @self
+  - potion{type=NIGHT_VISION;d=50;l=1}
+  - potion{type=BLINDNESS;d=35;l=1}
+  - potion{type=DAMAGE_RESISTANCE;d=60;l=99}
+  - throw{v=15;vy=5} @PlayersInRadius{r=20}
+  - throw{v=10;vy=2.5} @PlayersInRing{min=7;max=15}
+  - explosion{blockdamage=true;fire=false;yield=15} @self
+  - delay 1
+  - summon{m=ymir;a=1;r=0} @MobsInRadius{r=15;t=ymir_dblock_animator}
+  - remove @MobsInRadius{r=15;t=ymir_dblock_animator}
+  - remove @self
+ymir_dwa_summon_ymir_2b:                       # executed by "ymir_dblock_animator"
+  Skills: # t=270
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~1 ~2 ~1 ~-1 ~-1 ~-1 packed_ice 0 replace stone"}
+  - delay 10
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~1 ~2 ~1 ~-1 ~-1 ~-1 ice 0 replace grass"}
+  - delay 5
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~1 ~2 ~1 ~-1 ~-1 ~-1 ice 0 replace dirt"}
+  - delay 15
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~2 ~2 ~2 ~-2 ~-1 ~-2 packed_ice 0 replace stone"}
+  - delay 5
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~2 ~2 ~2 ~-2 ~-1 ~-2 ice 0 replace grass"}
+  - delay 5
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~2 ~2 ~2 ~-2 ~-1 ~-2 ice 0 replace dirt"}
+  - delay 5
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~3 ~2 ~3 ~-3 ~-1 ~-3 packed_ice 0 replace stone"}
+  - delay 15
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~3 ~2 ~3 ~-3 ~-1 ~-3 ice 0 replace grass"}
+  - delay 10
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~3 ~2 ~3 ~-3 ~-1 ~-3 ice 0 replace dirt"}
+  - delay 10
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~4 ~2 ~4 ~-4 ~-1 ~-4 packed_ice 0 replace stone"}
+  - delay 5
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~4 ~2 ~4 ~-4 ~-1 ~-4 ice 0 replace grass"}
+  - delay 5
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~4 ~2 ~4 ~-4 ~-1 ~-4 ice 0 replace dirt"}
+  - delay 180
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~8 ~-1 ~8 ~-8 ~-3 ~-8 stone 0 replace dirt"}
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~8 ~-1 ~8 ~-8 ~-3 ~-8 stone 0 replace gravel"}
+ymir_dblock_animator_engine:                   # summoning related fx
+  Skills:
+  - effect:particleline{p=blockcrack_57;a=1;v=0}
+  - effect:particleline{p=snowshovel;a=1;hS=0.1;v=0}
+  - effect:particles{p=snowshovel;a=20;hS=0.3;vS=0.15;v=0} @self
+  - summon{m=ymir_dblock_ib;a=1;n=8;yn=2;yu=true} @self 0.9
+  - throw{v=0;vy=0.2}
+  - delay 1
+  - effect:particles{p=snowshovel;a=20;hS=0.3;vS=0.15;v=0} @self
+  - summon{m=ymir_dblock_ib;a=1;n=8;yn=2;yu=true} @self 0.9
+  - throw{v=0;vy=0.2}
+  - delay 1
+  - effect:particles{p=snowshovel;a=20;hS=0.3;vS=0.15;v=0} @self
+  - summon{m=ymir_dblock_ib;a=1;n=8;yn=2;yu=true} @self 0.9
+  - throw{v=0;vy=0.2}
+  - delay 1
+  - effect:particles{p=snowshovel;a=20;hS=0.3;vS=0.15;v=0} @self
+  - summon{m=ymir_dblock_ib;a=1;n=8;yn=2;yu=true} @self 0.9
+  - throw{v=0;vy=0.2}
+  - delay 1
+  - effect:particles{p=snowshovel;a=20;hS=0.3;vS=0.15;v=0} @self
+  - summon{m=ymir_dblock_ib;a=1;n=8;yn=2;yu=true} @self 0.9
+  - throw{v=0;vy=0.2}
+ymir_dblock_ib_check:
+  Skills:
+  - skill{s=ymir_dblock_ib_check_soft}
+  - skill{s=ymir_dblock_ib_check_hard}
+ymir_dblock_ib_check_soft:
+  Conditions:
+  - onblock GRASS,DIRT,GRAVEL
+  Skills:
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~ ~-1 ~ ~ ~-1 ~ ice 0 replace"}
+  - effect:particles{p=blockcrack_79;a=5;hS=0.1;vS=0.05;v=0}
+ymir_dblock_ib_check_hard:
+  Conditions:
+  - onblock STONE
+  Skills:
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~ ~-1 ~ ~ ~-1 ~ packed_ice 0 replace"}
+  - effect:particles{p=blockcrack_174;a=5;hS=0.1;vS=0.05;v=0}
+################################################
+### dwarven minion skills
+ymir_dwa_w_initialisation:
+  Skills:
+  - setstance{stance=PreRage_Nope_NoSkin}
+  - skill{s=ymir_dwa_skin}
+  - skill{s=ymir_dwa_w_equip_4}
+  - skill{s=ymir_dwa_w_equip_3}
+  - skill{s=ymir_dwa_w_equip_2}
+  - skill{s=ymir_dwa_w_equip_1}
+  - skill{s=ymir_dwa_w_equip_0}
+ymir_dwa_a_initialisation:
+  Skills:
+  - setstance{stance=PreRage_Nope_NoSkin}
+  - skill{s=ymir_dwa_skin}
+  - skill{s=ymir_dwa_a_equip_4}
+  - skill{s=ymir_dwa_a_equip_3}
+  - skill{s=ymir_dwa_a_equip_2}
+  - skill{s=ymir_dwa_a_equip_1}
+  - skill{s=ymir_dwa_a_equip_0}
+ymir_dwa_b_initialisation:
+  Skills:
+  - setstance{stance=PreRage_Nope_NoSkin}
+  - skill{s=ymir_dwa_skin}
+  - skill{s=ymir_dwa_b_equip_4}
+  - skill{s=ymir_dwa_b_equip_3}
+  - skill{s=ymir_dwa_b_equip_2}
+  - skill{s=ymir_dwa_b_equip_1}
+  - skill{s=ymir_dwa_b_equip_0}
+ymir_dwa_m_ymir_enabler_engine:
+  Conditions:
+  - stance Phase3
+  Skills:
+  - setstance{stance=PreCombat_Phase4_Deactivator}
+  - delay 1
+  - setstance{stance=PreCombat_Phase4_Deactivator}
+  - delay 1
+  - setstance{stance=PreCombat_Phase4_Deactivator}
+  - delay 1
+  - setstance{stance=PreCombat_Phase4_Deactivator}
+  - delay 1
+  - setstance{stance=PreCombat_Phase4_Deactivator}
+ymir_dwa_m_ragemode_phasecheck:                # chance for buffs - one time event /// all dwarven minions
+  Conditions:
+  - stance PreRage
+  Skills:
+  - skill{s=ymir_dwa_m_ragemode_processor_1}
+  - skill{s=ymir_dwa_m_ragemode_processor_2}
+ymir_dwa_m_ragemode_processor_1:
+  Conditions:
+  - stance Phase3
+  Skills:
+  - setstance{stance=PostRage_Phase3}
+  - skill{s=ymir_dwa_m_ragemode}
+ymir_dwa_m_ragemode_processor_2:
+  Conditions:
+  - stance Nope
+  Skills:
+  - setstance{stance=PostRage_Nope}
+  - skill{s=ymir_dwa_m_ragemode}
+ymir_dwa_m_ragemode:
+  Skills:
+  - effect:particles{particle=depthsuspend;amount=150;vSpread=0.5;hSpread=3;Speed=1;yoffset=1}
+  - effect:particles{particle=reddust;amount=250;vSpread=0.5;hSpread=2;Speed=0;yoffset=1}
+  - effect:sound{s=mob.zombie.remedy;v=0.2;p=0.5}
+  - throw{v=10;vy=1} @PlayersInRadius{r=7}
+  - potion{t=SPEED;d=1800;l=1} 0.5
+  - potion{t=INCREASE_DAMAGE;d=1800;l=1} 0.3
+ymir_dwa_a_archery_engine:                     # ranged attacks
+  Conditions:
+  - targetinlineofsight
+  Skills:
+  - skill{s=ymir_dwa_a_archery_maxrange}
+  - skill{s=ymir_dwa_a_archery_d15} 0.7
+  - skill{s=ymir_dwa_a_archery_d10} 0.7
+  - skill{s=ymir_dwa_a_archery_d7} 0.7
+  - skill{s=ymir_dwa_a_archery_d5} 0.8
+  - skill{s=ymir_dwa_a_archery_d3} 0.9
+ymir_dwa_a_archery_maxrange:
+  Conditions:
+  - targetwithin 6
+  Skills:
+  - potion{type=SLOW;d=40;l=99} @self
+ymir_dwa_a_archery_d15:
+  Conditions:
+  - targetnotwithin 10
+  Skills:
+  - shoot{type=arrow;damage=4;maxdistance=25;velocity=2}
+ymir_dwa_a_archery_d10:
+  Conditions:
+  - targetwithin 10
+  - targetnotwithin 7
+  Skills:
+  - shoot{type=arrow;damage=5;maxdistance=25;velocity=2}
+ymir_dwa_a_archery_d7:
+  Conditions:
+  - targetwithin 7
+  - targetnotwithin 5
+  Skills:
+  - shoot{type=arrow;damage=6;maxdistance=25;velocity=2}
+ymir_dwa_a_archery_d5:
+  Conditions:
+  - targetwithin 5
+  - targetnotwithin 3
+  Skills:
+  - shoot{type=arrow;damage=7;maxdistance=10;velocity=1}
+ymir_dwa_a_archery_d3:
+  Conditions:
+  - targetwithin 3
+  Skills:
+  - shoot{type=arrow;damage=8;maxdistance=10;velocity=1}
+ymir_dwa_b_buff:                               # @ other dwarfs
+  Skills:
+  - potion{type=HARM;d=100;l=0} @MobsInRadius{radius=5;types=ymir_dwa_w,ymir_dwa_a,ymir_dwa}
+  - potion{type=DAMAGE_RESISTANCE;d=100;l=2} @MobsInRadius{radius=5;types=ymir_dwa_w,ymir_dwa_a,ymir_dwa}
+ymir_dwa_b_debuff:                             # @ players
+  Skills:
+  - skill{s=ymir_dwa_b_debuff_blind} 0.2
+  - skill{s=ymir_dwa_b_debuff_poison} 0.4
+  - skill{s=ymir_dwa_b_debuff_slow} 0.2
+  - skill{s=ymir_dwa_b_debuff_hunger} 0.1
+  - skill{s=ymir_dwa_b_debuff_wither} 0.05
+ymir_dwa_b_debuff_blind:                       # common debuffs
+  Cooldown: 3
+  Conditions:
+  - targetwithin 2
+  Skills:
+  - potion{type=BLINDNESS;d=20;l=0}
+  - effect:sound{s=random.anvil_land;v=0.25;p=0.2} @selflocation
+  - effect:particles{particle=blockcrack_90;amount=50;vSpread=0;hSpread=0;Speed=2;yOffset=1.5}
+ymir_dwa_b_debuff_poison:
+  Cooldown: 3
+  Conditions:
+  - targetwithin 2
+  Skills:
+  - potion{type=POISON;d=60;l=0}
+  - effect:sound{s=random.anvil_land;v=0.25;p=0.2} @selflocation
+  - effect:particles{particle=blockcrack_90;amount=50;vSpread=0;hSpread=0;Speed=2;yOffset=1.5}
+ymir_dwa_b_debuff_slow:
+  Cooldown: 3
+  Conditions:
+  - targetwithin 2
+  Skills:
+  - potion{type=SLOW;d=60;l=0}
+  - effect:sound{s=random.anvil_land;v=0.25;p=0.2} @selflocation
+  - effect:particles{particle=blockcrack_90;amount=50;vSpread=0;hSpread=0;Speed=2;yOffset=1.5}
+ymir_dwa_b_debuff_hunger:                      # rare debuffs
+  Cooldown: 5
+  Conditions:
+  - targetwithin 2
+  Skills:
+  - potion{type=HUNGER;d=200;l=1}
+  - effect:sound{s=random.anvil_use;p=0} @selflocation
+  - effect:particles{particle=blockcrack_90;amount=100;vSpread=0;hSpread=0;Speed=2;yOffset=1.5}
+ymir_dwa_b_debuff_wither:
+  Cooldown: 5
+  Conditions:
+  - targetwithin 2
+  Skills:
+  - potion{type=WITHER;d=140;l=0}
+  - effect:sound{s=random.anvil_use;p=0} @selflocation
+  - effect:particles{particle=blockcrack_90;amount=100;vSpread=0;hSpread=0;Speed=2;yOffset=1.5}
+################################################
+### dwarven minion - "randomized" equipment skills
+ymir_dwa_skin:                                 # Random Skin core
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - skill{s=ymir_dwa_skin_Gravn} 0.01
+  - skill{s=ymir_dwa_skin_Mattyyy} 0.01
+  - skill{s=ymir_dwa_skin_memnoc} 0.01
+  - skill{s=ymir_dwa_skin_Neofelis} 0.01
+  - skill{s=ymir_dwa_skin_Tornado95} 0.01
+  - skill{s=ymir_dwa_skin_xscizorx} 0.01
+  - skill{s=ymir_dwa_skin_Jesse} 0.01
+  - skill{s=ymir_dwa_skin_peinmini} 0.01
+  - skill{s=ymir_dwa_skin_Breccard} 0.01
+  - skill{s=ymir_dwa_skin_lordmike7898} 0.01
+  - skill{s=ymir_dwa_skin_sowa125} 0.01
+  - skill{s=ymir_dwa_skin_cwsager} 0.01
+  - skill{s=ymir_dwa_skin_Due_Date} 0.01
+  - skill{s=ymir_dwa_skin_honeydew} 0.001
+  - skill{s=ymir_dwa_skin_Herobrine} 0.0001
+  - skill{s=ymir_dwa_skin_jaylawl} 0.0001
+  - skill{s=ymir_dwa_skin}
+ymir_dwa_skin_Gravn:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_Mattyyy:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_memnoc:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_Neofelis:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_Tornado95:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_xscizorx:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_Jesse:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_peinmini:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_Breccard:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_lordmike7898:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_sowa125:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_cwsager:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_Due_Date:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_honeydew:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_Herobrine:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_skin_jaylawl:
+  Conditions:
+  - stance NoSkin
+  Skills:
+  - setstance{stance=PreRage_Nope}
+ymir_dwa_w_equip_4: 
+  Skills:
+  - equip{i=mc_leather_helmet:4} 1
+  - equip{i=mc_chainmail_helmet:4} 0.7
+  - equip{i=mc_iron_helmet:4} 0.5
+  - equip{i=mc_golden_helmet:4} 0.03
+  - equip{i=mc_diamond_helmet:4} 0.1
+  - equip{i=mc_dummy:4} 0.05
+ymir_dwa_w_equip_3: 
+  Skills:
+  - equip{i=mc_leather_chestplate:3} 1
+  - equip{i=mc_chainmail_chestplate:3} 0.7
+  - equip{i=mc_iron_chestplate:3} 0.5
+  - equip{i=mc_gold_chestplate:3} 0.03
+  - equip{i=mc_diamond_chestplate:3} 0.1
+  - equip{i=mc_dummy:3} 0.01
+ymir_dwa_w_equip_2:
+  Skills:
+  - equip{i=mc_leather_leggings:2} 1
+  - equip{i=mc_chainmail_leggings:2} 0.7
+  - equip{i=mc_iron_leggings:2} 0.5
+  - equip{i=mc_golden_leggings:2} 0.03
+  - equip{i=mc_diamond_leggings:2} 0.1
+  - equip{i=mc_dummy:2} 0.05
+ymir_dwa_w_equip_1:
+  Skills:
+  - equip{i=mc_leather_boots:1} 1
+  - equip{i=mc_chainmail_boots:1} 0.7
+  - equip{i=mc_iron_boots:1} 0.5
+  - equip{i=mc_golden_boots:1} 0.03
+  - equip{i=mc_diamond_boots:1} 0.1
+  - equip{i=mc_dummy:1} 0.05
+ymir_dwa_w_equip_0:
+  Skills:
+  - equip{i=mc_iron_sword:0} 1	
+  - equip{i=mc_golden_sword:0} 0.1
+  - equip{i=mc_diamond_sword:0} 0.4
+  - equip{i=mc_golden_axe:0} 0.1
+  - equip{i=mc_iron_axe:0} 0.2
+  - equip{i=mc_diamond_axe:0} 0.05
+  - equip{i=mc_iron_pickaxe:0} 0.2
+  - equip{i=mc_diamond_pickaxe:0} 0.05
+ymir_dwa_a_equip_4: 
+  Skills:
+  - equip{i=mc_leather_helmet:4} 1
+  - equip{i=mc_chainmail_helmet:4} 0.7
+  - equip{i=mc_iron_helmet:4} 0.3
+ymir_dwa_a_equip_3:
+  Skills:
+  - equip{i=mc_leather_chestplate:3} 1
+  - equip{i=mc_chainmail_chestplate:3} 0.7
+  - equip{i=mc_iron_chestplate:3} 0.3
+ymir_dwa_a_equip_2:
+  Skills:
+  - equip{i=mc_leather_leggings:2} 1
+  - equip{i=mc_chainmail_leggings:2} 0.7
+  - equip{i=mc_iron_leggings:2} 0.3
+ymir_dwa_a_equip_1:
+  Skills:
+  - equip{i=mc_leather_boots:1} 1
+  - equip{i=mc_chainmail_boots:1} 0.7
+  - equip{i=mc_iron_boots:1} 0.5
+ymir_dwa_a_equip_0:
+  Skills:
+  - equip{i=mc_bow:0} 1
+ymir_dwa_b_equip_4:
+  Skills:
+  - equip{i=mc_leather_helmet_red:4} 1
+ymir_dwa_b_equip_3:
+  Skills:
+  - equip{i=mc_leather_chestplate_red:3} 1
+ymir_dwa_b_equip_2:
+  Skills:
+  - equip{i=mc_leather_leggings:2} 1
+  - equip{i=mc_chainmail_leggings:2} 0.8
+  - equip{i=mc_iron_leggings:2} 0.8
+  - equip{i=mc_golden_leggings:2} 0.08
+  - equip{i=mc_diamond_leggings:2} 0.8
+ymir_dwa_b_equip_1:
+  Skills:
+  - equip{i=mc_leather_boots:1} 1
+  - equip{i=mc_chainmail_boots:1} 0.7
+  - equip{i=mc_iron_boots:1} 0.5
+  - equip{i=mc_golden_boots:1} 0.8
+  - equip{i=mc_diamond_boots:1} 0.8
+ymir_dwa_b_equip_0:
+  Skills:
+  - equip{i=mc_anvil:0} 1

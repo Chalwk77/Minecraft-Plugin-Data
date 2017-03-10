@@ -1,0 +1,60 @@
+PlayerLastName: AboveGames
+EnderChestSize: 27
+EnderChestInventory:
+  '28':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENDER_PEARL
+    amount: 11
+  '29':
+    ==: org.bukkit.inventory.ItemStack
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: Above's Shield
+      internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYORgYIfyGZiTi1KZGVid83PyixhAgJmBxSmxOJUBZAwDAMfLSnxNAAAA
+      blockMaterial: SHIELD
+  '33':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '35':
+    ==: org.bukkit.inventory.ItemStack
+    type: SADDLE
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIRT
+    amount: 64
+  '31':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    damage: 132
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Lumber Axe
+      lore:
+      - §a§oCuts down the whole Tree...
+      enchants:
+        DIG_SPEED: 4
+        LOOT_BONUS_BLOCKS: 3
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §k§6§kii§r§dOverlord§k§6§kii
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10

@@ -1,0 +1,1798 @@
+Inventories:
+  '25':
+    Time: 1458455367796
+    Exp: 7827
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.60000014
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9776564
+        Amplifier: 1
+    Location:
+      world: world
+      x: 660.2230620460017
+      y: 63.0
+      z: 193.33387793637246
+      pitch: 4.9498396
+      yaw: 176.4045
+    Items:
+      '0':
+        type: STONE_SWORD
+        damage: 102
+      '1':
+        type: STONE_PICKAXE
+        damage: 20
+      '2':
+        type: PORK
+        amount: 7
+      '3':
+        type: STONE_SWORD
+      '5':
+        type: STONE_PICKAXE
+      '6':
+        type: LOG
+        amount: 31
+      '7':
+        type: WOOL
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: MUTTON
+      '10':
+        type: COAL
+      '11':
+        type: DIAMOND_AXE
+        damage: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '12':
+        type: GRILLED_PORK
+        amount: 64
+      '13':
+        type: GRILLED_PORK
+        amount: 64
+      '14':
+        type: DIAMOND
+        amount: 32
+      '15':
+        type: GRILLED_PORK
+        amount: 64
+      '16':
+        type: GRILLED_PORK
+        amount: 64
+      '17':
+        type: GRILLED_PORK
+        amount: 24
+      '18':
+        type: MONSTER_EGG
+        damage: 50
+        amount: 3
+      '19':
+        type: MONSTER_EGG
+        damage: 67
+        amount: 12
+      '20':
+        type: MONSTER_EGG
+        damage: 95
+        amount: 12
+      '21':
+        type: MONSTER_EGG
+        damage: 98
+        amount: 6
+      '22':
+        type: MONSTER_EGG
+        damage: 59
+        amount: 3
+      '23':
+        type: MONSTER_EGG
+        damage: 96
+        amount: 6
+      '24':
+        type: MONSTER_EGG
+        damage: 101
+        amount: 12
+      '25':
+        type: MONSTER_EGG
+        damage: 68
+        amount: 12
+      '26':
+        type: MONSTER_EGG
+        damage: 58
+        amount: 3
+      '27':
+        type: MELON_SEEDS
+      '31':
+        type: EMERALD
+        amount: 12
+      '32':
+        type: BOW
+        damage: 273
+      '33':
+        type: MONSTER_EGG
+        damage: 94
+        amount: 12
+      '34':
+        type: SEEDS
+        amount: 2
+      '35':
+        type: SAPLING
+        damage: 3
+        amount: 5
+  '26':
+    Time: 1459465469186
+    Exp: 7827
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.60000014
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9776564
+        Amplifier: 1
+    Location:
+      world: world
+      x: 660.2230620460017
+      y: 63.0
+      z: 193.33387793637246
+      pitch: 4.9498396
+      yaw: 176.4045
+    Items:
+      '0':
+        type: STONE_SWORD
+        damage: 102
+      '1':
+        type: STONE_PICKAXE
+        damage: 20
+      '2':
+        type: PORK
+        amount: 7
+      '3':
+        type: STONE_SWORD
+      '5':
+        type: STONE_PICKAXE
+      '6':
+        type: LOG
+        amount: 31
+      '7':
+        type: WOOL
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: MUTTON
+      '10':
+        type: COAL
+      '11':
+        type: DIAMOND_AXE
+        damage: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '12':
+        type: GRILLED_PORK
+        amount: 64
+      '13':
+        type: GRILLED_PORK
+        amount: 64
+      '14':
+        type: DIAMOND
+        amount: 32
+      '15':
+        type: GRILLED_PORK
+        amount: 64
+      '16':
+        type: GRILLED_PORK
+        amount: 64
+      '17':
+        type: GRILLED_PORK
+        amount: 24
+      '18':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+      '19':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMAfFTUotyM0tSGRgApa6DsSEAAAA=
+      '20':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAJz89JY2AAAIves4gcAAAA
+      '21':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWDzr0rNyS9hYAAA3vuJER4AAAA=
+      '22':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeByTixLDS7ITEktYmAAAAPjG5IiAAAA
+      '23':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD2LS3OKMrPz3XOL2dgAADFQ0VuIwAAAA==
+      '24':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALSkxKyixhYAAAFcawFB4AAAA=
+      '25':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwL00sSslMzGNgAACFWNpqIAAAAA==
+      '26':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwzUtJLcpNzGNgAAB2vyyKIAAAAA==
+      '27':
+        type: MELON_SEEDS
+      '31':
+        type: EMERALD
+        amount: 12
+      '32':
+        type: BOW
+        damage: 273
+      '33':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANLiwFUgwAxMeU0x0AAAA=
+      '34':
+        type: SEEDS
+        amount: 2
+      '35':
+        type: SAPLING
+        damage: 3
+        amount: 5
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '27':
+    Time: 1459469877438
+    Exp: 7827
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.60000014
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9776564
+        Amplifier: 1
+    Location:
+      world: world
+      x: 660.2230620460017
+      y: 63.0
+      z: 193.33387793637246
+      pitch: 4.9498396
+      yaw: 176.4045
+    Items:
+      '0':
+        type: STONE_SWORD
+        damage: 102
+      '1':
+        type: STONE_PICKAXE
+        damage: 20
+      '2':
+        type: PORK
+        amount: 7
+      '3':
+        type: STONE_SWORD
+      '5':
+        type: STONE_PICKAXE
+      '6':
+        type: LOG
+        amount: 31
+      '7':
+        type: WOOL
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: MUTTON
+      '10':
+        type: COAL
+      '11':
+        type: DIAMOND_AXE
+        damage: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '12':
+        type: GRILLED_PORK
+        amount: 64
+      '13':
+        type: GRILLED_PORK
+        amount: 64
+      '14':
+        type: DIAMOND
+        amount: 32
+      '15':
+        type: GRILLED_PORK
+        amount: 64
+      '16':
+        type: GRILLED_PORK
+        amount: 64
+      '17':
+        type: GRILLED_PORK
+        amount: 24
+      '18':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+      '19':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMAfFTUotyM0tSGRgApa6DsSEAAAA=
+      '20':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAJz89JY2AAAIves4gcAAAA
+      '21':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWDzr0rNyS9hYAAA3vuJER4AAAA=
+      '22':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeByTixLDS7ITEktYmAAAAPjG5IiAAAA
+      '23':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD2LS3OKMrPz3XOL2dgAADFQ0VuIwAAAA==
+      '24':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALSkxKyixhYAAAFcawFB4AAAA=
+      '25':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwL00sSslMzGNgAACFWNpqIAAAAA==
+      '26':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwzUtJLcpNzGNgAAB2vyyKIAAAAA==
+      '27':
+        type: MELON_SEEDS
+      '31':
+        type: EMERALD
+        amount: 12
+      '32':
+        type: BOW
+        damage: 273
+      '33':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANLiwFUgwAxMeU0x0AAAA=
+      '34':
+        type: SEEDS
+        amount: 2
+      '35':
+        type: SAPLING
+        damage: 3
+        amount: 5
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '28':
+    Time: 1459659267236
+    Exp: 7827
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.60000014
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9776564
+        Amplifier: 1
+    Location:
+      world: world
+      x: 660.2230620460017
+      y: 63.0
+      z: 193.33387793637246
+      pitch: 4.9498396
+      yaw: 176.4045
+    Items:
+      '0':
+        type: STONE_SWORD
+        damage: 102
+      '1':
+        type: STONE_PICKAXE
+        damage: 20
+      '2':
+        type: PORK
+        amount: 7
+      '3':
+        type: STONE_SWORD
+      '5':
+        type: STONE_PICKAXE
+      '6':
+        type: LOG
+        amount: 31
+      '7':
+        type: WOOL
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: MUTTON
+      '10':
+        type: COAL
+      '11':
+        type: DIAMOND_AXE
+        damage: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '12':
+        type: GRILLED_PORK
+        amount: 64
+      '13':
+        type: GRILLED_PORK
+        amount: 64
+      '14':
+        type: DIAMOND
+        amount: 32
+      '15':
+        type: GRILLED_PORK
+        amount: 64
+      '16':
+        type: GRILLED_PORK
+        amount: 64
+      '17':
+        type: GRILLED_PORK
+        amount: 24
+      '18':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+      '19':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMAfFTUotyM0tSGRgApa6DsSEAAAA=
+      '20':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAJz89JY2AAAIves4gcAAAA
+      '21':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWDzr0rNyS9hYAAA3vuJER4AAAA=
+      '22':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeByTixLDS7ITEktYmAAAAPjG5IiAAAA
+      '23':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD2LS3OKMrPz3XOL2dgAADFQ0VuIwAAAA==
+      '24':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALSkxKyixhYAAAFcawFB4AAAA=
+      '25':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwL00sSslMzGNgAACFWNpqIAAAAA==
+      '26':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwzUtJLcpNzGNgAAB2vyyKIAAAAA==
+      '27':
+        type: MELON_SEEDS
+      '31':
+        type: EMERALD
+        amount: 12
+      '32':
+        type: BOW
+        damage: 273
+      '33':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANLiwFUgwAxMeU0x0AAAA=
+      '34':
+        type: SEEDS
+        amount: 2
+      '35':
+        type: SAPLING
+        damage: 3
+        amount: 5
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '29':
+    Time: 1459766741871
+    Exp: 7827
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.60000014
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9776564
+        Amplifier: 1
+    Location:
+      world: world
+      x: 660.2230620460017
+      y: 63.0
+      z: 193.33387793637246
+      pitch: 4.9498396
+      yaw: 176.4045
+    Items:
+      '0':
+        type: STONE_SWORD
+        damage: 102
+      '1':
+        type: STONE_PICKAXE
+        damage: 20
+      '2':
+        type: PORK
+        amount: 7
+      '3':
+        type: STONE_SWORD
+      '5':
+        type: STONE_PICKAXE
+      '6':
+        type: LOG
+        amount: 31
+      '7':
+        type: WOOL
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: MUTTON
+      '10':
+        type: COAL
+      '11':
+        type: DIAMOND_AXE
+        damage: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '12':
+        type: GRILLED_PORK
+        amount: 64
+      '13':
+        type: GRILLED_PORK
+        amount: 64
+      '14':
+        type: DIAMOND
+        amount: 32
+      '15':
+        type: GRILLED_PORK
+        amount: 64
+      '16':
+        type: GRILLED_PORK
+        amount: 64
+      '17':
+        type: GRILLED_PORK
+        amount: 24
+      '18':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+      '19':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMAfFTUotyM0tSGRgApa6DsSEAAAA=
+      '20':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAJz89JY2AAAIves4gcAAAA
+      '21':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWDzr0rNyS9hYAAA3vuJER4AAAA=
+      '22':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeByTixLDS7ITEktYmAAAAPjG5IiAAAA
+      '23':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD2LS3OKMrPz3XOL2dgAADFQ0VuIwAAAA==
+      '24':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALSkxKyixhYAAAFcawFB4AAAA=
+      '25':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwL00sSslMzGNgAACFWNpqIAAAAA==
+      '26':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwzUtJLcpNzGNgAAB2vyyKIAAAAA==
+      '27':
+        type: MELON_SEEDS
+      '31':
+        type: EMERALD
+        amount: 12
+      '32':
+        type: BOW
+        damage: 273
+      '33':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANLiwFUgwAxMeU0x0AAAA=
+      '34':
+        type: SEEDS
+        amount: 2
+      '35':
+        type: SAPLING
+        damage: 3
+        amount: 5
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '30':
+    Time: 1459847493042
+    Exp: 7827
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.60000014
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9776564
+        Amplifier: 1
+    Location:
+      world: world
+      x: 660.2230620460017
+      y: 63.0
+      z: 193.33387793637246
+      pitch: 4.9498396
+      yaw: 176.4045
+    Items:
+      '0':
+        type: STONE_SWORD
+        damage: 102
+      '1':
+        type: STONE_PICKAXE
+        damage: 20
+      '2':
+        type: PORK
+        amount: 7
+      '3':
+        type: STONE_SWORD
+      '5':
+        type: STONE_PICKAXE
+      '6':
+        type: LOG
+        amount: 31
+      '7':
+        type: WOOL
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: MUTTON
+      '10':
+        type: COAL
+      '11':
+        type: DIAMOND_AXE
+        damage: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '12':
+        type: GRILLED_PORK
+        amount: 64
+      '13':
+        type: GRILLED_PORK
+        amount: 64
+      '14':
+        type: DIAMOND
+        amount: 32
+      '15':
+        type: GRILLED_PORK
+        amount: 64
+      '16':
+        type: GRILLED_PORK
+        amount: 64
+      '17':
+        type: GRILLED_PORK
+        amount: 24
+      '18':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+      '19':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMAfFTUotyM0tSGRgApa6DsSEAAAA=
+      '20':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAJz89JY2AAAIves4gcAAAA
+      '21':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWDzr0rNyS9hYAAA3vuJER4AAAA=
+      '22':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeByTixLDS7ITEktYmAAAAPjG5IiAAAA
+      '23':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD2LS3OKMrPz3XOL2dgAADFQ0VuIwAAAA==
+      '24':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALSkxKyixhYAAAFcawFB4AAAA=
+      '25':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwL00sSslMzGNgAACFWNpqIAAAAA==
+      '26':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwzUtJLcpNzGNgAAB2vyyKIAAAAA==
+      '27':
+        type: MELON_SEEDS
+      '31':
+        type: EMERALD
+        amount: 12
+      '32':
+        type: BOW
+        damage: 273
+      '33':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANLiwFUgwAxMeU0x0AAAA=
+      '34':
+        type: SEEDS
+        amount: 2
+      '35':
+        type: SAPLING
+        damage: 3
+        amount: 5
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '31':
+    Time: 1460146828105
+    Exp: 7827
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.60000014
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9776564
+        Amplifier: 1
+    Location:
+      world: world
+      x: 660.2230620460017
+      y: 63.0
+      z: 193.33387793637246
+      pitch: 4.9498396
+      yaw: 176.4045
+    Items:
+      '0':
+        type: STONE_SWORD
+        damage: 102
+      '1':
+        type: STONE_PICKAXE
+        damage: 20
+      '2':
+        type: PORK
+        amount: 7
+      '3':
+        type: STONE_SWORD
+      '5':
+        type: STONE_PICKAXE
+      '6':
+        type: LOG
+        amount: 31
+      '7':
+        type: WOOL
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: MUTTON
+      '10':
+        type: COAL
+      '11':
+        type: DIAMOND_AXE
+        damage: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '12':
+        type: GRILLED_PORK
+        amount: 64
+      '13':
+        type: GRILLED_PORK
+        amount: 64
+      '14':
+        type: DIAMOND
+        amount: 32
+      '15':
+        type: GRILLED_PORK
+        amount: 64
+      '16':
+        type: GRILLED_PORK
+        amount: 64
+      '17':
+        type: GRILLED_PORK
+        amount: 24
+      '18':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+      '19':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMAfFTUotyM0tSGRgApa6DsSEAAAA=
+      '20':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAJz89JY2AAAIves4gcAAAA
+      '21':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWDzr0rNyS9hYAAA3vuJER4AAAA=
+      '22':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeByTixLDS7ITEktYmAAAAPjG5IiAAAA
+      '23':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD2LS3OKMrPz3XOL2dgAADFQ0VuIwAAAA==
+      '24':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALSkxKyixhYAAAFcawFB4AAAA=
+      '25':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwL00sSslMzGNgAACFWNpqIAAAAA==
+      '26':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwzUtJLcpNzGNgAAB2vyyKIAAAAA==
+      '27':
+        type: MELON_SEEDS
+      '31':
+        type: EMERALD
+        amount: 12
+      '32':
+        type: BOW
+        damage: 273
+      '33':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANLiwFUgwAxMeU0x0AAAA=
+      '34':
+        type: SEEDS
+        amount: 2
+      '35':
+        type: SAPLING
+        damage: 3
+        amount: 5
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '32':
+    Time: 1460883175291
+    Exp: 7827
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.60000014
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9776564
+        Amplifier: 1
+    Location:
+      world: world
+      x: 660.2230620460017
+      y: 63.0
+      z: 193.33387793637246
+      pitch: 4.9498396
+      yaw: 176.4045
+    Items:
+      '0':
+        type: STONE_SWORD
+        damage: 102
+      '1':
+        type: STONE_PICKAXE
+        damage: 20
+      '2':
+        type: PORK
+        amount: 7
+      '3':
+        type: STONE_SWORD
+      '5':
+        type: STONE_PICKAXE
+      '6':
+        type: LOG
+        amount: 31
+      '7':
+        type: WOOL
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: MUTTON
+      '10':
+        type: COAL
+      '11':
+        type: DIAMOND_AXE
+        damage: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '12':
+        type: GRILLED_PORK
+        amount: 64
+      '13':
+        type: GRILLED_PORK
+        amount: 64
+      '14':
+        type: DIAMOND
+        amount: 32
+      '15':
+        type: GRILLED_PORK
+        amount: 64
+      '16':
+        type: GRILLED_PORK
+        amount: 64
+      '17':
+        type: GRILLED_PORK
+        amount: 24
+      '18':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+      '19':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMAfFTUotyM0tSGRgApa6DsSEAAAA=
+      '20':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAJz89JY2AAAIves4gcAAAA
+      '21':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWDzr0rNyS9hYAAA3vuJER4AAAA=
+      '22':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeByTixLDS7ITEktYmAAAAPjG5IiAAAA
+      '23':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD2LS3OKMrPz3XOL2dgAADFQ0VuIwAAAA==
+      '24':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALSkxKyixhYAAAFcawFB4AAAA=
+      '25':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwL00sSslMzGNgAACFWNpqIAAAAA==
+      '26':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwzUtJLcpNzGNgAAB2vyyKIAAAAA==
+      '27':
+        type: MELON_SEEDS
+      '31':
+        type: EMERALD
+        amount: 12
+      '32':
+        type: BOW
+        damage: 273
+      '33':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANLiwFUgwAxMeU0x0AAAA=
+      '34':
+        type: SEEDS
+        amount: 2
+      '35':
+        type: SAPLING
+        damage: 3
+        amount: 5
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '33':
+    Time: 1462120699886
+    Exp: 7827
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.60000014
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9776564
+        Amplifier: 1
+    Location:
+      world: world
+      x: 660.2230620460017
+      y: 63.0
+      z: 193.33387793637246
+      pitch: 4.9498396
+      yaw: 176.4045
+    Items:
+      '0':
+        type: STONE_SWORD
+        damage: 102
+      '1':
+        type: STONE_PICKAXE
+        damage: 20
+      '2':
+        type: PORK
+        amount: 7
+      '3':
+        type: STONE_SWORD
+      '5':
+        type: STONE_PICKAXE
+      '6':
+        type: LOG
+        amount: 31
+      '7':
+        type: WOOL
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: MUTTON
+      '10':
+        type: COAL
+      '11':
+        type: DIAMOND_AXE
+        damage: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '12':
+        type: GRILLED_PORK
+        amount: 64
+      '13':
+        type: GRILLED_PORK
+        amount: 64
+      '14':
+        type: DIAMOND
+        amount: 32
+      '15':
+        type: GRILLED_PORK
+        amount: 64
+      '16':
+        type: GRILLED_PORK
+        amount: 64
+      '17':
+        type: GRILLED_PORK
+        amount: 24
+      '18':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+      '19':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMAfFTUotyM0tSGRgApa6DsSEAAAA=
+      '20':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAJz89JY2AAAIves4gcAAAA
+      '21':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWDzr0rNyS9hYAAA3vuJER4AAAA=
+      '22':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeByTixLDS7ITEktYmAAAAPjG5IiAAAA
+      '23':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD2LS3OKMrPz3XOL2dgAADFQ0VuIwAAAA==
+      '24':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALSkxKyixhYAAAFcawFB4AAAA=
+      '25':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwL00sSslMzGNgAACFWNpqIAAAAA==
+      '26':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwzUtJLcpNzGNgAAB2vyyKIAAAAA==
+      '27':
+        type: MELON_SEEDS
+      '31':
+        type: EMERALD
+        amount: 12
+      '32':
+        type: BOW
+        damage: 273
+      '33':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANLiwFUgwAxMeU0x0AAAA=
+      '34':
+        type: SEEDS
+        amount: 2
+      '35':
+        type: SAPLING
+        damage: 3
+        amount: 5
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '34':
+    Time: 1462483224506
+    Exp: 7827
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.60000014
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9776564
+        Amplifier: 1
+    Location:
+      world: world
+      x: 660.2230620460017
+      y: 63.0
+      z: 193.33387793637246
+      pitch: 4.9498396
+      yaw: 176.4045
+    Items:
+      '0':
+        type: STONE_SWORD
+        damage: 102
+      '1':
+        type: STONE_PICKAXE
+        damage: 20
+      '2':
+        type: PORK
+        amount: 7
+      '3':
+        type: STONE_SWORD
+      '5':
+        type: STONE_PICKAXE
+      '6':
+        type: LOG
+        amount: 31
+      '7':
+        type: WOOL
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: MUTTON
+      '10':
+        type: COAL
+      '11':
+        type: DIAMOND_AXE
+        damage: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '12':
+        type: GRILLED_PORK
+        amount: 64
+      '13':
+        type: GRILLED_PORK
+        amount: 64
+      '14':
+        type: DIAMOND
+        amount: 32
+      '15':
+        type: GRILLED_PORK
+        amount: 64
+      '16':
+        type: GRILLED_PORK
+        amount: 64
+      '17':
+        type: GRILLED_PORK
+        amount: 24
+      '18':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+      '19':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMAfFTUotyM0tSGRgApa6DsSEAAAA=
+      '20':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAJz89JY2AAAIves4gcAAAA
+      '21':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWDzr0rNyS9hYAAA3vuJER4AAAA=
+      '22':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeByTixLDS7ITEktYmAAAAPjG5IiAAAA
+      '23':
+        type: MONSTER_EGG
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD2LS3OKMrPz3XOL2dgAADFQ0VuIwAAAA==
+      '24':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALSkxKyixhYAAAFcawFB4AAAA=
+      '25':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwL00sSslMzGNgAACFWNpqIAAAAA==
+      '26':
+        type: MONSTER_EGG
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwzUtJLcpNzGNgAAB2vyyKIAAAAA==
+      '27':
+        type: MELON_SEEDS
+      '31':
+        type: EMERALD
+        amount: 12
+      '32':
+        type: BOW
+        damage: 273
+      '33':
+        type: MONSTER_EGG
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANLiwFUgwAxMeU0x0AAAA=
+      '34':
+        type: SEEDS
+        amount: 2
+      '35':
+        type: SAPLING
+        damage: 3
+        amount: 5
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

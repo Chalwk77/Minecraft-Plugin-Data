@@ -1,0 +1,30 @@
+lastlocation:
+  world: world
+  x: 25233.94111309314
+  y: 64.0
+  z: 14102.231887049578
+  yaw: 329.5578
+  pitch: 4.1953387
+geolocation: Auckland, Auckland, New Zealand
+lastAccountName: peterthechickman
+timestamps:
+  login: 1477790940433
+  lastteleport: 1477791608036
+  logout: 1477792334989
+ipAddress: 117.104.178.153
+money: '3980.6364999999999960'
+homes:
+  home:
+    world: world
+    x: 25250.047240212272
+    y: 63.0
+    z: 14097.490152869445
+    yaw: 225.43599
+    pitch: 18.345736
+logoutlocation:
+  world: world
+  x: 25476.584316480315
+  y: 89.0
+  z: 14138.848066108361
+  yaw: 123.18546
+  pitch: 24.889906

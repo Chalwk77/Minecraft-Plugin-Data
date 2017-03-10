@@ -1,0 +1,21 @@
+lastAccountName: COOOOOOOOOOOKIES
+timestamps:
+  login: 1470494885383
+  logout: 1470495173737
+ipAddress: 82.26.195.189
+geolocation: London, London, United Kingdom
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+logoutlocation:
+  world: world
+  x: 478.1259615359408
+  y: 89.0
+  z: -189.59395268383028
+  yaw: 81.46402
+  pitch: 78.53171
+money: '2500'

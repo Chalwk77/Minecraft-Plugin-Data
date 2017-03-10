@@ -1,0 +1,31 @@
+lastAccountName: lisa07992
+timestamps:
+  login: 1472545553870
+  logout: 1472546292846
+  lastteleport: 1471335331805
+ipAddress: 60.241.117.46
+geolocation: Maroubra, New South Wales, Australia
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+logoutlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 270.54996
+  pitch: -1.0500194
+homes:
+  home:
+    world: world
+    x: 2354.8630737533927
+    y: 72.0
+    z: -4717.0961936216645
+    yaw: -121.159424
+    pitch: 22.049955
+afk: false
+money: '2500'

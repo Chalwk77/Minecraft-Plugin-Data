@@ -1,0 +1,781 @@
+Inventories:
+  '25':
+    Time: 1458455359835
+    Exp: 22
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 15.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2.0282650491356276E7
+      y: 83.0
+      z: -1.8522411815032326E7
+      pitch: 21.899078
+      yaw: -224.99191
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: WOOD_PICKAXE
+        damage: 28
+      '3':
+        type: GRILLED_PORK
+        amount: 6
+      '4':
+        type: COOKED_CHICKEN
+      '5':
+        type: STONE_AXE
+      '6':
+        type: WOOD_AXE
+        damage: 1
+      '7':
+        type: STONE_SWORD
+        damage: 4
+      '8':
+        type: STONE_PICKAXE
+        damage: 2
+      '9':
+        type: BONE
+      '10':
+        type: WOOD_AXE
+      '11':
+        type: WOOD_SWORD
+      '12':
+        type: COAL
+        amount: 6
+      '13':
+        type: DIRT
+      '14':
+        type: COBBLESTONE
+        amount: 3
+      '15':
+        type: FURNACE
+      '16':
+        type: WORKBENCH
+      '21':
+        type: WOOD
+        amount: 3
+  '26':
+    Time: 1459465465001
+    Exp: 22
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 15.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2.0282650491356276E7
+      y: 83.0
+      z: -1.8522411815032326E7
+      pitch: 21.899078
+      yaw: -224.99191
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: WOOD_PICKAXE
+        damage: 28
+      '3':
+        type: GRILLED_PORK
+        amount: 6
+      '4':
+        type: COOKED_CHICKEN
+      '5':
+        type: STONE_AXE
+      '6':
+        type: WOOD_AXE
+        damage: 1
+      '7':
+        type: STONE_SWORD
+        damage: 4
+      '8':
+        type: STONE_PICKAXE
+        damage: 2
+      '9':
+        type: BONE
+      '10':
+        type: WOOD_AXE
+      '11':
+        type: WOOD_SWORD
+      '12':
+        type: COAL
+        amount: 6
+      '13':
+        type: DIRT
+      '14':
+        type: COBBLESTONE
+        amount: 3
+      '15':
+        type: FURNACE
+      '16':
+        type: WORKBENCH
+      '21':
+        type: WOOD
+        amount: 3
+  '27':
+    Time: 1459469873537
+    Exp: 22
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 15.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2.0282650491356276E7
+      y: 83.0
+      z: -1.8522411815032326E7
+      pitch: 21.899078
+      yaw: -224.99191
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: WOOD_PICKAXE
+        damage: 28
+      '3':
+        type: GRILLED_PORK
+        amount: 6
+      '4':
+        type: COOKED_CHICKEN
+      '5':
+        type: STONE_AXE
+      '6':
+        type: WOOD_AXE
+        damage: 1
+      '7':
+        type: STONE_SWORD
+        damage: 4
+      '8':
+        type: STONE_PICKAXE
+        damage: 2
+      '9':
+        type: BONE
+      '10':
+        type: WOOD_AXE
+      '11':
+        type: WOOD_SWORD
+      '12':
+        type: COAL
+        amount: 6
+      '13':
+        type: DIRT
+      '14':
+        type: COBBLESTONE
+        amount: 3
+      '15':
+        type: FURNACE
+      '16':
+        type: WORKBENCH
+      '21':
+        type: WOOD
+        amount: 3
+  '28':
+    Time: 1459659263034
+    Exp: 22
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 15.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2.0282650491356276E7
+      y: 83.0
+      z: -1.8522411815032326E7
+      pitch: 21.899078
+      yaw: -224.99191
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: WOOD_PICKAXE
+        damage: 28
+      '3':
+        type: GRILLED_PORK
+        amount: 6
+      '4':
+        type: COOKED_CHICKEN
+      '5':
+        type: STONE_AXE
+      '6':
+        type: WOOD_AXE
+        damage: 1
+      '7':
+        type: STONE_SWORD
+        damage: 4
+      '8':
+        type: STONE_PICKAXE
+        damage: 2
+      '9':
+        type: BONE
+      '10':
+        type: WOOD_AXE
+      '11':
+        type: WOOD_SWORD
+      '12':
+        type: COAL
+        amount: 6
+      '13':
+        type: DIRT
+      '14':
+        type: COBBLESTONE
+        amount: 3
+      '15':
+        type: FURNACE
+      '16':
+        type: WORKBENCH
+      '21':
+        type: WOOD
+        amount: 3
+  '29':
+    Time: 1459766737073
+    Exp: 22
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 15.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2.0282650491356276E7
+      y: 83.0
+      z: -1.8522411815032326E7
+      pitch: 21.899078
+      yaw: -224.99191
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: WOOD_PICKAXE
+        damage: 28
+      '3':
+        type: GRILLED_PORK
+        amount: 6
+      '4':
+        type: COOKED_CHICKEN
+      '5':
+        type: STONE_AXE
+      '6':
+        type: WOOD_AXE
+        damage: 1
+      '7':
+        type: STONE_SWORD
+        damage: 4
+      '8':
+        type: STONE_PICKAXE
+        damage: 2
+      '9':
+        type: BONE
+      '10':
+        type: WOOD_AXE
+      '11':
+        type: WOOD_SWORD
+      '12':
+        type: COAL
+        amount: 6
+      '13':
+        type: DIRT
+      '14':
+        type: COBBLESTONE
+        amount: 3
+      '15':
+        type: FURNACE
+      '16':
+        type: WORKBENCH
+      '21':
+        type: WOOD
+        amount: 3
+  '30':
+    Time: 1459847487987
+    Exp: 22
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 15.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2.0282650491356276E7
+      y: 83.0
+      z: -1.8522411815032326E7
+      pitch: 21.899078
+      yaw: -224.99191
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: WOOD_PICKAXE
+        damage: 28
+      '3':
+        type: GRILLED_PORK
+        amount: 6
+      '4':
+        type: COOKED_CHICKEN
+      '5':
+        type: STONE_AXE
+      '6':
+        type: WOOD_AXE
+        damage: 1
+      '7':
+        type: STONE_SWORD
+        damage: 4
+      '8':
+        type: STONE_PICKAXE
+        damage: 2
+      '9':
+        type: BONE
+      '10':
+        type: WOOD_AXE
+      '11':
+        type: WOOD_SWORD
+      '12':
+        type: COAL
+        amount: 6
+      '13':
+        type: DIRT
+      '14':
+        type: COBBLESTONE
+        amount: 3
+      '15':
+        type: FURNACE
+      '16':
+        type: WORKBENCH
+      '21':
+        type: WOOD
+        amount: 3
+  '31':
+    Time: 1460146823583
+    Exp: 22
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 15.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2.0282650491356276E7
+      y: 83.0
+      z: -1.8522411815032326E7
+      pitch: 21.899078
+      yaw: -224.99191
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: WOOD_PICKAXE
+        damage: 28
+      '3':
+        type: GRILLED_PORK
+        amount: 6
+      '4':
+        type: COOKED_CHICKEN
+      '5':
+        type: STONE_AXE
+      '6':
+        type: WOOD_AXE
+        damage: 1
+      '7':
+        type: STONE_SWORD
+        damage: 4
+      '8':
+        type: STONE_PICKAXE
+        damage: 2
+      '9':
+        type: BONE
+      '10':
+        type: WOOD_AXE
+      '11':
+        type: WOOD_SWORD
+      '12':
+        type: COAL
+        amount: 6
+      '13':
+        type: DIRT
+      '14':
+        type: COBBLESTONE
+        amount: 3
+      '15':
+        type: FURNACE
+      '16':
+        type: WORKBENCH
+      '21':
+        type: WOOD
+        amount: 3
+  '32':
+    Time: 1460883170540
+    Exp: 22
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 15.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2.0282650491356276E7
+      y: 83.0
+      z: -1.8522411815032326E7
+      pitch: 21.899078
+      yaw: -224.99191
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: WOOD_PICKAXE
+        damage: 28
+      '3':
+        type: GRILLED_PORK
+        amount: 6
+      '4':
+        type: COOKED_CHICKEN
+      '5':
+        type: STONE_AXE
+      '6':
+        type: WOOD_AXE
+        damage: 1
+      '7':
+        type: STONE_SWORD
+        damage: 4
+      '8':
+        type: STONE_PICKAXE
+        damage: 2
+      '9':
+        type: BONE
+      '10':
+        type: WOOD_AXE
+      '11':
+        type: WOOD_SWORD
+      '12':
+        type: COAL
+        amount: 6
+      '13':
+        type: DIRT
+      '14':
+        type: COBBLESTONE
+        amount: 3
+      '15':
+        type: FURNACE
+      '16':
+        type: WORKBENCH
+      '21':
+        type: WOOD
+        amount: 3
+  '33':
+    Time: 1462120695302
+    Exp: 22
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 15.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2.0282650491356276E7
+      y: 83.0
+      z: -1.8522411815032326E7
+      pitch: 21.899078
+      yaw: -224.99191
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: WOOD_PICKAXE
+        damage: 28
+      '3':
+        type: GRILLED_PORK
+        amount: 6
+      '4':
+        type: COOKED_CHICKEN
+      '5':
+        type: STONE_AXE
+      '6':
+        type: WOOD_AXE
+        damage: 1
+      '7':
+        type: STONE_SWORD
+        damage: 4
+      '8':
+        type: STONE_PICKAXE
+        damage: 2
+      '9':
+        type: BONE
+      '10':
+        type: WOOD_AXE
+      '11':
+        type: WOOD_SWORD
+      '12':
+        type: COAL
+        amount: 6
+      '13':
+        type: DIRT
+      '14':
+        type: COBBLESTONE
+        amount: 3
+      '15':
+        type: FURNACE
+      '16':
+        type: WORKBENCH
+      '21':
+        type: WOOD
+        amount: 3
+  '34':
+    Time: 1462483218970
+    Exp: 22
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 15.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2.0282650491356276E7
+      y: 83.0
+      z: -1.8522411815032326E7
+      pitch: 21.899078
+      yaw: -224.99191
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: WOOD_PICKAXE
+        damage: 28
+      '3':
+        type: GRILLED_PORK
+        amount: 6
+      '4':
+        type: COOKED_CHICKEN
+      '5':
+        type: STONE_AXE
+      '6':
+        type: WOOD_AXE
+        damage: 1
+      '7':
+        type: STONE_SWORD
+        damage: 4
+      '8':
+        type: STONE_PICKAXE
+        damage: 2
+      '9':
+        type: BONE
+      '10':
+        type: WOOD_AXE
+      '11':
+        type: WOOD_SWORD
+      '12':
+        type: COAL
+        amount: 6
+      '13':
+        type: DIRT
+      '14':
+        type: COBBLESTONE
+        amount: 3
+      '15':
+        type: FURNACE
+      '16':
+        type: WORKBENCH
+      '21':
+        type: WOOD
+        amount: 3

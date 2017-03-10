@@ -1,0 +1,25 @@
+config:
+ 
+  # This is used for React to manage itself between updates
+  # It keeps your configs clean and tidy.
+  # Changing this will confuse react a bit :P
+  # Default Value: 1
+  version: 1
+component:
+ 
+  # ABOUT Liquid Suppression
+  # Suppresses liquid if and only if the instability threshold reaches a limit for liquid.
+  # 
+  # You can disable Liquid Suppression here.
+  # Default Value: true
+  enable: true
+ 
+  # Its typically not a good idea to change this
+  # unless you know what you are doing.
+  # Default Value: 20
+  interval: 20
+action-suppress-liquid:
+ 
+  # Freeze all liquid temporarily until the lag stops?
+  # Default Value: true
+  freeze-all-liquid-on-lag: true

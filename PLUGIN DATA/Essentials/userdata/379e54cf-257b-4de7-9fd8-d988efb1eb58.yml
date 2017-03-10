@@ -1,0 +1,75 @@
+lastAccountName: Chater_Gaming
+timestamps:
+  login: 1468982431641
+  kits:
+    color: 1468385084374
+    drinks: 1468895979734
+    dtools: 1468893881892
+    tools: 1468473284772
+    food: 1468893887181
+  logout: 1468982722661
+  lastteleport: 1468974819269
+ipAddress: 98.207.41.161
+geolocation: Sunnyvale, California, United States
+lastlocation:
+  world: world
+  x: 2665.451752942932
+  y: 52.0
+  z: -3127.0593093351363
+  yaw: 220.3718
+  pitch: 9.578676
+money: '2500'
+logoutlocation:
+  world: world
+  x: 2677.057966269814
+  y: 71.5
+  z: -3133.9064363089515
+  yaw: 178.02408
+  pitch: 16.127785
+homes:
+  home:
+    world: world
+    x: 2744.5731044307227
+    y: 67.0
+    z: -3160.1522395224606
+    yaw: 64.91541
+    pitch: 2.3272715
+  help:
+    world: world
+    x: 2710.4131168076938
+    y: 70.0
+    z: -3138.4880093986158
+    yaw: -281.28403
+    pitch: 31.145527
+  mines:
+    world: world
+    x: 2382.234188270962
+    y: 16.0
+    z: -3086.4267797966895
+    yaw: 46.16505
+    pitch: -56.954945
+  cabin:
+    world: world
+    x: 2842.9390513690337
+    y: 81.0
+    z: -3194.7528851211828
+    yaw: -175.10313
+    pitch: 23.298498
+  grinder:
+    world: world
+    x: 2426.5358006600923
+    y: 53.0
+    z: -3494.0210032644613
+    yaw: -158.45074
+    pitch: 41.91469
+afk: false
+godmode: false
+mail:
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'

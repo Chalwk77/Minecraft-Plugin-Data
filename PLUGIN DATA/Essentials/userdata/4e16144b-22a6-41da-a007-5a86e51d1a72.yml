@@ -1,0 +1,33 @@
+lastlocation:
+  world: world
+  x: 743.8373529727111
+  y: 64.0
+  z: -200.02591395820153
+  yaw: 218.20111
+  pitch: -20.999992
+geolocation: Brisbane, Queensland, Australia
+lastAccountName: stendogz
+timestamps:
+  login: 1476487040846
+  kits:
+    citizen: 1473404197950
+    tools: 1473404203680
+  lastteleport: 1473578250313
+  logout: 1476487074692
+ipAddress: 114.77.176.128
+money: '24695.17930000000005968'
+homes:
+  home:
+    world: world
+    x: 14457.57568098643
+    y: 88.0
+    z: -24324.16290406869
+    yaw: -317.69424
+    pitch: 2.9999995
+logoutlocation:
+  world: world
+  x: 14494.702583774633
+  y: 63.0
+  z: -24318.37273544706
+  yaw: -94.34403
+  pitch: 60.000034

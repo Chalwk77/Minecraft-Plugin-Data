@@ -1,0 +1,171 @@
+Inventories:
+  '1':
+    Time: 1481446686148
+    DeathReasson: Lava
+    Exp: 672
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -19254.562551908693
+      y: 5.979962433005658
+      z: 18033.110264777806
+      pitch: -11.757146
+      yaw: 209.44489
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 404
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+      '1':
+        type: COOKED_BEEF
+        amount: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+          enchants:
+            DAMAGE_UNDEAD: 65535
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 230
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: REDSTONE
+        amount: 64
+      '7':
+        type: STONE
+        damage: 3
+        amount: 64
+      '8':
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        type: COBBLESTONE
+        amount: 64
+      '10':
+        type: COBBLESTONE
+        amount: 64
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: COBBLESTONE
+        amount: 64
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: STONE
+        damage: 5
+        amount: 64
+      '16':
+        type: STONE
+        damage: 1
+        amount: 64
+      '17':
+        type: IRON_ORE
+        amount: 23
+      '18':
+        type: STONE
+        damage: 3
+        amount: 64
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: COBBLESTONE
+        amount: 64
+      '21':
+        type: GOLD_ORE
+        amount: 5
+      '22':
+        type: DIRT
+        amount: 14
+      '23':
+        type: COBBLESTONE
+        amount: 64
+      '24':
+        type: TORCH
+      '25':
+        type: DIAMOND_SPADE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+      '26':
+        type: FLINT
+        amount: 5
+      '27':
+        type: COBBLESTONE
+        amount: 64
+      '28':
+        type: HARD_CLAY
+        amount: 48
+      '29':
+        type: HARD_CLAY
+        amount: 64
+      '30':
+        type: STONE
+        damage: 1
+        amount: 64
+      '31':
+        type: STONE
+        damage: 5
+        amount: 64
+      '32':
+        type: HARD_CLAY
+        amount: 33
+      '33':
+        type: COAL
+        amount: 64
+      '34':
+        type: SULPHUR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Iron Dust
+      '35':
+        type: SUGAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Tin Dust

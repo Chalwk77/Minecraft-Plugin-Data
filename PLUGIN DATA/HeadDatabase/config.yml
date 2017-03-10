@@ -1,0 +1,118 @@
+
+#Every 6 hours
+enable-autoupdate: true
+
+
+#Toggle the ability to fast open the head database
+# with shift left click while holding a head.
+enable-ShiftLeftClick: true
+
+
+#Disable some heads here
+#They only will be removed on a database update or a server restart/reload
+disabled-heads:
+#  - "Chorus Plant"
+#  - "Stonebrick 5"
+#  - "Beach Ball"
+#  - "Illusion 1"
+
+
+#Disable categories here
+#They only will be removed on a database update or a server restart/reload
+disabled-categories:
+#  - "custom"
+
+
+#You can have some extra fixes for other plugins enable them here.
+#clearOnGamemodeSwitch -> Clears URL heads when changing gamemode.
+#clearOnWorldSwitch -> Clears URL heads when changing worlds.
+Fix:
+  clearOnGamemodeSwitch: false
+  clearOnWorldSwitch: false
+  
+#Change the messages here, you can use & to use colors.
+#buyMessage must contain "%Item%"
+messages:
+   prefix: "&6JeriCraft HeadDataBase "
+   database: "Database"
+   search: "Search"
+   page: "Page"
+   price: "Price:"
+   
+   notEnoughMoney: "&cYou don't have enough money to do this!"
+   buyMessage: "&aYou bought %item% &afor &2"
+   searchMsg1: "&aType your search query."
+   searchMsg2: "&aType &2Stop &aor &2Cancel &ato cancel."
+   cancelledSearch: "&cCancelled search query"
+   cancelSearch: "&cCancel search query"
+   searchForHeads: "&cSearch for heads"
+   searchForMoreHeads: "&cSearch for more heads"
+   lookingFor: "&eLooking for"
+   noHeadsFound: "&eNo heads found, Try again!"
+   moreSpecific: "&ePlease be more specific!"
+   headsFound: "&eHeads found!"
+   
+   category-names:
+     disabled: "Disabled"
+     blocks: "Blocks"
+     decoration: "Decoration"
+     devices: "Devices"
+     mobs: "Mobs"
+     characters: "Characters"
+     food: "Food"
+     alphabet: "Alphabet" 
+     colors: "Colors"
+     custom: "JeriCraft Custom Heads"
+
+
+#Enable Economy here
+#If the price is 0 it won't show up!
+Economy-Enabled: false
+Economy-Currency: "$"
+
+blocks-price: 100
+decoration-price: 100
+devices-price: 200
+mobs-price: 100
+characters-price: 100
+food-price: 100
+alphabet-price: 100
+colors-price: 100
+custom-price: 1000
+
+
+# format= name: "base64"
+# do not use any ,'s in your name !
+# tutorial: https://www.youtube.com/watch?v=upc4gOAQN5Y
+heads:
+  Head Database: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzc0ZWUxNTQyYzQ1NjNmZDZlN2Q3MmRlMjZlNzM3Y2YxOGZiZDA0Y2NhYjFiOGIyODM1M2RhODczNDhlY2ZiIn19fQ=="
+  Made by: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg3Njg5ZjgzMzQzNmFhNzExYWJiZDQ1MTY4ODU2Nzc1YTJiMTE0NjU2Y2RmNGRjNWE2YzZmMWFmYWU1MjAifX19"
+  Arcaniax: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWViMWQ1NTRkNjIwYjZjOThjNzk5ZjNiYThjYzI3ZmQ0N2JiZGIwNGM2ODU4MTFhNTE1MTc1OGY3ZDczMDMzIn19fQ=="
+  And: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2VkZDIwYmU5MzUyMDk0OWU2Y2U3ODlkYzRmNDNlZmFlYjI4YzcxN2VlNmJmY2JiZTAyNzgwMTQyZjcxNiJ9fX0="
+  Headaxe: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQxMjM0MmI2MTY1ZTdmZjI1MTg5OGQ0Yzg1OWJlZmM0NWM4OWJjMjZlNzI0MzA2MjE5MzQ5NzM4NWYzIn19fQ=="
+  Aphmau: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk0OWU0OWQxZTYyOThjMTk1ZjM1ZmE3N2E2ZmJmZDQxNjU1ZDhlNWY0NWU2ZDIxNzU4Mjg1OTgyZWI4YTFjMiJ9fX0="
+  CaptainSparklez: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjgyOTlkMzVhZmExYWI0NzljZTU5M2ZlNTg2YWNjOTIyYmU2ZmQ4YWFhY2NjMmU1ZmNlMDM0NzllZGI2MTc1In19fQ=="
+  II_JERiiCHO_II: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDU2YmU0NTU0ZmNhYjE5Y2UxMzRiYjcxMjRiYmQ4N2Y5MWI3OTA1NzUxYTU4MjNjMmUxNzRkN2FkMmE3ZiJ9fX0="
+  OMGitsfirefoxx: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzE1OTk5YTVhZGRkMzQzZTJkYjA3MDdhN2ZlOTViM2I1NDljOWI1YTMxNTVhMTJlM2U0NTIyMDk4MzNkNWZhIn19fQ=="
+  SynHD: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2RlYjhhOTkyMzlkMTM5MmMxODA4MGJmYzFmMTI0YjVmZjEwNjYxYWFjMWFjNDczYjRlM2JlYTFkZmNlNzk1OCJ9fX0="
+  Waglington: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWQxNDY3ODIyMjE3MzU1N2FhNzdkOWIyNjU1NWMyMWI5Y2U5ZTM1MTQ2MGVjNTNiZWExMTJjYmM4OGE0OWNkIn19fQ=="
+  AntVenom: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWU4NGI2MGU1NDVlZjQ2NzRlMTNiZmM5MzU4ZDBmOWUwNzExMmU1ODUxMmFlNWE3YjVkODdjODI0YmVhYzIifX19"
+  Lady_Ianite: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDIzZWFjNzFjZmMxY2MyZDc2MjIxZjUwNjA4NDc1M2Q4MWQ4N2JlOWI1ZDc3MGY5ZDlhM2M0YmJiZmZiNjczOCJ9fX0="
+  Lord_Mianite: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjg2NWE3MjVmOGExZmJhNDc0YTNkNzFlMjVkYTg2ZDgyNzg3ZGE2NWQ2NDM1NDI0ODVhN2FlZmJjZDAxZmM3In19fQ=="
+  Dianite: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGM5ZDI0NDUzYjZmODQ5ODhhNDQyOTY1M2M5MTQ5M2I0ZDMzMjdlMjU0ODBmNGM1ZTdjMzFmNDIxZWZjMWUifX19"
+  Martha: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmU2NTYzODg3ZjQ0N2M0ZDM5NDFhNzljY2JjMjJiNjM0Njc0YzNmOTc1NTE3ZjE2Yjg5ZjVjZjFiNmIxNDI2In19fQ=="
+  ThatGuyBarney: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTViMGM5OGRhMWMyOTcyYzg5ZjMyMjk2ZTA2ODczOTJmY2Q4NWJmOGE3ZDJlYTcwOTUxMWJiZjg0MmRiYTVmZSJ9fX0="
+  House_Owner: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODkxMGIzY2UyMmUzNDgyZmFhNzdkZmQxNjVjZmY0NWE4Y2I4ZDk2ODJiNjRkZjQ1NTYwODdmYWZiZDI1MTkzIn19fQ=="
+  SkythekidRS: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGJkYzBjZGI0ZWE3ZjdmY2JjOTgxODVjMTdiZWM4Njk2ZjE1MGVlYjBkZmNhN2Q1MTViZmY3ZmRiZTE2NzQ1In19fQ=="
+  JinBop: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDE3ZDFmMmQ0NWFkYzhmNDNkOWM0N2IwOTQ0ZDMzMzg2MzQ4YWI3NWY5MmRhODkzODQ4Nzk5MWFjZDM3YjRlIn19fQ=="
+  Lady_Yashacat: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTBkOTUxNzg0ZDFkM2M1NDdjZmJkNjE2ZGZhYzQ3YTNjMGZhMWQ3ZmFhYmI3Y2JlNzI5ZjBhZDEzODU1OCJ9fX0="
+  Chalwk: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQzNDJiMWNlMGVjNjc0MDdhYmYyMjI0MTFhOTQ2MjQ1NjFhNjhkYTliZGFiYjRhYzM5MWI1ZTc5ZmM5YjUyIn19fQ=="
+  ITechnologyman: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZhMTlmMTIzYzZhNTk0NjFiMWFlM2E2NjI4YzRhM2RiYTMxYzczMWY0NTNmYTk2YTRlNjA3MTc1MjkxZmM4In19fQ=="
+  VampCat: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjI3YWUzODYzZGVhYjM3YmUxZjlmOGVkZGIxNjM5OWQxODk0NjFlZWQ2NGYxYThlNzQ4ZGZkNjZmMWVkNDcifX19"
+  redhotprime: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDk2Y2UwOGY2MDg5OTQyMTg0ODYzNjZlMjZmNmVmMGVjY2U3ODM5MTMyODI5NTY5YjExNzAzOGNiZTI0YyJ9fX0="
+  jorgenskar95: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWE3ZDJhN2ZiYjRkMzdiNGQ1M2ZlODc3NTcxMjhlNWVmNjZlYzIzZDdmZjRmZTk5NDQ1NDZkYmM4Y2U3NzcifX19"
+  Mixer: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQ0YzFlZmRmNGFkY2EzOGRkNzYxZTBiZWNhZWQ2Y2RkYWJjZDIyNDhmZjQzMjBkMjU4ODZkODkwZjRiN2EifX19"
+  Tissue_Box: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2I2MWUwODk2YjRlOWI2ZjNjMmRkOGY3ZGYyZjZmNjEyNzg1YjRhMzk5MzNjNzk0MTUyOTIzYjdmZDkyIn19fQ=="
+  Jacko: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTE3MDM4MjI4OThiNTFhYzEyNjZhNGQzODM3YmM2OTI5NGRlZmUxYzJiYjE3YjAzZTIwODdmZDVhY2YifX19"
+  Hannibun: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODNlNGFjOTAzZWI2NTNmZmEyNDBmYjllZDAyMGIxYzIxNDhiNTY1OGUzMjc2MWFiNGExNjJjOTEzOTU2ZTg0In19fQ=="
+  ImaginaryAus: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZkYmI2OWNhZWEzOTRlZmY0MDE5ZWRmMDllYmU2Nzc4NTdiYjFjOGFkZjU1MjRlMjRmOWVjODlhNTcxNTAifX19"

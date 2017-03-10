@@ -1,0 +1,511 @@
+Inventories:
+  '25':
+    Time: 1458455362343
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.34097904369656
+      y: 88.0
+      z: -100.41698564841715
+      pitch: 8.099994
+      yaw: -6.200028
+    Items:
+      '0':
+        type: STONE_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+      '3':
+        type: STONE_AXE
+      '4':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: PORK
+        amount: 64
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '7':
+        type: CAKE
+      '8':
+        type: COOKED_CHICKEN
+        amount: 64
+      '9':
+        type: COOKED_FISH
+        amount: 10
+      '10':
+        type: MELON
+        amount: 5
+      '11':
+        type: BAKED_POTATO
+        amount: 3
+      '12':
+        type: RABBIT_STEW
+  '26':
+    Time: 1459465465922
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.34097904369656
+      y: 88.0
+      z: -100.41698564841715
+      pitch: 8.099994
+      yaw: -6.200028
+    Items:
+      '0':
+        type: STONE_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+      '3':
+        type: STONE_AXE
+      '4':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: PORK
+        amount: 64
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '7':
+        type: CAKE
+      '8':
+        type: COOKED_CHICKEN
+        amount: 64
+      '9':
+        type: COOKED_FISH
+        amount: 10
+      '10':
+        type: MELON
+        amount: 5
+      '11':
+        type: BAKED_POTATO
+        amount: 3
+      '12':
+        type: RABBIT_STEW
+  '27':
+    Time: 1459469874362
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.34097904369656
+      y: 88.0
+      z: -100.41698564841715
+      pitch: 8.099994
+      yaw: -6.200028
+    Items:
+      '0':
+        type: STONE_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+      '3':
+        type: STONE_AXE
+      '4':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: PORK
+        amount: 64
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '7':
+        type: CAKE
+      '8':
+        type: COOKED_CHICKEN
+        amount: 64
+      '9':
+        type: COOKED_FISH
+        amount: 10
+      '10':
+        type: MELON
+        amount: 5
+      '11':
+        type: BAKED_POTATO
+        amount: 3
+      '12':
+        type: RABBIT_STEW
+  '28':
+    Time: 1459659264010
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.34097904369656
+      y: 88.0
+      z: -100.41698564841715
+      pitch: 8.099994
+      yaw: -6.200028
+    Items:
+      '0':
+        type: STONE_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+      '3':
+        type: STONE_AXE
+      '4':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: PORK
+        amount: 64
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '7':
+        type: CAKE
+      '8':
+        type: COOKED_CHICKEN
+        amount: 64
+      '9':
+        type: COOKED_FISH
+        amount: 10
+      '10':
+        type: MELON
+        amount: 5
+      '11':
+        type: BAKED_POTATO
+        amount: 3
+      '12':
+        type: RABBIT_STEW
+  '29':
+    Time: 1459766738194
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.34097904369656
+      y: 88.0
+      z: -100.41698564841715
+      pitch: 8.099994
+      yaw: -6.200028
+    Items:
+      '0':
+        type: STONE_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+      '3':
+        type: STONE_AXE
+      '4':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: PORK
+        amount: 64
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '7':
+        type: CAKE
+      '8':
+        type: COOKED_CHICKEN
+        amount: 64
+      '9':
+        type: COOKED_FISH
+        amount: 10
+      '10':
+        type: MELON
+        amount: 5
+      '11':
+        type: BAKED_POTATO
+        amount: 3
+      '12':
+        type: RABBIT_STEW
+  '30':
+    Time: 1459847489343
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.34097904369656
+      y: 88.0
+      z: -100.41698564841715
+      pitch: 8.099994
+      yaw: -6.200028
+    Items:
+      '0':
+        type: STONE_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+      '3':
+        type: STONE_AXE
+      '4':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: PORK
+        amount: 64
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '7':
+        type: CAKE
+      '8':
+        type: COOKED_CHICKEN
+        amount: 64
+      '9':
+        type: COOKED_FISH
+        amount: 10
+      '10':
+        type: MELON
+        amount: 5
+      '11':
+        type: BAKED_POTATO
+        amount: 3
+      '12':
+        type: RABBIT_STEW
+  '31':
+    Time: 1460146824618
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.34097904369656
+      y: 88.0
+      z: -100.41698564841715
+      pitch: 8.099994
+      yaw: -6.200028
+    Items:
+      '0':
+        type: STONE_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+      '3':
+        type: STONE_AXE
+      '4':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: PORK
+        amount: 64
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '7':
+        type: CAKE
+      '8':
+        type: COOKED_CHICKEN
+        amount: 64
+      '9':
+        type: COOKED_FISH
+        amount: 10
+      '10':
+        type: MELON
+        amount: 5
+      '11':
+        type: BAKED_POTATO
+        amount: 3
+      '12':
+        type: RABBIT_STEW
+  '32':
+    Time: 1460883171830
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.34097904369656
+      y: 88.0
+      z: -100.41698564841715
+      pitch: 8.099994
+      yaw: -6.200028
+    Items:
+      '0':
+        type: STONE_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+      '3':
+        type: STONE_AXE
+      '4':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: PORK
+        amount: 64
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '7':
+        type: CAKE
+      '8':
+        type: COOKED_CHICKEN
+        amount: 64
+      '9':
+        type: COOKED_FISH
+        amount: 10
+      '10':
+        type: MELON
+        amount: 5
+      '11':
+        type: BAKED_POTATO
+        amount: 3
+      '12':
+        type: RABBIT_STEW
+  '33':
+    Time: 1462120696472
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.34097904369656
+      y: 88.0
+      z: -100.41698564841715
+      pitch: 8.099994
+      yaw: -6.200028
+    Items:
+      '0':
+        type: STONE_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+      '3':
+        type: STONE_AXE
+      '4':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: PORK
+        amount: 64
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '7':
+        type: CAKE
+      '8':
+        type: COOKED_CHICKEN
+        amount: 64
+      '9':
+        type: COOKED_FISH
+        amount: 10
+      '10':
+        type: MELON
+        amount: 5
+      '11':
+        type: BAKED_POTATO
+        amount: 3
+      '12':
+        type: RABBIT_STEW
+  '34':
+    Time: 1462483220367
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.34097904369656
+      y: 88.0
+      z: -100.41698564841715
+      pitch: 8.099994
+      yaw: -6.200028
+    Items:
+      '0':
+        type: STONE_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+      '3':
+        type: STONE_AXE
+      '4':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: PORK
+        amount: 64
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '7':
+        type: CAKE
+      '8':
+        type: COOKED_CHICKEN
+        amount: 64
+      '9':
+        type: COOKED_FISH
+        amount: 10
+      '10':
+        type: MELON
+        amount: 5
+      '11':
+        type: BAKED_POTATO
+        amount: 3
+      '12':
+        type: RABBIT_STEW

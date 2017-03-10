@@ -1,0 +1,23 @@
+lastlocation:
+  world: world
+  x: 609.9862462412989
+  y: 65.0
+  z: -284.0565490472207
+  yaw: 101.06777
+  pitch: 6.6001782
+lastAccountName: PumkinMaster
+timestamps:
+  login: 1471006905699
+  lastteleport: 1471007597966
+  logout: 1471008088317
+ipAddress: 110.21.48.169
+geolocation: Australia
+money: '2500'
+logoutlocation:
+  world: world
+  x: 790.9751166646843
+  y: 65.0
+  z: -128.5928283476129
+  yaw: 257.01788
+  pitch: 34.94999
+afk: false

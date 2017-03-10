@@ -1,0 +1,259 @@
+Inventories:
+  '1':
+    Time: 1460883169110
+    Exp: 8
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1769.3064487003662
+      y: 64.0
+      z: 2637.710203879655
+      pitch: 13.049762
+      yaw: 79.149796
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: DIRT
+        amount: 45
+      '8':
+        type: COOKED_BEEF
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '9':
+        type: RAW_BEEF
+        amount: 7
+      '10':
+        type: LEATHER
+        amount: 4
+      '16':
+        type: WORKBENCH
+        amount: 32
+      '17':
+        type: APPLE
+      '18':
+        type: DIAMOND_SWORD
+        damage: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '25':
+        type: STICK
+        amount: 24
+      '26':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '27':
+        type: DIAMOND_SPADE
+        damage: 60
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '34':
+        type: WOOD
+        amount: 64
+      '35':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+  '2':
+    Time: 1462120693583
+    Exp: 8
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1769.3064487003662
+      y: 64.0
+      z: 2637.710203879655
+      pitch: 13.049762
+      yaw: 79.149796
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: DIRT
+        amount: 45
+      '8':
+        type: COOKED_BEEF
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '9':
+        type: RAW_BEEF
+        amount: 7
+      '10':
+        type: LEATHER
+        amount: 4
+      '16':
+        type: WORKBENCH
+        amount: 32
+      '17':
+        type: APPLE
+      '18':
+        type: DIAMOND_SWORD
+        damage: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '25':
+        type: STICK
+        amount: 24
+      '26':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '27':
+        type: DIAMOND_SPADE
+        damage: 60
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '34':
+        type: WOOD
+        amount: 64
+      '35':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+  '3':
+    Time: 1462483217153
+    Exp: 8
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1769.3064487003662
+      y: 64.0
+      z: 2637.710203879655
+      pitch: 13.049762
+      yaw: 79.149796
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: DIRT
+        amount: 45
+      '8':
+        type: COOKED_BEEF
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '9':
+        type: RAW_BEEF
+        amount: 7
+      '10':
+        type: LEATHER
+        amount: 4
+      '16':
+        type: WORKBENCH
+        amount: 32
+      '17':
+        type: APPLE
+      '18':
+        type: DIAMOND_SWORD
+        damage: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '25':
+        type: STICK
+        amount: 24
+      '26':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '27':
+        type: DIAMOND_SPADE
+        damage: 60
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '34':
+        type: WOOD
+        amount: 64
+      '35':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken

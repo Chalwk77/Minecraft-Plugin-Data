@@ -1,0 +1,2125 @@
+Inventories:
+  '25':
+    Time: 1458455366746
+    Exp: 65
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.4000006
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 15069.691653419162
+      y: 71.0
+      z: 15639.300000011921
+      pitch: -6.7500386
+      yaw: -41.40393
+    Items:
+      '0':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '1':
+        type: FLINT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Handle
+      '2':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Normal)
+          lore:
+          - ''
+          - '§7Material: §bGold'
+      '3':
+        type: STAINED_CLAY
+        damage: 7
+      '4':
+        type: COOKED_CHICKEN
+        amount: 2
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 10
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '7':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: EMERALD
+        amount: 4
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+      '10':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '11':
+        type: GRILLED_PORK
+        amount: 24
+      '12':
+        type: COOKED_FISH
+        amount: 4
+      '13':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '14':
+        type: COOKIE
+        amount: 3
+      '15':
+        type: STAINED_CLAY
+        damage: 1
+      '16':
+        type: GOLD_INGOT
+        amount: 4
+      '17':
+        type: IRON_INGOT
+        amount: 4
+      '18':
+        type: RAW_FISH
+        amount: 4
+      '19':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '20':
+        type: RAW_FISH
+        damage: 1
+        amount: 4
+      '21':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '22':
+        type: MUTTON
+        amount: 4
+      '23':
+        type: WOOL
+      '24':
+        type: WOOL
+        damage: 9
+      '25':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '26':
+        type: WOOD
+        amount: 2
+      '27':
+        type: STAINED_CLAY
+        damage: 2
+      '28':
+        type: STAINED_CLAY
+        damage: 3
+      '29':
+        type: STAINED_CLAY
+        damage: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 5
+      '31':
+        type: COOKED_BEEF
+        amount: 4
+      '32':
+        type: DIAMOND
+      '33':
+        type: STICK
+        amount: 2
+      '34':
+        type: DIAMOND_BLOCK
+      '35':
+        type: WOOL
+        damage: 14
+  '26':
+    Time: 1459465468792
+    Exp: 65
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.4000006
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 15069.691653419162
+      y: 71.0
+      z: 15639.300000011921
+      pitch: -6.7500386
+      yaw: -41.40393
+    Items:
+      '0':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '1':
+        type: FLINT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Handle
+      '2':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Normal)
+          lore:
+          - ''
+          - '§7Material: §bGold'
+      '3':
+        type: STAINED_CLAY
+        damage: 7
+      '4':
+        type: COOKED_CHICKEN
+        amount: 2
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 10
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '7':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: EMERALD
+        amount: 4
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+      '10':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '11':
+        type: GRILLED_PORK
+        amount: 24
+      '12':
+        type: COOKED_FISH
+        amount: 4
+      '13':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '14':
+        type: COOKIE
+        amount: 3
+      '15':
+        type: STAINED_CLAY
+        damage: 1
+      '16':
+        type: GOLD_INGOT
+        amount: 4
+      '17':
+        type: IRON_INGOT
+        amount: 4
+      '18':
+        type: RAW_FISH
+        amount: 4
+      '19':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '20':
+        type: RAW_FISH
+        damage: 1
+        amount: 4
+      '21':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '22':
+        type: MUTTON
+        amount: 4
+      '23':
+        type: WOOL
+      '24':
+        type: WOOL
+        damage: 9
+      '25':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '26':
+        type: WOOD
+        amount: 2
+      '27':
+        type: STAINED_CLAY
+        damage: 2
+      '28':
+        type: STAINED_CLAY
+        damage: 3
+      '29':
+        type: STAINED_CLAY
+        damage: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 5
+      '31':
+        type: COOKED_BEEF
+        amount: 4
+      '32':
+        type: DIAMOND
+      '33':
+        type: STICK
+        amount: 2
+      '34':
+        type: DIAMOND_BLOCK
+      '35':
+        type: WOOL
+        damage: 14
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '27':
+    Time: 1459469877066
+    Exp: 65
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.4000006
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 15069.691653419162
+      y: 71.0
+      z: 15639.300000011921
+      pitch: -6.7500386
+      yaw: -41.40393
+    Items:
+      '0':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '1':
+        type: FLINT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Handle
+      '2':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Normal)
+          lore:
+          - ''
+          - '§7Material: §bGold'
+      '3':
+        type: STAINED_CLAY
+        damage: 7
+      '4':
+        type: COOKED_CHICKEN
+        amount: 2
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 10
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '7':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: EMERALD
+        amount: 4
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+      '10':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '11':
+        type: GRILLED_PORK
+        amount: 24
+      '12':
+        type: COOKED_FISH
+        amount: 4
+      '13':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '14':
+        type: COOKIE
+        amount: 3
+      '15':
+        type: STAINED_CLAY
+        damage: 1
+      '16':
+        type: GOLD_INGOT
+        amount: 4
+      '17':
+        type: IRON_INGOT
+        amount: 4
+      '18':
+        type: RAW_FISH
+        amount: 4
+      '19':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '20':
+        type: RAW_FISH
+        damage: 1
+        amount: 4
+      '21':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '22':
+        type: MUTTON
+        amount: 4
+      '23':
+        type: WOOL
+      '24':
+        type: WOOL
+        damage: 9
+      '25':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '26':
+        type: WOOD
+        amount: 2
+      '27':
+        type: STAINED_CLAY
+        damage: 2
+      '28':
+        type: STAINED_CLAY
+        damage: 3
+      '29':
+        type: STAINED_CLAY
+        damage: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 5
+      '31':
+        type: COOKED_BEEF
+        amount: 4
+      '32':
+        type: DIAMOND
+      '33':
+        type: STICK
+        amount: 2
+      '34':
+        type: DIAMOND_BLOCK
+      '35':
+        type: WOOL
+        damage: 14
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '28':
+    Time: 1459659266854
+    Exp: 65
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.4000006
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 15069.691653419162
+      y: 71.0
+      z: 15639.300000011921
+      pitch: -6.7500386
+      yaw: -41.40393
+    Items:
+      '0':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '1':
+        type: FLINT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Handle
+      '2':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Normal)
+          lore:
+          - ''
+          - '§7Material: §bGold'
+      '3':
+        type: STAINED_CLAY
+        damage: 7
+      '4':
+        type: COOKED_CHICKEN
+        amount: 2
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 10
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '7':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: EMERALD
+        amount: 4
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+      '10':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '11':
+        type: GRILLED_PORK
+        amount: 24
+      '12':
+        type: COOKED_FISH
+        amount: 4
+      '13':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '14':
+        type: COOKIE
+        amount: 3
+      '15':
+        type: STAINED_CLAY
+        damage: 1
+      '16':
+        type: GOLD_INGOT
+        amount: 4
+      '17':
+        type: IRON_INGOT
+        amount: 4
+      '18':
+        type: RAW_FISH
+        amount: 4
+      '19':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '20':
+        type: RAW_FISH
+        damage: 1
+        amount: 4
+      '21':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '22':
+        type: MUTTON
+        amount: 4
+      '23':
+        type: WOOL
+      '24':
+        type: WOOL
+        damage: 9
+      '25':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '26':
+        type: WOOD
+        amount: 2
+      '27':
+        type: STAINED_CLAY
+        damage: 2
+      '28':
+        type: STAINED_CLAY
+        damage: 3
+      '29':
+        type: STAINED_CLAY
+        damage: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 5
+      '31':
+        type: COOKED_BEEF
+        amount: 4
+      '32':
+        type: DIAMOND
+      '33':
+        type: STICK
+        amount: 2
+      '34':
+        type: DIAMOND_BLOCK
+      '35':
+        type: WOOL
+        damage: 14
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '29':
+    Time: 1459766741286
+    Exp: 65
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.4000006
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 15069.691653419162
+      y: 71.0
+      z: 15639.300000011921
+      pitch: -6.7500386
+      yaw: -41.40393
+    Items:
+      '0':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '1':
+        type: FLINT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Handle
+      '2':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Normal)
+          lore:
+          - ''
+          - '§7Material: §bGold'
+      '3':
+        type: STAINED_CLAY
+        damage: 7
+      '4':
+        type: COOKED_CHICKEN
+        amount: 2
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 10
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '7':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: EMERALD
+        amount: 4
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+      '10':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '11':
+        type: GRILLED_PORK
+        amount: 24
+      '12':
+        type: COOKED_FISH
+        amount: 4
+      '13':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '14':
+        type: COOKIE
+        amount: 3
+      '15':
+        type: STAINED_CLAY
+        damage: 1
+      '16':
+        type: GOLD_INGOT
+        amount: 4
+      '17':
+        type: IRON_INGOT
+        amount: 4
+      '18':
+        type: RAW_FISH
+        amount: 4
+      '19':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '20':
+        type: RAW_FISH
+        damage: 1
+        amount: 4
+      '21':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '22':
+        type: MUTTON
+        amount: 4
+      '23':
+        type: WOOL
+      '24':
+        type: WOOL
+        damage: 9
+      '25':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '26':
+        type: WOOD
+        amount: 2
+      '27':
+        type: STAINED_CLAY
+        damage: 2
+      '28':
+        type: STAINED_CLAY
+        damage: 3
+      '29':
+        type: STAINED_CLAY
+        damage: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 5
+      '31':
+        type: COOKED_BEEF
+        amount: 4
+      '32':
+        type: DIAMOND
+      '33':
+        type: STICK
+        amount: 2
+      '34':
+        type: DIAMOND_BLOCK
+      '35':
+        type: WOOL
+        damage: 14
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '30':
+    Time: 1459847492633
+    Exp: 65
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.4000006
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 15069.691653419162
+      y: 71.0
+      z: 15639.300000011921
+      pitch: -6.7500386
+      yaw: -41.40393
+    Items:
+      '0':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '1':
+        type: FLINT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Handle
+      '2':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Normal)
+          lore:
+          - ''
+          - '§7Material: §bGold'
+      '3':
+        type: STAINED_CLAY
+        damage: 7
+      '4':
+        type: COOKED_CHICKEN
+        amount: 2
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 10
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '7':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: EMERALD
+        amount: 4
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+      '10':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '11':
+        type: GRILLED_PORK
+        amount: 24
+      '12':
+        type: COOKED_FISH
+        amount: 4
+      '13':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '14':
+        type: COOKIE
+        amount: 3
+      '15':
+        type: STAINED_CLAY
+        damage: 1
+      '16':
+        type: GOLD_INGOT
+        amount: 4
+      '17':
+        type: IRON_INGOT
+        amount: 4
+      '18':
+        type: RAW_FISH
+        amount: 4
+      '19':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '20':
+        type: RAW_FISH
+        damage: 1
+        amount: 4
+      '21':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '22':
+        type: MUTTON
+        amount: 4
+      '23':
+        type: WOOL
+      '24':
+        type: WOOL
+        damage: 9
+      '25':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '26':
+        type: WOOD
+        amount: 2
+      '27':
+        type: STAINED_CLAY
+        damage: 2
+      '28':
+        type: STAINED_CLAY
+        damage: 3
+      '29':
+        type: STAINED_CLAY
+        damage: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 5
+      '31':
+        type: COOKED_BEEF
+        amount: 4
+      '32':
+        type: DIAMOND
+      '33':
+        type: STICK
+        amount: 2
+      '34':
+        type: DIAMOND_BLOCK
+      '35':
+        type: WOOL
+        damage: 14
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '31':
+    Time: 1460146827641
+    Exp: 65
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.4000006
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 15069.691653419162
+      y: 71.0
+      z: 15639.300000011921
+      pitch: -6.7500386
+      yaw: -41.40393
+    Items:
+      '0':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '1':
+        type: FLINT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Handle
+      '2':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Normal)
+          lore:
+          - ''
+          - '§7Material: §bGold'
+      '3':
+        type: STAINED_CLAY
+        damage: 7
+      '4':
+        type: COOKED_CHICKEN
+        amount: 2
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 10
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '7':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: EMERALD
+        amount: 4
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+      '10':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '11':
+        type: GRILLED_PORK
+        amount: 24
+      '12':
+        type: COOKED_FISH
+        amount: 4
+      '13':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '14':
+        type: COOKIE
+        amount: 3
+      '15':
+        type: STAINED_CLAY
+        damage: 1
+      '16':
+        type: GOLD_INGOT
+        amount: 4
+      '17':
+        type: IRON_INGOT
+        amount: 4
+      '18':
+        type: RAW_FISH
+        amount: 4
+      '19':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '20':
+        type: RAW_FISH
+        damage: 1
+        amount: 4
+      '21':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '22':
+        type: MUTTON
+        amount: 4
+      '23':
+        type: WOOL
+      '24':
+        type: WOOL
+        damage: 9
+      '25':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '26':
+        type: WOOD
+        amount: 2
+      '27':
+        type: STAINED_CLAY
+        damage: 2
+      '28':
+        type: STAINED_CLAY
+        damage: 3
+      '29':
+        type: STAINED_CLAY
+        damage: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 5
+      '31':
+        type: COOKED_BEEF
+        amount: 4
+      '32':
+        type: DIAMOND
+      '33':
+        type: STICK
+        amount: 2
+      '34':
+        type: DIAMOND_BLOCK
+      '35':
+        type: WOOL
+        damage: 14
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '32':
+    Time: 1460883174844
+    Exp: 65
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.4000006
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 15069.691653419162
+      y: 71.0
+      z: 15639.300000011921
+      pitch: -6.7500386
+      yaw: -41.40393
+    Items:
+      '0':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '1':
+        type: FLINT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Handle
+      '2':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Normal)
+          lore:
+          - ''
+          - '§7Material: §bGold'
+      '3':
+        type: STAINED_CLAY
+        damage: 7
+      '4':
+        type: COOKED_CHICKEN
+        amount: 2
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 10
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '7':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: EMERALD
+        amount: 4
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+      '10':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '11':
+        type: GRILLED_PORK
+        amount: 24
+      '12':
+        type: COOKED_FISH
+        amount: 4
+      '13':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '14':
+        type: COOKIE
+        amount: 3
+      '15':
+        type: STAINED_CLAY
+        damage: 1
+      '16':
+        type: GOLD_INGOT
+        amount: 4
+      '17':
+        type: IRON_INGOT
+        amount: 4
+      '18':
+        type: RAW_FISH
+        amount: 4
+      '19':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '20':
+        type: RAW_FISH
+        damage: 1
+        amount: 4
+      '21':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '22':
+        type: MUTTON
+        amount: 4
+      '23':
+        type: WOOL
+      '24':
+        type: WOOL
+        damage: 9
+      '25':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '26':
+        type: WOOD
+        amount: 2
+      '27':
+        type: STAINED_CLAY
+        damage: 2
+      '28':
+        type: STAINED_CLAY
+        damage: 3
+      '29':
+        type: STAINED_CLAY
+        damage: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 5
+      '31':
+        type: COOKED_BEEF
+        amount: 4
+      '32':
+        type: DIAMOND
+      '33':
+        type: STICK
+        amount: 2
+      '34':
+        type: DIAMOND_BLOCK
+      '35':
+        type: WOOL
+        damage: 14
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '33':
+    Time: 1462120699479
+    Exp: 65
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.4000006
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 15069.691653419162
+      y: 71.0
+      z: 15639.300000011921
+      pitch: -6.7500386
+      yaw: -41.40393
+    Items:
+      '0':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '1':
+        type: FLINT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Handle
+      '2':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Normal)
+          lore:
+          - ''
+          - '§7Material: §bGold'
+      '3':
+        type: STAINED_CLAY
+        damage: 7
+      '4':
+        type: COOKED_CHICKEN
+        amount: 2
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 10
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '7':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: EMERALD
+        amount: 4
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+      '10':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '11':
+        type: GRILLED_PORK
+        amount: 24
+      '12':
+        type: COOKED_FISH
+        amount: 4
+      '13':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '14':
+        type: COOKIE
+        amount: 3
+      '15':
+        type: STAINED_CLAY
+        damage: 1
+      '16':
+        type: GOLD_INGOT
+        amount: 4
+      '17':
+        type: IRON_INGOT
+        amount: 4
+      '18':
+        type: RAW_FISH
+        amount: 4
+      '19':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '20':
+        type: RAW_FISH
+        damage: 1
+        amount: 4
+      '21':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '22':
+        type: MUTTON
+        amount: 4
+      '23':
+        type: WOOL
+      '24':
+        type: WOOL
+        damage: 9
+      '25':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '26':
+        type: WOOD
+        amount: 2
+      '27':
+        type: STAINED_CLAY
+        damage: 2
+      '28':
+        type: STAINED_CLAY
+        damage: 3
+      '29':
+        type: STAINED_CLAY
+        damage: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 5
+      '31':
+        type: COOKED_BEEF
+        amount: 4
+      '32':
+        type: DIAMOND
+      '33':
+        type: STICK
+        amount: 2
+      '34':
+        type: DIAMOND_BLOCK
+      '35':
+        type: WOOL
+        damage: 14
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '34':
+    Time: 1462483223960
+    Exp: 65
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.4000006
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 15069.691653419162
+      y: 71.0
+      z: 15639.300000011921
+      pitch: -6.7500386
+      yaw: -41.40393
+    Items:
+      '0':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '1':
+        type: FLINT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Handle
+      '2':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Normal)
+          lore:
+          - ''
+          - '§7Material: §bGold'
+      '3':
+        type: STAINED_CLAY
+        damage: 7
+      '4':
+        type: COOKED_CHICKEN
+        amount: 2
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 10
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '7':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: EMERALD
+        amount: 4
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+      '10':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '11':
+        type: GRILLED_PORK
+        amount: 24
+      '12':
+        type: COOKED_FISH
+        amount: 4
+      '13':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '14':
+        type: COOKIE
+        amount: 3
+      '15':
+        type: STAINED_CLAY
+        damage: 1
+      '16':
+        type: GOLD_INGOT
+        amount: 4
+      '17':
+        type: IRON_INGOT
+        amount: 4
+      '18':
+        type: RAW_FISH
+        amount: 4
+      '19':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '20':
+        type: RAW_FISH
+        damage: 1
+        amount: 4
+      '21':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '22':
+        type: MUTTON
+        amount: 4
+      '23':
+        type: WOOL
+      '24':
+        type: WOOL
+        damage: 9
+      '25':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '26':
+        type: WOOD
+        amount: 2
+      '27':
+        type: STAINED_CLAY
+        damage: 2
+      '28':
+        type: STAINED_CLAY
+        damage: 3
+      '29':
+        type: STAINED_CLAY
+        damage: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 5
+      '31':
+        type: COOKED_BEEF
+        amount: 4
+      '32':
+        type: DIAMOND
+      '33':
+        type: STICK
+        amount: 2
+      '34':
+        type: DIAMOND_BLOCK
+      '35':
+        type: WOOL
+        damage: 14
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

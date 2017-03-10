@@ -1,0 +1,1482 @@
+Inventories:
+  '25':
+    Time: 1458455359613
+    Exp: 240
+    Health: 19.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 7
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0367259027594768E7
+      y: 15.0
+      z: -1.285168114943617E7
+      pitch: -7.5036883
+      yaw: -179.62405
+    Items:
+      '0':
+        type: IRON_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+        damage: 128
+      '3':
+        type: STONE_AXE
+      '4':
+        type: IRON_PICKAXE
+        damage: 127
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 7
+      '6':
+        type: PORK
+        amount: 64
+      '7':
+        type: COOKED_BEEF
+        amount: 63
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: CAKE
+      '10':
+        type: BAKED_POTATO
+        amount: 3
+      '11':
+        type: COOKED_FISH
+        amount: 10
+      '12':
+        type: COOKED_CHICKEN
+        amount: 61
+      '13':
+        type: RABBIT_STEW
+      '14':
+        type: SEEDS
+        amount: 2
+      '15':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '16':
+        type: ROTTEN_FLESH
+        amount: 11
+      '17':
+        type: GOLD_ORE
+        amount: 29
+      '18':
+        type: REDSTONE
+        amount: 9
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: STONE
+        damage: 3
+        amount: 20
+      '21':
+        type: PUMPKIN_SEEDS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rGrass Seeds
+          lore:
+          - ''
+          - §7§oCan be planted on Dirt
+      '22':
+        type: SLIME_BALL
+        amount: 4
+      '23':
+        type: STRING
+      '24':
+        type: STICK
+        amount: 5
+      '25':
+        type: STONE
+        damage: 5
+        amount: 2
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: COAL
+        amount: 64
+      '28':
+        type: COAL
+        amount: 49
+      '29':
+        type: STONE
+        damage: 1
+        amount: 4
+      '30':
+        type: ARROW
+        amount: 5
+      '31':
+        type: BONE
+      '32':
+        type: STONE_SWORD
+        damage: 83
+      '33':
+        type: SULPHUR
+        amount: 2
+      '34':
+        type: IRON_INGOT
+        amount: 7
+      '35':
+        type: REDSTONE
+        amount: 64
+  '26':
+    Time: 1459465464812
+    Exp: 240
+    Health: 19.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 7
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0367259027594768E7
+      y: 15.0
+      z: -1.285168114943617E7
+      pitch: -7.5036883
+      yaw: -179.62405
+    Items:
+      '0':
+        type: IRON_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+        damage: 128
+      '3':
+        type: STONE_AXE
+      '4':
+        type: IRON_PICKAXE
+        damage: 127
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 7
+      '6':
+        type: PORK
+        amount: 64
+      '7':
+        type: COOKED_BEEF
+        amount: 63
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: CAKE
+      '10':
+        type: BAKED_POTATO
+        amount: 3
+      '11':
+        type: COOKED_FISH
+        amount: 10
+      '12':
+        type: COOKED_CHICKEN
+        amount: 61
+      '13':
+        type: RABBIT_STEW
+      '14':
+        type: SEEDS
+        amount: 2
+      '15':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '16':
+        type: ROTTEN_FLESH
+        amount: 11
+      '17':
+        type: GOLD_ORE
+        amount: 29
+      '18':
+        type: REDSTONE
+        amount: 9
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: STONE
+        damage: 3
+        amount: 20
+      '21':
+        type: PUMPKIN_SEEDS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rGrass Seeds
+          lore:
+          - ''
+          - §7§oCan be planted on Dirt
+      '22':
+        type: SLIME_BALL
+        amount: 4
+      '23':
+        type: STRING
+      '24':
+        type: STICK
+        amount: 5
+      '25':
+        type: STONE
+        damage: 5
+        amount: 2
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: COAL
+        amount: 64
+      '28':
+        type: COAL
+        amount: 49
+      '29':
+        type: STONE
+        damage: 1
+        amount: 4
+      '30':
+        type: ARROW
+        amount: 5
+      '31':
+        type: BONE
+      '32':
+        type: STONE_SWORD
+        damage: 83
+      '33':
+        type: SULPHUR
+        amount: 2
+      '34':
+        type: IRON_INGOT
+        amount: 7
+      '35':
+        type: REDSTONE
+        amount: 64
+      '36':
+        type: IRON_BOOTS
+        damage: 5
+      '37':
+        type: IRON_LEGGINGS
+        damage: 6
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 6
+  '27':
+    Time: 1459469873380
+    Exp: 240
+    Health: 19.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 7
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0367259027594768E7
+      y: 15.0
+      z: -1.285168114943617E7
+      pitch: -7.5036883
+      yaw: -179.62405
+    Items:
+      '0':
+        type: IRON_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+        damage: 128
+      '3':
+        type: STONE_AXE
+      '4':
+        type: IRON_PICKAXE
+        damage: 127
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 7
+      '6':
+        type: PORK
+        amount: 64
+      '7':
+        type: COOKED_BEEF
+        amount: 63
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: CAKE
+      '10':
+        type: BAKED_POTATO
+        amount: 3
+      '11':
+        type: COOKED_FISH
+        amount: 10
+      '12':
+        type: COOKED_CHICKEN
+        amount: 61
+      '13':
+        type: RABBIT_STEW
+      '14':
+        type: SEEDS
+        amount: 2
+      '15':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '16':
+        type: ROTTEN_FLESH
+        amount: 11
+      '17':
+        type: GOLD_ORE
+        amount: 29
+      '18':
+        type: REDSTONE
+        amount: 9
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: STONE
+        damage: 3
+        amount: 20
+      '21':
+        type: PUMPKIN_SEEDS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rGrass Seeds
+          lore:
+          - ''
+          - §7§oCan be planted on Dirt
+      '22':
+        type: SLIME_BALL
+        amount: 4
+      '23':
+        type: STRING
+      '24':
+        type: STICK
+        amount: 5
+      '25':
+        type: STONE
+        damage: 5
+        amount: 2
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: COAL
+        amount: 64
+      '28':
+        type: COAL
+        amount: 49
+      '29':
+        type: STONE
+        damage: 1
+        amount: 4
+      '30':
+        type: ARROW
+        amount: 5
+      '31':
+        type: BONE
+      '32':
+        type: STONE_SWORD
+        damage: 83
+      '33':
+        type: SULPHUR
+        amount: 2
+      '34':
+        type: IRON_INGOT
+        amount: 7
+      '35':
+        type: REDSTONE
+        amount: 64
+      '36':
+        type: IRON_BOOTS
+        damage: 5
+      '37':
+        type: IRON_LEGGINGS
+        damage: 6
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 6
+  '28':
+    Time: 1459659262876
+    Exp: 240
+    Health: 19.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 7
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0367259027594768E7
+      y: 15.0
+      z: -1.285168114943617E7
+      pitch: -7.5036883
+      yaw: -179.62405
+    Items:
+      '0':
+        type: IRON_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+        damage: 128
+      '3':
+        type: STONE_AXE
+      '4':
+        type: IRON_PICKAXE
+        damage: 127
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 7
+      '6':
+        type: PORK
+        amount: 64
+      '7':
+        type: COOKED_BEEF
+        amount: 63
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: CAKE
+      '10':
+        type: BAKED_POTATO
+        amount: 3
+      '11':
+        type: COOKED_FISH
+        amount: 10
+      '12':
+        type: COOKED_CHICKEN
+        amount: 61
+      '13':
+        type: RABBIT_STEW
+      '14':
+        type: SEEDS
+        amount: 2
+      '15':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '16':
+        type: ROTTEN_FLESH
+        amount: 11
+      '17':
+        type: GOLD_ORE
+        amount: 29
+      '18':
+        type: REDSTONE
+        amount: 9
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: STONE
+        damage: 3
+        amount: 20
+      '21':
+        type: PUMPKIN_SEEDS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rGrass Seeds
+          lore:
+          - ''
+          - §7§oCan be planted on Dirt
+      '22':
+        type: SLIME_BALL
+        amount: 4
+      '23':
+        type: STRING
+      '24':
+        type: STICK
+        amount: 5
+      '25':
+        type: STONE
+        damage: 5
+        amount: 2
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: COAL
+        amount: 64
+      '28':
+        type: COAL
+        amount: 49
+      '29':
+        type: STONE
+        damage: 1
+        amount: 4
+      '30':
+        type: ARROW
+        amount: 5
+      '31':
+        type: BONE
+      '32':
+        type: STONE_SWORD
+        damage: 83
+      '33':
+        type: SULPHUR
+        amount: 2
+      '34':
+        type: IRON_INGOT
+        amount: 7
+      '35':
+        type: REDSTONE
+        amount: 64
+      '36':
+        type: IRON_BOOTS
+        damage: 5
+      '37':
+        type: IRON_LEGGINGS
+        damage: 6
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 6
+  '29':
+    Time: 1459766736877
+    Exp: 240
+    Health: 19.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 7
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0367259027594768E7
+      y: 15.0
+      z: -1.285168114943617E7
+      pitch: -7.5036883
+      yaw: -179.62405
+    Items:
+      '0':
+        type: IRON_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+        damage: 128
+      '3':
+        type: STONE_AXE
+      '4':
+        type: IRON_PICKAXE
+        damage: 127
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 7
+      '6':
+        type: PORK
+        amount: 64
+      '7':
+        type: COOKED_BEEF
+        amount: 63
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: CAKE
+      '10':
+        type: BAKED_POTATO
+        amount: 3
+      '11':
+        type: COOKED_FISH
+        amount: 10
+      '12':
+        type: COOKED_CHICKEN
+        amount: 61
+      '13':
+        type: RABBIT_STEW
+      '14':
+        type: SEEDS
+        amount: 2
+      '15':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '16':
+        type: ROTTEN_FLESH
+        amount: 11
+      '17':
+        type: GOLD_ORE
+        amount: 29
+      '18':
+        type: REDSTONE
+        amount: 9
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: STONE
+        damage: 3
+        amount: 20
+      '21':
+        type: PUMPKIN_SEEDS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rGrass Seeds
+          lore:
+          - ''
+          - §7§oCan be planted on Dirt
+      '22':
+        type: SLIME_BALL
+        amount: 4
+      '23':
+        type: STRING
+      '24':
+        type: STICK
+        amount: 5
+      '25':
+        type: STONE
+        damage: 5
+        amount: 2
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: COAL
+        amount: 64
+      '28':
+        type: COAL
+        amount: 49
+      '29':
+        type: STONE
+        damage: 1
+        amount: 4
+      '30':
+        type: ARROW
+        amount: 5
+      '31':
+        type: BONE
+      '32':
+        type: STONE_SWORD
+        damage: 83
+      '33':
+        type: SULPHUR
+        amount: 2
+      '34':
+        type: IRON_INGOT
+        amount: 7
+      '35':
+        type: REDSTONE
+        amount: 64
+      '36':
+        type: IRON_BOOTS
+        damage: 5
+      '37':
+        type: IRON_LEGGINGS
+        damage: 6
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 6
+  '30':
+    Time: 1459847487817
+    Exp: 240
+    Health: 19.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 7
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0367259027594768E7
+      y: 15.0
+      z: -1.285168114943617E7
+      pitch: -7.5036883
+      yaw: -179.62405
+    Items:
+      '0':
+        type: IRON_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+        damage: 128
+      '3':
+        type: STONE_AXE
+      '4':
+        type: IRON_PICKAXE
+        damage: 127
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 7
+      '6':
+        type: PORK
+        amount: 64
+      '7':
+        type: COOKED_BEEF
+        amount: 63
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: CAKE
+      '10':
+        type: BAKED_POTATO
+        amount: 3
+      '11':
+        type: COOKED_FISH
+        amount: 10
+      '12':
+        type: COOKED_CHICKEN
+        amount: 61
+      '13':
+        type: RABBIT_STEW
+      '14':
+        type: SEEDS
+        amount: 2
+      '15':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '16':
+        type: ROTTEN_FLESH
+        amount: 11
+      '17':
+        type: GOLD_ORE
+        amount: 29
+      '18':
+        type: REDSTONE
+        amount: 9
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: STONE
+        damage: 3
+        amount: 20
+      '21':
+        type: PUMPKIN_SEEDS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rGrass Seeds
+          lore:
+          - ''
+          - §7§oCan be planted on Dirt
+      '22':
+        type: SLIME_BALL
+        amount: 4
+      '23':
+        type: STRING
+      '24':
+        type: STICK
+        amount: 5
+      '25':
+        type: STONE
+        damage: 5
+        amount: 2
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: COAL
+        amount: 64
+      '28':
+        type: COAL
+        amount: 49
+      '29':
+        type: STONE
+        damage: 1
+        amount: 4
+      '30':
+        type: ARROW
+        amount: 5
+      '31':
+        type: BONE
+      '32':
+        type: STONE_SWORD
+        damage: 83
+      '33':
+        type: SULPHUR
+        amount: 2
+      '34':
+        type: IRON_INGOT
+        amount: 7
+      '35':
+        type: REDSTONE
+        amount: 64
+      '36':
+        type: IRON_BOOTS
+        damage: 5
+      '37':
+        type: IRON_LEGGINGS
+        damage: 6
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 6
+  '31':
+    Time: 1460146823431
+    Exp: 240
+    Health: 19.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 7
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0367259027594768E7
+      y: 15.0
+      z: -1.285168114943617E7
+      pitch: -7.5036883
+      yaw: -179.62405
+    Items:
+      '0':
+        type: IRON_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+        damage: 128
+      '3':
+        type: STONE_AXE
+      '4':
+        type: IRON_PICKAXE
+        damage: 127
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 7
+      '6':
+        type: PORK
+        amount: 64
+      '7':
+        type: COOKED_BEEF
+        amount: 63
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: CAKE
+      '10':
+        type: BAKED_POTATO
+        amount: 3
+      '11':
+        type: COOKED_FISH
+        amount: 10
+      '12':
+        type: COOKED_CHICKEN
+        amount: 61
+      '13':
+        type: RABBIT_STEW
+      '14':
+        type: SEEDS
+        amount: 2
+      '15':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '16':
+        type: ROTTEN_FLESH
+        amount: 11
+      '17':
+        type: GOLD_ORE
+        amount: 29
+      '18':
+        type: REDSTONE
+        amount: 9
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: STONE
+        damage: 3
+        amount: 20
+      '21':
+        type: PUMPKIN_SEEDS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rGrass Seeds
+          lore:
+          - ''
+          - §7§oCan be planted on Dirt
+      '22':
+        type: SLIME_BALL
+        amount: 4
+      '23':
+        type: STRING
+      '24':
+        type: STICK
+        amount: 5
+      '25':
+        type: STONE
+        damage: 5
+        amount: 2
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: COAL
+        amount: 64
+      '28':
+        type: COAL
+        amount: 49
+      '29':
+        type: STONE
+        damage: 1
+        amount: 4
+      '30':
+        type: ARROW
+        amount: 5
+      '31':
+        type: BONE
+      '32':
+        type: STONE_SWORD
+        damage: 83
+      '33':
+        type: SULPHUR
+        amount: 2
+      '34':
+        type: IRON_INGOT
+        amount: 7
+      '35':
+        type: REDSTONE
+        amount: 64
+      '36':
+        type: IRON_BOOTS
+        damage: 5
+      '37':
+        type: IRON_LEGGINGS
+        damage: 6
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 6
+  '32':
+    Time: 1460883170405
+    Exp: 240
+    Health: 19.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 7
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0367259027594768E7
+      y: 15.0
+      z: -1.285168114943617E7
+      pitch: -7.5036883
+      yaw: -179.62405
+    Items:
+      '0':
+        type: IRON_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+        damage: 128
+      '3':
+        type: STONE_AXE
+      '4':
+        type: IRON_PICKAXE
+        damage: 127
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 7
+      '6':
+        type: PORK
+        amount: 64
+      '7':
+        type: COOKED_BEEF
+        amount: 63
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: CAKE
+      '10':
+        type: BAKED_POTATO
+        amount: 3
+      '11':
+        type: COOKED_FISH
+        amount: 10
+      '12':
+        type: COOKED_CHICKEN
+        amount: 61
+      '13':
+        type: RABBIT_STEW
+      '14':
+        type: SEEDS
+        amount: 2
+      '15':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '16':
+        type: ROTTEN_FLESH
+        amount: 11
+      '17':
+        type: GOLD_ORE
+        amount: 29
+      '18':
+        type: REDSTONE
+        amount: 9
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: STONE
+        damage: 3
+        amount: 20
+      '21':
+        type: PUMPKIN_SEEDS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rGrass Seeds
+          lore:
+          - ''
+          - §7§oCan be planted on Dirt
+      '22':
+        type: SLIME_BALL
+        amount: 4
+      '23':
+        type: STRING
+      '24':
+        type: STICK
+        amount: 5
+      '25':
+        type: STONE
+        damage: 5
+        amount: 2
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: COAL
+        amount: 64
+      '28':
+        type: COAL
+        amount: 49
+      '29':
+        type: STONE
+        damage: 1
+        amount: 4
+      '30':
+        type: ARROW
+        amount: 5
+      '31':
+        type: BONE
+      '32':
+        type: STONE_SWORD
+        damage: 83
+      '33':
+        type: SULPHUR
+        amount: 2
+      '34':
+        type: IRON_INGOT
+        amount: 7
+      '35':
+        type: REDSTONE
+        amount: 64
+      '36':
+        type: IRON_BOOTS
+        damage: 5
+      '37':
+        type: IRON_LEGGINGS
+        damage: 6
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 6
+  '33':
+    Time: 1462120695162
+    Exp: 240
+    Health: 19.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 7
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0367259027594768E7
+      y: 15.0
+      z: -1.285168114943617E7
+      pitch: -7.5036883
+      yaw: -179.62405
+    Items:
+      '0':
+        type: IRON_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+        damage: 128
+      '3':
+        type: STONE_AXE
+      '4':
+        type: IRON_PICKAXE
+        damage: 127
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 7
+      '6':
+        type: PORK
+        amount: 64
+      '7':
+        type: COOKED_BEEF
+        amount: 63
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: CAKE
+      '10':
+        type: BAKED_POTATO
+        amount: 3
+      '11':
+        type: COOKED_FISH
+        amount: 10
+      '12':
+        type: COOKED_CHICKEN
+        amount: 61
+      '13':
+        type: RABBIT_STEW
+      '14':
+        type: SEEDS
+        amount: 2
+      '15':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '16':
+        type: ROTTEN_FLESH
+        amount: 11
+      '17':
+        type: GOLD_ORE
+        amount: 29
+      '18':
+        type: REDSTONE
+        amount: 9
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: STONE
+        damage: 3
+        amount: 20
+      '21':
+        type: PUMPKIN_SEEDS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rGrass Seeds
+          lore:
+          - ''
+          - §7§oCan be planted on Dirt
+      '22':
+        type: SLIME_BALL
+        amount: 4
+      '23':
+        type: STRING
+      '24':
+        type: STICK
+        amount: 5
+      '25':
+        type: STONE
+        damage: 5
+        amount: 2
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: COAL
+        amount: 64
+      '28':
+        type: COAL
+        amount: 49
+      '29':
+        type: STONE
+        damage: 1
+        amount: 4
+      '30':
+        type: ARROW
+        amount: 5
+      '31':
+        type: BONE
+      '32':
+        type: STONE_SWORD
+        damage: 83
+      '33':
+        type: SULPHUR
+        amount: 2
+      '34':
+        type: IRON_INGOT
+        amount: 7
+      '35':
+        type: REDSTONE
+        amount: 64
+      '36':
+        type: IRON_BOOTS
+        damage: 5
+      '37':
+        type: IRON_LEGGINGS
+        damage: 6
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 6
+  '34':
+    Time: 1462483218792
+    Exp: 240
+    Health: 19.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 7
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0367259027594768E7
+      y: 15.0
+      z: -1.285168114943617E7
+      pitch: -7.5036883
+      yaw: -179.62405
+    Items:
+      '0':
+        type: IRON_SWORD
+      '1':
+        type: STONE_SPADE
+      '2':
+        type: STONE_PICKAXE
+        damage: 128
+      '3':
+        type: STONE_AXE
+      '4':
+        type: IRON_PICKAXE
+        damage: 127
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 7
+      '6':
+        type: PORK
+        amount: 64
+      '7':
+        type: COOKED_BEEF
+        amount: 63
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: CAKE
+      '10':
+        type: BAKED_POTATO
+        amount: 3
+      '11':
+        type: COOKED_FISH
+        amount: 10
+      '12':
+        type: COOKED_CHICKEN
+        amount: 61
+      '13':
+        type: RABBIT_STEW
+      '14':
+        type: SEEDS
+        amount: 2
+      '15':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '16':
+        type: ROTTEN_FLESH
+        amount: 11
+      '17':
+        type: GOLD_ORE
+        amount: 29
+      '18':
+        type: REDSTONE
+        amount: 9
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: STONE
+        damage: 3
+        amount: 20
+      '21':
+        type: PUMPKIN_SEEDS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rGrass Seeds
+          lore:
+          - ''
+          - §7§oCan be planted on Dirt
+      '22':
+        type: SLIME_BALL
+        amount: 4
+      '23':
+        type: STRING
+      '24':
+        type: STICK
+        amount: 5
+      '25':
+        type: STONE
+        damage: 5
+        amount: 2
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: COAL
+        amount: 64
+      '28':
+        type: COAL
+        amount: 49
+      '29':
+        type: STONE
+        damage: 1
+        amount: 4
+      '30':
+        type: ARROW
+        amount: 5
+      '31':
+        type: BONE
+      '32':
+        type: STONE_SWORD
+        damage: 83
+      '33':
+        type: SULPHUR
+        amount: 2
+      '34':
+        type: IRON_INGOT
+        amount: 7
+      '35':
+        type: REDSTONE
+        amount: 64
+      '36':
+        type: IRON_BOOTS
+        damage: 5
+      '37':
+        type: IRON_LEGGINGS
+        damage: 6
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 6

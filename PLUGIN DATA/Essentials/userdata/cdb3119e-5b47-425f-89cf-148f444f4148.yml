@@ -1,0 +1,32 @@
+lastlocation:
+  world: world
+  x: 10016.808451844408
+  y: 64.0
+  z: -19690.630282294103
+  yaw: -175.65674
+  pitch: 9.562385
+lastAccountName: Spencerzzz
+timestamps:
+  login: 1470235007201
+  lastteleport: 1470226155439
+  logout: 1470238083928
+ipAddress: 1.129.97.4
+geolocation: Australia
+money: '2500'
+logoutlocation:
+  world: world
+  x: 10020.890468553509
+  y: 64.0
+  z: -19694.895665297186
+  yaw: -189.1239
+  pitch: 9.251874
+godmode: true
+afk: false
+homes:
+  home:
+    world: world
+    x: 10023.994169334996
+    y: 64.0
+    z: -19700.461031514835
+    yaw: -69.60266
+    pitch: 12.748995

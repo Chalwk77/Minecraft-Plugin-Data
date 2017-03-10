@@ -1,0 +1,30 @@
+lastAccountName: From_Thea
+timestamps:
+  login: 1473400726601
+  lastteleport: 1473405541547
+  logout: 1473405644879
+ipAddress: 124.171.166.140
+geolocation: Canberra, Australian Capital Territory, Australia
+lastlocation:
+  world: world
+  x: -29393.0
+  y: 68.5625
+  z: -3462.0
+  yaw: 0.0
+  pitch: 0.0
+money: '6744.68550000000000425'
+logoutlocation:
+  world: world
+  x: -29388.566637140117
+  y: 68.0
+  z: -3457.9105408373434
+  yaw: -63.132786
+  pitch: 28.956036
+homes:
+  home:
+    world: world
+    x: -29393.1537180978
+    y: 68.0
+    z: -3461.483779565431
+    yaw: -88.91059
+    pitch: 32.71075

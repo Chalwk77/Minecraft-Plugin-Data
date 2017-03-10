@@ -1,0 +1,91 @@
+lastlocation:
+  world: world
+  x: -3828.981318356463
+  y: 69.0
+  z: 4023.3265723132313
+  yaw: -261.5999
+  pitch: 19.049967
+lastAccountName: lizardkang
+timestamps:
+  login: 1468985365929
+  lastteleport: 1468988483051
+  logout: 1468988857994
+  kits:
+    dtools: 1468598653625
+    food: 1468986387060
+ipAddress: 96.226.211.9
+geolocation: Grapevine, Texas, United States
+homes:
+  home:
+    world: world
+    x: -2066.3138042826413
+    y: 64.0
+    z: 5155.958700558076
+    yaw: -182.96957
+    pitch: 14.850034
+  mine:
+    world: world
+    x: -1928.06012958097
+    y: 11.0
+    z: 4804.810733657028
+    yaw: -205.29195
+    pitch: 20.905466
+  mine2:
+    world: world
+    x: -2020.4801522423068
+    y: 10.0
+    z: 5292.699999988079
+    yaw: 0.03302002
+    pitch: 16.650072
+  chest:
+    world: world
+    x: -2031.3706905523115
+    y: 21.0
+    z: 5157.688986592867
+    yaw: -181.80676
+    pitch: 18.261593
+  q:
+    world: world
+    x: -2024.273374674518
+    y: 58.0
+    z: 5185.397177168019
+    yaw: 200.42885
+    pitch: 36.29999
+  mob:
+    world: world
+    x: -2109.291025273974
+    y: 73.0
+    z: 5375.059843687977
+    yaw: -343.31955
+    pitch: 34.800045
+  homenew:
+    world: world
+    x: 1543.3381352352883
+    y: 124.0
+    z: 430.5571210482468
+    yaw: 273.00037
+    pitch: 28.949966
+logoutlocation:
+  world: world
+  x: 72.32723648783865
+  y: 75.0
+  z: 1599.6741908189902
+  yaw: -237.7498
+  pitch: 31.350004
+money: '2500'
+afk: false
+mail:
+- §6[§rChalwk§6] §rCustom Runes Enchant Shop now open! &b/warp runeshop
+- §6[§rChalwk§6] §rNew content available at /warp runeshop
+- '§6[§rServer§6] §rNotice: Known issue with /nv when wearing any type of helmet.'
+- '§6[§rChalwk§6] §rNotice: Known issue with Veinminer Rune Enchant. Do not use!'
+- '§6[§rChalwk§6] §rNotice: Disguises (/d) are ''temporarily'' disabled.'
+- '§6[§rServer§6] §rNotice: Webstore sale extended to Mon 25th Jul'
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'

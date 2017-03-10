@@ -1,0 +1,917 @@
+# 
+# +------------------------------------------------------+ #
+# |                       Notes                          | #
+# +------------------------------------------------------+ #
+ops-name-color: ''
+nickname-prefix: ''
+max-nick-length: 26
+ignore-colors-in-max-nick-length: true
+change-displayname: true
+add-prefix-suffix: true
+teleport-safety: true
+force-disable-teleport-safety: false
+teleport-cooldown: 0
+teleport-delay: 0
+teleport-invulnerability: 4
+heal-cooldown: 60
+near-radius: 200
+permission-based-item-spawn: true
+spawnmob-limit: 100
+warn-on-smite: true
+drop-items-if-full: false
+notify-no-new-mail: true
+socialspy-commands:
+- msg
+- w
+- r
+- mail
+- m
+- t
+- whisper
+- emsg
+- tell
+- er
+- reply
+- ereply
+- email
+- action
+- describe
+- eme
+- eaction
+- edescribe
+- etell
+- ewhisper
+- pm
+mute-commands:
+- f
+- kittycannon
+player-commands:
+- afk
+- afk.auto
+- back
+- back.ondeath
+- balance
+- balance.others
+- balancetop
+- build
+- chat.color
+- chat.format
+- chat.shout
+- chat.question
+- clearinventory
+- compass
+- depth
+- delhome
+- getpos
+- geoip.show
+- help
+- helpop
+- home
+- home.others
+- ignore
+- info
+- itemdb
+- kit
+- kits.tools
+- list
+- mail
+- mail.send
+- me
+- motd
+- msg
+- msg.color
+- nick
+- near
+- pay
+- ping
+- protect
+- r
+- rules
+- realname
+- seen
+- sethome
+- setxmpp
+- signs.create.protection
+- signs.create.trade
+- signs.break.protection
+- signs.break.trade
+- signs.use.balance
+- signs.use.buy
+- signs.use.disposal
+- signs.use.enchant
+- signs.use.free
+- signs.use.gamemode
+- signs.use.heal
+- signs.use.info
+- signs.use.kit
+- signs.use.mail
+- signs.use.protection
+- signs.use.repair
+- signs.use.time
+- signs.use.trade
+- signs.use.warp
+- signs.use.weather
+- spawn
+- suicide
+- time
+- tpa
+- tpaccept
+- tpahere
+- tpdeny
+- warp
+- warp.list
+- world
+- worth
+- xmpp
+skip-used-one-time-kits-from-kit-list: false
+kits:
+  Color:
+    items:
+    - 387 1 book:Color
+  Rules:
+    items:
+    - 387 1 book:Rules
+  wekit:
+    delay: 10800
+    items:
+    - 271 1 name:&aWorld_Edit_Wand! lore:World_Editing_at_its_finest.
+    - 278 1 name:&aSuper_Pickaxe lore://_sp_recur_<radius>|//sp_area_<radius>|//_(to_turn_off)
+    - 284 1 name:&aTerraforming_Shovel lore:Smooth_Brush|//brush_smooth_[-n]_[size]_[iterations]
+    - 286 1 name:&aTerraforming_Axe lore:Sphere_brush|Cylinder_brush|Clipboard_brush
+    - 294 1 name:&aBlock_Replacer_Tool lore://repl
+    - 50 1 name:&aLight... lore:Light_up_the_area_you_are_in!
+  citizen:
+    delay: 0
+    items:
+    - 364 16 name:&aSTEAK damage_undead:65535
+    - 366 16 name:&aCooked_Chicken damage_undead:65535
+    - 322:1 5 name:&aEnchanted_Golden_Apple
+    - 276 1
+    - 277 1
+    - 278 1
+    - 279 1
+    - 293 1
+    - 403 1 name:&eSlimefun_Guide_&7(Right_Click) lore:&2|&rThis_is_your_basic_Guide_for_Slimefun|&rYou_can_see_all_Items_added_by_this_Plugin|&ror_its_Addons_including_their_Recipes|&ra_bit_of_information_and_more
+    - 50 16 name:&aLight_the_way... damage_undead:65535
+    - 434 16 damage_undead:65535
+  tools:
+    delay: 10800
+    items:
+    - 272 1
+    - 257 1
+    - 273 1
+    - 275 1
+    - 297 32
+    - 50 32
+    - 326 1
+    - 327 1
+    - 436 32
+  newbie:
+    delay: 10800
+    items:
+    - 272 1
+    - 273 1
+    - 274 1
+    - 275 1
+    - 346 1
+    - 58 1
+    - 17 16
+  dtools:
+    delay: 10800
+    items:
+    - 278 1 durability:1
+    - 279 1 durability:1
+    - 293 1 durability:1
+    - 276 1 durability:1
+    - 277 1 durability:1
+    - 310 1
+    - 311 1
+    - 312 1
+    - 313 1
+  firework:
+    delay: 10800
+    items:
+    - 401 1 name:Angry_Creeper color:red fade:green type:creeper power:1
+    - 401 1 name:StarryNight color:yellow,orange fade:blue type:star effect:trail,twinkle power:1
+    - 401 2 name:SolarWind color:yellow,orange fade:red shape:large effect:twinkle color:yellow,orange fade:red shape:ball effect:trail color:red,purple fade:pink shape:star effect:trail power:1
+  Regular:
+    delay: 10800
+    items:
+    - 256 1
+    - 257 1 durability:2 efficiency:2
+    - 258 1
+    - 267 1 sharpness:1 durability:2
+    - 306 1 protection:2
+    - 307 1 protection:2
+    - 308 1 protection:2
+    - 309 1 protection:2
+    - 364 16
+    - 322:1 1
+  Helper:
+    delay: 10800
+    items:
+    - 279 1
+    - 277 1 durability:2 efficiency:2
+    - 278 1
+    - 276 1 sharpness:1 durability:2
+    - 310 1 protection:2
+    - 311 1 protection:2
+    - 312 1 protection:2
+    - 313 1 protection:2
+    - 364 16
+    - 264 26
+    - 322:1 1
+  Mod:
+    delay: 0
+    items:
+    - 271 1
+    - 35:14 2
+    - 35:4 2
+    - 345 1
+    - 327 1
+    - 334 1
+    - 369 1
+  Architect:
+    delay: 10800
+    items:
+    - 310 1 protection:3 name:&k&b&kii&r&4Architect&k&b&kii
+    - 311 1 protection:3 name:&k&b&kii&r&4Architect&k&b&kii
+    - 312 1 protection:3 name:&k&b&kii&r&4Architect&k&b&kii
+    - 313 1 protection:3 name:&k&b&kii&r&4Architect&k&b&kii
+    - 279 1 durability:3 name:&k&b&kii&r&4Architect&k&b&kii
+    - 277 1 durability:3 efficiency:4 name:&k&b&kii&r&4Architect&k&b&kii
+    - 278 1 durability:3 efficiency:4 name:&k&b&kii&r&4Architect&k&b&kii
+    - 276 1 sharpness:3 durability:3 smite:1 looting:3 fireaspect:1 name:&k&b&kii&r&4Architect&k&b&kii
+    - 364 16 name:&k&b&kii&r&4Architect&k&b&kii
+    - 322:1 4 name:&k&b&kii&r&4Architect&k&b&kii
+  Donor:
+    delay: 10800
+    items:
+    - 310 1 protection:1 name:&k&b&kii&r&4Donor&k&b&kii
+    - 311 1 protection:1 name:&k&b&kii&r&4Donor&k&b&kii
+    - 312 1 protection:1 name:&k&b&kii&r&4Donor&k&b&kii
+    - 313 1 protection:1 name:&k&b&kii&r&4Donor&k&b&kii
+    - 279 1 efficiency:1 name:&k&b&kii&r&4Donor&k&b&kii
+    - 277 1 efficiency:1 name:&k&b&kii&r&4Donor&k&b&kii
+    - 278 1 efficiency:1 name:&k&b&kii&r&4Donor&k&b&kii
+    - 276 1 sharpness:1 name:&k&b&kii&r&4Donor&k&b&kii
+    - 364 16 name:&k&b&kii&r&4Donor&k&b&kii
+    - obsidian 16 name:&k&b&kii&r&4Donor&k&b&kii
+    - 322:1 1 name:&k&b&kii&r&4Donor&k&b&kii
+    - diamond 5 name:&k&b&kii&r&4Donor&k&b&kii
+  Elite:
+    delay: 10800
+    items:
+    - 310 1 protection:2 name:&k&2&kii&r&5Elite&k&2&kii
+    - 311 1 protection:2 name:&k&2&kii&r&5Elite&k&2&kii
+    - 312 1 protection:2 name:&k&2&kii&r&5Elite&k&2&kii
+    - 313 1 protection:2 name:&k&2&kii&r&5Elite&k&2&kii
+    - 279 1 efficiency:2 name:&k&2&kii&r&5Elite&k&2&kii
+    - 277 1 efficiency:2 name:&k&2&kii&r&5Elite&k&2&kii
+    - 276 1 sharpness:2 name:&k&2&kii&r&5Elite&k&2&kii
+    - 278 1 efficiency:2 name:&k&2&kii&r&5Elite&k&2&kii
+    - 364 16 name:&k&2&kii&r&5Elite&k&2&kii
+    - 322:1 2 name:&k&2&kii&r&5Elite&k&2&kii
+    - diamond 12 name:&k&2&kii&r&5Elite&k&2&kii
+    - obsidian 24 name:&k&2&kii&r&5Elite&k&2&kii
+  Veteran:
+    delay: 10800
+    items:
+    - 310 1 protection:3 name:&k&4&kii&r&fVeteran&k&1&kii
+    - 311 1 protection:3 name:&k&4&kii&r&fVeteran&k&1&kii
+    - 312 1 protection:3 name:&k&4&kii&r&fVeteran&k&1&kii
+    - 313 1 protection:3 name:&k&4&kii&r&fVeteran&k&1&kii
+    - 279 1 efficiency:3 name:&k&4&kii&r&fVeteran&k&1&kii
+    - 277 1 efficiency:3 name:&k&4&kii&r&fVeteran&k&1&kii
+    - 276 1 sharpness:3 name:&k&4&kii&r&fVeteran&k&1&kii
+    - 278 1 efficiency:3 name:&k&4&kii&r&fVeteran&k&1&kii
+    - 364 16 name:&k&4&kii&r&fVeteran&k&1&kii
+    - 322:1 3 name:&k&4&kii&r&fVeteran&k&1&kii
+    - diamond 26 name:&k&4&kii&r&fVeteran&k&1&kii
+    - obsidian 32 name:&k&4&kii&r&fVeteran&k&1&kii
+  VIP:
+    delay: 10800
+    items:
+    - 310 1 protection:4 name:&k&a&kii&r&3V.I.P&k&a&kii
+    - 311 1 protection:4 name:&k&a&kii&r&3V.I.P&k&a&kii
+    - 312 1 protection:4 name:&k&a&kii&r&3V.I.P&k&a&kii
+    - 313 1 protection:4 name:&k&a&kii&r&3V.I.P&k&a&kii
+    - 279 1 efficiency:4 name:&k&a&kii&r&3V.I.P&k&a&kii
+    - 277 1 efficiency:4 name:&k&a&kii&r&3V.I.P&k&a&kii
+    - 276 1 sharpness:4 name:&k&a&kii&r&3V.I.P&k&a&kii
+    - 278 1 efficiency:4 name:&k&a&kii&r&3V.I.P&k&a&kii
+    - 364 16 name:&k&a&kii&r&3V.I.P&k&a&kii
+    - 322:1 4 name:&k&a&kii&r&3V.I.P&k&a&kii
+    - diamond 54 name:&k&a&kii&r&3V.I.P&k&a&kii
+    - obsidian 64 name:&k&a&kii&r&3V.I.P&k&a&kii
+  Ultra:
+    delay: 10800
+    items:
+    - 310 1 protection:4 blastprotection:1 name:&k&1&kii&r&6Ultra&k&1&kii
+    - 311 1 protection:4 blastprotection:1 name:&k&1&kii&r&6Ultra&k&1&kii
+    - 312 1 protection:4 blastprotection:1 name:&k&1&kii&r&6Ultra&k&1&kii
+    - 313 1 protection:4 blastprotection:1 name:&k&1&kii&r&6Ultra&k&1&kii
+    - 279 1 efficiency:5 name:&k&1&kii&r&6Ultra&k&1&kii
+    - 277 1 efficiency:5 name:&k&1&kii&r&6Ultra&k&1&kii
+    - 276 1 sharpness:5 name:&k&1&kii&r&6Ultra&k&1&kii
+    - 278 1 efficiency:5 name:&k&1&kii&r&6Ultra&k&1&kii
+    - 364 16 name:&k&1&kii&r&6Ultra&k&1&kii
+    - 322:1 5 name:&k&1&kii&r&6Ultra&k&1&kii
+    - 57 32 name:&k&1&kii&r&6Ultra&k&1&kii
+    - obsidian 128 name:&k&1&kii&r&6Ultra&k&1&kii
+  Jesus:
+    delay: 10800
+    items:
+    - 310 1 protection:4 blastprotection:1 blastprotection:2 name:&k&6&kii&r&dJesus&k&6&kii
+    - 311 1 protection:4 blastprotection:1 blastprotection:2 name:&k&6&kii&r&dJesus&k&6&kii
+    - 312 1 protection:4 blastprotection:1 blastprotection:2 name:&k&6&kii&r&dJesus&k&6&kii
+    - 313 1 protection:4 blastprotection:1 blastprotection:2 name:&k&6&kii&r&dJesus&k&6&kii
+    - 279 1 efficiency:5 name:&k&6&kii&r&dJesus&k&6&kii
+    - 277 1 efficiency:5 name:&k&6&kii&r&dJesus&k&6&kii
+    - 276 1 sharpness:5 name:&k&6&kii&r&dJesus&k&6&kii
+    - 278 1 efficiency:5 name:&k&6&kii&r&dJesus&k&6&kii
+    - 364 16 name:&k&6&kii&r&dJesus&k&6&kii
+    - 322:1 6 name:&k&6&kii&r&dJesus&k&6&kii
+    - 57 64 name:&k&6&kii&r&dJesus&k&6&kii
+    - obsidian 256 name:&k&6&kii&r&dJesus&k&6&kii
+  drinks:
+    delay: 10800
+    items:
+    - 373 1 name:&cGrape_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373 1 name:&cGrape_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373 1 name:&9Blueberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373 1 name:&9Blueberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373 1 name:&cElderberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373 1 name:&cElderberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373 1 name:&dRaspberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373 1 name:&dRaspberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373 1 name:&8Blackberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373 1 name:&cCherry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373 1 name:&6Coconut_Milk lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373 1 name:&4Strawberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373 1 name:&4Strawberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373 1 name:&cCowberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373 1 name:&cCowberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373 1 name:&cCranberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373 1 name:&cCranberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373 1 name:&8Blackberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373 1 name:&4Pomegranate_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+  food:
+    items:
+    - 364 64
+    - 319 64
+    - 322:1 10
+    - 354 1
+    - 366 64
+    - 350 10
+    - 360 5
+    - 393 3
+    - 413 1
+    delay: 10800
+  banner:
+    items:
+    - 425:14 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:13 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:12 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:11 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:15 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:10 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:9 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:8 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:7 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:6 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:5 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:4 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:3 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:2 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425:1 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 425 16 name:&bJeriCraft_Banner_Kit lore:Decorate_your_world!
+    - 264 10 name:&bDiamonds!!
+    delay: 10800
+  clay:
+    items:
+    - 159:8 64
+    - 82 64
+    - 159 64
+    - 159:1 64
+    - 159:2 64
+    - 159:3 64
+    - 159:4 64
+    - 159:5 64
+    - 159:6 64
+    - 159:7 64
+    - 159:8 64
+    - 159:9 64
+    - 159:10 64
+    - 159:11 64
+    - 159:12 64
+    - 159:13 64
+    - 159:14 64
+    - 159:15 64
+    - 172 64
+    delay: 10800
+  glass:
+    items:
+    - 160 64
+    - 160:2 64
+    - 160:3 64
+    - 160:4 64
+    - 160:5 64
+    - 160:6 64
+    - 160:7 64
+    - 20 64
+    - 95 64
+    - 95:1 64
+    - 95:2 64
+    - 95:3 64
+    - 95:4 64
+    - 95:6 64
+    - 95:5 64
+    - 95:7 64
+    - 95:8 64
+    - 95:9 64
+    - 95:10 64
+    - 95:11 64
+    - 95:12 64
+    - 95:13 64
+    - 95:14 64
+    - 95:15 64
+    delay: 10800
+  Overlord:
+    delay: 0
+    items:
+    - 276 1 name:&k&6&kii&r&dOverlord&k&6&kii damage_all:5 damage_undead:5 durability:5 damage_arthropods:5 knockback:5 fire_aspect:5 loot_bonus_mobs:5
+    - 261 1 name:&k&6&kii&r&dOverlord&k&6&kii arrow_damage:5 arrow_knockback:5 arrow_fire:5 arrow_infinite:5
+    - 310 1 name:&k&6&kii&r&dOverlord&k&6&kii protection_environmental:5 protection_fire:5 protection_explosions:5 protection_projectile:5 thorns:5
+    - 311 1 name:&k&6&kii&r&dOverlord&k&6&kii protection_environmental:5 protection_fire:5 protection_explosions:5 protection_projectile:5 thorns:5
+    - 313 1 name:&k&6&kii&r&dOverlord&k&6&kii protection_environmental:5 protection_fire:5 protection_explosions:5 protection_projectile:5 thorns:5
+    - 312 1 name:&k&6&kii&r&dOverlord&k&6&kii protection_environmental:5 protection_fire:5 protection_explosions:5 protection_projectile:5 thorns:5
+    - 278 1 name:&k&6&kii&r&dOverlord&k&6&kii dig_speed:5 durability:5 loot_bonus_blocks:5
+    - 277 1 name:&k&6&kii&r&dOverlord&k&6&kii dig_speed:5 durability:5 loot_bonus_blocks:5
+    - 279 1 name:&k&6&kii&r&dOverlord&k&6&kii dig_speed:5 durability:5 loot_bonus_blocks:5
+    - 21 10 name:&k&6&kii&r&dOverlord&k&6&kii
+    - 73 10 name:&k&6&kii&r&dOverlord&k&6&kii
+    - 153 10 name:&k&6&kii&r&dOverlord&k&6&kii
+    - 15 10 name:&k&6&kii&r&dOverlord&k&6&kii
+    - 262 1 name:&k&6&kii&r&dOverlord&k&6&kii
+    - 264 10 name:&k&6&kii&r&dOverlord&k&6&kii
+    - 129 10 name:&k&6&kii&r&dOverlord&k&6&kii
+    - 57 10 name:&k&6&kii&r&dOverlord&k&6&kii
+    - 388 10 name:&k&6&kii&r&dOverlord&k&6&kii
+    - 133 10 name:&k&6&kii&r&dOverlord&k&6&kii
+    - 56 10 name:&k&6&kii&r&dOverlord&k&6&kii
+    - 14 10 name:&k&6&kii&r&dOverlord&k&6&kii
+    - 16 10 name:&k&6&kii&r&dOverlord&k&6&kii
+  iron:
+    items:
+    - 256 1 name:&8&lIron_Shovel lore:&8IRON_KIT durability:5 loot_bonus_blocks:5 dig_speed:5
+    - 257 1 name:&8&lIron_Pickaxe lore:&8IRON_KIT durability:5 loot_bonus_blocks:5 dig_speed:5
+    - 258 1 name:&8&lIron_Axe lore:&8IRON_KIT durability:5 loot_bonus_blocks:5 dig_speed:5
+    - 292 1 name:&8&lIron_Hoe lore:&8IRON_KIT durability:5 loot_bonus_blocks:5 dig_speed:5
+    - 267 1 name:&8&lIron_Sword lore:&8IRON_KIT durability:5 loot_bonus_blocks:5 dig_speed:5
+    delay: 10800
+  sfdrinks:
+    delay: 10800
+    items:
+    - 373:8201 1 name:&cGrape_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8201 1 name:&cGrape_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373:8205 1 name:&9Blueberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8205 1 name:&9Blueberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373:8193 1 name:&cElderberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8193 1 name:&cElderberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373:8193 1 name:&dRaspberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8193 1 name:&dRaspberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373:8200 1 name:&8Blackberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8193 1 name:&cCherry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8194 1 name:&6Coconut_Milk lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8193 1 name:&4Strawberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373:8193 1 name:&4Strawberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8193 1 name:&cCowberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373:8193 1 name:&cCowberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8193 1 name:&cCranberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373:8193 1 name:&cCranberry_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8200 1 name:&8Blackberry_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373:8201 1 name:&4Pomegranate_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8227 1 name:&eLemon_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8201 1 name:&5Plum_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8203 1 name:&aLime_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8195 1 name:&6Orange_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8201 1 name:&5Peach_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8203 1 name:&aPear_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8203 1 name:&aLime_Smoothie lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373:8193 1 name:&4Tomato_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+    - 373:8201 1 name:&6Thai_Tea lore:|&7&oRestores_&b&o7.0_&7&oHunger
+    - 373:8193 1 name:&cCherry_Iced_Tea lore:|&7&oRestores_&b&o6.5_&7&oHunger
+    - 373:8193 1 name:&4Strawberry_Iced_Tea lore:|&7&oRestores_&b&o6.5_&7&oHunger
+    - 373:8193 1 name:&dPeach_Iced_Tea lore:|&7&oRestores_&b&o6.5_&7&oHunger
+    - 373:8193 1 name:&dRaspberry_Iced_Tea lore:|&7&oRestores_&b&o6.5_&7&oHunger
+    - 373:8227 1 name:&eLemon_Iced_Tea lore:|&7&oRestores_&b&o6.5_&7&oHunger
+    - 373:8201 1 name:&cWine lore:|&7&oRestores_&b&o5.0_&7&oHunger
+    - 373:8227 1 name:&eLemonade lore:|&7&oRestores_&b&o4.0_&7&oHunger
+    - 373:8195 1 name:&6Pineapple_Juice lore:|&7&oRestores_&b&o3.0_&7&oHunger
+  Gardener:
+    items:
+    - 175:2 16
+    - 175:3 16
+    - 175:4 16
+    - 175:1 16
+    - 175 16
+    - 37 16
+    - 38:1 16
+    - 258 1
+    - 256 1
+    - 38:7 16
+    - 38:6 16
+    - 40 16
+    delay: 10800
+  Farmer:
+    delay: 0
+    items:
+    - 295 64
+    - 296 32
+    - 391 32
+    - 392 32
+    - 351:3 32
+    - 81 32
+    - 362 16
+    - 361 16
+    - 293 1
+  Flower:
+    delay: 10800
+    items:
+    - 37 16
+    - 38 16
+    - 38:8 16
+    - 38:1 4
+    - 38:3 8
+    - 38:4 8
+    - 38:5 8
+    - 38:6 8
+    - 38:7 8
+    - 38:2 8
+    - 175 8
+  Redstone:
+    delay: 10800
+    items:
+    - 152 16
+    - 356 16
+    - 331 16
+    - 404 16
+    - 123 8
+    - 76 8
+    - 33 2
+    - 29 2
+    - 69 2
+  Wool:
+    delay: 10800
+    items:
+    - 35:9 16 name:&c&lJeriCraft
+    - 35:10 16 name:&c&lJeriCraft
+    - 35:11 16 name:&c&lJeriCraft
+    - 35:12 16 name:&c&lJeriCraft
+    - 35:13 16 name:&c&lJeriCraft
+    - 35:14 16 name:&c&lJeriCraft
+    - 35:15 16 name:&c&lJeriCraft
+    - 35 64 name:&c&lJeriCraft
+    - 35:1 16 name:&c&lJeriCraft
+    - 35:3 16 name:&c&lJeriCraft
+    - 35:2 16 name:&c&lJeriCraft
+    - 35:5 16 name:&c&lJeriCraft
+    - 35:4 16 name:&c&lJeriCraft
+    - 35:6 16 name:&c&lJeriCraft
+    - 35:7 16 name:&c&lJeriCraft
+    - 35:8 16 name:&c&lJeriCraft
+  Wood:
+    delay: 10800
+    items:
+    - 17 64
+    - 17:1 64
+    - 162 64
+    - 162:1 64
+    - 17:3 64
+    - 17:2 64
+  dye:
+    delay: 10800
+    items:
+    - 351:9 64 name:&c&lJeriCraft
+    - 351:10 64 name:&c&lJeriCraft
+    - 351:12 64 name:&c&lJeriCraft
+    - 351:13 64 name:&c&lJeriCraft
+    - 351 64 name:&c&lJeriCraft
+    - 351:14 64 name:&c&lJeriCraft
+    - 351:15 64 name:&c&lJeriCraft
+    - 351:1 64 name:&c&lJeriCraft
+    - 351:7 64 name:&c&lJeriCraft
+    - 351:11 64 name:&c&lJeriCraft
+    - 351:2 64 name:&c&lJeriCraft
+    - 351:3 64 name:&c&lJeriCraft
+    - 351:4 64 name:&c&lJeriCraft
+    - 351:5 64 name:&c&lJeriCraft
+    - 351:8 64 name:&c&lJeriCraft
+    - 351:6 64 name:&c&lJeriCraft
+  boat:
+    delay: 10800
+    items:
+    - 333 2 name:&6Oak_Boat
+    - 444 2 name:&6Spruce_Boat
+    - 447 2 name:&6Acacia_Boat
+    - 448 2 name:&6Dark_Oak_Boat
+    - 446 2 name:&6Jungle_Boat
+    - 445 2 name:&6Birch_Boat
+  pvpsword1:
+    delay: 10800
+    items:
+    - 276 1 5damage_all:5 damage_undead:5 damage_arthropods:5 durability:5 knockback:5 fire_aspect:5 loot_bonus_mobs:5
+    - 442 1
+  sk_kit:
+    delay: 10800
+    items:
+    - 276 1 5damage_all:5 damage_undead:5 damage_arthropods:5 durability:5 knockback:5 fire_aspect:5 loot_bonus_mobs:5
+    - 310 1 protection_environmental:5 protection_fire:5 protection_explosions:5 protection_projectile:5 thorns:5
+    - 311 1 protection_environmental:5 protection_fire:5 protection_explosions:5 protection_projectile:5 thorns:5
+    - 312 1 protection_environmental:5 protection_fire:5 protection_explosions:5 protection_projectile:5 thorns:5
+    - 313 1 protection_environmental:5 protection_fire:5 protection_explosions:5 protection_projectile:5 thorns:5
+  Transport:
+    delay: 10800
+    items:
+    - 27 16
+    - 28 16
+    - 66 16
+    - 157 16
+    - 333 1
+    - 328 1
+    - 343 1
+    - 407 1
+    - 443 1
+    - 389 1
+    - 311 1 protection_environmental:5 protection_fire:5 protection_explosions:5 protection_projectile:5 thorns:5
+    - 311 1 protection_environmental:5 protection_fire:5 protection_explosions:5 protection_projectile:5 thorns:5
+  planks:
+    delay: 10800
+    items:
+    - 5 64
+    - 5:1 64
+    - 5:2 64
+    - 5:3 64
+    - 5:4 64
+    - 5:5 64
+  quartz:
+    delay: 10800
+    items:
+    - 155 64
+    - 155 64
+    - 155:1 64
+    - 155:1 64
+    - 155:2 64
+    - 155:2 64
+    - 156 64
+    - 156 64
+    - 44:7 64
+    - 153 64
+    - 44:7 64
+  ore:
+    delay: 10800
+    items:
+    - 14 64
+    - 15 64
+    - 16 64
+    - 21 64
+    - 56 64
+    - 73 64
+    - 129 64
+    - 153 64
+  eggs:
+    delay: 10800
+    items:
+    - 383:50 lore:Spawn Egg (Creeper)
+    - 383:51 lore:Spawn Egg (Skeleton)
+    - 383:52 lore:Spawn Egg (Spider)
+    - 383:54 lore:Spawn Egg (Zombie)
+    - 383:55 lore:Spawn Egg (Slime)
+    - 383:56 lore:Spawn Egg (Ghast)
+    - 383:57 lore:Spawn Egg (Zombie Pigman)
+    - 383:58 lore:Spawn Egg (Endermen)
+    - 383:59 lore:Spawn Egg (Cave Spider)
+    - 383:60 lore:Spawn Egg (Silverfish)
+    - 383:61 lore:Spawn Egg (Blaze)
+    - 383:62 lore:Spawn Egg (Magma Cube)
+    - 383:65 lore:Spawn Egg (Bat)
+    - 383:66 lore:Spawn Egg (Witch)
+    - 383:67 lore:Spawn Egg (Endermite)
+    - 383:68 lore:Spawn Egg (Guardian)
+    - 383:69 lore:Spawn Egg (Shulker)
+    - 383:90 lore:Spawn Egg (Pig)
+    - 383:91 lore:Spawn Egg (Sheep)
+    - 383:92 lore:Spawn Egg (Cow)
+    - 383:93 lore:Spawn Egg (Chicken)
+    - 383:94 lore:Spawn Egg (Squid)
+    - 383:95 lore:Spawn Egg (Wolf)
+    - 383:96 lore:Spawn Egg (Mooshroom)
+    - 383:98 lore:Spawn Egg (Ocelot)
+    - 383:100 lore:Spawn Egg (Horse)
+    - 383:101 lore:Spawn Egg (Rabbit)
+    - 383:120 lore:Spawn Egg (Villager)
+  pw:
+    delay: 10800
+    items:
+    - 276 1 damage_all:3000 damage_undead:3000 damage_arthropods:10 durability:10 arrow_fire:3000 knockback:10 fire_aspect:10 loot_bonus_mobs:10
+    - 278 1 dig_speed:10 durability:10 loot_bonus_blocks:10
+    - 277 1 dig_speed:10 durability:10 loot_bonus_blocks:10
+    - 279 1 dig_speed:10 durability:10 loot_bonus_blocks:10
+    - 310 1 protection_environmental:10 protection_fire:10 protection_explosions:10 protection_projectile:10 thorns:10
+    - 311 1 protection_environmental:10 protection_fire:10 protection_explosions:10 protection_projectile:10 thorns:10
+    - 312 1 protection_environmental:10 protection_fire:10 protection_explosions:10 protection_projectile:10 thorns:10
+    - 313 1 protection_environmental:10 protection_fire:10 protection_explosions:10 protection_projectile:10 thorns:10
+    - 261 1 arrow_damage:10 arrow_knockback:10 arrow_fire:10 arrow_infinite:10
+    - 262 1
+  pvp:
+    delay: 0
+    items:
+    - 276 1 lore:&6Slots_4|&7Assassin_I durability:1
+    - 310 1 lore:&6Slots_4|&7Dodge_I
+    - 311 1 lore:&6Slots_4|&7Dodge_I
+    - 312 1 lore:&6Slots_4|&7Dodge_I
+    - 313 1 lore:&6Slots_4|&7Dodge_I
+    - 436 64 name:&a&lLIFE_SAVER!
+    - 436 64 name:&a&lLIFE_SAVER!
+  dupe:
+    delay: 0
+    items:
+    - 267 1 name:Ruinr lore:&6Slots_1|&7Plunder_I|&7Riftslayer_I|&7Crushing_V|&7Curse_IV damage_undead:8 durability:4
+    - 95 64 name:&5Rainbow_Glass lore:|&dCycles_through_all_Colors_of_the_Rainbow!
+    - 95 42 name:&5Rainbow_Glass lore:|&dCycles_through_all_Colors_of_the_Rainbow!
+    - 301 0 color:25,25,25
+    - 299 0 lore:&6Slots_4|&7Strength_III color:25,25,25 protection_environmental:4 durability:3 thorns:2
+    - 268 1 name:Woodz lore:&6Slots_3|&7Plunder_I|&7Riftslayer_I damage_all:4 durability:3 knockback:2
+    - 111 8
+    - 403 1
+    - 388 1 name:&e&nWild_Mark_I lore:&lRune_of_Wild_Mark_I|&a28%_Success_Rate_and_&c72%_Destroy_Rate.|&6Bow_Enchant|&7Place_the_Rune_on_a_bow_to_enchant.
+enabledSigns:
+- balance
+- buy
+- warp
+- kit
+- mail
+- info
+sign-use-per-second: 4
+backup:
+  interval: 30
+per-warp-permission: false
+list:
+  Staff: Trial-Moderator Moderator Senior-Moderator Admin Senior-Admin Co-Owner Legend Owner
+  Non-Members: Citizen
+  Member: Member Builder Architect
+  VIP: Plasma
+  Donor: Squire Titan Mortal Elder Odwar Tyrant
+debug: false
+remove-god-on-disconnect: false
+auto-afk: 300
+auto-afk-kick: -1
+freeze-afk-players: false
+disable-item-pickup-while-afk: true
+cancel-afk-on-interact: true
+cancel-afk-on-move: true
+afk-list-name: '&f[AFK&f] &a{USERNAME}'
+death-messages: true
+allow-silent-join-quit: true
+custom-join-message: none
+custom-quit-message: none
+world-teleport-permissions: false
+default-stack-size: -1
+oversized-stacksize: 64
+repair-enchanted: true
+unsafe-enchantments: true
+register-back-in-listener: true
+login-attack-delay: 0
+max-fly-speed: 100
+max-walk-speed: 100
+mails-per-minute: 1000
+max-tempban-time: -1
+last-message-reply-recipient: true
+last-message-reply-recipient-timeout: 180
+milk-bucket-easter-egg: true
+send-fly-enable-on-join: true
+world-time-permissions: false
+update-bed-at-daytime: true
+world-home-permissions: false
+sethome-multiple:
+  default: 3
+  citizen: 1
+  vip: 10
+  staff: 10
+  jericraft: 10
+tpa-accept-cancellation: 120
+starting-balance: 2500
+command-costs:
+  kit-drinks: 1000
+  kit-food: 1000
+  kit-newbie: 50
+  kit-tools: 200
+  kit-dtools: 1500
+  kit-firework: 150
+  kit-Regular: 200
+  kit-Helper: 900
+  kit-Architect: 2500
+  kit-Elite: 1200
+  kit-Veteran: 750
+  kit-VIP: 700
+  kit-Ultra: 3400
+  kit-sking_arena: 15000
+currency-symbol: $
+max-money: 10000000000000
+min-money: -10000
+economy-log-enabled: true
+use-bukkit-permissions: false
+minimum-pay-amount: 0.001
+non-ess-in-help: true
+hide-permissionless-help: true
+chat:
+  radius: 0
+  format: '{DISPLAYNAME}: {MESSAGE}'
+protect:
+  prevent:
+    lava-flow: false
+    water-flow: false
+    water-bucket-flow: false
+    fire-spread: true
+    lava-fire-spread: true
+    flint-fire: false
+    lightning-fire-spread: false
+    portal-creation: false
+    tnt-explosion: false
+    tnt-playerdamage: false
+    tnt-minecart-explosion: false
+    tnt-minecart-playerdamage: false
+    fireball-explosion: false
+    fireball-fire: false
+    fireball-playerdamage: false
+    witherskull-explosion: false
+    witherskull-playerdamage: false
+    wither-spawnexplosion: false
+    wither-blockreplace: false
+    creeper-explosion: false
+    creeper-playerdamage: false
+    creeper-blockdamage: false
+    enderdragon-blockdamage: true
+    enderman-pickup: false
+    villager-death: false
+    entitytarget: false
+    spawn:
+      creeper: false
+      skeleton: false
+      spider: false
+      giant: false
+      zombie: false
+      slime: false
+      ghast: false
+      pig_zombie: false
+      enderman: false
+      cave_spider: false
+      silverfish: false
+      blaze: false
+      magma_cube: false
+      ender_dragon: false
+      pig: false
+      sheep: false
+      cow: false
+      chicken: false
+      squid: false
+      wolf: false
+      mushroom_cow: false
+      snowman: false
+      ocelot: false
+      iron_golem: false
+      villager: false
+      wither: false
+      bat: false
+      witch: false
+      horse: false
+  creeper:
+    max-height: -1
+  disable:
+    fall: false
+    pvp: false
+    drown: false
+    suffocate: false
+    lavadmg: false
+    projectiles: false
+    contactdmg: false
+    firedmg: false
+    lightning: false
+    wither: false
+    weather:
+      storm: true
+      thunder: false
+      lightning: false
+    build: true
+    use: true
+    warn-on-build-disallow: true
+  alert: 166,46
+  blacklist:
+    usage: 166,46
+newbies:
+  announce-format: '&e{DISPLAYNAME}&b is a new Player, give him/her a Hug!'
+  spawnpoint: guest
+  kit: citizen
+respawn-listener-priority: highest
+respawn-at-home: true

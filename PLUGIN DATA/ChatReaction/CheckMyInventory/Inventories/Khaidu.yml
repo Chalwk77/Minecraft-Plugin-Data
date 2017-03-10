@@ -1,0 +1,942 @@
+Inventories:
+  '25':
+    Time: 1458455359964
+    Exp: 9767
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5378.583134135489
+      y: 69.0
+      z: -12735.823770315048
+      pitch: 22.59533
+      yaw: -91.30499
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1425
+      '1':
+        type: DIAMOND_SPADE
+        damage: 365
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+          repair-cost: 1
+      '3':
+        type: GOLD_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 1
+      '5':
+        type: SEEDS
+        amount: 7
+      '6':
+        type: GOLDEN_CARROT
+        amount: 40
+      '8':
+        type: GRILLED_PORK
+        amount: 61
+      '16':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '24':
+        type: BREAD
+        amount: 5
+      '26':
+        type: GOLDEN_CARROT
+        amount: 64
+      '33':
+        type: LEASH
+        amount: 11
+      '35':
+        type: TORCH
+        amount: 37
+  '26':
+    Time: 1459465465088
+    Exp: 9767
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5378.583134135489
+      y: 69.0
+      z: -12735.823770315048
+      pitch: 22.59533
+      yaw: -91.30499
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1425
+      '1':
+        type: DIAMOND_SPADE
+        damage: 365
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+          repair-cost: 1
+      '3':
+        type: GOLD_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 1
+      '5':
+        type: SEEDS
+        amount: 7
+      '6':
+        type: GOLDEN_CARROT
+        amount: 40
+      '8':
+        type: GRILLED_PORK
+        amount: 61
+      '16':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '24':
+        type: BREAD
+        amount: 5
+      '26':
+        type: GOLDEN_CARROT
+        amount: 64
+      '33':
+        type: LEASH
+        amount: 11
+      '35':
+        type: TORCH
+        amount: 37
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 98
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 124
+      '39':
+        type: IRON_HELMET
+        damage: 119
+  '27':
+    Time: 1459469873619
+    Exp: 9767
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5378.583134135489
+      y: 69.0
+      z: -12735.823770315048
+      pitch: 22.59533
+      yaw: -91.30499
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1425
+      '1':
+        type: DIAMOND_SPADE
+        damage: 365
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+          repair-cost: 1
+      '3':
+        type: GOLD_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 1
+      '5':
+        type: SEEDS
+        amount: 7
+      '6':
+        type: GOLDEN_CARROT
+        amount: 40
+      '8':
+        type: GRILLED_PORK
+        amount: 61
+      '16':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '24':
+        type: BREAD
+        amount: 5
+      '26':
+        type: GOLDEN_CARROT
+        amount: 64
+      '33':
+        type: LEASH
+        amount: 11
+      '35':
+        type: TORCH
+        amount: 37
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 98
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 124
+      '39':
+        type: IRON_HELMET
+        damage: 119
+  '28':
+    Time: 1459659263120
+    Exp: 9767
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5378.583134135489
+      y: 69.0
+      z: -12735.823770315048
+      pitch: 22.59533
+      yaw: -91.30499
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1425
+      '1':
+        type: DIAMOND_SPADE
+        damage: 365
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+          repair-cost: 1
+      '3':
+        type: GOLD_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 1
+      '5':
+        type: SEEDS
+        amount: 7
+      '6':
+        type: GOLDEN_CARROT
+        amount: 40
+      '8':
+        type: GRILLED_PORK
+        amount: 61
+      '16':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '24':
+        type: BREAD
+        amount: 5
+      '26':
+        type: GOLDEN_CARROT
+        amount: 64
+      '33':
+        type: LEASH
+        amount: 11
+      '35':
+        type: TORCH
+        amount: 37
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 98
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 124
+      '39':
+        type: IRON_HELMET
+        damage: 119
+  '29':
+    Time: 1459766737161
+    Exp: 9767
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5378.583134135489
+      y: 69.0
+      z: -12735.823770315048
+      pitch: 22.59533
+      yaw: -91.30499
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1425
+      '1':
+        type: DIAMOND_SPADE
+        damage: 365
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+          repair-cost: 1
+      '3':
+        type: GOLD_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 1
+      '5':
+        type: SEEDS
+        amount: 7
+      '6':
+        type: GOLDEN_CARROT
+        amount: 40
+      '8':
+        type: GRILLED_PORK
+        amount: 61
+      '16':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '24':
+        type: BREAD
+        amount: 5
+      '26':
+        type: GOLDEN_CARROT
+        amount: 64
+      '33':
+        type: LEASH
+        amount: 11
+      '35':
+        type: TORCH
+        amount: 37
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 98
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 124
+      '39':
+        type: IRON_HELMET
+        damage: 119
+  '30':
+    Time: 1459847488263
+    Exp: 9767
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5378.583134135489
+      y: 69.0
+      z: -12735.823770315048
+      pitch: 22.59533
+      yaw: -91.30499
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1425
+      '1':
+        type: DIAMOND_SPADE
+        damage: 365
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+          repair-cost: 1
+      '3':
+        type: GOLD_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 1
+      '5':
+        type: SEEDS
+        amount: 7
+      '6':
+        type: GOLDEN_CARROT
+        amount: 40
+      '8':
+        type: GRILLED_PORK
+        amount: 61
+      '16':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '24':
+        type: BREAD
+        amount: 5
+      '26':
+        type: GOLDEN_CARROT
+        amount: 64
+      '33':
+        type: LEASH
+        amount: 11
+      '35':
+        type: TORCH
+        amount: 37
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 98
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 124
+      '39':
+        type: IRON_HELMET
+        damage: 119
+  '31':
+    Time: 1460146823682
+    Exp: 9767
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5378.583134135489
+      y: 69.0
+      z: -12735.823770315048
+      pitch: 22.59533
+      yaw: -91.30499
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1425
+      '1':
+        type: DIAMOND_SPADE
+        damage: 365
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+          repair-cost: 1
+      '3':
+        type: GOLD_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 1
+      '5':
+        type: SEEDS
+        amount: 7
+      '6':
+        type: GOLDEN_CARROT
+        amount: 40
+      '8':
+        type: GRILLED_PORK
+        amount: 61
+      '16':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '24':
+        type: BREAD
+        amount: 5
+      '26':
+        type: GOLDEN_CARROT
+        amount: 64
+      '33':
+        type: LEASH
+        amount: 11
+      '35':
+        type: TORCH
+        amount: 37
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 98
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 124
+      '39':
+        type: IRON_HELMET
+        damage: 119
+  '32':
+    Time: 1460883170633
+    Exp: 9767
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5378.583134135489
+      y: 69.0
+      z: -12735.823770315048
+      pitch: 22.59533
+      yaw: -91.30499
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1425
+      '1':
+        type: DIAMOND_SPADE
+        damage: 365
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+          repair-cost: 1
+      '3':
+        type: GOLD_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 1
+      '5':
+        type: SEEDS
+        amount: 7
+      '6':
+        type: GOLDEN_CARROT
+        amount: 40
+      '8':
+        type: GRILLED_PORK
+        amount: 61
+      '16':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '24':
+        type: BREAD
+        amount: 5
+      '26':
+        type: GOLDEN_CARROT
+        amount: 64
+      '33':
+        type: LEASH
+        amount: 11
+      '35':
+        type: TORCH
+        amount: 37
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 98
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 124
+      '39':
+        type: IRON_HELMET
+        damage: 119
+  '33':
+    Time: 1462120695400
+    Exp: 9767
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5378.583134135489
+      y: 69.0
+      z: -12735.823770315048
+      pitch: 22.59533
+      yaw: -91.30499
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1425
+      '1':
+        type: DIAMOND_SPADE
+        damage: 365
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+          repair-cost: 1
+      '3':
+        type: GOLD_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 1
+      '5':
+        type: SEEDS
+        amount: 7
+      '6':
+        type: GOLDEN_CARROT
+        amount: 40
+      '8':
+        type: GRILLED_PORK
+        amount: 61
+      '16':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '24':
+        type: BREAD
+        amount: 5
+      '26':
+        type: GOLDEN_CARROT
+        amount: 64
+      '33':
+        type: LEASH
+        amount: 11
+      '35':
+        type: TORCH
+        amount: 37
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 98
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 124
+      '39':
+        type: IRON_HELMET
+        damage: 119
+  '34':
+    Time: 1462483219134
+    Exp: 9767
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5378.583134135489
+      y: 69.0
+      z: -12735.823770315048
+      pitch: 22.59533
+      yaw: -91.30499
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 1425
+      '1':
+        type: DIAMOND_SPADE
+        damage: 365
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+          repair-cost: 1
+      '3':
+        type: GOLD_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 1
+      '5':
+        type: SEEDS
+        amount: 7
+      '6':
+        type: GOLDEN_CARROT
+        amount: 40
+      '8':
+        type: GRILLED_PORK
+        amount: 61
+      '16':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '24':
+        type: BREAD
+        amount: 5
+      '26':
+        type: GOLDEN_CARROT
+        amount: 64
+      '33':
+        type: LEASH
+        amount: 11
+      '35':
+        type: TORCH
+        amount: 37
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 98
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 124
+      '39':
+        type: IRON_HELMET
+        damage: 119

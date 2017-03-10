@@ -1,0 +1,31 @@
+lastAccountName: KitKat_n
+timestamps:
+  login: 1474106506153
+  lastteleport: 1474106691533
+  logout: 1474107171365
+ipAddress: 121.217.245.31
+geolocation: Sydney, New South Wales, Australia
+lastlocation:
+  world: world
+  x: 5695.5
+  y: 74.07500000000746
+  z: -17220.5
+  yaw: 73.6785
+  pitch: 26.099966
+afk: false
+money: '2500'
+logoutlocation:
+  world: world
+  x: 5694.5
+  y: 68.07500000000746
+  z: -17220.5
+  yaw: 79.97937
+  pitch: 5.8499975
+homes:
+  home:
+    world: world
+    x: 5741.04454443411
+    y: 68.0
+    z: -17255.41399533954
+    yaw: -90.727554
+    pitch: 79.62198

@@ -1,0 +1,214 @@
+# Which enchanter should open when you do command /enchanter or /runes enchanter'
+
+# For the enchanter V1 set "default-enchanter" to 'enchanterV1'
+# For the enchanter V2 set "default-enchanter" to 'enchanterv2'
+
+default-enchanter: 'enchanterV2'
+
+# Sub command for enchanters
+# So, for opening Enchanter V1 you will have to do: /runes enchanter v1 or /enchanter v1
+# and for v2, /runes enchanter v2 or /enchanter v2
+
+enchanter-V1: 
+   sub-command: 'v1'
+   need-permission: false
+   permission: 'runes.enchanter.v1'
+   
+enchanter-V2: 
+   sub-command: 'v2'
+   need-permission: false
+   permission: 'runes.enchanter.v2'
+   
+# The following is the configuration of Enchanter V1.
+
+# xp_points is the cost of xp that player will need, if player chooses to get Rune at the cost of XP points.
+# money_price is the cost of in game money that player will need, if player chooses to get Rune at the cost of in game money.
+
+enchanter:
+      level_I:
+          xp_points: 500
+          money_price: 5000
+          
+      level_II:
+          xp_points: 1000
+          money_price: 2000
+          
+      level_III:
+          xp_points: 1500
+          money_price: 3000
+          
+      level_IV:
+          xp_points: 2000
+          money_price: 4000
+          
+      level_V:
+          xp_points: 2500
+          money_price: 5000
+                  
+enchanter_gui:
+           menu:
+            gui-title: '&4Select payment method:'
+            xp-display-name: '&6Get a Rune at the cost of XP'
+            money-display-name: '&6Get a Rune at the cost of in game money'
+            
+           enchanter-xp:
+            gui-title: '&7&lEnchanter (XP)'
+            level-1-name: '&eClick here to get a random &lLevel 1 &eRune!'
+            level-2-name: '&eClick here to get a random &lLevel 2 &eRune!'
+            level-3-name: '&eClick here to get a random &llevel 3 &eRune!'
+            level-4-name: '&eClick here to get a random &llevel 4 &eRune!'
+            level-5-name: '&eClick here to get a random &llevel 5 &eRune!'
+            
+           enchanter-money:
+            gui-title: '&7&lEnchanter (In game money)'
+            level-1-name: '&eClick here to get a random &lLevel 1 &eRune!'
+            level-2-name: '&eClick here to get a random &lLevel 2 &eRune!'
+            level-3-name: '&eClick here to get a random &llevel 3 &eRune!'
+            level-4-name: '&eClick here to get a random &llevel 4 &eRune!'
+            level-5-name: '&eClick here to get a random &llevel 5 &eRune!'
+            
+   
+# The following is the configuration for Enchanter V2.   
+   
+# Title of the GUI.
+
+gui-title: '&cEnchanter'
+
+# Number of rows in the GUI. 1 row = 9 slots.
+# Max 6 rows. (6 * 9 = 54 Slots)
+
+rows: 6
+
+# Build GUI here.
+# The items we created in the "items" section should be added here.
+# Numbers below "gui" section are the slot numbers.
+# You can also skip the slot numbers if you wish to don't have any items on that slot.
+
+gui:
+   1: glass
+   2: glass
+   3: glass
+   4: swords
+   5: glass
+   6: boots
+   7: glass
+   8: bows
+   9: glass
+
+# Create item stacks here.
+# The name you provide below the section "items" should be used in GUI section to build the GUI.
+# If you set the 'useless' to true, it means it is just an item for decoration or something, not for having any enchantments.
+# Add enchantments in the "enchantments" string list. Format:
+# 'enchantment:level'
+# If you wish to have random levels do like:
+# 'enchantment:random;level' Example: 'excecute:random;3' It will choose a random level of Execute enchantment from 1 to 3.
+# You also have an option to cost money or xp.
+# If you wish to want players cost money for specific tier, set "payment-type" to 'money'
+# For XP: Set "payment-type" to 'xp'.
+
+
+items:
+
+  glass:
+    useless: true
+    item-id: '160:1'
+    display-name: '&0'
+    lore:
+    
+  swords:
+    useless: false
+    item-id: '276'
+    display-name: '&6Sword Enchantments'
+    need-permission: false
+    payment-type: 'money'
+    price: 8500
+    lore:
+    - '&dClick here to get a random sword enchantment'
+    - '&6Price: &a$8500'
+    enchantments:
+    - 'lifesteal:1'
+    - 'demon_siphon:1'
+    - 'riftslayer:1'
+    - 'assassin:1'
+    - 'kill_confirm:1'
+    - 'hex:1'
+    - 'thief:1'
+    - 'lifesteal:2'
+    - 'demon_siphon:2'
+    - 'riftslayer:2'
+    - 'assassin:2'
+    - 'kill_confirm:2'
+    - 'hex:2'
+    - 'thief:2'
+    - 'lifesteal:3'
+    - 'demon_siphon:3'
+    - 'riftslayer:3'
+    - 'assassin:3'
+    - 'kill_confirm:3'
+    - 'hex:3'
+    - 'thief:3'
+    - 'lifesteal:4'
+    - 'demon_siphon:4'
+    - 'riftslayer:4'
+    - 'assassin:4'
+    - 'kill_confirm:4'
+    - 'hex:4'
+    - 'thief:4'
+    - 'lifesteal:5'
+    - 'demon_siphon:5'
+    - 'riftslayer:5'
+    - 'assassin:5'
+    - 'kill_confirm:5'
+    - 'hex:5'
+    - 'thief:5'
+    
+  boots:
+    useless: false
+    item-id: '313'
+    display-name: '&bBoots Enchantments'
+    need-permission: false
+    permission: 'runes.enchanter.boots'
+    payment-type: 'money'
+    price: 6500
+    lore:
+    - '&dClick here to get a random boots enchantment'
+    - '&6Price: &a$6500'
+    enchantments:
+    - 'speed:1'
+    - 'jump:1'
+    - 'speed:2'
+    - 'jump:2'
+    - 'speed:3'
+    - 'jump:3'
+    
+  bows:
+    useless: false
+    item-id: '261'
+    display-name: '&bBow Enchantments'
+    need-permission: false
+    permission: 'runes.enchanter.boots'
+    payment-type: 'money'
+    price: 8850
+    lore:
+    - '&dClick here to get a random bow enchantment'
+    - '&6Price: &a$8850'
+    enchantments:
+    - 'tnt_shooter:1'
+    - 'wild_mark:1'
+    - 'zeus:1'
+    - 'zeus:2'
+    - 'zeus:3'
+    - 'medic:1'
+    - 'arrow_rain:1'
+    - 'arrow_rain:2'
+    - 'arrow_rain:3'
+    - 'arrow_rain:4'
+    - 'arrow_rain:5'
+    - 'entangle:1'
+    - 'entangle:2'
+    - 'entangle:3'
+    - 'entangle:4'
+    - 'snare:1'
+    - 'snare:2'
+    - 'snare:3'
+    - 'snare:4'

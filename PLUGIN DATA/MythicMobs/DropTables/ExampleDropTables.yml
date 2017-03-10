@@ -1,0 +1,104 @@
+# 
+# This example file shows you how to set up a basic drop table.
+# Drop tables can be used in both a mob's equipment and drops
+# to have multiple items tied to a single table.
+SkeletonKingDrops:
+  Conditions:
+  - playerwithin 40
+  Drops:
+  - KingsCrown 1 0.01
+  - 371:0 32-64 1
+  - exp 100
+  - heroesexp 200
+  DropsPerLevel:
+  - exp 10
+testequip:
+  Drops:
+  - stratocap:4 1
+  - 283:0:1:0 1
+  - 307:0:1:3 1
+  - 308:0:1:2 1
+  - 309:0:1:1 1
+KrakenEquip:
+  Drops:
+  - 286:0:1:0 1
+  - 311:0:1:3 1
+  - 312:0:1:2 1
+  - 313:0:1:1 1
+KrakenDrops:
+  Drops:
+  - 331:0 5 1 0.2
+  - 378:0 1 1 0.2
+  - 367:0 5 0.5
+  - 388:0 1 0.3
+  - 264:0 1 0.5
+  - 265:0 3 0.4
+  - 266:0 1 0.5
+  - 122:0 1 0.1
+  - exp 200
+  - Artifrost 1 0.01
+  - Artidestruct 1 0.01
+  - Artifire 1 0.02
+  - Artilife 1 0.02
+  - Artiblink 1 0.02
+  - Articripple 1 0.01
+  - Artideath 1 0.02
+  - Artidrain 1 0.02
+  - Artientomb 1 0.01
+  - Artisun 1 0.02
+  - Articleanse 1 0.02
+  - Krakenbow 1 0.04
+  - Lordsword 1 0.02
+  - Saintsword 1 0.01
+Beachequip:
+  Drops:
+  - 301:20,200,80:1:1 1
+  - 300:20,200,80:1:2 1
+  - 299:20,200,80:1:3 1
+BeachDrops:
+  Drops:
+  - 331:0 2 0.2
+  - 399:0 1 0.45
+  - 264:0 1 0.04
+  - 388:0 1 0.06
+  - 265:0 1 0.30
+  - 266:0 1 0.10
+  - exp 20
+  - Artientomb 1 0.001
+  - Artisun 1 0.001
+  - Articleanse 1 0.001
+JackEquip:
+  Drops:
+  - 346:0:1:0 1
+  - Jackchest:3 1
+  - 312:0:1:2 1
+  - 313:0:1:1 1
+JackDrops:
+  Drops:
+  - 331:0 5 1 0.2
+  - 378:0 1 1 0.2
+  - 367:0 5 0.5
+  - 388:0 1 0.3
+  - 264:0 1 0.5
+  - 265:0 3 0.4
+  - 266:0 1 0.5
+  - 122:0 1 0.2
+  - exp 100
+  - Artifrost 1 0.02
+  - Artidestruct 1 0.02
+  - Artifire 1 0.02
+  - Artilife 1 0.02
+  - Artiblink 1 0.02
+  - Articripple 1 0.01
+  - Artideath 1 0.02
+  - Artidrain 1 0.02
+  - Artientomb 1 0.03
+  - Artisun 1 0.03
+  - Articleanse 1 0.03
+  - Lordsword 1 0.02
+  - Saintsword 1 0.01
+  - DwellersHat 1 0.02
+  - DwellersChest 1 0.02
+  - DwellersSkirt 1 0.02
+  - DwellersShoes 1 0.02
+  - DwellersAxe 1 0.02

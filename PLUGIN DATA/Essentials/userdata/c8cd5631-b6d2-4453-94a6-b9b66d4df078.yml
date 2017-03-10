@@ -1,0 +1,48 @@
+lastAccountName: scorpiogamer26
+timestamps:
+  login: 1481355984521
+  logout: 1481356043154
+  lastteleport: 1477608758309
+  kits:
+    citizen: 1457315995734
+    mccharacter: 1457651468768
+    color: 1457224638899
+    drinks: 1467345373261
+    sking_arena: 1467836031630
+    rules: 1467321494815
+    dtools: 1471475327964
+    tools: 1468007684655
+    food: 1477458971481
+ipAddress: 8.40.186.183
+geolocation: Shawnee, Oklahoma, United States
+lastlocation:
+  world: world
+  x: -310420.9763871766
+  y: 82.0
+  z: -625903.7313980814
+  yaw: 20.546844
+  pitch: 14.849913
+logoutlocation:
+  world: world
+  x: -6126.334829879913
+  y: 73.0
+  z: 6065.545732017086
+  yaw: 108.582275
+  pitch: 20.32364
+money: '52156.91050000000006502'
+homes:
+  home:
+    world: world
+    x: -6113.143575578313
+    y: 69.0
+    z: 6033.090960429426
+    yaw: 181.48427
+    pitch: 8.023736
+  storage:
+    world: world
+    x: 746.1978933013992
+    y: 72.0
+    z: 347.44024353865467
+    yaw: 80.98076
+    pitch: 13.112897
+afk: false

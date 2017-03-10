@@ -1,0 +1,33 @@
+lastlocation:
+  world: world
+  x: 861.5
+  y: 70.0
+  z: -3702.5
+  yaw: 11.547394
+  pitch: 85.61311
+lastAccountName: llUNICORNll
+timestamps:
+  login: 1481696523894
+  lastteleport: 1481446803111
+  logout: 1481714744469
+  kits:
+    citizen: 1475050589015
+ipAddress: 124.190.154.111
+geolocation: Melbourne, Victoria, Australia
+money: '8152.98609999999762337'
+logoutlocation:
+  world: world
+  x: -19686.69999998808
+  y: 80.0
+  z: 18019.69999998808
+  yaw: 147.77534
+  pitch: 25.705698
+homes:
+  home:
+    world: world
+    x: 861.5
+    y: 69.0
+    z: -3701.5
+    yaw: 173.09578
+    pitch: 7.5937104
+afk: false

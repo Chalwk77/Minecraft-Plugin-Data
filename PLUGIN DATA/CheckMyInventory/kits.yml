@@ -1,0 +1,80 @@
+# Player should have appropriate permission node to use particular kit: cmi.kit.[kitName]
+# cmi.kit.newbie will allow to use newbie kit
+# Posible custom variables: {USERNAME} {DISPLAYNAME} {WORLDNAME} {KITNAME}
+Newbie:
+  # (Optional) Will display kit's description when hovering over it in list
+  Description:
+  - '&eWill give you some stuff for money and exp'
+  - '&eCan be used every X minutes'
+  # (Required) Delay in seconds between kit usage. Use -1 for one time use.
+  Delay: 36000
+  # (Optional) Amount of money required to use this kit.
+  MoneyCost: 100
+  # (Optional) Amount of exp required to use this kit.
+  ExpCost: 30
+  # (Optional) All kits in same group will be attached to each other and by using one kit from group
+  # cooldowns will be trigered for all of them. This allows to have couple kits and alow to use only one of them. 
+  Group: 'groupName'
+  # (Partially Optional) item list that will be given for player
+  Items:
+    # Custom name just for simpler usage
+    Stones:
+      # Item id with data. Examples: 1, 1:3, Stone:3, 52:92, 52:spider 
+      Id: '1'
+      # (Optional) Amount of items will be given. They will be split into stacks if amount if bigger than max stack size
+      Amount: 70
+      # (Optional) Only when item is leather armor part
+      LeatherColor:
+        # color id from 0 to 255
+        Red: 255
+        Green: 255
+        Blue: 255
+      # (Optional) Custom item name
+      Name: '&3Stone'
+      # (Optional) Custom item lore
+      Lore:
+      - '&2Name &3{USERNAME}'
+      - '&3Display name &2{DISPLAYNAME}'
+      - '&2Kit &3{KITNAME}'
+      - '&3World name &2{WORLDNAME}'
+      # (Optional) Item enchants
+      Enchants:
+        thorns: 5
+        Power: 3
+    Wood:
+      Id: 'Wood'
+      Amount: 30
+  # (Partially Optional) Command list performed on kit usage
+  Commands:
+  - 'msg &eYou just got &6{KITNAME} &ekit!'
+  # (Optional) Required permissions to use this kit
+  # Keep in mind that player have to have base kit usage permission in any case.
+  Conditions:
+  - cmi.kit.get
+  - cmi.command.fly
+Advanced:
+  Delay: 36000
+  Items:
+    Stone:
+      Id: '1'
+Ad1:
+  Delay: 36000
+  Items:
+    Stone:
+      Id: '1'
+      Amount: 10
+  Group: 'recources'
+Ad2:
+  Delay: 36060
+  Items:
+    Wood:
+      Id: '5'
+      Amount: 10
+  Group: 'recources'
+Ad3:
+  Delay: 36001
+  Items:
+    Grass:
+      Id: '3'
+      Amount: 10
+  Group: 'recources'

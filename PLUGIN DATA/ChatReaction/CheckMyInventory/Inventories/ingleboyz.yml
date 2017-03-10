@@ -1,0 +1,337 @@
+Inventories:
+  '5':
+    Time: 1458455359981
+    Exp: 836
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 13
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 6198.248127326805
+      y: 53.0
+      z: 6708.046709387282
+      pitch: 18.44989
+      yaw: -280.71796
+    Items:
+      '0':
+        type: TORCH
+        amount: 2
+      '1':
+        type: SIGN
+        amount: 2
+      '2':
+        type: STONE
+        damage: 1
+        amount: 41
+      '3':
+        type: SMOOTH_BRICK
+        amount: 37
+      '4':
+        type: CARROT_ITEM
+        amount: 23
+      '5':
+        type: LEVER
+        amount: 2
+      '6':
+        type: IRON_PICKAXE
+        damage: 137
+      '7':
+        type: STEP
+        amount: 6
+      '8':
+        type: COBBLESTONE
+        amount: 38
+      '9':
+        type: TORCH
+      '10':
+        type: FLINT
+        amount: 12
+      '11':
+        type: REDSTONE
+        amount: 60
+      '12':
+        type: IRON_ORE
+        amount: 15
+      '13':
+        type: MELON
+        amount: 64
+      '14':
+        type: STONE
+        damage: 3
+        amount: 19
+      '15':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §aTea Leaf
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JbkIg/LogujKQ5xsCCgzA5kDI8ZNQgN+FX9xLLs8uScowKo8LZveiG+2+u5ElyBZ1LAu45o2rppagY6qJnFydE+OFpabji2kxeLDDNDBXWabrztKn6fgdLxoetbflcB4EmB1yQTPYdfPnrIjiUWR0+cRmJPHO1R7Eh9W5BLMuYrYhM5+c3S3o7Ov9bqsoMlUsMr2SXoc5ng1ggF34T6ScY/NIoH36VmWgdzGhH0518VjQrJIjqnayZ8GY+sDhv6SB/M9ev0EFvsEOipTBq2Xg5UEtxFZTN9YucmFR0953zETwAFXvxMcpit9qtry7dVDvAHcA8phyoBAAA=
+          skull-owner: CSCoreLib
+      '16':
+        type: NETHER_STALK
+        amount: 36
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cCowberry
+          internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JVkcRHK0apRjLu0uoLrTeBZwF01CK3rV/UT67HHyczYADa8rA6dUh/NaV8ptOAxKuCVvCHSves7gdsvHM8tPCeklDp+OAj8gGKRe54N9n06Y9NWeOmB1eK17Rq82ADwYMFzslMdwi+aOdluSlJs5io3kX9nsSIqjupzEB0Tk40iP9J3Pxv6CxP+awftLh0oSefl9vjZZTohC7pUOFu6uV5/SzEkW7EmUkvDRVLK+r1iKSOxKGspeMmmXMl07cpbUfNxopn46rOalzyd/DAtaTyd0FhMDL8Nr1Iww8eHar9xQwALnvhOI/RGq9GpwUWVAfwBwpgHjyoBAAA=
+          skull-owner: CSCoreLib
+      '18':
+        type: QUARTZ
+        amount: 5
+      '19':
+        type: STONE
+        damage: 5
+        amount: 10
+      '20':
+        type: STICK
+        amount: 2
+      '21':
+        type: STONE
+        amount: 14
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cCranberry
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JoAPKoosGmzhEsJWRy+wYGMJlRg2CEZ6qj1iWXZ18Od/RAXR4C9tByu/uUtZSaPBMCngvVrlp54gbVmluDIy5MDYYO0bGHdMy1xwJK9NBn6Or6Ppa3Bag9eLRD5246QDwpMFrlMlBwK8YPcSSChWJJ/OR2POmIZIH0lzX5ByN3CU2UbPffdr70fn3tfostmS68ip2/hm4itB+dZRidzRzdbqzbaQYZU0wfWGmvGqmxVS69Bsy+lMh2VbKlKbYb4rW37YTi2cbE+zTY80oeRyoJw80Rf7yNDEatMHoOWWCPgA0eAkyJWDhhu6lE/uaA/wBs4Vs1SoBAAA=
+          skull-owner: CSCoreLib
+      '23':
+        type: BUCKET
+      '24':
+        type: BOW
+        damage: 160
+      '25':
+        type: ARROW
+        amount: 8
+      '26':
+        type: SULPHUR
+        amount: 13
+      '27':
+        type: MELON
+        amount: 39
+      '28':
+        type: REDSTONE
+        amount: 33
+      '29':
+        type: SAND
+        amount: 3
+      '30':
+        type: BUCKET
+      '31':
+        type: POTATO_ITEM
+        amount: 32
+      '32':
+        type: DIAMOND_HOE
+        damage: 107
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '33':
+        type: DIRT
+        amount: 9
+      '34':
+        type: WOOD_BUTTON
+      '35':
+        type: GRAVEL
+        amount: 54
+  '6':
+    Time: 1459465465101
+    Exp: 877
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.2
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 6229.369699950924
+      y: 53.0
+      z: 6714.702758154669
+      pitch: 21.750002
+      yaw: 79.579834
+    Items:
+      '0':
+        type: MELON
+        amount: 7
+      '1':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '2':
+        type: DIAMOND_SWORD
+        damage: 49
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+  '7':
+    Time: 1459469873631
+    Exp: 877
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.2
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 6229.369699950924
+      y: 53.0
+      z: 6714.702758154669
+      pitch: 21.750002
+      yaw: 79.579834
+    Items:
+      '0':
+        type: MELON
+        amount: 7
+      '1':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '2':
+        type: DIAMOND_SWORD
+        damage: 49
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+  '8':
+    Time: 1459659263135
+    Exp: 877
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.2
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 6213.096605930371
+      y: 53.0
+      z: 6712.324751046924
+      pitch: 27.90004
+      yaw: -76.57017
+  '9':
+    Time: 1459766737174
+    Exp: 877
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.2
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 6213.096605930371
+      y: 53.0
+      z: 6712.324751046924
+      pitch: 27.90004
+      yaw: -76.57017
+  '10':
+    Time: 1459847488281
+    Exp: 877
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.2
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 6213.096605930371
+      y: 53.0
+      z: 6712.324751046924
+      pitch: 27.90004
+      yaw: -76.57017
+  '11':
+    Time: 1460146823716
+    Exp: 877
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.2
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 6213.096605930371
+      y: 53.0
+      z: 6712.324751046924
+      pitch: 27.90004
+      yaw: -76.57017
+  '12':
+    Time: 1460883170663
+    Exp: 877
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.2
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 6213.096605930371
+      y: 53.0
+      z: 6712.324751046924
+      pitch: 27.90004
+      yaw: -76.57017
+  '13':
+    Time: 1462120695428
+    Exp: 877
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.2
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 6213.096605930371
+      y: 53.0
+      z: 6712.324751046924
+      pitch: 27.90004
+      yaw: -76.57017
+  '14':
+    Time: 1462483219171
+    Exp: 877
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.2
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 6213.096605930371
+      y: 53.0
+      z: 6712.324751046924
+      pitch: 27.90004
+      yaw: -76.57017

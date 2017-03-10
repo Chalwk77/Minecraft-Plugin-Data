@@ -1,0 +1,44 @@
+config:
+ 
+  # This is used for React to manage itself between updates
+  # It keeps your configs clean and tidy.
+  # Changing this will confuse react a bit :P
+  # Default Value: 1
+  version: 1
+limiting:
+  players:
+ 
+    # Shows the new player limit in the server tab list and websites when the player limit is changed.
+    # Warning, this may alter the way any server list plugins you have work.
+    # Default Value: false
+    show-changed-limit: false
+ 
+    # Should react touch the player limit (virtual)?
+    # Default Value: true
+    change-player-limit: true
+ 
+    # Attempts to kick the most afk users first.
+    # Default Value: true
+    kick-most-afk-first: true
+ 
+    # Send a color coded kick message to kicked players.
+    # Default Value: &cKicked for AFK (too many players also)
+    kick-message: '&cKicked for AFK (too many players also)'
+ 
+    # Send a color coded kick message to joining players.
+    # Default Value: &cServer is Full!
+    server-full-message: '&cServer is Full!'
+ 
+    # When the server starts lagging, change the player limit to the specified number.
+    # This will not display the new player limit on the serverlist, but you can change that below.
+    # Default Value: 201
+    new-player-limit: 201
+ 
+    # Kicks the players over the new server limit.
+    # Default Value: false
+    kick-excess-players: false
+ 
+  # When enabled, start limiting based on the settings provieded.
+  # This will only take effect when the server is lagging
+  # Default Value: false
+  enable: false

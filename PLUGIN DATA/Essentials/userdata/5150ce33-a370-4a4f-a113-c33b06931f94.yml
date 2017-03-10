@@ -1,0 +1,22 @@
+lastlocation:
+  world: world
+  x: 740.7912672807983
+  y: 64.0
+  z: -71.17937155288705
+  yaw: 271.27628
+  pitch: 7.5162706
+geolocation: Bothell, Washington, United States
+lastAccountName: SolidStateDrive
+timestamps:
+  login: 1475038648403
+  logout: 1475038868104
+  lastteleport: 1475038672987
+ipAddress: 73.53.51.132
+logoutlocation:
+  world: world
+  x: 14243.799733972413
+  y: 68.0
+  z: 898.3085722896918
+  yaw: 103.535034
+  pitch: 23.893925
+money: '3265.3679999999999995'

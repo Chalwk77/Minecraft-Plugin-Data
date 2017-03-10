@@ -1,0 +1,1302 @@
+spawn:
+  location: world, 481.357, 90.427, -187.587
+  lines:
+  - '&6&lWelcome to &4&lJeriCraft &f- &e&lSurvival&f/&6&lEconomy &6&l>>> &f&lServer'
+fighters:
+  location: world, -703999.518, 109.200, 445997.495
+  lines:
+  - '&4---[&3Fighters Lounge&4]---'
+  - '&4---[&3Preperation area before a match&4]---'
+jessehouse:
+  location: world, -664977.219, 65.000, 109545.660
+  lines:
+  - '&4---[[&3Jesse''s House&4]]---'
+jobsinfo:
+  location: world, 497.554, 89.500, -187.569
+  lines:
+  - '&4---[[&3"JOBS"&6 - Info Centre&4]]---'
+shearshed:
+  location: world, 759.095, 70.200, -476.002
+  lines:
+  - '&3Loading Bay'
+shearshed2:
+  location: world, 774.890, 70.200, -476.451
+  lines:
+  - '&3Office'
+sfarm:
+  location: world, 661.631, 68.200, -348.449
+  lines:
+  - '&3JeriCraft Server Farm'
+  - 'ICON: monster egg:50'
+pvptospawn:
+  location: world, -703999.489, 82.200, 445990.322
+  lines:
+  - '&3Teleport to Spawn'
+pvptospawn2:
+  location: world, -703999.388, 81.997, 445986.471
+  lines:
+  - '&3Teleport to Spawn'
+topvparena:
+  location: world, 427.500, 90.000, -175.500
+  lines:
+  - '&3Teleport to PVP Arena!'
+  - '&f(&c/warp pvp&f)'
+enchantingbuilding:
+  location: world, 665.207, 64.801, 43.432
+  lines:
+  - '&4======================================='
+  - '&4---[[&6Enchanting Shop&4]]---'
+  - '&a&lJeriCraft - Custom Machines, weapons'
+  - '&a&lTools Armor and more!'
+  - '&4======================================='
+medical:
+  location: world, 620.635, 66.757, -294.902
+  lines:
+  - '&4&l This way'
+  - '&4&l to buy'
+  - '&4&l Medical Supplies'
+medical2:
+  location: world, 614.607, 66.200, -285.446
+  lines:
+  - '&4&l Supply Room'
+medical3outfront:
+  location: world, 638.656, 66.491, -292.939
+  lines:
+  - '&4Medical Centre'
+  - '&6We sell Medical Supplies!'
+  - '&b/warp clinic'
+medical_supply_room:
+  location: world, 609.373, 68.200, -288.285
+  lines:
+  - '&4&lMedical Supply Cabinet'
+armory:
+  location: world, 666.523, 65.500, -284.506
+  lines:
+  - '&6======================='
+  - '&4&lA R M O R Y'
+  - '&6======================='
+petshop:
+  location: world, 663.445, 66.127, -122.522
+  lines:
+  - '&bAnimal Kingdom'
+  - 'ICON: monster egg:98'
+church:
+  location: world, 452.230, 67.700, 281.438
+  lines:
+  - '&4 District1 - Church'
+milkingshed:
+  location: world, 830.568, 69.757, -333.730
+  lines:
+  - '&3MILKING SHED'
+shop:
+  location: world, -310438.548, 66.200, -625962.594
+  lines:
+  - '&c&l-------------------------------'
+  - '&4---[[&c&lWelcome JeriCraft Server Shop&4]]---'
+  - '&c&l-------------------------------'
+prison:
+  location: world, 351.290, 81.758, 142.544
+  lines:
+  - '&c&l*** SERVER PRISON ***'
+  - '&4&lWarning: Do Not Enter'
+  - '&4&lIf you enter the Prison Region, you WONT get out.'
+guns:
+  location: world, 688.001, 74.500, -301.700
+  lines:
+  - '&b&l** GUNS **'
+ammo:
+  location: world, 688.012, 74.500, -267.300
+  lines:
+  - '&b&l** AMMO **'
+shoptut:
+  location: world, -310442.300, 72.000, -625938.672
+  lines:
+  - '&5Right Click to Buy'
+  - '&6Left Click to Sell'
+shoptut2:
+  location: world, -310434.697, 72.000, -625938.713
+  lines:
+  - '&5Right Click to Buy'
+  - '&6Left Click to Sell'
+shoptut_shift1:
+  location: world, -310442.300, 73.200, -625938.768
+  lines:
+  - '&5Hold Shift & Right/left click to Buy/sell in stacks of 64'
+gunsandammo1:
+  location: world, 697.125, 66.200, -266.022
+  lines:
+  - '&4** &b&lGUNS & AMMO &4**'
+  - '&4** &b&lResources and Alloys &4**'
+  - '&6up stairs'
+gunsandammo3:
+  location: world, 697.179, 66.200, -303.264
+  lines:
+  - '&4** &b&lGUNS & AMMO &4**'
+  - '&4** &b&lResources and Alloys &4**'
+  - '&6up stairs'
+gunsandammo4:
+  location: world, 679.588, 66.200, -265.828
+  lines:
+  - '&4** &b&lGUNS & AMMO &4**'
+  - '&4** &b&lResources and Alloys &4**'
+  - '&6up stairs'
+gunsandammo5:
+  location: world, 679.682, 66.200, -303.128
+  lines:
+  - '&4** &b&lGUNS & AMMO &4**'
+  - '&4** &b&lResources and Alloys &4**'
+  - '&6up stairs'
+armorandswords:
+  location: world, 686.104, 66.200, -284.549
+  lines:
+  - '&b&lARMOR & SWORDS'
+magical_armor:
+  location: world, 687.981, 66.200, -303.174
+  lines:
+  - '&b&lMAGICAL ARMOR'
+lumps_and_magic:
+  location: world, 687.939, 66.200, -265.295
+  lines:
+  - '&b&lLumps and Magic'
+resources_and_alloys:
+  location: world, 688.042, 74.200, -284.548
+  lines:
+  - '&b&lResources and Alloys'
+enchantment_books:
+  location: world, -310438.644, 79.000, -625944.796
+  lines:
+  - '&b&lENCHANTMENT BOOKS'
+jailbarrier:
+  location: world, 355.300, 84.134, 142.558
+  lines:
+  - '&c&l** Jail Barrier Start **'
+nether:
+  location: world, 443.544, 90.000, -199.545
+  lines:
+  - '&b&lNETHER PORTAL'
+  - '&f(&c/warp nether&f)'
+barandgrill:
+  location: world, 663.630, 64.200, 206.453
+  lines:
+  - '&b&lBAR & GRILL'
+machines_tire1:
+  location: world, -310454.632, 83.200, -625949.524
+  lines:
+  - '&b&k==================='
+  - '&b&lMACHINES - TIER 1'
+  - '&b&k==================='
+mob_eggs:
+  location: world, 712.634, 66.200, -119.336
+  lines:
+  - '&b&lMOB EGGS'
+mp1:
+  location: world, 734.432, 63.200, 560.325
+  lines:
+  - '&b&lMarket Plot 1'
+mp2:
+  location: world, 759.074, 63.200, 565.043
+  lines:
+  - '&b&lMarket Plot 2'
+mp3:
+  location: world, 776.497, 63.200, 566.497
+  lines:
+  - '&b&lMarket Plot 3'
+mp4:
+  location: world, 794.654, 63.200, 565.301
+  lines:
+  - '&b&lMarket Plot 4'
+mp5:
+  location: world, 734.496, 63.200, 588.577
+  lines:
+  - '&b&lMarket Plot 5'
+mp6:
+  location: world, 758.707, 63.200, 583.667
+  lines:
+  - '&b&lMarket Plot 6'
+mp7:
+  location: world, 776.658, 63.200, 583.600
+  lines:
+  - '&b&lMarket Plot 7'
+mp8:
+  location: world, 794.915, 63.200, 583.782
+  lines:
+  - '&b&lMarket Plot 8'
+mp9:
+  location: world, 690.523, 63.200, 560.596
+  lines:
+  - '&b&lMarket Plot 9'
+mp10:
+  location: world, 666.180, 63.200, 565.318
+  lines:
+  - '&b&lMarket Plot 10'
+mp11:
+  location: world, 648.259, 63.200, 565.315
+  lines:
+  - '&b&lMarket Plot 11'
+mp13:
+  location: world, 690.463, 63.200, 588.412
+  lines:
+  - '&b&lMarket Plot 13'
+mp14:
+  location: world, 666.500, 63.200, 583.538
+  lines:
+  - '&b&lMarket Plot 14'
+mp15:
+  location: world, 648.398, 63.200, 583.637
+  lines:
+  - '&b&lMarket Plot 15'
+mp16:
+  location: world, 630.424, 63.200, 582.715
+  lines:
+  - '&b&lMarket Plot 16'
+mp17:
+  location: world, 740.002, 74.200, 567.883
+  lines:
+  - '&b&lMarket Plot 17'
+mp18:
+  location: world, 748.930, 74.200, 567.592
+  lines:
+  - '&b&lMarket Plot 18'
+mp19:
+  location: world, 757.954, 74.200, 567.650
+  lines:
+  - '&b&lMarket Plot 19'
+mp20:
+  location: world, 767.007, 74.200, 567.683
+  lines:
+  - '&b&lMarket Plot 20'
+mp21:
+  location: world, 776.011, 74.200, 567.493
+  lines:
+  - '&b&lMarket Plot 21'
+mp22:
+  location: world, 784.980, 74.200, 567.737
+  lines:
+  - '&b&lMarket Plot 22'
+mp23:
+  location: world, 794.034, 74.200, 567.812
+  lines:
+  - '&b&lMarket Plot 23'
+mp24:
+  location: world, 794.056, 74.200, 581.319
+  lines:
+  - '&b&lMarket Plot 24'
+mp25:
+  location: world, 785.039, 74.200, 581.213
+  lines:
+  - '&b&lMarket Plot 25'
+mp26:
+  location: world, 776.066, 74.200, 581.205
+  lines:
+  - '&b&lMarket Plot 26'
+mp27:
+  location: world, 767.039, 74.200, 581.334
+  lines:
+  - '&b&lMarket Plot 27'
+mp28:
+  location: world, 758.067, 74.200, 581.226
+  lines:
+  - '&b&lMarket Plot 28'
+mp29:
+  location: world, 749.065, 74.200, 581.337
+  lines:
+  - '&b&lMarket Plot 29'
+mp30:
+  location: world, 740.042, 74.200, 581.353
+  lines:
+  - '&b&lMarket Plot 30'
+mp31:
+  location: world, 685.013, 74.200, 581.163
+  lines:
+  - '&b&lMarket Plot 31'
+mp32:
+  location: world, 675.981, 74.200, 581.424
+  lines:
+  - '&b&lMarket Plot 32'
+mp33:
+  location: world, 666.996, 74.200, 581.214
+  lines:
+  - '&b&lMarket Plot 33'
+mp34:
+  location: world, 658.009, 74.200, 581.365
+  lines:
+  - '&b&lMarket Plot 34'
+mp35:
+  location: world, 649.034, 74.200, 581.204
+  lines:
+  - '&b&lMarket Plot 35'
+mp36:
+  location: world, 640.029, 74.200, 581.490
+  lines:
+  - '&b&lMarket Plot 36'
+mp37:
+  location: world, 631.033, 74.200, 581.506
+  lines:
+  - '&b&lMarket Plot 37'
+mp38:
+  location: world, 630.968, 74.200, 567.581
+  lines:
+  - '&b&lMarket Plot 38'
+mp39:
+  location: world, 640.009, 74.200, 567.704
+  lines:
+  - '&b&lMarket Plot 39'
+mp40:
+  location: world, 648.910, 74.200, 567.651
+  lines:
+  - '&b&lMarket Plot 40'
+mp41:
+  location: world, 657.953, 74.200, 567.700
+  lines:
+  - '&b&lMarket Plot 41'
+mp42:
+  location: world, 666.949, 74.200, 567.646
+  lines:
+  - '&b&lMarket Plot 42'
+mp43:
+  location: world, 675.921, 74.200, 567.486
+  lines:
+  - '&b&lMarket Plot 43'
+mp44:
+  location: world, 685.048, 74.200, 567.809
+  lines:
+  - '&b&lMarket Plot 44'
+mp45:
+  location: world, 682.544, 84.200, 584.196
+  lines:
+  - '&b&lMarket Plot 45'
+mp46:
+  location: world, 666.482, 84.200, 584.512
+  lines:
+  - '&b&lMarket Plot 46'
+mp47:
+  location: world, 650.601, 84.200, 584.512
+  lines:
+  - '&b&lMarket Plot 47'
+mp48:
+  location: world, 634.632, 84.200, 584.512
+  lines:
+  - '&b&lMarket Plot 48'
+mp49:
+  location: world, 627.083, 84.200, 581.209
+  lines:
+  - '&b&lMarket Plot 49'
+mp50:
+  location: world, 627.777, 84.200, 568.109
+  lines:
+  - '&b&lMarket Plot 50'
+mp51:
+  location: world, 634.448, 84.200, 564.488
+  lines:
+  - '&b&lMarket Plot 51'
+mp52:
+  location: world, 650.535, 84.200, 564.488
+  lines:
+  - '&b&lMarket Plot 52'
+mp53:
+  location: world, 666.625, 84.200, 564.488
+  lines:
+  - '&b&lMarket Plot 53'
+mp54:
+  location: world, 682.563, 84.200, 564.488
+  lines:
+  - '&b&lMarket Plot 54'
+mp55:
+  location: world, 742.494, 84.200, 564.488
+  lines:
+  - '&b&lMarket Plot 55'
+mp56:
+  location: world, 758.481, 84.200, 564.488
+  lines:
+  - '&b&lMarket Plot 56'
+mp57:
+  location: world, 774.560, 84.200, 564.488
+  lines:
+  - '&b&lMarket Plot 57'
+mp58:
+  location: world, 790.504, 84.200, 564.564
+  lines:
+  - '&b&lMarket Plot 58'
+mp59:
+  location: world, 798.129, 84.200, 567.806
+  lines:
+  - '&b&lMarket Plot 59'
+mp60:
+  location: world, 798.027, 84.200, 580.862
+  lines:
+  - '&b&lMarket Plot 60'
+mp61:
+  location: world, 790.520, 84.200, 584.512
+  lines:
+  - '&b&lMarket Plot 61'
+mp62:
+  location: world, 774.461, 84.200, 584.512
+  lines:
+  - '&b&lMarket Plot 62'
+mp63:
+  location: world, 758.522, 84.200, 584.512
+  lines:
+  - '&b&lMarket Plot 63'
+mp64:
+  location: world, 742.515, 84.200, 584.512
+  lines:
+  - '&b&lMarket Plot 64'
+mp65:
+  location: world, 682.478, 94.200, 584.512
+  lines:
+  - '&b&lMarket Plot 65'
+mp66:
+  location: world, 666.515, 94.200, 584.512
+  lines:
+  - '&b&lMarket Plot 66'
+mp67:
+  location: world, 650.408, 94.200, 584.512
+  lines:
+  - '&b&lMarket Plot 67'
+mp68:
+  location: world, 634.460, 94.200, 584.512
+  lines:
+  - '&b&lMarket Plot 68'
+mp69:
+  location: world, 626.783, 94.200, 581.111
+  lines:
+  - '&b&lMarket Plot 69'
+mp70:
+  location: world, 627.166, 94.200, 568.041
+  lines:
+  - '&b&lMarket Plot 70'
+mp71:
+  location: world, 634.609, 94.200, 564.488
+  lines:
+  - '&b&lMarket Plot 71'
+mp72:
+  location: world, 650.511, 94.200, 564.488
+  lines:
+  - '&b&lMarket Plot 72'
+mp73:
+  location: world, 666.554, 94.200, 564.488
+  lines:
+  - '&b&lMarket Plot 73'
+mp74:
+  location: world, 682.516, 94.200, 564.488
+  lines:
+  - '&b&lMarket Plot 74'
+mp75:
+  location: world, 742.527, 94.200, 564.488
+  lines:
+  - '&b&lMarket Plot 75'
+mp76:
+  location: world, 758.585, 94.200, 564.488
+  lines:
+  - '&b&lMarket Plot 76'
+mp77:
+  location: world, 774.588, 94.200, 564.488
+  lines:
+  - '&b&lMarket Plot 77'
+mp78:
+  location: world, 790.453, 94.200, 564.488
+  lines:
+  - '&b&lMarket Plot 78'
+mp79:
+  location: world, 798.329, 94.200, 567.722
+  lines:
+  - '&b&lMarket Plot 79'
+mp80:
+  location: world, 798.786, 94.200, 580.743
+  lines:
+  - '&b&lMarket Plot 80'
+mp81:
+  location: world, 790.444, 94.200, 584.512
+  lines:
+  - '&b&lMarket Plot 81'
+mp82:
+  location: world, 774.436, 94.200, 584.512
+  lines:
+  - '&b&lMarket Plot 82'
+mp83:
+  location: world, 758.674, 94.200, 584.512
+  lines:
+  - '&b&lMarket Plot 83'
+mp84:
+  location: world, 742.558, 94.200, 584.512
+  lines:
+  - '&b&lMarket Plot 84'
+westwing:
+  location: world, 688.732, 63.263, 574.512
+  lines:
+  - '&b&lWest Wing'
+eastwing:
+  location: world, 736.700, 63.200, 574.525
+  lines:
+  - '&b&lEast Wing'
+market_elevator1:
+  location: world, 627.325, 84.200, 574.456
+  lines:
+  - '&6&lELEVATOR'
+market_elevator2:
+  location: world, 797.907, 84.200, 574.449
+  lines:
+  - '&6&lELEVATOR'
+market_elevator3:
+  location: world, 797.802, 94.200, 574.525
+  lines:
+  - '&6&lELEVATOR'
+market_elevator4:
+  location: world, 627.168, 94.200, 574.521
+  lines:
+  - '&6&lELEVATOR'
+market_elevator5:
+  location: world, 626.417, 74.200, 574.504
+  lines:
+  - '&6&lELEVATOR'
+market_elevator6:
+  location: world, 799.377, 74.200, 574.547
+  lines:
+  - '&6&lELEVATOR'
+toshop:
+  location: world, 435.500, 90.000, -199.500
+  lines:
+  - '&c<<< ----------------------------- >>>'
+  - '&b&lSERVER SHOP'
+  - '&c<<< ----------------------------- >>>'
+  - '&f(&c/warp shop&f)'
+  - '&f(&c/shop&f)'
+tomarket:
+  location: world, 427.500, 90.000, -199.500
+  lines:
+  - '&c<<< ----------------------------- >>>'
+  - '&b&lSERVER MARKET'
+  - '&c<<< ----------------------------- >>>'
+  - '&f(&c/warp market&f)'
+infocenter:
+  location: world, 525.390, 67.200, 56.705
+  lines:
+  - '&c<<<<------------------->>>>'
+  - '&b&lINFORMATION CENTRE'
+  - '&c<<<<------------------->>>>'
+serverstaffroom:
+  location: world, 525.504, 68.200, 35.334
+  lines:
+  - '&c&lSERVER STAFF ROOM'
+boardroom1:
+  location: world, 516.910, 68.200, 25.507
+  lines:
+  - '&b&lBoard Room'
+boardroom2:
+  location: world, 533.989, 68.200, 25.487
+  lines:
+  - '&b&lStaff Room'
+breadroll2:
+  location: world, 516.981, 69.200, 12.421
+  lines:
+  - 'ICON: bread'
+bread5:
+  location: world, 252.300, 53.200, 3.700
+  lines:
+  - 'ICON: bread'
+starthere:
+  location: world, 318.300, 73.233, -31.542
+  lines:
+  - '&b&lStart Position'
+endhere:
+  location: world, 313.602, 69.565, -30.700
+  lines:
+  - '&b&lOnly Way Out'
+sminigamerules:
+  location: world, 315.541, 80.623, -16.327
+  lines:
+  - '&b&lRULES'
+  - '&c- &aTurn off God Mode'
+  - '&c- &aIf you have Creative Mode, please switch to Survival.'
+  - '&c- &aDo not use the Heal Command.'
+  - '&c- &aFlying is NOT Allowed.'
+  - '&c- &aWe recommend bringing some food, and decent armor.'
+  - '&c&lThis Challenge is HARD. &a&lGOOD LUCK!'
+  - '&c- &aTurn Night Vision OFF!'
+  - '&c- &aPotions are not allowed!'
+startposition1:
+  location: world, 320.389, 68.622, -41.956
+  lines:
+  - '&b&lStart Position'
+mountainminigame2:
+  location: world, 318.552, 70.002, -46.384
+  lines:
+  - '&b&lRULES'
+  - '&c- &aTurn off God Mode'
+  - '&c- &aIf you have Creative Mode, please switch to Survival.'
+  - '&c- &aDo not use the Heal Command.'
+  - '&c- &aFlying is NOT Allowed.'
+  - '&c- &aWe recommend bringing some food, and decent armor.'
+  - '&c&lThis Challenge is HARD. &a&lGOOD LUCK!'
+  - '&c- &aTurn Night Vision OFF!'
+thechallenge:
+  location: world, 310.307, 77.748, -14.128
+  lines:
+  - '&c-- &aThere are 4 hidden double-chests full of &bdiamonds! &c--'
+  - '&c-- &aIf you find them, you can take the loot!&c--'
+thechallenge2:
+  location: world, 323.753, 70.213, -45.955
+  lines:
+  - '&c-- &aThere are 4 hidden double-chests full of &bdiamonds! &c--'
+  - '&c-- &aIf you find them, you can take the loot!&c--'
+topdonor3:
+  location: world, 537.696, 91.500, -189.470
+  lines:
+  - '&6&lTop Donor 3'
+  - '&4&l>-<->-<->-<'
+topdonor2:
+  location: world, 537.700, 92.000, -185.570
+  lines:
+  - '&b&lTop Donor 2'
+  - '&4&l>-<->-<->-<'
+topdonor1:
+  location: world, 537.700, 93.000, -187.486
+  lines:
+  - '&2&lTop Donor 1'
+  - '&4&l>-<->-<->-<'
+donate:
+  location: world, 513.500, 89.000, -187.500
+  lines:
+  - '&6Donate &4@ &bwww.jericraft.enjin.com/shop&f!'
+crop_1:
+  location: world, 743.700, 68.491, -679.524
+  lines:
+  - '&b&lCrop 1'
+crop_2:
+  location: world, 737.300, 68.509, -679.439
+  lines:
+  - '&b&lCrop 2'
+crop_3:
+  location: world, 742.492, 67.200, -666.480
+  lines:
+  - '&b&lCrop 3'
+crop_4:
+  location: world, 738.299, 67.200, -666.483
+  lines:
+  - '&b&lCrop 4'
+melon_crop1:
+  location: world, 696.995, 65.200, -696.495
+  lines:
+  - '&b&lMelons'
+pumpkin_crop1:
+  location: world, 675.977, 65.200, -696.470
+  lines:
+  - '&b&lPumpkins'
+melon_crop2:
+  location: world, 655.014, 65.200, -696.279
+  lines:
+  - '&b&lMelons'
+crops:
+  location: world, 725.860, 69.314, -690.567
+  lines:
+  - '&b&lCarrots'
+  - '&b&lPotatoes'
+  - '&b&lWheat'
+  - '&b&lMelons'
+sheepfarm:
+  location: world, 608.961, 66.200, -696.791
+  lines:
+  - '&b&lSheep Farm'
+freeitems:
+  location: world, -310444.559, 72.200, -625928.989
+  lines:
+  - '&6---&4[ &1&lFree Items! &4]&6---'
+stafflist:
+  location: world, 477.480, 92.700, -193.700
+  lines:
+  - '&2] &b&lStaff Members &2['
+thestaffteam:
+  location: world, 171.459, 159.328, -11934.626
+  lines:
+  - '&6&lThe Staff Team!'
+suggestions:
+  location: world, 171.143, 155.000, -11925.218
+  lines:
+  - '&cSuggestions!'
+aandb:
+  location: world, 171.760, 159.217, -11922.300
+  lines:
+  - '&4Architects &cand &9Builders'
+staffpositions:
+  location: world, 471.300, 93.200, -187.540
+  lines:
+  - '&5&lStaff/Builder Positions!'
+rulestitle:
+  location: world, 483.700, 92.892, -187.333
+  lines:
+  - '&6&l>>> &f&lGlobal Rules'
+tips:
+  location: world, 477.509, 92.975, -181.300
+  lines:
+  - '&7&lTips!'
+slimefun:
+  location: world, 557.700, 71.852, 120.023
+  lines:
+  - '&1#2 Basic Machines'
+  - '&7(Slimefun)'
+mcmmo:
+  location: world, 557.700, 71.840, 140.976
+  lines:
+  - '&9&lMcMMO'
+jobs:
+  location: world, 557.700, 71.829, 98.941
+  lines:
+  - '&1&lJobs'
+jericraft:
+  location: world, 557.700, 71.716, 77.968
+  lines:
+  - '&4&lJeriCraft'
+economy:
+  location: world, 493.300, 71.846, 78.080
+  lines:
+  - '&5&lEconomy'
+buyregion:
+  location: world, 493.300, 71.846, 98.981
+  lines:
+  - '&6&lBuyRegion'
+landprotection:
+  location: world, 493.300, 71.810, 119.965
+  lines:
+  - '&6&l>>> &f&lLand Protection'
+chestshops:
+  location: world, 493.300, 71.833, 140.942
+  lines:
+  - '&6&lChest Shops'
+servershop:
+  location: world, -310441.700, 68.603, -625960.550
+  lines:
+  - '&1&lServer Shop'
+servershop2:
+  location: world, -310435.300, 68.603, -625960.586
+  lines:
+  - '&1&lServer Shop'
+chalwkysandwich:
+  location: world, -310438.487, 86.700, -625939.500
+  lines:
+  - 'ICON: bread'
+willmarket:
+  location: world, 498.931, 89.384, -155.657
+  lines:
+  - '&6--- &4[&1&l Will''s market &4] &6---'
+infoc:
+  location: world, 443.478, 90.000, -175.401
+  lines:
+  - '&b&lInformation Center'
+  - '&f(&c/warp info&f)'
+suggestionsbox:
+  location: world, 453.182, 94.200, -187.582
+  lines:
+  - '&c&lSUGGESTIONS'
+recentdonations:
+  location: world, 473.422, 92.200, -205.505
+  lines:
+  - '&b&lRecent Server Donations'
+topvoters:
+  location: world, 481.512, 92.200, -205.488
+  lines:
+  - '&b&lTop Voters'
+topplayers:
+  location: world, 473.300, 92.200, -219.468
+  lines:
+  - '&b&lTop Players'
+newestmembers:
+  location: world, 481.700, 92.200, -219.505
+  lines:
+  - '&b&lNewest Members'
+redstoner_stats:
+  location: world, 482.299, 92.200, -164.567
+  lines:
+  - '&4Rs'
+gardener_stats:
+  location: world, 482.294, 92.200, -163.509
+  lines:
+  - '&2G'
+woodcutter_stats:
+  location: world, 482.297, 92.200, -162.542
+  lines:
+  - '&aW'
+miner_stats:
+  location: world, 482.294, 92.200, -161.508
+  lines:
+  - '&8Mi'
+builder_stats:
+  location: world, 482.295, 92.200, -160.458
+  lines:
+  - '&fB'
+digger_stats:
+  location: world, 482.300, 91.200, -164.593
+  lines:
+  - '&6Di'
+farmer_stats:
+  location: world, 482.300, 91.200, -163.456
+  lines:
+  - '&9Fa'
+hunter_stats:
+  location: world, 482.297, 91.200, -162.434
+  lines:
+  - '&cHu'
+fisherman_stats:
+  location: world, 482.300, 91.200, -161.511
+  lines:
+  - '&3Fi'
+weaponsmith_stats:
+  location: world, 482.299, 91.200, -160.456
+  lines:
+  - '&5Ws'
+brewer_stats:
+  location: world, 482.700, 90.200, -163.506
+  lines:
+  - '&dBr'
+enchanter_stats:
+  location: world, 482.700, 90.200, -161.526
+  lines:
+  - '&1Ec'
+jobs_legend:
+  location: world, 483.538, 91.000, -157.485
+  lines:
+  - '&4Rs &f=Redstoner'
+  - '&2G &f=Gardener'
+  - '&aW &f=Woodcutter'
+  - '&8Mi &f=Miner'
+  - '&fB &f=Builder'
+  - '&6Di &f=Digger'
+  - '&9Fa &f=Farmer'
+  - '&cHu &f=Hunter'
+  - '&3Fi &f=Fisherman'
+  - '&5Ws &f=Weapon Smith'
+  - '&dBr &f=Brewer'
+  - '&1Ec &f=Enchanter'
+jobs_jobtoplist:
+  location: world, 482.200, 92.700, -162.456
+  lines:
+  - '&bJobs: Top Players for each job.'
+shopapple:
+  location: world, 504.700, 90.200, -167.571
+  lines:
+  - 'ICON: apple'
+shopgapple:
+  location: world, 504.692, 91.200, -168.553
+  lines:
+  - 'ICON: golden apple'
+shopcarrot:
+  location: world, 504.681, 91.200, -170.385
+  lines:
+  - 'ICON: carrot item'
+shopmushroomstew:
+  location: world, 504.421, 90.200, -171.532
+  lines:
+  - 'ICON: mushroom soup'
+shoppotate:
+  location: world, 504.519, 91.700, -169.494
+  lines:
+  - 'ICON: potato item'
+ebook:
+  location: world, 665.551, 64.200, 39.521
+  lines:
+  - 'ICON: enchanted book'
+ebook2:
+  location: world, 665.509, 64.200, 47.548
+  lines:
+  - 'ICON: enchanted book'
+exp:
+  location: world, 495.496, 91.700, -207.503
+  lines:
+  - 'ICON: exp bottle'
+exp2:
+  location: world, 495.476, 91.700, -203.473
+  lines:
+  - 'ICON: exp bottle'
+enchanting:
+  location: world, 495.477, 89.200, -205.481
+  lines:
+  - '&5&lEnchant Here!'
+cake1:
+  location: world, 516.981, 69.200, 12.906
+  lines:
+  - 'ICON: cake'
+cake2:
+  location: world, 517.794, 69.200, 10.443
+  lines:
+  - 'ICON: cookie'
+cake3:
+  location: world, 517.688, 69.200, 14.224
+  lines:
+  - 'ICON: cookie'
+archerypodium1:
+  location: world, -704023.490, 88.200, 446021.543
+  lines:
+  - '&6&lArchery Podium 1'
+archerypodium2:
+  location: world, -704023.548, 88.200, 445973.446
+  lines:
+  - '&6&lArchery Podium 2'
+archerypodium3:
+  location: world, -703975.405, 88.200, 445973.500
+  lines:
+  - '&6&lArchery Podium 3'
+archerypodium4:
+  location: world, -703975.522, 88.200, 446021.453
+  lines:
+  - '&6&lArchery Podium 4'
+redteamgate:
+  location: world, -704033.700, 73.200, 446031.645
+  lines:
+  - '&6&lRed Team Gate'
+blueteamgate:
+  location: world, -704033.695, 73.200, 445963.342
+  lines:
+  - '&6&lBlue Team Gate'
+yellowteamgate:
+  location: world, -703965.337, 73.200, 445963.302
+  lines:
+  - '&6&lYellow Team Gate'
+greenteamgate:
+  location: world, -703965.301, 73.200, 446031.700
+  lines:
+  - '&6&lGreen Team Gate'
+csandwich:
+  location: world, 126573.602, 42.200, 432929.494
+  lines:
+  - 'ICON: bread'
+drink1:
+  location: world, 845.700, 65.200, 441.618
+  lines:
+  - 'ICON: potion'
+drink2:
+  location: world, 845.700, 65.200, 443.551
+  lines:
+  - 'ICON: potion'
+dis1_zone2:
+  location: world, 518.105, 63.700, 447.735
+  lines:
+  - '&b&lHouses 1-6'
+dis1_zone2_2:
+  location: world, 406.529, 63.700, 446.875
+  lines:
+  - '&b&lHouses 7-18'
+dis1_zone2_3:
+  location: world, 295.538, 63.700, 446.783
+  lines:
+  - '&b&lHouses 19-24'
+dis1_zone2_4:
+  location: world, 295.483, 63.700, 570.702
+  lines:
+  - '&b&lHouses 19-24'
+dis1_zone2_5:
+  location: world, 406.480, 63.700, 569.787
+  lines:
+  - '&b&lHouses 7-18'
+dis1_zone2_6:
+  location: world, 517.994, 63.700, 569.940
+  lines:
+  - '&b&lHouses 1-6'
+sfdrinks:
+  location: world, 827.700, 65.976, 442.479
+  lines:
+  - '&2&lSlimeFun &1&lDrinks'
+mob-spawners:
+  location: world, 705.340, 70.000, -133.544
+  lines:
+  - '&c&l---------------'
+  - '&1&lMob-Spawners'
+  - '&c&l---------------'
+ms_buy:
+  location: world, 706.432, 66.200, -126.619
+  lines:
+  - '&a&lBUY'
+ms_sell:
+  location: world, 712.733, 66.200, -126.700
+  lines:
+  - '&c&lSELL'
+mob-spawners2:
+  location: world, 713.787, 70.200, -133.473
+  lines:
+  - '&c&l---------------'
+  - '&1&lMob-Spawners'
+  - '&c&l---------------'
+chouse:
+  location: world, 525.824, 65.200, 487.497
+  lines:
+  - '&f&lChalwk''s House'
+bloodline_hotel:
+  location: world, 575.439, 64.200, 403.684
+  lines:
+  - '&b&lWelcome to &c&lBloodLine Hotel'
+sfmachines:
+  location: world, 16408.050, 41.200, -18255.614
+  lines:
+  - '&2SlimeFun &5&lMachines&8!'
+sfguide:
+  location: world, 16400.010, 42.200, -18239.497
+  lines:
+  - '&a/sf guide'
+  - 'ICON: enchanted book'
+  - '&a/sf guide'
+jchq:
+  location: world, 517.498, 64.497, 582.533
+  lines:
+  - '&c&lWelcome to &a&lJeriCraft &c&lHead Quarters'
+execution:
+  location: world, 460.393, 68.491, 588.453
+  lines:
+  - '&c&lEXECUTION STAND'
+stables:
+  location: world, 451.300, 65.504, 602.931
+  lines:
+  - '&c&lSTABLES'
+welcome__district1:
+  location: world, 654.534, 64.700, 316.542
+  lines:
+  - '&bWelcome to &b&lDistrict1'
+  - '&f[&cZONE 1&f]'
+reserved1:
+  location: world, 630.342, 67.200, 565.304
+  lines:
+  - '&cReserved'
+elytra:
+  location: world, -220046.378, 257.441, 183015.450
+  lines:
+  - '&c&lJUMP & GLIDE!'
+elytra2:
+  location: world, -220066.439, 257.420, 183015.443
+  lines:
+  - '&c&lJUMP & GLIDE!'
+pvp_welcome:
+  location: world, -703999.625, 82.655, 446000.916
+  lines:
+  - '&5&lWelcome to &4&lPVP &5&lArena'
+ice_rink:
+  location: world, 210.244, 69.200, -3657.591
+  lines:
+  - '&c&lWelcome to Chalwk''s &bSpeed Boat Course'
+ice_rink_start:
+  location: world, 191.531, 67.200, -3656.700
+  lines:
+  - '&8<<<< &c&lStart Here &8>>>>'
+mobarena:
+  location: world, -998.700, 65.500, -1317.520
+  lines:
+  - '&b&lWelcome to Mob Arena 1'
+  - '&aBoss: &6&lSkeleton King'
+mobarena2:
+  location: world, -1078.679, 66.000, -1317.530
+  lines:
+  - '&b&lWelcome to Mob Arena 2'
+  - '&cUnder Development'
+mobarena3:
+  location: world, -1158.700, 66.000, -1317.449
+  lines:
+  - '&b&lWelcome to Mob Arena 3'
+  - '&aBoss: &6&lKreiger'
+  - '&f&l/warp mobarena3'
+mobarena4:
+  location: world, -1238.697, 66.000, -1317.545
+  lines:
+  - '&b&lWelcome to Mob Arena 4'
+  - '&aBoss: &5&lBongo Bongo'
+slimefun1:
+  location: world, -7352.528, 69.200, -5240.507
+  lines:
+  - '&1#1 The Guide'
+  - '&7(Slimefun)'
+slimefun2:
+  location: world, -7352.543, 69.200, -5248.660
+  lines:
+  - '&1#2 Basic Machines'
+  - '&7(Slimefun)'
+slimefunbook1:
+  location: world, -7350.337, 67.200, -5241.300
+  lines:
+  - 'ICON: enchanted book'
+slimefunbook2:
+  location: world, -7354.529, 67.200, -5241.300
+  lines:
+  - 'ICON: enchanted book'
+slimefun4:
+  location: world, -7358.492, 69.200, -5248.711
+  lines:
+  - '&1#4 MultiBlocks'
+  - '&7(Slimefun)'
+slimefun3:
+  location: world, -7358.522, 69.200, -5240.286
+  lines:
+  - '&1#3 Crafted Machines'
+  - '&7(Slimefun)'
+sk_warning:
+  location: world, -998.700, 67.200, -1317.413
+  lines:
+  - '&4&lWARNING:'
+  - '&cDo Not Enter this area if you don''t'
+  - '&chave decent armor and weapons!'
+frozen:
+  location: world, 296.747, 114.500, 108.494
+  lines:
+  - '&cYou have been Frozen!'
+  - '&7<<< &cWarning: Do Not Log Out! &7>>>'
+  - '&a&oPlease wait for instructions'
+  - '&a&ofrom a staff member.'
+parkour2:
+  location: world, -1613.238, 72.000, -1043.507
+  lines:
+  - '&bEasy Difficulty'
+  - '&4&lSTART HERE'
+parkour2_medium:
+  location: world, -1612.555, 79.000, -1043.538
+  lines:
+  - '&6Medium Diffuculty'
+  - '&4&lSTART HERE'
+parjour2_hard:
+  location: world, -1612.416, 84.000, -1043.468
+  lines:
+  - '&4Hard Difficulty'
+  - '&4&lSTART HERE'
+rtp:
+  location: world, 435.432, 89.200, -175.360
+  lines:
+  - '&3Teleport to the Wild!'
+  - '&f(&c/rtp&f)'
+  - '&f(&c/wild&f)'
+bongo_warning:
+  location: world, -1238.700, 67.200, -1317.529
+  lines:
+  - '&4&lWARNING:'
+  - '&cDo Not Enter this area if you don''t'
+  - '&chave decent armor and weapons!'
+kreiger_warning:
+  location: world, -1158.700, 67.200, -1317.517
+  lines:
+  - '&4&lWARNING:'
+  - '&cDo Not Enter this area if you don''t'
+  - '&chave decent armor and weapons!'
+s_forbidden:
+  location: world, -1288.700, 65.500, -1317.460
+  lines:
+  - '&f!! &cExtreme Warning &f!!'
+  - '&cDo not enter unless you''re truly prepared!'
+mobarena5:
+  location: world, -1307.580, 65.500, -1317.507
+  lines:
+  - '&b&lWelcome to Mob Arena 5'
+  - '&aBoss: &cMakuta Icarax'
+  - '&f(&6Leader of the Mob Alliance&f)'
+ma5_warning:
+  location: world, -1318.700, 67.200, -1317.584
+  lines:
+  - '&f&l!! &4&lWARNING + WARNING &f&l!!'
+  - '&cDo Not Enter this area if you don''t'
+  - '&chave decent armor and weapons!'
+  - '&c'
+  - '&cYa''ll gonna need Jesus after this fight.'
+  - '&cGod have mercy on your soul'
+archeryshop:
+  location: world, 749.485, 65.500, -175.661
+  lines:
+  - '&b&lSERVER ARCHERY SHOP'
+  - 'ICON: tipped arrow'
+archerrange:
+  location: world, 740.453, 65.200, -192.555
+  lines:
+  - '&6&lArchery Range'
+  - '&eThis way'
+historium:
+  location: world, 611.995, 64.500, 62.496
+  lines:
+  - '&4&lJeriCraft Historium'
+historium2:
+  location: world, 602.970, 64.500, 62.538
+  lines:
+  - '&4&lJeriCraft Historium'
+dust:
+  location: world, -3615.121, 104.200, -4053.609
+  lines:
+  - '&8&lSlimefun Dusts'
+runeshop:
+  location: world, 794.434, 66.500, -109.281
+  lines:
+  - '&b&lWelcome to'
+  - '&b&lCustom Runes Enchantment Shop'
+  - '&c/warp runeshop'
+random_runes:
+  location: world, 798.493, 66.500, -104.070
+  lines:
+  - '&bRandom Runes & Enchater''s'
+  - '&bthis way.'
+  - '&6Random Runes: Level''s 1-5'
+random_runes2:
+  location: world, 798.481, 66.500, -114.705
+  lines:
+  - '&bRandom Runes & Enchater''s'
+  - '&bthis way.'
+  - '&6Random Runes: Level''s 1-5'
+enchanter_v1:
+  location: world, 793.476, 68.200, -100.621
+  lines:
+  - '&b&lEnchater V1'
+enchanter_v12:
+  location: world, 793.369, 68.200, -118.492
+  lines:
+  - '&b&lEnchater V1'
+enchanter_v2:
+  location: world, 793.503, 68.200, -87.375
+  lines:
+  - '&b&lEnchanter V2'
+enchanter_v22:
+  location: world, 793.412, 68.200, -131.947
+  lines:
+  - '&b&lEnchater V2'
+runes_infocenter:
+  location: world, 525.536, 69.848, 148.700
+  lines:
+  - '&5&lCustom Runes'
+runewarp:
+  location: world, 525.577, 67.200, 149.139
+  lines:
+  - '&c/warp runeshop'
+rune_shop_enterence:
+  location: world, 771.767, 65.200, -109.479
+  lines:
+  - '&5&lRune Shop'
+cosmetics:
+  location: world, 519.300, 69.741, 126.968
+  lines:
+  - '&b&lUltra Cosmetics'
+donor_ranks:
+  location: world, 519.300, 70.743, 107.038
+  lines:
+  - '&b&lDonor Ranks'
+  - '&dwww.jericraft.enjin.com/shop'
+useful_warps_main:
+  location: world, 519.300, 69.623, 86.987
+  lines:
+  - '&b&lUseful Warps'
+toruneshop:
+  location: world, 419.498, 89.000, -175.294
+  lines:
+  - '&b&lTeleport to &5Rune Shop'
+  - '&f(&c/warp runeshop&f)'
+apartmentbuild2:
+  location: world, 720.498, 66.200, 358.560
+  lines:
+  - '&b&lApartment Building for Sale!'
+  - '&7$&b330,000'
+parkour_notice:
+  location: world, -1613.446, 72.075, -1048.529
+  lines:
+  - '&a&lYou will keep your Inventory/XP if you die'
+  - '&a&lin this region'
+'155':
+  location: world, -3099.015, 83.000, -2344.339
+  lines:
+  - '&3For assistance, call &5000&3.'
+'156':
+  location: world, -3053.430, 84.200, -2277.675
+  lines:
+  - '&3To rent an apartment, please contact &5awsmgrl888&3.'
+'157':
+  location: world, -2988.412, 84.200, -2264.519
+  lines:
+  - '&3Welcome to the &5Jericraft Bank&3!'
+'158':
+  location: world, -3094.944, 83.200, -2284.862
+  lines:
+  - '&3Welcome! Be sure to &5replant&3, thank you!'

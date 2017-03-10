@@ -1,0 +1,341 @@
+Inventories:
+  '20':
+    Time: 1458455364189
+    Exp: 587
+    Health: 13.5
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: FAST_DIGGING
+        Duration: 103
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12267.873232297166
+      y: 43.5
+      z: 5943.4155814205615
+      pitch: 14.099978
+      yaw: 314.8422
+    Items:
+      '1':
+        type: GRILLED_PORK
+        amount: 3
+  '21':
+    Time: 1459465467015
+    Exp: 589
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 13
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: FAST_DIGGING
+        Duration: 109
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12272.437492397352
+      y: 43.0
+      z: 5947.804052645141
+      pitch: 16.499996
+      yaw: -69.00758
+    Items:
+      '1':
+        type: GRILLED_PORK
+        amount: 2
+      '5':
+        type: STICK
+        amount: 3
+      '6':
+        type: STONE_PICKAXE
+      '7':
+        type: STONE_PICKAXE
+        damage: 25
+      '8':
+        type: STONE_SWORD
+  '22':
+    Time: 1459469875422
+    Exp: 589
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 13
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: FAST_DIGGING
+        Duration: 109
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12272.437492397352
+      y: 43.0
+      z: 5947.804052645141
+      pitch: 16.499996
+      yaw: -69.00758
+    Items:
+      '1':
+        type: GRILLED_PORK
+        amount: 2
+      '5':
+        type: STICK
+        amount: 3
+      '6':
+        type: STONE_PICKAXE
+      '7':
+        type: STONE_PICKAXE
+        damage: 25
+      '8':
+        type: STONE_SWORD
+  '23':
+    Time: 1459659265182
+    Exp: 589
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 13
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: FAST_DIGGING
+        Duration: 109
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12272.437492397352
+      y: 43.0
+      z: 5947.804052645141
+      pitch: 16.499996
+      yaw: -69.00758
+    Items:
+      '1':
+        type: GRILLED_PORK
+        amount: 2
+      '5':
+        type: STICK
+        amount: 3
+      '6':
+        type: STONE_PICKAXE
+      '7':
+        type: STONE_PICKAXE
+        damage: 25
+      '8':
+        type: STONE_SWORD
+  '24':
+    Time: 1459766739624
+    Exp: 589
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 13
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: FAST_DIGGING
+        Duration: 109
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12272.437492397352
+      y: 43.0
+      z: 5947.804052645141
+      pitch: 16.499996
+      yaw: -69.00758
+    Items:
+      '1':
+        type: GRILLED_PORK
+        amount: 2
+      '5':
+        type: STICK
+        amount: 3
+      '6':
+        type: STONE_PICKAXE
+      '7':
+        type: STONE_PICKAXE
+        damage: 25
+      '8':
+        type: STONE_SWORD
+  '25':
+    Time: 1459847490581
+    Exp: 589
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 13
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: FAST_DIGGING
+        Duration: 109
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12272.437492397352
+      y: 43.0
+      z: 5947.804052645141
+      pitch: 16.499996
+      yaw: -69.00758
+    Items:
+      '1':
+        type: GRILLED_PORK
+        amount: 2
+      '5':
+        type: STICK
+        amount: 3
+      '6':
+        type: STONE_PICKAXE
+      '7':
+        type: STONE_PICKAXE
+        damage: 25
+      '8':
+        type: STONE_SWORD
+  '26':
+    Time: 1460146825733
+    Exp: 589
+    Health: 17.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 12
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: FAST_DIGGING
+        Duration: 261
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12270.559413414228
+      y: 43.0
+      z: 5938.051859029503
+      pitch: 20.850012
+      yaw: 4.0426283
+    Items:
+      '1':
+        type: GRILLED_PORK
+        amount: 2
+      '5':
+        type: STICK
+        amount: 3
+      '6':
+        type: STONE_PICKAXE
+      '7':
+        type: STONE_PICKAXE
+        damage: 25
+      '8':
+        type: STONE_SWORD
+  '27':
+    Time: 1460883172976
+    Exp: 589
+    Health: 17.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 12
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: FAST_DIGGING
+        Duration: 261
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12270.559413414228
+      y: 43.0
+      z: 5938.051859029503
+      pitch: 20.850012
+      yaw: 4.0426283
+    Items:
+      '1':
+        type: GRILLED_PORK
+        amount: 2
+      '5':
+        type: STICK
+        amount: 3
+      '6':
+        type: STONE_PICKAXE
+      '7':
+        type: STONE_PICKAXE
+        damage: 25
+      '8':
+        type: STONE_SWORD
+  '28':
+    Time: 1462120697655
+    Exp: 589
+    Health: 17.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 12
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: FAST_DIGGING
+        Duration: 261
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12270.559413414228
+      y: 43.0
+      z: 5938.051859029503
+      pitch: 20.850012
+      yaw: 4.0426283
+    Items:
+      '1':
+        type: GRILLED_PORK
+        amount: 2
+      '5':
+        type: STICK
+        amount: 3
+      '6':
+        type: STONE_PICKAXE
+      '7':
+        type: STONE_PICKAXE
+        damage: 25
+      '8':
+        type: STONE_SWORD
+  '29':
+    Time: 1462483221919
+    Exp: 589
+    Health: 17.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 12
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: FAST_DIGGING
+        Duration: 261
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12270.559413414228
+      y: 43.0
+      z: 5938.051859029503
+      pitch: 20.850012
+      yaw: 4.0426283
+    Items:
+      '1':
+        type: GRILLED_PORK
+        amount: 2
+      '5':
+        type: STICK
+        amount: 3
+      '6':
+        type: STONE_PICKAXE
+      '7':
+        type: STONE_PICKAXE
+        damage: 25
+      '8':
+        type: STONE_SWORD

@@ -1,0 +1,79 @@
+# -----------------------------
+# AdminFunPlus Main Configuration
+# By: Trevor1134
+# -----------------------------
+# All functions work fine on their own
+# without modification of this file.
+#
+# In the event this file breaks, simply 
+# delete it for a clean one to be generated.
+# -----------------------------
+#
+#
+
+
+# Should AdminFun check for updates on each boot?
+adminfun:
+  check-for-updates: true
+
+# Command 'announce' configuration  
+announce:
+  # Format in which the message should be displayed.
+  # Place holders: %MSG% - the message, %player% - the person who sent the message.
+  format: '[Announcement] %MSG%'
+  
+  
+# Command 'dropparty' configuration
+drop-party:
+  # Amount of items to be dropped during the drop party.
+  amount: 15
+  # Items to drop during the drop party.
+  # @See: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html 
+  items: 
+    - 276
+    - 264
+    - 267
+    - 266
+    - 310
+    - 312
+    - 311
+    - 313
+    - 322
+    - 314
+    - 317
+    - 316
+    - 315
+    - 278
+    - 266
+    
+# Command 'fakequit' configuration
+fakequit:
+  format: '&e%player% has left the game.'
+  
+# Command 'fakejoin' configuration
+fakejoin:
+  format: '&e%player% has joined the game.'
+   
+# Command 'tell' configuration
+tell:
+  # The format to display the tell.
+  # By default, this is based off essentials /msg feature.
+  format: '&6[%FROM% &e-> &cme&6] &f%MSG%'
+
+# Command 'spamcast' configuration
+spamcast:
+  # The amount the message should be repeated.
+  amount: 10
+  
+# Commmand 'slap' configuration
+slap:
+  # The maximum damage that a slap can deal.
+  max-damage: 5
+  
+# command 'show' configuration
+show:
+  # The amount of fireworks to shoot off.
+  amount: 15
+  
+  
+# < -- End of Configuration

@@ -1,0 +1,491 @@
+Inventories:
+  '1':
+    Time: 1461234646556
+    Exp: 1154
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14726.595072638642
+      y: 71.0
+      z: 9138.703566038123
+      pitch: -24.031773
+      yaw: 137.53366
+    Items:
+      '6':
+        type: BOW
+        damage: 266
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '7':
+        type: DIAMOND_SWORD
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '24':
+        type: ARROW
+  '2':
+    Time: 1461234663107
+    Exp: 1154
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14695.441346012181
+      y: 68.0
+      z: 9117.257035703171
+      pitch: 8.872917
+      yaw: 151.43306
+    Items:
+      '0':
+        type: BOW
+        damage: 266
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '1':
+        type: DIAMOND_SWORD
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '3':
+        type: ARROW
+  '3':
+    Time: 1461234700411
+    Exp: 1154
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14688.193239350758
+      y: 68.0
+      z: 9101.710077609716
+      pitch: 69.860054
+      yaw: 108.60029
+    Items:
+      '0':
+        type: TORCH
+      '8':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+  '4':
+    Time: 1461245468918
+    Exp: 1173
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14707.699999988079
+      y: 68.0
+      z: 9108.699999988079
+      pitch: 11.42587
+      yaw: 173.27148
+    Items:
+      '0':
+        type: STAINED_GLASS_PANE
+        damage: 14
+        amount: 11
+      '1':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+  '5':
+    Time: 1461248244493
+    Exp: 1188
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 55962
+        Amplifier: 1
+    Location:
+      world: world
+      x: 14707.3750223962
+      y: 68.0
+      z: 9125.119122757382
+      pitch: -4.1754546
+      yaw: 355.92163
+  '6':
+    Time: 1461248279727
+    Exp: 1188
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14717.699999988079
+      y: 68.0
+      z: 9113.300000011921
+      pitch: 16.531809
+      yaw: 61.163666
+  '7':
+    Time: 1462120699498
+    Exp: 14791
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 71725
+        Amplifier: 1
+    Location:
+      world: world
+      x: 14843.762868791511
+      y: 73.77108990281556
+      z: 9303.363254139693
+      pitch: 31.282146
+      yaw: 269.5022
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 230
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSuper Pickaxe
+          lore:
+          - // sp recur <radius>
+          - //sp area <radius>
+          - // (to turn off)
+      '2':
+        type: DIAMOND_AXE
+        damage: 130
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_SPADE
+        damage: 73
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: STEP
+        damage: 4
+        amount: 38
+      '5':
+        type: SANDSTONE
+        damage: 2
+        amount: 46
+      '6':
+        type: SANDSTONE
+        damage: 2
+        amount: 64
+      '9':
+        type: STEP
+        damage: 4
+        amount: 64
+      '10':
+        type: STEP
+        amount: 64
+      '11':
+        type: SKULL_ITEM
+        damage: 5
+      '12':
+        type: STEP
+        amount: 57
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: RED_ROSE
+        damage: 7
+      '15':
+        type: YELLOW_FLOWER
+      '16':
+        type: SNOW_BALL
+        amount: 16
+      '17':
+        type: SNOW_BALL
+        amount: 6
+      '19':
+        type: TIPPED_ARROW
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: long_night_vision
+      '20':
+        type: STEP
+        damage: 4
+        amount: 13
+      '22':
+        type: DIRT
+        amount: 30
+      '23':
+        type: SANDSTONE_STAIRS
+      '25':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rRabbit Head
+          internal: H4sIAAAAAAAAAE2LT0+DMBxAfxpNGPFjeCUpfycHD0qWrGRUZQXW3mArjq7dFgYG+FR+RDl6fHnvmQAmPG1PvVKf7aVulDDgHh/guQ5C/6X0XMur/MryyiWywtBHliiDPaqQcGwvNMGcp6tou0bcFmB0Yuj6VtxMALgz4DEvVS/gV4wx4rsjOuxitR9xMDPdIvWB5XWJz/lYRTjAevbrt2Azhv9avysLXzE3PvLzV1/pHG3cVIl1au919sM1GwjN/ISeEKMrl9DTRArsMZlqXqwcIleI6VwS+d5w+T0wh9mJTI9cck0oQ8mUTGzKbFJkDqGHho1xWO/QK4ABD6TUAhbRNrq0YtNUAH8ral0XKgEAAA==
+          skull-owner: CSCoreLib
+      '26':
+        type: STEP
+        damage: 4
+        amount: 64
+      '29':
+        type: BIRCH_FENCE
+        amount: 54
+      '30':
+        type: BRICK
+        amount: 27
+  '8':
+    Time: 1462483223991
+    Exp: 32769
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 7.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 67300
+        Amplifier: 1
+    Location:
+      world: world
+      x: 14848.579896595455
+      y: 65.0
+      z: 9267.800078489225
+      pitch: 17.950102
+      yaw: 187.46698
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 701
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_AXE
+        damage: 135
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_SPADE
+        damage: 119
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '9':
+        type: STEP
+        damage: 4
+        amount: 64
+      '10':
+        type: SPRUCE_FENCE
+      '11':
+        type: OBSIDIAN
+        amount: 28
+      '12':
+        type: BRICK
+        amount: 3
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rRabbit Head
+          internal: H4sIAAAAAAAAAE2LT0+DMBxAfxpNGPFjeCUpfycHD0qWrGRUZQXW3mArjq7dFgYG+FR+RDl6fHnvmQAmPG1PvVKf7aVulDDgHh/guQ5C/6X0XMur/MryyiWywtBHliiDPaqQcGwvNMGcp6tou0bcFmB0Yuj6VtxMALgz4DEvVS/gV4wx4rsjOuxitR9xMDPdIvWB5XWJz/lYRTjAevbrt2Azhv9avysLXzE3PvLzV1/pHG3cVIl1au919sM1GwjN/ISeEKMrl9DTRArsMZlqXqwcIleI6VwS+d5w+T0wh9mJTI9cck0oQ8mUTGzKbFJkDqGHho1xWO/QK4ABD6TUAhbRNrq0YtNUAH8ral0XKgEAAA==
+          skull-owner: CSCoreLib
+      '14':
+        type: RED_ROSE
+        damage: 1
+        amount: 27
+      '15':
+        type: SNOW_BALL
+        amount: 12
+      '16':
+        type: STEP
+        amount: 55
+      '17':
+        type: SKULL_ITEM
+        damage: 5
+      '18':
+        type: BRICK
+        amount: 64
+      '19':
+        type: TIPPED_ARROW
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: long_night_vision
+      '20':
+        type: STEP
+        damage: 4
+        amount: 64
+      '21':
+        type: RED_ROSE
+        amount: 3
+      '22':
+        type: CAULDRON_ITEM
+        amount: 2
+      '23':
+        type: SANDSTONE
+        damage: 2
+        amount: 26
+      '24':
+        type: BUCKET
+      '25':
+        type: WOOD_PLATE
+      '26':
+        type: SHEARS
+      '27':
+        type: BRICK_STAIRS
+        amount: 6
+      '28':
+        type: COBBLESTONE
+        amount: 45
+      '29':
+        type: STEP
+        damage: 4
+        amount: 19
+      '30':
+        type: DARK_OAK_STAIRS
+        amount: 20

@@ -1,0 +1,421 @@
+Inventories:
+  '25':
+    Time: 1458455365745
+    Exp: 4
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.4
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9997256
+        Amplifier: 1
+    Location:
+      world: world
+      x: 424.7964090040192
+      y: 76.0
+      z: 107.21550698675375
+      pitch: -84.847984
+      yaw: 47.520332
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: PORK
+        amount: 2
+      '2':
+        type: LEATHER
+      '3':
+        type: LOG
+        amount: 7
+  '26':
+    Time: 1459465468204
+    Exp: 4
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.4
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9997256
+        Amplifier: 1
+    Location:
+      world: world
+      x: 424.7964090040192
+      y: 76.0
+      z: 107.21550698675375
+      pitch: -84.847984
+      yaw: 47.520332
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: PORK
+        amount: 2
+      '2':
+        type: LEATHER
+      '3':
+        type: LOG
+        amount: 7
+  '27':
+    Time: 1459469876469
+    Exp: 4
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.4
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9997256
+        Amplifier: 1
+    Location:
+      world: world
+      x: 424.7964090040192
+      y: 76.0
+      z: 107.21550698675375
+      pitch: -84.847984
+      yaw: 47.520332
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: PORK
+        amount: 2
+      '2':
+        type: LEATHER
+      '3':
+        type: LOG
+        amount: 7
+  '28':
+    Time: 1459659266236
+    Exp: 4
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.4
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9997256
+        Amplifier: 1
+    Location:
+      world: world
+      x: 424.7964090040192
+      y: 76.0
+      z: 107.21550698675375
+      pitch: -84.847984
+      yaw: 47.520332
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: PORK
+        amount: 2
+      '2':
+        type: LEATHER
+      '3':
+        type: LOG
+        amount: 7
+  '29':
+    Time: 1459766740704
+    Exp: 4
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.4
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9997256
+        Amplifier: 1
+    Location:
+      world: world
+      x: 424.7964090040192
+      y: 76.0
+      z: 107.21550698675375
+      pitch: -84.847984
+      yaw: 47.520332
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: PORK
+        amount: 2
+      '2':
+        type: LEATHER
+      '3':
+        type: LOG
+        amount: 7
+  '30':
+    Time: 1459847491991
+    Exp: 4
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.4
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9997256
+        Amplifier: 1
+    Location:
+      world: world
+      x: 424.7964090040192
+      y: 76.0
+      z: 107.21550698675375
+      pitch: -84.847984
+      yaw: 47.520332
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: PORK
+        amount: 2
+      '2':
+        type: LEATHER
+      '3':
+        type: LOG
+        amount: 7
+  '31':
+    Time: 1460146826954
+    Exp: 4
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.4
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9997256
+        Amplifier: 1
+    Location:
+      world: world
+      x: 424.7964090040192
+      y: 76.0
+      z: 107.21550698675375
+      pitch: -84.847984
+      yaw: 47.520332
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: PORK
+        amount: 2
+      '2':
+        type: LEATHER
+      '3':
+        type: LOG
+        amount: 7
+  '32':
+    Time: 1460883174063
+    Exp: 4
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.4
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9997256
+        Amplifier: 1
+    Location:
+      world: world
+      x: 424.7964090040192
+      y: 76.0
+      z: 107.21550698675375
+      pitch: -84.847984
+      yaw: 47.520332
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: PORK
+        amount: 2
+      '2':
+        type: LEATHER
+      '3':
+        type: LOG
+        amount: 7
+  '33':
+    Time: 1462120698813
+    Exp: 4
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.4
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9997256
+        Amplifier: 1
+    Location:
+      world: world
+      x: 424.7964090040192
+      y: 76.0
+      z: 107.21550698675375
+      pitch: -84.847984
+      yaw: 47.520332
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: PORK
+        amount: 2
+      '2':
+        type: LEATHER
+      '3':
+        type: LOG
+        amount: 7
+  '34':
+    Time: 1462483223235
+    Exp: 4
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.4
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9997256
+        Amplifier: 1
+    Location:
+      world: world
+      x: 424.7964090040192
+      y: 76.0
+      z: 107.21550698675375
+      pitch: -84.847984
+      yaw: 47.520332
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: PORK
+        amount: 2
+      '2':
+        type: LEATHER
+      '3':
+        type: LOG
+        amount: 7

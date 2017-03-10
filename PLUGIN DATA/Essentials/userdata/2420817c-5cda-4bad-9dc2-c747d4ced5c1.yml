@@ -1,0 +1,22 @@
+lastAccountName: Freorabican
+timestamps:
+  login: 1470208829120
+  lastteleport: 1469880674129
+  logout: 1470208842727
+ipAddress: 77.248.220.113
+geolocation: Netherlands
+lastlocation:
+  world: world
+  x: 510.0726817887255
+  y: 66.5
+  z: 49.91630918876088
+  yaw: 264.85095
+  pitch: 20.399982
+logoutlocation:
+  world: world
+  x: 14267.64836012369
+  y: 73.0
+  z: 8948.979657584225
+  yaw: -200.49968
+  pitch: 72.81153
+money: '2500'

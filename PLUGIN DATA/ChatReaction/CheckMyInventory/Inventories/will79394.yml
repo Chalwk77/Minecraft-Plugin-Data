@@ -1,0 +1,1385 @@
+Inventories:
+  '16':
+    Time: 1458453204995
+    Exp: 391747
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -2.0366925110001147E7
+      y: 85.1454427593471
+      z: -1.285171564644796E7
+      pitch: 9.783674
+      yaw: 244.86707
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIRT
+      '8':
+        type: BOW
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '9':
+        type: CARROT_ITEM
+      '10':
+        type: COAL
+        amount: 64
+      '11':
+        type: GRASS
+        amount: 8
+      '12':
+        type: SPONGE
+        amount: 61
+      '13':
+        type: STONE
+        damage: 1
+        amount: 64
+      '14':
+        type: COAL
+        amount: 59
+      '15':
+        type: STONE
+        damage: 3
+        amount: 9
+      '16':
+        type: DIODE
+        amount: 4
+      '17':
+        type: STONE
+        damage: 5
+        amount: 38
+      '18':
+        type: COOKED_CHICKEN
+      '19':
+        type: FLINT
+        amount: 10
+      '20':
+        type: FEATHER
+        amount: 7
+      '21':
+        type: SPONGE
+        damage: 1
+        amount: 3
+      '22':
+        type: SMOOTH_BRICK
+        amount: 4
+      '23':
+        type: REDSTONE_TORCH_ON
+        amount: 18
+      '24':
+        type: WOOD_AXE
+      '25':
+        type: ROTTEN_FLESH
+        amount: 18
+      '35':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+  '17':
+    Time: 1458455060250
+    Exp: 392138
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -18474.066652632726
+      y: 75.21885067718723
+      z: -19888.60560794965
+      pitch: 67.12123
+      yaw: 309.51874
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: WOOD_AXE
+      '5':
+        type: SEA_LANTERN
+        amount: 60
+      '6':
+        type: BUCKET
+      '7':
+        type: STONE
+        damage: 5
+        amount: 8
+      '8':
+        type: BOW
+        damage: 53
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '9':
+        type: CARROT_ITEM
+      '10':
+        type: COAL
+        amount: 64
+      '11':
+        type: GRASS
+        amount: 8
+      '12':
+        type: SPONGE
+        amount: 61
+      '13':
+        type: STONE
+        damage: 1
+        amount: 64
+      '14':
+        type: COAL
+        amount: 59
+      '15':
+        type: STONE
+        damage: 3
+        amount: 9
+      '16':
+        type: DIODE
+        amount: 4
+      '17':
+        type: PACKED_ICE
+        amount: 41
+      '18':
+        type: COOKED_CHICKEN
+      '19':
+        type: FLINT
+        amount: 10
+      '20':
+        type: FEATHER
+        amount: 7
+      '21':
+        type: SPONGE
+        damage: 1
+        amount: 3
+      '22':
+        type: IRON_INGOT
+        amount: 6
+      '23':
+        type: REDSTONE_TORCH_ON
+        amount: 18
+      '24':
+        type: IRON_INGOT
+        amount: 4
+      '25':
+        type: ROTTEN_FLESH
+        amount: 18
+      '26':
+        type: SNOW_BALL
+        amount: 4
+      '27':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '28':
+        type: DIAMOND
+        amount: 4
+      '29':
+        type: EMERALD
+        amount: 4
+      '30':
+        type: GOLD_INGOT
+        amount: 4
+      '31':
+        type: SMOOTH_BRICK
+        amount: 3
+      '32':
+        type: ICE
+        amount: 3
+      '35':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+  '18':
+    Time: 1458455349529
+    Exp: 392148
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -18510.591678157944
+      y: 80.60167973030761
+      z: -19922.15985039566
+      pitch: 11.746759
+      yaw: 57.220947
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '5':
+        type: SEA_LANTERN
+        amount: 60
+      '6':
+        type: BUCKET
+      '7':
+        type: STONE
+        damage: 5
+        amount: 8
+      '8':
+        type: BOW
+        damage: 53
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '9':
+        type: CARROT_ITEM
+      '10':
+        type: COAL
+        amount: 64
+      '11':
+        type: GRASS
+        amount: 8
+      '12':
+        type: SPONGE
+        amount: 61
+      '13':
+        type: STONE
+        damage: 1
+        amount: 64
+      '14':
+        type: COAL
+        amount: 59
+      '15':
+        type: STONE
+        damage: 3
+        amount: 9
+      '16':
+        type: DIODE
+        amount: 4
+      '17':
+        type: PACKED_ICE
+        amount: 41
+      '18':
+        type: COOKED_CHICKEN
+      '19':
+        type: FLINT
+        amount: 10
+      '20':
+        type: FEATHER
+        amount: 7
+      '21':
+        type: SPONGE
+        damage: 1
+        amount: 3
+      '22':
+        type: IRON_INGOT
+        amount: 6
+      '23':
+        type: REDSTONE_TORCH_ON
+        amount: 18
+      '24':
+        type: IRON_INGOT
+        amount: 4
+      '25':
+        type: ROTTEN_FLESH
+        amount: 18
+      '26':
+        type: SNOW_BALL
+        amount: 4
+      '27':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '28':
+        type: DIAMOND
+        amount: 4
+      '29':
+        type: EMERALD
+        amount: 4
+      '30':
+        type: GOLD_INGOT
+        amount: 4
+      '31':
+        type: SMOOTH_BRICK
+        amount: 3
+      '32':
+        type: ICE
+        amount: 3
+      '33':
+        type: PRISMARINE_CRYSTALS
+        amount: 18
+      '34':
+        type: WOOD_AXE
+      '35':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+  '19':
+    Time: 1459230774665
+    Exp: 1601290
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703963.8066321865
+      y: 72.4807108763317
+      z: 445966.0166273272
+      pitch: 20.586012
+      yaw: -81.81021
+    Items:
+      '8':
+        type: DIAMOND_SWORD
+        damage: 292
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+  '20':
+    Time: 1459231184616
+    Exp: 1601299
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -704025.0488459569
+      y: 72.36553898206128
+      z: 445992.67312802695
+      pitch: 34.112007
+      yaw: 349.9491
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '20':
+        type: GOLD_NUGGET
+  '21':
+    Time: 1459465468022
+    Exp: 1601775
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3079.0533579013327
+      y: 71.37250028874091
+      z: -5122.411114312322
+      pitch: 51.2537
+      yaw: -5.5771484
+    Items:
+      '0':
+        type: BOW
+        damage: 117
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '1':
+        type: DIAMOND_SWORD
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_SPADE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: FLINT
+        amount: 27
+      '8':
+        type: SIGN
+        amount: 15
+      '9':
+        type: LAPIS_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '10':
+        type: REDSTONE_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '11':
+        type: QUARTZ_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '12':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '13':
+        type: GOLD_INGOT
+      '15':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '16':
+        type: DIAMOND_LEGGINGS
+        damage: 121
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '17':
+        type: DIAMOND_CHESTPLATE
+        damage: 121
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '18':
+        type: DIAMOND_HELMET
+        damage: 121
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '19':
+        type: EMERALD_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '20':
+        type: DIAMOND_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '21':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '22':
+        type: DIAMOND
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '23':
+        type: DIAMOND_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '24':
+        type: EMERALD_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '25':
+        type: EMERALD
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '26':
+        type: GOLD_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '27':
+        type: IRON_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '28':
+        type: COAL_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '29':
+        type: COOKED_BEEF
+        amount: 4
+      '30':
+        type: WOOD_AXE
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '22':
+    Time: 1459469876294
+    Exp: 1601879
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2887.719832918163
+      y: 78.68121942849584
+      z: -3436.5849807712016
+      pitch: 10.467984
+      yaw: -357.8026
+    Items:
+      '0':
+        type: BOW
+        damage: 132
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '1':
+        type: DIAMOND_SWORD
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_SPADE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: SPIDER_EYE
+        amount: 5
+      '5':
+        type: STRING
+        amount: 10
+      '6':
+        type: ROTTEN_FLESH
+        amount: 14
+      '8':
+        type: SIGN
+        amount: 15
+      '9':
+        type: LAPIS_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '10':
+        type: REDSTONE_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '11':
+        type: QUARTZ_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '12':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '13':
+        type: GOLD_INGOT
+      '14':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '15':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '16':
+        type: DIAMOND_LEGGINGS
+        damage: 121
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '17':
+        type: DIAMOND_CHESTPLATE
+        damage: 121
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '18':
+        type: DIAMOND_HELMET
+        damage: 121
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '19':
+        type: EMERALD_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '20':
+        type: DIAMOND_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '21':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '22':
+        type: DIAMOND
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '23':
+        type: DIAMOND_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '24':
+        type: EMERALD_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '25':
+        type: EMERALD
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '26':
+        type: GOLD_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '27':
+        type: IRON_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '28':
+        type: COAL_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '29':
+        type: COOKED_BEEF
+        amount: 4
+      '30':
+        type: WOOD_AXE
+      '31':
+        type: FLINT
+        amount: 27
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '23':
+    Time: 1459659266040
+    Exp: 1685727
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2459.6584627827747
+      y: 76.53260614832628
+      z: -4066.220082349955
+      pitch: 39.33172
+      yaw: -262.05725
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 209
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_SPADE
+        damage: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '7':
+        type: FLINT
+        amount: 9
+      '8':
+        type: FLINT_AND_STEEL
+        damage: 35
+      '10':
+        type: IRON_ORE
+        amount: 4
+      '11':
+        type: STONE
+        damage: 1
+        amount: 12
+      '12':
+        type: DIRT
+        amount: 9
+      '15':
+        type: GRASS
+        amount: 64
+      '16':
+        type: GRASS
+        amount: 15
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: ELYTRA
+        damage: 364
+  '24':
+    Time: 1459766730073
+    Exp: 1700809
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -12405.324457545623
+      y: 63.0
+      z: 16993.02677996891
+      pitch: 11.644344
+      yaw: 3.1053443
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 242
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 735
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_SPADE
+        damage: 103
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: SKULL_ITEM
+        damage: 1
+      '5':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '7':
+        type: IRON_INGOT
+        amount: 3
+      '8':
+        type: STEP
+        damage: 5
+        amount: 56
+      '9':
+        type: ROTTEN_FLESH
+      '10':
+        type: FLINT
+        amount: 52
+      '11':
+        type: PRISMARINE_CRYSTALS
+        amount: 26
+      '12':
+        type: BUCKET
+      '17':
+        type: ARROW
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: ELYTRA
+        damage: 431
+  '25':
+    Time: 1459847491641
+    Exp: 1702599
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2773.597698784379
+      y: 69.17975696815427
+      z: 3485.091317599536
+      pitch: 21.44874
+      yaw: -20.246391
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 337
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 739
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_SPADE
+        damage: 104
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: FISHING_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            LUCK: 3
+            LURE: 3
+            MENDING: 1
+          repair-cost: 7
+      '5':
+        type: RAW_FISH
+        damage: 3
+      '8':
+        type: DARK_OAK_STAIRS
+        amount: 3
+      '9':
+        type: DIAMOND_BOOTS
+        damage: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: k6kiirdOverlordk6kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            FROST_WALKER: 1
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '13':
+        type: WOOD
+        damage: 5
+        amount: 10
+      '16':
+        type: ITEM_FRAME
+      '17':
+        type: ARROW
+      '23':
+        type: LOG_2
+        damage: 1
+        amount: 60
+      '38':
+        type: ELYTRA
+        damage: 431

@@ -1,0 +1,44 @@
+config:
+ 
+  # This is used for React to manage itself between updates
+  # It keeps your configs clean and tidy.
+  # Changing this will confuse react a bit :P
+  # Default Value: 1
+  version: 1
+photon:
+  relight:
+ 
+    # PHOTON! It removes plenty of lighting glitches with a cost...
+    # MORE CPU, LESS LIGHTING GLITCHES
+    # Set this to true to enable it.
+    # Default Value: false
+    enabled: false
+    limits:
+ 
+      # Max ms to use when correcting lighting glitches.
+      # Default Value: 8
+      max-ms: 8
+ 
+      # Max size of the <to be lit> cache.
+      # Default Value: 1024
+      max-cache-size: 1024
+ 
+      # Max amount of simultanious chunk light jobs at once. 
+      # This splits your max ms to the entire pool
+      # Default Value: 24
+      max-pool-size: 24
+    constraints:
+ 
+      # Photon will stop lighting chunks after the tps has dropped below this value.
+      # Usually if you have a great cpu, default is fine.
+      # Default Value: 19.7
+      clamp-below-tps: 19.7
+ 
+      # Radius of chunks to cache per sample.
+      # Default Value: 2
+      chunk-radius: 2
+ 
+      # The percent of effectiveness from 0 to 1.
+      # The higher, the better, but more bandwidth and cpu is consumed.
+      # Default Value: 0.4
+      effectiveness-percent: 0.4

@@ -1,0 +1,528 @@
+options:
+  options:
+    warmups_enabled: false
+    cooldowns_enabled: true
+    prices_enabled: true
+    item_cost_enabled: true
+    xp_cost_enabled: true
+    limits_enabled: true
+    auto_save_enabled_CAN_CAUSE_BIG_LAGS: false
+    save_interval_in_minutes: 15
+    cancel_warmup_on_damage: false
+    cancel_warmup_on_move: false
+    cancel_warmup_on_sneak: false
+    cancel_warmup_on_sprint: false
+    cancel_warmup_on_gamemode_change: false
+    block_interact_during_warmup: false
+    clear_on_restart: false
+    clear_uses_on_death: false
+    clear_cooldowns_on_death: false
+    start_cooldowns_on_death: false
+    command_logging: false
+    command_signs: true
+    syntax_blocker_enabled: true
+  units:
+    seconds: seconds
+    minutes: minutes
+    hours: hours
+  messages:
+    warmup_cancelled_by_damage: '&6Warm-ups have been cancelled due to receiving damage.&f'
+    warmup_cancelled_by_move: '&6Warm-ups have been cancelled due to moving.&f'
+    warmup_cancelled_by_sprint: '&6Warm-ups have been cancelled due to sprinting.&f'
+    warmup_cancelled_by_sneak: '&6Warm-ups have been cancelled due to sneaking.&f'
+    warmup_cancelled_by_gamemode_change: '&6Warm-ups have been cancelled due to changing
+      gamemode.&f'
+    cooling_down: '&6Wait&e &seconds& &unit&&6 before you can use command&e &command&
+      &6again.&f'
+    warming_up: '&6Wait&e &seconds& &unit&&6 before command&e &command& &6has warmed
+      up.&f'
+    warmup_already_started: '&6Warm-Up process for&e &command& &6has already started.&f'
+    paid_error: '&6An error has occured:&e %s'
+    insufficient_funds: '&6You have insufficient funds!&e &command& &6costs &e%s &6but
+      you only have &e%s'
+    paid_for_command: '&6Price of&e &command& &6was&e %s &6and you now have&e %s'
+    paid_items_for_command: '&6Price of&e &command& &6was &e%s'
+    paid_xp_for_command: '&6Price of&e &command& &6was &e%s levels'
+    insufficient_items: '&6You have not enough items!&e &command& &6needs &e%s'
+    insufficient_xp: '&6You have not enough XP!&e &command& &6needs &e%s'
+    limit_achieved: '&6You cannot use this command anymore!&f'
+    limit_reset: '&6Wait&e &seconds& &unit&&6 before your limit for command&e &command&
+      &6is reset.&f'
+    limit_reset_now: '&6Reseting limits for command&e &command& &6now!&f'
+    limit_list: '&6Limit for command &e&command&&6 is &e&limit&&6. You can still use
+      it &e&times&&6 times.&f'
+    interact_blocked_during_warmup: '&6You can''t do this when command is warming-up!&f'
+    cannot_create_sign: '&f[&cJeriCraft&f] &6You are not allowed to create these kind of signs!&f'
+    cannot_use_sign: '&f[&cJeriCraft&f] &6You are not allowed to use this sign!&f'
+    invalid_command_syntax: '&f[&cJeriCraft&f] &cAccess Denied!'
+    confirmation_message: '&6Would you like to use command&e &command& &6?'
+    confirmation_price_of_command: '&6its price is&e &price& &6and you now have &e&balance&'
+    confirmation_item_price_of_command: '&6its price is&e &itemprice& &itemname&'
+    confirmation_limit_of_command: '&6it is limited to&e &limit& &6uses and you can still use it&e &uses& &6times'
+    confirmation_xp_price_of_command: '&6its price is&e &xpprice& experience levels'
+    confirmation_confirm_command_execution: 'Yes'
+    confirmation_cancel_command_execution: 'No'
+    confirmation_command_cancelled: '&6Execution of command&e &command& &6was cancelled'
+#INFO:
+#<category> can be cooldown, warmup, price, itemcost, xpcost, limit, message
+#<command> can be * or any command starting with / (to add command with parameters, replace spaces with _ like /home_set)
+#<value> can be number (for warmup, cooldown, price, xpcost, limit), ITEM,number (for itemcost), string for message (cannot contain spaces right now, edit config.yml instead)
+#[group] can be any group, if not specified, will be set for default group
+commands:
+  groups:
+    Trial-Moderator:
+      /rtp:
+        cooldown: 25 seconds
+      /warp clinic:
+        cooldown: 10 minutes
+      /fly:
+        cooldown: 25 seconds
+      /fix:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 1 minute
+      /erepair all:
+        cooldown: 1 minute
+      /fix hand:
+        cooldown: 1 minute
+      /efix hand:
+        cooldown: 1 minute
+      /erepair hand:
+        cooldown: 1 minute
+      /efix:
+        cooldown: 1 minute 
+    Modeartor:
+      /warp clinic:
+        cooldown: 10 minutes
+      /erepair:
+        cooldown: 30 minutes
+      /fix:
+        cooldown: 30 minutes
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 30 minutes
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 30 minutes
+      /erepair all:
+        cooldown: 30 minutes
+      /fix hand:
+        cooldown: 30 minutes
+      /efix hand:
+        cooldown: 30 minutes 
+      /erepair hand:
+        cooldown: 30 minutes 
+      /efix:
+        cooldown: 30 minutes         
+    Citizen:
+      /rtp:
+        cooldown: 25 seconds
+      /warp clinic:
+        cooldown: 10 minutes
+      /fly:
+        cooldown: 25 seconds
+      /fix:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 1 minute
+      /erepair all:
+        cooldown: 1 minute
+      /fix hand:
+        cooldown: 1 minute
+      /efix hand:
+        cooldown: 1 minute
+      /erepair hand:
+        cooldown: 1 minute
+      /efix:
+        cooldown: 1 minute    
+    Member:
+      /fly:
+        cooldown: 25 seconds
+      /warp clinic:
+        cooldown: 10 minutes
+        price: 10
+      /fix:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 1 minute
+      /erepair all:
+        cooldown: 1 minute
+      /fix hand:
+        cooldown: 1 minute
+      /efix hand:
+        cooldown: 1 minute
+      /erepair hand:
+        cooldown: 1 minute
+      /efix:
+        cooldown: 1 minute        
+    Squire:
+      /fly:
+        cooldown: 25 seconds
+      /warp clinic:
+        cooldown: 10 minutes
+      /fix:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 1 minute
+      /erepair all:
+        cooldown: 1 minute
+      /fix hand:
+        cooldown: 1 minute
+      /efix hand:
+        cooldown: 1 minute
+      /erepair hand:
+        cooldown: 1 minute
+      /efix:
+        cooldown: 1 minute
+    Titan:
+      /fly:
+        cooldown: 25 seconds
+      /warp clinic:
+        cooldown: 10 minutes
+      /fix:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 1 minute
+      /erepair all:
+        cooldown: 1 minute
+      /fix hand:
+        cooldown: 1 minute
+      /efix hand:
+        cooldown: 1 minute
+      /erepair hand:
+        cooldown: 1 minute
+      /efix:
+        cooldown: 1 minute    
+    Mortal:
+      /fly:
+        cooldown: 25 seconds
+      /warp clinic:
+        cooldown: 10 minutes
+      /fix:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 1 minute
+      /erepair all:
+        cooldown: 1 minute
+      /fix hand:
+        cooldown: 1 minute
+      /efix hand:
+        cooldown: 1 minute
+      /erepair hand:
+        cooldown: 1 minute
+      /efix:
+        cooldown: 1 minute
+    Elder:
+      /fly:
+        cooldown: 25 seconds
+      /warp clinic:
+        cooldown: 10 minutes
+      /fix:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 1 minute
+      /erepair all:
+        cooldown: 1 minute
+      /fix hand:
+        cooldown: 1 minute
+      /efix hand:
+        cooldown: 1 minute
+      /erepair hand:
+        cooldown: 1 minute
+      /efix:
+        cooldown: 1 minute
+    Odwar:
+      /fly:
+        cooldown: 25 seconds
+      /warp clinic:
+        cooldown: 10 minutes
+      /fix:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 1 minute
+      /erepair all:
+        cooldown: 1 minute
+      /fix hand:
+        cooldown: 1 minute
+      /efix hand:
+        cooldown: 1 minute
+      /erepair hand:
+        cooldown: 1 minute
+      /efix:
+        cooldown: 1 minute       
+    Builder:
+      /fly:
+        cooldown: 25 seconds
+      /warp clinic:
+        cooldown: 10 minutes
+      /fix:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 1 minute
+      /erepair all:
+        cooldown: 1 minute
+      /fix hand:
+        cooldown: 1 minute
+      /efix hand:
+        cooldown: 1 minute
+      /erepair hand:
+        cooldown: 1 minute
+      /efix:
+        cooldown: 1 minute  
+    Builder_plus:
+      /fly:
+        cooldown: 25 seconds
+      /warp clinic:
+        cooldown: 10 minutes
+      /fix:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 1 minute
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 1 minute
+      /erepair all:
+        cooldown: 1 minute
+      /fix hand:
+        cooldown: 1 minute
+      /efix hand:
+        cooldown: 1 minute
+      /erepair hand:
+        cooldown: 1 minute
+      /efix:
+        cooldown: 1 minute          
+    Architect:
+      /fly:
+        cooldown: 25 seconds
+      /warp clinic:
+        cooldown: 10 minutes
+      /erepair:
+        cooldown: 30 minutes
+      /fix:
+        cooldown: 30 minutes
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 30 minutes
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 30 minutes
+      /erepair all:
+        cooldown: 30 minutes
+      /fix hand:
+        cooldown: 30 minutes
+      /efix hand:
+        cooldown: 30 minutes 
+      /erepair hand:
+        cooldown: 30 minutes 
+      /efix:
+        cooldown: 30 minutes            
+    Legend:
+      /fly:
+        cooldown: 25 seconds
+      /warp clinic:
+        cooldown: 10 minutes
+      /fix:
+        cooldown: 30 minutes
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 30 minutes
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 30 minutes
+      /erepair all:
+        cooldown: 30 minutes
+      /fix hand:
+        cooldown: 30 minutes
+      /efix hand:
+        cooldown: 30 minutes 
+      /erepair hand:
+        cooldown: 30 minutes 
+      /efix:
+        cooldown: 30 minutes        
+    Owner:
+      /fly:
+        cooldown: 25 seconds
+      /warp clinic:
+        cooldown: 10 minutes
+      /fix:
+        cooldown: 30 minutes
+        shared_cooldown:
+        - /efix hand
+        - /fix hand
+        - /erepair hand
+        - /erepair
+        - /efix
+      /fix all:
+        cooldown: 30 minutes
+        shared_cooldown:
+        - /erepair all
+        - /efix all
+      /efix all:
+        cooldown: 30 minutes
+      /erepair all:
+        cooldown: 30 minutes
+      /fix hand:
+        cooldown: 30 minutes
+      /efix hand:
+        cooldown: 30 minutes 
+      /erepair hand:
+        cooldown: 30 minutes 
+      /efix:
+        cooldown: 30 minutes 
+
+  aliases:
+    /newcommand: /originalcommand
+    /pw: /kit pw
+    /spy: /pcl allow
+    /pmv: /etell
+    /a: /achat
+    /lc: /hchat
+    /ec: /customec open
+    /staff: /kit book
+    /wild: /rtp
+    /fs: /speed
+    /fs 1: /speed 1
+    /fs 2: /speed 2
+    /fs 3: /speed 3
+    /fs 4: /speed 4
+    /fs 5: /speed 5
+    /fs 6: /speed 6
+    /fs 7: /speed 7
+    /fs 8: /speed 8
+    /fs 9: /speed 9
+    /fs 10: /speed 10
+    /ec *: /customec open $1 $2 $*
+    /ecv *: /cmi ender $1 $2 $*
+global:
+  /test:
+    limit_reset_delay: 1 hour
+  /original *:
+    limit_reset_delay: 360 minutes

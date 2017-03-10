@@ -1,0 +1,274 @@
+Inventories:
+  '1':
+    Time: 1460883174070
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 13.400002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4044
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4044
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 444
+        Amplifier: 3
+    Location:
+      world: world
+      x: -310431.1374999881
+      y: 65.0
+      z: -625941.6608580705
+      pitch: 17.535093
+      yaw: 93.7446
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+  '2':
+    Time: 1462120698822
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 13.400002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4044
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4044
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 444
+        Amplifier: 3
+    Location:
+      world: world
+      x: -310431.1374999881
+      y: 65.0
+      z: -625941.6608580705
+      pitch: 17.535093
+      yaw: 93.7446
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+  '3':
+    Time: 1462483223246
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 13.400002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4044
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4044
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 444
+        Amplifier: 3
+    Location:
+      world: world
+      x: -310431.1374999881
+      y: 65.0
+      z: -625941.6608580705
+      pitch: 17.535093
+      yaw: 93.7446
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib

@@ -1,0 +1,148 @@
+PlayerLastName: YearlyWriter
+EnderChestSize: 54
+EnderChestInventory:
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE_AXE
+    damage: 1
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE
+    damage: 3
+    amount: 4
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 15
+    amount: 4
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: PORK
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE_SPADE
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD_PICKAXE
+    damage: 22
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    damage: 1
+    amount: 64
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: WORKBENCH
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: SAPLING
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §4Tomato Plant
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE_HOE
+  '28':
+    ==: org.bukkit.inventory.ItemStack
+    type: SAPLING
+    damage: 1
+    amount: 6
+  '29':
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE_AXE
+    damage: 1
+  '30':
+    ==: org.bukkit.inventory.ItemStack
+    type: COBBLESTONE
+    amount: 18
+  '31':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    amount: 4
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE_HOE
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rPig Head
+      internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJgqzx0EODbV0iHxVR3L0tsIafXTUIBvpUfcR67HEyMyaACS/bplfquz0fKyUNeKQFvBZFLnIhhUUIOVozj8wt4c4ySwo5zV1HFg6xTTDv00W2XSWvEzA6OXR9K68mADwY8LwXqpfwK8fA5ofSLg6BykdK7pxsbRXR+jKnp/2Y+ZRQfferd7IeF/9arxOpp5gblPy06TO9t9durOQqnuZ6d8OaDlizGU+ZyxzqRmncRGk4hhpV6GwGXqPGL6xQ70ZMdl60bH5YzRtexyUumYfJh80T5qATDqg/S/SDxfFgvwEY8IRCS5j4W//cynWVAfwB7qosRCoBAAA=
+      skull-owner: CSCoreLib
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: SEEDS
+    amount: 4
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE_SWORD
+    damage: 80
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE_SWORD
+    damage: 80
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 7
+    amount: 2
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: SAPLING
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §rGlowstone Plant
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE_SPADE
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: SAND
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    amount: 2
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE_PICKAXE
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: MUTTON
+    amount: 8
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: BONE
+    amount: 4
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rRabbit Head
+      internal: H4sIAAAAAAAAAE2LT0+DMBxAfxpNGPFjeCUpfycHD0qWrGRUZQXW3mArjq7dFgYG+FR+RDl6fHnvmQAmPG1PvVKf7aVulDDgHh/guQ5C/6X0XMur/MryyiWywtBHliiDPaqQcGwvNMGcp6tou0bcFmB0Yuj6VtxMALgz4DEvVS/gV4wx4rsjOuxitR9xMDPdIvWB5XWJz/lYRTjAevbrt2Azhv9avysLXzE3PvLzV1/pHG3cVIl1au919sM1GwjN/ISeEKMrl9DTRArsMZlqXqwcIleI6VwS+d5w+T0wh9mJTI9cck0oQ8mUTGzKbFJkDqGHho1xWO/QK4ABD6TUAhbRNrq0YtNUAH8ral0XKgEAAA==
+      skull-owner: CSCoreLib
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: RAW_BEEF
+    amount: 38
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIRT
+    amount: 6
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER
+    amount: 18
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    damage: 1
+    amount: 54

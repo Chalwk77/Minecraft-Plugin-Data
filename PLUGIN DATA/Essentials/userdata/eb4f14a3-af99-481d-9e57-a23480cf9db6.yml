@@ -1,0 +1,104 @@
+lastAccountName: OnlyFeisty
+timestamps:
+  login: 1479090680301
+  logout: 1479090691346
+  lastteleport: 1476963657321
+  kits:
+    glass: 1461481619079
+    color: 1461481666640
+    dtools: 1476592799584
+    tools: 1476592759656
+    food: 1468313445631
+    clay: 1461481576718
+  jail: 0
+ipAddress: 60.228.33.194
+geolocation: Australia
+lastlocation:
+  world: world
+  x: 16372.446434763517
+  y: 83.35781342016054
+  z: -8859.699999988079
+  yaw: -146.6446
+  pitch: 72.12886
+logoutlocation:
+  world: world
+  x: 5740.715559775953
+  y: 68.0
+  z: -17254.34755130139
+  yaw: -174.50644
+  pitch: 35.006283
+money: '238456.16626666666640820'
+homes:
+  erin:
+    world: world
+    x: 5402.928591287049
+    y: 71.0
+    z: -17210.267926000426
+    yaw: 87.452515
+    pitch: 51.38164
+  home:
+    world: world
+    x: 5701.737230449295
+    y: 68.0
+    z: -17211.807278259785
+    yaw: 95.73662
+    pitch: 9.000042
+  beach:
+    world: world
+    x: 876.827867247428
+    y: 63.0
+    z: -15606.982650874339
+    yaw: 53.69995
+    pitch: 46.200047
+  spawner:
+    world: world
+    x: 5751.461919673159
+    y: 10.0
+    z: -17214.964484761345
+    yaw: -181.46342
+    pitch: 37.950047
+  home1:
+    world: world
+    x: 5690.516847163524
+    y: 68.0
+    z: -17221.084497294487
+    yaw: -266.0719
+    pitch: 12.749992
+  chicken:
+    world: world
+    x: 5605.293727793299
+    y: 70.0
+    z: -17363.88386794441
+    yaw: -16.922089
+    pitch: 48.149918
+  unicorn:
+    world: world
+    x: 5598.633540864154
+    y: 65.0
+    z: -17518.32706851235
+    yaw: -191.8227
+    pitch: 55.200027
+  lava:
+    world: world
+    x: 20033.679656871253
+    y: 76.0
+    z: 2947.542293005991
+    yaw: -141.27223
+    pitch: 41.54932
+  pandora:
+    world: world
+    x: 5916.927950446845
+    y: 79.0
+    z: -17185.832363457714
+    yaw: 354.40268
+    pitch: 26.582632
+  slimefun:
+    world: world
+    x: 5748.473968117594
+    y: 11.0
+    z: -17245.385975899157
+    yaw: 324.69482
+    pitch: 19.819012
+godmode: true
+afk: false
+jailed: false

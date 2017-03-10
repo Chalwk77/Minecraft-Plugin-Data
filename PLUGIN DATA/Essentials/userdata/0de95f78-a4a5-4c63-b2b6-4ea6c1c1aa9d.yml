@@ -1,0 +1,34 @@
+lastlocation:
+  world: world
+  x: -29607.314863532814
+  y: 46.0
+  z: -13775.437759497212
+  yaw: 187.94873
+  pitch: 70.65011
+geolocation: Perth, Western Australia, Australia
+lastAccountName: grtamlinb
+timestamps:
+  login: 1477620853674
+  lastteleport: 1477622012678
+  logout: 1477622154286
+  kits:
+    citizen: 1477621954666
+    color: 1477621946288
+    food: 1477622099178
+ipAddress: 120.151.144.52
+money: '10618.3419999999999918'
+logoutlocation:
+  world: world
+  x: -29619.170695977875
+  y: 69.0
+  z: -13768.80295460899
+  yaw: 37.499306
+  pitch: 7.8001604
+homes:
+  home:
+    world: world
+    x: -29619.687018666966
+    y: 69.0
+    z: -13765.987439712439
+    yaw: 16.199036
+    pitch: 1.3501047

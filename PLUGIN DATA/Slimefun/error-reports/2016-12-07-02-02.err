@@ -1,0 +1,137 @@
+
+Server Software: CraftBukkit
+  Build: git-Spigot-de459a2-51263e9 (MC: 1.10.2)
+  Minecraft: 1.10.2-R0.1-SNAPSHOT
+
+Installed Plugins (110)
+  + CommandLogger 2.2
+  + MythicLib 0.0.1-SNAPSHOT
+  + neoPaintingSwitch 1.371
+  + Lift 52
+  + TuxTwoLib 1.10-b7
+  + BanManager 5.12.0
+  + DarkHorse 1.3.1a
+  + BiomeTP 3.0
+  + Tablist 1.3.0.5
+  + AsyncWorldEditInjector 3.4.3
+  + HeadNamer 1.1
+  + PluginManagerReloaded 1.0.2
+  + AutoMessage 2.5.5
+  + ChatControl 7.0.29
+  + FlagsCopy 1.1.1
+  + Modifyworld 1.19.7
+  + ProtocolLib 4.1.0
+  + Multiverse-Core 2.5-b717
+  + DeathMessagesPrime 1.11.2
+  + MVdWPlaceholderAPI 1.0.0
+  + SlimeMobs 1.4
+  + PermissionsEx 1.23.4
+  + NightVisionReloaded 1.3
+  + mcMMO 1.5.06-b${BUILD_NUMBER}
+  + Multiverse-Portals 2.5.0-SNAPSHOT-b746
+  + ServerListPlus 3.4.7
+  + SimpleSit 1.5.1
+  + Admin-Chat-Channel 2.0.2
+  + ColoredSigns 2.0
+  + PlaceholderAPI 2.6.0
+  + NametagEdit 4.1.2
+  + ChatReaction 1.6.2
+  + ShutdownNotice 3.2
+  + ChatColor 1.5
+  + PlayerMagnet 1.01
+  + CoreProtect 2.13.1
+  + CustomEnderChest 1.4.2
+  + GameModeInventories 2.8
+  + ClearLag 2.9.1
+  + AdminFunPlus 1.0.7
+  + Votifier 1.9
+  + LibsDisguises 9.0.9
+  + SignEdit 3.3.10
+  + AsyncWorldEdit 3.4.6
+  + Rename 1.0
+  + BlocksHub 1.2
+  + Vault 1.5.6-b49
+  + ChairStairs 1.1
+  + TitleAdvanced 5.10.1
+  + AntiCommandTab 3.4
+  + LWC 1.7.3
+  + HolographicDisplays 2.2.2
+  + DeathBounty 1.0
+  + Multiverse-NetherPortals 2.5-b710
+  + MyCommand 5.3.4
+  + HolographicScoreboard 1.4.2
+  + RunesEnchant 3.5.1
+  + Auctions 2.5.0-SNAPSHOT
+  + Citizens 2.0.20-SNAPSHOT (build 1419)
+  + BlocksHub-CoreProtect 1.2.1
+  + UltraCosmetics 2.3.9
+  + boosCooldowns 3.12.0
+  + WorldEdit 6.1.4-SNAPSHOT;3619-4a72b97
+  + Denizen 1.0.0-SNAPSHOT (build 1625)
+  + Essentials 2.0.1-b${BUILD_NUMBER}
+  + HeadDatabase 2.3.2
+  + WhatIsIt 1.3.9
+  + React 3.1p
+  + EnjinMinecraftPlugin 3.0.22
+  + EssentialsGeoIP 2.0.1-b${BUILD_NUMBER}
+  + CheckMyInventory 5.2.0.2
+  + PremiumVanish 1.7.1
+  + EssentialsKitManager 1.0.4
+  + EssentialsChat 2.0.1-b${BUILD_NUMBER}
+  + WorldGuard 6.1.3-SNAPSHOT;1687-26e5995
+  + EssentialsProtect 2.0.1-b${BUILD_NUMBER}
+  + EssentialsAntiBuild 2.0.1-b${BUILD_NUMBER}
+  + EssentialsSpawn 2.0.1-b${BUILD_NUMBER}
+  + PvPManager 3.6.2.1
+  + WarpPortals 5.6.3
+  + SonarPet 1.1.0-SNAPSHOT
+  + BuyRegion 1.1.7
+  + CS-CoreLib 1.5.10
+  + WorldeditRegions 1.2
+  + NoFlyZone 1.3
+  + MythicMobs 2.5.0
+  + Jobs 3.7.0
+  + RandomTP 2.3
+  + SilkSpawners 3.7.4
+  + DeluxeChat 1.11.0
+  + RegionGUI 2.5.6
+  + WGRegionEvents 1.1
+  + ArtMap 2.4.8
+  + ChestShop 3.8.12
+  + ArmorStandTools 2.1.4
+  + SilkSpawnersShopAddon 1.3.3
+  + Slimefun 4.0.15
+  + WorldGuardExtraFlags 2.9.3
+  + ExtraGear 1.1
+  + SlimefunGuidePlus 1.0
+  + ExoticGarden 1.6.1
+  + PrivateStorage 3.0
+  + NoGodZone 1.0.0
+  + HotbarPets 1.1
+  + SlimefunLuckyBlocks 1.1
+  + SlimefunOres 1.4.6
+  + ElectricSpawners 1.0
+  + MagicLoot 2.1.0
+  + ExtraHeads 1.0
+  + SensibleToolbox 1.0.99
+
+Ticked Block:
+  World: world
+  X: -8177
+  Y: 68
+  Z: -13645
+
+Slimefun Data:
+  ID: ELECTRIC_SMELTERY
+  Inventory: true
+  Data: {"energy-charge":"512","id":"ELECTRIC_SMELTERY","energy-capacity":"512"}
+
+Stacktrace:
+
+java.lang.NullPointerException
+	at me.mrCookieSlime.Slimefun.api.TickerTask.run(TickerTask.java:205)
+	at org.bukkit.craftbukkit.v1_10_R1.scheduler.CraftTask.run(CraftTask.java:71)
+	at org.bukkit.craftbukkit.v1_10_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)

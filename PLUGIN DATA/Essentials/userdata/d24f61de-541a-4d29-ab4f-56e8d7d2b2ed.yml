@@ -1,0 +1,33 @@
+lastAccountName: LokiSnipzz
+timestamps:
+  login: 1481108489784
+  logout: 1481108518813
+  lastteleport: 1481096057386
+  kits:
+    citizen: 1480937498377
+    tools: 1480926737093
+ipAddress: 58.160.68.159
+geolocation: Wheelers Hill, Victoria, Australia
+lastlocation:
+  world: world
+  x: -20080.25701820894
+  y: 67.0
+  z: -4429.107310751093
+  yaw: 272.4969
+  pitch: -2.4000337
+logoutlocation:
+  world: world
+  x: -20080.58951984767
+  y: 68.0
+  z: -4400.855351638164
+  yaw: -220.85321
+  pitch: 15.299938
+money: '75021.42159999999993866'
+homes:
+  home:
+    world: world
+    x: -20079.30000001192
+    y: 67.5
+    z: -4409.300000011921
+    yaw: -207.0531
+    pitch: 12.149935

@@ -1,0 +1,23 @@
+lastAccountName: DarkDeath7951
+timestamps:
+  login: 1470625080934
+  logout: 1470625681728
+  lastteleport: 1470625297692
+ipAddress: 66.112.162.253
+geolocation: Seneca, South Carolina, United States
+lastlocation:
+  world: world
+  x: 802.3535528943592
+  y: 93.5
+  z: 574.5909090822695
+  yaw: -110.93747
+  pitch: -21.750015
+afk: false
+logoutlocation:
+  world: world
+  x: 748.3562946098007
+  y: 93.5
+  z: 580.8625000119209
+  yaw: 108.06213
+  pitch: 12.749984
+money: '2500'

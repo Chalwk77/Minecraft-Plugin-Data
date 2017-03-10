@@ -1,0 +1,4 @@
+host: 203.57.45.83
+port: 9003
+debug: false
+listener_folder: plugins/Votifier/listeners

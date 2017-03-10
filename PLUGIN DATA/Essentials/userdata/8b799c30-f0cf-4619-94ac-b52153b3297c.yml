@@ -1,0 +1,33 @@
+lastAccountName: sappo789
+timestamps:
+  login: 1475575731074
+  lastteleport: 1475576863526
+  logout: 1475576874072
+ipAddress: 121.208.83.206
+geolocation: Australia
+lastlocation:
+  world: world
+  x: -310412.72205015144
+  y: 71.0
+  z: -625927.8053014665
+  yaw: -248.1034
+  pitch: 43.349945
+homes:
+  home:
+    world: world
+    x: 716.5036435340941
+    y: 107.0
+    z: 3658.481794954515
+    yaw: -269.84216
+    pitch: -5.3999915
+money: '1624.4500000000000001'
+logoutlocation:
+  world: world
+  x: -310440.5
+  y: 77.0
+  z: -625936.5
+  yaw: 194.54408
+  pitch: 0.2851038
+afk: false
+mail:
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'

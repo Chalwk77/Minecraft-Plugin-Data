@@ -1,0 +1,25 @@
+Name: FireWarlock
+TeleportLocation:
+  X: -11677.530634485405
+  Pitch: 7.763609
+  Y: 64.39681947783679
+  Z: -9335.237500011921
+  World: world
+  Yaw: -122.96353
+Charges:
+  Amount: 0
+  LastGot: 1479796417135
+DeathLocation:
+  X: -1610.6236912489999
+  Pitch: 25.38415
+  Y: 68.67109571500066
+  Z: -1000.865909783937
+  World: world
+  Yaw: 50.768425
+LogOutLocation:
+  X: -28984.354429208626
+  Pitch: 24.336866
+  Y: 69.36819527715333
+  Z: -18624.30873419415
+  World: world
+  Yaw: -34.255573

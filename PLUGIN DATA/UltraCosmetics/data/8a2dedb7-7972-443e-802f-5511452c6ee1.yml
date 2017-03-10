@@ -1,0 +1,63 @@
+Keys: 0
+Ammo:
+  batblaster: 0
+  chickenator: 0
+  colorbomb: 0
+  discoball: 0
+  etherealpearl: 0
+  fleshhook: 0
+  melonthrower: 0
+  blizzardblaster: 0
+  portalgun: 0
+  explosivesheep: 0
+  paintballgun: 0
+  thorhammer: 0
+  antigravity: 0
+  smashdown: 0
+  blackhole: 0
+  tsunami: 0
+  tnt: 0
+  fungun: 0
+  parachute: 0
+  quakegun: 0
+  ghostparty: 0
+  firework: 0
+  christmastree: 0
+  freezecannon: 0
+  snowball: 0
+  partypopper: 0
+  trampoline: 0
+  be:
+    isach:
+      ultracosmetics:
+        cosmetics:
+          gadgets:
+            gadgettype@52cfc263: 0
+            gadgettype@80d22bf: 0
+            gadgettype@6f075924: 0
+            gadgettype@7a6c6b34: 0
+            gadgettype@50171737: 0
+            gadgettype@4a619410: 0
+            gadgettype@7150f0b0: 0
+            gadgettype@a533293: 0
+            gadgettype@31f75e92: 0
+            gadgettype@2ae24a9: 0
+            gadgettype@541ffca0: 0
+            gadgettype@2481f60d: 0
+            gadgettype@14933be0: 0
+            gadgettype@22571da9: 0
+            gadgettype@43c3504b: 0
+            gadgettype@49b7b148: 0
+            gadgettype@6ecb7240: 0
+            gadgettype@3ffb7acc: 0
+            gadgettype@1c0ffcb5: 0
+            gadgettype@376f94a1: 0
+            gadgettype@50df983a: 0
+            gadgettype@5657762: 0
+            gadgettype@5d25dadf: 0
+            gadgettype@6fecd9f5: 0
+            gadgettype@5cf9855e: 0
+            gadgettype@60dba05: 0
+            gadgettype@1d61e55b: 0
+Gadgets-Enabled: true
+Third-Person-Morph-View: true

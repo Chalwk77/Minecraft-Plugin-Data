@@ -1,0 +1,18 @@
+Name: Card_Magician
+TeleportLocation:
+  X: 477.5
+  Pitch: 0.44998962
+  Y: 89.0
+  Z: -187.5
+  World: world
+  Yaw: 315.0
+Charges:
+  Amount: 0
+  LastGot: 1481094324740
+LogOutLocation:
+  X: 435.8551417422226
+  Pitch: 16.229263
+  Y: 88.0
+  Z: -196.30085534881104
+  World: world
+  Yaw: 89.62958

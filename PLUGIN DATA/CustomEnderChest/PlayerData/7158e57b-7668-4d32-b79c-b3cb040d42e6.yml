@@ -1,0 +1,235 @@
+PlayerLastName: sheneebabez
+EnderChestSize: 18
+EnderChestInventory:
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        FROST_WALKER: 2
+      repair-cost: 1
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §b§lThe Bow of Infinity
+      lore:
+      - §c§lEntity of Death
+      enchants:
+        ARROW_DAMAGE: 10
+        DAMAGE_ALL: 10
+        ARROW_KNOCKBACK: 10
+        DAMAGE_UNDEAD: 10
+        ARROW_FIRE: 10
+        DURABILITY: 10
+        ARROW_INFINITE: 10
+        KNOCKBACK: 10
+        THORNS: 10
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - §5Grants the user unwavering protection
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        PROTECTION_FIRE: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - §5Grants the user unwavering protection
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        PROTECTION_FIRE: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - §5Grants the user unwavering protection
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        PROTECTION_FIRE: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - §5Grants the user unwavering protection
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        PROTECTION_FIRE: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §5Sword of Infinity
+      lore:
+      - §5Grants the user unwavering power!
+      enchants:
+        DAMAGE_ALL: 10
+        DAMAGE_UNDEAD: 10
+        DAMAGE_ARTHROPODS: 10
+        DURABILITY: 10
+        KNOCKBACK: 10
+        FIRE_ASPECT: 10
+        LOOT_BONUS_MOBS: 10
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Smelter's Pickaxe
+      lore:
+      - §c§lAuto-Smelting
+      - ''
+      - §9Works with Fortune
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 20
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Unbr 10, Fort 10, Eff 10
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+      repair-cost: 1
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Lumber Axe
+      lore:
+      - §a§oCuts down the whole Tree...
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Unbr 10, Fort 10, Eff 10
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+      repair-cost: 1
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 12
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eExplosive Pickaxe
+      lore:
+      - ''
+      - §rAllows you to mine a good bit
+      - §rof Blocks at once...
+      - ''
+      - §9Works with Fortune
+      enchants:
+        DIG_SPEED: 2
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eExplosive Pickaxe
+      lore:
+      - ''
+      - §rAllows you to mine a good bit
+      - §rof Blocks at once...
+      - ''
+      - §9Works with Fortune
+      enchants:
+        DIG_SPEED: 4
+        DURABILITY: 3
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    amount: 6
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §ePig §fSpawner
+      internal: H4sIAAAAAAAAAE2NQQuCQBSEvxRkfUT9p7BDN8Eg6PaoZVtcNPKB+O9L99JtmPlmRkA4nNL46M+DRVuuGhwu68uTso2h5ti9dR7a0fzP1zQJsBOqjDmKmElKqpuP4WUrsE7XW7NR0z9K2Hcx9VvkP1OB8/mv4Q5fpVvruJMAAAA=
+      blockMaterial: MOB_SPAWNER
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    damage: 130
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 10
+        DAMAGE_UNDEAD: 10
+        DAMAGE_ARTHROPODS: 10
+        DURABILITY: 10
+        KNOCKBACK: 10
+        FIRE_ASPECT: 10
+        LOOT_BONUS_MOBS: 10
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Unbr 10, Fort 10, Eff 10
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+      repair-cost: 1
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 90
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: sheneebabez
+      enchants:
+        DIG_SPEED: 5
+        SILK_TOUCH: 1
+        DURABILITY: 3
+      repair-cost: 7

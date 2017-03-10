@@ -1,0 +1,21 @@
+geolocation: Ipswich, Queensland, Australia
+lastAccountName: taurtis_plays
+timestamps:
+  login: 1469703361398
+  logout: 1469703995170
+ipAddress: 114.77.253.1
+lastlocation:
+  world: world
+  x: 477.497388323769
+  y: 89.0
+  z: -191.28452237371997
+  yaw: 181.52747
+  pitch: 2.099992
+logoutlocation:
+  world: world
+  x: 570.6326810743464
+  y: 66.0
+  z: 62.431249865187766
+  yaw: -180.17523
+  pitch: 14.46173
+money: '2500'

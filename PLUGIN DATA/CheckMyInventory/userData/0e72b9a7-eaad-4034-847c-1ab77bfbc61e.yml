@@ -1,0 +1,25 @@
+Name: rbb1213
+TeleportLocation:
+  X: 20994.170176615367
+  Pitch: 59.85052
+  Y: 71.0
+  Z: 21357.69999998808
+  World: world
+  Yaw: 37.149834
+Charges:
+  Amount: 0
+  LastGot: 1479520348033
+DeathLocation:
+  X: -15653.459711112826
+  Pitch: 90.0
+  Y: 34.61999889552333
+  Z: 16624.30000001192
+  World: world
+  Yaw: 149.94179
+LogOutLocation:
+  X: -6865.626548639149
+  Pitch: 13.950166
+  Y: 66.75737614331298
+  Z: 6004.703417264305
+  World: world
+  Yaw: 94.05023

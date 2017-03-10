@@ -1,0 +1,700 @@
+############################
+#  Garden Center
+#     Script
+#  Made By: Chalwk
+############################
+# This script requires Vault!
+# /denizen reload -a
+# /npc assignment --set gardencenter_assignment
+############################
+#   Garden Center Assignment
+############################
+gardencenter_assignment:
+  type: assignment
+  debug: false
+  actions:
+    on assignment:
+      - trigger name:click state:true
+      - trigger name:proximity state:true radius:3
+    on enter proximity:
+      - narrate format:gardencenterChat "What would you like to buy?"
+      - WAIT 1s
+      - inventory open d:in@gargencenter_Inventory
+    on click:
+      - inventory open d:in@gargencenter_Inventory
+    #############################
+#  How to add another item
+#############################
+#First you need to make another item (Tells you how down below??)
+#Then you need to add the item to the inventory [i@name]
+#After you add it you need to make an event for it down below ??
+#After you make the event make sure to add the price!
+#To add a specific Potion, go to http://minecraft-ids.grahamedgecombe.com/potion-calculator
+#############################
+#   Garden Center Assignment
+#############################
+gargencenter_Inventory:
+  type: inventory
+  title: "<&a&l>Garden Center Menu"
+  size: 54
+  slots:
+  - "[i@oak_sappling] [i@spruce_sappling] [i@birch_sappling] [i@jungle_sappling] [i@acacia_sappling] [i@dark_oak_sappling] [i@grass] [i@fern] [i@dead_bush]"
+  - "[i@oak_leaves] [i@spruce_leaves] [i@birch_leaves] [i@jungle_leaves] [i@acacia_leaves] [i@dark_oak_leaves] [dandelion] [poppy] [blue_orchid]"
+  - "[allium] [azure_bluet] [red_tulip] [orange_tulip] [white_tulip] [pink_tulip] [oxeye_daisy] [brown_mushroom] [red_mushroom]"
+  - "[cactus] [vines] [lily_pad] [lilac] [double_tall_grass] [large_fern] [rose_bush] [peony] []"
+  - "[] [] [] [] [] [] [] [] []"
+  - "[] [] [] [] [] [] [] [] []"
+
+############################
+#   I T E M S
+############################ 
+#(This is the basic format for an item)
+#drink:
+#  type: item
+#  material: "373:8194"
+#  display name: "<&c>RedCow"
+#  lore:
+#  - "Hyper drink that will get you"
+#  - "speeding around!"
+
+############################
+#     SAPPLINGS
+############################
+oak_sappling:
+  type: item
+  material: "6"
+  display name: "<&3>Oak Sappling"
+  lore:
+  - "Sappling of life"
+  - "<&a>$<&f>3.00"
+spruce_sappling:
+  type: item
+  material: "6:1"
+  display name: "<&3>Spruce Sappling"
+  lore:
+  - "Sappling of life"
+  - "<&a>$<&f>3.10"
+birch_sappling:
+  type: item
+  material: "6:2"
+  display name: "<&3>Birch Sappling"
+  lore:
+  - "Sappling of life"
+  - "<&a>$<&f>3.20"
+jungle_sappling:
+  type: item
+  material: "6:3"
+  display name: "<&3>Jungle Sappling"
+  lore:
+  - "Sappling of life"
+  - "<&a>$<&f>3.30"
+acacia_sappling:
+  type: item
+  material: "6:4"
+  display name: "<&3>Acacia Sappling"
+  lore:
+  - "Sappling of life"
+  - "<&a>$<&f>3.40"
+dark_oak_sappling:
+  type: item
+  material: "6:5"
+  display name: "<&3>Dark Oak Sappling"
+  lore:
+  - "Sappling of life"
+  - "<&a>$<&f>3.50"
+############################
+#     LEAVES
+############################
+oak_leaves:
+  type: item
+  material: "18"
+  display name: "<&3>Oak Leaves"
+  lore:
+  - "<&a>$<&f>2.64"
+spruce_leaves:
+  type: item
+  material: "18:1"
+  display name: "<&3>Spruce Leaves"
+  lore:
+  - "<&a>$<&f>2.64"
+birch_leaves:
+  type: item
+  material: "18:2"
+  display name: "<&3>Birch Leaves"
+  lore:
+  - "<&a>$<&f>2.64"
+jungle_leaves:
+  type: item
+  material: "18:3"
+  display name: "<&3>Jungle Leaves"
+  lore:
+  - "<&a>$<&f>2.64"
+acacia_leaves:
+  type: item
+  material: "161"
+  display name: "<&3>Acacia Leaves"
+  lore:
+  - "<&a>$<&f>2.64"
+dark_oak_leaves:
+  type: item
+  material: "161:1"
+  display name: "<&3>Dark Oak Leaves"
+  lore:
+  - "<&a>$<&f>2.64"
+##################################
+#     Grass, Fern and Dead Bush
+##################################
+grass:
+  type: item
+  material: "31:1"
+  display name: "<&3>Grass"
+  lore:
+  - "<&a>$<&f>1.00"
+fern:
+  type: item
+  material: "31:2"
+  display name: "<&3>Fern"
+  lore:
+  - "<&a>$<&f>1.00"
+dead_bush:
+  type: item
+  material: "32"
+  display name: "<&3>Dead Bush"
+  lore:
+  - "<&a>$<&f>1.00"
+##################################
+#     F L O W E R S
+##################################
+dandelion:
+  type: item
+  material: "37"
+  display name: "<&3>Dandelion"
+  lore:
+  - "<&a>$<&f>2.00"
+poppy:
+  type: item
+  material: "38:"
+  display name: "<&3>Poppy"
+  lore:
+  - "<&a>$<&f>2.00"
+blue_orchid:
+  type: item
+  material: "38:1"
+  display name: "<&3>Blue Orchid"
+  lore:
+  - "<&a>$<&f>2.00"
+allium:
+  type: item
+  material: "38:2"
+  display name: "<&3>Allium"
+  lore:
+  - "<&a>$<&f>2.00"
+azure_bluet:
+  type: item
+  material: "38:3"
+  display name: "<&3>Azure Bluet"
+  lore:
+  - "<&a>$<&f>2.00"
+red_tulip:
+  type: item
+  material: "38:4"
+  display name: "<&3>Red Tulip"
+  lore:
+  - "<&a>$<&f>2.00"
+orange_tulip:
+  type: item
+  material: "38:5"
+  display name: "<&3>Orange Tulip"
+  lore:
+  - "<&a>$<&f>2.00"
+pink_tulip:
+  type: item
+  material: "38:6"
+  display name: "<&3>Pink Tulip"
+  lore:
+  - "<&a>$<&f>2.00"
+oxeye_daisy:
+  type: item
+  material: "38:7"
+  display name: "<&3>Oxeye Daisy"
+  lore:
+  - "<&a>$<&f>2.00"
+brown_mushroom:
+  type: item
+  material: "39"
+  display name: "<&3>Brown Mushroom"
+  lore:
+  - "<&a>$<&f>2.10"
+red_mushroom:
+  type: item
+  material: "40"
+  display name: "<&3>Red Mushroom"
+  lore:
+  - "<&a>$<&f>2.10"
+cactus:
+  type: item
+  material: "81"
+  display name: "<&3>Cactus"
+  lore:
+  - "<&a>$<&f>2.00"
+vines:
+  type: item
+  material: "106"
+  display name: "<&3>Vines"
+  lore:
+  - "<&a>$<&f>2.00"
+lily_pad:
+  type: item
+  material: "111"
+  display name: "<&3>Lily Pad"
+  lore:
+  - "<&a>$<&f>2.00"
+lilac:
+  type: item
+  material: "175:1"
+  display name: "<&3>Lilac"
+  lore:
+  - "<&a>$<&f>3.00"
+double_tall_grass:
+  type: item
+  material: "175:2"
+  display name: "<&3>Double Tall Grass"
+  lore:
+  - "<&a>$<&f>3.00"
+large_fern:
+  type: item
+  material: "175:3"
+  display name: "<&3>Large Fern"
+  lore:
+  - "<&a>$<&f>3.00"
+rose_bush:
+  type: item
+  material: "175:4"
+  display name: "<&3>Rose Bush"
+  lore:
+  - "<&a>$<&f>3.00"
+peony:
+  type: item
+  material: "175:5"
+  display name: "<&3>Peony"
+  lore:
+  - "<&a>$<&f>3.00"
+############################
+#  Chat/Handlers
+############################
+#If you want to add another drink event, copy and paste this template and fill in the correct information!
+#You can find the extraeffects at https://hub.spigotmc.org/javadocs/spigot/org/bukkit/potion/PotionEffectType.html
+#############################
+#    on player clicks (drinkname) in gargencenter_Inventory:
+#    - if <player.money> >= "(amount)" {
+#      - inventory close
+#      - money take quantity:(amount)
+#      - narrate "<&a>$<&e>(amount) <&a>has been taken from your balance"
+#      - give (drinkname)
+#      } else {
+#      - inventory close
+#      - narrate "<&c>You do not have enough money!"
+#      }
+#   on player consumes (drinkname):
+#   - cast (extraeffect) duration:(time) power:(power)
+##############################
+gardencenterChat:
+  type: format
+  debug: false
+  format: <&6>Store Clerk:<&f> <text>
+
+gargencenter_Inventory_Handler:
+  type: world
+  events:
+    on player clicks in gargencenter_Inventory:
+    - determine cancelled
+    on player drags in gargencenter_Inventory:
+    - determine cancelled
+############################
+#     SAPPLINGS
+############################
+    on player clicks oak_sappling in gargencenter_Inventory:
+    - if <player.money> >= "3" {
+      - inventory close
+      - money take quantity:3
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Oak Sapplings"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>3 <&a>has been taken from your account."
+      - give oak_sappling quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks spruce_sappling in gargencenter_Inventory:
+    - if <player.money> >= "3.10" {
+      - inventory close
+      - money take quantity:3.10
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Spruce Sapplings"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>3.10 <&a>has been taken from your account."
+      - give spruce_sappling quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks birch_sappling in gargencenter_Inventory:
+    - if <player.money> >= "3.20" {
+      - inventory close
+      - money take quantity:3.20
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Birch Sapplings"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>3.20 <&a>has been taken from your account."
+      - give birch_sappling quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks jungle_sappling in gargencenter_Inventory:
+    - if <player.money> >= "3.30" {
+      - inventory close
+      - money take quantity:3.30
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Jungle Sapplings"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>3.30 <&a>has been taken from your account."
+      - give jungle_sappling quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks acacia_sappling in gargencenter_Inventory:
+    - if <player.money> >= "3.40" {
+      - inventory close
+      - money take quantity:3.40
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Acacia Sapplings"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>3.40 <&a>has been taken from your account."
+      - give acacia_sappling quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks dark_oak_sappling in gargencenter_Inventory:
+    - if <player.money> >= "3.50" {
+      - inventory close
+      - money take quantity:3.50
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Dark Oak Sapplings"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>3.50 <&a>has been taken from your account."
+      - give dark_oak_sappling quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+############################
+#     LEAVES
+############################
+    on player clicks oak_leaves in gargencenter_Inventory:
+    - if <player.money> >= "2.64" {
+      - inventory close
+      - money take quantity:2.64
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Oak Leaves"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.64 <&a>has been taken from your account."
+      - give oak_leaves quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks spruce_leaves in gargencenter_Inventory:
+    - if <player.money> >= "2.64" {
+      - inventory close
+      - money take quantity:2.64
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Spruce Leaves"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.64 <&a>has been taken from your account."
+      - give spruce_leaves quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks birch_leaves in gargencenter_Inventory:
+    - if <player.money> >= "2.64" {
+      - inventory close
+      - money take quantity:2.64
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Birch Leaves"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.64 <&a>has been taken from your account."
+      - give birch_leaves quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks jungle_leaves in gargencenter_Inventory:
+    - if <player.money> >= "2.64" {
+      - inventory close
+      - money take quantity:2.64
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Jungle Leaves"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.64 <&a>has been taken from your account."
+      - give jungle_leaves quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks acacia_leaves in gargencenter_Inventory:
+    - if <player.money> >= "2.64" {
+      - inventory close
+      - money take quantity:2.64
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Acacia Leaves"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.64 <&a>has been taken from your account."
+      - give acacia_leaves quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks dark_oak_leaves in gargencenter_Inventory:
+    - if <player.money> >= "2.64" {
+      - inventory close
+      - money take quantity:2.64
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Dark Oak Leaves"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.64 <&a>has been taken from your account."
+      - give dark_oak_leaves quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+##################################
+#     Grass, Fern and Dead Bush
+##################################
+    on player clicks grass in gargencenter_Inventory:
+    - if <player.money> >= "1.00" {
+      - inventory close
+      - money take quantity:1.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Grass"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>1.00 <&a>has been taken from your account."
+      - give grass quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks fern in gargencenter_Inventory:
+    - if <player.money> >= "1.00" {
+      - inventory close
+      - money take quantity:1.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Ferns"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>1.00 <&a>has been taken from your account."
+      - give fern quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks dead_bush in gargencenter_Inventory:
+    - if <player.money> >= "1.00" {
+      - inventory close
+      - money take quantity:1.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Dead Bushes"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>1.00 <&a>has been taken from your account."
+      - give dead_bush quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+############################
+#     F L O W E R S
+############################
+
+    on player clicks dandelion in gargencenter_Inventory:
+    - if <player.money> >= "2.00" {
+      - inventory close
+      - money take quantity:2.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Dandelions"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.00 <&a>has been taken from your account."
+      - give dandelion quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks poppy in gargencenter_Inventory:
+    - if <player.money> >= "2.00" {
+      - inventory close
+      - money take quantity:2.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Poppy's"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.00 <&a>has been taken from your account."
+      - give poppy quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks blue_orchid in gargencenter_Inventory:
+    - if <player.money> >= "2.00" {
+      - inventory close
+      - money take quantity:2.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Blue Orchid"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.00 <&a>has been taken from your account."
+      - give blue_orchid quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks allium in gargencenter_Inventory:
+    - if <player.money> >= "2.00" {
+      - inventory close
+      - money take quantity:2.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Allium"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.00 <&a>has been taken from your account."
+      - give allium quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks azure_bluet in gargencenter_Inventory:
+    - if <player.money> >= "2.00" {
+      - inventory close
+      - money take quantity:2.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Azure Bluet"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.00 <&a>has been taken from your account."
+      - give azure_bluet quantity:16 
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks red_tulip in gargencenter_Inventory:
+    - if <player.money> >= "2.00" {
+      - inventory close
+      - money take quantity:2.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Red Tulips"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.00 <&a>has been taken from your account."
+      - give red_tulip quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks orange_tulip in gargencenter_Inventory:
+    - if <player.money> >= "2.00" {
+      - inventory close
+      - money take quantity:2.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Orange Tulips"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.00 <&a>has been taken from your account."
+      - give orange_tulip quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks pink_tulip in gargencenter_Inventory:
+    - if <player.money> >= "2.00" {
+      - inventory close
+      - money take quantity:2.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Pink Tulips"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.00 <&a>has been taken from your account."
+      - give pink_tulip quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks oxeye_daisy in gargencenter_Inventory:
+    - if <player.money> >= "2.00" {
+      - inventory close
+      - money take quantity:2.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Oxeye Daisy's"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.00 <&a>has been taken from your account."
+      - give 1 oxeye_daisy quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks brown_mushroom in gargencenter_Inventory:
+    - if <player.money> >= "2.10" {
+      - inventory close
+      - money take quantity:2.10
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Brown Mushrooms"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.10 <&a>has been taken from your account."
+      - give brown_mushroom quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks red_mushroom in gargencenter_Inventory:
+    - if <player.money> >= "2.10" {
+      - inventory close
+      - money take quantity:2.10
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Red Mushrooms"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.10 <&a>has been taken from your account."
+      - give red_mushroom quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks cactus in gargencenter_Inventory:
+    - if <player.money> >= "2.00" {
+      - inventory close
+      - money take quantity:2.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Cactus"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.00 <&a>has been taken from your account."
+      - give cactus quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks vines in gargencenter_Inventory:
+    - if <player.money> >= "2.00" {
+      - inventory close
+      - money take quantity:2.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Vines"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.00 <&a>has been taken from your account."
+      - give vines quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks lily_pad in gargencenter_Inventory:
+    - if <player.money> >= "2.00" {
+      - inventory close
+      - money take quantity:2.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Lily Pads"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>2.00 <&a>has been taken from your account."
+      - give lily_pad quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks lilac in gargencenter_Inventory:
+    - if <player.money> >= "3.00" {
+      - inventory close
+      - money take quantity:3.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Lilac"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>3.00 <&a>has been taken from your account."
+      - give lilac quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks double_tall_grass in gargencenter_Inventory:
+    - if <player.money> >= "3.00" {
+      - inventory close
+      - money take quantity:3.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Double Tall Grass"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>3.00 <&a>has been taken from your account."
+      - give double_tall_grass quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks large_fern in gargencenter_Inventory:
+    - if <player.money> >= "3.00" {
+      - inventory close
+      - money take quantity:3.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Large Ferns"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>3.00 <&a>has been taken from your account."
+      - give large_fern quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks rose_bush in gargencenter_Inventory:
+    - if <player.money> >= "3.00" {
+      - inventory close
+      - money take quantity:3.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Rose Bushes"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>3.00 <&a>has been taken from your account."
+      - give rose_bush quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+    on player clicks peony in gargencenter_Inventory:
+    - if <player.money> >= "3.00" {
+      - inventory close
+      - money take quantity:3.00
+      - narrate "<&8>[<&b>Garden Center<&8>] <&7>You purchased 16 <&6>Peony"
+      - narrate "<&f>[<&c>JeriCraft<&f>] <&a>$<&e>3.00 <&a>has been taken from your account."
+      - give peony quantity:16
+      } else {
+      - inventory close
+      - narrate "<&c>You do not have enough money!"
+      }
+#This is the end! Seriously!

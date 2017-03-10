@@ -1,0 +1,80 @@
+lastAccountName: JackoSnacko
+timestamps:
+  login: 1470918042230
+  lastteleport: 1470918282203
+  kits:
+    mccharacter: 1459829354176
+    firework: 1456229931811
+    color: 1458877174643
+    wekit: 1459995266190
+    sking_arena: 1462161977151
+    dtools: 1457435900227
+    tools: 1456826679275
+    food: 1449806984782
+  logout: 1470919364223
+  jail: 0
+  lastheal: 1470911600504
+ipAddress: 101.184.89.45
+geolocation: Australia
+lastlocation:
+  world: world
+  x: 662.5
+  y: 64.0
+  z: -284.5
+  yaw: 269.50882
+  pitch: 3.3000207
+money: '2500'
+afk: false
+logoutlocation:
+  world: world
+  x: 914.773297487715
+  y: 65.0
+  z: -156.76348296441313
+  yaw: 324.70825
+  pitch: 0.14958003
+homes:
+  home:
+    world: world
+    x: 1999.9883097030038
+    y: 64.0
+    z: -9568.213619252712
+    yaw: 358.34924
+    pitch: 2.849989
+  a:
+    world: world
+    x: -2.036701438807208E7
+    y: 77.0
+    z: -1.2851644389157677E7
+    yaw: 356.84195
+    pitch: -3.4502563
+  hanni:
+    world: world
+    x: 29151.567808614545
+    y: 156.72859957673455
+    z: -13526.980475349816
+    yaw: -99.44752
+    pitch: 19.799925
+  jackosnacko:
+    world: world
+    x: -297.4339633742224
+    y: 68.0
+    z: -3509.833209744643
+    yaw: 305.0835
+    pitch: 7.19994
+  matt:
+    world: world
+    x: 2005.6928302611266
+    y: 174.46835266243613
+    z: -9497.03050902426
+    yaw: 84.89554
+    pitch: 47.849987
+  will79394:
+    world: world
+    x: -12408.465137057043
+    y: 63.0
+    z: 16992.32178018782
+    yaw: 174.41188
+    pitch: 11.418911
+godmode: true
+jailed: false
+teleportenabled: true

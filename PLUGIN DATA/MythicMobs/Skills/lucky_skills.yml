@@ -1,0 +1,2471 @@
+########################################################################
+###                                                                    #
+###   Lucky Blocks v0.dev6                                             #
+###                                                                    #
+###   Designed for MythicMobs 2.4.4 / Spigot 1.9.x                     #
+###                                                                    #
+###   Created by jaylawl                                               #
+###   Contact: jaylawlMC@gmail.com                                     #
+###                                                                    #
+########################################################################
+### core
+lucky_block_on_spawn_core:
+  Skills:
+  - modifyscore{o=luckyblockspos;e=<mob.uuid>;a=set;v=<random.1-100>}
+  - modifyscore{o=luckyblocksneg;e=<mob.uuid>;a=set;v=<random.1-100>}
+  - potion{t=INVISIBILITY;d=630720000;l=0}
+  - mount{m=lucky_block_mount}
+lucky_block_on_interact_core:
+  Skills:
+  - skill{s=lucky_block_display_odds_gate;sync=true}
+lucky_block_on_signal_core:
+  Skills:
+  - skill{s=lucky_block_event_negative_angry_lucky_block_master}
+lucky_block_on_death_core:
+  Skills:
+  - remove @e[rm=0,r=2,c=1,name=lucky_block_mount]
+  - command{c="minecraft:tp <mob.uuid> ~ ~1 ~"}
+  - modifytargetscore{o=luckyblocks;a=add;v=1} @trigger
+  - delay 1
+  - skill{s=lucky_block_event_master;sync=true}
+  - skill{s=lucky_block_fx_death}
+  - skill{s=lucky_block_debug}
+lucky_block_clock:
+  Skills:
+lucky_block_mount_clock:
+  Conditions:
+  - inblock AIR
+  Skills:
+  - command{c="minecraft:tp <mob.uuid> ~ ~-1 ~"}
+########################################################################
+### misc
+lucky_block_display_odds_gate:
+  Cooldown: 1
+  Skills:
+  - modifytargetscore{o=luckinspector;a=add;v=0}
+  - command{c="minecraft:scoreboard players set <trigger.name> luckinspector 1 {SelectedItem:{tag:{display:{Name:<&dq>&eLucky Multi-Tool&r<&dq>}}}}"}
+  - modifyscore{o=luckinspector;e=<mob.uuid>;a=set;v=<trigger.score.luckinspector>}
+  - skill{s=lucky_block_display_odds_execute}
+  - command{c="minecraft:scoreboard objectives remove luckinspector"}
+lucky_block_display_odds_execute:
+  Conditions:
+  - mobscore luckinspector;=1
+  Skills:
+  - actionmessage{m="&c&l<mob.score.luckyblocksneg> &7/ &a&l<mob.score.luckyblockspos>"} @trigger
+lucky_block_debug:
+  Skills:
+  - delay 2
+  - message{m="[&eDebug&r] &7Running Event<&co> &r<&dq><mob.stance><&dq>"} @server
+########################################################################
+### fx
+lucky_block_fx_death:
+  Skills:
+  - effect:sound{s=entity.generic.explode;v=1;p=1.5}
+  - effect:particles{p=cloud;a=50;hS=0.3;vS=0.3;s=0.1;y=0.5}
+lucky_block_fx_event_positive_drops:
+  Skills:
+  - effect:particles{p=happyVillager;a=20;hs=0.4;vs=0.2;s=0;y=0.5}
+  - effect:particles{p=happyVillager;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=happyVillager;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=happyVillager;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=happyVillager;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=happyVillager;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=happyVillager;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=happyVillager;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=happyVillager;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+lucky_block_fx_event_negative_drops:
+  Skills:
+  - effect:particles{p=reddust;a=20;hs=0.4;vs=0.2;s=0;y=0.5}
+  - effect:particles{p=reddust;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=reddust;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=reddust;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=reddust;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=reddust;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=reddust;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=reddust;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+  - effect:particles{p=reddust;a=2;hs=0.2;vs=0.1;s=0;y=0.5} 0.2
+########################################################################
+### events
+## master
+lucky_block_event_master:
+  Skills:
+  - randomskill{skills=lucky_block_event_positive_trigger,lucky_block_event_negative_trigger}
+## positive
+# positive trigger
+lucky_block_event_positive_trigger:
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_adventure_portal,
+      lucky_block_event_positive_bonus_lucky_blocks,
+      lucky_block_event_positive_drops_armor_master,
+      lucky_block_event_positive_drops_misc_master,
+      lucky_block_event_positive_drops_unique_master,
+      lucky_block_event_positive_enhanced_eyesight,
+      lucky_block_event_positive_experience_rain,
+      lucky_block_event_positive_fortune_cookie_master,
+      lucky_block_event_positive_four_leaf_clover,
+      lucky_block_event_positive_fresh_food_master,
+      lucky_block_event_positive_local_wall_hacks,
+      lucky_block_event_positive_lucky_item_processor,
+      lucky_block_event_positive_lucky_potion_master,
+      lucky_block_event_positive_perpetual_baby_ocelot,
+      lucky_block_event_positive_perpetual_baby_wolf,
+      lucky_block_event_positive_pitchshift_disco_master,
+      lucky_block_event_positive_sapling_master,
+      lucky_block_event_positive_tier_gear_master,
+      lucky_block_event_negative_timeshift_day,
+      lucky_block_event_positive_true_mr_rainbow,
+      lucky_block_event_positive_villager_master,
+      }
+# positive events
+lucky_block_event_positive_adventure_portal:
+  Skills:
+  - setstance{s=*_positive_adventure_portal}
+  - summon{m=lucky_adventure_portal;a=1;r=0}
+lucky_block_event_positive_bonus_lucky_blocks:
+  Conditions:
+  - mobscore luckyblockspos;>75
+  Skills:
+  - setstance{s=*_positive_bonus_lucky_blocks}
+  - summon{m=lucky_block;a=3;r=2;y=0}
+  - effect:sound{s=entity.player.levelup;v=1;p=0.75}
+lucky_block_event_positive_drops_armor_master:
+  Skills:
+  - summon{m=lucky_block_dropper;a=1;r=0}
+  - randomskill
+      {skills=
+      lucky_block_event_positive_drops_armor_chainmail,
+      lucky_block_event_positive_drops_armor_diamond,
+      lucky_block_event_positive_drops_armor_gold,
+      lucky_block_event_positive_drops_armor_iron,
+      lucky_block_event_positive_drops_armor_leather,
+      }
+  - skill{s=lucky_block_fx_event_positive_drops}
+lucky_block_event_positive_drops_armor_chainmail:
+  Skills:
+  - setstance{s=*_positive_drops_armor_chainmail}
+  - setstance{s=lucky_block_drops_armor_chainmail} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_armor_diamond:
+  Skills:
+  - setstance{s=*_positive_drops_armor_diamond}
+  - setstance{s=lucky_block_drops_armor_diamond} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_armor_gold:
+  Skills:
+  - setstance{s=*_positive_drops_armor_gold}
+  - setstance{s=lucky_block_drops_armor_gold} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_armor_iron:
+  Skills:
+  - setstance{s=*_positive_drops_armor_iron}
+  - setstance{s=lucky_block_drops_armor_iron} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_armor_leather:
+  Skills:
+  - setstance{s=*_positive_drops_armor_leather}
+  - setstance{s=lucky_block_drops_armor_leather} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_misc_master:
+  Skills:
+  - summon{m=lucky_block_dropper;a=1;r=0}
+  - randomskill
+      {skills=
+      lucky_block_event_positive_drops_misc_chunk_of_luck,
+      lucky_block_event_positive_drops_misc_cookies_and_milk,
+      lucky_block_event_positive_drops_misc_diamond,
+      lucky_block_event_positive_drops_misc_emerald,
+      lucky_block_event_positive_drops_misc_gold_ingot,
+      lucky_block_event_positive_drops_misc_iron_ingot,
+      lucky_block_event_positive_drops_misc_name_tag,
+      lucky_block_event_positive_drops_misc_packed_ice,
+      lucky_block_event_positive_drops_misc_saddle,
+      lucky_block_event_positive_drops_misc_sea_lantern,
+      lucky_block_event_positive_drops_misc_sponge,
+      }
+  - skill{s=lucky_block_fx_event_positive_drops}
+lucky_block_event_positive_drops_misc_chunk_of_luck:
+  Skills:
+  - setstance{s=*_positive_drops_misc_chunk_of_luck}
+  - setstance{s=lucky_block_drops_misc_chunk_of_luck} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_misc_cookies_and_milk:
+  Skills:
+  - setstance{s=*_positive_drops_misc_cookies_and_milk}
+  - setstance{s=lucky_block_drops_misc_cookies_and_milk} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_misc_diamond:
+  Skills:
+  - setstance{s=*_positive_drops_misc_diamond}
+  - setstance{s=lucky_block_drops_misc_diamond} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_misc_emerald:
+  Skills:
+  - setstance{s=*_positive_drops_misc_emerald}
+  - setstance{s=lucky_block_drops_misc_emerald} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_misc_gold_ingot:
+  Skills:
+  - setstance{s=*_positive_drops_misc_gold_ingot}
+  - setstance{s=lucky_block_drops_misc_gold_ingot} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_misc_iron_ingot:
+  Skills:
+  - setstance{s=*_positive_drops_misc_iron_ingot}
+  - setstance{s=lucky_block_drops_misc_iron_ingot} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_misc_name_tag:
+  Skills:
+  - setstance{s=*_positive_drops_misc_name_tag}
+  - setstance{s=lucky_block_drops_misc_name_tag} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_misc_packed_ice:
+  Skills:
+  - setstance{s=*_positive_drops_misc_packed_ice}
+  - setstance{s=lucky_block_drops_misc_packed_ice} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_misc_saddle:
+  Skills:
+  - setstance{s=*_positive_drops_misc_saddle}
+  - setstance{s=lucky_block_drops_misc_saddle} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_misc_sea_lantern:
+  Skills:
+  - setstance{s=*_positive_drops_misc_sea_lantern}
+  - setstance{s=lucky_block_drops_misc_sea_lantern} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_misc_sponge:
+  Skills:
+  - setstance{s=*_positive_drops_misc_sponge}
+  - setstance{s=lucky_block_drops_misc_sponge} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_drops_unique_master:
+  Conditions:
+  - mobscore luckyblockspos;>75
+  Skills:
+  - summon{m=lucky_block_dropper;a=1;r=0}
+  - randomskill
+      {skills=
+      lucky_block_event_positive_drops_unique_lucky_multi_tool,
+      }
+  - skill{s=lucky_block_fx_event_positive_drops}
+lucky_block_event_positive_drops_unique_lucky_multi_tool:
+  Skills:
+  - setstance{s=*_positive_drops_unique_lucky_multi_tool}
+  - setstance{s=lucky_block_drops_unique_lucky_multi_tool} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_positive_enhanced_eyesight:
+  Skills:
+  - setstance{s=*_positive_enhanced_eyesight}
+  - potion{t=NIGHT_VISION;d=1728000;l=0} @trigger
+lucky_block_event_positive_experience_rain:
+  Skills:
+  - setstance{s=*_positive_experience_rain}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~<random.1-3> ~<random.30-40> ~-<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~<random.1-3> ~<random.30-40> ~-<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~<random.1-3> ~<random.30-40> ~-<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~<random.1-3> ~<random.30-40> ~-<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~-<random.1-3> ~<random.30-40> ~-<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~-<random.1-3> ~<random.30-40> ~-<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~-<random.1-3> ~<random.30-40> ~-<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~-<random.1-3> ~<random.30-40> ~-<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~-<random.1-3> ~<random.30-40> ~<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~-<random.1-3> ~<random.30-40> ~<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~-<random.1-3> ~<random.30-40> ~<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~-<random.1-3> ~<random.30-40> ~<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~-<random.1-3> ~<random.30-40> ~-<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~-<random.1-3> ~<random.30-40> ~-<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~-<random.1-3> ~<random.30-40> ~-<random.1-3>"}
+  - command{c="execute <mob.uuid> ~ ~ ~ summon ThrownExpBottle ~-<random.1-3> ~<random.30-40> ~-<random.1-3>"}
+lucky_block_event_positive_fortune_cookie_master:
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_fortune_cookie_1,
+      lucky_block_event_positive_fortune_cookie_2,
+      lucky_block_event_positive_fortune_cookie_3,
+      lucky_block_event_positive_fortune_cookie_4,
+      lucky_block_event_positive_fortune_cookie_5,
+      lucky_block_event_positive_fortune_cookie_6,
+      lucky_block_event_positive_fortune_cookie_7,
+      lucky_block_event_positive_fortune_cookie_8,
+      lucky_block_event_positive_fortune_cookie_9,
+      lucky_block_event_positive_fortune_cookie_10,
+      lucky_block_event_positive_fortune_cookie_11,
+      lucky_block_event_positive_fortune_cookie_12,
+      lucky_block_event_positive_fortune_cookie_13,
+      lucky_block_event_positive_fortune_cookie_14,
+      lucky_block_event_positive_fortune_cookie_15,
+      lucky_block_event_positive_fortune_cookie_16,
+      lucky_block_event_positive_fortune_cookie_17,
+      lucky_block_event_positive_fortune_cookie_18,
+      lucky_block_event_positive_fortune_cookie_19,
+      lucky_block_event_positive_fortune_cookie_20,
+      lucky_block_event_positive_fortune_cookie_21,
+      lucky_block_event_positive_fortune_cookie_22,
+      lucky_block_event_positive_fortune_cookie_23,
+      lucky_block_event_positive_fortune_cookie_24,
+      lucky_block_event_positive_fortune_cookie_25,
+      lucky_block_event_positive_fortune_cookie_26,
+      }
+lucky_block_event_positive_fortune_cookie_1:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_1}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 1:,3:&7&oA fortune cookie will tell you lies.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_2:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_2}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 2:,3:&7&oBe kind to pigeons!,4:&7&oA statue will someday be made of you.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_3:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_3}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 3:,3:&7&oThe rubber bands are heading in the right direction.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_4:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_4}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 4:,3:&7&oAlso try astronomy.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_5:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_5}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 5:,3:&7&oTomorrow you will breathe air.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_6:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_6}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 6:,3:&7&oYou will make duck happy much.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_7:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_7}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 7:,3:&7&oA big amount of currency is coming your way.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_8:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_8}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 8:,3:&7&oThe day after tomorrow you will,4:&7&operceive tomorrow as yesterday!]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_9:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_9}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 9:,3:&7&oBelieve in yourself!]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_10:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_10}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 10:,3:&7&oYou laugh now<&cm>,4:&7&owait til you get home...]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_11:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_11}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 11:,3:&7&oGoogle will answer your questions.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_12:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_12}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 12:,3:&7&o404 - fortune not found]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_13:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_13}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 13:,3:&7&oPress any key.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_14:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_14}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 14:,3:&7&oCould i get some directions here?]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_15:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_15}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 15:,3:&7&oRelationships.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_16:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_16}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 16:,3:&7&oNext time order the shrimps.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_17:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_17}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 17:,3:&7&oThere is no such thing,4:&7&oas an ordinary cat.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_18:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_18}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 18:,3:&7&oRun.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_19:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_19}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 19:,3:&7&oI cannot help you<&cm>,4:&7&ofor i am just a cookie.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_20:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_20}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 20:,3:&7&oToday is your lucky day.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_21:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_21}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 21:,3:&7&oIgnore the previous cookie.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_22:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_22}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 22:,3:&7&oKeep your goals,4:&7&oaway from the trolls.]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_23:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_23}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 23:,3:&7&oCall your mother!]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_24:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_24}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 24:,3:&7&oAlso call your grandmother!]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_25:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_25}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 25:,3:&7&oYou really like collecting these,4:&7&odon<&sq>t you?]}},Count:1b}}"}
+lucky_block_event_positive_fortune_cookie_26:
+  Skills:
+  - setstance{s=*_positive_fortune_cookie_26}
+  - command{c="execute <target.uuid> ~ ~ ~ summon Item ~ ~1 ~ {Item:{id:cookie,tag:{display:{Name:&eFortune Cookie&r,Lore:[1:,2:&fCookie no. 26:,3:&7&oThank you!,4:&7&oI was stuck in that block for an eternity!]}},Count:1b}}"}
+lucky_block_event_positive_four_leaf_clover:
+  Skills:
+  - setstance{s=*_positive_four_leaf_clover}
+  - potion{t=LUCK;d=1728000;l=0} @trigger
+lucky_block_event_positive_fresh_food_master:
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_fresh_food_chicken,
+      lucky_block_event_positive_fresh_food_cow,
+      lucky_block_event_positive_fresh_food_mooshroom,
+      lucky_block_event_positive_fresh_food_pig,
+      lucky_block_event_positive_fresh_food_rabbit,
+      lucky_block_event_positive_fresh_food_sheep,
+      }
+lucky_block_event_positive_fresh_food_chicken:
+  Skills:
+  - setstance{s=*_positive_fresh_food_chicken}
+  - summon{m=lucky_fresh_food_chicken;a=1;r=0}
+  - effect:itemspray{item=feather;a=50;r=1;v=1;d=10}
+lucky_block_event_positive_fresh_food_cow:
+  Skills:
+  - setstance{s=*_positive_fresh_food_cow}
+  - summon{m=lucky_fresh_food_cow;a=1;r=0}
+lucky_block_event_positive_fresh_food_mooshroom:
+  Skills:
+  - setstance{s=*_positive_fresh_food_mooshroom}
+  - summon{m=lucky_fresh_food_mooshroom;a=1;r=0}
+lucky_block_event_positive_fresh_food_pig:
+  Skills:
+  - setstance{s=*_positive_fresh_food_pig}
+  - summon{m=lucky_fresh_food_pig;a=1;r=0}
+lucky_block_event_positive_fresh_food_rabbit:
+  Skills:
+  - setstance{s=*_positive_fresh_food_rabbit}
+  - summon{m=lucky_fresh_food_rabbit;a=1;r=0}
+lucky_block_event_positive_fresh_food_sheep:
+  Skills:
+  - setstance{s=*_positive_fresh_food_sheep}
+  - summon{m=lucky_fresh_food_sheep;a=1;r=0}
+lucky_block_event_positive_local_wall_hacks:
+  Skills:
+  - setstance{s=*_positive_local_wall_hacks}
+  - potion{t=GLOWING;d=6000;l=0} @e[r=64,type=!Player]
+lucky_block_event_positive_lucky_item_processor:
+  Skills:
+  - setstance{s=*_positive_lucky_item_processor}
+  - summon{m=lucky_item_processor;a=1;r=0}
+  - effect:sound{s=entity.blaze.ambient;v=2;p=0}
+lucky_block_event_positive_lucky_potion_master:
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_lucky_potion_level_1,
+      }
+lucky_block_event_positive_lucky_potion_level_1:
+  Skills:
+  - setstance{s=*_positive_lucky_potion_level_1}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:summon Item ~ ~1 ~ 
+      {
+      Item<&co>
+        {
+        id:<&dq>minecraft:potion<&dq>,
+        Count:1b,
+        tag<&co>
+          {
+          CustomPotionEffects<&co>
+            [
+            0:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2401>,Id:22b,Amplifier:0b},
+            1:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2402>,Id:11b,Amplifier:0b},
+            2:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2403>,Id:3b,Amplifier:0b},
+            3:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2404>,Id:12b,Amplifier:0b},
+            4:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2405>,Id:6b,Amplifier:0b},
+            5:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2406>,Id:21b,Amplifier:0b},
+            6:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2407>,Id:5b,Amplifier:0b},
+            7:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2408>,Id:8b,Amplifier:0b},
+            8:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2409>,Id:26b,Amplifier:0b},
+            9:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2410>,Id:16b,Amplifier:0b},
+            10:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2411>,Id:10b,Amplifier:0b},
+            11:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2412>,Id:23b,Amplifier:0b},
+            12:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2413>,Id:1b,Amplifier:0b},
+            13:{Ambient:1b,ShowParticles:1b,Duration:<random.20-2414>,Id:13b,Amplifier:0b}
+            ],
+          HideFlags:2,
+          Potion:<&dq>empty<&dq>,
+          display<&co>
+            {
+            Name:<&dq>&eLucky Potion LV 1&r<&dq>
+            }
+          },
+        Damage:0s
+        }
+      }
+    "}
+lucky_block_event_positive_perpetual_baby_ocelot:
+  Skills:
+  - setstance{s=*_positive_perpetual_baby_ocelot}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:summon Ozelot ~ ~ ~ {OwnerUUID:<trigger.uuid>,CatType:0,Sitting:1b,AgeLocked:1b,Age:-1}"}
+  - effect:sound{s=entity.cat.ambient;v=1;p=2}
+  - effect:particles{p=instantSpell;a=30;hS=0.5;vS=0.05;s=0;y=0.03}
+  - effect:particles{p=heart;a=3;hS=0.1;vS=0.5;s=0;y=0.75}
+lucky_block_event_positive_perpetual_baby_wolf:
+  Skills:
+  - setstance{s=*_positive_perpetual_baby_wolf}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:summon Wolf ~ ~ ~ {Sitting:1b,AgeLocked:1b,Age:-1,OwnerUUID:<trigger.uuid>}"}
+  - effect:sound{s=entity.wolf.whine;v=1;p=2}
+  - effect:particles{p=instantSpell;a=50;hS=0.5;vS=0.05;s=0;y=0.05}
+  - effect:particles{p=heart;a=3;hS=0.3;vS=0.5;s=0;y=0.75}
+lucky_block_event_positive_pitchshift_disco_master:
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_pitchshift_disco_decreased,
+      lucky_block_event_positive_pitchshift_disco_regular,
+      lucky_block_event_positive_pitchshift_disco_increased,
+      }
+lucky_block_event_positive_pitchshift_disco_decreased:
+  Skills:
+  - setstance{s=*_positive_pitchshift_disco_decreased}
+  - effect:sound{s=record.11;v=5;p=0} 0.15
+  - effect:sound{s=record.13;v=5;p=0} 0.15
+  - effect:sound{s=record.blocks;v=5;p=0} 0.15
+  - effect:sound{s=record.cat;v=5;p=0} 0.15
+  - effect:sound{s=record.chirp;v=5;p=0} 0.15 
+  - effect:sound{s=record.far;v=5;p=0} 0.15
+  - effect:sound{s=record.mall;v=5;p=0} 0.15 
+  - effect:sound{s=record.mellohi;v=5;p=0} 0.15 
+  - effect:sound{s=record.stal;v=5;p=0} 0.15
+  - effect:sound{s=record.strad;v=5;p=0} 0.15 
+  - effect:sound{s=record.wait;v=5;p=0} 0.15
+  - effect:sound{s=record.ward;v=5;p=0} 0.15
+lucky_block_event_positive_pitchshift_disco_regular:
+  Skills:
+  - setstance{s=*_positive_pitchshift_disco_regular}
+  - effect:sound{s=record.11;v=5;p=1} 0.15
+  - effect:sound{s=record.13;v=5;p=1} 0.15
+  - effect:sound{s=record.blocks;v=5;p=1} 0.15
+  - effect:sound{s=record.cat;v=5;p=1} 0.15
+  - effect:sound{s=record.chirp;v=5;p=1} 0.15 
+  - effect:sound{s=record.far;v=5;p=1} 0.15
+  - effect:sound{s=record.mall;v=5;p=1} 0.15 
+  - effect:sound{s=record.mellohi;v=5;p=1} 0.15 
+  - effect:sound{s=record.stal;v=5;p=1} 0.15
+  - effect:sound{s=record.strad;v=5;p=1} 0.15 
+  - effect:sound{s=record.wait;v=5;p=1} 0.15
+  - effect:sound{s=record.ward;v=5;p=1} 0.15
+lucky_block_event_positive_pitchshift_disco_increased:
+  Skills:
+  - setstance{s=*_positive_pitchshift_disco_increased}
+  - effect:sound{s=record.11;v=5;p=2} 0.15
+  - effect:sound{s=record.13;v=5;p=2} 0.15
+  - effect:sound{s=record.blocks;v=5;p=2} 0.15
+  - effect:sound{s=record.cat;v=5;p=2} 0.15
+  - effect:sound{s=record.chirp;v=5;p=2} 0.15 
+  - effect:sound{s=record.far;v=5;p=2} 0.15
+  - effect:sound{s=record.mall;v=5;p=2} 0.15 
+  - effect:sound{s=record.mellohi;v=5;p=2} 0.15 
+  - effect:sound{s=record.stal;v=5;p=2} 0.15
+  - effect:sound{s=record.strad;v=5;p=2} 0.15 
+  - effect:sound{s=record.wait;v=5;p=2} 0.15
+  - effect:sound{s=record.ward;v=5;p=2} 0.15
+lucky_block_event_positive_rideable_bat:                                # deactivated, server crash hazard
+  Skills:
+  - setstance{s=*_positive_rideable_bat}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:summon Bat ~ ~ ~ {Passengers:[{id:<&dq>MinecartRideable<&dq>}]}"}
+lucky_block_event_positive_rideable_enderman:                           # deactivated, server crash hazard
+  Skills:
+  - setstance{s=*_positive_rideable_enderman}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:summon Enderman ~ ~ ~ {Passengers:[{id:<&dq>MinecartRideable<&dq>}]}"}
+lucky_block_event_positive_rideable_ocelot:                             # deactivated, server crash hazard
+  Skills:
+  - setstance{s=*_positive_rideable_ocelot}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:summon Ozelot ~ ~ ~ {Passengers:[{id:<&dq>MinecartRideable<&dq>}]}"}
+lucky_block_event_positive_sapling_master:
+  Conditions:
+  - onblock GRASS
+  - inblock AIR
+  - outside true
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_sapling_oak,
+      lucky_block_event_positive_sapling_oak,
+      lucky_block_event_positive_sapling_oak,
+      lucky_block_event_positive_sapling_spruce,
+      lucky_block_event_positive_sapling_spruce,
+      lucky_block_event_positive_sapling_spruce,
+      lucky_block_event_positive_sapling_birch,
+      lucky_block_event_positive_sapling_birch,
+      lucky_block_event_positive_sapling_birch,
+      lucky_block_event_positive_sapling_jungle,
+      lucky_block_event_positive_sapling_acacia,
+      lucky_block_event_positive_sapling_dark_oak,
+      }
+  - effect:sound{s=block.grass.place;v=1;p=0.8}
+  - effect:particles{p=blockcrack_2;a=75;hS=0.5;vS=0.5;s=0.25;y=0.13}
+lucky_block_event_positive_sapling_oak:
+  Skills:
+  - setstance{s=*_positive_sapling_oak}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:setblock ~ ~ ~ minecraft:sapling 0 keep"}
+lucky_block_event_positive_sapling_spruce:
+  Skills:
+  - setstance{s=*_positive_sapling_spruce}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:setblock ~ ~ ~ minecraft:sapling 1 keep"}
+lucky_block_event_positive_sapling_birch:
+  Skills:
+  - setstance{s=*_positive_sapling_birch}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:setblock ~ ~ ~ minecraft:sapling 2 keep"}
+lucky_block_event_positive_sapling_jungle:
+  Skills:
+  - setstance{s=*_positive_sapling_jungle}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:setblock ~ ~ ~ minecraft:sapling 3 keep"}
+lucky_block_event_positive_sapling_acacia:
+  Skills:
+  - setstance{s=*_positive_sapling_acacia}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:setblock ~ ~ ~ minecraft:sapling 4 keep"}
+lucky_block_event_positive_sapling_dark_oak:
+  Skills:
+  - setstance{s=*_positive_sapling_dark_oak}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:setblock ~ ~ ~ minecraft:sapling 5 keep"}
+lucky_block_event_positive_tier_gear_master:
+  Conditions:
+  - mobscore luckyblockspos;>50
+  Skills:
+  - summon{m=lucky_tier_gear_stand;a=1;r=0}
+  - randomskill
+      {skills=
+      lucky_block_event_positive_tier_gear_level_0_master,
+      lucky_block_event_positive_tier_gear_level_1_master,
+      lucky_block_event_positive_tier_gear_level_2_master,
+      lucky_block_event_positive_tier_gear_level_3_master,
+      lucky_block_event_positive_tier_gear_level_4_master,
+      lucky_block_event_positive_tier_gear_level_5_master,
+      lucky_block_event_positive_tier_gear_level_6_master,
+      lucky_block_event_positive_tier_gear_level_7_master,
+      lucky_block_event_positive_tier_gear_level_13_master,
+      }
+  - lightning
+  - effect:particles{p=instantSpell;a=100;hS=0.5;vS=0.8;s=0.1;y=0.66}
+  - effect:particles{p=cloud;a=75;hS=0.1;vS=0.2;s=0.3;y=0.5}
+lucky_block_event_positive_tier_gear_level_0_master:
+  Conditions:
+  - mobscore luckyblockspos;>50
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_tier_gear_level_0_helmet,
+      lucky_block_event_positive_tier_gear_level_0_chestplate,
+      lucky_block_event_positive_tier_gear_level_0_leggings,
+      lucky_block_event_positive_tier_gear_level_0_boots,
+      }
+lucky_block_event_positive_tier_gear_level_1_master:
+  Conditions:
+  - mobscore luckyblockspos;>55
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_tier_gear_level_1_helmet,
+      lucky_block_event_positive_tier_gear_level_1_chestplate,
+      lucky_block_event_positive_tier_gear_level_1_leggings,
+      lucky_block_event_positive_tier_gear_level_1_boots,
+      }
+lucky_block_event_positive_tier_gear_level_2_master:
+  Conditions:
+  - mobscore luckyblockspos;>60
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_tier_gear_level_2_helmet,
+      lucky_block_event_positive_tier_gear_level_2_chestplate,
+      lucky_block_event_positive_tier_gear_level_2_leggings,
+      lucky_block_event_positive_tier_gear_level_2_boots,
+      }
+lucky_block_event_positive_tier_gear_level_3_master:
+  Conditions:
+  - mobscore luckyblockspos;>65
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_tier_gear_level_3_helmet,
+      lucky_block_event_positive_tier_gear_level_3_chestplate,
+      lucky_block_event_positive_tier_gear_level_3_leggings,
+      lucky_block_event_positive_tier_gear_level_3_boots,
+      }
+lucky_block_event_positive_tier_gear_level_4_master:
+  Conditions:
+  - mobscore luckyblockspos;>70
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_tier_gear_level_4_helmet,
+      lucky_block_event_positive_tier_gear_level_4_chestplate,
+      lucky_block_event_positive_tier_gear_level_4_leggings,
+      lucky_block_event_positive_tier_gear_level_4_boots,
+      }
+lucky_block_event_positive_tier_gear_level_5_master:
+  Conditions:
+  - mobscore luckyblockspos;>75
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_tier_gear_level_5_helmet,
+      lucky_block_event_positive_tier_gear_level_5_chestplate,
+      lucky_block_event_positive_tier_gear_level_5_leggings,
+      lucky_block_event_positive_tier_gear_level_5_boots,
+      }
+lucky_block_event_positive_tier_gear_level_6_master:
+  Conditions:
+  - mobscore luckyblockspos;>80
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_tier_gear_level_6_helmet,
+      lucky_block_event_positive_tier_gear_level_6_chestplate,
+      lucky_block_event_positive_tier_gear_level_6_leggings,
+      lucky_block_event_positive_tier_gear_level_6_boots,
+      }
+lucky_block_event_positive_tier_gear_level_7_master:
+  Conditions:
+  - mobscore luckyblockspos;>85
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_tier_gear_level_7_helmet,
+      lucky_block_event_positive_tier_gear_level_7_chestplate,
+      lucky_block_event_positive_tier_gear_level_7_leggings,
+      lucky_block_event_positive_tier_gear_level_7_boots,
+      }
+lucky_block_event_positive_tier_gear_level_13_master:
+  Conditions:
+  - mobscore luckyblockspos;>90
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_tier_gear_level_13_helmet,
+      lucky_block_event_positive_tier_gear_level_13_chestplate,
+      lucky_block_event_positive_tier_gear_level_13_leggings,
+      lucky_block_event_positive_tier_gear_level_13_boots,
+      }
+lucky_block_event_positive_tier_gear_level_0_helmet:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_0_helmet}
+  - setstance{s=equip_tier_gear_level_0_helmet} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_0_chestplate:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_0_chestplate}
+  - setstance{s=equip_tier_gear_level_0_chestplate} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_0_leggings:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_0_leggings}
+  - setstance{s=equip_tier_gear_level_0_leggings} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_0_boots:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_0_boots}
+  - setstance{s=equip_tier_gear_level_0_boots} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_1_helmet:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_1_helmet}
+  - setstance{s=equip_tier_gear_level_1_helmet} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_1_chestplate:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_1_chestplate}
+  - setstance{s=equip_tier_gear_level_1_chestplate} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_1_leggings:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_1_leggings}
+  - setstance{s=equip_tier_gear_level_1_leggings} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_1_boots:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_1_boots}
+  - setstance{s=equip_tier_gear_level_1_boots} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_2_helmet:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_2_helmet}
+  - setstance{s=equip_tier_gear_level_2_helmet} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_2_chestplate:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_2_chestplate}
+  - setstance{s=equip_tier_gear_level_2_chestplate} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_2_leggings:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_2_leggings}
+  - setstance{s=equip_tier_gear_level_2_leggings} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_2_boots:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_2_boots}
+  - setstance{s=equip_tier_gear_level_2_boots} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_3_helmet:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_3_helmet}
+  - setstance{s=equip_tier_gear_level_3_helmet} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_3_chestplate:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_3_chestplate}
+  - setstance{s=equip_tier_gear_level_3_chestplate} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_3_leggings:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_3_leggings}
+  - setstance{s=equip_tier_gear_level_3_leggings} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_3_boots:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_3_boots}
+  - setstance{s=equip_tier_gear_level_3_boots} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_4_helmet:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_4_helmet}
+  - setstance{s=equip_tier_gear_level_4_helmet} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_4_chestplate:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_4_chestplate}
+  - setstance{s=equip_tier_gear_level_4_chestplate} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_4_leggings:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_4_leggings}
+  - setstance{s=equip_tier_gear_level_4_leggings} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_4_boots:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_4_boots}
+  - setstance{s=equip_tier_gear_level_4_boots} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_5_helmet:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_5_helmet}
+  - setstance{s=equip_tier_gear_level_5_helmet} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_5_chestplate:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_5_chestplate}
+  - setstance{s=equip_tier_gear_level_5_chestplate} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_5_leggings:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_5_leggings}
+  - setstance{s=equip_tier_gear_level_5_leggings} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_5_boots:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_5_boots}
+  - setstance{s=equip_tier_gear_level_5_boots} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_6_helmet:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_6_helmet}
+  - setstance{s=equip_tier_gear_level_6_helmet} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_6_chestplate:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_6_chestplate}
+  - setstance{s=equip_tier_gear_level_6_chestplate} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_6_leggings:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_6_leggings}
+  - setstance{s=equip_tier_gear_level_6_leggings} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_6_boots:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_6_boots}
+  - setstance{s=equip_tier_gear_level_6_boots} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_7_helmet:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_7_helmet}
+  - setstance{s=equip_tier_gear_level_7_helmet} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_7_chestplate:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_7_chestplate}
+  - setstance{s=equip_tier_gear_level_7_chestplate} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_7_leggings:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_7_leggings}
+  - setstance{s=equip_tier_gear_level_7_leggings} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_7_boots:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_7_boots}
+  - setstance{s=equip_tier_gear_level_7_boots} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_13_helmet:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_13_helmet}
+  - setstance{s=equip_tier_gear_level_13_helmet} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_13_chestplate:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_13_chestplate}
+  - setstance{s=equip_tier_gear_level_13_chestplate} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_13_leggings:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_13_leggings}
+  - setstance{s=equip_tier_gear_level_13_leggings} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_positive_tier_gear_level_13_boots:
+  Skills:
+  - setstance{s=*_positive_tier_gear_level_13_boots}
+  - setstance{s=equip_tier_gear_level_13_boots} @MIR{r=1.5;t=lucky_tier_gear_stand}
+lucky_block_event_negative_timeshift_day:
+  Skills:
+  - setstance{s=*_negative_timeshift_day}
+  - command{c="minecraft:time set 0"}
+lucky_block_event_positive_true_mr_rainbow:
+  Skills:
+  - setstance{s=*_positive_true_mr_rainbow}
+  - summon{m=lucky_true_mr_rainbow;a=1;r=0}
+lucky_block_event_positive_villager_master:
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_positive_villager_harmonious_blacksmith,
+      lucky_block_event_positive_villager_professor_snabe,
+      lucky_block_event_positive_villager_lucky_purveyor,
+      }
+lucky_block_event_positive_villager_harmonious_blacksmith:
+  Skills:
+  - setstance{s=*_positive_villager_harmonious_blacksmith}
+  - summon{m=lucky_villager_harmonious_blacksmith;a=1;r=0}
+lucky_block_event_positive_villager_professor_snabe:
+  Skills:
+  - setstance{s=*_positive_villager_professor_snabe}
+  - summon{m=lucky_villager_professor_snabe;a=1;r=0}
+lucky_block_event_positive_villager_lucky_purveyor:
+  Skills:
+  - setstance{s=*_positive_villager_lucky_purveyor}
+  - summon{m=lucky_villager_lucky_purveyor;a=1;r=0}
+## negative
+# negative trigger
+lucky_block_event_negative_trigger:
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_negative_acrophobia_master,
+      lucky_block_event_negative_angry_lucky_block_toggle,
+      lucky_block_event_negative_annoyed_villager,
+      lucky_block_event_negative_blindness,
+      lucky_block_event_negative_cobweb_trap,
+      lucky_block_event_negative_doppleganger_master,
+      lucky_block_event_negative_drops_misc_master,
+      lucky_block_event_negative_fiery_entity,
+      lucky_block_event_negative_flying_creeper,
+      lucky_block_event_negative_flying_laser_squid,
+      lucky_block_event_negative_haunted_block,
+      lucky_block_event_negative_hostile_snowman,
+      lucky_block_event_negative_ignite,
+      lucky_block_event_negative_invisible_wolf,
+      lucky_block_event_negative_lucky_sniper,
+      lucky_block_event_negative_magma_cube_tower,
+      lucky_block_event_negative_mounted_creeper,
+      lucky_block_event_negative_nuke,
+      lucky_block_event_negative_panicking_creeper,
+      lucky_block_event_negative_random_message,
+      lucky_block_event_negative_slime_tower,
+      lucky_block_event_negative_smite,
+      lucky_block_event_negative_timeshift_night,
+      lucky_block_event_negative_useless_squid,
+      lucky_block_event_negative_warrior_master,
+      lucky_block_event_negative_witch,
+      }
+# negative events
+lucky_block_event_negative_acrophobia_master:
+  Conditions:
+  - outside true
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_negative_acrophobia_levitation,
+      lucky_block_event_negative_acrophobia_build_height_limit,
+      lucky_block_event_negative_acrophobia_catapult,
+      }
+lucky_block_event_negative_acrophobia_levitation:
+  Skills:
+  - setstance{s=*_negative_acrophobia_levitation}
+  - command{c="minecraft:effect <target.name> minecraft:levitation 2 64"} @trigger
+  - effect:particles{p=cloud;a=3;hs=0.1;vs=0.1;y=2;s=0.01;repeat=46;repeatInterval=1} @trigger
+  - command{c="minecraft:effect <target.name> minecraft:levitation 30 255";delay=41} @trigger
+  - effect:particles{p=cloud;a=200;hs=0.75;vs=0.25;y=1.5;s=0.075;delay=43} @trigger
+lucky_block_event_negative_acrophobia_build_height_limit:
+  Skills:
+  - setstance{s=*_negative_acrophobia_build_height_limit}
+  - command{c="minecraft:tp <trigger.name> ~ 256 ~"}
+  - command{c="minecraft:execute <trigger.name> ~ ~ ~ minecraft:setblock ~ ~-1 ~ minecraft:stained_glass 3 keep"}
+lucky_block_event_negative_acrophobia_catapult:
+  Skills:
+  - setstance{s=*_negative_acrophobia_catapult}
+  - command{c="minecraft:tp <mob.uuid> ~ ~-1 ~"}
+  - throw{v=10;vy=50} @PIR{r=7}
+  - summon{m=lucky_acrophobia_catapult_dummy;a=1;r=0}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~2 ~1 ~2 ~-2 ~ ~-2 barrier 0 replace air"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~2 ~1 ~2 ~-2 ~ ~-2 barrier 0 replace tallgrass"}
+  - command{c="execute <mob.uuid> ~ ~ ~ fill ~1 ~1 ~1 ~-1 ~1 ~-1 water 0 replace barrier"}
+lucky_block_event_negative_angry_lucky_block_toggle:
+  Skills:
+  - setstance{s=*_negative_angry_lucky_block}
+  - signal{s=lucky_block_negative_event_angry_lucky_block} @MIR{r=32;t=lucky_block}
+  - signal{s=lucky_block_negative_event_angry_lucky_block} @self
+lucky_block_event_negative_angry_lucky_block_master:
+  Conditions:
+  - lastsignal lucky_block_negative_event_angry_lucky_block
+  Skills:
+  - remove @e[rm=0,r=2,c=1,name=lucky_block_mount]
+  - command{c="minecraft:tp <mob.uuid> ~ ~1 ~"}
+  - randomskill
+      {skills=
+      lucky_block_event_negative_angry_lucky_block_zombie,
+      lucky_block_event_negative_angry_lucky_block_zombie,
+      lucky_block_event_negative_angry_lucky_block_zombie,
+      lucky_block_event_negative_angry_lucky_block_skeleton,
+      }
+lucky_block_event_negative_angry_lucky_block_zombie:
+  Skills:
+  - summon{m=lucky_block_angry_zombie;a=1;r=0}
+  - remove
+lucky_block_event_negative_angry_lucky_block_skeleton:
+  Skills:
+  - summon{m=lucky_block_angry_skeleton;a=1;r=0}
+  - remove
+lucky_block_event_negative_annoyed_villager:
+  Skills:
+  - setstance{s=*_negative_annoyed_villager}
+  - summon{m=lucky_annoyed_villager_golem;a=1;r=0}
+lucky_block_event_negative_blindness:
+  Skills:
+  - setstance{s=*_negative_blindness}
+  - potion{t=BLINDNESS;d=3600;l=0} @PIR{r=7}
+  - potion{t=SLOW;d=3600;l=0} @PIR{r=7}
+  - summon{m=COW;a=1;r=0}
+  - command{c="minecraft:give <trigger.name> minecraft:bucket 1"}
+  - effect:sound{s=entity.wither.hurt;v=3;p=0}
+lucky_block_event_negative_cobweb_trap:
+  Skills:
+  - setstance{s=*_negative_cobweb_trap}
+  - effect:blockmask{m=web;d=1200;r=2;n=0.5;na=false} @PIR{r=7}
+  - potion{t=SLOW;d=1200;l=0} @PIR{r=7}
+  - effect:sound{s=entity.spider.ambient;v=2;p=1}
+  - effect:sound{s=entity.spider.ambient;v=1.8;p=0.8}
+lucky_block_event_negative_doppleganger_master:                         # requires LibsDisguises
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_negative_doppleganger_zombie,
+      lucky_block_event_negative_doppleganger_skeleton,
+      }
+lucky_block_event_negative_doppleganger_zombie:                         # requires LibsDisguises
+  Skills:
+  - setstance{s=*_negative_doppleganger_zombie}
+  - summon{m=lucky_doppleganger_zombie;a=1;r=0}
+lucky_block_event_negative_doppleganger_skeleton:                       # requires LibsDisguises
+  Skills:
+  - setstance{s=*_negative_doppleganger_skeleton}
+  - summon{m=lucky_doppleganger_skeleton;a=1;r=0}
+lucky_block_event_negative_drops_misc_master:
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_negative_drops_misc_cobblestone,
+      lucky_block_event_negative_drops_misc_dirt,
+      lucky_block_event_negative_drops_misc_gravel,
+      lucky_block_event_negative_drops_misc_sand,
+      lucky_block_event_negative_drops_misc_stick,
+      lucky_block_event_negative_drops_misc_stone,
+      }
+  - skill{s=lucky_block_fx_event_negative_drops}
+lucky_block_event_negative_drops_misc_cobblestone:
+  Skills:
+  - setstance{s=*_negative_drops_misc_cobblestone}
+  - summon{m=lucky_block_dropper;a=1;r=0}
+  - setstance{s=lucky_block_drops_misc_cobblestone} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_negative_drops_misc_dirt:
+  Skills:
+  - setstance{s=*_negative_drops_misc_dirt}
+  - summon{m=lucky_block_dropper;a=1;r=0}
+  - setstance{s=lucky_block_drops_misc_dirt} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_negative_drops_misc_gravel:
+  Skills:
+  - setstance{s=*_negative_drops_misc_gravel}
+  - summon{m=lucky_block_dropper;a=1;r=0}
+  - setstance{s=lucky_block_drops_misc_gravel} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_negative_drops_misc_sand:
+  Skills:
+  - setstance{s=*_negative_drops_misc_sand}
+  - summon{m=lucky_block_dropper;a=1;r=0}
+  - setstance{s=lucky_block_drops_misc_sand} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_negative_drops_misc_stick:
+  Skills:
+  - setstance{s=*_negative_drops_misc_stick}
+  - summon{m=lucky_block_dropper;a=1;r=0}
+  - setstance{s=lucky_block_drops_misc_stick} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_negative_drops_misc_stone:
+  Skills:
+  - setstance{s=*_negative_drops_misc_stone}
+  - summon{m=lucky_block_dropper;a=1;r=0}
+  - setstance{s=lucky_block_drops_misc_stone} @MIR{r=3;t=lucky_block_dropper}
+lucky_block_event_negative_fiery_entity:
+  Skills:
+  - setstance{s=*_negative_fiery_entity}
+  - summon{m=lucky_fiery_entity;a=1;r=0}
+lucky_block_event_negative_flying_creeper:
+  Skills:
+  - setstance{s=*_negative_flying_creeper}
+  - summon{m=lucky_creeper_mounted_flying;a=1;r=0}
+  - summon{m=lucky_creeper_mounted_flying;a=1;r=1} 0.5
+  - summon{m=lucky_creeper_mounted_flying;a=1;r=2} 0.25
+  - summon{m=lucky_creeper_mounted_flying;a=1;r=3} 0.1
+lucky_block_event_negative_flying_laser_squid:                          # requires LibsDisguises
+  Skills:
+  - setstance{s=*_negative_flying_laser_squid}
+  - summon{m=lucky_flying_laser_squid;a=1;r=0}
+lucky_block_event_negative_haunted_block:                               # requires LibsDisguises
+  Conditions:
+  - onblock dirt,grass,gravel,stone,sand,snow
+  Skills:
+  - setstance{s=*_negative_haunted_block}
+  - summon{m=lucky_haunted_block;a=6;r=12;yn=0}
+  - summon{m=lucky_haunted_block;a=1;r=12;yn=0} 0.5
+  - summon{m=lucky_haunted_block;a=1;r=12;yn=0} 0.25
+  - summon{m=lucky_haunted_block;a=1;r=12;yn=0} 0.1
+  - summon{m=lucky_haunted_block;a=1;r=12;yn=0} 0.01
+lucky_block_event_negative_hostile_snowman:
+  Skills:
+  - setstance{s=*_negative_hostile_snowman}
+  - summon{m=lucky_hostile_snowman;a=1;r=0}
+lucky_block_event_negative_ignite:
+  Conditions:
+  - inblock AIR
+  - onblock GRASS,DIRT,STONE,GRAVEL,SAND
+  Skills:
+  - setstance{s=*_negative_ignite}
+  - damage{a=4;i=false} @PIR{r=7}
+  - ignite{t=1200} @LivingEntitiesInRadius{r=7}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:setblock ~ ~-1 ~ minecraft:netherrack 0 replace"}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:setblock ~ ~ ~ minecraft:fire 0 replace"}
+  - effect:particles{p=smoke;a=100;hS=0.5;vS=0.5;s=0.25;y=0.5}
+  - effect:particles{p=flame;a=10;hS=0.2;vS=0.2;s=0.25;y=0.5}
+  - effect:sound{s=entity.ghast.shoot;v=1;p=0.9}
+  - effect:sound{s=entity.ghast.shoot;v=0.5;p=0.85;delay=2} @LivingEntitiesInRadius{r=7}
+lucky_block_event_negative_invisible_wolf:
+  Skills:
+  - setstance{s=*_negative_invisible_wolf}
+  - summon{m=lucky_invisible_wolf;a=7;r=1}
+  - summon{m=lucky_block;a=1;r=0}
+lucky_block_event_negative_lucky_sniper:                                # requires LibsDisguises
+  Skills:
+  - setstance{s=*_negative_lucky_sniper}
+  - summon{m=lucky_sniper;a=1;r=3}
+  - summon{m=lucky_sniper;a=1;r=3} 0.5
+  - summon{m=lucky_sniper;a=1;r=3} 0.25
+  - summon{m=lucky_sniper;a=1;r=3} 0.1
+lucky_block_event_negative_magma_cube_tower:
+  Skills:
+  - setstance{s=*_negative_magma_cube_tower}
+  - throw{v=10;vy=3} @PIR{r=5}
+  - delay 1
+  - summon{m=lucky_magma_cube_tower_13;a=1;r=0}
+lucky_block_event_negative_mounted_creeper:
+  Skills:
+  - setstance{s=*_negative_mounted_creeper}
+  - summon{m=lucky_creeper_mounted_lucky_spider;a=1;r=0}
+  - summon{m=lucky_creeper_mounted_lucky_spider;a=1;r=1} 0.5
+  - summon{m=lucky_creeper_mounted_lucky_spider;a=1;r=2} 0.25
+  - summon{m=lucky_creeper_mounted_lucky_spider;a=1;r=3} 0.1
+lucky_block_event_negative_nuke:                                        # requires LibsDisguises
+  Skills:
+  - setstance{s=*_negative_nuke}
+  - summon{m=lucky_nuke;a=1;r=0}
+lucky_block_event_negative_panicking_creeper:
+  Skills:
+  - setstance{s=*_negative_panicking_creeper}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:summon Creeper ~<random.0-3> ~0 ~<random.0-3> {Passengers:[{id:<&dq>Ozelot<&dq>,Sitting:<random.0-1>b}]}"}
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:summon Creeper ~<random.0-3> ~0 ~<random.0-3> {Passengers:[{id:<&dq>Ozelot<&dq>,Sitting:<random.0-1>b}]}"} 0.5
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:summon Creeper ~<random.0-3> ~0 ~<random.0-3> {Passengers:[{id:<&dq>Ozelot<&dq>,Sitting:<random.0-1>b}]}"} 0.25
+  - command{c="minecraft:execute <mob.uuid> ~ ~ ~ minecraft:summon Creeper ~<random.0-3> ~0 ~<random.0-3> {Passengers:[{id:<&dq>Ozelot<&dq>,Sitting:<random.0-1>b}]}"} 0.1
+lucky_block_event_negative_random_message:
+  Skills:
+  - setstance{s=*_negative_random_message}
+  - randommessage
+      {m=
+      "&7&oHe<&sq>s after you. Run.",
+      "&7&oWell, that was kinda useless.",
+      "&7&oWhat were you even expecting from this?",
+      "&7&oSorry, you<&sq>re not lucky enough to see this event.",
+      "&7&oMy mom said i<&sq>d be a good stand-up comedian!",
+      "&7&oWhatever you do<&co> do NOT turn around.",
+      "&7&oDear diary<&co> sogfjogkdflgg",
+      "&7&oYou have opened <trigger.score.luckyblocks> so far!",
+      "&7&oI find your lack of luck disturbing.",
+      "&7&oThe unwanted fortune cookies had to go somewhere...",
+      "&7&oThe luck is not with you today.",
+      "&7&oMaybe you should take a break from this.",
+      "&7&oI have a boyfriend!",
+      "&7&oHave you ever had a block talk back at you?",
+      "&7&oWhat are the odds of this happening twice in a row?",
+      } @trigger
+lucky_block_event_negative_slime_tower:
+  Skills:
+  - setstance{s=*_negative_slime_tower}
+  - throw{v=10;vy=3} @PIR{r=5}
+  - delay 1
+  - summon{m=lucky_slimetower_13;a=1;r=0}
+lucky_block_event_negative_smite:
+  Skills:
+  - setstance{s=*_negative_smite}
+  - effect:lightning{l=true;lr=128} @self
+  - damage{a=5} @PIR{r=7}
+  - ignite{t=200} @PIR{r=3}
+lucky_block_event_negative_timeshift_night:
+  Skills:
+  - setstance{s=*_negative_timeshift_night}
+  - command{c="minecraft:time set 16000"}
+lucky_block_event_negative_useless_squid:
+  Skills:
+  - setstance{s=*_negative_useless_squid}
+  - summon{m=SQUID;a=1;r=0}
+lucky_block_event_negative_warrior_master:
+  Skills:
+  - randomskill
+      {skills=
+      lucky_block_event_negative_warrior,
+      lucky_block_event_negative_warrior_trainee,
+      lucky_block_event_negative_warrior_ender,
+      }
+lucky_block_event_negative_warrior:
+  Skills:
+  - setstance{s=*_negative_warrior}
+  - summon{m=lucky_warrior;a=1;r=0}
+lucky_block_event_negative_warrior_trainee:
+  Skills:
+  - setstance{s=*_negative_warrior_trainee}
+  - summon{m=lucky_warrior_trainee;a=1;r=0}
+lucky_block_event_negative_warrior_ender:
+  Skills:
+  - setstance{s=*_negative_warrior_ender}
+  - summon{m=lucky_warrior_ender;a=1;r=0}
+lucky_block_event_negative_witch:
+  Skills:
+  - setstance{s=*_negative_witch}
+  - summon{m=lucky_witch;a=1;r=0}
+  - summon{m=BAT;a=7;r=0}
+  - effect:sound{s=entity.enderdragon.flap;v=1;p=2}
+  - effect:particles{p=smoke;a=50;hS=0.3;vS=0.3;s=0.1;y=0.5}
+  - effect:particles{p=witchMagic;a=50;hS=0.3;vS=0.3;s=0.1;y=0.4}
+########################################################################
+### other
+lucky_adventure_portal_execution:
+  Skills:
+  - command{c="minecraft:effect <target.name> minecraft:nausea 8 0 true";repeat=12;repeatInterval=10} @PIR{r=2}
+  - command{c="minecraft:effect <target.name> minecraft:nausea 0 0 true";repeat=12;repeatInterval=10} @playersinring{min=2;max=7}
+  - effect:particles{p=portal;a=2;vs=0.1;hs=0.1;s=1.75;y=0.1;repeat=80;repeatInterval=1}
+  - effect:particles{p=portal;a=2;vs=0.05;hs=0.3;s=0;y=0.025;repeat=130;repeatInterval=1}
+  - effect:particles{p=fireworksSpark;a=1;vs=0.1;hs=0.4;s=0;y=0.15;repeat=130;repeatInterval=1}
+  - effect:sound{s=block.portal.ambient;v=2;p=0.5}
+  - delay 50
+  - effect:sound{s=block.portal.ambient;v=0.5;p=2}
+  - delay 35
+  - effect:sound{s=block.portal.trigger;v=0.2;p=2}
+  - delay 35
+  - command{c="minecraft:effect <target.name> minecraft:blindness 1 0 true"} @PIR{r=7}
+  - effect:sound{s=entity.enderdragon.flap;v=2;p=0}
+  - command{c="minecraft:effect <target.name> minecraft:nausea 0 0 false"} @PIR{r=7}
+  - command{c="execute <mob.uuid> ~ ~ ~ spreadplayers 0 0 0 10000 false <target.name>"} @PIR{r=2}
+  - delay 1
+  - remove
+lucky_doppleganger_disguise:
+  Skills:
+  - doppleganger @target
+lucky_fresh_food_common:
+  Skills:
+  - ignite{t=400} 0.5
+  - delay 20
+  - ejectpassenger 0.25
+lucky_haunted_block_disguise:
+  Skills:
+  - potion{t=INVISIBILITY;d=20;l=0}
+  - skill{s=lucky_haunted_block_disguise_success_master}
+  - delay 1
+  - skill{s=lucky_haunted_block_disguise_failure}
+lucky_haunted_block_disguise_failure:
+  Conditions:
+  - stance default
+  Skills:
+  - remove
+lucky_haunted_block_disguise_success_master:
+  Conditions:
+  - onblock dirt,grass,gravel,stone,sand,snow
+  Skills:
+  - setstance{s=disguised}
+  - skill{s=lucky_haunted_block_disguise_success_dirt}
+  - skill{s=lucky_haunted_block_disguise_success_grass}
+  - skill{s=lucky_haunted_block_disguise_success_gravel}
+  - skill{s=lucky_haunted_block_disguise_success_stone}
+  - skill{s=lucky_haunted_block_disguise_success_sand}
+  - skill{s=lucky_haunted_block_disguise_success_snow}
+  - effect:sound{s=entity.item.pickup;v=1;p=0}
+  - command{c="execute <mob.uuid> ~ ~ ~ setblock ~ ~-1 ~ air 0 replace"}
+  - jump{v=0.25}
+  - delay 1
+  - damage{a=0}
+lucky_haunted_block_disguise_success_dirt:
+  Conditions:
+  - onblock dirt
+  Skills:
+  - disguise{d=block:DIRT}
+lucky_haunted_block_disguise_success_grass:
+  Conditions:
+  - onblock grass
+  Skills:
+  - disguise{d=block:GRASS}
+lucky_haunted_block_disguise_success_gravel:
+  Conditions:
+  - onblock gravel
+  Skills:
+  - disguise{d=block:GRAVEL}
+lucky_haunted_block_disguise_success_stone:
+  Conditions:
+  - onblock stone
+  Skills:
+  - disguise{d=block:STONE}
+lucky_haunted_block_disguise_success_sand:
+  Conditions:
+  - onblock sand
+  Skills:
+  - disguise{d=block:SAND}
+lucky_haunted_block_disguise_success_snow:
+  Conditions:
+  - onblock snow
+  Skills:
+  - disguise{d=block:SNOW_BLOCK}
+lucky_item_processor_on_spawn_core:
+  Skills:
+  - setstance{stance=holding_nothing}
+  - command{c="minecraft:entitydata <mob.uuid> {ShowArms:true,HandItems:[],DisabledSlots:1973790}"}
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[77f,0f,0f],LeftLeg:[6f,0f,359f],RightLeg:[6f,315f,0f],LeftArm:[0f,0f,11f],RightArm:[314f,0f,0f]}}"}
+lucky_item_processor_clock:
+  Skills:
+  # - skill{s=lucky_item_processor_holding_something_test_master;sync=true}
+lucky_item_processor_holding_something_test_master:
+  Conditions:
+  - stance holding_nothing
+  Skills:
+  - skill{s=lucky_item_processor_holding_something_test_armor_stand}
+  - skill{s=lucky_item_processor_holding_something_test_brown_mushroom}
+  - skill{s=lucky_item_processor_holding_something_test_diamond}
+  - skill{s=lucky_item_processor_holding_something_test_dirt}
+  - skill{s=lucky_item_processor_holding_something_test_feather}
+  - skill{s=lucky_item_processor_holding_something_test_flint}
+  - skill{s=lucky_item_processor_holding_something_test_gold_ingot}
+  - skill{s=lucky_item_processor_holding_something_test_gunpowder}
+  - skill{s=lucky_item_processor_holding_something_test_milk_bucket}
+  - skill{s=lucky_item_processor_holding_something_test_poisonous_potato}
+  - skill{s=lucky_item_processor_holding_something_test_red_mushroom}
+  - skill{s=lucky_item_processor_holding_something_test_stick}
+  - skill{s=lucky_item_processor_holding_something_test_tnt}
+  - skill{s=lucky_item_processor_holding_something_test_wheat}
+  - skill{s=lucky_item_processor_holding_something_test_wool}
+lucky_item_processor_holding_something_test_armor_stand:
+  Conditions:
+  - holding armor_stand
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_brown_mushroom:
+  Conditions:
+  - holding brown_mushroom
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_diamond:
+  Conditions:
+  - holding diamond
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_dirt:
+  Conditions:
+  - holding dirt
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_feather:
+  Conditions:
+  - holding feather
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_flint:
+  Conditions:
+  - holding flint
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_gold_ingot:
+  Conditions:
+  - holding gold_ingot
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_gunpowder:
+  Conditions:
+  - holding sulphur
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_milk_bucket:
+  Conditions:
+  - holding milk_bucket
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_poisonous_potato:
+  Conditions:
+  - holding poisonous_potato
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_red_mushroom:
+  Conditions:
+  - holding red_mushroom
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_stick:
+  Conditions:
+  - holding stick
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_tnt:
+  Conditions:
+  - holding tnt
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_wheat:
+  Conditions:
+  - holding wheat
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_test_wool:
+  Conditions:
+  - holding wool
+  Skills:
+  - setstance{stance=holding_something}
+  - skill{s=lucky_item_processor_holding_something_animation}
+lucky_item_processor_holding_something_animation:
+  Skills:
+  - command{c="minecraft:entitydata <mob.uuid> {DisabledSlots:2039583}"}
+  - effect:sound{s=entity.blaze.ambient;v=2;p=0}
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[76f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[75f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[74f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[73f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[72f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[71f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[70f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[69f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[68f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[67f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[66f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[65f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[64f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[63f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[62f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[61f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[60f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[59f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[58f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[57f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[56f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[55f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[54f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[53f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[52f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[51f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[50f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[49f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[48f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[47f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[46f,0f,0f],RightArm:[314f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[45f,0f,0f],RightArm:[315f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[44f,0f,0f],RightArm:[316f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[43f,0f,0f],RightArm:[317f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[42f,0f,0f],RightArm:[318f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[41f,0f,0f],RightArm:[319f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[40f,0f,0f],RightArm:[320f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[39f,0f,0f],RightArm:[321f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[38f,0f,0f],RightArm:[322f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[37f,0f,0f],RightArm:[323f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[36f,0f,0f],RightArm:[324f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[35f,0f,0f],RightArm:[325f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[34f,0f,0f],RightArm:[326f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[33f,0f,0f],RightArm:[327f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[32f,0f,0f],RightArm:[328f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[31f,0f,0f],RightArm:[329f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[30f,0f,0f],RightArm:[330f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[29f,0f,0f],RightArm:[331f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[28f,0f,0f],RightArm:[332f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[27f,0f,0f],RightArm:[333f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[26f,0f,0f],RightArm:[334f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[25f,0f,0f],RightArm:[335f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[24f,0f,0f],RightArm:[336f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[23f,0f,0f],RightArm:[337f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[22f,0f,0f],RightArm:[338f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[21f,0f,0f],RightArm:[339f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[20f,0f,0f],RightArm:[340f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[19f,0f,0f],RightArm:[341f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[18f,0f,0f],RightArm:[342f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[17f,0f,0f],RightArm:[343f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[16f,0f,0f],RightArm:[344f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[15f,0f,0f],RightArm:[345f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[14f,0f,0f],RightArm:[346f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[13f,0f,0f],RightArm:[347f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[12f,0f,0f],RightArm:[348f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[11f,0f,0f],RightArm:[349f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[10f,0f,0f],RightArm:[350f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[9f,0f,0f],RightArm:[351f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[8f,0f,0f],RightArm:[352f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[7f,0f,0f],RightArm:[353f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[6f,0f,0f],RightArm:[354f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[5f,0f,0f],RightArm:[355f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[4f,0f,0f],RightArm:[356f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[3f,0f,0f],RightArm:[357f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[2f,0f,0f],RightArm:[358f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[1f,0f,0f],RightArm:[359f,0f,0f]}}"}
+  - delay 1
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{Head:[0f,0f,0f],RightArm:[0f,0f,0f]}}"}
+  - delay 20
+  - skill{s=lucky_item_processor_holding_something_trigger_master}
+lucky_item_processor_holding_something_trigger_master:
+  Skills:
+  - skill{s=lucky_item_processor_holding_something_trigger_armor_stand}
+  - skill{s=lucky_item_processor_holding_something_trigger_brown_mushroom}
+  - skill{s=lucky_item_processor_holding_something_trigger_diamond}
+  - skill{s=lucky_item_processor_holding_something_trigger_dirt}
+  - skill{s=lucky_item_processor_holding_something_trigger_feather}
+  - skill{s=lucky_item_processor_holding_something_trigger_flint}
+  - skill{s=lucky_item_processor_holding_something_trigger_gold_ingot}
+  - skill{s=lucky_item_processor_holding_something_trigger_gunpowder}
+  - skill{s=lucky_item_processor_holding_something_trigger_milk_bucket}
+  - skill{s=lucky_item_processor_holding_something_trigger_poisonous_potato}
+  - skill{s=lucky_item_processor_holding_something_trigger_red_mushroom}
+  - skill{s=lucky_item_processor_holding_something_trigger_stick}
+  - skill{s=lucky_item_processor_holding_something_trigger_tnt}
+  - skill{s=lucky_item_processor_holding_something_trigger_wheat}
+  - skill{s=lucky_item_processor_holding_something_trigger_wool}
+lucky_item_processor_holding_something_trigger_armor_stand:
+  Conditions:
+  - holding armor_stand
+  Skills:
+  - summon{m=lucky_block_dropper;a=1;r=1;y=0}
+  - setstance{stance=lucky_item_processor_drops_armor_stand} @MIR{r=3;t=lucky_block_dropper}
+  - message{m="You monster."} @PIR{r=7}
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_trigger_brown_mushroom:
+  Conditions:
+  - holding brown_mushroom
+  Skills:
+  - summon{m=lucky_block_dropper;a=1;r=1;y=0}
+  - setstance{stance=lucky_item_processor_drops_brown_mushroom} @MIR{r=3;t=lucky_block_dropper}
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_trigger_diamond:
+  Conditions:
+  - holding diamond
+  Skills:
+  - summon{m=lucky_block_dropper;a=1;r=1;y=0}
+  - setstance{stance=lucky_item_processor_drops_diamond} @MIR{r=3;t=lucky_block_dropper}
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_trigger_dirt:
+  Conditions:
+  - holding dirt
+  Skills:
+  - summon{m=lucky_block_dropper;a=1;r=1;y=0}
+  - setstance{stance=lucky_item_processor_drops_diamond} @MIR{r=3;t=lucky_block_dropper}
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_trigger_feather:
+  Conditions:
+  - holding feather
+  Skills:
+  - summon{m=CHICKEN;a=3;r=1;y=0}
+  - summon{m=CHICKEN;a=1;r=1;y=0} 0.5
+  - summon{m=CHICKEN;a=1;r=1;y=0} 0.25
+  - effect:sound{s=entity.chicken.hurt}
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_trigger_flint:
+  Conditions:
+  - holding flint
+  Skills:
+  - summon{m=lucky_block_dropper;a=1;r=1;y=0}
+  - setstance{stance=lucky_item_processor_drops_flint} @MIR{r=3;t=lucky_block_dropper}
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_trigger_gold_ingot:
+  Conditions:
+  - holding gold_ingot
+  Skills:
+  - summon{m=lucky_mob;a=1;r=2;y=0}
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_trigger_gunpowder:
+  Conditions:
+  - holding sulphur
+  Skills:
+  - summon{m=CREEPER;a=2;r=2}
+  - summon{m=CREEPER;a=1;r=2} 0.5
+  - summon{m=CREEPER;a=1;r=2} 0.25
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_trigger_milk_bucket:
+  Conditions:
+  - holding milk_bucket
+  Skills:
+  - effect:sound{s=entity.cow.hurt}
+  - summon{m=COW;a=3;r=1;y=0}
+  - summon{m=COW;a=1;r=1;y=0} 0.5
+  - summon{m=COW;a=1;r=1;y=0} 0.25
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_trigger_poisonous_potato:
+  Conditions:
+  - holding poisonous_potato
+  Skills:
+  - summon{m=lucky_block_dropper;a=1;r=1;y=0}
+  - setstance{stance=lucky_item_processor_drops_poisonous_potato} @MIR{r=3;t=lucky_block_dropper}
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_trigger_red_mushroom:
+  Conditions:
+  - holding red_mushroom
+  Skills:
+  - effect:sound{s=entity.cow.hurt}
+  - summon{m=MUSHROOM_COW;a=1;r=1;y=0}
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_trigger_stick:
+  Conditions:
+  - holding stick
+  Skills:
+  - message{m="Really..."} @PIR{r=7}
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_trigger_tnt:
+  Conditions:
+  - holding tnt
+  Skills:
+  - explosion{blockdamage=false;fire=true;yield=2}
+  - remove
+lucky_item_processor_holding_something_trigger_wheat:
+  Conditions:
+  - holding wheat
+  Skills:
+  - summon{m=lucky_block_dropper;a=1;r=1;y=0}
+  - setstance{stance=lucky_item_processor_drops_wheat} @MIR{r=3;t=lucky_block_dropper}
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_trigger_wool:
+  Conditions:
+  - holding wool
+  Skills:
+  - effect:sound{s=entity.sheep.ambient}
+  - summon{m=SHEEP;a=3;r=1;y=0}
+  - summon{m=SHEEP;a=1;r=1;y=0} 0.5
+  - summon{m=SHEEP;a=1;r=1;y=0} 0.25
+  - skill{s=lucky_item_processor_holding_something_reset}
+lucky_item_processor_holding_something_reset:
+  Skills:
+  - potion{t=BLINDNESS;d=21;l=0} @PIR{r=13}
+  - potion{t=NIGHT_VISION;d=20;l=0} @PIR{r=13}
+  - randomskill{skills=lucky_item_processor_on_spawn_core,lucky_item_processor_holding_something_removal}
+lucky_item_processor_holding_something_removal:
+  Skills:
+  - remove
+lucky_nuke_countdown:
+  Skills:
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.6}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.625}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.65}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.675}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.6}
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.7}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.725}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.75}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.775}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.6}
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.8}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.825}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.85}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.875}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.6}
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.9}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.925}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.95}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.975}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.6}
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.025}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.05}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.075}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.6}
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.1}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.125}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.15}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.175}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.6}
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.2}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.225}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.25}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.275}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.6}
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.3}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.325}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.35}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.375}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=0.6}
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.4}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.425}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.45}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.475}
+  - delay 5
+  - effect:sound{s=entity.zombie_villager.converted;v=1;p=1.5}
+  - skill{s=lucky_nuke_explode} @PIR{r=40}
+lucky_nuke_explode:
+  Skills:
+  - potion{t=NIGHT_VISION;d=20;l=0}
+  - potion{t=BLINDNESS;d=25;l=0}
+  - effect:particles{p=largeexplode;a=1000;hs=1;vs=1;y=2} @self
+  - effect:particles{p=cloud;a=300;hs=1;vs=1;y=1} @self
+  - ignite{t=1200} @PIR{r=15}
+  - damage{a=1} @PIR{r=15}
+  - delay 10
+  - ignite{t=1200}
+  - damage{a=150} @PIR{r=30}
+  - effect:sound{s=entity.generic.explode;v=5;p=0.6;repeat=3;repeatInterval=5} @self
+  - delay 1
+  - effect:sound{s=entity.generic.explode;v=5;p=1;repeat=3;repeatInterval=5} @self
+  - delay 1
+  - effect:sound{s=entity.generic.explode;v=5;p=1.1;repeat=3;repeatInterval=5} @self
+  - delay 1
+  - effect:sound{s=entity.generic.explode;v=5;p=1.3;repeat=3;repeatInterval=5} @self
+  - remove @self
+lucky_tier_gear_stand_on_spawn_core:
+  Skills:
+  - skill{s=lucky_tier_gear_stand_poses} @self ~onSpawn
+  - skill{s=lucky_tier_gear_stand_equip_master} @self ~onSpawn
+lucky_tier_gear_stand_poses:
+  Conditions:
+  - stance equip_tier_gear
+  Skills:
+  - command{c="minecraft:entitydata <mob.uuid> {ShowArms:true,Rotation:[<random.1-360>f]}"}
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{LeftArm:[0f,0f,337f],RightArm:[295f,360f,194f]}}"} 0.2
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{LeftLeg:[9f,0f,0f],RightLeg:[357f,0f,0f],LeftArm:[37f,53f,306f],RightArm:[0f,290f,42f]}}"} 0.2
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{LeftArm:[0f,0f,213f],RightArm:[155f,199f,194f]}}"} 0.2
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{LeftArm:[304f,53f,306f],RightArm:[0f,324f,42f]}}"} 0.2
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{LeftLeg:[0f,0f,350f],RightLeg:[0f,0f,11f],LeftArm:[0f,53f,306f],RightArm:[0f,324f,42f]}}"} 0.2
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{LeftLeg:[0f,318f,0f],RightLeg:[0f,0f,11f],RightArm:[0f,324f,42f]}}"} 0.2
+  - command{c="minecraft:entitydata <mob.uuid> {Pose:{LeftArm:[0f,0f,0f],RightArm:[99f,84f,0f]}}"} 0.09
+lucky_tier_gear_stand_equip_master:
+  Conditions:
+  - stance equip_tier_gear
+  Skills:
+  - skill{s=lucky_tier_gear_stand_equip_level_0_helmet}
+  - skill{s=lucky_tier_gear_stand_equip_level_0_chestplate}
+  - skill{s=lucky_tier_gear_stand_equip_level_0_leggings}
+  - skill{s=lucky_tier_gear_stand_equip_level_0_boots}
+  - skill{s=lucky_tier_gear_stand_equip_level_1_helmet}
+  - skill{s=lucky_tier_gear_stand_equip_level_1_chestplate}
+  - skill{s=lucky_tier_gear_stand_equip_level_1_leggings}
+  - skill{s=lucky_tier_gear_stand_equip_level_1_boots}
+  - skill{s=lucky_tier_gear_stand_equip_level_2_helmet}
+  - skill{s=lucky_tier_gear_stand_equip_level_2_chestplate}
+  - skill{s=lucky_tier_gear_stand_equip_level_2_leggings}
+  - skill{s=lucky_tier_gear_stand_equip_level_2_boots}
+  - skill{s=lucky_tier_gear_stand_equip_level_3_helmet}
+  - skill{s=lucky_tier_gear_stand_equip_level_3_chestplate}
+  - skill{s=lucky_tier_gear_stand_equip_level_3_leggings}
+  - skill{s=lucky_tier_gear_stand_equip_level_3_boots}
+  - skill{s=lucky_tier_gear_stand_equip_level_4_helmet}
+  - skill{s=lucky_tier_gear_stand_equip_level_4_chestplate}
+  - skill{s=lucky_tier_gear_stand_equip_level_4_leggings}
+  - skill{s=lucky_tier_gear_stand_equip_level_4_boots}
+  - skill{s=lucky_tier_gear_stand_equip_level_5_helmet}
+  - skill{s=lucky_tier_gear_stand_equip_level_5_chestplate}
+  - skill{s=lucky_tier_gear_stand_equip_level_5_leggings}
+  - skill{s=lucky_tier_gear_stand_equip_level_5_boots}
+  - skill{s=lucky_tier_gear_stand_equip_level_6_helmet}
+  - skill{s=lucky_tier_gear_stand_equip_level_6_chestplate}
+  - skill{s=lucky_tier_gear_stand_equip_level_6_leggings}
+  - skill{s=lucky_tier_gear_stand_equip_level_6_boots}
+  - skill{s=lucky_tier_gear_stand_equip_level_7_helmet}
+  - skill{s=lucky_tier_gear_stand_equip_level_7_chestplate}
+  - skill{s=lucky_tier_gear_stand_equip_level_7_leggings}
+  - skill{s=lucky_tier_gear_stand_equip_level_7_boots}
+  - skill{s=lucky_tier_gear_stand_equip_level_13_helmet}
+  - skill{s=lucky_tier_gear_stand_equip_level_13_chestplate}
+  - skill{s=lucky_tier_gear_stand_equip_level_13_leggings}
+  - skill{s=lucky_tier_gear_stand_equip_level_13_boots}
+  - delay 20
+  - setstance{s=default}
+lucky_tier_gear_stand_equip_level_0_helmet:
+  Conditions:
+  - stance equip_tier_gear_level_0_helmet
+  Skills:
+  - equip{i=lucky_tier_gear_level_0_helmet:4}
+  - equip{i=lucky_tier_gear_level_0_pickaxe:0} 0.1
+lucky_tier_gear_stand_equip_level_0_chestplate:
+  Conditions:
+  - stance equip_tier_gear_level_0_chestplate
+  Skills:
+  - equip{i=lucky_tier_gear_level_0_chestplate:3}
+  - equip{i=lucky_tier_gear_level_0_pickaxe:0} 0.1
+lucky_tier_gear_stand_equip_level_0_leggings:
+  Conditions:
+  - stance equip_tier_gear_level_0_leggings
+  Skills:
+  - equip{i=lucky_tier_gear_level_0_leggings:2}
+  - equip{i=lucky_tier_gear_level_0_pickaxe:0} 0.1
+lucky_tier_gear_stand_equip_level_0_boots:
+  Conditions:
+  - stance equip_tier_gear_level_0_boots
+  Skills:
+  - equip{i=lucky_tier_gear_level_0_boots:1}
+  - equip{i=lucky_tier_gear_level_0_pickaxe:0} 0.1
+lucky_tier_gear_stand_equip_level_1_helmet:
+  Conditions:
+  - stance equip_tier_gear_level_1_helmet
+  Skills:
+  - equip{i=lucky_tier_gear_level_1_helmet:4}
+lucky_tier_gear_stand_equip_level_1_chestplate:
+  Conditions:
+  - stance equip_tier_gear_level_1_chestplate
+  Skills:
+  - equip{i=lucky_tier_gear_level_1_chestplate:3}
+lucky_tier_gear_stand_equip_level_1_leggings:
+  Conditions:
+  - stance equip_tier_gear_level_1_leggings
+  Skills:
+  - equip{i=lucky_tier_gear_level_1_leggings:2}
+lucky_tier_gear_stand_equip_level_1_boots:
+  Conditions:
+  - stance equip_tier_gear_level_1_boots
+  Skills:
+  - equip{i=lucky_tier_gear_level_1_boots:1}
+lucky_tier_gear_stand_equip_level_2_helmet:
+  Conditions:
+  - stance equip_tier_gear_level_2_helmet
+  Skills:
+  - equip{i=lucky_tier_gear_level_2_helmet:4}
+lucky_tier_gear_stand_equip_level_2_chestplate:
+  Conditions:
+  - stance equip_tier_gear_level_2_chestplate
+  Skills:
+  - equip{i=lucky_tier_gear_level_2_chestplate:3}
+lucky_tier_gear_stand_equip_level_2_leggings:
+  Conditions:
+  - stance equip_tier_gear_level_2_leggings
+  Skills:
+  - equip{i=lucky_tier_gear_level_2_leggings:2}
+lucky_tier_gear_stand_equip_level_2_boots:
+  Conditions:
+  - stance equip_tier_gear_level_2_boots
+  Skills:
+  - equip{i=lucky_tier_gear_level_2_boots:1}
+lucky_tier_gear_stand_equip_level_3_helmet:
+  Conditions:
+  - stance equip_tier_gear_level_3_helmet
+  Skills:
+  - equip{i=lucky_tier_gear_level_3_helmet:4}
+lucky_tier_gear_stand_equip_level_3_chestplate:
+  Conditions:
+  - stance equip_tier_gear_level_3_chestplate
+  Skills:
+  - equip{i=lucky_tier_gear_level_3_chestplate:3}
+lucky_tier_gear_stand_equip_level_3_leggings:
+  Conditions:
+  - stance equip_tier_gear_level_3_leggings
+  Skills:
+  - equip{i=lucky_tier_gear_level_3_leggings:2}
+lucky_tier_gear_stand_equip_level_3_boots:
+  Conditions:
+  - stance equip_tier_gear_level_3_boots
+  Skills:
+  - equip{i=lucky_tier_gear_level_3_boots:1}
+lucky_tier_gear_stand_equip_level_4_helmet:
+  Conditions:
+  - stance equip_tier_gear_level_4_helmet
+  Skills:
+  - equip{i=lucky_tier_gear_level_4_helmet:4}
+lucky_tier_gear_stand_equip_level_4_chestplate:
+  Conditions:
+  - stance equip_tier_gear_level_4_chestplate
+  Skills:
+  - equip{i=lucky_tier_gear_level_4_chestplate:3}
+lucky_tier_gear_stand_equip_level_4_leggings:
+  Conditions:
+  - stance equip_tier_gear_level_4_leggings
+  Skills:
+  - equip{i=lucky_tier_gear_level_4_leggings:2}
+lucky_tier_gear_stand_equip_level_4_boots:
+  Conditions:
+  - stance equip_tier_gear_level_4_boots
+  Skills:
+  - equip{i=lucky_tier_gear_level_4_boots:1}
+lucky_tier_gear_stand_equip_level_5_helmet:
+  Conditions:
+  - stance equip_tier_gear_level_5_helmet
+  Skills:
+  - equip{i=lucky_tier_gear_level_5_helmet:4}
+lucky_tier_gear_stand_equip_level_5_chestplate:
+  Conditions:
+  - stance equip_tier_gear_level_5_chestplate
+  Skills:
+  - equip{i=lucky_tier_gear_level_5_chestplate:3}
+lucky_tier_gear_stand_equip_level_5_leggings:
+  Conditions:
+  - stance equip_tier_gear_level_5_leggings
+  Skills:
+  - equip{i=lucky_tier_gear_level_5_leggings:2}
+lucky_tier_gear_stand_equip_level_5_boots:
+  Conditions:
+  - stance equip_tier_gear_level_5_boots
+  Skills:
+  - equip{i=lucky_tier_gear_level_5_boots:1}
+lucky_tier_gear_stand_equip_level_6_helmet:
+  Conditions:
+  - stance equip_tier_gear_level_6_helmet
+  Skills:
+  - equip{i=lucky_tier_gear_level_6_helmet:4}
+lucky_tier_gear_stand_equip_level_6_chestplate:
+  Conditions:
+  - stance equip_tier_gear_level_6_chestplate
+  Skills:
+  - equip{i=lucky_tier_gear_level_6_chestplate:3}
+lucky_tier_gear_stand_equip_level_6_leggings:
+  Conditions:
+  - stance equip_tier_gear_level_6_leggings
+  Skills:
+  - equip{i=lucky_tier_gear_level_6_leggings:2}
+lucky_tier_gear_stand_equip_level_6_boots:
+  Conditions:
+  - stance equip_tier_gear_level_6_boots
+  Skills:
+  - equip{i=lucky_tier_gear_level_6_boots:1}
+lucky_tier_gear_stand_equip_level_7_helmet:
+  Conditions:
+  - stance equip_tier_gear_level_7_helmet
+  Skills:
+  - equip{i=lucky_tier_gear_level_7_helmet:4}
+lucky_tier_gear_stand_equip_level_7_chestplate:
+  Conditions:
+  - stance equip_tier_gear_level_7_chestplate
+  Skills:
+  - equip{i=lucky_tier_gear_level_7_chestplate:3}
+lucky_tier_gear_stand_equip_level_7_leggings:
+  Conditions:
+  - stance equip_tier_gear_level_7_leggings
+  Skills:
+  - equip{i=lucky_tier_gear_level_7_leggings:2}
+lucky_tier_gear_stand_equip_level_7_boots:
+  Conditions:
+  - stance equip_tier_gear_level_7_boots
+  Skills:
+  - equip{i=lucky_tier_gear_level_7_boots:1}
+lucky_tier_gear_stand_equip_level_13_helmet:
+  Conditions:
+  - stance equip_tier_gear_level_13_helmet
+  Skills:
+  - equip{i=lucky_tier_gear_level_13_helmet:4}
+lucky_tier_gear_stand_equip_level_13_chestplate:
+  Conditions:
+  - stance equip_tier_gear_level_13_chestplate
+  Skills:
+  - equip{i=lucky_tier_gear_level_13_chestplate:3}
+lucky_tier_gear_stand_equip_level_13_leggings:
+  Conditions:
+  - stance equip_tier_gear_level_13_leggings
+  Skills:
+  - equip{i=lucky_tier_gear_level_13_leggings:2}
+lucky_tier_gear_stand_equip_level_13_boots:
+  Conditions:
+  - stance equip_tier_gear_level_13_boots
+  Skills:
+  - equip{i=lucky_tier_gear_level_13_boots:1}
+lucky_villager_harmonious_blacksmith_on_spawn_core:
+  Skills:
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> {
+      Profession:3,
+      Offers:{
+        Recipes:[
+          {maxUses:100,
+          buy:{
+            id:gold_nugget,
+            Damage:0s,
+            Count:2b,
+            tag:{
+              ench:[0:{id:34s,lvl:1s}],
+              display:{
+                Name:<&dq>&eChunk of Luck&r<&dq>,
+                Lore:[1:<&dq>&7&oCurrency&r<&dq>]},
+              HideFlags:1}},
+          buyB:{
+            id:minecraft:diamond_pickaxe,
+            Count:1b,
+            Damage:0s},
+          sell:{
+            id:minecraft:diamond_pickaxe,
+            Count:1b,
+            tag:{
+              ench:[
+                0:{lvl:4s,id:32s},
+                1:{lvl:3s,id:34s}],
+              RepairCost:7,
+              display:{
+                Lore:[1:,2:&7&oNothing lucky about this one.,3:&7&oPromised.]}},
+            Damage:0s}},
+          {maxUses:100,
+          buy:{
+            id:gold_nugget,
+            Damage:0s,
+            Count:2b,
+            tag:{
+              ench:[0:{id:34s,lvl:1s}],
+              display:{
+                Name:<&dq>&eChunk of Luck&r<&dq>,
+                Lore:[1:<&dq>&7&oCurrency&r<&dq>]},
+              HideFlags:1}},
+          buyB:{
+            id:minecraft:diamond_shovel,
+            Count:1b,
+            Damage:0s},
+          sell:{
+            id:minecraft:diamond_shovel,
+            Count:1b,
+            tag:{
+              ench:[
+                0:{lvl:4s,id:32s},
+                1:{lvl:3s,id:34s}],
+              RepairCost:7,
+              display:{
+                Lore:[1:,2:&7&oNothing lucky about this one.,3:&7&oPromised.]}},
+            Damage:0s}},
+          {maxUses:100,
+          buy:{
+            id:gold_nugget,
+            Damage:0s,
+            Count:2b,
+            tag:{
+              ench:[0:{id:34s,lvl:1s}],
+              display:{
+                Name:<&dq>&eChunk of Luck&r<&dq>,
+                Lore:[1:<&dq>&7&oCurrency&r<&dq>]},
+              HideFlags:1}},
+          buyB:{
+            id:minecraft:diamond_axe,
+            Count:1b,
+            Damage:0s},
+          sell:{
+            id:minecraft:diamond_axe,
+            Count:1b,
+            tag:{
+              ench:[
+                0:{lvl:4s,id:32s},
+                1:{lvl:3s,id:34s}],
+              RepairCost:7,
+              display:{
+                Lore:[1:,2:&7&oNothing lucky about this one.,3:&7&oPromised.]}},
+            Damage:0s}},
+          {maxUses:100,
+          buy:{
+            id:gold_nugget,
+            Damage:0s,
+            Count:2b,
+            tag:{
+              ench:[0:{id:34s,lvl:1s}],
+              display:{
+                Name:<&dq>&eChunk of Luck&r<&dq>,
+                Lore:[1:<&dq>&7&oCurrency&r<&dq>]},
+              HideFlags:1}},
+          buyB:{
+            id:minecraft:diamond_hoe,
+            Count:1b,
+            Damage:0s},
+          sell:{
+            id:minecraft:diamond_hoe,
+            Count:1b,
+            tag:{
+              ench:[
+                0:{lvl:4s,id:32s},
+                1:{lvl:3s,id:34s}],
+              RepairCost:7,
+              display:{
+                Lore:[1:,2:&7&oNothing lucky about this one.,3:&7&oPromised.]}},
+            Damage:0s}},
+          {maxUses:100,
+          buy:{
+            id:gold_nugget,
+            Damage:0s,
+            Count:2b,
+            tag:{
+              ench:[0:{id:34s,lvl:1s}],
+              display:{
+                Name:<&dq>&eChunk of Luck&r<&dq>,
+                Lore:[1:<&dq>&7&oCurrency&r<&dq>]},
+              HideFlags:1}},
+          buyB:{
+            id:minecraft:diamond_sword,
+            Count:1b,
+            Damage:0s},
+          sell:{
+            id:minecraft:diamond_sword,
+            Count:1b,
+            tag:{
+              ench:[
+                0:{lvl:4s,id:16s},
+                1:{lvl:3s,id:34s}],
+              RepairCost:7,
+              display:{
+                Lore:[1:,2:&7&oNothing lucky about this one.,3:&7&oPromised.]}},
+            Damage:0s}}
+                    ]}}"}
+lucky_villager_professor_snabe_on_spawn_core:
+  Skills:
+  - command{c="minecraft:entitydata <mob.uuid> {
+      Profession:0,
+      Offers:{
+        Recipes:[
+        {
+          maxUses:100,
+          buy:{
+            id:gold_nugget,
+            Damage:0s,
+            Count:2b,
+            tag:{
+              ench:[0:{id:34s,lvl:1s}],
+              display:{
+                Name:<&dq>&eChunk of Luck&r<&dq>,
+                Lore:[1:<&dq>&7&oCurrency&r<&dq>]},
+              HideFlags:1}},
+          buyB:{
+            id:apple,
+            Count:1b,
+            Damage:0s},
+          sell:{
+            id:potion,
+            Damage:8259s,
+            Count:1b,
+            tag:{
+              CustomPotionEffects:[
+                0:{Ambient:1b,ShowParticles:1b,Duration:2400,Id:3b,Amplifier:0b}],
+              HideFlags:63,
+              display:{
+                Lore:[
+                  0:,
+                  1:&f+ &6Haste &7I &f(2:00),
+                  2:,
+                  3:&7&oTwo minutes on a lower level of heaven.,
+                  4:&7&oDoes not stack with mining fatigue.],
+                Name:&fLucky Mining Enhancer&r}
+              }
+            }
+          },
+        {
+          maxUses:100,
+          buy:{
+            id:gold_nugget,
+            Damage:0s,
+            Count:3b,
+            tag:{
+              ench:[0:{id:34s,lvl:1s}],
+              display:{
+                Name:<&dq>&eChunk of Luck&r<&dq>,
+                Lore:[1:<&dq>&7&oCurrency&r<&dq>]},
+              HideFlags:1}},
+          buyB:{
+            id:golden_apple,
+            Count:1b,
+            Damage:0s},
+          sell:{
+            id:potion,
+            Damage:8259s,
+            Count:1b,
+            tag:{
+              CustomPotionEffects:[
+                0:{Ambient:1b,ShowParticles:1b,Duration:1800,Id:3b,Amplifier:1b},
+                1:{Ambient:1b,ShowParticles:1b,Duration:1800,Id:12b,Amplifier:0b}],
+              HideFlags:63,
+              display:{
+                Lore:[
+                  0:,
+                  1:&f+ &6Haste &7II &f(1:30),
+                  2:&f+ &6Fire Resistance &f(1:30),
+                  3:,
+                  4:&7&oWho needs a beacon?],
+                Name:&fLucky Mining Enhancer&r}
+              }
+            }
+          },
+        {
+          maxUses:100,
+          buy:{
+            id:gold_nugget,
+            Damage:0s,
+            Count:4b,
+            tag:{
+              ench:[0:{id:34s,lvl:1s}],
+              display:{
+                Name:<&dq>&eChunk of Luck&r<&dq>,
+                Lore:[1:<&dq>&7&oCurrency&r<&dq>]},
+              HideFlags:1}},
+          buyB:{
+            id:golden_apple,
+            Count:1b,
+            Damage:1s},
+          sell:{
+            id:potion,
+            Damage:8259s,
+            Count:1b,
+            tag:{
+              CustomPotionEffects:[
+                0:{Ambient:1b,ShowParticles:1b,Duration:3000,Id:3b,Amplifier:1b},
+                1:{Ambient:1b,ShowParticles:1b,Duration:3000,Id:12b,Amplifier:0b},
+                2:{Ambient:1b,ShowParticles:1b,Duration:3000,Id:16b,Amplifier:0b}],
+              HideFlags:63,
+              display:{
+                Lore:[
+                  0:,
+                  1:&f+ &6Haste &7II &f(2:30),
+                  2:&f+ &6Fire Resistance &f(2:30),
+                  3:&f+ &6Night Vision &f(2:30),
+                  4:,
+                  5:&7&oSeriously i got this beacon,
+                  6:&7&ofor sale - anyone interested?],
+                Name:&fLucky Mining Enhancer&r}
+              }
+            }
+          },
+        {
+          maxUses:100,
+          buy:{
+            id:gold_nugget,
+            Damage:0s,
+            Count:1b,
+            tag:{
+              ench:[0:{id:34s,lvl:1s}],
+              display:{
+                Name:<&dq>&eChunk of Luck&r<&dq>,
+                Lore:[1:<&dq>&7&oCurrency&r<&dq>]},
+              HideFlags:1}},
+          buyB:{
+            id:poisonous_potato,
+            Count:1b,
+            Damage:0s},
+          sell:{
+            id:potion,
+            Damage:16456s,
+            Count:1b,
+            tag:{
+              CustomPotionEffects:[
+                0:{Ambient:1b,ShowParticles:1b,Duration:200,Id:9b,Amplifier:1b},
+                1:{Ambient:1b,ShowParticles:1b,Duration:200,Id:17b,Amplifier:2b}],
+              HideFlags:63,
+              display:{
+                Lore:[
+                  0:,
+                  1:&f- &cConfusion &7II &f(0:10),
+                  2:&f- &cHunger &7III &f(0:10),
+                  3:,
+                  4:&7&oMildly annoying. I don't see why,
+                  5:&7&oyou would even want to use this...],
+                Name:&fLucky Funbreaker}
+              }
+            }
+          },
+        {
+          maxUses:100,
+          buy:{
+            id:gold_nugget,
+            Damage:0s,
+            Count:2b,
+            tag:{
+              ench:[0:{id:34s,lvl:1s}],
+              display:{
+                Name:<&dq>&eChunk of Luck&r<&dq>,
+                Lore:[1:<&dq>&7&oCurrency&r<&dq>]},
+              HideFlags:1}},
+          buyB:{
+            id:poisonous_potato,
+            Count:1b,
+            Damage:0s},
+          sell:{
+            id:potion,
+            Damage:16456s,
+            Count:1b,
+            tag:{
+              CustomPotionEffects:[
+                0:{Ambient:1b,ShowParticles:1b,Duration:300,Id:9b,Amplifier:1b},
+                1:{Ambient:1b,ShowParticles:1b,Duration:1200,Id:19b,Amplifier:3b},
+                2:{Ambient:1b,ShowParticles:1b,Duration:300,Id:17b,Amplifier:2b}],
+              HideFlags:63,
+              display:{
+                Lore:[
+                  0:,
+                  1:&f- &cConfusion &7II &f(0:15),
+                  2:&f- &cHunger &7III &f(0:15),
+                  3:&f- &cPoison &7IV &f(1:00),
+                  4:,
+                  5:&7&oBe careful where you put that!],
+                Name:&fLucky Funbreaker}
+              }
+            }
+          },
+        {
+          maxUses:100,
+          buy:{
+            id:gold_nugget,
+            Damage:0s,
+            Count:3b,
+            tag:{
+              ench:[0:{id:34s,lvl:1s}],
+              display:{
+                Name:<&dq>&eChunk of Luck&r<&dq>,
+                Lore:[1:<&dq>&7&oCurrency&r<&dq>]},
+              HideFlags:1}},
+          buyB:{
+            id:poisonous_potato,
+            Count:2b,
+            Damage:0s},
+          sell:{
+            id:potion,
+            Damage:16456s,
+            Count:1b,
+            tag:{
+              CustomPotionEffects:[
+                0:{Ambient:1b,ShowParticles:1b,Duration:1200,Id:9b,Amplifier:1b},
+                1:{Ambient:1b,ShowParticles:1b,Duration:1200,Id:19b,Amplifier:3b},
+                2:{Ambient:1b,ShowParticles:1b,Duration:1200,Id:17b,Amplifier:2b}],
+              HideFlags:63,
+              display:{
+                Lore:[
+                  0:,
+                  1:&f- &cConfusion &7II &f(1:00),
+                  2:&f- &cHunger &7III &f(1:00),
+                  3:&f- &cPoison &7IV &f(1:00),
+                  4:,
+                  5:&7&oSo you like to see things burn?,
+                  6:&7&oThis potion is sure to &7&komgwhy&7&o!],
+                Name:&fLucky Funbreaker}
+              }
+            }
+          },
+        ]}}"}
+lucky_villager_lucky_purveyor_on_spawn_core:
+  Skills:
+  - command{c="minecraft:entitydata <mob.uuid> {
+      Profession:0,
+      Offers:{Recipes:[
+          {
+            maxUses:7,
+            buy:{id:gold_nugget,Damage:0s,Count:16b,tag:{ench:[0:{id:34s,lvl:1s}],display:{Name:<&dq>&eChunk of Luck&r<&dq>,Lore:[1:<&dq>&7&oCurrency&r<&dq>]},HideFlags:1}},
+            sell:{id<&co><&dq>minecraft<&co>spawn_egg<&dq>,Count<&co>1b,tag<&co>{ench<&co>[0<&co>{lvl<&co>10s,id<&co>34s}],HideFlags:1,display<&co>{Lore<&co>[0<&co><&dq>&8&oA Mythical Egg that can<&dq>,1<&co><&dq>&8&obe used to resurrect a<&dq>,2<&co><&dq>&8&olucky_block<&dq>],Name<&co><&dq>&fSpawn &eLucky Block&r<&dq>}},Damage<&co>0s}
+          },
+          {
+            maxUses:7,
+            buy:{id:diamond,Damage:0s,Count:3b},
+            sell:{id<&co><&dq>minecraft<&co>spawn_egg<&dq>,Count<&co>1b,tag<&co>{ench<&co>[0<&co>{lvl<&co>10s,id<&co>34s}],HideFlags:1,display<&co>{Lore<&co>[0<&co><&dq>&8&oA Mythical Egg that can<&dq>,1<&co><&dq>&8&obe used to resurrect a<&dq>,2<&co><&dq>&8&olucky_mob<&dq>],Name<&co><&dq>&fSpawn &eLucky Block&r<&dq>}},Damage<&co>0s}
+          },
+          {
+            maxUses:7,
+            buy:{id:emerald,Damage:0s,Count:7b},
+            sell:{id<&co><&dq>minecraft<&co>spawn_egg<&dq>,Count<&co>1b,tag<&co>{ench<&co>[0<&co>{lvl<&co>10s,id<&co>34s}],HideFlags:1,display<&co>{Lore<&co>[0<&co><&dq>&8&oA Mythical Egg that can<&dq>,1<&co><&dq>&8&obe used to resurrect a<&dq>,2<&co><&dq>&8&olucky_mob<&dq>],Name<&co><&dq>&fSpawn &eLucky Block&r<&dq>}},Damage<&co>0s}
+          },]}}"}
+lucky_warrior_random_armor:
+  Skills:
+  - equip{i=mc_chainmail_helmet:4} 
+  - equip{i=mc_iron_helmet:4} 0.5
+  - equip{i=mc_chainmail_chestplate:3} 
+  - equip{i=mc_iron_chestplate:3} 0.5
+  - equip{i=mc_chainmail_leggings:2} 
+  - equip{i=mc_iron_leggings:2} 0.5
+  - equip{i=mc_chainmail_boots:1} 
+  - equip{i=mc_iron_boots:1} 0.5
+  - equip{i=mc_gold_sword:0}
+  - equip{i=mc_gold_axe:0} 0.2
+  - equip{i=mc_iron_sword:0} 0.3
+  - equip{i=mc_iron_axe:0} 0.3
+  - equip{i=mc_diamond_sword:0} 0.1
+  - equip{i=mc_diamond_axe:0} 0.1
+########################################################################

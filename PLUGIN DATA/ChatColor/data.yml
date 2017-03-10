@@ -1,0 +1,54 @@
+# +----------------------------------------------------+
+# <           This is the Player Color Data            >
+# <         Unless you know what you are doing         >
+# <                    Do not touch                    >
+# +----------------------------------------------------+
+
+Moosevinkle:
+  color: YELLOW
+AlienXY:
+  strike: false
+  color: PURPLE
+ImaginaryAus:
+  color: WHITE
+  bold: false
+  underline: false
+  italic: false
+strawberry1525:
+  color: PINK
+  italic: true
+rbb1213:
+  color: WHITE
+Will7838:
+  color: LIGHTBLUE
+awsmgrl888:
+  color: AQUA
+  italic: false
+FeistySquirrel:
+  color: RED
+  bold: false
+  italic: false
+Holo_Pearl:
+  color: GOLD
+HappyGreeny:
+  color: LIGHTGREEN
+The_Raven117:
+  color: LIGHTBLUE
+MuddChi:
+  color: DARKPURPLE
+salexm44:
+  color: DARKPURPLE
+zerka01:
+  color: PINK
+_Lockie_:
+  color: GOLD
+  bold: false
+  underline: false
+  strike: false
+  italic: false
+Luucass:
+  color: WHITE
+Tremolite:
+  color: GOLD
+RuEvenPro:
+  color: RED

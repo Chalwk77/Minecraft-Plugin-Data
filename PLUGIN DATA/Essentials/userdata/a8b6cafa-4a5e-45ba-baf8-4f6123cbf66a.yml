@@ -1,0 +1,34 @@
+lastAccountName: DisDrGotSkillz
+timestamps:
+  login: 1476868775639
+  lastteleport: 1476608515322
+  logout: 1476869615629
+  kits:
+    mccharacter: 1458044844262
+ipAddress: 101.186.62.112
+geolocation: Australia
+lastlocation:
+  world: world
+  x: 5748.94774546316
+  y: 16.0
+  z: -17256.610859105207
+  yaw: 337.4924
+  pitch: 17.094475
+afk: false
+logoutlocation:
+  world: world
+  x: 19783.69999998808
+  y: 86.23992690266302
+  z: -1728.300000011921
+  yaw: 150.98224
+  pitch: 24.38659
+homes:
+  home:
+    world: world
+    x: 5439.1111274485
+    y: 72.0
+    z: -17237.035230768422
+    yaw: 241.25903
+    pitch: 26.156082
+money: '179213.90500'
+godmode: true

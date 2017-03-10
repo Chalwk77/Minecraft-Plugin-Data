@@ -1,0 +1,32 @@
+lastlocation:
+  world: world
+  x: -18238.53933951592
+  y: 64.0
+  z: -11176.10385784135
+  yaw: -182.81587
+  pitch: 8.796393
+geolocation: Sydney, New South Wales, Australia
+lastAccountName: shadowkushdad
+timestamps:
+  login: 1481431665063
+  lastteleport: 1481436504971
+  kits:
+    food: 1481435776497
+  logout: 1481436513812
+ipAddress: 202.159.178.125
+money: '7273.8256000000000002'
+homes:
+  home:
+    world: world
+    x: -18237.997973324655
+    y: 64.0
+    z: -11175.564759050063
+    yaw: -188.16026
+    pitch: 8.226323
+logoutlocation:
+  world: world
+  x: 474.01687421126275
+  y: 89.0
+  z: -190.41096824635116
+  yaw: 88.41489
+  pitch: 7.2873964

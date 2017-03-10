@@ -1,0 +1,821 @@
+Inventories:
+  '25':
+    Time: 1458455353934
+    Exp: 32
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8527.936755611085
+      y: 70.0
+      z: 15186.953658314353
+      pitch: 16.229856
+      yaw: 292.76022
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SAND
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SEEDS
+        amount: 2
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '5':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+  '26':
+    Time: 1459465461846
+    Exp: 32
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8527.936755611085
+      y: 70.0
+      z: 15186.953658314353
+      pitch: 16.229856
+      yaw: 292.76022
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SAND
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SEEDS
+        amount: 2
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '5':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+  '27':
+    Time: 1459469870879
+    Exp: 32
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8527.936755611085
+      y: 70.0
+      z: 15186.953658314353
+      pitch: 16.229856
+      yaw: 292.76022
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SAND
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SEEDS
+        amount: 2
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '5':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+  '28':
+    Time: 1459659260329
+    Exp: 32
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8527.936755611085
+      y: 70.0
+      z: 15186.953658314353
+      pitch: 16.229856
+      yaw: 292.76022
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SAND
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SEEDS
+        amount: 2
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '5':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+  '29':
+    Time: 1459766733786
+    Exp: 32
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8527.936755611085
+      y: 70.0
+      z: 15186.953658314353
+      pitch: 16.229856
+      yaw: 292.76022
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SAND
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SEEDS
+        amount: 2
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '5':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+  '30':
+    Time: 1459847485027
+    Exp: 32
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8527.936755611085
+      y: 70.0
+      z: 15186.953658314353
+      pitch: 16.229856
+      yaw: 292.76022
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SAND
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SEEDS
+        amount: 2
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '5':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+  '31':
+    Time: 1460146821015
+    Exp: 32
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8527.936755611085
+      y: 70.0
+      z: 15186.953658314353
+      pitch: 16.229856
+      yaw: 292.76022
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SAND
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SEEDS
+        amount: 2
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '5':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+  '32':
+    Time: 1460883167685
+    Exp: 32
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8527.936755611085
+      y: 70.0
+      z: 15186.953658314353
+      pitch: 16.229856
+      yaw: 292.76022
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SAND
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SEEDS
+        amount: 2
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '5':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+  '33':
+    Time: 1462120692411
+    Exp: 32
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8527.936755611085
+      y: 70.0
+      z: 15186.953658314353
+      pitch: 16.229856
+      yaw: 292.76022
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SAND
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SEEDS
+        amount: 2
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '5':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+  '34':
+    Time: 1462483215685
+    Exp: 32
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8527.936755611085
+      y: 70.0
+      z: 15186.953658314353
+      pitch: 16.229856
+      yaw: 292.76022
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SAND
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SEEDS
+        amount: 2
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '5':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant

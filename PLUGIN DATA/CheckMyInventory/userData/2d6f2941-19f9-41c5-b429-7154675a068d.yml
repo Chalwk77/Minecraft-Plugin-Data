@@ -1,0 +1,25 @@
+Name: shadowkushdad
+TeleportLocation:
+  X: -703999.6236136742
+  Pitch: 7.9901032
+  Y: 81.0
+  Z: 446002.82796407724
+  World: world
+  Yaw: -177.53607
+Charges:
+  Amount: 0
+  LastGot: 1481431665072
+DeathLocation:
+  X: -703999.3719419875
+  Pitch: 61.923588
+  Y: 81.0
+  Z: 446002.00060656463
+  World: world
+  Yaw: -160.22308
+LogOutLocation:
+  X: 474.01687421126275
+  Pitch: 7.2873964
+  Y: 89.0
+  Z: -190.41096824635116
+  World: world
+  Yaw: 88.41489

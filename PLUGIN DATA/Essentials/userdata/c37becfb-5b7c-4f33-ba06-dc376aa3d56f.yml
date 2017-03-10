@@ -1,0 +1,21 @@
+lastAccountName: Strengiligence
+timestamps:
+  login: 1470387538859
+  logout: 1470387589236
+ipAddress: 101.177.123.58
+geolocation: Australia
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+logoutlocation:
+  world: world
+  x: 496.82029986897817
+  y: 88.0
+  z: -205.10465599129193
+  yaw: 266.8234
+  pitch: 13.589908
+money: '2500'

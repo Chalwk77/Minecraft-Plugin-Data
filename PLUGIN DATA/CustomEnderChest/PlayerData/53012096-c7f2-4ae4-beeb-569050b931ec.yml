@@ -1,0 +1,143 @@
+PlayerLastName: Roniiii
+EnderChestSize: 27
+EnderChestInventory:
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        ARROW_KNOCKBACK: 1
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTMENT_TABLE
+    amount: 6
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        ARROW_DAMAGE: 4
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        DIG_SPEED: 3
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: ANVIL
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      repair-cost: 3
+      stored-enchants:
+        DAMAGE_ALL: 4
+        ARROW_KNOCKBACK: 1
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      repair-cost: 3
+      stored-enchants:
+        ARROW_DAMAGE: 5
+        DIG_SPEED: 3
+        WATER_WORKER: 1
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_INGOT
+    amount: 22
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        PROTECTION_FALL: 1
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEVER
+    amount: 10
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        OXYGEN: 1
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        FIRE_ASPECT: 2
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        DAMAGE_UNDEAD: 4
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        LOOT_BONUS_BLOCKS: 1
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 21
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: GLOWSTONE
+    amount: 27
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: FISHING_ROD
+    damage: 7
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        LUCK: 2
+      repair-cost: 1
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 21
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: ELYTRA
+    damage: 29
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: BUCKET
+    amount: 2

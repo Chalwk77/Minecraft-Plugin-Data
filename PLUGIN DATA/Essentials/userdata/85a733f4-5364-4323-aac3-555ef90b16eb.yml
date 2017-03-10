@@ -1,0 +1,45 @@
+lastAccountName: zCodes
+timestamps:
+  login: 1467884785953
+  logout: 1467887939213
+  lastteleport: 1467887892636
+ipAddress: 165.228.54.227
+geolocation: Brisbane, Queensland, Australia
+lastlocation:
+  world: world
+  x: 495.6717529916177
+  y: 88.0
+  z: -205.51058497855746
+  yaw: 85.4539
+  pitch: 4.5000424
+logoutlocation:
+  world: world
+  x: -208.7061248744606
+  y: 69.0
+  z: -3898.5329312234862
+  yaw: 112.80127
+  pitch: 19.199932
+money: '2500'
+homes:
+  home:
+    world: world
+    x: -209.85361760772346
+    y: 70.0
+    z: -3899.3773481404305
+    yaw: -181.6488
+    pitch: 3.5999272
+mail:
+- §6[§rChalwk§6] §rCustom Runes Enchant Shop now open! &b/warp runeshop
+- §6[§rChalwk§6] §rNew content available at /warp runeshop
+- '§6[§rServer§6] §rNotice: Known issue with /nv when wearing any type of helmet.'
+- '§6[§rChalwk§6] §rNotice: Known issue with Veinminer Rune Enchant. Do not use!'
+- '§6[§rChalwk§6] §rNotice: Disguises (/d) are ''temporarily'' disabled.'
+- '§6[§rServer§6] §rNotice: Webstore sale extended to Mon 25th Jul'
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'

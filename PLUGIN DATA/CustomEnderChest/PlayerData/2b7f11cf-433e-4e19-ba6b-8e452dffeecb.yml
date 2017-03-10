@@ -1,0 +1,347 @@
+PlayerLastName: ImaginaryAus
+EnderChestSize: 54
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD_BLOCK
+    amount: 55
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '53':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+      skull-owner: CSCoreLib
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 5
+    amount: 3
+  '44':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      internal: H4sIAAAAAAAAAE2OzU6DQBzE/5qYIPExvJIsUFCOKjRd0oK2COze2A8EutSGggrP5EO6R48zv5nJmAAm3B2Ok1Kvw2fdKmnANRZwLzgKbMZ8q0YcWavKCyzGRWA53HMEc1fIe7RNMHXpLIexlZdbMEb5M06DvJgAcGXATV6pScKvnGNEywaJMlZ8xr7W2QGpFHfnB3zKZ/aCfdxrvnnyt3PwL+uNVeEp4sYNPb1NrM/R1t0rudnbvH//oplSpFNHkmGHOGSm4W5JwmhJM9EkDkFpFi2kjxbtuzRcNzSMvmmxVrvluSEdtqlmaZHojQ9E+l1bl3agn8MfXgXnmBQBAAA=
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: DRAGON_EGG
+    amount: 8
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 64
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 4
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 64
+  '51':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 8
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §ePickaxe of Vein Mining
+      lore:
+      - ''
+      - §rThis Pickaxe will dig out
+      - §rwhole Veins of Ores...
+      enchants:
+        DIG_SPEED: 3
+        DURABILITY: 3
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    type: ELYTRA
+    damage: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 3
+        MENDING: 1
+      repair-cost: 3
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 5
+        DAMAGE_UNDEAD: 5
+        DAMAGE_ARTHROPODS: 5
+        DURABILITY: 5
+        KNOCKBACK: 5
+        FIRE_ASPECT: 5
+        LOOT_BONUS_MOBS: 5
+  '41':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 12
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 5
+        DURABILITY: 5
+        LOOT_BONUS_BLOCKS: 5
+      repair-cost: 3
+  '45':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    damage: 103
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 5
+        DAMAGE_UNDEAD: 5
+        DAMAGE_ARTHROPODS: 5
+        DURABILITY: 5
+        KNOCKBACK: 5
+        FIRE_ASPECT: 5
+        LOOT_BONUS_MOBS: 5
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aEnchanted Golden Apple
+  '50':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 851
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 5
+        DURABILITY: 5
+        LOOT_BONUS_BLOCKS: 5
+      repair-cost: 1
+  '39':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 49
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Building Spade
+      enchants:
+        DIG_SPEED: 5
+        SILK_TOUCH: 1
+        DURABILITY: 3
+      repair-cost: 7
+  '48':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HOE
+    damage: 87
+  '40':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    damage: 201
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 5
+        DURABILITY: 5
+        LOOT_BONUS_BLOCKS: 5
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 64
+  '35':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    damage: 14
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - §6Slots 3
+      - §7Tnt Shooter I
+      - §7Entangle II
+      enchants:
+        ARROW_DAMAGE: 5
+        ARROW_KNOCKBACK: 5
+        ARROW_FIRE: 5
+        ARROW_INFINITE: 5
+      repair-cost: 3
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §7Tome of Analizing
+      lore:
+      - ''
+      - §eRight Click §7to analize Items
+  '30':
+    ==: org.bukkit.inventory.ItemStack
+    type: FISHING_ROD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Beast Rod
+      enchants:
+        DURABILITY: 3
+        LUCK: 3
+        LURE: 3
+        MENDING: 1
+      repair-cost: 3
+  '33':
+    ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+  '43':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §ePickaxe of Vein Mining
+      lore:
+      - ''
+      - §rThis Pickaxe will dig out
+      - §rwhole Veins of Ores...
+  '42':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 243
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Building Pick
+      enchants:
+        DIG_SPEED: 5
+        SILK_TOUCH: 1
+        DURABILITY: 3
+      repair-cost: 31
+  '46':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    damage: 156
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 5
+        DAMAGE_UNDEAD: 5
+        DAMAGE_ARTHROPODS: 5
+        DURABILITY: 5
+        LOOT_BONUS_MOBS: 5
+  '52':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 30
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eExplosive Pickaxe
+      lore:
+      - ''
+      - §rAllows you to mine a good bit
+      - §rof Blocks at once...
+      - ''
+      - §9Works with Fortune
+      enchants:
+        DIG_SPEED: 4
+        DURABILITY: 3
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: EXP_BOTTLE
+    amount: 64
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 64
+  '49':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    damage: 509
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Lumber Axe
+      lore:
+      - §a§oCuts down the whole Tree...
+      enchants:
+        DIG_SPEED: 3
+        DURABILITY: 3
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 19
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 8
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nMedic I
+      lore:
+      - §lRune of Medic I
+      - §a81% Success Rate and §c19% Destroy Rate.
+      - §6Bow Enchant
+      - §7Place the Rune on a bow to enchant.
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: EXP_BOTTLE
+    amount: 64
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: EXP_BOTTLE
+    amount: 12

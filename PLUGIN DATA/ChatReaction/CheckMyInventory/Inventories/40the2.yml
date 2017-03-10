@@ -1,0 +1,569 @@
+Inventories:
+  '1':
+    Time: 1460229971280
+    Exp: 2
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -58175.23086189594
+      y: 62.18502550584822
+      z: -206861.9395673569
+      pitch: 0.7499874
+      yaw: -280.97675
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: COBBLESTONE
+        amount: 60
+      '9':
+        type: RAW_BEEF
+      '14':
+        type: LOG
+        amount: 64
+      '15':
+        type: LOG
+        amount: 64
+      '16':
+        type: LOG
+        amount: 64
+      '17':
+        type: LOG
+        amount: 64
+      '18':
+        type: LOG
+        amount: 64
+      '19':
+        type: LOG
+        amount: 64
+      '20':
+        type: LOG
+        amount: 64
+      '21':
+        type: LOG
+        amount: 64
+      '22':
+        type: COBBLESTONE
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 64
+      '24':
+        type: COBBLESTONE
+        amount: 64
+      '25':
+        type: COBBLESTONE
+        amount: 64
+      '26':
+        type: SMOOTH_BRICK
+        amount: 9
+      '27':
+        type: COBBLESTONE
+        amount: 64
+      '28':
+        type: COBBLESTONE
+        amount: 64
+      '29':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '30':
+        type: IRON_BOOTS
+        damage: 11
+      '31':
+        type: IRON_LEGGINGS
+        damage: 11
+      '32':
+        type: IRON_CHESTPLATE
+        damage: 12
+      '33':
+        type: STONE
+        amount: 64
+      '34':
+        type: STONE
+        amount: 64
+      '35':
+        type: SMOOTH_STAIRS
+        amount: 20
+  '2':
+    Time: 1460883169713
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310434.8656856902
+      y: 65.0
+      z: -625954.0746120322
+      pitch: -6.3148866
+      yaw: 344.2441
+    Items:
+      '0':
+        type: LOG
+        amount: 64
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: DIAMOND_AXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: COOKED_CHICKEN
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '6':
+        type: LOG
+        amount: 64
+      '7':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '9':
+        type: COBBLESTONE
+        amount: 64
+      '10':
+        type: LOG
+        amount: 64
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: IRON_CHESTPLATE
+        damage: 12
+      '13':
+        type: SMOOTH_STAIRS
+        amount: 20
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: LOG
+        amount: 64
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: IRON_LEGGINGS
+        damage: 11
+      '18':
+        type: STONE
+        amount: 64
+      '19':
+        type: IRON_BOOTS
+        damage: 11
+      '20':
+        type: LOG
+        amount: 64
+      '21':
+        type: SMOOTH_BRICK
+        amount: 9
+      '22':
+        type: DIAMOND
+        amount: 29
+      '23':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '24':
+        type: COBBLESTONE
+        amount: 64
+      '25':
+        type: COBBLESTONE
+        amount: 2
+      '26':
+        type: LOG
+        amount: 64
+      '27':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '28':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '29':
+        type: STONE
+        amount: 64
+      '30':
+        type: LOG
+        amount: 20
+      '31':
+        type: RAW_BEEF
+      '32':
+        type: TORCH
+        amount: 2
+      '33':
+        type: LOG
+        amount: 64
+  '3':
+    Time: 1462120694348
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310434.8656856902
+      y: 65.0
+      z: -625954.0746120322
+      pitch: -6.3148866
+      yaw: 344.2441
+    Items:
+      '0':
+        type: LOG
+        amount: 64
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: DIAMOND_AXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: COOKED_CHICKEN
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '6':
+        type: LOG
+        amount: 64
+      '7':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '9':
+        type: COBBLESTONE
+        amount: 64
+      '10':
+        type: LOG
+        amount: 64
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: IRON_CHESTPLATE
+        damage: 12
+      '13':
+        type: SMOOTH_STAIRS
+        amount: 20
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: LOG
+        amount: 64
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: IRON_LEGGINGS
+        damage: 11
+      '18':
+        type: STONE
+        amount: 64
+      '19':
+        type: IRON_BOOTS
+        damage: 11
+      '20':
+        type: LOG
+        amount: 64
+      '21':
+        type: SMOOTH_BRICK
+        amount: 9
+      '22':
+        type: DIAMOND
+        amount: 29
+      '23':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '24':
+        type: COBBLESTONE
+        amount: 64
+      '25':
+        type: COBBLESTONE
+        amount: 2
+      '26':
+        type: LOG
+        amount: 64
+      '27':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '28':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '29':
+        type: STONE
+        amount: 64
+      '30':
+        type: LOG
+        amount: 20
+      '31':
+        type: RAW_BEEF
+      '32':
+        type: TORCH
+        amount: 2
+      '33':
+        type: LOG
+        amount: 64
+  '4':
+    Time: 1462483217971
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310434.8656856902
+      y: 65.0
+      z: -625954.0746120322
+      pitch: -6.3148866
+      yaw: 344.2441
+    Items:
+      '0':
+        type: LOG
+        amount: 64
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: DIAMOND_AXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: COOKED_CHICKEN
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '6':
+        type: LOG
+        amount: 64
+      '7':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '9':
+        type: COBBLESTONE
+        amount: 64
+      '10':
+        type: LOG
+        amount: 64
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: IRON_CHESTPLATE
+        damage: 12
+      '13':
+        type: SMOOTH_STAIRS
+        amount: 20
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: LOG
+        amount: 64
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: IRON_LEGGINGS
+        damage: 11
+      '18':
+        type: STONE
+        amount: 64
+      '19':
+        type: IRON_BOOTS
+        damage: 11
+      '20':
+        type: LOG
+        amount: 64
+      '21':
+        type: SMOOTH_BRICK
+        amount: 9
+      '22':
+        type: DIAMOND
+        amount: 29
+      '23':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '24':
+        type: COBBLESTONE
+        amount: 64
+      '25':
+        type: COBBLESTONE
+        amount: 2
+      '26':
+        type: LOG
+        amount: 64
+      '27':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '28':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '29':
+        type: STONE
+        amount: 64
+      '30':
+        type: LOG
+        amount: 20
+      '31':
+        type: RAW_BEEF
+      '32':
+        type: TORCH
+        amount: 2
+      '33':
+        type: LOG
+        amount: 64

@@ -1,0 +1,9 @@
+# Only use this file if you've set "storage" to "mysql" in config.yml
+# Otherwise this file will be ignored.
+
+host: 203.57.45.63
+port: 3306
+user: Chalwk
+pass: hHM8dFpbaSGwhyKn
+database: Chalwk
+prefix: Stats3_

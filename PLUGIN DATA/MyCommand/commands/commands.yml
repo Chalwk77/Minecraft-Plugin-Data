@@ -1,0 +1,10199 @@
+#  BukkitDev Help page : http://dev.bukkit.org/server-mods/mycommand/pages/configuration-and-example    	#
+cmi_inv_load:
+  command: /cmi load
+  type: RUN_COMMAND
+  runcmd:
+  - "/cmi load $multiargs"
+  permission-required: true
+  register: true
+cmi_alias:
+  command: /alias
+  type: RUN_COMMAND
+  runcmd:
+  - "/whowas $player"
+  permission-required: true
+  register: true
+'vote_1':
+  command: /vote
+  type: TEXT
+  text:
+  - "&e========&7] &c&lVote for us! &7[&e=========="
+  - "&7Sharing is caring, help support JeriCraft by voting!"
+  - "&bwww.jericraft.enjin.com/vote"
+  - "&7Vote Site 1: &8http://goo.gl/X2xRn2"
+  - "&7Vote Site 2: &8http://goo.gl/TAHLCf"
+  - "&7Vote Site 3: &8http://goo.gl/KdjxY0"
+  - "&7Vote Site 4: &8https://goo.gl/9K90VE"
+  - "&e****************************************************"
+  permission-required: false
+request_worldedit:
+  command: /reqwe
+  type: RUN_CONSOLE
+  runcmd:
+  - /say &6$player $grayis $grayrequesting $grayworld $grayedit!
+  delaytimer: 1
+  delaytimer_format: SECONDS
+  permission-required: false
+  error-message: '&cUsage: &7/reqwe'
+  cooldown: 25
+houses1_command_page:
+  command: /houses1
+  type: RAW_TEXT
+  text:
+  - "&e************************************************************"
+  - "&e========&a] &c&lJeriCraft Property Market &a[&e=========="
+  - "&a&oIf you would like your build listed here, please contact Chalwk; &eClick to send mail: &d/mail send Chalwk;/mail send Chalwk"
+  - "1). &7Traditional British House: &f[&bFor Rent&f] &e→ &6District 1"
+  - "&fPrice: &3$1,000/day; &eClick to view this house: &d/warp dis12;/warp dis12"
+  - "
+  "
+  - "2). &7Apartment Building: &f[&bFor Sale&f] &e→ &6District 1"
+  - "&fAsking Price: &3$330,000 &7| &cDeposit: &8N/A; &eClick to view this house: &d/warp aptbuild2;/warp aptbuild2"
+  - "
+  "
+  - "3). &7Cottage &f[&bFor Sale&f] &e→ &6District 1;&e&o 2 b/r, 1 Kitchen, 1 Living, 1 Dining + Small carport & Storage"
+  - "&fAsking Price: &3$45,000 &7| &cDeposit: &8N/A; &eClick to view this house: &d/warp cottage;/warp cottage"
+  - "
+  "
+  - "4). &7Tiny 2 bedroom cottage: &f[&bFor Sale&f] &e→ &6District 1;&e&o1 living, 2 b/r + storage"
+  - "&fAsking Price: &3$7,000 &7| &cDeposit: &8N/A; &eClick to view this house: &d/warp cottage2;/warp cottage2"
+  - "
+  "
+  - "5). &7Small Modern House: &f[&bFor Sale&f] &e→ &6Spawn Region"
+  - "&fAsking Price: &3$47,000 &7| &cDeposit: &8N/A; &eClick to view this house: &d/warp modern4;/warp modern4"
+  - "
+  "
+  - "&f[&3Next Page&f];Next Page;/houses2"
+  - "&e************************************************************"
+  permission-required: false
+houses_page1:
+  command: /houses
+  type: RAW_TEXT
+  text:
+  - "&e************************************************************"
+  - "&e========&a] &c&lJeriCraft Property Market &a[&e=========="
+  - "&a&oIf you would like your build listed here, please contact Chalwk; &eClick to send mail: &d/mail send Chalwk;/mail send Chalwk"
+  - "1). &7Traditional British House: &f[&bFor Rent&f] &e→ &6District 1"
+  - "&fPrice: &3$1,000/day; &eClick to view this house: &d/warp dis12;/warp dis12"
+  - "
+  "
+  - "2). &7Apartment Building: &f[&bFor Sale&f] &e→ &6District 1"
+  - "&fAsking Price: &3$330,000 &7| &cDeposit: &8N/A; &eClick to view this house: &d/warp aptbuild2;/warp aptbuild2"
+  - "
+  "
+  - "3). &7Cottage &f[&bFor Sale&f] &e→ &6District 1;&e&o 2 b/r, 1 Kitchen, 1 Living, 1 Dining + Small carport & Storage"
+  - "&fAsking Price: &3$45,000 &7| &cDeposit: &8N/A; &eClick to view this house: &d/warp cottage;/warp cottage"
+  - "
+  "
+  - "4). &7Tiny 2 bedroom cottage: &f[&bFor Sale&f] &e→ &6District 1;&e&o1 living, 2 b/r + storage"
+  - "&fAsking Price: &3$7,000 &7| &cDeposit: &8N/A; &eClick to view this house: &d/warp cottage2;/warp cottage2"
+  - "
+  "
+  - "5). &7Small Modern House: &f[&bFor Sale&f] &e→ &6Spawn Region"
+  - "&fAsking Price: &3$47,000 &7| &cDeposit: &8N/A; &eClick to view this house: &d/warp modern4;/warp modern4"
+  - "
+  "
+  - "&f[&3Next Page&f];Next Page;/houses2"
+  - "&e************************************************************"
+  permission-required: false
+houses_page2:
+  command: /houses2
+  type: RAW_TEXT
+  text:
+  - "&e************************************************************"
+  - "&e========&a] &c&lJeriCraft Property Market &a[&e=========="
+  - "&a&oIf you would like your build listed here, please contact Chalwk; &eClick to send mail: &d/mail send Chalwk;/mail send Chalwk"
+  - "
+  "
+  - "&f[&3Next Page&f];Next Page;/houses3"
+  - "&f[&3Previous Page&f];Previous Page;/houses1"
+  - "&e************************************************************"
+  permission-required: false
+houses_page3:
+  command: /houses3
+  type: RAW_TEXT
+  text:
+  - "&e************************************************************"
+  - "&e========&a] &c&lJeriCraft Property Market &a[&e=========="
+  - "&a&oIf you would like your build listed here, please contact Chalwk; &eClick to send mail: &d/mail send Chalwk;/mail send Chalwk"
+  - "
+  "
+  - "&f[&3Previous Page&f];Previous Page;/houses2"
+  - "&e************************************************************"
+  permission-required: false
+rshop:
+  command: /rshop
+  type: ICON_MENU
+  text:
+  - POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES
+  iconmenu_title: '&5Rune Shop  &6Pages 1-4'
+  iconmenu_size: 9
+  iconmenu_commands:
+  - 0:PAPER:0:/runes shop 1:&2Select a page:&aClick to open &7&lPage 1!
+  - 1:PAPER:0:/runes shop 2:&2Select a page:&aClick to open &7&lPage 2!
+  - 2:PAPER:0:/runes shop 3:&2Select a page:&aClick to open &7&lPage 3!
+  - 3:PAPER:0:/runes shop 4:&2Select a page:&aClick to open &7&lPage 4!
+  permission-required: false
+'rune_enchanter':
+  command: /enchanter v1
+  runcmd:
+  - /enchanter v1
+  permission-required: false
+'rune_enchanter2':
+  command: /enchanter v1
+  runcmd:
+  - /enchanter v1
+  permission-required: false
+'rune_description_1':
+  command: /rune_description_1
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Lifesteal"
+  - "&6 Sword Enchantment"
+  - "&a When attacking another player you have a chance of gaining some of your health back"
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_2':
+  command: /rune_description_2
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Assassin"
+  - "&6 Sword Enchantment"
+  - "&a Has a chance of inflicting a poison effect on your victim"
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_3':
+  command: /rune_description_3
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Kill Confirm"
+  - "&6 Sword Enchantment"
+  - "&a A chance of your victim dropping their head on death"
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_4':
+  command: /rune_description_4
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Hex"
+  - "&6 Sword Enchantment"
+  - "&a A chance of inflicting blindness on your victim"
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_5':
+  command: /rune_description_5
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Jump"
+  - "&6 Boot Enchantment"
+  - "&a Gives you infinite jump boost"
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_6':
+  command: /rune_description_6
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Speed"
+  - "&6 Boot Enchantment"
+  - "&a Gives you infinite speed boost"
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_7':
+  command: /rune_description_7
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Zeus"
+  - "&6 Bow Enchantment"
+  - "&a Has a chance to summon lightning on your victim"
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_8':
+  command: /rune_description_8
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Bat Vision"
+  - "&6 Helmet Enchantment"
+  - "&a Gives you infinite night vision"
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_9':
+  command: /rune_description_9
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Demonic Aura"
+  - "&6 Armour Enchantment"
+  - "&a Has a chance of giving the wither effect to your attacker"
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_10':
+  command: /rune_description_10
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Dodge"
+  - "&6 Armour Enchantment"
+  - "&a Chance of evading damage (regardless of cause)"
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_11':
+  command: /rune_description_11
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Blessed"
+  - "&6 Armour Enchantment"
+  - "&a Restores the wearers health and hunger while walking / running"
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_12':
+  command: /rune_description_12
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Arrow Rain"
+  - "&6 Bow Enchantment"
+  - "&a Spawns a barrage of arrows in the air after you hit a player with an arrow."
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_13':
+  command: /rune_description_13
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Snare"
+  - "&6 Bow Enchantment"
+  - "&a When hitting a player with an arrow they will receive a slowness debuff."
+  - "&7 Maximum Level: &7&l IV"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_14':
+  command: /rune_description_14
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Curse"
+  - "&6 Weapon Enchantment"
+  - "&a Upon hitting a target they will receive the wither damage debuff."
+  - "&7 Maximum Level: &7&l IV"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_15':
+  command: /rune_description_15
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Crushing"
+  - "&6 Weapon Enchantment"
+  - "&a A chance to deal up to 2x damage."
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_16':
+  command: /rune_description_16
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Execute"
+  - "&6 Weapon Enchantment"
+  - "&a More critical hits and a higher chance to do 2x damage whilst sneaking."
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_17':
+  command: /rune_description_17
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Stealth"
+  - "&6 Armour Enchantment"
+  - "&a When you sneak, nearby enemies aiming near you have a chance to get blindness."
+  - "&7 Maximum Level: &7&l IV"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_18':
+  command: /rune_description_18
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Aegis"
+  - "&6 Armour Enchantment"
+  - "&a When blocking with a sword, there is a chance for you to regain health for a percentage of the damage received."
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_19':
+  command: /rune_description_19
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Platemail"
+  - "&6 Armour Enchantment"
+  - "&a You gain damage resistance, along with a higher durability on the armour piece at the cost of slowness."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_20':
+  command: /rune_description_20
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Purge"
+  - "&6 Weapon Enchantment"
+  - "&a A chance to call down a strike of lightning upon your enemy, removing all positive potion effects they have and damages them."
+  - "&7 Maximum Level: &7&l IV"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_21':
+  command: /rune_description_21
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Divine"
+  - "&6 Weapon Enchantment"
+  - "&a A chance to heal you relative to the damage you inflict upon your enemy without taking their health."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_22':
+  command: /rune_description_22
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Entangle"
+  - "&6 Bow Enchantment"
+  - "&a A chance to add slowness de-buff your target."
+  - "&7 Maximum Level: &7&l IV"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_23':
+  command: /rune_description_23
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Pyromaniac"
+  - "&6 Armour Enchantment"
+  - "&a Fire ticks have a chance to heal you instead of doing damage."
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_24':
+  command: /rune_description_24
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Flame Cloak"
+  - "&6 Armour Enchantment"
+  - "&a Has a chance to ignite people that attack you."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_25':
+  command: /rune_description_25
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Battlecry"
+  - "&6 Axe Enchantment"
+  - "&a Chance to remove negative debuffs from yourself while you fight."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_26':
+  command: /rune_description_26
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Corruption"
+  - "&6 Axe Enchantment"
+  - "&a Has a chance to give weakness effect to enemy."
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_27':
+  command: /rune_description_27
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Turmoil"
+  - "&6 Axe Enchantment"
+  - "&a Has a chance to give enemies a nausea potion debuff."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_28':
+  command: /rune_description_28
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Spiked"
+  - "&6 Armour Enchantment"
+  - "&a Gives a thorns like effect but a bit more than default."
+  - "&7 Maximum Level: &7&l II"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_29':
+  command: /rune_description_29
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Holy Smite"
+  - "&6 Axe Enchantment"
+  - "&a A chance to call down a bolt of lightning, removing any positive buffs the enemy has."
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_30':
+  command: /rune_description_30
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Riftslayer"
+  - "&6 Sword Enchantment"
+  - "&a You deal up to 3x more damage to mobs."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_31':
+  command: /rune_description_31
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Petrify"
+  - "&7 Axes"
+  - "&7 Has a chance to give slowness effect to your enemy."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_32':
+  command: /rune_description_32
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Eyepatch"
+  - "&6 Armour"
+  - "&a Immune to blindness"
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_33':
+  command: /rune_description_33
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Plunder"
+  - "&6 Weapons"
+  - "&a More XP from entities."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_34':
+  command: /rune_description_34
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Mischief"
+  - "&6 Weapons"
+  - "&a Inflicts nausea to your opponent."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_35':
+  command: /rune_description_35
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Shadowstep"
+  - "&6 Armour Enchantment"
+  - "&a You have a chance to get teleported behind the player who damaged you."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_36':
+  command: /rune_description_36
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Demon Siphon"
+  - "&6 Sword Enchantment"
+  - "&a You have chance to get large amount of life steal from PvE (Mobs)."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_37':
+  command: /rune_description_37
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Animal Tamer"
+  - "&6 Armour Enchantment"
+  - "&a By hitting the wolves, they will be tamed."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_38':
+  command: /rune_description_38
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Wolves"
+  - "&6 Armour Enchantment"
+  - "&a While getting damage, you have chance to spawn friendly wolves to fight along side of you."
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_39':
+  command: /rune_description_39
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Superman Punch"
+  - "&6 Armour Enchantment"
+  - "&a While getting damage, you have chance to give a high knockback to your enemy."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_40':
+  command: /rune_description_40
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Disarm"
+  - "&6 Weapon Enchantment"
+  - "&a Whilst PvPing, your enemy has chance to drop the item in his hand."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_41':
+  command: /rune_description_41
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Thief"
+  - "&6 Weapon Enchantment"
+  - "&a While PvPing, you have a chance to steal some % of the money from your opponent."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_42':
+  command: /rune_description_42
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Swimmer"
+  - "&6 Helmet Enchantment"
+  - "&a Gives you infinite water breathing."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_43':
+  command: /rune_description_43
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Medic"
+  - "&6 Bow Enchantment"
+  - "&a When you shoot arrow on anyone with this bow, it will heal them. (This won't work if you shoot on yourself)"
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_44':
+  command: /rune_description_44
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Endless"
+  - "&6 Any Item Enchantment"
+  - "&a Item with this Enchantmentment will never be broken!"
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_45':
+  command: /rune_description_45
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Health Boost"
+  - "&6 Chestplate Enchantment"
+  - "&a Gives infinite health boost."
+  - "&7 Maximum Level: &7&l III "
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_46':
+  command: /rune_description_46
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Reborn"
+  - "&6 Weapon Enchantment"
+  - "&a When you kill a player, you will get Absorption and Regeneration potion effect for limited time."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_47':
+  command: /rune_description_47
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Molten"
+  - "&6 Chestplate Enchantment"
+  - "&a Gives infinite Fire Resistant."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_48':
+  command: /rune_description_48
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Immolation"
+  - "&6 Chestplate Enchantment"
+  - "&a When you sneak, you have chance to set nearby players on fire for configurable amount of seconds."
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_49':
+  command: /rune_description_49
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Strength "
+  - "&6 Chestplate Enchantment"
+  - "&a Gives infinite Strength."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_50':
+  command: /rune_description_50
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Horse Rider"
+  - "&6 Armour Enchantment"
+  - "&a Tames a horse with saddle when hit while wearing armour with this Enchantment."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_51':
+  command: /rune_description_51
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Web Trap"
+  - "&6 Weapon Enchantment"
+  - "&a You have a chance of spawning cob web at your opponent's location for few seconds."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_52':
+  command: /rune_description_52
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Paralyze"
+  - "&6 Armour Enchantment"
+  - "&a You have a chance to give your opponent Mining Fatigue effect for few seconds."
+  - "&7 Maximum Level: &7&l II"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_53':
+  command: /rune_description_53
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Soft Touch"
+  - "&6 Pickaxe Enchantment"
+  - "&a You have ability to get the mob spawner on breaking it with this pickaxe."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_54':
+  command: /rune_description_54
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Tnt Shooter"
+  - "&6 Bow Enchantment"
+  - "&a You shoot Tnt instead of arrow. (It won't damage to protected area by any world protection plugins.)"
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_55':
+  command: /rune_description_55
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Rekt"
+  - "&6 Axe Enchantment"
+  - "&a You give 2x damage to mobs."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_56':
+  command: /rune_description_56
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Reversal"
+  - "&6 Weapon Enchantment"
+  - "&a You have chance to reverse the damage towards your opponent who damaged you."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_57':
+  command: /rune_description_57
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Reinforced"
+  - "&6 Chestplate Enchantment"
+  - "&a When you wear this chestplate on low HP, you get damage resistance. (Fully configurable)"
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_58':
+  command: /rune_description_58
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Wild Mark"
+  - "&6 Bow Enchantment"
+  - "&a Doubles the damage of arrows."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_59':
+  command: /rune_description_59
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Shearer"
+  - "&6 Shears Enchantment"
+  - "&a When left clicking the item having this Enchantment in the air, all Sheep within the radius will be sheared."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_60':
+  command: /rune_description_60
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Farmer"
+  - "&6 Armour Enchantment"
+  - "&a When placing the seeds, potatoes or carrots on the farmed land while wearing any armour part having this Enchantmentment, the specific crop will instantly grow."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_61':
+  command: /rune_description_61
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Haste"
+  - "&6 Pickaxe Enchantment"
+  - "&a Gives you Haste Potion Effect until you hold this pickaxe."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_62':
+  command: /rune_description_62
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Explosive"
+  - "&6 Pickaxe Enchantment"
+  - "&a Makes an explosion on breaking a block with this pickaxe."
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_63':
+  command: /rune_description_63
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Lumberjack"
+  - "&6 Axe Enchantment"
+  - "&a Chops the whole tree in one click."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_64':
+  command: /rune_description_64
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Plow"
+  - "&6 Hoe Enchantment"
+  - "&a Hoes a bigger area."
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_65':
+  command: /rune_description_65
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Veinminer"
+  - "&6 Pickaxe Enchantment"
+  - "&a Mines the nearby blocks of the same type of the block you break."
+  - "&7 Maximum Level: &7&l III"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_66':
+  command: /rune_description_66
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Lucky Mining"
+  - "&6 Pickaxe Enchantment"
+  - "&a Chance to get some rewards while mining."
+  - "&7 Maximum Level: &7&l V"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_67':
+  command: /rune_description_67
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Smelt"
+  - "&6 Pickaxe Enchantment"
+  - "&a Auto Smelts the blocks you break."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_68':
+  command: /rune_description_68
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Auto Block"
+  - "&6 Pickaxe Enchantment"
+  - "&a Auto makes the block of items such as diamond, lapis etc."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_69':
+  command: /rune_description_69
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Shooter"
+  - "&6 Pickaxe Enchantment"
+  - "&a Shoots a fireball when right clicked with this pickaxe. When the fireball hits any block it will break that block. (It also supports other Enchantments like Veinminer and Explosive!)"
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+'rune_description_70':
+  command: /rune_description_70
+  type: TEXT
+  text:
+  - "&e========&a] &c&lEnchantment Information &a[&e=========="
+  - "&c Feather Fall"
+  - "&6 Armour Enchantment"
+  - "&a No fall damage when you wear any armour part having this Enchantmentment."
+  - "&7 Maximum Level: &7&l I"
+  - "&e************************************************************"
+  permission-required: false
+ucmenumain:
+  command: /ucm
+  type: RUN_COMMAND
+  runcmd:
+  - /uc menu main
+  error-message: "&cUsage: &7/uc menu"
+  permission-required: false
+  register: true
+killmythicmobs:
+  command: /mmk
+  type: RUN_COMMAND
+  runcmd:
+  - /mm m killall
+  permission-required: true
+  permission-node: mycommand.cmd.killmythicmobs
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: &7/mmk'
+reloadmythicmobs:
+  command: /mmr
+  type: RUN_COMMAND
+  runcmd:
+  - /mm reload
+  permission-required: true
+  permission-node: mycommand.cmd.reloadmythicmobs
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: &7/mmr'
+'custommobs':
+  command: /custommobs
+  type: TEXT
+  text:
+  - "&8=======&2&l] &c&lMOBS &2&l[&8&l======="
+  - "&aKiller Squid &7(&chostile squid&7) &f* Special Abilities"
+  - "&aSpider Pig &7(&chostile pig&7) &f* Special Abilities"
+  - "&aBongo Bongo &7(&cskeleton&7) &f* Can Teleport &7&l|&f special powers/Abilities &7&l|&f can open doors, go through them."
+  - "&aBeowulf &7(&cskeleton&7) &f* Can Teleport &7&l|&f special powers/Abilities &7&l|&f can open doors, go through them."
+  - "&aRidley &7(&cwither skeleton&7) &f* Can Teleport &7&l|&f special powers/Abilities &7&l|&f can open doors, go through them."
+  - "&aQuadraxis &7(&cskeleton&7) &f* Special Powers/Abilities &7&l|&f Can spawn reinforcements"
+  - "&aSkeletal Knight &7(&cwither skeleton&7) &f* Mysterous Abilities"
+  - "&aSkeletal Warrior &7(&cwither skeleton&7) &f* Special Powers/Abilities &7&l|&f Can spawn reinforcements"
+  - "&cMore coming soon! Got an idea for custom mob? Let us know!"
+  - "&c/warp suggestions"
+  - "&8???????????????"
+  permission-required: false
+request_staff:
+  command: /reqstaff
+  type: RUN_CONSOLE
+  runcmd:
+  - /say &6$player $grayis $grayrequesting $graystaff $grayassistance!
+  permission-required: false
+  error-message: '&cUsage: &7/reqstaff'
+announce_connected:
+  command: /announceconnected
+  type: RUN_COMMAND
+  runcmd:
+  - /hc connected via the MCC Client.
+  permission-node: mycommand.cmd.announceconnected
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: None'
+  permission-required: true
+  register: true
+'colorcodes1':
+  command: /colour
+  type: TEXT
+  text:
+  - "&6&l======================================="
+  - "[Color Code]"
+  - "&0 &&00   &1 &&11   &2 &&22   &3 &&33"
+  - "&4 &&44   &5 &&55   &6 &&66   &7 &&77"
+  - "&8 &&88   &9 &&99   &a &&aa   &b &&bb"
+  - "&c &&cc   &d &&dd   &e &&ee   &f &&ff"
+  - "
+  "
+  - "[Technical Name]"
+  - "&1&lDark Blue       &2&lDark Green"
+  - "&3&lDark Aqua       &4&lDark Red"
+  - "&5&lDark Purple     &8&lDark Gray"
+  - "&6&lGold        &7&lGray       &9&lBlue"
+  - "&a&lGreen       &b&lAqua       &c&lRed"
+  - "&e&lYellow      &f&lWhite      &0&lBlack"
+  - "
+  "
+  - "&7&kExample&f        &fObfuscated      [& k]"
+  - "&7&lExample&f       &fBold              [& l]"
+  - "&7&mExample&f        &fStrikethrough   [& M]"
+  - "&7&oExample&f        &fItalic              [& o]"
+  - "&7&nExample&f        &fUnderline       [& n]"
+  - "&6&l======================================="
+  permission-required: false
+'colorcodes2':
+  command: /color
+  type: TEXT
+  text:
+  - "&6&l======================================="
+  - "[Color Code]"
+  - "&0 &&00   &1 &&11   &2 &&22   &3 &&33"
+  - "&4 &&44   &5 &&55   &6 &&66   &7 &&77"
+  - "&8 &&88   &9 &&99   &a &&aa   &b &&bb"
+  - "&c &&cc   &d &&dd   &e &&ee   &f &&ff"
+  - "
+  "
+  - "[Technical Name]"
+  - "&1&lDark Blue       &2&lDark Green"
+  - "&3&lDark Aqua       &4&lDark Red"
+  - "&5&lDark Purple     &8&lDark Gray"
+  - "&6&lGold        &7&lGray       &9&lBlue"
+  - "&a&lGreen       &b&lAqua       &c&lRed"
+  - "&e&lYellow      &f&lWhite      &0&lBlack"
+  - "
+  "
+  - "&7&kExample&f        &fObfuscated      [& k]"
+  - "&7&lExample&f       &fBold              [& l]"
+  - "&7&mExample&f        &fStrikethrough   [& M]"
+  - "&7&oExample&f        &fItalic              [& o]"
+  - "&7&nExample&f        &fUnderline       [& n]"
+  - "&6&l======================================="
+  permission-required: false
+'worldedit_poly':
+  command: //poly
+  type: RUN_COMMAND
+  runcmd:
+  - //sel poly
+  permission-required: true
+  permission-node: mycommand.cmd.worldedit_poly
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: &7//sel poly'
+  register: true
+'worldedit_cuboid':
+  command: //cuboid
+  type: RUN_COMMAND
+  runcmd:
+  - //sel cuboid
+  permission-required: true
+  permission-node: mycommand.cmd.worldedit_cuboid
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: &7//sel cuboid'
+  register: true
+'mccharacter':
+  command: /mccharacter_text
+  type: TEXT
+  text:
+  - "&6&l============================================="
+  - "1. &eCreate and activate an account on Enjin."
+  - "2. &eGo to &bwww.jericraft.enjin.com&e, click '&cjoin website&e'"
+  - "&e(top right corner),"
+  - "
+  "
+  - "3. &eNow go to your new profile page and click '&cadd character&e'."
+  - "3. &eTo verify your minecraft character, open Minecraft and" 
+  - "&cdirect connect &eto &bmclogin.enjin.com&e, but do not use Add Server option."
+  - ""
+  - "&eYou will be kicked from the server and provided with a code."
+  - "&e* Enter this code on the &cAdd Character &ewindow."
+  - "&e* Enter code provided by server"
+  - "&6&l============================================="
+  permission-required: false
+'only_from_block1':
+  command: /blockprize1
+  execute_mode: BLOCK_ONLY
+  type: RUN_CONSOLE
+  runcmd:
+  - /eco give $player 5000
+  cooldown: 600
+  permission-required: false
+'only_from_block2':
+  command: /blockprize2
+  execute_mode: BLOCK_ONLY
+  type: RUN_CONSOLE
+  runcmd:
+  - /eco give $player 10000
+  cooldown: 600
+  permission-required: false
+'only_from_block3':
+  command: /blockprize3
+  execute_mode: BLOCK_ONLY
+  type: RUN_CONSOLE
+  runcmd:
+  - /eco give $player 20000
+  cooldown: 600
+  permission-required: false
+cmi_silentchest:
+  command: /silentchest
+  type: RUN_COMMAND
+  runcmd:
+  - /cmi silentchest
+  permission-required: true
+  permission-node: mycommand.cmd.silentchest
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: &7/silentchest'
+  register: true
+hide_command:
+  command: /hide
+  type: RUN_COMMAND
+  runcmd:
+  - "is now hiding from &d$arg1!"
+  error-message: "&cUsage: &7/hide <player name>"
+  permission-required: false
+  register: true
+  cost: 4500
+  cooldown: 25
+take_my_money:
+  command: /takemymoney
+  type: RUN_CONSOLE
+  runcmd:
+  - "/eco take $player 500000"
+  error-message: "&cUsage: &7/takemymoney"
+  permission-required: false
+  register: true
+fart_command:
+  command: /fart
+  type: RUN_COMMAND
+  runcmd:
+  - "farted!"
+  permission-required: false
+  register: true
+hug_back:
+  command: /hugback
+  type: RUN_AS_OPERATOR
+  runcmd:
+  - "&7hugged &d$arg1 &7back!"
+  error-message: "&cUsage: &7/hugback <player name>"
+  permission-required: false
+  register: true
+ban_page:
+  command: /banpage
+  type: TEXT
+  text:
+  - "&cwww.jericraft.enjin.com/banpage"
+  permission-required: false
+  error-message: '&cUsage: &7/banpage'
+mycmd_reload:
+  command: /rcmd
+  type: RUN_COMMAND
+  runcmd:
+  - /mycmd-reload all
+  permission-required: true
+  permission-node: mycommand.cmd.reload
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: &7/rcmd'
+af_playerchat:
+  command: /afp
+  type: RUN_COMMAND
+  runcmd:
+  - /af playerchat $multiargs
+  permission-required: true
+  permission-node: mycommand.cmd.afp
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: &7/afp <player name> {message}'
+  register: true
+inventory_inspector:
+  command: /inv
+  type: RUN_COMMAND
+  runcmd:
+  - /cmi inv $arg1
+  permission-required: true
+  permission-node: mycommand.cmd.inv
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: &7/inv <player name>'
+  register: true
+pex_group_set:
+  command: /pgs
+  type: RUN_COMMAND
+  runcmd:
+  - /pex user $arg1 group set $arg2
+  permission-required: true
+  permission-node: mycommand.cmd.pgs
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: &7/pgs <player name> {group}'
+  register: true
+land_protection:
+  command: /reqp
+  type: RUN_CONSOLE
+  runcmd:
+  - /say &6$player $grayis $grayrequesting $grayland $grayprotection!
+  delaytimer: 1
+  delaytimer_format: SECONDS
+  permission-required: false
+  error-message: '&cUsage: &7/reqp'
+  cost: 0
+  cooldown: 25
+staff_ss:
+  command: /f
+  type: RUN_AS_OPERATOR
+  runcmd:
+  - /warp ss $arg1
+  - /ss $arg1
+  permission-required: true
+  permission-node: mycommand.cmd.f
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: &7/f <player name>'
+  success-message: "&cSent player to jail!"
+  register: true
+private_message1:
+  command: /vm
+  type: RUN_COMMAND
+  runcmd:
+  - /etell $multiargs
+  permission-required: true
+  permission-node: mycommand.cmd.vm
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: &7/vm <player name> {message}'
+  register: true
+private_message2:
+  command: /vr
+  type: RUN_COMMAND
+  runcmd:
+  - /er $multiargs
+  permission-required: true
+  permission-node: mycommand.cmd.vr
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: &7/vr <player name> {message}'
+  register: true
+simple_dice:
+  command: /rollthedice
+  type: TEXT
+  text:
+  - '&0[&6Dice&0] &eYou got &6$rnd6 !'
+  permission-error: '&cError: &7You cannot use this command!'
+tab_completer:
+  command: /greets
+  type: RUN_COMMAND
+  runcmd:
+  - /say $arg1
+  register: true
+  tab_completer:
+  - Hi
+  - Hello!
+shortcut:
+  command: /l
+  type: RUN_COMMAND
+  runcmd:
+  - /list
+  cost: 0
+colors:
+  command: /colors
+  type: TEXT
+  text:
+  - '&11 &22 &33 &44 &55 &66 &77 &88 &99 &00 &aa &bb &cc &dd &ee &ff'
+  - '&nn&r &mm&r &ll&r &oo&r'
+  permission-required: false
+  permission-node: mycommand.cmd.colors
+  permission-error: '&cError: &7You cannot use this command!'
+  error-message: '&cUsage: &7/color'
+  register: true
+shortcut_with_arguments:
+  command: /t
+  type: RUN_COMMAND
+  runcmd:
+  - /time $arg1 $arg2
+  cost: 0
+  delaytimer: 5
+  error-message: '&cType &e/t set day'
+delay_example:
+  command: /mycmd-timer
+  type: RUN_COMMAND
+  runcmd:
+  - $delay$/say 3..
+  - $delay$/say 2..
+  - $delay$/say 
+  cost: 0
+  delaytimer: 1
+  delaytimer_format: SECONDS
+buildoff:
+  command: /compstart
+  type: RUN_COMMAND
+  runcmd:
+  - $delay$/me &aBuild Battle will begin in &f(&c&l5&f)
+  - $delay$/me &aBuild Battle will begin in &f(&c&l4&f)
+  - $delay$/me &aBuild Battle will begin in &f(&c&l3&f)
+  - $delay$/me &aBuild Battle will begin in &f(&c&l2&f)
+  - $delay$/me &aBuild Battle will begin in &f(&c&l1&f)
+  - $delay$/me &a&lBEGIN!
+  delaytimer: 1
+  delaytimer_format: SECONDS
+broadcast_example:
+  command: /mycmd-broadcast
+  type: BROADCAST_TEXT
+  text:
+  - '&eBroadcast Message!'
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+run_by_console:
+  command: /mycmd-runconsole
+  type: RUN_CONSOLE
+  runcmd:
+  - /say This /say it's performed by console.
+  cost: 0
+  delaytimer: 5
+warmups_cooldowns_info:
+  command: /warmupsandcooldowns
+  type: TEXT
+  text:
+  - Put your command over /warmupsandcooldownswarmupsandcooldowns
+  - 'And change type : from text to WARMUP for Warmups and COOLDOWN for Cooldowns'
+  - adjust the warmup and cooldowns time with delaytimer
+  delaytimer: 5
+addpermission:
+  command: /mycmd-addpermission
+  type: TEXT
+  text:
+  - $gold Put your command over /mycmd-addpermission
+  - '$gold And change type : from text to ADDPERMISSION'
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+text_various_args:
+  command: /mycmd-textargs
+  type: TEXT
+  text:
+  - 'Player Name : $player'
+  - 'World : $world'
+  - 'Health : $health Food : $food'
+  - 'Exp : $exp Level : $level'
+  - 'Gamemode : $gamemode'
+  - 'LastDamage : $lastdamage'
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+clearchat:
+  command: /clearc
+  type: BROADCAST-TEXT
+  text:
+  - '%Repeat%1000% '
+shortcut_with_multiargs:
+  command: /mycmd-shortcut
+  type: RUN_COMMAND
+  text:
+  - $red Text of command $black14
+  runcmd:
+  - /say $multiargs
+  cost: 0
+  delaytimer: 5
+random_example:
+  command: /rockpaperscissors
+  type: RUNCOMMAND_RANDOM
+  text:
+  - Rock-paper-scissors
+  runcmd:
+  - /me Rock!
+  - /me Paper!
+  - /me Scissors!
+add_mc_character:
+  command: /mccharacter
+  type: ICON_MENU
+  text:
+  - POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES
+  - ITEM_NAME can also be ITEM_NAME;EnchantmentMENT;LEVEL
+  iconmenu_title: '&cJeriCraft Menu'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 0:GOLDEN_APPLE:0:/mccharacter_text:&2MC Character:&aClick to read!
+  - 26:WOOL:11:%openiconmenu%/mccharacter:Next Page:&cMenu Page;&a--------->
+  cost: 0
+  delaytimer: 5
+  permission-required: false
+help_page1:
+  command: /mycmd-help 1
+  type: TEXT
+  text:
+  - $brightgreen ---- MyCommand Help Page One ---
+  - $gold Test Help 1
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+help_page0:
+  command: /mycmd-help
+  type: TEXT
+  text:
+  - $brightgreen ---- MyCommand Help Main Page---
+  - '$gold Test Help '
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+script_example:
+  command: /scriptexample
+  type: TEXT
+  text:
+  - Example
+  runcmd:
+  - $Script$HasPermission==custompermission.test
+  - $Script$SetInteger=1
+  - $Script$Integer==1
+  - $Script$SetString=ciao
+  - $Script$String!=lol
+  - $Script$Integer>10
+  - /dosomething
+  cost: 0
+  delaytimer: 5
+itemcost_example:
+  command: /itemcostexample
+  type: TEXT
+  text:
+  - This command cost 5 Cobblestone. COBBLESTONE=ITEM_NAME 5 = AMOUNT
+  runcmd:
+  - /sample
+  cost: 0
+  itemcost: COBBLESTONE:5
+  delaytimer: 5
+bungeecord_example:
+  command: /bungeetest
+  type: BUNGEE_TP
+  server_name: hub
+allowed_worlds_example:
+  command: /onlynether
+  type: TEXT
+  text:
+  - '&cYea,The Nether!'
+  allowed_worlds:
+  - world_nether
+per_world_commands:
+  command: /perworldcommand
+  type: RUN_COMMAND
+  runcmd:
+  - $world=%world%/me This command will be performed only if you are in the world
+  - $world=%world_nether%/me And this only if you are in the nether
+  permission-required: false
+executefortest:
+  command: /executeforall
+  type: RUN_CONSOLE
+  executefor: ONLINE_PLAYERS
+  runcmd:
+  - /tp $player 0 64 0
+  permission-required: false
+ouch:
+  command: /ouch
+  type: RUN_COMMAND
+  runcmd:
+  - '%PlayerOptions%damage: 1'
+  permission-required: false
+heal:
+  command: /mycmd-heal
+  type: RUN_COMMAND
+  runcmd:
+  - '%PlayerOptions%setHealth: 20'
+  - '%PlayerOptions%setFoodLevel: 20'
+  - '%PlayerOptions%sendMessage: &aHealed!'
+  permission-required: false
+world_guard_example:
+  command: /checkregion
+  type: TEXT
+  text:
+  - You are in $wgregionname region!
+  allowed_wg_region:
+  - region_name_here
+custom_cmd_cooldown:
+  command: /mycmd-cooldownme
+  type: TEXT
+  text:
+  - Text Here
+  cooldown: 5
+call_url:
+  command: /call-url
+  type: CALL_URL
+  url: http://localhost/yourscript.php?variable=$arg1&player=$player
+  get_output: true
+  show_output_ingame: true
+  save_output_as: httpResponse
+another_script:
+  command: /another_script
+  type: RUN_COMMAND
+  runcmd:
+  - $Script$%if%$arg1==password
+  - $text$Right!
+  - $Script$%if%$arg1==420
+  - $text$SWAG
+  - $Script$%else%
+  - $text$Password not correct
+bar_text:
+  command: /bar_example
+  type: BAR_API_TEXT
+  text:
+  - '&0[&eX&0]&c SECRET; &e:D; hello'
+  bar_seconds: 5
+  bar_percentage: 8
+  bar_style: SEGMENTED_20
+  bar_flag: DARKEN_SKY
+  bar_color: PINK
+rawmessage_example:
+  command: /raw1
+  type: RAW_TEXT
+  text:
+  - '&aHello &b$player! &aHover your mouse over me!; &dMAGIC'
+  - '&0[&dX&0]&e Click me; &eClick Here for suggest the command &d/mycmd;/mycmd'
+  - '&0[&eX&0]&c SECRET; &e:D; hello'
+'35':
+  command: /mycmdsample35
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen35
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'36':
+  command: /mycmdsample36
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen36
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'37':
+  command: /mycmdsample37
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen37
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'38':
+  command: /mycmdsample38
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen38
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'39':
+  command: /mycmdsample39
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen39
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'40':
+  command: /mycmdsample40
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen40
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'41':
+  command: /mycmdsample41
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen41
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'42':
+  command: /mycmdsample42
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen42
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'43':
+  command: /mycmdsample43
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen43
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'44':
+  command: /mycmdsample44
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen44
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'45':
+  command: /mycmdsample45
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen45
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'46':
+  command: /mycmdsample46
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen46
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'47':
+  command: /mycmdsample47
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen47
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'48':
+  command: /mycmdsample48
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen48
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'49':
+  command: /mycmdsample49
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen49
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'50':
+  command: /mycmdsample50
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen50
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'51':
+  command: /mycmdsample51
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen51
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'52':
+  command: /mycmdsample52
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen52
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'53':
+  command: /mycmdsample53
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen53
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'54':
+  command: /mycmdsample54
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen54
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'55':
+  command: /mycmdsample55
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen55
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'56':
+  command: /mycmdsample56
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen56
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'57':
+  command: /mycmdsample57
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen57
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'58':
+  command: /mycmdsample58
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen58
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'59':
+  command: /mycmdsample59
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen59
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'60':
+  command: /mycmdsample60
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen60
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'61':
+  command: /mycmdsample61
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen61
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'62':
+  command: /mycmdsample62
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen62
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'63':
+  command: /mycmdsample63
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen63
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'64':
+  command: /mycmdsample64
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen64
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'65':
+  command: /mycmdsample65
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen65
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'66':
+  command: /mycmdsample66
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen66
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'67':
+  command: /mycmdsample67
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen67
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'68':
+  command: /mycmdsample68
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen68
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'69':
+  command: /mycmdsample69
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen69
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'70':
+  command: /mycmdsample70
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen70
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'71':
+  command: /mycmdsample71
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen71
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'72':
+  command: /mycmdsample72
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen72
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'73':
+  command: /mycmdsample73
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen73
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'74':
+  command: /mycmdsample74
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen74
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'75':
+  command: /mycmdsample75
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen75
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'76':
+  command: /mycmdsample76
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen76
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'77':
+  command: /mycmdsample77
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen77
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'78':
+  command: /mycmdsample78
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen78
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'79':
+  command: /mycmdsample79
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen79
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'80':
+  command: /mycmdsample80
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen80
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'81':
+  command: /mycmdsample81
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen81
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'82':
+  command: /mycmdsample82
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen82
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'83':
+  command: /mycmdsample83
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen83
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'84':
+  command: /mycmdsample84
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen84
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'85':
+  command: /mycmdsample85
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen85
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'86':
+  command: /mycmdsample86
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen86
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'87':
+  command: /mycmdsample87
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen87
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'88':
+  command: /mycmdsample88
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen88
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'89':
+  command: /mycmdsample89
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen89
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'90':
+  command: /mycmdsample90
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen90
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'91':
+  command: /mycmdsample91
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen91
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'92':
+  command: /mycmdsample92
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen92
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'93':
+  command: /mycmdsample93
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen93
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'94':
+  command: /mycmdsample94
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen94
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'95':
+  command: /mycmdsample95
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen95
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'96':
+  command: /mycmdsample96
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen96
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'97':
+  command: /mycmdsample97
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen97
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'98':
+  command: /mycmdsample98
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen98
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'99':
+  command: /mycmdsample99
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen99
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'100':
+  command: /mycmdsample100
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen100
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'101':
+  command: /mycmdsample101
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen101
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'102':
+  command: /mycmdsample102
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen102
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'103':
+  command: /mycmdsample103
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen103
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'104':
+  command: /mycmdsample104
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen104
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'105':
+  command: /mycmdsample105
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen105
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'106':
+  command: /mycmdsample106
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen106
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'107':
+  command: /mycmdsample107
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen107
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'108':
+  command: /mycmdsample108
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen108
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'109':
+  command: /mycmdsample109
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen109
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'110':
+  command: /mycmdsample110
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen110
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'111':
+  command: /mycmdsample111
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen111
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'112':
+  command: /mycmdsample112
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen112
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'113':
+  command: /mycmdsample113
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen113
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'114':
+  command: /mycmdsample114
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen114
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'115':
+  command: /mycmdsample115
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen115
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'116':
+  command: /mycmdsample116
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen116
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'117':
+  command: /mycmdsample117
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen117
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'118':
+  command: /mycmdsample118
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen118
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'119':
+  command: /mycmdsample119
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen119
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'120':
+  command: /mycmdsample120
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen120
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'121':
+  command: /mycmdsample121
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen121
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'122':
+  command: /mycmdsample122
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen122
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'123':
+  command: /mycmdsample123
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen123
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'124':
+  command: /mycmdsample124
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen124
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'125':
+  command: /mycmdsample125
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen125
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'126':
+  command: /mycmdsample126
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen126
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'127':
+  command: /mycmdsample127
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen127
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'128':
+  command: /mycmdsample128
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen128
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'129':
+  command: /mycmdsample129
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen129
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'130':
+  command: /mycmdsample130
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen130
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'131':
+  command: /mycmdsample131
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen131
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'132':
+  command: /mycmdsample132
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen132
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'133':
+  command: /mycmdsample133
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen133
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'134':
+  command: /mycmdsample134
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen134
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'135':
+  command: /mycmdsample135
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen135
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'136':
+  command: /mycmdsample136
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen136
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'137':
+  command: /mycmdsample137
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen137
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'138':
+  command: /mycmdsample138
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen138
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'139':
+  command: /mycmdsample139
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen139
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'140':
+  command: /mycmdsample140
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen140
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'141':
+  command: /mycmdsample141
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen141
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'142':
+  command: /mycmdsample142
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen142
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'143':
+  command: /mycmdsample143
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen143
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'144':
+  command: /mycmdsample144
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen144
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'145':
+  command: /mycmdsample145
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen145
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'146':
+  command: /mycmdsample146
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen146
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'147':
+  command: /mycmdsample147
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen147
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'148':
+  command: /mycmdsample148
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen148
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'149':
+  command: /mycmdsample149
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen149
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'150':
+  command: /mycmdsample150
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen150
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'151':
+  command: /mycmdsample151
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen151
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'152':
+  command: /mycmdsample152
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen152
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'153':
+  command: /mycmdsample153
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen153
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'154':
+  command: /mycmdsample154
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen154
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'155':
+  command: /mycmdsample155
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen155
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'156':
+  command: /mycmdsample156
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen156
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'157':
+  command: /mycmdsample157
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen157
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'158':
+  command: /mycmdsample158
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen158
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'159':
+  command: /mycmdsample159
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen159
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'160':
+  command: /mycmdsample160
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen160
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'161':
+  command: /mycmdsample161
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen161
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'162':
+  command: /mycmdsample162
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen162
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'163':
+  command: /mycmdsample163
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen163
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'164':
+  command: /mycmdsample164
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen164
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'165':
+  command: /mycmdsample165
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen165
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'166':
+  command: /mycmdsample166
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen166
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'167':
+  command: /mycmdsample167
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen167
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'168':
+  command: /mycmdsample168
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen168
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'169':
+  command: /mycmdsample169
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen169
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'170':
+  command: /mycmdsample170
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen170
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'171':
+  command: /mycmdsample171
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen171
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'172':
+  command: /mycmdsample172
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen172
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'173':
+  command: /mycmdsample173
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen173
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'174':
+  command: /mycmdsample174
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen174
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'175':
+  command: /mycmdsample175
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen175
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'176':
+  command: /mycmdsample176
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen176
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'177':
+  command: /mycmdsample177
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen177
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'178':
+  command: /mycmdsample178
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen178
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'179':
+  command: /mycmdsample179
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen179
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'180':
+  command: /mycmdsample180
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen180
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'181':
+  command: /mycmdsample181
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen181
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'182':
+  command: /mycmdsample182
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen182
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'183':
+  command: /mycmdsample183
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen183
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'184':
+  command: /mycmdsample184
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen184
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'185':
+  command: /mycmdsample185
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen185
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'186':
+  command: /mycmdsample186
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen186
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'187':
+  command: /mycmdsample187
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen187
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'188':
+  command: /mycmdsample188
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen188
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'189':
+  command: /mycmdsample189
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen189
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'190':
+  command: /mycmdsample190
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen190
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'191':
+  command: /mycmdsample191
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen191
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'192':
+  command: /mycmdsample192
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen192
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'193':
+  command: /mycmdsample193
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen193
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'194':
+  command: /mycmdsample194
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen194
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'195':
+  command: /mycmdsample195
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen195
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'196':
+  command: /mycmdsample196
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen196
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'197':
+  command: /mycmdsample197
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen197
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'198':
+  command: /mycmdsample198
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen198
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'199':
+  command: /mycmdsample199
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen199
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'200':
+  command: /mycmdsample200
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen200
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'201':
+  command: /mycmdsample201
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen201
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'202':
+  command: /mycmdsample202
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen202
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'203':
+  command: /mycmdsample203
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen203
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'204':
+  command: /mycmdsample204
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen204
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'205':
+  command: /mycmdsample205
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen205
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'206':
+  command: /mycmdsample206
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen206
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'207':
+  command: /mycmdsample207
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen207
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'208':
+  command: /mycmdsample208
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen208
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'209':
+  command: /mycmdsample209
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen209
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'210':
+  command: /mycmdsample210
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen210
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'211':
+  command: /mycmdsample211
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen211
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'212':
+  command: /mycmdsample212
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen212
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'213':
+  command: /mycmdsample213
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen213
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'214':
+  command: /mycmdsample214
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen214
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'215':
+  command: /mycmdsample215
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen215
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'216':
+  command: /mycmdsample216
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen216
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'217':
+  command: /mycmdsample217
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen217
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'218':
+  command: /mycmdsample218
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen218
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'219':
+  command: /mycmdsample219
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen219
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'220':
+  command: /mycmdsample220
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen220
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'221':
+  command: /mycmdsample221
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen221
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'222':
+  command: /mycmdsample222
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen222
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'223':
+  command: /mycmdsample223
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen223
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'224':
+  command: /mycmdsample224
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen224
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'225':
+  command: /mycmdsample225
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen225
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'226':
+  command: /mycmdsample226
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen226
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'227':
+  command: /mycmdsample227
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen227
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'228':
+  command: /mycmdsample228
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen228
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'229':
+  command: /mycmdsample229
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen229
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'230':
+  command: /mycmdsample230
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen230
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'231':
+  command: /mycmdsample231
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen231
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'232':
+  command: /mycmdsample232
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen232
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'233':
+  command: /mycmdsample233
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen233
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'234':
+  command: /mycmdsample234
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen234
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'235':
+  command: /mycmdsample235
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen235
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'236':
+  command: /mycmdsample236
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen236
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'237':
+  command: /mycmdsample237
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen237
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'238':
+  command: /mycmdsample238
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen238
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'239':
+  command: /mycmdsample239
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen239
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'240':
+  command: /mycmdsample240
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen240
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'241':
+  command: /mycmdsample241
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen241
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'242':
+  command: /mycmdsample242
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen242
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'243':
+  command: /mycmdsample243
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen243
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'244':
+  command: /mycmdsample244
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen244
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'245':
+  command: /mycmdsample245
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen245
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'246':
+  command: /mycmdsample246
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen246
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'247':
+  command: /mycmdsample247
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen247
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'248':
+  command: /mycmdsample248
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen248
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'249':
+  command: /mycmdsample249
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen249
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'250':
+  command: /mycmdsample250
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen250
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'251':
+  command: /mycmdsample251
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen251
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'252':
+  command: /mycmdsample252
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen252
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'253':
+  command: /mycmdsample253
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen253
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'254':
+  command: /mycmdsample254
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen254
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'255':
+  command: /mycmdsample255
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen255
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'256':
+  command: /mycmdsample256
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen256
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'257':
+  command: /mycmdsample257
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen257
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'258':
+  command: /mycmdsample258
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen258
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'259':
+  command: /mycmdsample259
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen259
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'260':
+  command: /mycmdsample260
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen260
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'261':
+  command: /mycmdsample261
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen261
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'262':
+  command: /mycmdsample262
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen262
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'263':
+  command: /mycmdsample263
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen263
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'264':
+  command: /mycmdsample264
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen264
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'265':
+  command: /mycmdsample265
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen265
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'266':
+  command: /mycmdsample266
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen266
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'267':
+  command: /mycmdsample267
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen267
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'268':
+  command: /mycmdsample268
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen268
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'269':
+  command: /mycmdsample269
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen269
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'270':
+  command: /mycmdsample270
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen270
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'271':
+  command: /mycmdsample271
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen271
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'272':
+  command: /mycmdsample272
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen272
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'273':
+  command: /mycmdsample273
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen273
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'274':
+  command: /mycmdsample274
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen274
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'275':
+  command: /mycmdsample275
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen275
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'276':
+  command: /mycmdsample276
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen276
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'277':
+  command: /mycmdsample277
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen277
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'278':
+  command: /mycmdsample278
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen278
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'279':
+  command: /mycmdsample279
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen279
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'280':
+  command: /mycmdsample280
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen280
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'281':
+  command: /mycmdsample281
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen281
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'282':
+  command: /mycmdsample282
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen282
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'283':
+  command: /mycmdsample283
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen283
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'284':
+  command: /mycmdsample284
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen284
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'285':
+  command: /mycmdsample285
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen285
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'286':
+  command: /mycmdsample286
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen286
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'287':
+  command: /mycmdsample287
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen287
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'288':
+  command: /mycmdsample288
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen288
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'289':
+  command: /mycmdsample289
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen289
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'290':
+  command: /mycmdsample290
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen290
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'291':
+  command: /mycmdsample291
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen291
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'292':
+  command: /mycmdsample292
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen292
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'293':
+  command: /mycmdsample293
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen293
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'294':
+  command: /mycmdsample294
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen294
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'295':
+  command: /mycmdsample295
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen295
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'296':
+  command: /mycmdsample296
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen296
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'297':
+  command: /mycmdsample297
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen297
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'298':
+  command: /mycmdsample298
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen298
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'299':
+  command: /mycmdsample299
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen299
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'300':
+  command: /mycmdsample300
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen300
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'301':
+  command: /mycmdsample301
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen301
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'302':
+  command: /mycmdsample302
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen302
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'303':
+  command: /mycmdsample303
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen303
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'304':
+  command: /mycmdsample304
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen304
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'305':
+  command: /mycmdsample305
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen305
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'306':
+  command: /mycmdsample306
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen306
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'307':
+  command: /mycmdsample307
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen307
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'308':
+  command: /mycmdsample308
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen308
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'309':
+  command: /mycmdsample309
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen309
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'310':
+  command: /mycmdsample310
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen310
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'311':
+  command: /mycmdsample311
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen311
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'312':
+  command: /mycmdsample312
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen312
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'313':
+  command: /mycmdsample313
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen313
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'314':
+  command: /mycmdsample314
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen314
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'315':
+  command: /mycmdsample315
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen315
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'316':
+  command: /mycmdsample316
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen316
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'317':
+  command: /mycmdsample317
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen317
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'318':
+  command: /mycmdsample318
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen318
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'319':
+  command: /mycmdsample319
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen319
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'320':
+  command: /mycmdsample320
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen320
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'321':
+  command: /mycmdsample321
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen321
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'322':
+  command: /mycmdsample322
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen322
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'323':
+  command: /mycmdsample323
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen323
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'324':
+  command: /mycmdsample324
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen324
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'325':
+  command: /mycmdsample325
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen325
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'326':
+  command: /mycmdsample326
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen326
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'327':
+  command: /mycmdsample327
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen327
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'328':
+  command: /mycmdsample328
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen328
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'329':
+  command: /mycmdsample329
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen329
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'330':
+  command: /mycmdsample330
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen330
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'331':
+  command: /mycmdsample331
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen331
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'332':
+  command: /mycmdsample332
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen332
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'333':
+  command: /mycmdsample333
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen333
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'334':
+  command: /mycmdsample334
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen334
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'335':
+  command: /mycmdsample335
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen335
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'336':
+  command: /mycmdsample336
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen336
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'337':
+  command: /mycmdsample337
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen337
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'338':
+  command: /mycmdsample338
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen338
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'339':
+  command: /mycmdsample339
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen339
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'340':
+  command: /mycmdsample340
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen340
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'341':
+  command: /mycmdsample341
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen341
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'342':
+  command: /mycmdsample342
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen342
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'343':
+  command: /mycmdsample343
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen343
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'344':
+  command: /mycmdsample344
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen344
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'345':
+  command: /mycmdsample345
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen345
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'346':
+  command: /mycmdsample346
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen346
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'347':
+  command: /mycmdsample347
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen347
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'348':
+  command: /mycmdsample348
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen348
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'349':
+  command: /mycmdsample349
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen349
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'350':
+  command: /mycmdsample350
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen350
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'351':
+  command: /mycmdsample351
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen351
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'352':
+  command: /mycmdsample352
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen352
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'353':
+  command: /mycmdsample353
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen353
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'354':
+  command: /mycmdsample354
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen354
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'355':
+  command: /mycmdsample355
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen355
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'356':
+  command: /mycmdsample356
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen356
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'357':
+  command: /mycmdsample357
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen357
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'358':
+  command: /mycmdsample358
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen358
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'359':
+  command: /mycmdsample359
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen359
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'360':
+  command: /mycmdsample360
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen360
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'361':
+  command: /mycmdsample361
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen361
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'362':
+  command: /mycmdsample362
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen362
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'363':
+  command: /mycmdsample363
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen363
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'364':
+  command: /mycmdsample364
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen364
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'365':
+  command: /mycmdsample365
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen365
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'366':
+  command: /mycmdsample366
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen366
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'367':
+  command: /mycmdsample367
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen367
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'368':
+  command: /mycmdsample368
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen368
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'369':
+  command: /mycmdsample369
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen369
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'370':
+  command: /mycmdsample370
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen370
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'371':
+  command: /mycmdsample371
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen371
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'372':
+  command: /mycmdsample372
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen372
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'373':
+  command: /mycmdsample373
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen373
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'374':
+  command: /mycmdsample374
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen374
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'375':
+  command: /mycmdsample375
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen375
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'376':
+  command: /mycmdsample376
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen376
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'377':
+  command: /mycmdsample377
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen377
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'378':
+  command: /mycmdsample378
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen378
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'379':
+  command: /mycmdsample379
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen379
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'380':
+  command: /mycmdsample380
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen380
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'381':
+  command: /mycmdsample381
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen381
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'382':
+  command: /mycmdsample382
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen382
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'383':
+  command: /mycmdsample383
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen383
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'384':
+  command: /mycmdsample384
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen384
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'385':
+  command: /mycmdsample385
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen385
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'386':
+  command: /mycmdsample386
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen386
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'387':
+  command: /mycmdsample387
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen387
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'388':
+  command: /mycmdsample388
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen388
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'389':
+  command: /mycmdsample389
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen389
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'390':
+  command: /mycmdsample390
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen390
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'391':
+  command: /mycmdsample391
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen391
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'392':
+  command: /mycmdsample392
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen392
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'393':
+  command: /mycmdsample393
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen393
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'394':
+  command: /mycmdsample394
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen394
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'395':
+  command: /mycmdsample395
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen395
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'396':
+  command: /mycmdsample396
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen396
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'397':
+  command: /mycmdsample397
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen397
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'398':
+  command: /mycmdsample398
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen398
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'399':
+  command: /mycmdsample399
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen399
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'400':
+  command: /mycmdsample400
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen400
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'401':
+  command: /mycmdsample401
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen401
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'402':
+  command: /mycmdsample402
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen402
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'403':
+  command: /mycmdsample403
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen403
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'404':
+  command: /mycmdsample404
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen404
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'405':
+  command: /mycmdsample405
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen405
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'406':
+  command: /mycmdsample406
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen406
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'407':
+  command: /mycmdsample407
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen407
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'408':
+  command: /mycmdsample408
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen408
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'409':
+  command: /mycmdsample409
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen409
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'410':
+  command: /mycmdsample410
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen410
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'411':
+  command: /mycmdsample411
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen411
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'412':
+  command: /mycmdsample412
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen412
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'413':
+  command: /mycmdsample413
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen413
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'414':
+  command: /mycmdsample414
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen414
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'415':
+  command: /mycmdsample415
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen415
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'416':
+  command: /mycmdsample416
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen416
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'417':
+  command: /mycmdsample417
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen417
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'418':
+  command: /mycmdsample418
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen418
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'419':
+  command: /mycmdsample419
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen419
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'420':
+  command: /mycmdsample420
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen420
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'421':
+  command: /mycmdsample421
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen421
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'422':
+  command: /mycmdsample422
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen422
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'423':
+  command: /mycmdsample423
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen423
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'424':
+  command: /mycmdsample424
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen424
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'425':
+  command: /mycmdsample425
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen425
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'426':
+  command: /mycmdsample426
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen426
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'427':
+  command: /mycmdsample427
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen427
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'428':
+  command: /mycmdsample428
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen428
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'429':
+  command: /mycmdsample429
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen429
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'430':
+  command: /mycmdsample430
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen430
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'431':
+  command: /mycmdsample431
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen431
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'432':
+  command: /mycmdsample432
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen432
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'433':
+  command: /mycmdsample433
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen433
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'434':
+  command: /mycmdsample434
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen434
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'435':
+  command: /mycmdsample435
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen435
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'436':
+  command: /mycmdsample436
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen436
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'437':
+  command: /mycmdsample437
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen437
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'438':
+  command: /mycmdsample438
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen438
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'439':
+  command: /mycmdsample439
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen439
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'440':
+  command: /mycmdsample440
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen440
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'441':
+  command: /mycmdsample441
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen441
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'442':
+  command: /mycmdsample442
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen442
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'443':
+  command: /mycmdsample443
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen443
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'444':
+  command: /mycmdsample444
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen444
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'445':
+  command: /mycmdsample445
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen445
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'446':
+  command: /mycmdsample446
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen446
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'447':
+  command: /mycmdsample447
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen447
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'448':
+  command: /mycmdsample448
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen448
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'449':
+  command: /mycmdsample449
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen449
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'450':
+  command: /mycmdsample450
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen450
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'451':
+  command: /mycmdsample451
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen451
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'452':
+  command: /mycmdsample452
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen452
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'453':
+  command: /mycmdsample453
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen453
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'454':
+  command: /mycmdsample454
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen454
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'455':
+  command: /mycmdsample455
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen455
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'456':
+  command: /mycmdsample456
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen456
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'457':
+  command: /mycmdsample457
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen457
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'458':
+  command: /mycmdsample458
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen458
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'459':
+  command: /mycmdsample459
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen459
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'460':
+  command: /mycmdsample460
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen460
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'461':
+  command: /mycmdsample461
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen461
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'462':
+  command: /mycmdsample462
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen462
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'463':
+  command: /mycmdsample463
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen463
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'464':
+  command: /mycmdsample464
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen464
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'465':
+  command: /mycmdsample465
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen465
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'466':
+  command: /mycmdsample466
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen466
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'467':
+  command: /mycmdsample467
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen467
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'468':
+  command: /mycmdsample468
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen468
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'469':
+  command: /mycmdsample469
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen469
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'470':
+  command: /mycmdsample470
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen470
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'471':
+  command: /mycmdsample471
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen471
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'472':
+  command: /mycmdsample472
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen472
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'473':
+  command: /mycmdsample473
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen473
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'474':
+  command: /mycmdsample474
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen474
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'475':
+  command: /mycmdsample475
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen475
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'476':
+  command: /mycmdsample476
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen476
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'477':
+  command: /mycmdsample477
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen477
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'478':
+  command: /mycmdsample478
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen478
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'479':
+  command: /mycmdsample479
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen479
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'480':
+  command: /mycmdsample480
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen480
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'481':
+  command: /mycmdsample481
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen481
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'482':
+  command: /mycmdsample482
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen482
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'483':
+  command: /mycmdsample483
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen483
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'484':
+  command: /mycmdsample484
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen484
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'485':
+  command: /mycmdsample485
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen485
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'486':
+  command: /mycmdsample486
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen486
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'487':
+  command: /mycmdsample487
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen487
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'488':
+  command: /mycmdsample488
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen488
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'489':
+  command: /mycmdsample489
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen489
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'490':
+  command: /mycmdsample490
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen490
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'491':
+  command: /mycmdsample491
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen491
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'492':
+  command: /mycmdsample492
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen492
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'493':
+  command: /mycmdsample493
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen493
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'494':
+  command: /mycmdsample494
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen494
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'495':
+  command: /mycmdsample495
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen495
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'496':
+  command: /mycmdsample496
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen496
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'497':
+  command: /mycmdsample497
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen497
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'498':
+  command: /mycmdsample498
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen498
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'499':
+  command: /mycmdsample499
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen499
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'500':
+  command: /mycmdsample500
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen500
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'501':
+  command: /mycmdsample501
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen501
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'502':
+  command: /mycmdsample502
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen502
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'503':
+  command: /mycmdsample503
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen503
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'504':
+  command: /mycmdsample504
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen504
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'505':
+  command: /mycmdsample505
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen505
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'506':
+  command: /mycmdsample506
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen506
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'507':
+  command: /mycmdsample507
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen507
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'508':
+  command: /mycmdsample508
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen508
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'509':
+  command: /mycmdsample509
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen509
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'510':
+  command: /mycmdsample510
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen510
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'511':
+  command: /mycmdsample511
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen511
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'512':
+  command: /mycmdsample512
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen512
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'513':
+  command: /mycmdsample513
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen513
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'514':
+  command: /mycmdsample514
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen514
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'515':
+  command: /mycmdsample515
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen515
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'516':
+  command: /mycmdsample516
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen516
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'517':
+  command: /mycmdsample517
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen517
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'518':
+  command: /mycmdsample518
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen518
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'519':
+  command: /mycmdsample519
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen519
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'520':
+  command: /mycmdsample520
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen520
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'521':
+  command: /mycmdsample521
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen521
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'522':
+  command: /mycmdsample522
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen522
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'523':
+  command: /mycmdsample523
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen523
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'524':
+  command: /mycmdsample524
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen524
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'525':
+  command: /mycmdsample525
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen525
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'526':
+  command: /mycmdsample526
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen526
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'527':
+  command: /mycmdsample527
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen527
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'528':
+  command: /mycmdsample528
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen528
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'529':
+  command: /mycmdsample529
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen529
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'530':
+  command: /mycmdsample530
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen530
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'531':
+  command: /mycmdsample531
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen531
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'532':
+  command: /mycmdsample532
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen532
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'533':
+  command: /mycmdsample533
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen533
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'534':
+  command: /mycmdsample534
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen534
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'535':
+  command: /mycmdsample535
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen535
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'536':
+  command: /mycmdsample536
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen536
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'537':
+  command: /mycmdsample537
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen537
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'538':
+  command: /mycmdsample538
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen538
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'539':
+  command: /mycmdsample539
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen539
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'540':
+  command: /mycmdsample540
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen540
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'541':
+  command: /mycmdsample541
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen541
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'542':
+  command: /mycmdsample542
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen542
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'543':
+  command: /mycmdsample543
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen543
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'544':
+  command: /mycmdsample544
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen544
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'545':
+  command: /mycmdsample545
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen545
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'546':
+  command: /mycmdsample546
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen546
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'547':
+  command: /mycmdsample547
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen547
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'548':
+  command: /mycmdsample548
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen548
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'549':
+  command: /mycmdsample549
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen549
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'550':
+  command: /mycmdsample550
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen550
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'551':
+  command: /mycmdsample551
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen551
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'552':
+  command: /mycmdsample552
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen552
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'553':
+  command: /mycmdsample553
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen553
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'554':
+  command: /mycmdsample554
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen554
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'555':
+  command: /mycmdsample555
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen555
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'556':
+  command: /mycmdsample556
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen556
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'557':
+  command: /mycmdsample557
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen557
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'558':
+  command: /mycmdsample558
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen558
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'559':
+  command: /mycmdsample559
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen559
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'560':
+  command: /mycmdsample560
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen560
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'561':
+  command: /mycmdsample561
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen561
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'562':
+  command: /mycmdsample562
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen562
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'563':
+  command: /mycmdsample563
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen563
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'564':
+  command: /mycmdsample564
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen564
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'565':
+  command: /mycmdsample565
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen565
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'566':
+  command: /mycmdsample566
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen566
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'567':
+  command: /mycmdsample567
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen567
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'568':
+  command: /mycmdsample568
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen568
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'569':
+  command: /mycmdsample569
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen569
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'570':
+  command: /mycmdsample570
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen570
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'571':
+  command: /mycmdsample571
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen571
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'572':
+  command: /mycmdsample572
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen572
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'573':
+  command: /mycmdsample573
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen573
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'574':
+  command: /mycmdsample574
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen574
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'575':
+  command: /mycmdsample575
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen575
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'576':
+  command: /mycmdsample576
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen576
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'577':
+  command: /mycmdsample577
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen577
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'578':
+  command: /mycmdsample578
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen578
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'579':
+  command: /mycmdsample579
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen579
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'580':
+  command: /mycmdsample580
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen580
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'581':
+  command: /mycmdsample581
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen581
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'582':
+  command: /mycmdsample582
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen582
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'583':
+  command: /mycmdsample583
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen583
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'584':
+  command: /mycmdsample584
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen584
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'585':
+  command: /mycmdsample585
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen585
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'586':
+  command: /mycmdsample586
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen586
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'587':
+  command: /mycmdsample587
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen587
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'588':
+  command: /mycmdsample588
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen588
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'589':
+  command: /mycmdsample589
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen589
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'590':
+  command: /mycmdsample590
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen590
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'591':
+  command: /mycmdsample591
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen591
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'592':
+  command: /mycmdsample592
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen592
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'593':
+  command: /mycmdsample593
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen593
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'594':
+  command: /mycmdsample594
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen594
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'595':
+  command: /mycmdsample595
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen595
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'596':
+  command: /mycmdsample596
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen596
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'597':
+  command: /mycmdsample597
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen597
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'598':
+  command: /mycmdsample598
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen598
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'599':
+  command: /mycmdsample599
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen599
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'600':
+  command: /mycmdsample600
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen600
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'601':
+  command: /mycmdsample601
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen601
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'602':
+  command: /mycmdsample602
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen602
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'603':
+  command: /mycmdsample603
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen603
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'604':
+  command: /mycmdsample604
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen604
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'605':
+  command: /mycmdsample605
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen605
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'606':
+  command: /mycmdsample606
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen606
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'607':
+  command: /mycmdsample607
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen607
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'608':
+  command: /mycmdsample608
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen608
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'609':
+  command: /mycmdsample609
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen609
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'610':
+  command: /mycmdsample610
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen610
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'611':
+  command: /mycmdsample611
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen611
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'612':
+  command: /mycmdsample612
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen612
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'613':
+  command: /mycmdsample613
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen613
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'614':
+  command: /mycmdsample614
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen614
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'615':
+  command: /mycmdsample615
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen615
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'616':
+  command: /mycmdsample616
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen616
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'617':
+  command: /mycmdsample617
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen617
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'618':
+  command: /mycmdsample618
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen618
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'619':
+  command: /mycmdsample619
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen619
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'620':
+  command: /mycmdsample620
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen620
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'621':
+  command: /mycmdsample621
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen621
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'622':
+  command: /mycmdsample622
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen622
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'623':
+  command: /mycmdsample623
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen623
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'624':
+  command: /mycmdsample624
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen624
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'625':
+  command: /mycmdsample625
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen625
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'626':
+  command: /mycmdsample626
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen626
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'627':
+  command: /mycmdsample627
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen627
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'628':
+  command: /mycmdsample628
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen628
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'629':
+  command: /mycmdsample629
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen629
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'630':
+  command: /mycmdsample630
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen630
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'631':
+  command: /mycmdsample631
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen631
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'632':
+  command: /mycmdsample632
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen632
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'633':
+  command: /mycmdsample633
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen633
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'634':
+  command: /mycmdsample634
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen634
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'635':
+  command: /mycmdsample635
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen635
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'636':
+  command: /mycmdsample636
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen636
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'637':
+  command: /mycmdsample637
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen637
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'638':
+  command: /mycmdsample638
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen638
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'639':
+  command: /mycmdsample639
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen639
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'640':
+  command: /mycmdsample640
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen640
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'641':
+  command: /mycmdsample641
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen641
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'642':
+  command: /mycmdsample642
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen642
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'643':
+  command: /mycmdsample643
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen643
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'644':
+  command: /mycmdsample644
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen644
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'645':
+  command: /mycmdsample645
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen645
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'646':
+  command: /mycmdsample646
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen646
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'647':
+  command: /mycmdsample647
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen647
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'648':
+  command: /mycmdsample648
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen648
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'649':
+  command: /mycmdsample649
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen649
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'650':
+  command: /mycmdsample650
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen650
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'651':
+  command: /mycmdsample651
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen651
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'652':
+  command: /mycmdsample652
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen652
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'653':
+  command: /mycmdsample653
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen653
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'654':
+  command: /mycmdsample654
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen654
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'655':
+  command: /mycmdsample655
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen655
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'656':
+  command: /mycmdsample656
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen656
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'657':
+  command: /mycmdsample657
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen657
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'658':
+  command: /mycmdsample658
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen658
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'659':
+  command: /mycmdsample659
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen659
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'660':
+  command: /mycmdsample660
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen660
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'661':
+  command: /mycmdsample661
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen661
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'662':
+  command: /mycmdsample662
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen662
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'663':
+  command: /mycmdsample663
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen663
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'664':
+  command: /mycmdsample664
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen664
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'665':
+  command: /mycmdsample665
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen665
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'666':
+  command: /mycmdsample666
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen666
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'667':
+  command: /mycmdsample667
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen667
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'668':
+  command: /mycmdsample668
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen668
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'669':
+  command: /mycmdsample669
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen669
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'670':
+  command: /mycmdsample670
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen670
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'671':
+  command: /mycmdsample671
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen671
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'672':
+  command: /mycmdsample672
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen672
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'673':
+  command: /mycmdsample673
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen673
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'674':
+  command: /mycmdsample674
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen674
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'675':
+  command: /mycmdsample675
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen675
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'676':
+  command: /mycmdsample676
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen676
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'677':
+  command: /mycmdsample677
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen677
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'678':
+  command: /mycmdsample678
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen678
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'679':
+  command: /mycmdsample679
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen679
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'680':
+  command: /mycmdsample680
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen680
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'681':
+  command: /mycmdsample681
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen681
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'682':
+  command: /mycmdsample682
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen682
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'683':
+  command: /mycmdsample683
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen683
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'684':
+  command: /mycmdsample684
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen684
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'685':
+  command: /mycmdsample685
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen685
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'686':
+  command: /mycmdsample686
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen686
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'687':
+  command: /mycmdsample687
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen687
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'688':
+  command: /mycmdsample688
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen688
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'689':
+  command: /mycmdsample689
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen689
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'690':
+  command: /mycmdsample690
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen690
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'691':
+  command: /mycmdsample691
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen691
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'692':
+  command: /mycmdsample692
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen692
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'693':
+  command: /mycmdsample693
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen693
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'694':
+  command: /mycmdsample694
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen694
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'695':
+  command: /mycmdsample695
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen695
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'696':
+  command: /mycmdsample696
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen696
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'697':
+  command: /mycmdsample697
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen697
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'698':
+  command: /mycmdsample698
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen698
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'699':
+  command: /mycmdsample699
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen699
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'700':
+  command: /mycmdsample700
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen700
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'701':
+  command: /mycmdsample701
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen701
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'702':
+  command: /mycmdsample702
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen702
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'703':
+  command: /mycmdsample703
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen703
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'704':
+  command: /mycmdsample704
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen704
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'705':
+  command: /mycmdsample705
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen705
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'706':
+  command: /mycmdsample706
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen706
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'707':
+  command: /mycmdsample707
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen707
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'708':
+  command: /mycmdsample708
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen708
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'709':
+  command: /mycmdsample709
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen709
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'710':
+  command: /mycmdsample710
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen710
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'711':
+  command: /mycmdsample711
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen711
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'712':
+  command: /mycmdsample712
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen712
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'713':
+  command: /mycmdsample713
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen713
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'714':
+  command: /mycmdsample714
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen714
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'715':
+  command: /mycmdsample715
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen715
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'716':
+  command: /mycmdsample716
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen716
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'717':
+  command: /mycmdsample717
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen717
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'718':
+  command: /mycmdsample718
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen718
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'719':
+  command: /mycmdsample719
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen719
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'720':
+  command: /mycmdsample720
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen720
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'721':
+  command: /mycmdsample721
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen721
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'722':
+  command: /mycmdsample722
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen722
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'723':
+  command: /mycmdsample723
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen723
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'724':
+  command: /mycmdsample724
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen724
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'725':
+  command: /mycmdsample725
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen725
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'726':
+  command: /mycmdsample726
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen726
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'727':
+  command: /mycmdsample727
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen727
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'728':
+  command: /mycmdsample728
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen728
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'729':
+  command: /mycmdsample729
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen729
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'730':
+  command: /mycmdsample730
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen730
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'731':
+  command: /mycmdsample731
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen731
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'732':
+  command: /mycmdsample732
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen732
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'733':
+  command: /mycmdsample733
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen733
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'734':
+  command: /mycmdsample734
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen734
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'735':
+  command: /mycmdsample735
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen735
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'736':
+  command: /mycmdsample736
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen736
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'737':
+  command: /mycmdsample737
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen737
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'738':
+  command: /mycmdsample738
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen738
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'739':
+  command: /mycmdsample739
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen739
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'740':
+  command: /mycmdsample740
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen740
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'741':
+  command: /mycmdsample741
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen741
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'742':
+  command: /mycmdsample742
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen742
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'743':
+  command: /mycmdsample743
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen743
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'744':
+  command: /mycmdsample744
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen744
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'745':
+  command: /mycmdsample745
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen745
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'746':
+  command: /mycmdsample746
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen746
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'747':
+  command: /mycmdsample747
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen747
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'748':
+  command: /mycmdsample748
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen748
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'749':
+  command: /mycmdsample749
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen749
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'750':
+  command: /mycmdsample750
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen750
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'751':
+  command: /mycmdsample751
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen751
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'752':
+  command: /mycmdsample752
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen752
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'753':
+  command: /mycmdsample753
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen753
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'754':
+  command: /mycmdsample754
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen754
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'755':
+  command: /mycmdsample755
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen755
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'756':
+  command: /mycmdsample756
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen756
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'757':
+  command: /mycmdsample757
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen757
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'758':
+  command: /mycmdsample758
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen758
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'759':
+  command: /mycmdsample759
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen759
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'760':
+  command: /mycmdsample760
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen760
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'761':
+  command: /mycmdsample761
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen761
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'762':
+  command: /mycmdsample762
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen762
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'763':
+  command: /mycmdsample763
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen763
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'764':
+  command: /mycmdsample764
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen764
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'765':
+  command: /mycmdsample765
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen765
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'766':
+  command: /mycmdsample766
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen766
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'767':
+  command: /mycmdsample767
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen767
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'768':
+  command: /mycmdsample768
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen768
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'769':
+  command: /mycmdsample769
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen769
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'770':
+  command: /mycmdsample770
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen770
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'771':
+  command: /mycmdsample771
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen771
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'772':
+  command: /mycmdsample772
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen772
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'773':
+  command: /mycmdsample773
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen773
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'774':
+  command: /mycmdsample774
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen774
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'775':
+  command: /mycmdsample775
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen775
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'776':
+  command: /mycmdsample776
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen776
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'777':
+  command: /mycmdsample777
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen777
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'778':
+  command: /mycmdsample778
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen778
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'779':
+  command: /mycmdsample779
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen779
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'780':
+  command: /mycmdsample780
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen780
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'781':
+  command: /mycmdsample781
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen781
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'782':
+  command: /mycmdsample782
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen782
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'783':
+  command: /mycmdsample783
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen783
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'784':
+  command: /mycmdsample784
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen784
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'785':
+  command: /mycmdsample785
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen785
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'786':
+  command: /mycmdsample786
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen786
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'787':
+  command: /mycmdsample787
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen787
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'788':
+  command: /mycmdsample788
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen788
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'789':
+  command: /mycmdsample789
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen789
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'790':
+  command: /mycmdsample790
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen790
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'791':
+  command: /mycmdsample791
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen791
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'792':
+  command: /mycmdsample792
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen792
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'793':
+  command: /mycmdsample793
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen793
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'794':
+  command: /mycmdsample794
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen794
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'795':
+  command: /mycmdsample795
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen795
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'796':
+  command: /mycmdsample796
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen796
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'797':
+  command: /mycmdsample797
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen797
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'798':
+  command: /mycmdsample798
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen798
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'799':
+  command: /mycmdsample799
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen799
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'800':
+  command: /mycmdsample800
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen800
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'801':
+  command: /mycmdsample801
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen801
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'802':
+  command: /mycmdsample802
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen802
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'803':
+  command: /mycmdsample803
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen803
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'804':
+  command: /mycmdsample804
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen804
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'805':
+  command: /mycmdsample805
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen805
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'806':
+  command: /mycmdsample806
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen806
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'807':
+  command: /mycmdsample807
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen807
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'808':
+  command: /mycmdsample808
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen808
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'809':
+  command: /mycmdsample809
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen809
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'810':
+  command: /mycmdsample810
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen810
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'811':
+  command: /mycmdsample811
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen811
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'812':
+  command: /mycmdsample812
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen812
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'813':
+  command: /mycmdsample813
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen813
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'814':
+  command: /mycmdsample814
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen814
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'815':
+  command: /mycmdsample815
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen815
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'816':
+  command: /mycmdsample816
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen816
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'817':
+  command: /mycmdsample817
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen817
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'818':
+  command: /mycmdsample818
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen818
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'819':
+  command: /mycmdsample819
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen819
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'820':
+  command: /mycmdsample820
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen820
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'821':
+  command: /mycmdsample821
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen821
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'822':
+  command: /mycmdsample822
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen822
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'823':
+  command: /mycmdsample823
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen823
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'824':
+  command: /mycmdsample824
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen824
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'825':
+  command: /mycmdsample825
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen825
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'826':
+  command: /mycmdsample826
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen826
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'827':
+  command: /mycmdsample827
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen827
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'828':
+  command: /mycmdsample828
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen828
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'829':
+  command: /mycmdsample829
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen829
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'830':
+  command: /mycmdsample830
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen830
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'831':
+  command: /mycmdsample831
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen831
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'832':
+  command: /mycmdsample832
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen832
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'833':
+  command: /mycmdsample833
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen833
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'834':
+  command: /mycmdsample834
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen834
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'835':
+  command: /mycmdsample835
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen835
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'836':
+  command: /mycmdsample836
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen836
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'837':
+  command: /mycmdsample837
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen837
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'838':
+  command: /mycmdsample838
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen838
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'839':
+  command: /mycmdsample839
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen839
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'840':
+  command: /mycmdsample840
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen840
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'841':
+  command: /mycmdsample841
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen841
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'842':
+  command: /mycmdsample842
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen842
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'843':
+  command: /mycmdsample843
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen843
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'844':
+  command: /mycmdsample844
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen844
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'845':
+  command: /mycmdsample845
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen845
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'846':
+  command: /mycmdsample846
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen846
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'847':
+  command: /mycmdsample847
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen847
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'848':
+  command: /mycmdsample848
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen848
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'849':
+  command: /mycmdsample849
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen849
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'850':
+  command: /mycmdsample850
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen850
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'851':
+  command: /mycmdsample851
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen851
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'852':
+  command: /mycmdsample852
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen852
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'853':
+  command: /mycmdsample853
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen853
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'854':
+  command: /mycmdsample854
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen854
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'855':
+  command: /mycmdsample855
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen855
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'856':
+  command: /mycmdsample856
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen856
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'857':
+  command: /mycmdsample857
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen857
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'858':
+  command: /mycmdsample858
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen858
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'859':
+  command: /mycmdsample859
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen859
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'860':
+  command: /mycmdsample860
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen860
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'861':
+  command: /mycmdsample861
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen861
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'862':
+  command: /mycmdsample862
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen862
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'863':
+  command: /mycmdsample863
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen863
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'864':
+  command: /mycmdsample864
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen864
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'865':
+  command: /mycmdsample865
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen865
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'866':
+  command: /mycmdsample866
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen866
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'867':
+  command: /mycmdsample867
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen867
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'868':
+  command: /mycmdsample868
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen868
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'869':
+  command: /mycmdsample869
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen869
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'870':
+  command: /mycmdsample870
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen870
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'871':
+  command: /mycmdsample871
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen871
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'872':
+  command: /mycmdsample872
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen872
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'873':
+  command: /mycmdsample873
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen873
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'874':
+  command: /mycmdsample874
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen874
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'875':
+  command: /mycmdsample875
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen875
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'876':
+  command: /mycmdsample876
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen876
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'877':
+  command: /mycmdsample877
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen877
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'878':
+  command: /mycmdsample878
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen878
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'879':
+  command: /mycmdsample879
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen879
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'880':
+  command: /mycmdsample880
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen880
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'881':
+  command: /mycmdsample881
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen881
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'882':
+  command: /mycmdsample882
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen882
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'883':
+  command: /mycmdsample883
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen883
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'884':
+  command: /mycmdsample884
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen884
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'885':
+  command: /mycmdsample885
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen885
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'886':
+  command: /mycmdsample886
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen886
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'887':
+  command: /mycmdsample887
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen887
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'888':
+  command: /mycmdsample888
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen888
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'889':
+  command: /mycmdsample889
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen889
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'890':
+  command: /mycmdsample890
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen890
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'891':
+  command: /mycmdsample891
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen891
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'892':
+  command: /mycmdsample892
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen892
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'893':
+  command: /mycmdsample893
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen893
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'894':
+  command: /mycmdsample894
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen894
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'895':
+  command: /mycmdsample895
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen895
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'896':
+  command: /mycmdsample896
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen896
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'897':
+  command: /mycmdsample897
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen897
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'898':
+  command: /mycmdsample898
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen898
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'899':
+  command: /mycmdsample899
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen899
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'900':
+  command: /mycmdsample900
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen900
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'901':
+  command: /mycmdsample901
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen901
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'902':
+  command: /mycmdsample902
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen902
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'903':
+  command: /mycmdsample903
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen903
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'904':
+  command: /mycmdsample904
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen904
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'905':
+  command: /mycmdsample905
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen905
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'906':
+  command: /mycmdsample906
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen906
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'907':
+  command: /mycmdsample907
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen907
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'908':
+  command: /mycmdsample908
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen908
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'909':
+  command: /mycmdsample909
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen909
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'910':
+  command: /mycmdsample910
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen910
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'911':
+  command: /mycmdsample911
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen911
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'912':
+  command: /mycmdsample912
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen912
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'913':
+  command: /mycmdsample913
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen913
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'914':
+  command: /mycmdsample914
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen914
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'915':
+  command: /mycmdsample915
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen915
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'916':
+  command: /mycmdsample916
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen916
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'917':
+  command: /mycmdsample917
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen917
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'918':
+  command: /mycmdsample918
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen918
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'919':
+  command: /mycmdsample919
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen919
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'920':
+  command: /mycmdsample920
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen920
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'921':
+  command: /mycmdsample921
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen921
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'922':
+  command: /mycmdsample922
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen922
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'923':
+  command: /mycmdsample923
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen923
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'924':
+  command: /mycmdsample924
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen924
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'925':
+  command: /mycmdsample925
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen925
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'926':
+  command: /mycmdsample926
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen926
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'927':
+  command: /mycmdsample927
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen927
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'928':
+  command: /mycmdsample928
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen928
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'929':
+  command: /mycmdsample929
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen929
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'930':
+  command: /mycmdsample930
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen930
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'931':
+  command: /mycmdsample931
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen931
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'932':
+  command: /mycmdsample932
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen932
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'933':
+  command: /mycmdsample933
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen933
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'934':
+  command: /mycmdsample934
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen934
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'935':
+  command: /mycmdsample935
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen935
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'936':
+  command: /mycmdsample936
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen936
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'937':
+  command: /mycmdsample937
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen937
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'938':
+  command: /mycmdsample938
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen938
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'939':
+  command: /mycmdsample939
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen939
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'940':
+  command: /mycmdsample940
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen940
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'941':
+  command: /mycmdsample941
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen941
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'942':
+  command: /mycmdsample942
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen942
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'943':
+  command: /mycmdsample943
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen943
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'944':
+  command: /mycmdsample944
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen944
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'945':
+  command: /mycmdsample945
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen945
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'946':
+  command: /mycmdsample946
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen946
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'947':
+  command: /mycmdsample947
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen947
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'948':
+  command: /mycmdsample948
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen948
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'949':
+  command: /mycmdsample949
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen949
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'950':
+  command: /mycmdsample950
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen950
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'951':
+  command: /mycmdsample951
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen951
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'952':
+  command: /mycmdsample952
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen952
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'953':
+  command: /mycmdsample953
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen953
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'954':
+  command: /mycmdsample954
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen954
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'955':
+  command: /mycmdsample955
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen955
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'956':
+  command: /mycmdsample956
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen956
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'957':
+  command: /mycmdsample957
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen957
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'958':
+  command: /mycmdsample958
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen958
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'959':
+  command: /mycmdsample959
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen959
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'960':
+  command: /mycmdsample960
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen960
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'961':
+  command: /mycmdsample961
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen961
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'962':
+  command: /mycmdsample962
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen962
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'963':
+  command: /mycmdsample963
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen963
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'964':
+  command: /mycmdsample964
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen964
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'965':
+  command: /mycmdsample965
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen965
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'966':
+  command: /mycmdsample966
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen966
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'967':
+  command: /mycmdsample967
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen967
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'968':
+  command: /mycmdsample968
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen968
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'969':
+  command: /mycmdsample969
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen969
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'970':
+  command: /mycmdsample970
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen970
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'971':
+  command: /mycmdsample971
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen971
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'972':
+  command: /mycmdsample972
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen972
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'973':
+  command: /mycmdsample973
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen973
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'974':
+  command: /mycmdsample974
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen974
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'975':
+  command: /mycmdsample975
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen975
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'976':
+  command: /mycmdsample976
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen976
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'977':
+  command: /mycmdsample977
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen977
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'978':
+  command: /mycmdsample978
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen978
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'979':
+  command: /mycmdsample979
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen979
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'980':
+  command: /mycmdsample980
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen980
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'981':
+  command: /mycmdsample981
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen981
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'982':
+  command: /mycmdsample982
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen982
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'983':
+  command: /mycmdsample983
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen983
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'984':
+  command: /mycmdsample984
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen984
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'985':
+  command: /mycmdsample985
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen985
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'986':
+  command: /mycmdsample986
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen986
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'987':
+  command: /mycmdsample987
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen987
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'988':
+  command: /mycmdsample988
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen988
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'989':
+  command: /mycmdsample989
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen989
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'990':
+  command: /mycmdsample990
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen990
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'991':
+  command: /mycmdsample991
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen991
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'992':
+  command: /mycmdsample992
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen992
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'993':
+  command: /mycmdsample993
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen993
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'994':
+  command: /mycmdsample994
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen994
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'995':
+  command: /mycmdsample995
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen995
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'996':
+  command: /mycmdsample996
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen996
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'997':
+  command: /mycmdsample997
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen997
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'998':
+  command: /mycmdsample998
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen998
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'999':
+  command: /mycmdsample999
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen999
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5
+'1000':
+  command: /mycmdsample1000
+  type: TEXT
+  text:
+  - $red Text of command $darkgreen1000
+  runcmd:
+  - /sample
+  cost: 0
+  delaytimer: 5

@@ -1,0 +1,43 @@
+error:
+  not_player: $4This command can only be executed in game
+  no_perm: '$2You are lacking the permission node: &4%s0'
+  command_blocked: '$2World Guard has prevented you from using: $4%s0$2.'
+  max_regions: $2You already have the $4maximum$2 number of $4allowed regions$2.
+  selection_outside: $2Your selection may have $4extended outside$2 your $4region$2.
+  selection_outside_denied: $2You may not $4edit outside$2 your own $4region$2.
+  selection_none: $2You have $4nothing selected$2.
+  area_occupied: $2This area is $4already protected$2.
+  area_too_large: $2You selected an $4area$2 that is $4too large$2.
+  worldguard_no_region: $2A $4region$2 was $4not found$2 at your current location.
+  worldguard_no_region_specify: '$2Region does not exist: $4$s0'
+  worldguard_region_denied: $2You do $4not own$2 this $4region$2.
+  player_not_added: '$4Player not added$2: %s0'
+  player_not_found: '$4Player not found$2: %s0'
+  worldguard_require_cuboid: $2Please make a $4cuboid selection$2 with $4WorldEdit$2 first.
+  worldguard_selection_small: '$4Selection$2 is $4too small$2: < %s0 x %s0'
+  worldguard_selection_big: '$4Selection$2 is $4too big$2: > %s0'
+  worldguard_allowed_area: $2You are $4only allowed$2 to claim $4another %s$2 columns.
+  worldguard_list_invalid: '$2Invalid number: $4%s0'
+success:
+  worldguard_created: $1Successfully created region$2.
+  worldguard_added: '$2Successfully added: $1%s0'
+  worldguard_removed: '$2Successfully removed: $1%s0'
+  worldguard_sethome: $2Successfully set home location$2.
+  teleporting: $2Teleporting...
+info:
+  command_usage: '$2Usage: $1%s0'
+  command_usage_admin: '$2Alternate admin usage: $1%s0'
+  worldguard_trust_usage: '$2Add a player to your region: $1/wrg trust <player>'
+  worldguard_untrust_usage: '$2Remove a player from your region: $1/wrg untrust <player>'
+  worldguard_share_usage: '$2Grant shared ownership of your region: $1/wrg share <player>'
+  help: $2======$4Worldedit Regions$2======&-$1/wrg create$4 - $2Create a region&-$1/wrg delete$4 - $2Delete the region&-$1/wrg list$4 - $2List regions&-$1/wrg home$4 - $2Teleport home&-$1/wrg sethome$4 - $2Set home&-$1/wrg info$4 - $2View region info&-$1/wrg show$4 - $2Show nearby regions&-$1/wrg trust$4 - $2Trust user to your region&-$1/wrg untrust$4 - $2Untrust user from your region&-$1/wrg share$4 - $2Share ownership of your region&-$1/wrg flag$4 - $2Manage flags&-$1/wrg help$4 - $2View this page
+  display_nearby: $1Displaying %s0 nearby regions$2.
+  worldguard_list_header: $1Regions for '$2%s0$1' $2- $2($1%s1$4/$1%s2$2)
+notify:
+  region_none: '&4&l-----------------------\n$2You do $4not own$2 this $4region$2\n&4&l-----------------------'
+  region_init: '$2WorldEdit region set to: $1%s0$2.'
+  region_enter: '$2Entering your region: $1%s0$2.'
+  region_leave: '$2Leaving your region: $4%s0$2.'
+general:
+  item_color: $3
+  message_for_you: $4WorldEdit Region Management$1 JeriCraft

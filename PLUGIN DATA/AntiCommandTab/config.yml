@@ -1,0 +1,27 @@
+#=======================================
+# AntiCommandTab v3.4 by libraryaddict   
+#    new and improved by sgtcaze         
+#      Dev Builds ci.playmc.cc          
+#=======================================
+# Usage:
+# %player - Replaces with the player's list name
+# &a-f/0-9 - Replaces with color codes
+#=======================================
+
+# You can choose to disable command protection here:
+BlockPlugins: true
+BlockVersion: true
+BlockAbout: true
+BlockQuestionMark: true
+ 
+# Sent to players attempting use /plugins and /pl
+Plugins: '&7[&cJeriCraft&7] &cAccess Denied!'
+
+# Sent to players attempting use /?
+QuestionMark: '&7[&cJeriCraft&7] &cAccess Denied!'
+
+# Sent to players attempting use /about
+About: '&7[&cJeriCraft&7] &cAccess Denied!'
+
+# Sent to players attempting use /version and /ver
+Version: '&7[&cJeriCraft&7] &cAccess Denied!'

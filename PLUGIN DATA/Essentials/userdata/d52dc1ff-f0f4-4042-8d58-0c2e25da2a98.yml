@@ -1,0 +1,34 @@
+lastlocation:
+  world: world
+  x: -14809.500972890623
+  y: 68.5
+  z: 22102.694776635617
+  yaw: -248.67752
+  pitch: 50.399982
+geolocation: West Jordan, Utah, United States
+lastAccountName: Lycenroc
+timestamps:
+  login: 1477938292425
+  logout: 1477938392140
+  kits:
+    citizen: 1474794839674
+    food: 1474982682175
+  lastteleport: 1475045309051
+ipAddress: 174.23.191.80
+logoutlocation:
+  world: world
+  x: -14795.395754575002
+  y: 68.0
+  z: 22098.81289131675
+  yaw: -57.427547
+  pitch: 16.949978
+money: '16609.5449000000000009'
+homes:
+  home:
+    world: world
+    x: -14807.505960896524
+    y: 68.5
+    z: 22092.16327568428
+    yaw: -193.82576
+    pitch: 15.252336
+afk: false

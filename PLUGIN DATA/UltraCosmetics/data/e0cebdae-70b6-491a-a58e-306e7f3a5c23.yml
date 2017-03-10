@@ -1,0 +1,32 @@
+Keys: 0
+Ammo:
+  batblaster: 0
+  chickenator: 100
+  colorbomb: 0
+  discoball: 0
+  etherealpearl: 93
+  fleshhook: 216
+  melonthrower: 0
+  blizzardblaster: 0
+  portalgun: 0
+  explosivesheep: 0
+  paintballgun: 0
+  thorhammer: 0
+  antigravity: 59
+  smashdown: 0
+  rocket: 94
+  blackhole: 161
+  tsunami: 0
+  tnt: 0
+  fungun: 0
+  parachute: 0
+  quakegun: 0
+  ghostparty: 119
+  firework: 0
+  christmastree: 40
+  freezecannon: 75
+  snowball: 0
+  partypopper: 115
+  trampoline: 99
+Gadgets-Enabled: true
+Third-Person-Morph-View: true

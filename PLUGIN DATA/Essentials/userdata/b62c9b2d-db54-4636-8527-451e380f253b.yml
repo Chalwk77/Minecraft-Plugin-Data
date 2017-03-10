@@ -1,0 +1,107 @@
+lastAccountName: AboveGames
+timestamps:
+  login: 1479875447072
+  logout: 1479875458860
+  kits:
+    wool: 1460902168039
+    mod: 1466323467733
+    ande: 1465138895531
+    color: 1466316664810
+    drinks: 1460254067762
+    architect: 1460837070403
+    pw: 1466323415260
+    rules: 1460745310007
+    mobeggs: 1460829647305
+    dtools: 1460291749830
+    tools: 1466322544902
+    pvpsword1: 1462329824510
+    ultra: 1460829564407
+    mccharacter: 1460829551598
+    donor: 1460895919742
+    helper: 1460829594213
+    sking_arena: 1463333441455
+    wood: 1463880491501
+    vip: 1460829725383
+    overlord: 1466299589550
+    regular: 1466323484434
+    citizen: 1464746341370
+    eggs: 1464116382997
+    glass: 1460830392711
+    test: 1463848651755
+    banner: 1460831078742
+    transport: 1460839075270
+    gardener: 1460839139579
+    food: 1476808139125
+    boat: 1464116401898
+    dye: 1460831107259
+    jesus: 1460930116732
+    veteran: 1460829379571
+    wekit: 1460837212838
+    iron: 1460839004799
+    farmer: 1460829636249
+    redstone: 1460853080780
+  lastteleport: 1479875450200
+  jail: 0
+ipAddress: 73.79.199.12
+geolocation: United States
+lastlocation:
+  world: world
+  x: -461.57063658191635
+  y: 63.9375
+  z: -3888.2034064856684
+  yaw: 268.46548
+  pitch: 8.573755
+homes:
+  house:
+    world: world
+    x: 730.4914349857404
+    y: 75.0
+    z: 4059.6752658654323
+    yaw: -255.45013
+    pitch: 20.699997
+  farm:
+    world: world
+    x: -1751.5267463562463
+    y: 66.0
+    z: -3206.798542712608
+    yaw: -43.011093
+    pitch: 13.545584
+  awsmbuild:
+    world: world
+    x: -3124.0257014020617
+    y: 80.0
+    z: -2322.2842837851767
+    yaw: -330.75293
+    pitch: 19.596422
+  grind:
+    world: world
+    x: -12232.709810670593
+    y: 16.0
+    z: 5945.648152430594
+    yaw: 188.24878
+    pitch: 31.419674
+  sand:
+    world: world
+    x: -17257.156023292504
+    y: 72.0
+    z: 16271.061406849421
+    yaw: -87.38925
+    pitch: 15.216018
+  lot:
+    world: world
+    x: -735.6334950525257
+    y: 79.0
+    z: -3454.0454112286266
+    yaw: -268.89844
+    pitch: 7.993769
+logoutlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 270.54996
+  pitch: -1.0500194
+money: '0.24512499999967729'
+afk: false
+godmode: false
+jailed: false

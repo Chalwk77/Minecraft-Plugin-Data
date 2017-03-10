@@ -1,0 +1,334 @@
+# Title of GUI.
+
+gui-title: '&c&lTinkerer'
+
+# Setting for accept trade button.
+
+accept-trade:
+       item-id: '160:14'
+       display-name: '&eAccept Trade'
+       
+# Setting for the border which separate the two sides in tinkerer.
+
+separator:
+       item-id: '160:1'
+       
+# Setting for what should be the reward. 
+# For money, set 'money'.
+# For xp, set 'xp'. 
+
+reward: 'xp'
+
+# Setting for the item of reward.
+
+# You must SURELY have "%total%" placeholder in the display name. Otherwise this exp bottle WONT WORK!
+# Even if your item-id don't have data, you still need to specify 0.
+# For example, item id of exp bottle is 384, but still you have to put '384:0'
+# Note: If you set reward to money, it will be directly deposited to the current balance. But,
+# if you set to XP, you will get XP bottle and when you right click it, specific xp will be given to you.
+
+reward-settings:
+          xp:
+           item-id: '384:0'
+           display-name: '&dXP Bottle &7(%total% XP)'
+           lore:
+           - '&6Right click this XP bottle in air or on the block'
+           - '&6to get the specific XP'
+           
+          money:
+           item-id: '339:0'
+           display-name: '&8Cash Amount: &a($%total%)'
+           lore:
+
+# Values per enchantments.
+
+protection:
+         xp: 45
+         money: 100
+
+lifesteal:
+         xp: 45
+         money: 100
+         
+assassin:
+         xp: 45
+         money: 100
+
+kill_confirm:
+         xp: 45
+         money: 100
+
+hex:
+         xp: 45
+         money: 100
+
+jump:
+         xp: 45
+         money: 100
+speed:
+         xp: 45
+         money: 100
+
+zeus:
+         xp: 45
+         money: 100
+
+batvision:
+         xp: 45
+         money: 100
+         
+demonic_aura:
+         xp: 45
+         money: 100
+         
+dodge:
+         xp: 45
+         money: 100
+
+blessed:
+         xp: 45
+         money: 100
+
+arrow_rain:
+         xp: 45
+         money: 100
+
+snare:
+         xp: 45
+         money: 100
+
+curse:
+         xp: 45
+         money: 100
+
+crushing:
+         xp: 45
+         money: 100
+
+execute:
+         xp: 45
+         money: 100
+
+stealth:
+         xp: 45
+         money: 100
+
+aegis:
+         xp: 45
+         money: 100
+
+platemail:
+         xp: 45
+         money: 100
+
+purge:
+         xp: 45
+         money: 100
+
+divine:
+         xp: 45
+         money: 100
+
+entangle:
+         xp: 45
+         money: 100
+
+pyromaniac:
+         xp: 45
+         money: 100
+
+flame_cloak:
+         xp: 45
+         money: 100
+
+battlecry:
+         xp: 45
+         money: 100
+
+corruption:
+         xp: 45
+         money: 100
+
+turmoil:
+         xp: 45
+         money: 100
+
+holy_smite:
+         xp: 45
+         money: 100
+
+riftslayer:
+         xp: 45
+         money: 100
+
+petrify:
+         xp: 45
+         money: 100
+
+eyepatch:
+         xp: 45
+         money: 100
+
+plunder:
+         xp: 45
+         money: 100
+
+mischief:
+         xp: 45
+         money: 100
+
+shadowstep:
+         xp: 45
+         money: 100
+
+demon_siphon:
+         xp: 45
+         money: 100
+
+animal_tamer:
+         xp: 45
+         money: 100
+
+wolves:
+         xp: 45
+         money: 100
+
+disarm:
+         xp: 45
+         money: 100
+
+superman_punch:
+         xp: 45
+         money: 100
+
+spiked:
+         xp: 45
+         money: 100
+
+medic:
+         xp: 45
+         money: 100
+
+swimmer:
+         xp: 45
+         money: 100
+
+thief:
+         xp: 45
+         money: 100
+
+health_boost:
+         xp: 45
+         money: 100
+
+reborn:
+         xp: 45
+         money: 100
+
+endless:
+         xp: 45
+         money: 100
+
+molten:
+         xp: 45
+         money: 100
+
+immolation:
+         xp: 45
+         money: 100
+
+strength:
+         xp: 45
+         money: 100
+
+horse_rider:
+         xp: 45
+         money: 100
+
+web_trap: 
+         xp: 45
+         money: 100
+
+paralyze:
+         xp: 45
+         money: 100
+
+soft_touch:
+         xp: 45
+         money: 100
+
+tnt_shooter:
+         xp: 45
+         money: 100
+
+rekt:
+         xp: 45
+         money: 100
+
+reversal:
+         xp: 45
+         money: 100
+
+reinforced:
+         xp: 45
+         money: 100
+
+wild_mark:
+         xp: 45
+         money: 100
+
+shearer:
+         xp: 45
+         money: 100
+
+farmer:
+         xp: 45
+         money: 100
+
+haste:
+         xp: 45
+         money: 100
+
+explosive:
+         xp: 45
+         money: 100
+
+lumberjack:
+         xp: 45
+         money: 100
+         
+plow:
+         xp: 45
+         money: 100
+         
+veinminer:
+         xp: 45
+         money: 100
+         
+lucky_mining:
+         xp: 45
+         money: 100         
+         
+auto_block:
+         xp: 45
+         money: 100
+         
+smelt:
+         xp: 45
+         money: 100
+         
+shooter:
+         xp: 45
+         money: 100
+         
+feather_fall:
+         xp: 45
+         money: 100
+         
+suicide:
+         xp: 45
+         money: 100
+         
+angry_birds:
+         xp: 45
+         money: 100

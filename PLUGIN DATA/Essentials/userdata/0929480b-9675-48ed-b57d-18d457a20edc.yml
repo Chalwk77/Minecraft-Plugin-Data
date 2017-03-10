@@ -1,0 +1,24 @@
+lastlocation:
+  world: world
+  x: 437.2123681539149
+  y: 88.0
+  z: -186.59181081893658
+  yaw: -31.536964
+  pitch: -15.385665
+geolocation: Australia
+lastAccountName: Flynttt
+timestamps:
+  login: 1472855706075
+  kits:
+    citizen: 1472855734530
+  lastteleport: 1472855875428
+  logout: 1472855919733
+ipAddress: 125.168.40.111
+money: '2485.0'
+logoutlocation:
+  world: world
+  x: 504.99072926814426
+  y: 66.0
+  z: 137.7819616528231
+  yaw: 195.54797
+  pitch: 18.92178

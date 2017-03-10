@@ -1,0 +1,15 @@
+version: '1.2'
+ignore-worlds:
+- PlotMe
+- PlotWorld
+factions:
+  max-chunk-traversal: 10
+create:
+  add-owner: true
+  expand-vert: true
+worldguard:
+  require-custom-flag: false
+  claim-area: 900000
+language: english
+max-claim-area: 65536
+min-width: 16

@@ -1,0 +1,2689 @@
+Inventories:
+  '25':
+    Time: 1458455354410
+    Exp: 9
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310462.0769325348
+      y: 82.0
+      z: -625931.9773241327
+      pitch: 14.399958
+      yaw: 97.6462
+    Items:
+      '0':
+        type: STONE
+        damage: 5
+        amount: 56
+      '1':
+        type: DIAMOND_SPADE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '3':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: REDSTONE
+        amount: 4
+      '7':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 19
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '10':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '11':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '12':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '15':
+        type: COOKED_BEEF
+        amount: 64
+      '16':
+        type: PORK
+        amount: 64
+      '17':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '18':
+        type: CAKE
+      '19':
+        type: COOKED_FISH
+        amount: 10
+      '20':
+        type: RABBIT_STEW
+      '21':
+        type: COOKED_CHICKEN
+        amount: 64
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '23':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '26':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '29':
+        type: STONE
+        damage: 3
+        amount: 64
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: COBBLESTONE
+        amount: 15
+      '35':
+        type: STONE
+        damage: 1
+        amount: 10
+  '26':
+    Time: 1459465462046
+    Exp: 9
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310462.0769325348
+      y: 82.0
+      z: -625931.9773241327
+      pitch: 14.399958
+      yaw: 97.6462
+    Items:
+      '0':
+        type: STONE
+        damage: 5
+        amount: 56
+      '1':
+        type: DIAMOND_SPADE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '3':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: REDSTONE
+        amount: 4
+      '7':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 19
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '10':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '11':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '12':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '15':
+        type: COOKED_BEEF
+        amount: 64
+      '16':
+        type: PORK
+        amount: 64
+      '17':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '18':
+        type: CAKE
+      '19':
+        type: COOKED_FISH
+        amount: 10
+      '20':
+        type: RABBIT_STEW
+      '21':
+        type: COOKED_CHICKEN
+        amount: 64
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '23':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '26':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '29':
+        type: STONE
+        damage: 3
+        amount: 64
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: COBBLESTONE
+        amount: 15
+      '35':
+        type: STONE
+        damage: 1
+        amount: 10
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '27':
+    Time: 1459469871046
+    Exp: 9
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310462.0769325348
+      y: 82.0
+      z: -625931.9773241327
+      pitch: 14.399958
+      yaw: 97.6462
+    Items:
+      '0':
+        type: STONE
+        damage: 5
+        amount: 56
+      '1':
+        type: DIAMOND_SPADE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '3':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: REDSTONE
+        amount: 4
+      '7':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 19
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '10':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '11':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '12':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '15':
+        type: COOKED_BEEF
+        amount: 64
+      '16':
+        type: PORK
+        amount: 64
+      '17':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '18':
+        type: CAKE
+      '19':
+        type: COOKED_FISH
+        amount: 10
+      '20':
+        type: RABBIT_STEW
+      '21':
+        type: COOKED_CHICKEN
+        amount: 64
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '23':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '26':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '29':
+        type: STONE
+        damage: 3
+        amount: 64
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: COBBLESTONE
+        amount: 15
+      '35':
+        type: STONE
+        damage: 1
+        amount: 10
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '28':
+    Time: 1459659260532
+    Exp: 9
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310462.0769325348
+      y: 82.0
+      z: -625931.9773241327
+      pitch: 14.399958
+      yaw: 97.6462
+    Items:
+      '0':
+        type: STONE
+        damage: 5
+        amount: 56
+      '1':
+        type: DIAMOND_SPADE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '3':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: REDSTONE
+        amount: 4
+      '7':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 19
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '10':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '11':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '12':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '15':
+        type: COOKED_BEEF
+        amount: 64
+      '16':
+        type: PORK
+        amount: 64
+      '17':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '18':
+        type: CAKE
+      '19':
+        type: COOKED_FISH
+        amount: 10
+      '20':
+        type: RABBIT_STEW
+      '21':
+        type: COOKED_CHICKEN
+        amount: 64
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '23':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '26':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '29':
+        type: STONE
+        damage: 3
+        amount: 64
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: COBBLESTONE
+        amount: 15
+      '35':
+        type: STONE
+        damage: 1
+        amount: 10
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '29':
+    Time: 1459766733996
+    Exp: 9
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310462.0769325348
+      y: 82.0
+      z: -625931.9773241327
+      pitch: 14.399958
+      yaw: 97.6462
+    Items:
+      '0':
+        type: STONE
+        damage: 5
+        amount: 56
+      '1':
+        type: DIAMOND_SPADE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '3':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: REDSTONE
+        amount: 4
+      '7':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 19
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '10':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '11':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '12':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '15':
+        type: COOKED_BEEF
+        amount: 64
+      '16':
+        type: PORK
+        amount: 64
+      '17':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '18':
+        type: CAKE
+      '19':
+        type: COOKED_FISH
+        amount: 10
+      '20':
+        type: RABBIT_STEW
+      '21':
+        type: COOKED_CHICKEN
+        amount: 64
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '23':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '26':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '29':
+        type: STONE
+        damage: 3
+        amount: 64
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: COBBLESTONE
+        amount: 15
+      '35':
+        type: STONE
+        damage: 1
+        amount: 10
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '30':
+    Time: 1459847485198
+    Exp: 9
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310462.0769325348
+      y: 82.0
+      z: -625931.9773241327
+      pitch: 14.399958
+      yaw: 97.6462
+    Items:
+      '0':
+        type: STONE
+        damage: 5
+        amount: 56
+      '1':
+        type: DIAMOND_SPADE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '3':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: REDSTONE
+        amount: 4
+      '7':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 19
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '10':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '11':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '12':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '15':
+        type: COOKED_BEEF
+        amount: 64
+      '16':
+        type: PORK
+        amount: 64
+      '17':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '18':
+        type: CAKE
+      '19':
+        type: COOKED_FISH
+        amount: 10
+      '20':
+        type: RABBIT_STEW
+      '21':
+        type: COOKED_CHICKEN
+        amount: 64
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '23':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '26':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '29':
+        type: STONE
+        damage: 3
+        amount: 64
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: COBBLESTONE
+        amount: 15
+      '35':
+        type: STONE
+        damage: 1
+        amount: 10
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '31':
+    Time: 1460146821293
+    Exp: 9
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310462.0769325348
+      y: 82.0
+      z: -625931.9773241327
+      pitch: 14.399958
+      yaw: 97.6462
+    Items:
+      '0':
+        type: STONE
+        damage: 5
+        amount: 56
+      '1':
+        type: DIAMOND_SPADE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '3':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: REDSTONE
+        amount: 4
+      '7':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 19
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '10':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '11':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '12':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '15':
+        type: COOKED_BEEF
+        amount: 64
+      '16':
+        type: PORK
+        amount: 64
+      '17':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '18':
+        type: CAKE
+      '19':
+        type: COOKED_FISH
+        amount: 10
+      '20':
+        type: RABBIT_STEW
+      '21':
+        type: COOKED_CHICKEN
+        amount: 64
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '23':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '26':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '29':
+        type: STONE
+        damage: 3
+        amount: 64
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: COBBLESTONE
+        amount: 15
+      '35':
+        type: STONE
+        damage: 1
+        amount: 10
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '32':
+    Time: 1460883168166
+    Exp: 9
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310462.0769325348
+      y: 82.0
+      z: -625931.9773241327
+      pitch: 14.399958
+      yaw: 97.6462
+    Items:
+      '0':
+        type: STONE
+        damage: 5
+        amount: 56
+      '1':
+        type: DIAMOND_SPADE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '3':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: REDSTONE
+        amount: 4
+      '7':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 19
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '10':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '11':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '12':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '15':
+        type: COOKED_BEEF
+        amount: 64
+      '16':
+        type: PORK
+        amount: 64
+      '17':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '18':
+        type: CAKE
+      '19':
+        type: COOKED_FISH
+        amount: 10
+      '20':
+        type: RABBIT_STEW
+      '21':
+        type: COOKED_CHICKEN
+        amount: 64
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '23':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '26':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '29':
+        type: STONE
+        damage: 3
+        amount: 64
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: COBBLESTONE
+        amount: 15
+      '35':
+        type: STONE
+        damage: 1
+        amount: 10
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '33':
+    Time: 1462120692584
+    Exp: 9
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310462.0769325348
+      y: 82.0
+      z: -625931.9773241327
+      pitch: 14.399958
+      yaw: 97.6462
+    Items:
+      '0':
+        type: STONE
+        damage: 5
+        amount: 56
+      '1':
+        type: DIAMOND_SPADE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '3':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: REDSTONE
+        amount: 4
+      '7':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 19
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '10':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '11':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '12':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '15':
+        type: COOKED_BEEF
+        amount: 64
+      '16':
+        type: PORK
+        amount: 64
+      '17':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '18':
+        type: CAKE
+      '19':
+        type: COOKED_FISH
+        amount: 10
+      '20':
+        type: RABBIT_STEW
+      '21':
+        type: COOKED_CHICKEN
+        amount: 64
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '23':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '26':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '29':
+        type: STONE
+        damage: 3
+        amount: 64
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: COBBLESTONE
+        amount: 15
+      '35':
+        type: STONE
+        damage: 1
+        amount: 10
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '34':
+    Time: 1462483215899
+    Exp: 9
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310462.0769325348
+      y: 82.0
+      z: -625931.9773241327
+      pitch: 14.399958
+      yaw: 97.6462
+    Items:
+      '0':
+        type: STONE
+        damage: 5
+        amount: 56
+      '1':
+        type: DIAMOND_SPADE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '3':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: REDSTONE
+        amount: 4
+      '7':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 19
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '10':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '11':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '12':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '15':
+        type: COOKED_BEEF
+        amount: 64
+      '16':
+        type: PORK
+        amount: 64
+      '17':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '18':
+        type: CAKE
+      '19':
+        type: COOKED_FISH
+        amount: 10
+      '20':
+        type: RABBIT_STEW
+      '21':
+        type: COOKED_CHICKEN
+        amount: 64
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '23':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '26':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '29':
+        type: STONE
+        damage: 3
+        amount: 64
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: COBBLESTONE
+        amount: 15
+      '35':
+        type: STONE
+        damage: 1
+        amount: 10
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1

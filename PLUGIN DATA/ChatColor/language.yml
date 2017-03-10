@@ -1,0 +1,44 @@
+# +----------------------------------------------------+
+# <              This is the Language.yml              >
+# <         You can modify this to your liking         >
+# +----------------------------------------------------+
+
+Inventory:
+  Gui:
+    Name: '&c&lJeriCraft Chat Colors'
+  Colors:
+    RED: '&4You have selected Red!'
+    LightRed: '&cYou have selected Light Red!'
+    Gold: '&6You have selected Gold!'
+    Yellow: '&eYou have selected Yellow!'
+    DarkGreen: '&2You have selected Dark Green!'
+    LightGreen: '&aYou have selected Light Green!'
+    LightBlue: '&bYou have selected Light Blue!'
+    Aqua: '&3You have selected Aqua!'
+    DarkBlue: '&1You have selected Dark Blue!'
+    DarkPurple: '&5You have selected Dark Purple!'
+    Purple: '&9You have selected Purple!'
+    Pink: '&dYou have selected Pink!'
+    White: '&fYou have selected White!'
+    Gray: '&7You have selected Gray!'
+    DarkGray: '&8You have selected Dark Gray!'
+    Bold:
+      select: '&lYou have selected Bold!'
+      removed: '&lYou have deselected Bold!'
+    Underline:
+      select: '&nYou have selected Underline!'
+      removed: '&nYou have deselected Underline!'
+    Italic:
+      select: '&oYou have selected Itallic!'
+      removed: '&oYou have deselected Italic!'
+    Magic:
+      select: '&fYou have selected Magic! &kMAGIC'
+      removed: '&fYou have deselected Magic! &kMAGIC'
+    Strike:
+      select: '&mYou have selected Strike'
+      removed: '&mYou have deselected Strike!'
+    Reset: '&rYou have reset your colors!'
+NoPermission: '&4You do not have permission to do this!'
+ClickedNoPermission: '&4You do not have permission to do this!'
+ErrorOccurred: '&4An error has occurred!'
+InvalidArguments: '&4Invalid Argument'

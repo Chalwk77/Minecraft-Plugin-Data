@@ -1,0 +1,181 @@
+
+UltraCosmetics v2.0.7 permissions.
+Generated automatically on 30/03/2016
+
+
+General permissions, enabled by default.
+  - ultracosmetics.receivechest
+  - ultracosmetics.openmenu
+
+Commands:
+  - ultracosmetics.command.*
+  - ultracosmetics.command.gadgets
+  - ultracosmetics.command.selfview
+  - ultracosmetics.command.menu
+  - ultracosmetics.command.give
+  - ultracosmetics.command.toggle
+  - ultracosmetics.command.clear
+  - ultracosmetics.command.treasure
+
+Gadgets:
+  - ultracosmetics.gadgets.*
+  - ultracosmetics.gadgets.batblaster
+  - ultracosmetics.gadgets.chickenator
+  - ultracosmetics.gadgets.colorbomb
+  - ultracosmetics.gadgets.discoball
+  - ultracosmetics.gadgets.etherealpearl
+  - ultracosmetics.gadgets.fleshhook
+  - ultracosmetics.gadgets.melonthrower
+  - ultracosmetics.gadgets.blizzardblaster
+  - ultracosmetics.gadgets.portalgun
+  - ultracosmetics.gadgets.explosivesheep
+  - ultracosmetics.gadgets.paintballgun
+  - ultracosmetics.gadgets.thorhammer
+  - ultracosmetics.gadgets.antigravity
+  - ultracosmetics.gadgets.smashdown
+  - ultracosmetics.gadgets.rocket
+  - ultracosmetics.gadgets.blackhole
+  - ultracosmetics.gadgets.tsunami
+  - ultracosmetics.gadgets.tnt
+  - ultracosmetics.gadgets.fungun
+  - ultracosmetics.gadgets.parachute
+  - ultracosmetics.gadgets.quakegun
+  - ultracosmetics.gadgets.ghostparty
+  - ultracosmetics.gadgets.firework
+  - ultracosmetics.gadgets.christmastree
+  - ultracosmetics.gadgets.freezecannon
+  - ultracosmetics.gadgets.snowball
+  - ultracosmetics.gadgets.partypopper
+  - ultracosmetics.gadgets.trampoline
+
+Pets:
+  - ultracosmetics.pets.*
+  - ultracosmetics.pets.piggy
+  - ultracosmetics.pets.sheep
+  - ultracosmetics.pets.easterbunny
+  - ultracosmetics.pets.cow
+  - ultracosmetics.pets.kitty
+  - ultracosmetics.pets.dog
+  - ultracosmetics.pets.chick
+  - ultracosmetics.pets.wither
+  - ultracosmetics.pets.pumpling
+  - ultracosmetics.pets.christmaself
+
+Mounts:
+  - ultracosmetics.mounts.*
+  - ultracosmetics.mounts.druggedhorse
+  - ultracosmetics.mounts.infernalhorror
+  - ultracosmetics.mounts.glacialsteed
+  - ultracosmetics.mounts.walkingdead
+  - ultracosmetics.mounts.mountoffire
+  - ultracosmetics.mounts.mountofwater
+  - ultracosmetics.mounts.ecologisthorse
+  - ultracosmetics.mounts.snake
+  - ultracosmetics.mounts.nyansheep
+  - ultracosmetics.mounts.dragon
+  - ultracosmetics.mounts.skysquid
+  - ultracosmetics.mounts.slime
+  - ultracosmetics.mounts.hypecart
+  - ultracosmetics.mounts.spider
+  - ultracosmetics.mounts.rudolph
+  - ultracosmetics.mounts.moltensnake
+  - ultracosmetics.mounts.flyingship
+
+Morphs:
+  - ultracosmetics.morphs.*
+  - ultracosmetics.morphs.bat
+  - ultracosmetics.morphs.blaze
+  - ultracosmetics.morphs.chicken
+  - ultracosmetics.morphs.pig
+  - ultracosmetics.morphs.enderman
+  - ultracosmetics.morphs.slime
+  - ultracosmetics.morphs.creeper
+  - ultracosmetics.morphs.witherskeleton
+  - ultracosmetics.morphs.snowman
+  - ultracosmetics.morphs.elderguardian
+
+Hats:
+  - ultracosmetics.hats.*
+  - ultracosmetics.hats.astronaut
+  - ultracosmetics.hats.scared
+  - ultracosmetics.hats.angel
+  - ultracosmetics.hats.embarassed
+  - ultracosmetics.hats.kissy
+  - ultracosmetics.hats.sad
+  - ultracosmetics.hats.cool
+  - ultracosmetics.hats.surprised
+  - ultracosmetics.hats.dead
+  - ultracosmetics.hats.crying
+  - ultracosmetics.hats.bigsmile
+  - ultracosmetics.hats.wink
+  - ultracosmetics.hats.derp
+  - ultracosmetics.hats.smile
+  - ultracosmetics.hats.iron
+  - ultracosmetics.hats.gold
+  - ultracosmetics.hats.diamond
+  - ultracosmetics.hats.piston
+  - ultracosmetics.hats.commandblock
+  - ultracosmetics.hats.music
+  - ultracosmetics.hats.squid
+  - ultracosmetics.hats.chicken
+  - ultracosmetics.hats.pig
+  - ultracosmetics.hats.blaze
+  - ultracosmetics.hats.sheep
+  - ultracosmetics.hats.golem
+  - ultracosmetics.hats.enderman
+  - ultracosmetics.hats.mario
+  - ultracosmetics.hats.luigi
+  - ultracosmetics.hats.batman
+  - ultracosmetics.hats.chest
+  - ultracosmetics.hats.skull
+  - ultracosmetics.hats.ghost
+  - ultracosmetics.hats.jackolantern
+  - ultracosmetics.hats.scaryclown
+  - ultracosmetics.hats.santa
+  - ultracosmetics.hats.snowman
+  - ultracosmetics.hats.present
+  - ultracosmetics.hats.elf
+
+Particle Effects:
+  - ultracosmetics.particleeffects.*
+  - ultracosmetics.particleeffects.raincloud
+  - ultracosmetics.particleeffects.snowcloud
+  - ultracosmetics.particleeffects.bloodhelix
+  - ultracosmetics.particleeffects.frostlord
+  - ultracosmetics.particleeffects.flamerings
+  - ultracosmetics.particleeffects.inlove
+  - ultracosmetics.particleeffects.greensparks
+  - ultracosmetics.particleeffects.frozenwalk
+  - ultracosmetics.particleeffects.music
+  - ultracosmetics.particleeffects.enchanted
+  - ultracosmetics.particleeffects.inferno
+  - ultracosmetics.particleeffects.angelwings
+  - ultracosmetics.particleeffects.superhero
+  - ultracosmetics.particleeffects.santahat
+  - ultracosmetics.particleeffects.crushedcandycane
+  - ultracosmetics.particleeffects.enderaura
+  - ultracosmetics.particleeffects.flamefairy
+
+Suits:
+  - ultracosmetics.suits.*
+  - ultracosmetics.suits.rave.*
+  - ultracosmetics.suits.rave.helmet
+  - ultracosmetics.suits.rave.chestplate
+  - ultracosmetics.suits.rave.leggings
+  - ultracosmetics.suits.rave.boots
+  - ultracosmetics.suits.astronaut.*
+  - ultracosmetics.suits.astronaut.helmet
+  - ultracosmetics.suits.astronaut.chestplate
+  - ultracosmetics.suits.astronaut.leggings
+  - ultracosmetics.suits.astronaut.boots
+  - ultracosmetics.suits.diamond.*
+  - ultracosmetics.suits.diamond.helmet
+  - ultracosmetics.suits.diamond.chestplate
+  - ultracosmetics.suits.diamond.leggings
+  - ultracosmetics.suits.diamond.boots
+  - ultracosmetics.suits.santa.*
+  - ultracosmetics.suits.santa.helmet
+  - ultracosmetics.suits.santa.chestplate
+  - ultracosmetics.suits.santa.leggings
+  - ultracosmetics.suits.santa.boots
+

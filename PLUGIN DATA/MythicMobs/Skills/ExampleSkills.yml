@@ -1,0 +1,590 @@
+# 
+# These example files show you some VERY basic meta skills.
+# You can copy and expand them however you'd like.
+SpawnBandits:
+  Cooldown: 0
+  Skills:
+  - delay 60
+  - summon{type=BanditExtrasSword;amount=2;radius=5} @Self 
+  - summon{type=BanditExtrasBow;amount=2;radius=5} @Self 
+Mug:
+  Conditions:
+  - playerwithin 2
+  Cooldown: 0
+  Skills:
+# First I execute a command skill that removes money from the player
+  - delay 10
+  - command{c="eco take <target.name> 200"} @Target
+# Here I am modifying the objective ml to add the total amount of money to the mob
+  - modifymobscore{objective=ml;action=add;value=200}
+# Here I tell the player the unfortunate news that he/she was robbed
+  - sendtitle{title="&2Robbed";subtitle="&aBandit robbed $200 from you";d=20} @NearestPlayer
+  - message{m="&4&l<mob.name>&f&l<&co> &7robbed $200 from you";d=20} @NearestPlayer
+  - effect:particles{p=cloud;amount=20;hSpread=0.1;vSpread=0;speed=0.1;yOffset=0} @Self
+BowDrug:
+  Conditions:
+  - incombat
+  Cooldown: 0
+  Skills:
+# First I execute a command skill that drugs the player
+  - delay 10
+  - potion{type=CONFUSION;duration=200;level=1} @Target
+# Here I tell the player the unfortunate news that he/she was drugged
+  - sendtitle{title="&aDrugged";subtitle="&aBandit drugged you";d=20} @Target
+  - message{m="&4&l<mob.name>&f&l<&co> &7robbed $200 from you";d=20} @Target
+  - effect:particles{p=cloud;amount=20;hSpread=0.1;vSpread=0;speed=0.1;yOffset=0} @Self
+BanditDeath:
+  Conditions:
+# This condition ensures that this skill will only be executed if the mob has money. The cap is at $10000
+  - mobscore ml;1-10000
+  Skills:
+# When the bandit dies (If enabled) this skill removes a specific amount of money from the mob
+
+#  - modifytargetscore{objective=ml;action=subtract;value=200}
+
+# When the bandit dies this skill gives his total amount of money he has to the player. Since this only happens when the mob is dead. There is no need to remove all the mobs money through score. So if you enabled the skill above. disable the one below or your player will receive a subtracted result.
+  - delay 10
+  - command{c="eco give <target.name> <mob.score.ml>"} @Target
+  - message{m="&2The bandit dropped all $<mob.score.ml> of his stolen money!"}
+BanditHealthandMoney:
+  Conditions:
+  - playerwithin 4
+  Skills:
+  - message{m="&e<mob.name> <mob.hp> / <mob.mhp> | &2$ &a<mob.score.ml>"} @Target
+CallSkeletalHorse:
+  Skills:
+  - mount{type=UndeadMount}
+KarazschArcaneBolt:
+  Cooldown: 1
+  Skills:
+  - missile{ot=KAP_TICK;oh=KAP_HIT;v=4;i=1;hR=1;vR=1;in=0.75}
+KAP_TICK:
+  Skills:
+  - effect:particles{p=reddust;c=#5e11d8;a=10;hS=0.1;vS=0.1} @origin
+KAP_HIT:
+  Skills:
+  - effect:particles{p=reddust;c=#5e11d8;a=50;hS=1;vS=1}
+  - effect:sound{s=entity.wither.shoot;v=0.1;p=0.01}
+  - damage{a=20;i=false}
+
+KarazschLaser:
+  Cooldown: 0.25
+  Conditions:
+  - targetinlineofsight false
+  Skills:
+  - missile{ot=KL_TICK;oh=KL_HIT;v=5;i=1;hR=1;vR=1;in=0.75}
+KL_TICK:
+  Skills:
+  - effect:particles{p=reddust;c=#f182ff;a=5;hS=0.1;vS=0.1} @origin
+KL_HIT:
+  Skills:
+  - heal{amount=50}
+  - effect:particles{p=reddust;c=#f182ff;a=30;hS=0.3;vS=0.8;y=1.0}
+  - effect:sound{s=entity.guardian.attack;v=0.2;p=2.0}
+
+MagicCloudEffect:
+  Cooldown: 0
+  Skills:
+  - skill{s=MCEffect}
+  - delay 2
+  - skill{s=MCEffect}
+  - delay 2
+  - skill{s=MCEffect}
+  - delay 2
+  - skill{s=MCEffect}
+  - delay 2
+  - skill{s=MCEffect}
+  - delay 2
+  - skill{s=MCEffect}
+  - delay 2
+  - skill{s=MCEffect}
+  - delay 2
+  - skill{s=MCEffect}
+  - delay 2
+  - skill{s=MCEffect}
+  - delay 2
+  - skill{s=MCEffect}
+MCEffect:
+  Cooldown: 0.01
+  Skills:
+  - effect:particles{p=reddust;c=#8ad9ff;a=10;hs=1.0;vs=0.5;s=0;y=1.0}
+  - effect:particles{p=reddust;c=#8ad9ff;a=10;hs=0.5;vs=1.0;s=0;y=1.0}
+  - damage{amount=0.5;ignoreArmor=true} @a[r=3]
+
+KarazschCloudDeath:
+  Skills:
+  - delay 600
+  - remove{m=KarazschCloud} @Self
+
+KarazschLaserDeath:
+  Cooldown: 0.01
+  Skills:
+  - DELAY 600
+  - remove{m=KarazschLaserMob} @Self
+Rapiddamage:
+  Cooldown: 2
+  Skills:
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+  - skill{s=RD}
+  - delay 2
+RD:
+  Cooldown: 0.02
+  Skills:
+  - effect:particles{p=smoke;a=150;hs=0.2;vs=0.2;s=0;y=1.0} @target
+  - damage{amount=0.5;ignoreArmor=true}  
+SummonDead:
+  Cooldown: 0.1
+  Skills:
+  - effect:sound{s=entity.zombie.break_door_wood;v=2.0;p=0.1} @Target
+  - delay 30
+  - effect:sound{s=entity.skeleton.death;v=2.0;p=0.1} @Target
+  - effect:itemspray{item=bone;amount=40;velocity=0.5;r=0;d=100} @Target
+  - summon{mob=Dead;amount=1} @Target
+Convert:
+  Skills:
+  - effect:sound{s=entity.zombie.infect;v=2;p=1} @Self ~onKillPlayer
+  - delay 20
+  - summon{mob=DeadP;amount=1;} @Self ~onKillPlayer
+NecroDeath:
+  Skills:
+  - effect:sound{s=entity.endermen.scream;v=.5;p=0.8} @Self ~onDeath
+  - delay 10
+  - effect:sound{s=entity.endermen.scream;v=.5;p=1.5} @Self ~onDeath
+  - delay 7
+  - effect:sound{s=entity.endermen.scream;v=.5;p=1.1} @Self ~onDeath
+  - delay 8
+  - effect:sound{s=entity.endermen.scream;v=.5;p=1.4} @Self ~onDeath
+  - delay 11
+  - effect:sound{s=entity.endermen.scream;v=.5;p=1.2} @Self ~onDeath
+  - delay 10
+  - effect:sound{s=entity.endermen.scream;v=.5;p=1.1} @Self ~onDeath
+SkullShot:
+  Skills:
+  - effect:sound{s=entity.endermen.scream;v=2;p=0.1} @Target
+  - delay 40
+  - shootskull{y=1;v=1} @target
+  - delay 20
+  - shootskull{y=3;v=1} @target
+  - delay 20
+  - shootskull{y=5;v=2} @target
+  - delay 20
+  - shootskull{y=7;v=2} @target
+  - delay 20
+  - shootskull{y=9;v=3} @target
+ND2:
+  Cooldown: 10
+  Skills:
+  - summon{m=MeteorPointer;a=1;r=0}
+MeteorPointerSpawn:
+  Skills:
+  - potion{type=INVISIBILITY;d=2000;l=1} @self
+  - delay 200
+  - skill{s=MeteorPointerFinish}
+MeteorPointerFinish:
+  Cooldown: 100
+  Skills:
+  - effect:sound{s=block.lava.pop;v=1.0;p=1} @Self
+  - projectile{onTick=MeteorTick;onEnd=MeteorEnd;v=15;i=1;hR=2;vR=2;syo=75;sfo=0;mr=1000;d=500;sE=false} @Self ~onDeath
+  - delay 500
+  - remove{m=MeteorPointer} @Self
+MeteorTick:
+  Skills:
+  - effect:sound{s=block.lava.pop;v=1.0;p=1} @Self
+  - effect:particles{p=largesmoke;a=400;vS=2;hS=2} @Origin
+MeteorEnd:
+  Skills:
+  - effect:particles{p=largesmoke;a=400;vS=2;hS=2;s=1} @Origin
+  - explosion{bd=true;fire=true;yield=0.5} @Origin
+  - damage{a=100} @PIR{r=20}
+  - potion{type=BLINDNESS;duration=100;lvl=2} @PIR{r=40}
+  - remove{m=MeteorPointer} @Self
+RevealSelf:
+  Cooldown: 10000
+  Conditions:
+  - playerwithin 5
+  Skills:
+  - randomskill
+      {
+      skills=
+      RewardMoneySurvivor,
+      EnemySurvivor,
+      RewardItemsSurvivor
+      } 
+
+### Money Giving Survivor ###
+RewardMoneySurvivor:
+  Cooldown: 0
+  Skills:
+  - sendtitle{title="";subtitle="&aThank you for saving me!";d=60} @NearestPlayer
+  - skill{KilledSurvivor} @NearestPlayer ~onDeath 
+  - delay 60
+  - sendtitle{title="";subtitle="&aHere is some money";d=60} @NearestPlayer
+  - command{c="eco give <target.name> 200"} @NearestPlayer
+  - delay 60
+  - effect:particlesphere{particle=cloud;amount=70;radius=1;yOffset=0.5} @origin
+  - remove @Self
+
+### Item Giving Survior ###
+RewardItemsSurvivor:
+  Cooldown: 0
+  Skills:
+  - sendtitle{title="";subtitle="&aThank you for saving me!";d=60} @NearestPlayer
+  - skill{s=JumpHappy} @Self
+  - delay 60
+  - sendtitle{title="";subtitle="&aHere is a Diamond!";d=60} @NearestPlayer
+  - command{c="give <target.name> DIAMOND 1"} @NearestPlayer
+  - delay 60
+  - effect:particlesphere{particle=cloud;amount=70;radius=1;yOffset=0.5} @origin
+  - remove @Self
+
+### Enemy Survivor ###
+EnemySurvivor:
+  Cooldown: 0
+  Skills:
+  - delay 60
+  - sendtitle{title="";subtitle="&cHAHA YOU FELL FOR IT!";d=30} @NearestPlayer
+  - delay 40
+  - sendtitle{title="";subtitle="&cGET HIM BOYS!";d=30} @NearestPlayer
+  - skill{s=SummonEnemies}
+  - delay 120
+  - effect:particlesphere{particle=cloud;amount=70;radius=1;yOffset=0.5} @Self
+  - remove @Self
+
+SummonEnemies:
+  Cooldown: 0
+  Skills:
+  - delay 20
+  - summon{type=SupriseEnemy;amount=1;radius=3} @Self
+  - delay 20
+  - summon{type=SupriseEnemy;amount=1;radius=3} @Self
+  - delay 20
+  - summon{type=SupriseEnemy;amount=1;radius=3} @Self
+  - remove @Self
+  
+EnemySpawnAnim:
+  Skills:
+  - effect:particlesphere{particle=cloud;amount=70;radius=1;yOffset=0.5} @Self
+
+CryForHelp:
+  Conditions:
+  - playernotwithin 10
+  Skills:
+  - message{m="&a[&2Survivor&a] &fHelp me! Im at &b<mob.l.x>&f,&b<mob.l.y>&f,&b<mob.l.z> &fLess than 50 blocks away!"} @PlayersInRadius{r=50} 
+
+JumpHappy:
+  Skills:
+  - jump{velocity=0.5}
+  - delay 40
+  - jump{velocity=0.5}
+  - delay 40
+  - jump{velocity=0.5}
+ 
+KilledSurvivor:
+  Skills:
+  - message{m="&cYou killed a &eSurvivor &c and lost &f$100"} @Target
+  - command{c="eco take <target.name> 100"} @Target
+ZombieSmash:
+  Cooldown: 8
+  Conditions:
+  - targetwithin 25
+  Skills:
+  - teleport @target
+  - effect:sound{s=mob.endermen.portal;volume=1.0;pitch=0.5}
+  - delay 10
+  - damage{amount=2;ignorearmor=true} @PlayersInRadius{r=5}
+  - throw{velocity=4;velocityY=2} @PlayersInRadius{r=5}
+  - effect:explosion @Self
+Regeneration:
+  Cooldown: 120
+  Conditions:
+  - targetwithin 15
+  - offgcd true
+  Skills:
+  - GCD 60
+  - message{m="<mob.name> &bbegins casting a regeneration spell..."} @PlayersInRadius{r=5}
+  - potionself SLOW:60:7 >0 1
+  - delay 60
+  - message{m="<mob.name> &bbegins &aregenerating..."}
+  - effect boss sound mob.wither.spawn:1:1 >0 1
+  - effect boss particles heart:1:1:50:1:0 >0 1
+  - healself 5 >0 1
+  - delay 20
+  - healself 5 >0 1
+  - delay 20
+  - effect boss particles heart:1:1:50:1:0 >0 1
+  - healself 5 >0 1
+  - delay 20
+  - healself 5 >0 1
+  - delay 20
+  - effect boss particles heart:1:1:50:1:0 >0 1
+  - healself 5 >0 1
+  - delay 20
+  - healself 5 >0 1
+  - delay 20
+  - effect boss particles heart:1:1:50:1:0 >0 1
+  - healself 5 >0 1
+  - delay 20
+  - healself 5 >0 1
+  - delay 20
+  - effect boss particles heart:1:1:50:1:0 >0 1
+  - healself 5 >0 1
+  - delay 20
+  - healself 5 >0 1
+SK_Weapon:
+  Cooldown: 45
+  Conditions:
+  - targetwithin 25
+  Skills:
+  - message{cooldown=30;m="<mob.name> &bbegins casting a spell..."} @PlayersInRadius{r=5}
+  - delay 40
+  - potion{type=BLINDNESS;lvl=2;duration=100} @PlayersInRadius{r=15}
+  - potion{type=POISON;lvl=2;duration=100} @PlayersInRadius{r=15}
+  - message{cooldown=30;m="<mob.name><&co> &7You are Blind!"} @PlayersInRadius{r=5}
+SkeletonHorseRiders:
+  Cooldown: 15
+  Skills:
+  - message{m="<mob.name><&co> &b&lReinforcements has arrived!"} @PlayersInRadius{r=40}
+  - delay 20
+  - summon{mob=SkeletonHorseRiders;amount=1;noise=5} @Self
+  - delay 25
+  - summon{mob=SkeletonHorseRiders;amount=2;noise=5} @Self
+  - delay 30
+  - summon{mob=SkeletonHorseRiders;amount=3;noise=5} @Self
+Glowing_Skill:
+  PotionEffects:
+  - DAMAGE_RESISTANCE
+  Skills:
+  - message{m="<mob.name><&co> &f[&aActivated Force-Field!&f]"} @PlayersInRadius{r=15}
+  - potion{type=GLOWING;duration=200} @Self
+  - effect:lightning @self
+  - effect boss sound random.break 1:1 >0 1
+  - effect boss sound random.fizz:2:1 >0 1
+  - effect boss particles crit:1:1:250:0.1 >0 1
+  - effect target particles largesmoke:1:1:50:0.01 >0 1
+  - potionself INCREASE_DAMAGE:160:3 >0 1
+  - potionself SPEED:160:3 >0 1
+villager_bandit_skills:
+  PotionEffects:
+  - DAMAGE_RESISTANCE
+  Skills:
+  - damage{amount=5;ignorearmor=true} @PlayersInRadius{r=5}
+  - message{m="<mob.name><&co> &fYou shall die!"} @PlayersInRadius{r=15}
+  - potion{type=GLOWING;duration=200} @Self
+  - effect boss sound random.break 1:1 >0 1
+  - effect boss sound random.fizz:2:1 >0 1
+  - effect boss particles crit:1:1:250:0.1 >0 1
+  - effect target particles largesmoke:1:1:50:0.01 >0 1
+  - potionself INCREASE_DAMAGE:160:3 >0 1
+  - potionself SPEED:160:3 >0 1
+PigSkills:
+  PotionEffects:
+  - DAMAGE_RESISTANCE
+  Skills:
+  - damage{amount=5;ignorearmor=true} @PlayersInRadius{r=5}
+  - message{m="<mob.name><&co> &fSpider Pig... Spider pig..."} @PlayersInRadius{r=15}
+  - potion{type=GLOWING;duration=200} @Self
+  - effect boss sound random.break 1:1 >0 1
+  - effect boss sound random.fizz:2:1 >0 1
+  - effect boss particles crit:1:1:250:0.1 >0 1
+  - effect target particles largesmoke:1:1:50:0.01 >0 1
+  - potionself INCREASE_DAMAGE:160:3 >0 1
+  - potionself SPEED:160:3 >0 1
+Taunts:
+  Skills:
+  - delay 50
+  - message{cooldown=50;m="<mob.name><&co> &cEes too bad you got manure for brains!"} @PlayersInRadius{r=15} ~onCombat >0 0.2 
+  - delay 50
+  - message{cooldown=100;m="<mob.name><&co> &cHa-ha-ha-ha! You gotta death-wish? Or you really this stupid!"} @PlayersInRadius{r=5} ~onCombat >0 0.2
+  - delay 100
+  - message{cooldown=150;m="<mob.name><&co> &cHere chicky-chicky! (Cluck-cluck-cluck!) Ha-ha-ha-ha-ha-ha!"} @PlayersInRadius{r=15} ~onCombat >0 0.2
+  - delay 150
+  - message{cooldown=200;m="<mob.name><&co> &cHot tamale Meester! Try dis one for size!"} @PlayersInRadius{r=15} ~onCombat >0 0.2
+  - delay 200
+  - message{cooldown=250;m="<mob.name><&co> &cNo one corners me! Specially, a low-down, scum suckin', reject, misfit like you!"} @PlayersInRadius{r=1} ~onCombat >0 0.2
+  - delay 250
+  - message{cooldown=300;m="<mob.name><&co> &cI ain't scared of you! Not one bit! No sir!!"} @PlayersInRadius{r=7} ~onCombat >0 0.2
+  - delay 300 
+  - message{cooldown=350;m="<mob.name><&co> &cAny last requests! A dyin' man always has last requests! ...And you just been tried, sentenced and condemned!"} @PlayersInRadius{r=10} ~onCombat >0 0.2
+  - delay 350 
+  - message{cooldown=400;m="<mob.name><&co> &cCan't you do better than that! I've seen worms move faster."} @PlayersInRadius{r=10} ~onCombat >0 0.2
+  - delay 400 
+  - message{cooldown=450;m="<mob.name><&co> &cThis's it friend! Prepare to meet yer maker!"} @PlayersInRadius{r=5} ~onCombat >0 0.2
+  - delay 450
+  - message{cooldown=500;m="<mob.name><&co> &cLife is sweet, but death is sweeter!"} @PlayersInRadius{r=3} ~onCombat >0 0.2
+  - delay 500
+  - message{cooldown=550;m="<mob.name><&co> &cYou're gonna have to do better than that, powder-monkey!"} @PlayersInRadius{r=10} ~onCombat >0 0.2
+  - delay 550
+  - message{cooldown=600;m="<mob.name><&co> &cDon't be a fool, you're not going to win this fight!"} @PlayersInRadius{r=5} ~onCombat >0 0.2
+  - delay 600
+SmashAttack:
+  Cooldown: 8
+  Conditions:
+  - targetwithin 25
+  Skills:
+  - message{cooldown=30;m="<mob.name><&co> Hahahah! I will crush you, fool!"} @PlayersInRadius{r=5}
+  - teleport @target
+  - effect:sound{s=mob.endermen.portal;volume=1.0;pitch=0.5}
+  - delay 10
+  - damage{amount=5;ignorearmor=true} @PlayersInRadius{r=5}
+  - throw{velocity=10;velocityY=5} @PlayersInRadius{r=5}
+  - effect:explosion @Self
+villager_bandit_smash:
+  Cooldown: 7
+  Conditions:
+  - targetwithin 25
+  Skills:
+  - effect:sound{s=mob.endermen.portal;volume=1.0;pitch=0.5}
+  - delay 10
+  - damage{amount=5;ignorearmor=true} @PlayersInRadius{r=5}
+  - throw{velocity=10;velocityY=5} @PlayersInRadius{r=5}
+  - effect:explosion @Self
+PigSmash:
+  Cooldown: 7
+  Conditions:
+  - targetwithin 25
+  Skills:
+  - effect:sound{s=mob.endermen.portal;volume=1.0;pitch=0.5}
+  - delay 10
+  - damage{amount=5;ignorearmor=true} @PlayersInRadius{r=5}
+  - throw{velocity=10;velocityY=5} @PlayersInRadius{r=5}
+  - effect:explosion @Self
+SummonSkeletons:
+  Options:
+    PreventOtherDrops: true
+  Cooldown: 25
+  Skills:
+  - message{m="<mob.name><&co> &5&lArise, my minions!"} @PlayersInRadius{r=40}
+  - delay 20
+  - summon{mob=SkeletalMinion;amount=2;noise=5} @Self
+  - delay 40
+  - summon{mob=SkeletalMinion;amount=1;noise=5} @Self
+  - delay 50
+  - summon{mob=SkeletalMinion;amount=1;noise=5} @Self
+SkeletonWarriors:
+  Display: '&2Skeletal Warriors'
+  Cooldown: 45
+  Options:
+    PreventOtherDrops: true
+  Skills:
+  - message{m="<mob.name><&co> &5&lHelp me brothers!"} @PlayersInRadius{r=40}
+  - delay 20
+  - summon{mob=WitherSkeleton_Warriors;amount=2;noise=5} @Self
+  - delay 45
+  - summon{mob=WitherSkeleton_Warriors;amount=2;noise=5} @Self
+  - delay 80
+  - summon{mob=WitherSkeleton_Warriors;amount=1;noise=5} @Self
+  - delay 95
+  - summon{mob=WitherSkeleton_Warriors;amount=1;noise=5} @Self
+SummonEndermites:
+  Options:
+    PreventOtherDrops: true
+  Cooldown: 60
+  Drops:
+  - money 25
+  Skills:
+  - message{m="<mob.name><&co> &5&lRise my pretties!"} @PlayersInRadius{r=40}
+  - delay 20
+  - summon{mob=endermite;amount=1;noise=5} @Self
+  - delay 40
+  - summon{mob=endermite;amount=1;noise=5} @Self
+  - delay 40
+  - summon{mob=endermite;amount=2;noise=5} @Self
+AngrySludgePoison:
+  Cooldown: 10
+  Skills:
+  - potion{type=POISON;lvl=2;duration=100} @PlayersInRadius{r=15}
+  - effect:particles{p=happyVillager;amount=1000;hSpread=15;ySpread=1;speed=0;yOFfset=0.5} @Self
+SlimeServant:
+  Cooldown: 15
+  Skills:
+  - message{m="<mob.name><&co> Rise! And kill them!"} @PlayersInRadius{r=40}
+  - delay 20
+  - summon{mob=SlimeServant;amount=1;noise=5} @Self
+  - delay 20
+  - summon{mob=SlimeServant;amount=1;noise=5} @Self
+  - delay 20
+  - summon{mob=SlimeServant;amount=1;noise=5} @Self
+PigmanBoss_Babies:
+  Cooldown: 15
+  Skills:
+  - message{m="<mob.name><&co> I'll tear you a new one!"} @PlayersInRadius{r=40}
+  - delay 20
+  - summon{mob=PigmanBoss_Babies;amount=1;noise=5} @Self
+  - delay 25
+  - summon{mob=PigmanBoss_Babies;amount=2;noise=5} @Self
+  - delay 30
+  - message{m="<mob.name><&co> Gimme your best!"} @PlayersInRadius{r=40}
+  - summon{mob=PigmanBoss_Babies;amount=3;noise=5} @Self
+Wither_Reinforcements:
+  Cooldown: 15
+  Skills:
+  - delay 20
+  - summon{mob=Wither_Reinforcements;amount=2;noise=5} @Self
+  - delay 25
+  - summon{mob=Wither_Reinforcements;amount=2;noise=5} @Self
+  - summon{mob=Wither_Reinforcements;amount=3;noise=5} @Self
+ZombieMinions:
+  Cooldown: 45
+  Drops:
+  - money 200
+  Skills:
+  - message{m="<mob.name><&co> &5Help me brothers!"} @PlayersInRadius{r=40}
+  - delay 20
+  - summon{mob=ZombieMinions;amount=1;noise=5} @Self
+  - delay 20
+  - summon{mob=ZombieMinions;amount=2;noise=5} @Self
+  - delay 20
+  - summon{mob=ZombieMinions;amount=3;noise=5} @Self
+PigZombieMinions:
+  Cooldown: 45
+  Drops:
+  - money 200
+  Skills:
+  - message{m="<mob.name><&co> &5You asked for it!"} @PlayersInRadius{r=40}
+  - delay 20
+  - summon{mob=PigZombieMinions;amount=1;noise=5} @Self
+  - delay 20
+  - summon{mob=PigZombieMinions;amount=2;noise=5} @Self
+  - delay 20
+  - summon{mob=PigZombieMinions;amount=3;noise=5} @Self
+ZombieReinforcements:
+  Cooldown: 45
+  Drops:
+  - money 200
+  Skills:
+  - message{m="<mob.name><&co> &5You asked for it!"} @PlayersInRadius{r=40}
+  - delay 20
+  - summon{mob=ZombieReinforcements;amount=1;noise=5} @Self
+  - delay 20
+  - summon{mob=ZombieReinforcements;amount=2;noise=5} @Self
+  - delay 20
+  - summon{mob=ZombieReinforcements;amount=3;noise=5} @Self

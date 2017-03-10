@@ -1,0 +1,33 @@
+lastAccountName: MaxedOutGamer
+timestamps:
+  login: 1471483115875
+  lastteleport: 1470251916914
+  kits:
+    citizen: 1469056789476
+  logout: 1471483141866
+ipAddress: 74.101.255.241
+geolocation: Rosedale, New York, United States
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+money: '2500'
+logoutlocation:
+  world: world
+  x: 479.59967907479955
+  y: 89.0
+  z: -193.29077213277574
+  yaw: 2.1999512
+  pitch: 3.899981
+homes:
+  home:
+    world: world
+    x: 413.8943319522566
+    y: 63.0
+    z: 550.3632376071422
+    yaw: 270.54858
+    pitch: 6.7499824
+afk: false

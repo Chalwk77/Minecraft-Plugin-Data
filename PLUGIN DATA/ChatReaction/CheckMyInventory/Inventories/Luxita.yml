@@ -1,0 +1,1251 @@
+Inventories:
+  '25':
+    Time: 1458455350503
+    Exp: 84
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.40000057
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3795.173323990308
+      y: 93.0
+      z: 11183.775602501535
+      pitch: 19.349941
+      yaw: 285.44742
+    Items:
+      '5':
+        type: COOKED_CHICKEN
+        amount: 59
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '7':
+        type: DIAMOND_AXE
+        damage: 131
+      '8':
+        type: DIAMOND_SPADE
+        damage: 275
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '9':
+        type: BUCKET
+        amount: 15
+      '10':
+        type: WATER_BUCKET
+      '12':
+        type: QUARTZ_BLOCK
+        damage: 2
+        amount: 24
+      '13':
+        type: SEA_LANTERN
+        amount: 31
+      '14':
+        type: CAULDRON_ITEM
+        amount: 33
+      '15':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '16':
+        type: WATER_BUCKET
+      '17':
+        type: WATER_BUCKET
+      '22':
+        type: WATER_BUCKET
+      '23':
+        type: WATER_BUCKET
+      '24':
+        type: WATER_BUCKET
+      '25':
+        type: WATER_BUCKET
+      '26':
+        type: WATER_BUCKET
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: WATER_BUCKET
+      '34':
+        type: WATER_BUCKET
+      '35':
+        type: WATER_BUCKET
+  '26':
+    Time: 1459465459883
+    Exp: 84
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.40000057
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3795.173323990308
+      y: 93.0
+      z: 11183.775602501535
+      pitch: 19.349941
+      yaw: 285.44742
+    Items:
+      '5':
+        type: COOKED_CHICKEN
+        amount: 59
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '7':
+        type: DIAMOND_AXE
+        damage: 131
+      '8':
+        type: DIAMOND_SPADE
+        damage: 275
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '9':
+        type: BUCKET
+        amount: 15
+      '10':
+        type: WATER_BUCKET
+      '12':
+        type: QUARTZ_BLOCK
+        damage: 2
+        amount: 24
+      '13':
+        type: SEA_LANTERN
+        amount: 31
+      '14':
+        type: CAULDRON_ITEM
+        amount: 33
+      '15':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '16':
+        type: WATER_BUCKET
+      '17':
+        type: WATER_BUCKET
+      '22':
+        type: WATER_BUCKET
+      '23':
+        type: WATER_BUCKET
+      '24':
+        type: WATER_BUCKET
+      '25':
+        type: WATER_BUCKET
+      '26':
+        type: WATER_BUCKET
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: WATER_BUCKET
+      '34':
+        type: WATER_BUCKET
+      '35':
+        type: WATER_BUCKET
+      '36':
+        type: LEATHER_BOOTS
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Boots
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+      '39':
+        type: LEATHER_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Helmet
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+  '27':
+    Time: 1459469869110
+    Exp: 84
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.40000057
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3795.173323990308
+      y: 93.0
+      z: 11183.775602501535
+      pitch: 19.349941
+      yaw: 285.44742
+    Items:
+      '5':
+        type: COOKED_CHICKEN
+        amount: 59
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '7':
+        type: DIAMOND_AXE
+        damage: 131
+      '8':
+        type: DIAMOND_SPADE
+        damage: 275
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '9':
+        type: BUCKET
+        amount: 15
+      '10':
+        type: WATER_BUCKET
+      '12':
+        type: QUARTZ_BLOCK
+        damage: 2
+        amount: 24
+      '13':
+        type: SEA_LANTERN
+        amount: 31
+      '14':
+        type: CAULDRON_ITEM
+        amount: 33
+      '15':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '16':
+        type: WATER_BUCKET
+      '17':
+        type: WATER_BUCKET
+      '22':
+        type: WATER_BUCKET
+      '23':
+        type: WATER_BUCKET
+      '24':
+        type: WATER_BUCKET
+      '25':
+        type: WATER_BUCKET
+      '26':
+        type: WATER_BUCKET
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: WATER_BUCKET
+      '34':
+        type: WATER_BUCKET
+      '35':
+        type: WATER_BUCKET
+      '36':
+        type: LEATHER_BOOTS
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Boots
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+      '39':
+        type: LEATHER_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Helmet
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+  '28':
+    Time: 1459659257981
+    Exp: 84
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.40000057
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3795.173323990308
+      y: 93.0
+      z: 11183.775602501535
+      pitch: 19.349941
+      yaw: 285.44742
+    Items:
+      '5':
+        type: COOKED_CHICKEN
+        amount: 59
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '7':
+        type: DIAMOND_AXE
+        damage: 131
+      '8':
+        type: DIAMOND_SPADE
+        damage: 275
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '9':
+        type: BUCKET
+        amount: 15
+      '10':
+        type: WATER_BUCKET
+      '12':
+        type: QUARTZ_BLOCK
+        damage: 2
+        amount: 24
+      '13':
+        type: SEA_LANTERN
+        amount: 31
+      '14':
+        type: CAULDRON_ITEM
+        amount: 33
+      '15':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '16':
+        type: WATER_BUCKET
+      '17':
+        type: WATER_BUCKET
+      '22':
+        type: WATER_BUCKET
+      '23':
+        type: WATER_BUCKET
+      '24':
+        type: WATER_BUCKET
+      '25':
+        type: WATER_BUCKET
+      '26':
+        type: WATER_BUCKET
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: WATER_BUCKET
+      '34':
+        type: WATER_BUCKET
+      '35':
+        type: WATER_BUCKET
+      '36':
+        type: LEATHER_BOOTS
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Boots
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+      '39':
+        type: LEATHER_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Helmet
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+  '29':
+    Time: 1459766730947
+    Exp: 84
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.40000057
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3795.173323990308
+      y: 93.0
+      z: 11183.775602501535
+      pitch: 19.349941
+      yaw: 285.44742
+    Items:
+      '5':
+        type: COOKED_CHICKEN
+        amount: 59
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '7':
+        type: DIAMOND_AXE
+        damage: 131
+      '8':
+        type: DIAMOND_SPADE
+        damage: 275
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '9':
+        type: BUCKET
+        amount: 15
+      '10':
+        type: WATER_BUCKET
+      '12':
+        type: QUARTZ_BLOCK
+        damage: 2
+        amount: 24
+      '13':
+        type: SEA_LANTERN
+        amount: 31
+      '14':
+        type: CAULDRON_ITEM
+        amount: 33
+      '15':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '16':
+        type: WATER_BUCKET
+      '17':
+        type: WATER_BUCKET
+      '22':
+        type: WATER_BUCKET
+      '23':
+        type: WATER_BUCKET
+      '24':
+        type: WATER_BUCKET
+      '25':
+        type: WATER_BUCKET
+      '26':
+        type: WATER_BUCKET
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: WATER_BUCKET
+      '34':
+        type: WATER_BUCKET
+      '35':
+        type: WATER_BUCKET
+      '36':
+        type: LEATHER_BOOTS
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Boots
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+      '39':
+        type: LEATHER_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Helmet
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+  '30':
+    Time: 1459847482584
+    Exp: 84
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.40000057
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3795.173323990308
+      y: 93.0
+      z: 11183.775602501535
+      pitch: 19.349941
+      yaw: 285.44742
+    Items:
+      '5':
+        type: COOKED_CHICKEN
+        amount: 59
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '7':
+        type: DIAMOND_AXE
+        damage: 131
+      '8':
+        type: DIAMOND_SPADE
+        damage: 275
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '9':
+        type: BUCKET
+        amount: 15
+      '10':
+        type: WATER_BUCKET
+      '12':
+        type: QUARTZ_BLOCK
+        damage: 2
+        amount: 24
+      '13':
+        type: SEA_LANTERN
+        amount: 31
+      '14':
+        type: CAULDRON_ITEM
+        amount: 33
+      '15':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '16':
+        type: WATER_BUCKET
+      '17':
+        type: WATER_BUCKET
+      '22':
+        type: WATER_BUCKET
+      '23':
+        type: WATER_BUCKET
+      '24':
+        type: WATER_BUCKET
+      '25':
+        type: WATER_BUCKET
+      '26':
+        type: WATER_BUCKET
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: WATER_BUCKET
+      '34':
+        type: WATER_BUCKET
+      '35':
+        type: WATER_BUCKET
+      '36':
+        type: LEATHER_BOOTS
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Boots
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+      '39':
+        type: LEATHER_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Helmet
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+  '31':
+    Time: 1460146819258
+    Exp: 84
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.40000057
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3795.173323990308
+      y: 93.0
+      z: 11183.775602501535
+      pitch: 19.349941
+      yaw: 285.44742
+    Items:
+      '5':
+        type: COOKED_CHICKEN
+        amount: 59
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '7':
+        type: DIAMOND_AXE
+        damage: 131
+      '8':
+        type: DIAMOND_SPADE
+        damage: 275
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '9':
+        type: BUCKET
+        amount: 15
+      '10':
+        type: WATER_BUCKET
+      '12':
+        type: QUARTZ_BLOCK
+        damage: 2
+        amount: 24
+      '13':
+        type: SEA_LANTERN
+        amount: 31
+      '14':
+        type: CAULDRON_ITEM
+        amount: 33
+      '15':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '16':
+        type: WATER_BUCKET
+      '17':
+        type: WATER_BUCKET
+      '22':
+        type: WATER_BUCKET
+      '23':
+        type: WATER_BUCKET
+      '24':
+        type: WATER_BUCKET
+      '25':
+        type: WATER_BUCKET
+      '26':
+        type: WATER_BUCKET
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: WATER_BUCKET
+      '34':
+        type: WATER_BUCKET
+      '35':
+        type: WATER_BUCKET
+      '36':
+        type: LEATHER_BOOTS
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Boots
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+      '39':
+        type: LEATHER_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Helmet
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+  '32':
+    Time: 1460883165681
+    Exp: 84
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.40000057
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3795.173323990308
+      y: 93.0
+      z: 11183.775602501535
+      pitch: 19.349941
+      yaw: 285.44742
+    Items:
+      '5':
+        type: COOKED_CHICKEN
+        amount: 59
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '7':
+        type: DIAMOND_AXE
+        damage: 131
+      '8':
+        type: DIAMOND_SPADE
+        damage: 275
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '9':
+        type: BUCKET
+        amount: 15
+      '10':
+        type: WATER_BUCKET
+      '12':
+        type: QUARTZ_BLOCK
+        damage: 2
+        amount: 24
+      '13':
+        type: SEA_LANTERN
+        amount: 31
+      '14':
+        type: CAULDRON_ITEM
+        amount: 33
+      '15':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '16':
+        type: WATER_BUCKET
+      '17':
+        type: WATER_BUCKET
+      '22':
+        type: WATER_BUCKET
+      '23':
+        type: WATER_BUCKET
+      '24':
+        type: WATER_BUCKET
+      '25':
+        type: WATER_BUCKET
+      '26':
+        type: WATER_BUCKET
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: WATER_BUCKET
+      '34':
+        type: WATER_BUCKET
+      '35':
+        type: WATER_BUCKET
+      '36':
+        type: LEATHER_BOOTS
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Boots
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+      '39':
+        type: LEATHER_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Helmet
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+  '33':
+    Time: 1462120690352
+    Exp: 84
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.40000057
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3795.173323990308
+      y: 93.0
+      z: 11183.775602501535
+      pitch: 19.349941
+      yaw: 285.44742
+    Items:
+      '5':
+        type: COOKED_CHICKEN
+        amount: 59
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '7':
+        type: DIAMOND_AXE
+        damage: 131
+      '8':
+        type: DIAMOND_SPADE
+        damage: 275
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '9':
+        type: BUCKET
+        amount: 15
+      '10':
+        type: WATER_BUCKET
+      '12':
+        type: QUARTZ_BLOCK
+        damage: 2
+        amount: 24
+      '13':
+        type: SEA_LANTERN
+        amount: 31
+      '14':
+        type: CAULDRON_ITEM
+        amount: 33
+      '15':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '16':
+        type: WATER_BUCKET
+      '17':
+        type: WATER_BUCKET
+      '22':
+        type: WATER_BUCKET
+      '23':
+        type: WATER_BUCKET
+      '24':
+        type: WATER_BUCKET
+      '25':
+        type: WATER_BUCKET
+      '26':
+        type: WATER_BUCKET
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: WATER_BUCKET
+      '34':
+        type: WATER_BUCKET
+      '35':
+        type: WATER_BUCKET
+      '36':
+        type: LEATHER_BOOTS
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Boots
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+      '39':
+        type: LEATHER_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Helmet
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+  '34':
+    Time: 1462483213185
+    Exp: 84
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.40000057
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3795.173323990308
+      y: 93.0
+      z: 11183.775602501535
+      pitch: 19.349941
+      yaw: 285.44742
+    Items:
+      '5':
+        type: COOKED_CHICKEN
+        amount: 59
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '7':
+        type: DIAMOND_AXE
+        damage: 131
+      '8':
+        type: DIAMOND_SPADE
+        damage: 275
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '9':
+        type: BUCKET
+        amount: 15
+      '10':
+        type: WATER_BUCKET
+      '12':
+        type: QUARTZ_BLOCK
+        damage: 2
+        amount: 24
+      '13':
+        type: SEA_LANTERN
+        amount: 31
+      '14':
+        type: CAULDRON_ITEM
+        amount: 33
+      '15':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '16':
+        type: WATER_BUCKET
+      '17':
+        type: WATER_BUCKET
+      '22':
+        type: WATER_BUCKET
+      '23':
+        type: WATER_BUCKET
+      '24':
+        type: WATER_BUCKET
+      '25':
+        type: WATER_BUCKET
+      '26':
+        type: WATER_BUCKET
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: WATER_BUCKET
+      '34':
+        type: WATER_BUCKET
+      '35':
+        type: WATER_BUCKET
+      '36':
+        type: LEATHER_BOOTS
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Boots
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128
+      '39':
+        type: LEATHER_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §2Cactus Helmet
+          enchants:
+            DURABILITY: 5
+            THORNS: 3
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 128

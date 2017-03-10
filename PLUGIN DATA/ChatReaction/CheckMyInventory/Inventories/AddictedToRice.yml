@@ -1,0 +1,588 @@
+Inventories:
+  '1':
+    Time: 1462186131879
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 183.8642332409632
+      y: 62.29480962132085
+      z: 1718.7130303467538
+      pitch: -1.6500624
+      yaw: 106.596436
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '2':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '4':
+        type: DIAMOND_SWORD
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '8':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+  '2':
+    Time: 1462191132488
+    Exp: 174
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -727.3634411922467
+      y: 60.304213417929745
+      z: -1748.7798734924418
+      pitch: 11.4000435
+      yaw: -116.55261
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '2':
+        type: COOKED_CHICKEN
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: BOW
+        damage: 323
+      '4':
+        type: DIAMOND_SWORD
+        damage: 99
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 93
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 66
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '9':
+        type: LEATHER
+        amount: 6
+      '10':
+        type: RAW_BEEF
+        amount: 5
+      '11':
+        type: LOG
+        damage: 2
+        amount: 30
+      '12':
+        type: SULPHUR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lead Dust
+      '13':
+        type: LOG
+        amount: 6
+      '14':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Magnesium
+      '15':
+        type: INK_SACK
+        amount: 5
+      '16':
+        type: GRILLED_PORK
+        amount: 4
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Orange Pie
+          lore:
+          - ''
+          - §7§oRestores §b§o6.5 §7§oHunger
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4k/CvKwcOmUSEWhjqU3kqpKV2rBsEIn2ofcR53fHnvmQAmvG1/OqW+mvOxVtyA56iC9+PEtYNxySxUur7lVza1KHWZRX2GQmcSosApTTAf04U3bc2vIzBafm+7hl9NAHgy4DWnquPwy/vYJgdhV4dYsT4KHrzb2iqN5GUcnfK+nEVBpB9+9RGs+/Bfi1q6R6rwYkFOWVfq3F57G8VXG4fp7xsesnu6xG4hPwWWShfDQpMdQ3iP/XTHvGSZ+VgKTWQxkHks0j0RicY+HrCH3VxjdyGSeVUTmahCMhSdnPCYTacABrwkVHMYzbazc8PXdQnwB5vMQUMqAQAA
+          skull-owner: CSCoreLib
+      '18':
+        type: INK_SACK
+        damage: 3
+        amount: 9
+      '19':
+        type: LOG
+        damage: 3
+        amount: 15
+      '20':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Zinc Dust
+      '21':
+        type: WOOL
+        amount: 2
+      '22':
+        type: STONE
+        damage: 5
+        amount: 4
+      '23':
+        type: MUTTON
+        amount: 3
+      '24':
+        type: PORK
+        amount: 5
+      '25':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rPig Head
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJgqzx0EODbV0iHxVR3L0tsIafXTUIBvpUfcR67HEyMyaACS/bplfquz0fKyUNeKQFvBZFLnIhhUUIOVozj8wt4c4ySwo5zV1HFg6xTTDv00W2XSWvEzA6OXR9K68mADwY8LwXqpfwK8fA5ofSLg6BykdK7pxsbRXR+jKnp/2Y+ZRQfferd7IeF/9arxOpp5gblPy06TO9t9durOQqnuZ6d8OaDlizGU+ZyxzqRmncRGk4hhpV6GwGXqPGL6xQ70ZMdl60bH5YzRtexyUumYfJh80T5qATDqg/S/SDxfFgvwEY8IRCS5j4W//cynWVAfwB7qosRCoBAAA=
+          skull-owner: CSCoreLib
+      '26':
+        type: COAL
+        amount: 26
+      '27':
+        type: SUGAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Aluminum Dust
+      '28':
+        type: ARROW
+        amount: 19
+      '29':
+        type: BONE
+        amount: 4
+      '30':
+        type: COBBLESTONE
+        amount: 27
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rCow Head
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkQB51aaTqEBnrA3DYAV4rMKMGoQJf1U8syy5PzjkqgApvu7IR4qu6nnKBCjzTI7yTlKT6h51ojm2gZp7MiZY4lq2hYVmOSVAnZqaCOkw3rOoc7yNQamzrpsK7CgBPCryGiWgQfrHzSHw4k+PBE1lH7YH3OyLWtLg59BJ26YzaVA5+ObVX3eRfa9VJZAk+9s7xZdOkMiSr8VbgcqtnMvhh0cbgfSzixafFXE8yg+txkbW891tWzAvW+w8mOeFRWPr9dBy7393aLYdGlL6kD2bMc+YGHdtn7XoRlrwP8tNBnwAo8MISiTCa7WbXCld5CvAH4UJI9ioBAAA=
+          skull-owner: CSCoreLib
+      '32':
+        type: MELON
+        amount: 5
+      '33':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '34':
+        type: GLOWSTONE_DUST
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Dust
+      '35':
+        type: ELYTRA
+        damage: 250
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 172
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 146
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 136
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JbkIg/LogujKQ5xsCCgzA5kDI8ZNQgN+FX9xLLs8uScowKo8LZveiG+2+u5ElyBZ1LAu45o2rppagY6qJnFydE+OFpabji2kxeLDDNDBXWabrztKn6fgdLxoetbflcB4EmB1yQTPYdfPnrIjiUWR0+cRmJPHO1R7Eh9W5BLMuYrYhM5+c3S3o7Ov9bqsoMlUsMr2SXoc5ng1ggF34T6ScY/NIoH36VmWgdzGhH0518VjQrJIjqnayZ8GY+sDhv6SB/M9ev0EFvsEOipTBq2Xg5UEtxFZTN9YucmFR0953zETwAFXvxMcpit9qtry7dVDvAHcA8phyoBAAA=
+          skull-owner: CSCoreLib
+  '3':
+    Time: 1462483216135
+    Exp: 0
+    Health: 15.684450149536133
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3888.9239178464727
+      y: 88.0
+      z: -1149.6214881586536
+      pitch: -44.84986
+      yaw: 11.106476
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COBBLESTONE
+        amount: 12
+      '2':
+        type: COOKED_CHICKEN
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: BOW
+        damage: 327
+      '4':
+        type: DIAMOND_SWORD
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 96
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 66
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: DIAMOND_SPADE
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '9':
+        type: LEATHER
+        amount: 6
+      '10':
+        type: RAW_BEEF
+        amount: 5
+      '11':
+        type: LOG
+        damage: 2
+        amount: 30
+      '12':
+        type: SULPHUR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lead Dust
+      '13':
+        type: LOG
+        amount: 6
+      '14':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Magnesium
+      '15':
+        type: INK_SACK
+        amount: 5
+      '16':
+        type: GRILLED_PORK
+        amount: 4
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Orange Pie
+          lore:
+          - ''
+          - §7§oRestores §b§o6.5 §7§oHunger
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4k/CvKwcOmUSEWhjqU3kqpKV2rBsEIn2ofcR53fHnvmQAmvG1/OqW+mvOxVtyA56iC9+PEtYNxySxUur7lVza1KHWZRX2GQmcSosApTTAf04U3bc2vIzBafm+7hl9NAHgy4DWnquPwy/vYJgdhV4dYsT4KHrzb2iqN5GUcnfK+nEVBpB9+9RGs+/Bfi1q6R6rwYkFOWVfq3F57G8VXG4fp7xsesnu6xG4hPwWWShfDQpMdQ3iP/XTHvGSZ+VgKTWQxkHks0j0RicY+HrCH3VxjdyGSeVUTmahCMhSdnPCYTacABrwkVHMYzbazc8PXdQnwB5vMQUMqAQAA
+          skull-owner: CSCoreLib
+      '18':
+        type: INK_SACK
+        damage: 3
+        amount: 9
+      '19':
+        type: LOG
+        damage: 3
+        amount: 15
+      '20':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Zinc Dust
+      '21':
+        type: WOOL
+        amount: 2
+      '22':
+        type: STONE
+        damage: 5
+        amount: 4
+      '23':
+        type: MUTTON
+        amount: 3
+      '24':
+        type: PORK
+        amount: 5
+      '25':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rPig Head
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJgqzx0EODbV0iHxVR3L0tsIafXTUIBvpUfcR67HEyMyaACS/bplfquz0fKyUNeKQFvBZFLnIhhUUIOVozj8wt4c4ySwo5zV1HFg6xTTDv00W2XSWvEzA6OXR9K68mADwY8LwXqpfwK8fA5ofSLg6BykdK7pxsbRXR+jKnp/2Y+ZRQfferd7IeF/9arxOpp5gblPy06TO9t9durOQqnuZ6d8OaDlizGU+ZyxzqRmncRGk4hhpV6GwGXqPGL6xQ70ZMdl60bH5YzRtexyUumYfJh80T5qATDqg/S/SDxfFgvwEY8IRCS5j4W//cynWVAfwB7qosRCoBAAA=
+          skull-owner: CSCoreLib
+      '26':
+        type: COAL
+        amount: 26
+      '27':
+        type: SUGAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Aluminum Dust
+      '28':
+        type: ARROW
+        amount: 16
+      '29':
+        type: BONE
+        amount: 4
+      '30':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rCow Head
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkQB51aaTqEBnrA3DYAV4rMKMGoQJf1U8syy5PzjkqgApvu7IR4qu6nnKBCjzTI7yTlKT6h51ojm2gZp7MiZY4lq2hYVmOSVAnZqaCOkw3rOoc7yNQamzrpsK7CgBPCryGiWgQfrHzSHw4k+PBE1lH7YH3OyLWtLg59BJ26YzaVA5+ObVX3eRfa9VJZAk+9s7xZdOkMiSr8VbgcqtnMvhh0cbgfSzixafFXE8yg+txkbW891tWzAvW+w8mOeFRWPr9dBy7393aLYdGlL6kD2bMc+YGHdtn7XoRlrwP8tNBnwAo8MISiTCa7WbXCld5CvAH4UJI9ioBAAA=
+          skull-owner: CSCoreLib
+      '32':
+        type: MELON
+        amount: 5
+      '33':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '34':
+        type: GLOWSTONE_DUST
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Dust
+      '35':
+        type: ELYTRA
+        damage: 250
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 255
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 247
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 219
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JbkIg/LogujKQ5xsCCgzA5kDI8ZNQgN+FX9xLLs8uScowKo8LZveiG+2+u5ElyBZ1LAu45o2rppagY6qJnFydE+OFpabji2kxeLDDNDBXWabrztKn6fgdLxoetbflcB4EmB1yQTPYdfPnrIjiUWR0+cRmJPHO1R7Eh9W5BLMuYrYhM5+c3S3o7Ov9bqsoMlUsMr2SXoc5ng1ggF34T6ScY/NIoH36VmWgdzGhH0518VjQrJIjqnayZ8GY+sDhv6SB/M9ev0EFvsEOipTBq2Xg5UEtxFZTN9YucmFR0953zETwAFXvxMcpit9qtry7dVDvAHcA8phyoBAAA=
+          skull-owner: CSCoreLib

@@ -1,0 +1,33 @@
+lastAccountName: Velipse
+timestamps:
+  login: 1470833942554
+  lastteleport: 1470834206154
+  kits:
+    tools: 1451892463526
+  logout: 1470834233652
+ipAddress: 122.148.36.161
+geolocation: Sydney, New South Wales, Australia
+lastlocation:
+  world: world
+  x: 3798.852761617665
+  y: 92.0
+  z: 11184.045526789727
+  yaw: -87.90004
+  pitch: 10.049972
+money: '2500'
+homes:
+  home:
+    world: world
+    x: 3798.852761617665
+    y: 93.0
+    z: 11184.045526789727
+    yaw: -87.90004
+    pitch: 10.049972
+logoutlocation:
+  world: world
+  x: 3790.710053134529
+  y: 93.0
+  z: 11186.13362550408
+  yaw: 106.69739
+  pitch: 9.743221
+afk: false

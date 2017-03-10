@@ -1,0 +1,91 @@
+########################################################
+#=====================================
+#  CommandLogger by Poweringg v2.2
+#=====================================
+#if you want colorize messages, you can use &a &9 &l etc..
+#Color formatting: http://minecraft.gamepedia.com/Formatting_codes
+#
+# LogSigns etc., ConsoleAnvils etc., Console logging, needs to restart a server.
+# 
+# More about plugin > https://www.spigotmc.org/resources/commandlogger.21164/
+#
+########################################################
+
+### messages ###
+Prefix: '&3[&6&lSPY&3] '
+PrefixSign: '&3[&6&lSIGN-SPY&3] '
+PrefixAnvil: '&3[&6&lANVIL-SPY&3] '
+PlayerUsedCommand: '&9%player%&f: &e%cmd%'
+PlayerPlaceSign: '&9%player%&f: &e%line1% &c&l¤ &e%line2% &c&l¤ &e%line3% &c&l¤ &e%line4%'
+PlayerUsedAnvil: '&c%player% &9renamed &c%item% &9to&f: &b%renamed%'
+DontHavePerm: '&cYou dont have the permission.'
+HelpCommands: '&7Commands: &a/pcl cmd'
+HelpCommandsLabel: '&2&lJeriCraft CommandSpy'
+HelpPcl: '&3/pcl &7- shows CommandSpy info'
+HelpCmd: '&3/pcl cmd &7- shows all CommandSpy commands'
+HelpVersion: '&3/pcl version &7- shows CommandSpy version'
+HelpReload: '&3/pcl reload &7- reloads the plugin'
+HelpAllow: '&3/pcl allow &7- enable/disable log messages in chat'
+ReloadPlugin: '&7Reload successful!'
+MessagesDisabled: '&7Logging is disabled!'
+MessagesEnabled: '&7Logging is enabled!'
+
+PrefixConsoleCmd: '[Console] '
+PrefixConsoleSign: '[SIGN SPY] '
+PrefixConsoleAnvil: '[ANVIL SPY] '
+ConsoleNoticeCmd: '%player%: %cmd%'
+ConsoleNoticeSigns: '[SIGN SPY] %player%: %line1% / %line2% / %line3% / %line4% '
+ConsoleNoticeAnvils: '[ANVIL SPY] %player% renamed %item% to: %renamed%'
+
+### commands which are not logged ###
+HiddenCommands:
+- /lag
+- /msg
+- /w
+- /r
+- /m
+- /t
+- /whisper
+- /emsg
+- /tell
+- /er
+- /reply
+- /ereply
+- /email
+- /action
+- /describe
+- /eme
+- /eaction
+- /edescribe
+- /etell
+- /ewhisper
+- /pm
+- /rcmd
+- /mycmd-reload all
+- /plm
+- /pex
+- /v
+- /vm
+- /vr
+- /vanish
+- /pv
+- /afp
+- /af playerchat
+- /schem
+- //schem
+- /troll
+- /whitelist
+- /announceconnected
+- /hc
+- /pgs
+
+
+### things which will be logged into chat ###
+LogCommands: true
+LogSigns: true
+LogAnvils: true
+
+### things which will be logged into console ###
+ConsoleCommands: false
+ConsoleAnvils: true
+ConsoleSigns: true

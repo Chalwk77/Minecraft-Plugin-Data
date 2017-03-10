@@ -1,0 +1,25 @@
+Name: LokiSnipzz
+TeleportLocation:
+  X: -20079.5
+  Pitch: 15.749955
+  Y: 67.9312500178814
+  Z: -4411.5
+  World: world
+  Yaw: -154.4033
+Charges:
+  Amount: 0
+  LastGot: 1480923335204
+LogOutLocation:
+  X: -20080.58951984767
+  Pitch: 15.299938
+  Y: 68.0
+  Z: -4400.855351638164
+  World: world
+  Yaw: -220.85321
+DeathLocation:
+  X: -20204.41639594892
+  Pitch: 3.3000603
+  Y: 64.0
+  Z: -4376.2188002759185
+  World: world
+  Yaw: -103.85518

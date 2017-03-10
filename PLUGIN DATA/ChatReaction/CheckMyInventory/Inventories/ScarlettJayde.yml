@@ -1,0 +1,1383 @@
+Inventories:
+  '25':
+    Time: 1458455359108
+    Exp: 6216
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -136487.5926840983
+      y: 64.0
+      z: 169381.80483893747
+      pitch: 14.999941
+      yaw: -179.23027
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DAMAGE_UNDEAD: 5
+            ARROW_KNOCKBACK: 5
+            SILK_TOUCH: 5
+            DURABILITY: 5
+            LOOT_BONUS_BLOCKS: 5
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: DIRT
+        amount: 36
+      '11':
+        type: GOLD_ORE
+        amount: 24
+      '13':
+        type: ROTTEN_FLESH
+        amount: 6
+      '14':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '15':
+        type: SPIDER_EYE
+      '16':
+        type: STONE
+        damage: 3
+        amount: 64
+      '17':
+        type: BOW
+        damage: 72
+      '22':
+        type: BOW
+        damage: 42
+      '25':
+        type: DIAMOND_AXE
+        damage: 402
+      '26':
+        type: ENDER_PEARL
+        amount: 16
+  '26':
+    Time: 1459465464494
+    Exp: 6216
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -136487.5926840983
+      y: 64.0
+      z: 169381.80483893747
+      pitch: 14.999941
+      yaw: -179.23027
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DAMAGE_UNDEAD: 5
+            ARROW_KNOCKBACK: 5
+            SILK_TOUCH: 5
+            DURABILITY: 5
+            LOOT_BONUS_BLOCKS: 5
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: DIRT
+        amount: 36
+      '11':
+        type: GOLD_ORE
+        amount: 24
+      '13':
+        type: ROTTEN_FLESH
+        amount: 6
+      '14':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '15':
+        type: SPIDER_EYE
+      '16':
+        type: STONE
+        damage: 3
+        amount: 64
+      '17':
+        type: BOW
+        damage: 72
+      '22':
+        type: BOW
+        damage: 42
+      '25':
+        type: DIAMOND_AXE
+        damage: 402
+      '26':
+        type: ENDER_PEARL
+        amount: 16
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 185
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '27':
+    Time: 1459469873020
+    Exp: 6216
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -136487.5926840983
+      y: 64.0
+      z: 169381.80483893747
+      pitch: 14.999941
+      yaw: -179.23027
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DAMAGE_UNDEAD: 5
+            ARROW_KNOCKBACK: 5
+            SILK_TOUCH: 5
+            DURABILITY: 5
+            LOOT_BONUS_BLOCKS: 5
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: DIRT
+        amount: 36
+      '11':
+        type: GOLD_ORE
+        amount: 24
+      '13':
+        type: ROTTEN_FLESH
+        amount: 6
+      '14':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '15':
+        type: SPIDER_EYE
+      '16':
+        type: STONE
+        damage: 3
+        amount: 64
+      '17':
+        type: BOW
+        damage: 72
+      '22':
+        type: BOW
+        damage: 42
+      '25':
+        type: DIAMOND_AXE
+        damage: 402
+      '26':
+        type: ENDER_PEARL
+        amount: 16
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 185
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '28':
+    Time: 1459659262594
+    Exp: 6216
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -136487.5926840983
+      y: 64.0
+      z: 169381.80483893747
+      pitch: 14.999941
+      yaw: -179.23027
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DAMAGE_UNDEAD: 5
+            ARROW_KNOCKBACK: 5
+            SILK_TOUCH: 5
+            DURABILITY: 5
+            LOOT_BONUS_BLOCKS: 5
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: DIRT
+        amount: 36
+      '11':
+        type: GOLD_ORE
+        amount: 24
+      '13':
+        type: ROTTEN_FLESH
+        amount: 6
+      '14':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '15':
+        type: SPIDER_EYE
+      '16':
+        type: STONE
+        damage: 3
+        amount: 64
+      '17':
+        type: BOW
+        damage: 72
+      '22':
+        type: BOW
+        damage: 42
+      '25':
+        type: DIAMOND_AXE
+        damage: 402
+      '26':
+        type: ENDER_PEARL
+        amount: 16
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 185
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '29':
+    Time: 1459766736581
+    Exp: 6216
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -136487.5926840983
+      y: 64.0
+      z: 169381.80483893747
+      pitch: 14.999941
+      yaw: -179.23027
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DAMAGE_UNDEAD: 5
+            ARROW_KNOCKBACK: 5
+            SILK_TOUCH: 5
+            DURABILITY: 5
+            LOOT_BONUS_BLOCKS: 5
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: DIRT
+        amount: 36
+      '11':
+        type: GOLD_ORE
+        amount: 24
+      '13':
+        type: ROTTEN_FLESH
+        amount: 6
+      '14':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '15':
+        type: SPIDER_EYE
+      '16':
+        type: STONE
+        damage: 3
+        amount: 64
+      '17':
+        type: BOW
+        damage: 72
+      '22':
+        type: BOW
+        damage: 42
+      '25':
+        type: DIAMOND_AXE
+        damage: 402
+      '26':
+        type: ENDER_PEARL
+        amount: 16
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 185
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '30':
+    Time: 1459847487523
+    Exp: 6216
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -136487.5926840983
+      y: 64.0
+      z: 169381.80483893747
+      pitch: 14.999941
+      yaw: -179.23027
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DAMAGE_UNDEAD: 5
+            ARROW_KNOCKBACK: 5
+            SILK_TOUCH: 5
+            DURABILITY: 5
+            LOOT_BONUS_BLOCKS: 5
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: DIRT
+        amount: 36
+      '11':
+        type: GOLD_ORE
+        amount: 24
+      '13':
+        type: ROTTEN_FLESH
+        amount: 6
+      '14':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '15':
+        type: SPIDER_EYE
+      '16':
+        type: STONE
+        damage: 3
+        amount: 64
+      '17':
+        type: BOW
+        damage: 72
+      '22':
+        type: BOW
+        damage: 42
+      '25':
+        type: DIAMOND_AXE
+        damage: 402
+      '26':
+        type: ENDER_PEARL
+        amount: 16
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 185
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '31':
+    Time: 1460146823168
+    Exp: 6216
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -136487.5926840983
+      y: 64.0
+      z: 169381.80483893747
+      pitch: 14.999941
+      yaw: -179.23027
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DAMAGE_UNDEAD: 5
+            ARROW_KNOCKBACK: 5
+            SILK_TOUCH: 5
+            DURABILITY: 5
+            LOOT_BONUS_BLOCKS: 5
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: DIRT
+        amount: 36
+      '11':
+        type: GOLD_ORE
+        amount: 24
+      '13':
+        type: ROTTEN_FLESH
+        amount: 6
+      '14':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '15':
+        type: SPIDER_EYE
+      '16':
+        type: STONE
+        damage: 3
+        amount: 64
+      '17':
+        type: BOW
+        damage: 72
+      '22':
+        type: BOW
+        damage: 42
+      '25':
+        type: DIAMOND_AXE
+        damage: 402
+      '26':
+        type: ENDER_PEARL
+        amount: 16
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 185
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '32':
+    Time: 1460883170152
+    Exp: 6216
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -136487.5926840983
+      y: 64.0
+      z: 169381.80483893747
+      pitch: 14.999941
+      yaw: -179.23027
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DAMAGE_UNDEAD: 5
+            ARROW_KNOCKBACK: 5
+            SILK_TOUCH: 5
+            DURABILITY: 5
+            LOOT_BONUS_BLOCKS: 5
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: DIRT
+        amount: 36
+      '11':
+        type: GOLD_ORE
+        amount: 24
+      '13':
+        type: ROTTEN_FLESH
+        amount: 6
+      '14':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '15':
+        type: SPIDER_EYE
+      '16':
+        type: STONE
+        damage: 3
+        amount: 64
+      '17':
+        type: BOW
+        damage: 72
+      '22':
+        type: BOW
+        damage: 42
+      '25':
+        type: DIAMOND_AXE
+        damage: 402
+      '26':
+        type: ENDER_PEARL
+        amount: 16
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 185
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '33':
+    Time: 1462120694905
+    Exp: 6216
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -136487.5926840983
+      y: 64.0
+      z: 169381.80483893747
+      pitch: 14.999941
+      yaw: -179.23027
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DAMAGE_UNDEAD: 5
+            ARROW_KNOCKBACK: 5
+            SILK_TOUCH: 5
+            DURABILITY: 5
+            LOOT_BONUS_BLOCKS: 5
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: DIRT
+        amount: 36
+      '11':
+        type: GOLD_ORE
+        amount: 24
+      '13':
+        type: ROTTEN_FLESH
+        amount: 6
+      '14':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '15':
+        type: SPIDER_EYE
+      '16':
+        type: STONE
+        damage: 3
+        amount: 64
+      '17':
+        type: BOW
+        damage: 72
+      '22':
+        type: BOW
+        damage: 42
+      '25':
+        type: DIAMOND_AXE
+        damage: 402
+      '26':
+        type: ENDER_PEARL
+        amount: 16
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 185
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '34':
+    Time: 1462483218473
+    Exp: 6216
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -136487.5926840983
+      y: 64.0
+      z: 169381.80483893747
+      pitch: 14.999941
+      yaw: -179.23027
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DAMAGE_UNDEAD: 5
+            ARROW_KNOCKBACK: 5
+            SILK_TOUCH: 5
+            DURABILITY: 5
+            LOOT_BONUS_BLOCKS: 5
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: DIRT
+        amount: 36
+      '11':
+        type: GOLD_ORE
+        amount: 24
+      '13':
+        type: ROTTEN_FLESH
+        amount: 6
+      '14':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '15':
+        type: SPIDER_EYE
+      '16':
+        type: STONE
+        damage: 3
+        amount: 64
+      '17':
+        type: BOW
+        damage: 72
+      '22':
+        type: BOW
+        damage: 42
+      '25':
+        type: DIAMOND_AXE
+        damage: 402
+      '26':
+        type: ENDER_PEARL
+        amount: 16
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 185
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

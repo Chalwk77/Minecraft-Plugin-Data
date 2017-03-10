@@ -1,0 +1,30 @@
+lastAccountName: H4L0
+timestamps:
+  login: 1470193740950
+  logout: 1470194087869
+  kits:
+    citizen: 1469245062822
+    color: 1469245055397
+    tools: 1469245067095
+    food: 1469270789851
+  lastteleport: 1469533082835
+  jail: 0
+ipAddress: 203.94.130.78
+geolocation: Fitzroy, Victoria, Australia
+lastlocation:
+  world: world
+  x: 475.33122877958596
+  y: 89.0
+  z: -187.9318207259547
+  yaw: 116.6498
+  pitch: 8.850029
+logoutlocation:
+  world: world
+  x: 681.5521194692242
+  y: 67.20000004768367
+  z: 199.90937938838024
+  yaw: 5.255249
+  pitch: 77.549965
+money: '2500'
+afk: false
+jailed: false

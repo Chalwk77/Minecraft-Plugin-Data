@@ -1,0 +1,950 @@
+# Created by Chalwk
+# Optimized for ideal balanced Economy, and use by JeriCraft, Survival/Economy Server
+worth:
+  banner:
+    '15': 0.25
+    '14': 0.25
+    '13': 0.25
+    '12': 0.25
+    '11': 0.25
+    '10': 0.4
+    '9': 0.25
+    '8': 0.25
+    '7': 0.25
+    '6': 0.25
+    '5': 0.25
+    '4': 0.25
+    '3': 0.25
+    '2': 0.25
+    '1': 0.25
+    '0': 0.25
+  blackbanner: 0.25
+  standingbanner: 0.25
+  wallbanner: 0.25
+  redbanner: 0.25
+  greenbanner: 0.25
+  brownbanner: 0.25
+  bluebanner: 0.25
+  purplebanner: 0.25
+  cyanbanner: 0.25
+  lgreybanner: 0.25
+  lightgreybanner: 0.25
+  greybanner: 0.25
+  pinkbanner: 0.25
+  limebanner: 0.25
+  yellowbanner: 0.25
+  lbluebanner: 0.25
+  lightbluebanner: 0.25
+  magentabanner: 0.25
+  orangebanner: 0.25
+  whitebanner: 0.25
+  obsidian:
+    '0': 1.15
+  redsandstone:
+    '0': 1.15
+    '1': 1.15
+    '2': 1.15
+    '3': 1.15
+  stone:
+    '0': 1.15
+    '1': 1.15
+    '2': 1.15
+    '3': 1.15
+    '4': 1.15
+    '5': 1.15
+    '6': 1.15
+  grass:
+    '0': 0.39
+  dirt:
+    '0': 0.78
+    '1': 0.78
+    '2': 0.78
+  cobblestone:
+    '0': 0.31
+  wood:
+    '0': 0.25
+    '1': 0.25
+    '2': 0.25
+    '3': 0.25
+    '4': 0.25
+    '5': 0.25
+  sand:
+    '0': 0.12
+    '1': 0.12
+  gravel:
+    '0': 0.78
+  gold_ore:
+    '0': 6.8
+  goldore:
+    '0': 6.8
+  ironore:
+    '0': 6.8
+  coalore:
+    '0': 6.8
+  log:
+    '0': 1.0
+    '1': 1.0
+    '2': 1.0
+    '3': 1.0
+    '4': 1.0
+    '5': 1.0
+  log2:
+    '0': 1.0
+    '1': 1.0
+  leaves:
+    '0': 2.6
+    '1': 2.6
+    '2': 2.6
+    '3': 2.6
+    '4': 2.6
+    '5': 2.6
+  glass:
+    '0': 1.5
+  lapisore:
+    '0': 0.5
+  lapisblock:
+    '0': 18
+  dispenser:
+    '0': 25
+  sandstone:
+    '0': 1.15
+    '1': 1.15
+    '2': 1.15
+  noteblock:
+    '0': 15
+  poweredrail:
+    '0': 1.5
+  detectorrail:
+    '0': 1.5
+  pistonstickybase:
+    '0': 2.5
+  web:
+    '0': 0.7
+  longgrass:
+    '1': 0.3
+    '2': 0.3
+  deadbush:
+    '0': 0.3
+  pistonbase:
+    '0': 5.0
+  wool:
+    '0': 1.5
+    '1': 1.5
+    '2': 1.5
+    '3': 1.5
+    '4': 1.5
+    '5': 1.5
+    '6': 1.5
+    '7': 1.5
+    '8': 1.5
+    '9': 1.5
+    '10': 1.5
+    '11': 1.5
+    '12': 1.5
+    '13': 1.5
+    '14': 1.5
+    '15': 1.5
+  yellowflower:
+    '0': 1.3
+  redrose:
+    '0': 1.3
+    '1': 1.3
+    '2': 1.3
+    '3': 1.3
+    '4': 1.3
+    '5': 1.3
+    '6': 1.3
+    '7': 1.3
+    '8': 1.3
+  brownmushroom:
+    '0': 15
+  redmushroom:
+    '0': 15
+  goldblock:
+    '0': 40.0
+  ironblock:
+    '0': 20.0
+  step:
+    '0': 2.5
+    '1': 2.5
+    '3': 2.5
+    '4': 2.5
+    '5': 2.5
+    '6': 2.5
+    '7': 2.5
+  brick:
+    '0': 1.5
+  tnt:
+    '0': 2.5
+  bookshelf:
+    '0': 2.5
+  mossycobblestone:
+    '0': 0.55
+  torch:
+    '0': 1.2
+  woodstairs:
+    '0': 0.375
+  chest:
+    '0': -1
+  diamondore:
+    '0': 1.5025
+  diamondblock:
+    '0': 50.0
+  workbench:
+    '0': 0.0
+  furnace:
+    '0': 0.0
+  ladder:
+    '0': 0.875
+  rails:
+    '0': 0.3125
+  cobblestonestairs:
+    '0': 0.375
+  lever:
+    '0': 1.6666666667
+  stoneplate:
+    '0': 10.05
+  woodplate:
+    '0': 0.5
+  redstoneore:
+    '0': 0.4375
+  redstonetorchon:
+    '0': 1.5
+  stonebutton:
+    '0': 0.33333333333
+  ice:
+    '0': 0.4
+  snowball:
+    '0': 10.0
+  cactus:
+    '0': 0.9
+  clayball:
+    '0': 0.5
+  jukebox:
+    '0': 10.0
+  fence:
+    '0': 0.4
+  pumpkin:
+    '0': 2.0
+  netherrack:
+    '0': 0.5
+  soulsand:
+    '0': 0.78
+  glowstone:
+    '0': 0.78
+  jackolantern:
+    '0': 24.74
+  stainedglass:
+    '0': 1.5
+    '1': 1.5
+    '2': 1.5
+    '3': 1.5
+    '4': 1.5
+    '5': 1.5
+    '6': 1.5
+    '7': 1.5
+    '8': 1.5
+    '9': 1.5
+    '10': 1.5
+    '11': 1.5
+    '12': 1.5
+    '13': 1.5
+    '14': 1.5
+    '15': 1.5
+  trapdoor:
+    '0': 0.75
+  smoothbrick:
+    '0': 0.78125
+    '1': 0.765625
+    '2': 1.151875
+    '3': 0.78125
+  hugemushroom1:
+    '0': 2.5
+  hugemushroom2:
+    '0': 2.5
+  ironfence:
+    '0': 0.3
+  thinglass:
+    '0': 1.5
+  melonblock:
+    '0': 2.5
+  vine:
+    '0': 0.25
+  fencegate:
+    '0': 1.0
+  brickstairs:
+    '0': 0.375
+  smoothstairs:
+    '0': 0.375
+  mycel:
+    '0': 1.151875
+  waterlily:
+    '0': 1.5
+  netherbrickitem:
+    '0': 10.93
+  netherfence:
+    '0': 2.5
+  netherbrickstairs:
+    '0': 0.375
+  enchantmenttable:
+    '0': 50.0
+  enderstone:
+    '0': 12.7
+  dragonegg:
+    '0': 50.0
+  redstonelampoff:
+    '0': 50.0
+  woodstep:
+    '0': 0.125
+    '1': 0.125
+    '2': 0.125
+    '3': 0.125
+    '4': 0.125
+    '5': 0.125
+  sandstonestairs:
+    '0': 0.375
+  emeraldore:
+    '0': 10
+  enderchest:
+    '0': 35.0
+  tripwirehook:
+    '0': 0.6
+  emeraldblock:
+    '0': 50.0
+  sprucewoodstairs:
+    '0': 0.375
+  birchwoodstairs:
+    '0': 0.375
+  junglewoodstairs:
+    '0': 0.375
+  beacon:
+    '0': 25
+  cobblewall:
+    '0': 1.82
+    '1': 1.82
+  woodbutton:
+    '0': 0.25
+  anvil:
+    '0': 10
+    '1': 5
+    '2': 3
+  trappedchest:
+    '0': 0.0
+  goldplate:
+    '0': 5
+  ironplate:
+    '0': 5
+  daylightdetector:
+    '0': 2.5
+  redstoneblock:
+    '0': 4.0
+  quartzore:
+    '0': 0.5
+  hopper:
+    '0': 3.5
+  quartzblock:
+    '0': 1.5
+    '1': 1.5
+    '2': 1.5
+  quartzstairs:
+    '0': 0.375
+  activatorrail:
+    '0': 0.3125
+  dropper:
+    '0': 3.5
+  stainedclay:
+    '0': 0.78
+    '1': 0.78
+    '2': 0.78
+    '3': 0.78
+    '4': 0.78
+    '5': 0.78
+    '6': 0.78
+    '7': 0.78
+    '8': 0.78
+    '9': 0.78
+    '10': 0.78
+    '11': 0.78
+    '12': 0.78
+    '13': 0.78
+    '14': 0.78
+    '15': 0.78
+  stainedglasspane:
+    '0': 2.22
+    '1': 2.06
+    '2': 2.33
+    '3': 2.38
+    '4': 2.03
+    '5': 2.81
+    '6': 2.19
+    '7': 2.38
+    '8': 2.35
+    '9': 2.87
+    '10': 2.25
+    '11': 2.3
+    '12': 2.54
+    '13': 2.93
+    '14': 2.03
+    '15': 2.3
+  acaciastairs:
+    '0': 0.375
+  darkoakstairs:
+    '0': 0.375
+  carpet:
+    '0': 1.2
+    '1': 1.2
+    '2': 1.2
+    '3': 1.2
+    '4': 1.2
+    '5': 1.2
+    '6': 1.2
+    '7': 1.2
+    '8': 1.2
+    '9': 1.2
+    '10': 1.2
+    '11': 1.2
+    '12': 1.2
+    '13': 1.2
+    '14': 1.2
+    '15': 1.2
+  hardclay:
+    '0': 0.078125
+  coalblock:
+    '0': 20
+  packedice:
+    '0': 4.68
+  doubleplant:
+    '0': 3.96
+    '1': 3.3
+    '2': 0.01
+    '3': 0.01
+    '4': 1.3
+    '5': 1.3
+  ironspade:
+    '0': 5.5
+  ironpickaxe:
+    '0': 5.5
+  ironaxe:
+    '0': 5.5
+  flintandsteel:
+    '0': 42.04
+  apple:
+    '0': 2.0
+  bow:
+    '0': 21.21
+  arrow:
+    '0': 5.0
+  coal:
+    '0': 10
+    '1': 5
+  diamond:
+    '0': 10.0
+  ironingot:
+    '0': 1.5
+  goldingot:
+    '0': 3.5
+  ironsword:
+    '0': 3.5
+    '4': 3.5
+  woodsword:
+    '0': 1.5
+  woodspade:
+    '0': 1.5
+  woodpickaxe:
+    '0': 1.5
+  woodaxe:
+    '0': 1.5
+  stonesword:
+    '0': 5.5
+  stonespade:
+    '0': 5.5
+  stonepickaxe:
+    '0': 5.5
+  stoneaxe:
+    '0': 5.5
+  diamondsword:
+    '0': 10.5
+  diamondspade:
+    '0': 10.5
+  diamondpickaxe:
+    '0': 10.5
+  diamondaxe:
+    '0': 10.5
+  stick:
+    '0': 0.125
+  bowl:
+    '0': 0.1875
+  mushroomsoup:
+    '0': 11.06
+  goldsword:
+    '0': 10.5
+  goldspade:
+    '0': 10.5
+  goldpickaxe:
+    '0': 10.5
+  goldaxe:
+    '0': 10.5
+  string:
+    '0': 1.98
+  feather:
+    '0': 16.0
+  sulphur:
+    '0': 6.0
+  woodhoe:
+    '0': 0.75
+  stonehoe:
+    '0': 12.32
+  ironhoe:
+    '0': 89.11
+  diamondhoe:
+    '0': 210.27
+  goldhoe:
+    '0': 265.08
+  seeds:
+    '0': 12.5
+  wheat:
+    '0': 12.5
+  bread:
+    '0': 3.0
+  leatherhelmet:
+    '0': 3.5
+  leatherchestplate:
+    '0': 3.5
+  leatherleggings:
+    '0': 3.5
+  leatherboots:
+    '0': 3.5
+  chainmailhelmet:
+    '0': 5.5
+  chainmailchestplate:
+    '0': 5.5
+  chainmailleggings:
+    '0': 5.5
+  chainmailboots:
+    '0': 5.5
+  ironhelmet:
+    '0': 5.5
+  ironchestplate:
+    '0': 5.5
+  ironleggings:
+    '0': 5.5
+  ironboots:
+    '0': 5.5
+  diamondhelmet:
+    '0': 10.5
+  diamondchestplate:
+    '0': 10.5
+  diamondleggings:
+    '0': 10.5
+  diamondboots:
+    '0': 10.5
+  goldhelmet:
+    '0': 10.5
+  goldchestplate:
+    '0': 10.5
+  goldleggings:
+    '0': 10.5
+  goldboots:
+    '0': 10.5
+  flint:
+    '0': 1.3
+  pork:
+    '0': 4.0
+  grilledpork:
+    '0': 0.5
+  painting:
+    '0': 0.6
+  goldenapple:
+    '0': 5.0
+    '1': 5.0
+  sign:
+    '0': 0.55
+  wooddoor:
+    '0': 0.5
+  bucket:
+    '0': 0.5
+  waterbucket:
+    '0': 0.5
+  lavabucket:
+    '0': 1
+  minecart:
+    '0': 20.0
+  saddle:
+    '0': 20.0
+  irondoor:
+    '0': 0.5
+  redstone:
+    '0': 8
+  boat:
+    '0': 1.25
+  leather:
+    '0': 0.5
+  milkbucket:
+    '0': 10.0
+  claybrick:
+    '0': 7.29
+  sugarcane:
+    '0': 3.5
+  paper:
+    '0': 1.82
+  book:
+    '0': 3
+  slimeball:
+    '0': 5.0
+  storageminecart:
+    '0': 30.0
+  poweredminecart:
+    '0': 40.0
+  egg:
+    '0': 6.25
+  compass:
+    '0': 10.0
+  fishingrod:
+    '0': 18.47
+  watch:
+    '0': 210.28
+  glowstonedust:
+    '0': 2.0
+  rawfish:
+    '0': 3.96
+    '1': 4.29
+    '2': 1.98
+    '3': 6.6
+  cookedfish:
+    '0': 2.0
+    '1': 2.0
+    '2': 2.0
+    '3': 2.0
+  inksack:
+    '0': 2.5
+    '1': 2.5
+    '2': 2.5
+    '3': 2.5
+    '4': 2.5
+    '5': 2.5
+    '6': 2.5
+    '7': 2.5
+    '8': 2.5
+    '9': 2.5
+    '10': 2.5
+    '11': 2.5
+    '12': 2.5
+    '13': 2.5
+    '14': 2.5
+    '15': 2.5
+  bone:
+    '0': 0.2
+  sugar:
+    '0': 0.2
+  cake:
+    '0': 0.3
+  bed:
+    '0': 1.5
+  diode:
+    '0': 47.6
+  cookie:
+    '0': 1.0
+  map:
+    '0': 1.5
+  shears:
+    '0': 18
+  pumpkinseeds:
+    '0': 0.3
+  melonseeds:
+    '0': 0.3
+  cookedbeef:
+    '0': 4.0
+  rawchicken:
+    '0': 6.6
+  cookedchicken:
+    '0': 2.0
+  rottenflesh:
+    '0': 1.3
+  enderpearl:
+    '0': 66.0
+  blazerod:
+    '0': 0.25
+  ghasttear:
+    '0': 2.5
+  goldnugget:
+    '0': 14.24
+  netherstalk:
+    '0': 5.0
+  potion:
+    '0': 5.0
+    '16': 67.08
+    '32': 36.12
+    '64': 27.01
+    '8193': 25.0
+    '8194': 15.0
+    '8195': 20.0
+    '8196': 98.04
+    '8197': 15.0
+    '8198': 312.11
+    '8200': 15.0
+    '8201': 20.0
+    '8202': 233.89
+    '8204': 150.08
+    '8205': 15.0
+    '8206': 445.5
+    '8225': 330.86
+    '8226': 35.0
+    '8228': 149.87
+    '8229': 184.97
+    '8233': 315.78
+    '8236': 221.68
+    '8257': 321.75
+    '8258': 25.0
+    '8259': 224.57
+    '8260': 140.67
+    '8262': 436.18
+    '8264': 52.05
+    '8265': 306.67
+    '8266': 324.69
+    '8269': 145.79
+    '8270': 620.25
+    '16385': 334.5
+    '16386': 4.5
+    '16387': 237.32
+    '16388': 153.51
+    '16389': 188.61
+    '16390': 448.93
+    '16392': 68.34
+    '16393': 319.42
+    '16394': 340.98
+    '16396': 225.32
+    '16397': 158.54
+    '16398': 663.0
+    '16417': 474.8
+    '16418': 4.5
+    '16420': 225.03
+    '16421': 273.47
+    '16425': 453.99
+    '16428': 324.13
+    '16449': 462.24
+    '16450': 4.5
+    '16451': 328.12
+    '16452': 212.46
+    '16454': 620.14
+    '16456': 90.05
+    '16457': 441.42
+    '16458': 466.28
+    '16461': 158.74
+    '16462': 874.16
+    '8227': 25.0
+    '8203': 20.0
+  glassbottle:
+    '0': 2.5
+  spidereye:
+    '0': 3
+  fermentedspidereye:
+    '0': 2.5
+  blazepowder:
+    '0': 2.5
+  magmacream:
+    '0': 2.5
+  brewingstanditem:
+    '0': 10.0
+  cauldronitem:
+    '0': 15.0
+  eyeofender:
+    '0': 75.18
+  speckledmelon:
+    '0': 2.5
+  fireball:
+    '0': 158.3
+  bookandquill:
+    '0': 41.3
+  emerald:
+    '0': 18.0
+  itemframe:
+    '0': 2.0
+  flowerpotitem:
+    '0': 30.3
+  carrotitem:
+    '0': 1.0
+  potatoitem:
+    '0': 3.0
+  bakedpotato:
+    '0': 2.3
+  poisonouspotato:
+    '0': 0.3
+  emptymap:
+    '0': 10
+  goldencarrot:
+    '0': 2.5
+  skullitem:
+    '1': 66.0
+    '0': 5.0
+    '2': 5.0
+    '3': 0.01
+  carrotstick:
+    '0': 8.3
+  netherstar:
+    '0': 50.0
+  pumpkinpie:
+    '0': 20.64
+  firework:
+    '0': 25
+  fireworkcharge:
+    '0': 4.5
+  redstonecomparator:
+    '0': 25
+  quartz:
+    '0': 2.5
+  explosiveminecart:
+    '0': 25.0
+  hopperminecart:
+    '0': 40.0
+  ironbarding:
+    '0': 50.0
+  goldbarding:
+    '0': 100.0
+  diamondbarding:
+    '0': 100.0
+  leash:
+    '0': 14.57
+  nametag:
+    '0': 15.0
+  goldrecord:
+    '0': 2.5
+  greenrecord:
+    '0': 2.5
+  record3:
+    '0': 2.5
+  record4:
+    '0': 2.5
+  record5:
+    '0': 2.5
+  record6:
+    '0': 2.5
+  record7:
+    '0': 2.5
+  record8:
+    '0': 2.5
+  record9:
+    '0': 2.5
+  record10:
+    '0': 2.5
+  record11:
+    '0': 2.5
+  record12:
+    '0': 2.5
+  air:
+    '-1': 0.333333333
+  snowblock:
+    '0': 5.0
+  clay:
+    '0': 0.4
+  netherbrick:
+    '0': 1.5
+  prismarine:
+    '0': 1.0
+    '1': 1.0
+    '2': 4.5
+  sealantern:
+    '0': 3.3
+  hayblock:
+    '0': 4.5
+  sponge:
+    '0': 3
+    '1': 4
+  mobspawner:
+    '0': 2.0
+  rabbitfoot:
+    '0': 2.5
+  prismarineshard:
+    '0': 2.5
+  prismarinecrystals:
+    '0': 2.5
+  rabbithide:
+    '0': 5.0
+  melon:
+    '0': 1.0
+  cookedrabbit:
+    '0': 2.0
+  cookedmutton:
+    '0': 2.0
+  monsteregg:
+    '50': 20
+    '51': 20
+    '52': 20
+    '54': 20
+    '57': 20
+    '58': 20
+    '59': 20
+    '61': 20
+    '62': 20
+    '0': 20
+  enchantedbook:
+    '0': 0.0
+  darkoakdooritem:
+    '0': 0.5
+  sapling:
+    '0': 3.0
+  rawbeef:
+    '0': 4.0
+  monstereggs:
+    '1': 0.12
+  sprucefence:
+    '0': 0.4
+  birchfence:
+    '0': 0.4
+  junglefence:
+    '0': 0.4
+  darkoakfence:
+    '0': 0.4
+  acaciafence:
+    '0': 0.4
+  sprucefencegate:
+    '0': 1.0
+  birchfencegate:
+    '0': 1.0
+  junglefencegate:
+    '0': 1.0
+  darkoakfencegate:
+    '0': 1.0
+  acaciafencegate:
+    '0': 1.0
+  boatspruce:
+    '0': 1.25
+  boatbirch:
+    '0': 1.25
+  boatjungle:
+    '0': 1.25
+  boatacacia:
+    '0': 1.25
+  boatdarkoak:
+    '0': 1.25
+  woodendoor:
+    '0': 0.5
+  sprucedoor:
+    '0': 0.5
+  birchdoor:
+    '0': 0.5
+  jungledoor:
+    '0': 0.5
+  acaciadoor:
+    '0': 0.5
+  darkoakdoor:
+    '0': 0.5
+  sprucedooritem:
+    '0': 0.5
+  birchdooritem:
+    '0': 0.5
+  jungledooritem:
+    '0': 0.5
+  acaciadooritem:
+    '0': 0.5
+  purpurblock:
+    '0': 5.0
+  purpurpillar:
+    '0': 5.0
+  purpurstairs:
+    '0': 5.0
+  purpurslab:
+    '0': 5.0
+  chorusfruit:
+    '0': 0.05
+  beetrootsoup:
+    '0': 0.5

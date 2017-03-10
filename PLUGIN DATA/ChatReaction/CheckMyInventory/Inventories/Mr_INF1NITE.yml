@@ -1,0 +1,314 @@
+Inventories:
+  '1':
+    Time: 1462431419330
+    Exp: 40
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 9
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -161.12318681257432
+      y: 63.0
+      z: 1201.900437109388
+      pitch: 2.850088
+      yaw: -147.65503
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: WOOD
+        amount: 54
+      '3':
+        type: COBBLESTONE_STAIRS
+        amount: 2
+      '4':
+        type: DIAMOND_AXE
+        damage: 270
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '5':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 130
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: DIAMOND_SWORD
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '8':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '9':
+        type: SPIDER_EYE
+        amount: 2
+      '10':
+        type: STRING
+        amount: 2
+      '11':
+        type: ROTTEN_FLESH
+        amount: 2
+      '12':
+        type: SAPLING
+        damage: 3
+      '13':
+        type: SAPLING
+        damage: 2
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJP7LGQw+NWoXoZ6uCsjdYdsvCrhoEKzxVH7Eee5zMjAlgwsu2apX6rE9CKm7AY5DDKxk6gjHBLOY7vjUcZbmVCUIsYjORjr085cI1wbxPZ143kl8GYDT81rQ1v5gA8GDAc5yqlsMv70KbHgo7P4SKdQG5825rq3VQnkfBMe6ySUACffeLd7Lsxv9av0n3vkq8sKDHrzbTsb30NoovNg7T0XXlUo3Tbwf7QmKZDHEe3bCvfJxuiqT8kEnPHKrjEvtYr+e0wl3V0TmVOI1cWtKK7hMPy8jDfvaz2s9clOFYHOw3AAOeMNUcBpPt5FTzpcwA/gDyPtRXKgEAAA==
+          skull-owner: CSCoreLib
+      '15':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sweet Potato Plant
+      '16':
+        type: WOOL
+      '17':
+        type: MUTTON
+      '18':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cElderberry Bush
+      '20':
+        type: FENCE
+        amount: 2
+      '22':
+        type: STICK
+        amount: 4
+      '23':
+        type: WOOD
+        amount: 3
+      '27':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '28':
+        type: WOOD_DOOR
+      '29':
+        type: COOKED_CHICKEN
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '30':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '31':
+        type: LOG
+        damage: 2
+        amount: 8
+  '2':
+    Time: 1462431773352
+    Exp: 19
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 11.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -197.48535879790157
+      y: 65.0
+      z: 1200.8217219986163
+      pitch: 21.30028
+      yaw: -13.854431
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: DIAMOND_SWORD
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '2':
+        type: COOKED_BEEF
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '3':
+        type: BONE
+      '4':
+        type: PUMPKIN
+      '5':
+        type: COBBLESTONE
+        amount: 55
+      '6':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 154
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '8':
+        type: DIAMOND_AXE
+        damage: 301
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '9':
+        type: FURNACE
+        amount: 11
+      '10':
+        type: WORKBENCH
+        amount: 14
+      '11':
+        type: LOG
+        damage: 2
+        amount: 13
+      '12':
+        type: WOOD
+        amount: 9
+      '26':
+        type: WOOD
+        amount: 64
+      '30':
+        type: COOKED_CHICKEN
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '31':
+        type: COBBLESTONE_STAIRS
+        amount: 2
+  '3':
+    Time: 1462483217378
+    Exp: 17
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -204.73201487689147
+      y: 64.0
+      z: 1199.1737492819632
+      pitch: 13.799989
+      yaw: -27.598097
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: DIAMOND_SWORD
+        damage: 39
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '2':
+        type: COOKED_BEEF
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '6':
+        type: DIAMOND_SPADE
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '7':
+        type: DIAMOND_AXE
+        damage: 348
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '8':
+        type: DIAMOND_PICKAXE
+        damage: 271
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '35':
+        type: COOKED_CHICKEN
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken

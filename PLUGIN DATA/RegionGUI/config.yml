@@ -1,0 +1,31 @@
+############################################################
+# +------------------------------------------------------+ #
+# |                 RegionGUI                            | #
+# +------------------------------------------------------+ #
+############################################################
+
+
+#
+# Enable to use permissions. If disabled, everyone is allowed to use the full plugin.
+usePermissions: true
+
+# Metrics. Enable statistic collection. This helps me to improve the plugin even more :)
+Metrics: true
+
+#
+# The plugin is enabled for all worlds in this list
+enabled_worlds:
+- world
+- world_nether
+#- world_nether
+#- creative
+
+#This is the amount in seconds the border particles are shown to the player! Don't set it to high since the player cannot cancel it!
+#Kinda annoying with high values if you just want to know where your border is :p
+Bordertimeout: 20
+
+
+#This is the effect used for the border. (Dont change unless you know the exact effect enum name!)
+BorderEffect: FIREWORKS_SPARK
+
+enable_previewmode: false

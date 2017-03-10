@@ -1,0 +1,1161 @@
+Inventories:
+  '1':
+    Time: 1480926806624
+    DeathReasson: Fire
+    Exp: 697
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 12
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: SLOW_DIGGING
+        Duration: 260
+        Amplifier: 1
+      '2':
+        Name: WITHER
+        Duration: 260
+        Amplifier: 3
+      '3':
+        Name: BLINDNESS
+        Duration: 260
+        Amplifier: 3
+      '4':
+        Name: WEAKNESS
+        Duration: 260
+        Amplifier: 3
+      '5':
+        Name: SLOW
+        Duration: 260
+        Amplifier: 1
+      '6':
+        Name: NIGHT_VISION
+        Duration: 64376
+        Amplifier: 1
+      '7':
+        Name: CONFUSION
+        Duration: 260
+        Amplifier: 3
+    Location:
+      world: world
+      x: -20124.220422184884
+      y: 63.0
+      z: -4357.117754282415
+      pitch: 12.600044
+      yaw: 240.54846
+    Items:
+      '0':
+        type: STONE_SWORD
+        damage: 4
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 4
+      '2':
+        type: IRON_PICKAXE
+      '3':
+        type: DIAMOND_SPADE
+      '4':
+        type: COOKED_CHICKEN
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '5':
+        type: PUMPKIN
+        amount: 4
+      '6':
+        type: WOOL
+        amount: 4
+      '7':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nShadowstep III
+          lore:
+          - §lRune of Shadowstep III
+          - §a79% Success Rate and §c21% Destroy Rate.
+          - §6Armour Enchant
+          - §7Place the Rune on Armour to enchant.
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Grandpas Walking Stick
+          enchants:
+            KNOCKBACK: 5
+      '10':
+        type: TORCH
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aLight the way...
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '11':
+        type: BEETROOT
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '12':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nImmolation I
+          lore:
+          - §lRune of Immolation I
+          - §a34% Success Rate and §c66% Destroy Rate.
+          - §6Chestplate Enchant
+          - §7Place the Rune on a chestplate to enchant.
+      '13':
+        type: SAPLING
+        amount: 7
+      '14':
+        type: RAW_BEEF
+        amount: 39
+      '15':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '16':
+        type: LEATHER
+        amount: 13
+      '17':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nPyromaniac IV
+          lore:
+          - §lRune of Pyromaniac IV
+          - §a25% Success Rate and §c75% Destroy Rate.
+          - §6Armour Enchant
+          - §7Place the Rune on Armour to enchant.
+      '18':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nAegis III
+          lore:
+          - §lRune of Aegis III
+          - §a58% Success Rate and §c42% Destroy Rate.
+          - §6Armour Enchant
+          - §7Place the Rune on Armour to enchant.
+      '19':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rPig Head
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJgqzx0EODbV0iHxVR3L0tsIafXTUIBvpUfcR67HEyMyaACS/bplfquz0fKyUNeKQFvBZFLnIhhUUIOVozj8wt4c4ySwo5zV1HFg6xTTDv00W2XSWvEzA6OXR9K68mADwY8LwXqpfwK8fA5ofSLg6BykdK7pxsbRXR+jKnp/2Y+ZRQfferd7IeF/9arxOpp5gblPy06TO9t9durOQqnuZ6d8OaDlizGU+ZyxzqRmncRGk4hhpV6GwGXqPGL6xQ70ZMdl60bH5YzRtexyUumYfJh80T5qATDqg/S/SDxfFgvwEY8IRCS5j4W//cynWVAfwB7qosRCoBAAA=
+          skull-owner: CSCoreLib
+      '20':
+        type: DIAMOND_HOE
+      '21':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nArrow Rain II
+          lore:
+          - §lRune of Arrow Rain II
+          - §a43% Success Rate and §c57% Destroy Rate.
+          - §6Bow Enchant
+          - §7Place the Rune on a bow to enchant.
+      '22':
+        type: PORK
+        amount: 47
+      '23':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nSpeed II
+          lore:
+          - §lRune of Speed II
+          - §a7% Success Rate and §c93% Destroy Rate.
+          - §6Boot Enchant
+          - §7Place the Rune on a boot to enchant.
+      '24':
+        type: WORKBENCH
+      '25':
+        type: COOKED_BEEF
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '26':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nStealth III
+          lore:
+          - §lRune of Stealth III
+          - §a79% Success Rate and §c21% Destroy Rate.
+          - §6Armour Enchant
+          - §7Place the Rune on Armour to enchant.
+      '27':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nZeus I
+          lore:
+          - §lRune of Zeus I
+          - §a59% Success Rate and §c41% Destroy Rate.
+          - §6Bow Enchant
+          - §7Place the Rune on a bow to enchant.
+      '28':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nCrushing II
+          lore:
+          - §lRune of Crushing II
+          - §a8% Success Rate and §c92% Destroy Rate.
+          - §6Weapon Enchant
+          - §7Place the Rune on any weapon to enchant.
+      '29':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nImmolation II
+          lore:
+          - §lRune of Immolation II
+          - §a0% Success Rate and §c100% Destroy Rate.
+          - §6Chestplate Enchant
+          - §7Place the Rune on a chestplate to enchant.
+      '30':
+        type: SULPHUR
+        amount: 2
+      '31':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nCorruption III
+          lore:
+          - §lRune of Corruption III
+          - §a1% Success Rate and §c99% Destroy Rate.
+          - §6Axe Enchant
+          - §7Place the Rune on a axe to enchant.
+      '32':
+        type: MUTTON
+        amount: 6
+      '33':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nReborn III
+          lore:
+          - §lRune of Reborn III
+          - §a42% Success Rate and §c58% Destroy Rate.
+          - §6Weapon Enchant
+          - §7Place the Rune on any weapon to enchant.
+      '34':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '35':
+        type: GOLD_NUGGET
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+  '2':
+    Time: 1480929711677
+    Killer: §4❤❤❤❤❤❤❤§7❤❤❤
+    DeathReasson: Entity attack
+    Exp: 1791
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -20063.516603888023
+      y: 76.79673560066871
+      z: -4228.096967798538
+      pitch: 22.500027
+      yaw: 60.107544
+    Items:
+      '0':
+        type: STONE_SWORD
+        damage: 121
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 382
+      '2':
+        type: DIAMOND_SPADE
+        damage: 15
+      '3':
+        type: TORCH
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aLight the way...
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: COOKED_BEEF
+        amount: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '6':
+        type: SULPHUR
+        amount: 2
+      '7':
+        type: DIRT
+        amount: 31
+      '8':
+        type: ARROW
+        amount: 2
+      '9':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nHealth Boost III
+          lore:
+          - §lRune of Health Boost III
+          - §a35% Success Rate and §c65% Destroy Rate.
+          - §6Chestplate Enchant
+          - §7Place the Rune on a chstplate to enchant.
+      '10':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nCorruption III
+          lore:
+          - §lRune of Corruption III
+          - §a1% Success Rate and §c99% Destroy Rate.
+          - §6Axe Enchant
+          - §7Place the Rune on a axe to enchant.
+      '11':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nReborn III
+          lore:
+          - §lRune of Reborn III
+          - §a42% Success Rate and §c58% Destroy Rate.
+          - §6Weapon Enchant
+          - §7Place the Rune on any weapon to enchant.
+      '12':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Grandpas Walking Stick
+          enchants:
+            KNOCKBACK: 5
+      '13':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nPyromaniac IV
+          lore:
+          - §lRune of Pyromaniac IV
+          - §a25% Success Rate and §c75% Destroy Rate.
+          - §6Armour Enchant
+          - §7Place the Rune on Armour to enchant.
+      '14':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nAssassin II
+          lore:
+          - §lRune of Assassin II
+          - §a50% Success Rate and §c50% Destroy Rate.
+          - §6Sword Enchant
+          - §7Place the Rune on a sword to enchant.
+      '15':
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMoisture Checker
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Tests the saturation level
+          - §7 of a 3x3 area of farmland.
+          - '§7R-click: §ruse'
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCViyprhUSGeCqbqWQm59ZXFJalJqckZqcnVoEdBMA3jbNrK8AAAA=
+      '16':
+        type: DIAMOND_HOE
+      '17':
+        type: PUMPKIN
+        amount: 4
+      '18':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nArrow Rain II
+          lore:
+          - §lRune of Arrow Rain II
+          - §a43% Success Rate and §c57% Destroy Rate.
+          - §6Bow Enchant
+          - §7Place the Rune on a bow to enchant.
+      '19':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nSpeed II
+          lore:
+          - §lRune of Speed II
+          - §a7% Success Rate and §c93% Destroy Rate.
+          - §6Boot Enchant
+          - §7Place the Rune on a boot to enchant.
+      '20':
+        type: GOLD_NUGGET
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '21':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nStealth III
+          lore:
+          - §lRune of Stealth III
+          - §a79% Success Rate and §c21% Destroy Rate.
+          - §6Armour Enchant
+          - §7Place the Rune on Armour to enchant.
+      '22':
+        type: LOG
+      '23':
+        type: TORCH
+      '24':
+        type: NETHER_FENCE
+        amount: 5
+      '25':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nImmolation II
+          lore:
+          - §lRune of Immolation II
+          - §a0% Success Rate and §c100% Destroy Rate.
+          - §6Chestplate Enchant
+          - §7Place the Rune on a chestplate to enchant.
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '27':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nMischief II
+          lore:
+          - §lRune of Mischief II
+          - §a4% Success Rate and §c96% Destroy Rate.
+          - §6Weapon Enchant
+          - §7Place the Rune on any weapon to enchant.
+      '28':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nImmolation I
+          lore:
+          - §lRune of Immolation I
+          - §a34% Success Rate and §c66% Destroy Rate.
+          - §6Chestplate Enchant
+          - §7Place the Rune on a chestplate to enchant.
+      '29':
+        type: COBBLESTONE
+        amount: 3
+      '30':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nAegis III
+          lore:
+          - §lRune of Aegis III
+          - §a58% Success Rate and §c42% Destroy Rate.
+          - §6Armour Enchant
+          - §7Place the Rune on Armour to enchant.
+      '31':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nShadowstep III
+          lore:
+          - §lRune of Shadowstep III
+          - §a79% Success Rate and §c21% Destroy Rate.
+          - §6Armour Enchant
+          - §7Place the Rune on Armour to enchant.
+      '32':
+        type: BONE
+        amount: 2
+      '33':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nZeus I
+          lore:
+          - §lRune of Zeus I
+          - §a59% Success Rate and §c41% Destroy Rate.
+          - §6Bow Enchant
+          - §7Place the Rune on a bow to enchant.
+      '34':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nSwimmer I
+          lore:
+          - §lRune of Swimmer I
+          - §a56% Success Rate and §c44% Destroy Rate.
+          - §6Helmet Enchant
+          - §7Place the Rune on a helmet to enchant.
+      '35':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nCrushing II
+          lore:
+          - §lRune of Crushing II
+          - §a8% Success Rate and §c92% Destroy Rate.
+          - §6Weapon Enchant
+          - §7Place the Rune on any weapon to enchant.
+  '3':
+    Time: 1480931784802
+    Killer: §a§lZombie Warrior
+    DeathReasson: Entity attack
+    Exp: 1137
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 5
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: POISON
+        Duration: 105
+        Amplifier: 0
+    Location:
+      world: world
+      x: -20177.30000001192
+      y: 64.0
+      z: -4451.758757817891
+      pitch: -29.099924
+      yaw: -48.655018
+    Items:
+      '0':
+        type: STONE_SWORD
+        damage: 51
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 466
+      '2':
+        type: DIAMOND_SPADE
+        damage: 26
+      '4':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Grandpas Walking Stick
+          enchants:
+            KNOCKBACK: 5
+      '5':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: DISPENSER
+        amount: 20
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rPig Head
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJgqzx0EODbV0iHxVR3L0tsIafXTUIBvpUfcR67HEyMyaACS/bplfquz0fKyUNeKQFvBZFLnIhhUUIOVozj8wt4c4ySwo5zV1HFg6xTTDv00W2XSWvEzA6OXR9K68mADwY8LwXqpfwK8fA5ofSLg6BykdK7pxsbRXR+jKnp/2Y+ZRQfferd7IeF/9arxOpp5gblPy06TO9t9durOQqnuZ6d8OaDlizGU+ZyxzqRmncRGk4hhpV6GwGXqPGL6xQ70ZMdl60bH5YzRtexyUumYfJh80T5qATDqg/S/SDxfFgvwEY8IRCS5j4W//cynWVAfwB7qosRCoBAAA=
+          skull-owner: CSCoreLib
+      '8':
+        type: COBBLESTONE
+        amount: 34
+      '9':
+        type: NAME_TAG
+      '10':
+        type: GOLD_INGOT
+        amount: 4
+      '11':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nPetrify II
+          lore:
+          - §lRune of Petrify II
+          - §a47% Success Rate and §c53% Destroy Rate.
+          - §6Axe Enchant
+          - §7Place the Rune on a axe to enchant.
+      '12':
+        type: IRON_FENCE
+        amount: 16
+      '13':
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMoisture Checker
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Tests the saturation level
+          - §7 of a 3x3 area of farmland.
+          - '§7R-click: §ruse'
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCViyprhUSGeCqbqWQm59ZXFJalJqckZqcnVoEdBMA3jbNrK8AAAA=
+      '14':
+        type: PUMPKIN
+        amount: 4
+      '15':
+        type: IRON_ORE
+        amount: 19
+      '16':
+        type: NETHER_FENCE
+        amount: 6
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §ePowered Spawner §7(Silverfish)
+          lore:
+          - ''
+          - '§8⇨ §e⚡ §7Max Entity Cap: 6'
+          - §8⇨ §e⚡ §7512 J Buffer
+          - §8⇨ §e⚡ §7240 J/Mob
+          internal: H4sIAAAAAAAAAE2LzW6CQBhFvzZtgqSP0S3J8Csuumiw6hA6FBlBZjfoEMBBDYIRnqqPWJZd3MXJOVcFUOEtPvVS/rSXopJCgWd8hHeL65ZrFK5WuK6hWe7C0HiuC806FrrBOULm3FFBnU5X0XaVuM1A6cSj61txUwHgSYHXhMtewK8YfMT2JTrufXkYsDMxjZEMcX2d43My5B52cDP5zacTDIt/rd3x1JaZ6ZfsHPV5k6DA3Eqx2eqHZndna2xkTWSTEZtZ6leEJidCoweh2CD0YIVphFiN7XAZmeFyVX6P0ZiNmcXWpGT1zpymk/WXzqgsM7qqmecvij36AFDghfBGwMyLvUsrgioH+APpiPodKgEAAA==
+          skull-owner: CSCoreLib
+      '18':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nBattlecry III
+          lore:
+          - §lRune of Battlecry III
+          - §a65% Success Rate and §c35% Destroy Rate.
+          - §6Axe Enchant
+          - §7Place the Rune on a axe to enchant.
+      '19':
+        type: SMOOTH_BRICK
+        amount: 2
+      '20':
+        type: COAL
+        amount: 42
+      '21':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §eFrozen Kindness
+          custom-effects:
+          - ==: PotionEffect
+            effect: 26
+            duration: 800
+            amplifier: 1
+            ambient: true
+            has-particles: true
+          - ==: PotionEffect
+            effect: 8
+            duration: 1400
+            amplifier: 2
+            ambient: true
+            has-particles: true
+          - ==: PotionEffect
+            effect: 27
+            duration: 1800
+            amplifier: 2
+            ambient: true
+            has-particles: true
+      '22':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nDivine III
+          lore:
+          - §lRune of Divine III
+          - §a7% Success Rate and §c93% Destroy Rate.
+          - §6Weapon Enchant
+          - §7Place the Rune on any weapon to enchant.
+      '23':
+        type: ENCHANTED_BOOK
+        amount: 9
+      '24':
+        type: BLAZE_POWDER
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rMagical Essence
+          lore:
+          - ''
+          - §7Emerald
+      '25':
+        type: FLINT_AND_STEEL
+        damage: 3
+      '26':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §aPointless Skill
+          custom-effects:
+          - ==: PotionEffect
+            effect: 3
+            duration: 400
+            amplifier: 3
+            ambient: true
+            has-particles: true
+      '27':
+        type: IRON_INGOT
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bFerrosilicon
+      '28':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §eFabulous Lump
+          custom-effects:
+          - ==: PotionEffect
+            effect: 15
+            duration: 1600
+            amplifier: 2
+            ambient: true
+            has-particles: true
+          - ==: PotionEffect
+            effect: 19
+            duration: 200
+            amplifier: 1
+            ambient: true
+            has-particles: true
+          - ==: PotionEffect
+            effect: 4
+            duration: 400
+            amplifier: 4
+            ambient: true
+            has-particles: true
+      '29':
+        type: NETHER_BRICK
+        amount: 2
+      '30':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rChicken Head
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSgkLnwcOibNZIGYogvVGoEW3VIKj0d+0HjuOOL+89E8CEt/WxlfKnPu8qKQx4JiW8Y8dDNv7ILYfjwhqNBLa4I7glsMtdXIx2JSpNMPvpIuqmEtcBGI14NG0triYAPBnwmuSyFfArugVi2z0qtwtZdMTrOV4jGZLDBZNT0vEp8Yjq/fzTW3bjf63b5Kkrs+Fiz05Ry1WClsOVFPOVXajNLYgzHc4iJ0x9O4zlgaWJoprcqd5oqrN7oAkKv303S8kjSJmi8fHBVNS7fcVSH1Ed2NkhQFT5Q6a+ZDg7anKyx7toMgEw4IXmSsBgup6ea7GsOMAfe7oceC4BAAA=
+          skull-owner: CSCoreLib
+      '31':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §cHallowed Challenge
+          stored-enchants:
+            ARROW_KNOCKBACK: 8
+            SILK_TOUCH: 8
+            FIRE_ASPECT: 3
+            PROTECTION_PROJECTILE: 4
+      '32':
+        type: QUARTZ
+        amount: 16
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: GOLD_NUGGET
+        amount: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '35':
+        type: QUARTZ_BLOCK
+        amount: 2
+  '4':
+    Time: 1480931912797
+    Killer: §4❤§7❤❤❤❤❤❤❤❤❤
+    DeathReasson: Entity attack
+    Exp: 163
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: POISON
+        Duration: 34
+        Amplifier: 0
+      '2':
+        Name: GLOWING
+        Duration: 200
+        Amplifier: 1
+    Location:
+      world: world
+      x: -20204.41639594892
+      y: 64.0
+      z: -4376.2188002759185
+      pitch: 3.3000603
+      yaw: -103.85518
+    Items:
+      '1':
+        type: STONE_SWORD
+        damage: 88
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 466
+      '3':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '4':
+        type: COBBLESTONE
+        amount: 34
+      '5':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nPetrify II
+          lore:
+          - §lRune of Petrify II
+          - §a47% Success Rate and §c53% Destroy Rate.
+          - §6Axe Enchant
+          - §7Place the Rune on a axe to enchant.
+      '6':
+        type: IRON_ORE
+        amount: 19
+      '7':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nBattlecry III
+          lore:
+          - §lRune of Battlecry III
+          - §a65% Success Rate and §c35% Destroy Rate.
+          - §6Axe Enchant
+          - §7Place the Rune on a axe to enchant.
+      '8':
+        type: ENCHANTED_BOOK
+      '9':
+        type: SULPHUR
+        amount: 2
+      '17':
+        type: BLAZE_POWDER
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rMagical Essence
+          lore:
+          - ''
+          - §7Emerald
+      '18':
+        type: FLINT_AND_STEEL
+        damage: 3
+      '19':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §aPointless Skill
+          custom-effects:
+          - ==: PotionEffect
+            effect: 3
+            duration: 400
+            amplifier: 3
+            ambient: true
+            has-particles: true
+      '20':
+        type: IRON_INGOT
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bFerrosilicon
+      '21':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §eFabulous Lump
+          custom-effects:
+          - ==: PotionEffect
+            effect: 15
+            duration: 1600
+            amplifier: 2
+            ambient: true
+            has-particles: true
+          - ==: PotionEffect
+            effect: 19
+            duration: 200
+            amplifier: 1
+            ambient: true
+            has-particles: true
+          - ==: PotionEffect
+            effect: 4
+            duration: 400
+            amplifier: 4
+            ambient: true
+            has-particles: true
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rChicken Head
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSgkLnwcOibNZIGYogvVGoEW3VIKj0d+0HjuOOL+89E8CEt/WxlfKnPu8qKQx4JiW8Y8dDNv7ILYfjwhqNBLa4I7glsMtdXIx2JSpNMPvpIuqmEtcBGI14NG0triYAPBnwmuSyFfArugVi2z0qtwtZdMTrOV4jGZLDBZNT0vEp8Yjq/fzTW3bjf63b5Kkrs+Fiz05Ry1WClsOVFPOVXajNLYgzHc4iJ0x9O4zlgaWJoprcqd5oqrN7oAkKv303S8kjSJmi8fHBVNS7fcVSH1Ed2NkhQFT5Q6a+ZDg7anKyx7toMgEw4IXmSsBgup6ea7GsOMAfe7oceC4BAAA=
+          skull-owner: CSCoreLib
+      '23':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §cHallowed Challenge
+          stored-enchants:
+            ARROW_KNOCKBACK: 8
+            SILK_TOUCH: 8
+            FIRE_ASPECT: 3
+            PROTECTION_PROJECTILE: 4
+      '24':
+        type: QUARTZ
+        amount: 16
+      '25':
+        type: GOLD_NUGGET
+        amount: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '26':
+        type: DIAMOND_SPADE
+        damage: 26
+      '27':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Grandpas Walking Stick
+          enchants:
+            KNOCKBACK: 5
+      '28':
+        type: DISPENSER
+        amount: 20
+      '29':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rPig Head
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJgqzx0EODbV0iHxVR3L0tsIafXTUIBvpUfcR67HEyMyaACS/bplfquz0fKyUNeKQFvBZFLnIhhUUIOVozj8wt4c4ySwo5zV1HFg6xTTDv00W2XSWvEzA6OXR9K68mADwY8LwXqpfwK8fA5ofSLg6BykdK7pxsbRXR+jKnp/2Y+ZRQfferd7IeF/9arxOpp5gblPy06TO9t9durOQqnuZ6d8OaDlizGU+ZyxzqRmncRGk4hhpV6GwGXqPGL6xQ70ZMdl60bH5YzRtexyUumYfJh80T5qATDqg/S/SDxfFgvwEY8IRCS5j4W//cynWVAfwB7qosRCoBAAA=
+          skull-owner: CSCoreLib
+      '30':
+        type: NAME_TAG
+      '31':
+        type: GOLD_INGOT
+        amount: 4
+      '32':
+        type: IRON_FENCE
+        amount: 16
+      '33':
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMoisture Checker
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Tests the saturation level
+          - §7 of a 3x3 area of farmland.
+          - '§7R-click: §ruse'
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCViyprhUSGeCqbqWQm59ZXFJalJqckZqcnVoEdBMA3jbNrK8AAAA=
+      '34':
+        type: PUMPKIN
+        amount: 4
+      '35':
+        type: NETHER_FENCE
+        amount: 6

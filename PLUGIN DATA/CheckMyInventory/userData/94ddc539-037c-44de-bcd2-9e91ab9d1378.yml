@@ -1,0 +1,25 @@
+Name: Spoingegar
+TeleportLocation:
+  X: -704000.7057882925
+  Pitch: 15.567428
+  Y: 80.96710885415816
+  Z: 445988.6999999881
+  World: world
+  Yaw: 349.13766
+Charges:
+  Amount: 0
+  LastGot: 1481431742104
+DeathLocation:
+  X: 16949.896993520633
+  Pitch: 10.778733
+  Y: 66.0
+  Z: 6321.52913652857
+  World: world
+  Yaw: -335.62302
+LogOutLocation:
+  X: 16911.892276013128
+  Pitch: 22.334793
+  Y: 69.0
+  Z: 6424.379669161797
+  World: world
+  Yaw: -141.4265

@@ -1,0 +1,34 @@
+Inventories:
+  '1':
+    Time: 1480583846077
+    DeathReasson: Fall
+    Exp: 56096
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2536.235676177495
+      y: 65.0
+      z: -4966.191426744558
+      pitch: 27.449976
+      yaw: 55.23694
+    Items:
+      '0':
+        type: SEEDS
+      '1':
+        type: PORK
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '3':
+        type: WOOL
+      '4':
+        type: MUTTON
+        amount: 2

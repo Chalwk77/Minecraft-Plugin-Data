@@ -1,0 +1,153 @@
+Inventories:
+  '1':
+    Time: 1480153138841
+    Killer: BilboSwagginzz_
+    DeathReasson: Entity attack
+    Exp: 73766
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: GLOWING
+        Duration: 200
+        Amplifier: 1
+    Location:
+      world: world
+      x: -18659.15560563141
+      y: 48.0
+      z: 10646.300000011921
+      pitch: 4.7164965
+      yaw: 62.767
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 363
+      '1':
+        type: IRON_PICKAXE
+        damage: 157
+      '2':
+        type: COBBLESTONE
+        amount: 64
+      '3':
+        type: STONE
+        damage: 6
+        amount: 8
+      '4':
+        type: DIRT
+        amount: 15
+      '5':
+        type: TORCH
+        amount: 17
+      '6':
+        type: IRON_SPADE
+        damage: 13
+      '7':
+        type: DIAMOND_SPADE
+        damage: 42
+      '8':
+        type: BAKED_POTATO
+        amount: 24
+      '9':
+        type: COAL
+        amount: 24
+      '10':
+        type: GLOWSTONE_DUST
+        amount: 4
+      '11':
+        type: STICK
+        amount: 14
+      '12':
+        type: IRON_ORE
+        amount: 6
+      '13':
+        type: IRON_INGOT
+        amount: 58
+      '14':
+        type: STONE
+        damage: 1
+        amount: 19
+      '15':
+        type: IRON_AXE
+        damage: 27
+      '16':
+        type: STONE
+        damage: 5
+        amount: 64
+      '17':
+        type: SHEARS
+        damage: 1
+      '18':
+        type: ELYTRA
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          repair-cost: 1
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: IRON_AXE
+      '21':
+        type: STONE
+        damage: 5
+        amount: 64
+      '22':
+        type: STONE
+        damage: 3
+        amount: 2
+      '23':
+        type: FLINT_AND_STEEL
+      '24':
+        type: WATCH
+      '25':
+        type: COBBLESTONE
+        amount: 64
+      '26':
+        type: STONE
+        damage: 6
+        amount: 64
+      '27':
+        type: COBBLESTONE
+        amount: 64
+      '28':
+        type: DIAMOND_PICKAXE
+        damage: 305
+      '29':
+        type: BOW
+        damage: 1
+      '30':
+        type: FLINT
+        amount: 45
+      '31':
+        type: COMPASS
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: IRON_HOE
+      '34':
+        type: IRON_HOE
+        damage: 9
+      '35':
+        type: ARROW
+        amount: 43
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 138
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 138
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 24
+      '39':
+        type: DIAMOND_HELMET
+        damage: 138
+      '40':
+        type: SHIELD
+        damage: 119

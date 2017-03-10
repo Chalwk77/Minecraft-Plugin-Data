@@ -1,0 +1,12 @@
+config:
+  version: 1
+monitor:
+  options:
+    monitoring:
+      locked: false
+      current: -1
+      enabled: false
+    mapping:
+      enabled: false
+  ignore: []
+  uuid: 2abeea2f-2a5c-4aa7-bc10-86090bf0acf7

@@ -1,0 +1,111 @@
+lastAccountName: The_Raven117
+timestamps:
+  login: 1480283386266
+  logout: 1480284142012
+  lastteleport: 1480283423987
+  kits:
+    mod: 1457229138884
+    color: 1468879833692
+    drinks: 1457229443677
+    banner: 1457227220554
+    mobeggs: 1457229188744
+    tools: 1455981374362
+    food: 1457753100177
+    clay: 1457227160105
+    ultra: 1457229540150
+    donor: 1457226783891
+    jesus: 1457227044756
+    veteran: 1457231606311
+    iron: 1457229501119
+    overlord: 1457901600213
+    regular: 1457231784359
+ipAddress: 107.209.173.195
+geolocation: Joliet, Illinois, United States
+lastlocation:
+  world: world
+  x: 3650.091551534691
+  y: 7.5
+  z: 1954.5276148159921
+  yaw: 288.29932
+  pitch: 24.899872
+logoutlocation:
+  world: world
+  x: -13719.688578632977
+  y: 33.0
+  z: 20041.23039424652
+  yaw: 242.09332
+  pitch: 25.800014
+money: '510010.6766666666663175'
+homes:
+  home:
+    world: world
+    x: -12276.953121316497
+    y: 43.0
+    z: 5942.583085908761
+    yaw: -127.65569
+    pitch: 14.849984
+  cattle_hut:
+    world: world
+    x: 10690.647169799693
+    y: 70.0
+    z: -5201.093215683099
+    yaw: 216.89961
+    pitch: 10.799986
+  brent:
+    world: world
+    x: 3066.777635550618
+    y: 64.0
+    z: -3856.6279853182978
+    yaw: 258.79645
+    pitch: 16.199966
+  iron:
+    world: world
+    x: 3658.796336328268
+    y: 6.0
+    z: 1954.4532645717584
+    yaw: -89.24982
+    pitch: 2.99999
+  ender:
+    world: world_the_end
+    x: 2676.845070505659
+    y: 142.0
+    z: -2482.3227129398565
+    yaw: 159.74487
+    pitch: 21.150015
+  enderhut:
+    world: world_the_end
+    x: 2269.0981032845693
+    y: 97.0
+    z: -3115.332138909992
+    yaw: 166.64526
+    pitch: 40.799984
+  endermansion:
+    world: world_the_end
+    x: 1684.9346338323041
+    y: 89.0
+    z: -6609.803035765165
+    yaw: 63.14501
+    pitch: 25.949963
+  endermansion2:
+    world: world_the_end
+    x: 4194.28460600421
+    y: 142.0
+    z: -3435.7926401300665
+    yaw: -171.4546
+    pitch: 22.5
+  temple:
+    world: world
+    x: -22841.414105721626
+    y: 61.0
+    z: -27926.84022730761
+    yaw: -82.80078
+    pitch: 25.199995
+  bm:
+    world: world
+    x: -13710.430246115293
+    y: 35.0
+    z: 20039.61861314543
+    yaw: 267.8944
+    pitch: 4.649989
+afk: false
+godmode: true

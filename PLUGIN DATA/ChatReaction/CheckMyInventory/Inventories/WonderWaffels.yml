@@ -1,0 +1,672 @@
+Inventories:
+  '25':
+    Time: 1458455365516
+    Exp: 92
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -14345.132002883065
+      y: 63.0
+      z: 1644.699999988079
+      pitch: 5.352936
+      yaw: 16.735933
+    Items:
+      '0':
+        type: COOKED_CHICKEN
+        amount: 24
+      '1':
+        type: GRILLED_PORK
+        amount: 3
+      '2':
+        type: BOW
+        damage: 269
+      '3':
+        type: ARROW
+        amount: 5
+      '4':
+        type: SIGN
+        amount: 2
+      '5':
+        type: STONE_SWORD
+        damage: 54
+      '6':
+        type: WOOD_PICKAXE
+        damage: 39
+      '7':
+        type: STONE_AXE
+        damage: 80
+      '8':
+        type: BOWL
+      '11':
+        type: SAPLING
+        damage: 1
+        amount: 2
+      '12':
+        type: STICK
+        amount: 12
+      '13':
+        type: COBBLESTONE
+        amount: 22
+      '16':
+        type: RABBIT_STEW
+      '17':
+        type: RABBIT_STEW
+      '33':
+        type: STONE_PICKAXE
+  '26':
+    Time: 1459465467897
+    Exp: 92
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -14345.132002883065
+      y: 63.0
+      z: 1644.699999988079
+      pitch: 5.352936
+      yaw: 16.735933
+    Items:
+      '0':
+        type: COOKED_CHICKEN
+        amount: 24
+      '1':
+        type: GRILLED_PORK
+        amount: 3
+      '2':
+        type: BOW
+        damage: 269
+      '3':
+        type: ARROW
+        amount: 5
+      '4':
+        type: SIGN
+        amount: 2
+      '5':
+        type: STONE_SWORD
+        damage: 54
+      '6':
+        type: WOOD_PICKAXE
+        damage: 39
+      '7':
+        type: STONE_AXE
+        damage: 80
+      '8':
+        type: BOWL
+      '11':
+        type: SAPLING
+        damage: 1
+        amount: 2
+      '12':
+        type: STICK
+        amount: 12
+      '13':
+        type: COBBLESTONE
+        amount: 22
+      '16':
+        type: RABBIT_STEW
+      '17':
+        type: RABBIT_STEW
+      '33':
+        type: STONE_PICKAXE
+      '36':
+        type: LEATHER_BOOTS
+        damage: 15
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 15
+      '39':
+        type: LEATHER_HELMET
+        damage: 15
+  '27':
+    Time: 1459469876218
+    Exp: 92
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -14345.132002883065
+      y: 63.0
+      z: 1644.699999988079
+      pitch: 5.352936
+      yaw: 16.735933
+    Items:
+      '0':
+        type: COOKED_CHICKEN
+        amount: 24
+      '1':
+        type: GRILLED_PORK
+        amount: 3
+      '2':
+        type: BOW
+        damage: 269
+      '3':
+        type: ARROW
+        amount: 5
+      '4':
+        type: SIGN
+        amount: 2
+      '5':
+        type: STONE_SWORD
+        damage: 54
+      '6':
+        type: WOOD_PICKAXE
+        damage: 39
+      '7':
+        type: STONE_AXE
+        damage: 80
+      '8':
+        type: BOWL
+      '11':
+        type: SAPLING
+        damage: 1
+        amount: 2
+      '12':
+        type: STICK
+        amount: 12
+      '13':
+        type: COBBLESTONE
+        amount: 22
+      '16':
+        type: RABBIT_STEW
+      '17':
+        type: RABBIT_STEW
+      '33':
+        type: STONE_PICKAXE
+      '36':
+        type: LEATHER_BOOTS
+        damage: 15
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 15
+      '39':
+        type: LEATHER_HELMET
+        damage: 15
+  '28':
+    Time: 1459659265945
+    Exp: 92
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -14345.132002883065
+      y: 63.0
+      z: 1644.699999988079
+      pitch: 5.352936
+      yaw: 16.735933
+    Items:
+      '0':
+        type: COOKED_CHICKEN
+        amount: 24
+      '1':
+        type: GRILLED_PORK
+        amount: 3
+      '2':
+        type: BOW
+        damage: 269
+      '3':
+        type: ARROW
+        amount: 5
+      '4':
+        type: SIGN
+        amount: 2
+      '5':
+        type: STONE_SWORD
+        damage: 54
+      '6':
+        type: WOOD_PICKAXE
+        damage: 39
+      '7':
+        type: STONE_AXE
+        damage: 80
+      '8':
+        type: BOWL
+      '11':
+        type: SAPLING
+        damage: 1
+        amount: 2
+      '12':
+        type: STICK
+        amount: 12
+      '13':
+        type: COBBLESTONE
+        amount: 22
+      '16':
+        type: RABBIT_STEW
+      '17':
+        type: RABBIT_STEW
+      '33':
+        type: STONE_PICKAXE
+      '36':
+        type: LEATHER_BOOTS
+        damage: 15
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 15
+      '39':
+        type: LEATHER_HELMET
+        damage: 15
+  '29':
+    Time: 1459766740476
+    Exp: 92
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -14345.132002883065
+      y: 63.0
+      z: 1644.699999988079
+      pitch: 5.352936
+      yaw: 16.735933
+    Items:
+      '0':
+        type: COOKED_CHICKEN
+        amount: 24
+      '1':
+        type: GRILLED_PORK
+        amount: 3
+      '2':
+        type: BOW
+        damage: 269
+      '3':
+        type: ARROW
+        amount: 5
+      '4':
+        type: SIGN
+        amount: 2
+      '5':
+        type: STONE_SWORD
+        damage: 54
+      '6':
+        type: WOOD_PICKAXE
+        damage: 39
+      '7':
+        type: STONE_AXE
+        damage: 80
+      '8':
+        type: BOWL
+      '11':
+        type: SAPLING
+        damage: 1
+        amount: 2
+      '12':
+        type: STICK
+        amount: 12
+      '13':
+        type: COBBLESTONE
+        amount: 22
+      '16':
+        type: RABBIT_STEW
+      '17':
+        type: RABBIT_STEW
+      '33':
+        type: STONE_PICKAXE
+      '36':
+        type: LEATHER_BOOTS
+        damage: 15
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 15
+      '39':
+        type: LEATHER_HELMET
+        damage: 15
+  '30':
+    Time: 1459847491549
+    Exp: 92
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -14345.132002883065
+      y: 63.0
+      z: 1644.699999988079
+      pitch: 5.352936
+      yaw: 16.735933
+    Items:
+      '0':
+        type: COOKED_CHICKEN
+        amount: 24
+      '1':
+        type: GRILLED_PORK
+        amount: 3
+      '2':
+        type: BOW
+        damage: 269
+      '3':
+        type: ARROW
+        amount: 5
+      '4':
+        type: SIGN
+        amount: 2
+      '5':
+        type: STONE_SWORD
+        damage: 54
+      '6':
+        type: WOOD_PICKAXE
+        damage: 39
+      '7':
+        type: STONE_AXE
+        damage: 80
+      '8':
+        type: BOWL
+      '11':
+        type: SAPLING
+        damage: 1
+        amount: 2
+      '12':
+        type: STICK
+        amount: 12
+      '13':
+        type: COBBLESTONE
+        amount: 22
+      '16':
+        type: RABBIT_STEW
+      '17':
+        type: RABBIT_STEW
+      '33':
+        type: STONE_PICKAXE
+      '36':
+        type: LEATHER_BOOTS
+        damage: 15
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 15
+      '39':
+        type: LEATHER_HELMET
+        damage: 15
+  '31':
+    Time: 1460146826507
+    Exp: 92
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -14345.132002883065
+      y: 63.0
+      z: 1644.699999988079
+      pitch: 5.352936
+      yaw: 16.735933
+    Items:
+      '0':
+        type: COOKED_CHICKEN
+        amount: 24
+      '1':
+        type: GRILLED_PORK
+        amount: 3
+      '2':
+        type: BOW
+        damage: 269
+      '3':
+        type: ARROW
+        amount: 5
+      '4':
+        type: SIGN
+        amount: 2
+      '5':
+        type: STONE_SWORD
+        damage: 54
+      '6':
+        type: WOOD_PICKAXE
+        damage: 39
+      '7':
+        type: STONE_AXE
+        damage: 80
+      '8':
+        type: BOWL
+      '11':
+        type: SAPLING
+        damage: 1
+        amount: 2
+      '12':
+        type: STICK
+        amount: 12
+      '13':
+        type: COBBLESTONE
+        amount: 22
+      '16':
+        type: RABBIT_STEW
+      '17':
+        type: RABBIT_STEW
+      '33':
+        type: STONE_PICKAXE
+      '36':
+        type: LEATHER_BOOTS
+        damage: 15
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 15
+      '39':
+        type: LEATHER_HELMET
+        damage: 15
+  '32':
+    Time: 1460883173785
+    Exp: 92
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -14345.132002883065
+      y: 63.0
+      z: 1644.699999988079
+      pitch: 5.352936
+      yaw: 16.735933
+    Items:
+      '0':
+        type: COOKED_CHICKEN
+        amount: 24
+      '1':
+        type: GRILLED_PORK
+        amount: 3
+      '2':
+        type: BOW
+        damage: 269
+      '3':
+        type: ARROW
+        amount: 5
+      '4':
+        type: SIGN
+        amount: 2
+      '5':
+        type: STONE_SWORD
+        damage: 54
+      '6':
+        type: WOOD_PICKAXE
+        damage: 39
+      '7':
+        type: STONE_AXE
+        damage: 80
+      '8':
+        type: BOWL
+      '11':
+        type: SAPLING
+        damage: 1
+        amount: 2
+      '12':
+        type: STICK
+        amount: 12
+      '13':
+        type: COBBLESTONE
+        amount: 22
+      '16':
+        type: RABBIT_STEW
+      '17':
+        type: RABBIT_STEW
+      '33':
+        type: STONE_PICKAXE
+      '36':
+        type: LEATHER_BOOTS
+        damage: 15
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 15
+      '39':
+        type: LEATHER_HELMET
+        damage: 15
+  '33':
+    Time: 1462120698505
+    Exp: 92
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -14345.132002883065
+      y: 63.0
+      z: 1644.699999988079
+      pitch: 5.352936
+      yaw: 16.735933
+    Items:
+      '0':
+        type: COOKED_CHICKEN
+        amount: 24
+      '1':
+        type: GRILLED_PORK
+        amount: 3
+      '2':
+        type: BOW
+        damage: 269
+      '3':
+        type: ARROW
+        amount: 5
+      '4':
+        type: SIGN
+        amount: 2
+      '5':
+        type: STONE_SWORD
+        damage: 54
+      '6':
+        type: WOOD_PICKAXE
+        damage: 39
+      '7':
+        type: STONE_AXE
+        damage: 80
+      '8':
+        type: BOWL
+      '11':
+        type: SAPLING
+        damage: 1
+        amount: 2
+      '12':
+        type: STICK
+        amount: 12
+      '13':
+        type: COBBLESTONE
+        amount: 22
+      '16':
+        type: RABBIT_STEW
+      '17':
+        type: RABBIT_STEW
+      '33':
+        type: STONE_PICKAXE
+      '36':
+        type: LEATHER_BOOTS
+        damage: 15
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 15
+      '39':
+        type: LEATHER_HELMET
+        damage: 15
+  '34':
+    Time: 1462483222879
+    Exp: 92
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -14345.132002883065
+      y: 63.0
+      z: 1644.699999988079
+      pitch: 5.352936
+      yaw: 16.735933
+    Items:
+      '0':
+        type: COOKED_CHICKEN
+        amount: 24
+      '1':
+        type: GRILLED_PORK
+        amount: 3
+      '2':
+        type: BOW
+        damage: 269
+      '3':
+        type: ARROW
+        amount: 5
+      '4':
+        type: SIGN
+        amount: 2
+      '5':
+        type: STONE_SWORD
+        damage: 54
+      '6':
+        type: WOOD_PICKAXE
+        damage: 39
+      '7':
+        type: STONE_AXE
+        damage: 80
+      '8':
+        type: BOWL
+      '11':
+        type: SAPLING
+        damage: 1
+        amount: 2
+      '12':
+        type: STICK
+        amount: 12
+      '13':
+        type: COBBLESTONE
+        amount: 22
+      '16':
+        type: RABBIT_STEW
+      '17':
+        type: RABBIT_STEW
+      '33':
+        type: STONE_PICKAXE
+      '36':
+        type: LEATHER_BOOTS
+        damage: 15
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 15
+      '39':
+        type: LEATHER_HELMET
+        damage: 15

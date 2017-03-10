@@ -1,0 +1,51 @@
+SkeletonKing:
+  KillMessages:
+  - '&7[&8Mob Boss&7] &c<target.name> was killed by the &6Skeleton King'
+  Type: WITHER_SKELETON
+  Display: '&6Skeleton King'
+  Health: 1500
+  Damage: 20
+  AITargetSelectors:
+  - 0 clear
+  - 1 hurtbytarget
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  Modules:
+    ThreatTable: true
+    ImmunityTable: true
+  Skills:
+  - message{cooldown=25;m="<mob.name><&co> None may challenge the Skeleton King!"} @PlayersInRadius{r=40} ~onCombat >0 0.2
+  - message{m="<mob.name><&co> Ahahahahah! Die, <trigger.name>!"} @PlayersInRadius{r=40} ~onPlayerKill >0 1
+  - skill{s=SK_Weapon} ~onCombat >0 0.2 
+  - skill{cooldown=5;s=Taunts} @PlayersInRadius{r=40} ~onCombat >0 0.2 
+  - skill{cooldown=30;s=Glowing_Skill} @PlayersInRadius{r=40} ~onCombat >0 0.2
+  - skill{cooldown=60;s=SummonSkeletons} @PlayersInRadius{r=40} @Self 0.1
+  - skill{cooldown=80;s=SkeletonWarriors} @PlayersInRadius{r=40} @Self 0.1
+  - skill{s=SummonEndermites} @Self 0.1
+  - skill{s=SmashAttack} @Target >0 0.2
+  - skill{cooldown=100;s=Regeneration} @Self
+  - skill{s=FireShield} @trigger ~onDamaged 0.1
+  - skill{s=Bash} =10%-90%
+  - effect:flames @target 
+  - effect:ender @PlayersInRadius{r=20}
+  - effect:particles{p=flame;a=20;hS=3;vS=1;s=0;y=2}
+  - effect:lightning @self ~onDeath 1
+  - effect:lightning @self ~onDeath 1
+  - effect:lightning @self ~onDeath 1
+  - command{c="broadcast <trigger.name> defeated the &6&lSkeleton King!"} ~onDeath 1
+  Equipment:
+  - SkeletonKingSword:0
+  - KingsCrown:4
+  - KingsShield:5
+  Drops:
+  - SkeletonKingDrops
+  - money 1500
+  - exp 100-200 15
+  Options:
+    MovementSpeed: 0.30
+    PreventOtherDrops: true
+    AlwaysShowName: true
+    MaxCombatDistance: 15
+    FollowRange: 13
+    NoDamageTicks: 10

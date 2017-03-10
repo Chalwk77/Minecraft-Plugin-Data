@@ -1,0 +1,21 @@
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+lastAccountName: Gossiped
+timestamps:
+  login: 1472121119607
+  logout: 1472121131299
+ipAddress: 211.27.92.122
+geolocation: Brunswick, Victoria, Australia
+logoutlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 265.30298
+  pitch: 0.94876367
+money: '2500'

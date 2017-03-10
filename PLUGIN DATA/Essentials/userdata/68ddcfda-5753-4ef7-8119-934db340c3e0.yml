@@ -1,0 +1,31 @@
+geolocation: New Zealand
+lastlocation:
+  world: world
+  x: 479.6025348098053
+  y: 88.0
+  z: -166.32040770080096
+  yaw: 191.96794
+  pitch: 18.554821
+lastAccountName: EstherBunny
+timestamps:
+  login: 1479386488325
+  lastteleport: 1476181290170
+  logout: 1479386763902
+ipAddress: 122.62.221.93
+money: '22782.3379999999999962'
+homes:
+  home:
+    world: world
+    x: -29012.270465000613
+    y: 80.0
+    z: -571.6999999880791
+    yaw: -45.53084
+    pitch: 34.1959
+logoutlocation:
+  world: world
+  x: 478.62651592089327
+  y: 89.0
+  z: -182.2418145282089
+  yaw: 142.77774
+  pitch: -8.179037
+afk: false

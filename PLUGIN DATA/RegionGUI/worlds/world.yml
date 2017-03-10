@@ -1,0 +1,78 @@
+############################################################
+# +------------------------------------------------------+ #
+# |                 RegionGUI                            | #
+# +------------------------------------------------------+ #
+############################################################
+
+
+
+# These are the enabled flags for the current world.
+flags:
+  pvp: true
+  block-break: true
+  block-place: true
+  chest-access: true
+  creeper-explosion: true
+  damage-animals: true
+  enderpearl: true
+  exp-drops: true
+  grass-growth: true
+  ice-form: true
+  ice-melt: true
+  interact: true
+  item-drop: true
+  item-pickup: true
+  leaf-decay: true
+  mob-spawning: true
+  mycelium-spread: true
+  pistons: true
+  potion-splash: true
+  snow-fall: true
+  snow-melt: true
+  vine-growth: true
+  entry: true
+  exit: true
+  fire-spread: true
+  lava-fire: true
+  use: true
+
+#This will regenerate the region via WorldEdits //regen Command. 
+#Please note that it WILL lag on big regions/claims! It also may regenerate half trees or weired landscape.
+#Please do NOT contact the author if it creates lag or unwanted landscape since it uses WorldEdit methods only!
+#This feature is experimental!
+regenOnDelete: false
+
+#Maximum regions per player for this world.
+max_regions: 5
+
+#Price per block. The price is calculated by size * size * block_price
+block_price: 1
+
+#Set this to false if you don't want to generate borders. It can still be enabled for a single or multiple templates.
+generateBorder: true
+
+#Amount of slots for the claiming interface (Must be a multiple of 9 and a maximum of 54
+inventory_slots: 9
+
+#Disable the overlapping Regions check. This will allow your Players to claim regions even if it overlaps someone elses region. (use with caution)
+disableOverlapCheck: false
+template:
+  '0':
+    size: 10
+    icon: BARRIER
+    description:
+    - '&cYou are standing in an unprotected (global) region.'
+    - '&cPlease stand in an &oactive &cregion.'
+    - '&aIf you need assistance, please contact a staff member.'
+    name: 'No Regions detected!'
+    welcome_message: Now entering region of %player%
+    leave_message: Now leaving region of %player%
+    border_material: FENCE
+    #
+    # The settings below are OPTIONAL. If you don't want to use these settings
+    # just remove them from your configuration file.
+    #
+    depth: 20
+    height: 5
+    price: 1000000
+    border: true

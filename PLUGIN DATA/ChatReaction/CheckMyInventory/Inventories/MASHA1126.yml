@@ -1,0 +1,161 @@
+Inventories:
+  '25':
+    Time: 1458455349690
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.9613172306301
+      y: 89.0
+      z: -186.68223088400745
+      pitch: 9.937569
+      yaw: 28.131483
+  '26':
+    Time: 1459465459424
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.9613172306301
+      y: 89.0
+      z: -186.68223088400745
+      pitch: 9.937569
+      yaw: 28.131483
+  '27':
+    Time: 1459469868850
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.9613172306301
+      y: 89.0
+      z: -186.68223088400745
+      pitch: 9.937569
+      yaw: 28.131483
+  '28':
+    Time: 1459659257505
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.9613172306301
+      y: 89.0
+      z: -186.68223088400745
+      pitch: 9.937569
+      yaw: 28.131483
+  '29':
+    Time: 1459766730240
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.9613172306301
+      y: 89.0
+      z: -186.68223088400745
+      pitch: 9.937569
+      yaw: 28.131483
+  '30':
+    Time: 1459847482193
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.9613172306301
+      y: 89.0
+      z: -186.68223088400745
+      pitch: 9.937569
+      yaw: 28.131483
+  '31':
+    Time: 1460146818910
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.9613172306301
+      y: 89.0
+      z: -186.68223088400745
+      pitch: 9.937569
+      yaw: 28.131483
+  '32':
+    Time: 1460883165208
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.9613172306301
+      y: 89.0
+      z: -186.68223088400745
+      pitch: 9.937569
+      yaw: 28.131483
+  '33':
+    Time: 1462120690013
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.9613172306301
+      y: 89.0
+      z: -186.68223088400745
+      pitch: 9.937569
+      yaw: 28.131483
+  '34':
+    Time: 1462483212838
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.9613172306301
+      y: 89.0
+      z: -186.68223088400745
+      pitch: 9.937569
+      yaw: 28.131483

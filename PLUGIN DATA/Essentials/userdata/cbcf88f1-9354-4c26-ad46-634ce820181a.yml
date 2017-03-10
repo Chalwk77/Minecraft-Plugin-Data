@@ -1,0 +1,23 @@
+lastAccountName: Scout2007
+timestamps:
+  login: 1477888527188
+  logout: 1477888648785
+  lastteleport: 1473154281148
+ipAddress: 60.240.231.95
+geolocation: Eltham, Victoria, Australia
+lastlocation:
+  world: world
+  x: 672.3000000119209
+  y: 61.0
+  z: 153.10935139867
+  yaw: 57.149998
+  pitch: 49.95
+money: '70.7167999999999991'
+logoutlocation:
+  world: world
+  x: 672.3000000119209
+  y: 61.0
+  z: 153.9244956258368
+  yaw: 44.40003
+  pitch: 46.949997
+afk: false

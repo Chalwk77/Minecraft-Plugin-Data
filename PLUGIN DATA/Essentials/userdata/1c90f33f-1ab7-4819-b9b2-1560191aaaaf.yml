@@ -1,0 +1,37 @@
+lastlocation:
+  world: world
+  x: 2406.4196828719973
+  y: 68.0
+  z: 2660.009336126501
+  yaw: -22.3479
+  pitch: 16.799963
+lastAccountName: TheSavagePenguin
+timestamps:
+  login: 1474773784493
+  lastteleport: 1474772925220
+  kits:
+    mccharacter: 1464125695391
+    citizen: 1469741771643
+    color: 1464137424510
+    tools: 1464204805423
+    food: 1464205415546
+  logout: 1474773872353
+ipAddress: 96.19.204.109
+geolocation: Columbus, Mississippi, United States
+money: '7845.2100000000000004'
+homes:
+  home:
+    world: world
+    x: 2410.730153969152
+    y: 75.0
+    z: 2668.968646589356
+    yaw: 327.901
+    pitch: 38.250023
+afk: false
+logoutlocation:
+  world: world
+  x: 2415.003600373097
+  y: 70.0
+  z: 2663.969325898169
+  yaw: 69.152954
+  pitch: 15.299781

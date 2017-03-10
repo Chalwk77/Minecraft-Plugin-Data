@@ -1,0 +1,22 @@
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+lastAccountName: LushLiife
+timestamps:
+  login: 1475920648658
+  logout: 1475920684488
+  lastteleport: 1470128264912
+ipAddress: 124.191.97.105
+geolocation: Hoppers Crossing, Victoria, Australia
+logoutlocation:
+  world: world
+  x: 478.15295473390466
+  y: 89.0
+  z: -190.29590252311056
+  yaw: 160.89975
+  pitch: -0.60002404
+money: '2500'

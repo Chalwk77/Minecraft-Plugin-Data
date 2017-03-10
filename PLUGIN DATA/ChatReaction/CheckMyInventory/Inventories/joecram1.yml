@@ -1,0 +1,925 @@
+Inventories:
+  '1':
+    Time: 1459659265717
+    Exp: 109
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 62863
+        Amplifier: 1
+    Location:
+      world: world
+      x: -294250.2534352427
+      y: 63.0
+      z: 243895.8272057407
+      pitch: 11.563175
+      yaw: -106.84009
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_SWORD
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 115
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 157
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '9':
+        type: COAL
+        amount: 45
+      '10':
+        type: WORKBENCH
+      '11':
+        type: STONE
+        damage: 3
+      '12':
+        type: BONE
+        amount: 2
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 10
+      '14':
+        type: ARROW
+        amount: 2
+      '15':
+        type: RED_MUSHROOM
+        amount: 40
+      '16':
+        type: LEATHER
+        amount: 5
+      '17':
+        type: RAW_BEEF
+        amount: 8
+      '18':
+        type: BROWN_MUSHROOM
+        amount: 7
+      '19':
+        type: FURNACE
+        amount: 2
+      '20':
+        type: COBBLESTONE
+        amount: 24
+      '21':
+        type: SEEDS
+      '22':
+        type: IRON_INGOT
+      '23':
+        type: SAPLING
+      '36':
+        type: IRON_BOOTS
+        damage: 8
+      '37':
+        type: IRON_LEGGINGS
+        damage: 8
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 8
+      '40':
+        type: SHIELD
+        damage: 18
+  '2':
+    Time: 1459766740231
+    Exp: 109
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 62863
+        Amplifier: 1
+    Location:
+      world: world
+      x: -294250.2534352427
+      y: 63.0
+      z: 243895.8272057407
+      pitch: 11.563175
+      yaw: -106.84009
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_SWORD
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 115
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 157
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '9':
+        type: COAL
+        amount: 45
+      '10':
+        type: WORKBENCH
+      '11':
+        type: STONE
+        damage: 3
+      '12':
+        type: BONE
+        amount: 2
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 10
+      '14':
+        type: ARROW
+        amount: 2
+      '15':
+        type: RED_MUSHROOM
+        amount: 40
+      '16':
+        type: LEATHER
+        amount: 5
+      '17':
+        type: RAW_BEEF
+        amount: 8
+      '18':
+        type: BROWN_MUSHROOM
+        amount: 7
+      '19':
+        type: FURNACE
+        amount: 2
+      '20':
+        type: COBBLESTONE
+        amount: 24
+      '21':
+        type: SEEDS
+      '22':
+        type: IRON_INGOT
+      '23':
+        type: SAPLING
+      '36':
+        type: IRON_BOOTS
+        damage: 8
+      '37':
+        type: IRON_LEGGINGS
+        damage: 8
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 8
+      '40':
+        type: SHIELD
+        damage: 18
+  '3':
+    Time: 1459847491268
+    Exp: 109
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 62863
+        Amplifier: 1
+    Location:
+      world: world
+      x: -294250.2534352427
+      y: 63.0
+      z: 243895.8272057407
+      pitch: 11.563175
+      yaw: -106.84009
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_SWORD
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 115
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 157
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '9':
+        type: COAL
+        amount: 45
+      '10':
+        type: WORKBENCH
+      '11':
+        type: STONE
+        damage: 3
+      '12':
+        type: BONE
+        amount: 2
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 10
+      '14':
+        type: ARROW
+        amount: 2
+      '15':
+        type: RED_MUSHROOM
+        amount: 40
+      '16':
+        type: LEATHER
+        amount: 5
+      '17':
+        type: RAW_BEEF
+        amount: 8
+      '18':
+        type: BROWN_MUSHROOM
+        amount: 7
+      '19':
+        type: FURNACE
+        amount: 2
+      '20':
+        type: COBBLESTONE
+        amount: 24
+      '21':
+        type: SEEDS
+      '22':
+        type: IRON_INGOT
+      '23':
+        type: SAPLING
+      '36':
+        type: IRON_BOOTS
+        damage: 8
+      '37':
+        type: IRON_LEGGINGS
+        damage: 8
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 8
+      '40':
+        type: SHIELD
+        damage: 18
+  '4':
+    Time: 1460146826302
+    Exp: 109
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 62863
+        Amplifier: 1
+    Location:
+      world: world
+      x: -294250.2534352427
+      y: 63.0
+      z: 243895.8272057407
+      pitch: 11.563175
+      yaw: -106.84009
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_SWORD
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 115
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 157
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '9':
+        type: COAL
+        amount: 45
+      '10':
+        type: WORKBENCH
+      '11':
+        type: STONE
+        damage: 3
+      '12':
+        type: BONE
+        amount: 2
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 10
+      '14':
+        type: ARROW
+        amount: 2
+      '15':
+        type: RED_MUSHROOM
+        amount: 40
+      '16':
+        type: LEATHER
+        amount: 5
+      '17':
+        type: RAW_BEEF
+        amount: 8
+      '18':
+        type: BROWN_MUSHROOM
+        amount: 7
+      '19':
+        type: FURNACE
+        amount: 2
+      '20':
+        type: COBBLESTONE
+        amount: 24
+      '21':
+        type: SEEDS
+      '22':
+        type: IRON_INGOT
+      '23':
+        type: SAPLING
+      '36':
+        type: IRON_BOOTS
+        damage: 8
+      '37':
+        type: IRON_LEGGINGS
+        damage: 8
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 8
+      '40':
+        type: SHIELD
+        damage: 18
+  '5':
+    Time: 1460883173568
+    Exp: 109
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 62863
+        Amplifier: 1
+    Location:
+      world: world
+      x: -294250.2534352427
+      y: 63.0
+      z: 243895.8272057407
+      pitch: 11.563175
+      yaw: -106.84009
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_SWORD
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 115
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 157
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '9':
+        type: COAL
+        amount: 45
+      '10':
+        type: WORKBENCH
+      '11':
+        type: STONE
+        damage: 3
+      '12':
+        type: BONE
+        amount: 2
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 10
+      '14':
+        type: ARROW
+        amount: 2
+      '15':
+        type: RED_MUSHROOM
+        amount: 40
+      '16':
+        type: LEATHER
+        amount: 5
+      '17':
+        type: RAW_BEEF
+        amount: 8
+      '18':
+        type: BROWN_MUSHROOM
+        amount: 7
+      '19':
+        type: FURNACE
+        amount: 2
+      '20':
+        type: COBBLESTONE
+        amount: 24
+      '21':
+        type: SEEDS
+      '22':
+        type: IRON_INGOT
+      '23':
+        type: SAPLING
+      '36':
+        type: IRON_BOOTS
+        damage: 8
+      '37':
+        type: IRON_LEGGINGS
+        damage: 8
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 8
+      '40':
+        type: SHIELD
+        damage: 18
+  '6':
+    Time: 1462120698310
+    Exp: 109
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 62863
+        Amplifier: 1
+    Location:
+      world: world
+      x: -294250.2534352427
+      y: 63.0
+      z: 243895.8272057407
+      pitch: 11.563175
+      yaw: -106.84009
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_SWORD
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 115
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 157
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '9':
+        type: COAL
+        amount: 45
+      '10':
+        type: WORKBENCH
+      '11':
+        type: STONE
+        damage: 3
+      '12':
+        type: BONE
+        amount: 2
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 10
+      '14':
+        type: ARROW
+        amount: 2
+      '15':
+        type: RED_MUSHROOM
+        amount: 40
+      '16':
+        type: LEATHER
+        amount: 5
+      '17':
+        type: RAW_BEEF
+        amount: 8
+      '18':
+        type: BROWN_MUSHROOM
+        amount: 7
+      '19':
+        type: FURNACE
+        amount: 2
+      '20':
+        type: COBBLESTONE
+        amount: 24
+      '21':
+        type: SEEDS
+      '22':
+        type: IRON_INGOT
+      '23':
+        type: SAPLING
+      '36':
+        type: IRON_BOOTS
+        damage: 8
+      '37':
+        type: IRON_LEGGINGS
+        damage: 8
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 8
+      '40':
+        type: SHIELD
+        damage: 18
+  '7':
+    Time: 1462483222628
+    Exp: 109
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 62863
+        Amplifier: 1
+    Location:
+      world: world
+      x: -294250.2534352427
+      y: 63.0
+      z: 243895.8272057407
+      pitch: 11.563175
+      yaw: -106.84009
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_SWORD
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 115
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 157
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '9':
+        type: COAL
+        amount: 45
+      '10':
+        type: WORKBENCH
+      '11':
+        type: STONE
+        damage: 3
+      '12':
+        type: BONE
+        amount: 2
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 10
+      '14':
+        type: ARROW
+        amount: 2
+      '15':
+        type: RED_MUSHROOM
+        amount: 40
+      '16':
+        type: LEATHER
+        amount: 5
+      '17':
+        type: RAW_BEEF
+        amount: 8
+      '18':
+        type: BROWN_MUSHROOM
+        amount: 7
+      '19':
+        type: FURNACE
+        amount: 2
+      '20':
+        type: COBBLESTONE
+        amount: 24
+      '21':
+        type: SEEDS
+      '22':
+        type: IRON_INGOT
+      '23':
+        type: SAPLING
+      '36':
+        type: IRON_BOOTS
+        damage: 8
+      '37':
+        type: IRON_LEGGINGS
+        damage: 8
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 8
+      '40':
+        type: SHIELD
+        damage: 18

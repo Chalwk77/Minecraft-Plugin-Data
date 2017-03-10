@@ -1,0 +1,32 @@
+lastlocation:
+  world: world
+  x: 843.741417850485
+  y: 64.0
+  z: 310.0611341843849
+  yaw: 353.70123
+  pitch: 13.949917
+geolocation: Australia
+lastAccountName: josh1106
+timestamps:
+  login: 1475994496062
+  logout: 1475994968828
+  lastteleport: 1475994967221
+  kits:
+    citizen: 1475824281124
+ipAddress: 155.143.54.73
+logoutlocation:
+  world: world
+  x: 656.5
+  y: 62.5
+  z: 275.5
+  yaw: 305.5387
+  pitch: -1.3499717
+money: '9711.9150000000000068'
+homes:
+  home:
+    world: world
+    x: 10065.682858872186
+    y: 66.0
+    z: -23272.17908946509
+    yaw: -241.94214
+    pitch: 7.9499207

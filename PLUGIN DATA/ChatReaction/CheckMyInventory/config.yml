@@ -1,0 +1,223 @@
+# Language file you want to use
+Language: EN
+Vault:
+  # If your having issues with vault grabbing correct players' group or balance, consider to turn this to false
+  Money: true
+  Group: true
+# Shows if there is an available new version on login with cmi.versioncheck permission node
+ShowNewVersion: true
+Spawners:
+  Break:
+    # Enable or disable spawner handler for spawner break
+    # If enabled player will get spawner if using silktouch pickaxe and have cmi.dropspawner permission node
+    # If player has cmi.dropspawner.nosilk permission node, player is not required to use silk touch pickaxe to get droped spawner
+    Enabled: false
+SpawnMob:
+  # Defines how many passengers entities can be spawned at once
+  MaxQuantity: 10
+  MaxPassengers: 10
+DynamicViewRange:
+  # By setting to true will enable dynamic view range feature. Its still in beta stage and can result in some CPU load increase.
+  # Don't enable if you are not using this feature on your server
+  Enabled: false
+WorldLimits:
+  # By setting to true fly and gamemode limitations per world will be aplied for player on world change if they dont have appropiate permission node
+  Enabled: false
+  # If player will have cmi.worldlimit.fly.bypass permission node, fly mode wont be changed
+  Gamemode:
+  - world:Survival
+  Fly:
+  - world:False
+# Checks and shows on players login if he have been changed hes name over Mojang
+# Looks to be working only with online servers, duhhhh
+CheckForNameChange:
+  OnLogin: true
+  OnInfoShow: true
+inv:
+  # Do you want to save the player's inventory on his death
+  SaveOnDeath: true
+  # How many inventories, we will keep
+  SavedInventories: 10
+hunger:
+  # Do you want to give more than 20 hunger for players
+  overide: true
+heal:
+  RemoveNegative:
+    # Do you want to remove negative potion effects from player on heal
+    use: false
+    List:
+    - blindness
+    - confusion
+    - harm
+    - hunger
+    - poison
+    - slow
+    - slow_digging
+    - weakness
+    - wither
+Cooldowns:
+  Enabled: false
+  List:
+  - Heal:180
+  - Feed:120
+scan:
+  # Tps cap from which to start adjusting scan speed
+  SoftCap: 19.0
+  # Staring speed when scanning. Range from 1 to 30
+  DefaultSpeed: 15
+  # When this set to true, when using scan feature and not providing range, whole map will be scanned
+  GlobalRangeByDefault: false
+  # Range in chunks. 2 is 25 chunks, 1 is 9 and 0 is only chunk you are standing in
+  DefaultRange: 2
+  # When this set to true, all found items in containers will be removed automaticaly durring scan. Ex: /scan id 7 purge
+  EnablePurge: false
+search:
+  # When this set to true, all found items in inventories will be deleted durring search. Ex: /cmi search id 7 purge
+  EnablePurge: false
+lfix:
+  # Tps cap from which to start adjusting light fix speed
+  SoftCap: 19.0
+  # Staring speed when fixing light. Range from 1 to 100
+  DefaultSpeed: 15
+purge:
+  # Cleans files on server startup
+  CleanOnStart: false
+  # How long player should be offline for his data to be moved
+  OfflineDays: 90
+  PlayerData:
+    # Do you want to enable player data file cleaning
+    Enabled: false
+    # Source folder to take files from
+    SourceFolder: world/playerdata
+    # When this is false, data files will be moved to backup folder. When its true files will be deleted
+    DeleteFiles: false
+    # Target folder to put files into if DeleteFiles set to false
+    DestinationFolder: world/playerdata_backup
+  PlayerStats:
+    # Do you want to enable player stats file cleaning
+    Enabled: false
+    # Source folder to take files from
+    SourceFolder: world/stats
+    # When this is false, data files will be moved to backup folder. When its true files will be deleted
+    DeleteFiles: false
+    # Target folder to put files into if DeleteFiles set to false
+    DestinationFolder: world/stats_backup
+  Essentials:
+    # Do you want to enable essentials playerdata file cleaning
+    Enabled: true
+    # Source folder to take files from
+    SourceFolder: plugins/Essentials/userdata
+    # When this is false, data files will be moved to backup folder. When its true files will be deleted
+    DeleteFiles: false
+    # Target folder to put files into if DeleteFiles set to false
+    DestinationFolder: plugins/Essentials/userdata_backup
+  LWC:
+    # Do you want to enable lwc protection cleaning
+    Enabled: true
+Time:
+  # Defines preset time
+  Day: '12:00'
+  Night: '24:00'
+  Morning: 06:00
+  Dusk: '18:00'
+  AutoTime:
+    # Time in seconds time in game will be adjusted to match real
+    # Keep it at arround one minute
+    Interval: 60
+    # Worlds effected by autotime adjustment
+    Worlds:
+    - ''
+Alias:
+  # All aliases to use with this plugin, if it interferes with another plugin, just disable it here and reload plugin with /cmi reload
+  ci: false
+  cinv: false
+  invsee: true
+  ce: false
+  ec: false
+  cend: false
+  enderchest: false
+  wb: false
+  workbench: false
+  merchant: true
+  cback: false
+  chat: false
+  hat: false
+  fly: false
+  effect: false
+  god: false
+  tgod: false
+  tp: false
+  exp: false
+  xp: false
+  heal: false
+  feed: false
+  clear: false
+  flyspeed: false
+  walkspeed: false
+  gm: false
+  gamemode: false
+  head: false
+  search: false
+  scan: true
+  tppos: false
+  maxhp: false
+  hunger: false
+  saturation: false
+  whois: false
+  air: false
+  sc: false
+  spawner: false
+  spawnmob: false
+  give: false
+  giveall: false
+  ping: true
+  repair: false
+  enchant: false
+  itemname: true
+  iname: true
+  itemlore: true
+  ilore: true
+  lfix: true
+  preview: true
+  viewrange: true
+  tfly: true
+  glow: true
+  lastonline: true
+  ptime: true
+  time: true
+  day: true
+  night: true
+  morning: true
+  dusk: true
+Enchanting:
+  enchantLimits:
+    # By disabling this, no limitation to enchanting will be applied
+    Enabled: false
+    MaxLevel:
+      protection_environmental: 4
+      protection_fire: 4
+      protection_fall: 4
+      protection_explosions: 4
+      protection_projectile: 4
+      oxygen: 3
+      water_worker: 1
+      mending: 1
+      thorns: 3
+      depth_strider: 3
+      frost_walker: 2
+      damage_all: 5
+      damage_undead: 5
+      damage_arthropods: 5
+      knockback: 2
+      fire_aspect: 2
+      loot_bonus_mobs: 3
+      dig_speed: 5
+      silk_touch: 1
+      durability: 3
+      loot_bonus_blocks: 3
+      arrow_damage: 5
+      arrow_knockback: 2
+      arrow_fire: 1
+      arrow_infinite: 1
+      luck: 3
+      lure: 3

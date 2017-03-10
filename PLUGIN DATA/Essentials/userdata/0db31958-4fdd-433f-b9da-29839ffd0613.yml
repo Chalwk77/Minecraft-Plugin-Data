@@ -1,0 +1,47 @@
+lastAccountName: miller199
+timestamps:
+  login: 1467558455439
+  lastteleport: 1467554350911
+  logout: 1467558498806
+ipAddress: 99.10.255.31
+geolocation: Orlando, Florida, United States
+lastlocation:
+  world: world
+  x: 1665.0065832312184
+  y: 15.0
+  z: 1236.2962414495353
+  yaw: -5.485377
+  pitch: 26.360727
+logoutlocation:
+  world: world
+  x: 1567.955252802911
+  y: 72.0
+  z: 1144.1666349067805
+  yaw: 26.042175
+  pitch: 32.08429
+money: '2500'
+homes:
+  home:
+    world: world
+    x: 1565.5266513344188
+    y: 72.0
+    z: 1141.4880466938835
+    yaw: -193.29149
+    pitch: 79.328735
+afk: false
+mail:
+- §6[§rServer§6] §rAll NPC's have been removed from /baltop list
+- §6[§rChalwk§6] §rCustom Runes Enchant Shop now open! &b/warp runeshop
+- §6[§rChalwk§6] §rNew content available at /warp runeshop
+- '§6[§rServer§6] §rNotice: Known issue with /nv when wearing any type of helmet.'
+- '§6[§rChalwk§6] §rNotice: Known issue with Veinminer Rune Enchant. Do not use!'
+- '§6[§rChalwk§6] §rNotice: Disguises (/d) are ''temporarily'' disabled.'
+- '§6[§rServer§6] §rNotice: Webstore sale extended to Mon 25th Jul'
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'

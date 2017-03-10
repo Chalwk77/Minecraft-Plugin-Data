@@ -1,0 +1,60 @@
+PROTECTION_ENVIRONMENTAL:
+  max-level: 9
+PROTECTION_FIRE:
+  max-level: 9
+PROTECTION_FALL:
+  max-level: 9
+PROTECTION_EXPLOSIONS:
+  max-level: 9
+PROTECTION_PROJECTILE:
+  max-level: 9
+OXYGEN:
+  max-level: 9
+WATER_WORKER:
+  max-level: 9
+MENDING:
+  max-level: 9
+THORNS:
+  max-level: 9
+DEPTH_STRIDER:
+  max-level: 9
+FROST_WALKER:
+  max-level: 9
+DAMAGE_ALL:
+  max-level: 9
+DAMAGE_UNDEAD:
+  max-level: 9
+DAMAGE_ARTHROPODS:
+  max-level: 9
+KNOCKBACK:
+  max-level: 9
+FIRE_ASPECT:
+  max-level: 9
+LOOT_BONUS_MOBS:
+  max-level: 9
+DIG_SPEED:
+  max-level: 9
+SILK_TOUCH:
+  max-level: 9
+DURABILITY:
+  max-level: 9
+LOOT_BONUS_BLOCKS:
+  max-level: 9
+ARROW_DAMAGE:
+  max-level: 9
+ARROW_KNOCKBACK:
+  max-level: 9
+ARROW_FIRE:
+  max-level: 9
+ARROW_INFINITE:
+  max-level: 9
+LUCK:
+  max-level: 9
+LURE:
+  max-level: 9
+Custom Enchantment:
+  max-level: 9
+VANISHING_CURSE:
+  max-level: 10
+BINDING_CURSE:
+  max-level: 10

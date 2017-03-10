@@ -1,0 +1,261 @@
+###########################################################################
+#The following Mob pack was made by flyuphigh on MM v2.3.0 on a 1.8.8 server, but works on the latest version(2.4.5) as well.
+#For 1.9 compatibility, change the sounds accordingly to 1.9
+#http://minecraft.gamepedia.com/Sounds.json -> this link should help on converting to 1.9 sounds.
+
+#If you are an active user of MythicMobs, please consider becoming a patron to MM
+#https://www.patreon.com/xikage?ty=h -> I post this link without any strings attached to Xikage.
+#Enjoy~
+###########################################################################
+
+Hybridspider:
+  Type: SPIDER
+  Display: '&3Hybrid spider'
+  Health: 50
+  Damage: 7
+  KillMessages:
+  - '&7[&8Mythical Creature&7] <target.name> has been killed by <mob.name>'
+  Drops:
+  - exp 1-25 1
+  - money 500
+  - HybridspiderDrops
+  DamageModifiers:
+  - SUFFOCATION 0
+  - FALL 0
+  - FIRE_TICK 0
+  - LAVA 0.5
+  - CONTACT 0.5
+  AITargetSelectors:
+  - 0 Clear
+  - 1 Attacker
+  - 2 Players
+  Options:
+    MovementSpeed: 0.3
+    PreventOtherDrops: true
+    MaxCombatDistance: 100
+    FollowRange: 50
+    KnockbackResistance: 0.25
+    Despawn: true
+    Angry: true
+  Skills:
+  - effect:particles{p=happyVillager;amount=30;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0.5} @Self ~onTimer:50
+  - skill{s=Spider_shoot} @Target ~onTimer:160
+  - skill{s=Lava_avoid} ~onTimer:100
+  - skill{s=teleport_firsthit} ~onDamaged >0 1
+
+Hybridzombie:
+  Type: ZOMBIE
+  Display: '&3Hybrid zombie'
+  Health: 50
+  Damage: 7
+  KillMessages:
+  - '&7[&8Mythical Creature&7] <target.name> has been killed by <mob.name>'
+  Drops:
+  - exp 1-25 1
+  - money 500
+  - HybridzombieDrops
+  Equipment:
+  - mc_head_skeleton:4
+  - mc_bow:0
+  DamageModifiers:
+  - SUFFOCATION 0
+  - FALL 0
+  - FIRE_TICK 0
+  - LAVA 0.5
+  AITargetSelectors:
+  - 0 Clear
+  - 1 Attacker
+  - 2 Players
+  Options:
+    MovementSpeed: 0.25
+    PreventOtherDrops: true
+    PreventItemPickup: true
+    PreventRandomEquipment: true
+    MaxCombatDistance: 100
+    FollowRange: 50
+    KnockbackResistance: 0.3
+    Despawn: true
+    Angry: true
+  Skills:
+  - setstance{stance=far_stance} @Self ~onSpawn
+  - effect:particles{p=flame;amount=15;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0.5} @Self ~onTimer:50
+  - skill{s=Check_far} ~onTimer:20
+  - skill{s=teleport_firsthit} ~onDamaged >0 1
+  - skill{s=Hybrid_far_attack} @Target ~onTimer:25
+  - skill{s=Hybrid_close_attack} ~onTimer:30
+  - skill{s=Hybrid_volley} ~onTimer:100
+  - skill{s=Lava_avoid} ~onTimer:100
+
+Swordspider:
+  Type: SILVERFISH
+  Display: '&3Sword spider'
+  Health: 75
+  Damage: 0
+  KillMessages:
+  - '&7[&8Mythical Creature&7] <target.name> has been killed by <mob.name>'
+  Disguise:
+    Type: SPIDER
+    ModifyBoundingBox: true
+  Modules:
+    ThreatTable: true
+  Drops:
+  - exp 1-25 1
+  - money 500
+  - SwordspiderDrops
+  DamageModifiers:
+  - PROJECTILE 0.2
+  - SUFFOCATION 0
+  - ENTITY_ATTACK 1.2
+  - FALL 0
+  - FIRE_TICK 0
+  AIGoalSelectors:
+  - 0 clear
+  - 1 float
+  - 2 fleeplayers
+  Options:
+    MovementSpeed: 0.35
+    PreventOtherDrops: false
+    KnockbackResistance: 0
+    Despawn: true
+    Angry: true
+    Silent: false
+  Skills:
+  - effect:particles{p=flame;amount=15;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0.5} @Self ~onTimer:50
+  - Skill{s=SpiderSpikes} ~onDamaged
+  - Skill{s=SpiderSpikes} ~onTimer:160
+  - skill{s=Lurker_summon_check} ~onTimer:100
+  - skill{s=Lava_avoid} ~onTimer:100
+
+Lesser_snow_witch:
+  Type: witch
+  Display: '&3Snow witch'
+  Health: 100
+  Damage: 12
+  KillMessages:
+  - '&7[&8Mythical Creature&7] <target.name> has been killed by <mob.name>'
+  DamageModifiers:
+  - SUFFOCATION 0
+  - ENTITY_EXPLOSION 0
+  - BLOCK_EXPLOSION 0
+  - PROJECTILE 0.5
+  Drops:
+  - exp 1-25 1
+  - money 500
+  - Lesser_snow_witchDrops
+  Options:
+    AlwaysShowName: true
+    MovementSpeed: 0.25
+    PreventOtherDrops: true
+    MaxCombatDistance: 100
+    KnockbackResistance: 0.3
+    FollowRange: 75
+    Angry: false
+    Despawn: true
+  Skills:
+  - skill{s=witch_blink} @trigger ~onDamaged
+  - skill{s=push} ~onDamaged
+  - effect:particles{p=blockcrack_79;amount=20;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0.5} @Self ~onTimer:30
+  - skill{s=IceBolt} @NearestPlayer ~onTimer:200
+#  - skill{s=IceWitch_summon_check} @Self ~onTimer:100
+  - skill{s=IceHeal} @self <25% ~onDamaged
+
+Stealthzombie:
+  Type: ZOMBIE
+  Display: '&5Stealth Zombie'
+  Health: 50
+  Damage: 11
+  KillMessages:
+  - '&7[&8Mythical Creature&7] <target.name> has been killed by <mob.name>'
+  Drops:
+  - exp 1-25 1
+  - money 500
+  - StealthzombieDrops
+  Modules:
+    ThreatTable: true
+  DamageModifiers:
+  - PROJECTILE 1.0
+  - SUFFOCATION 0
+  - ENTITY_ATTACK 0.5
+  - FALL 0.2
+  - LAVA 0
+  - FIRE_TICK 0
+  Options:
+    MovementSpeed: 0.15
+    PreventOtherDrops: false
+    PreventItemPickup: true
+    MaxCombatDistance: 100
+    PreventRandomEquipment: true
+    FollowRange: 75
+    KnockbackResistance: 0
+    Despawn: true
+    Angry: true
+    Silent: true
+  Skills:
+  - effect:particles{p=depthsuspend;amount=2;hSpread=0;ySpread=0;speed=3;yOFfset=1} @Self ~onTimer:10
+  - setstance{stance=Stealthzombie_Idle_stance} @Self ~onSpawn
+  - Skill{s=Stealthzombie_Idle} ~onTimer:200
+  - setstance{stance=Stealthzombie_Combat_stance} @Self ~onDamaged >0 1
+  - Skill{s=Stealthzombie_Combat} ~onTimer:80
+  - setstance{stance=Stealthzombie_Hit_stance} @Self ~onDamaged >0 0.5
+  - Skill{s=Stealthzombie_Hit} @NearestPlayer ~onTimer:200
+  - Skill{s=Lava_avoid} ~onTimer:40
+
+Lurker:
+  Type: SILVERFISH
+  Display: '&cQueen of Blades'
+  Health: 70
+  Damage: 2
+  Disguise:
+    Type: CAVE_SPIDER
+    ModifyBoundingBox: true
+  DamageModifiers:
+  - PROJECTILE 0.5
+  - SUFFOCATION 0
+  - ENTITY_ATTACK 1.2
+  - FALL 0
+  - FIRE_TICK 0
+  - FIRE 0
+  - ENTITY_EXPLOSION 0
+  - BLOCK_EXPLOSION 0
+  - DROWNING 0
+  Modules:
+    ThreatTable: true
+  Drops:
+  - exp 1-25 1
+  - money 500
+  - LurkerDrops
+  Options:
+    MovementSpeed: 0.25
+    PreventOtherDrops: true
+    MaxCombatDistance: 75
+    FollowRange: 25
+    KnockbackResistance: 0
+    Despawn: false
+    Angry: true
+    Silent: true
+    ShowHealth: true
+  Skills:
+  - setstance{stance=Lurker_Idle_stance} @Self ~onSpawn
+  - Skill{s=Lurker_Idle} ~onTimer:80
+  - setstance{stance=Lurker_Combat_stance} @Self ~onDamaged
+  - Skill{s=Lurker_Combat} ~onTimer:200
+  - Skill{s=Lurker_Skill} ~onTimer:240
+  - Skill{s=Lava_avoid} ~onTimer:40
+
+#summoned by lesser_snow_witch
+shotgunfish:
+  Type: SILVERFISH
+  Display: '&eshotgun fish'
+  Drops:
+  - exp 1-25 1
+  - money 500
+  Health: 2
+  Damage: 6
+  KillMessages:
+  - '&7[&8Mythical Creature&7] <target.name> has been killed by <mob.name>'
+  Options:
+    MovementSpeed: 0.35
+    PreventOtherDrops: true
+    MaxCombatDistance: 75
+    KnockbackResistance: 1
+    FollowRange: 75

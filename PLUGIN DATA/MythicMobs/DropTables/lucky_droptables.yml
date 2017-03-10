@@ -1,0 +1,262 @@
+########################################################################
+###                                                                    #
+###   Lucky Blocks v0.dev6                                             #
+###                                                                    #
+###   Designed for MythicMobs 2.4.4 / Spigot 1.9.x                     #
+###                                                                    #
+###   Created by jaylawl                                               #
+###   Contact: jaylawlMC@gmail.com                                     #
+###                                                                    #
+########################################################################
+### master
+lucky_block_drops_master:
+  Drops:
+  # positive
+  - lucky_block_drops_armor_chainmail
+  - lucky_block_drops_armor_diamond
+  - lucky_block_drops_armor_gold
+  - lucky_block_drops_armor_iron
+  - lucky_block_drops_armor_leather
+  - lucky_block_drops_misc_chunk_of_luck
+  - lucky_block_drops_misc_cookies_and_milk
+  - lucky_block_drops_misc_diamond
+  - lucky_block_drops_misc_emerald
+  - lucky_block_drops_misc_gold_ingot
+  - lucky_block_drops_misc_iron_ingot
+  - lucky_block_drops_misc_name_tag
+  - lucky_block_drops_misc_packed_ice
+  - lucky_block_drops_misc_saddle
+  - lucky_block_drops_misc_sea_lantern
+  - lucky_block_drops_misc_sponge
+  - lucky_block_drops_unique_lucky_multi_tool
+  # negative
+  - lucky_block_drops_misc_cobblestone
+  - lucky_block_drops_misc_dirt
+  - lucky_block_drops_misc_gravel
+  - lucky_block_drops_misc_sand
+  - lucky_block_drops_misc_stick
+  - lucky_block_drops_misc_stone
+lucky_item_processor_drops_master:
+  Drops:
+  - lucky_item_processor_drops_armor_stand
+  - lucky_item_processor_drops_brown_mushroom
+  - lucky_item_processor_drops_diamond
+  - lucky_item_processor_drops_flint
+  - lucky_item_processor_drops_poisonous_potato
+  - lucky_item_processor_drops_wheat
+lucky_true_mr_rainbow_drops_master:
+  Drops:
+  - lucky_true_mr_rainbow_drops_diamond
+  - lucky_true_mr_rainbow_drops_emerald
+########################################################################
+### lucky block drops
+## positive event drops
+# armor
+lucky_block_drops_armor_chainmail:
+  MinItems: 1
+  MaxItems: 4
+  Conditions:
+  - stance lucky_block_drops_armor_chainmail
+  Drops:
+  - chainmail_helmet 1
+  - chainmail_chestplate 1
+  - chainmail_leggings 1
+  - chainmail_boots 1
+lucky_block_drops_armor_diamond:
+  MinItems: 1
+  MaxItems: 4
+  Conditions:
+  - stance lucky_block_drops_armor_diamond
+  Drops:
+  - diamond_helmet 1
+  - diamond_chestplate 1
+  - diamond_leggings 1
+  - diamond_boots 1
+lucky_block_drops_armor_gold:
+  MinItems: 1
+  MaxItems: 4
+  Conditions:
+  - stance lucky_block_drops_armor_gold
+  Drops:
+  - gold_helmet 1
+  - gold_chestplate 1
+  - gold_leggings 1
+  - gold_boots 1
+lucky_block_drops_armor_iron:
+  MinItems: 1
+  MaxItems: 4
+  Conditions:
+  - stance lucky_block_drops_armor_iron
+  Drops:
+  - iron_helmet 1
+  - iron_chestplate 1
+  - iron_leggings 1
+  - iron_boots 1
+lucky_block_drops_armor_leather:
+  MinItems: 1
+  MaxItems: 4
+  Conditions:
+  - stance lucky_block_drops_armor_leather
+  Drops:
+  - leather_helmet 1
+  - leather_chestplate 1
+  - leather_leggings 1
+  - leather_boots 1
+# misc
+lucky_block_drops_misc_chunk_of_luck:
+  Conditions:
+  - stance lucky_block_drops_misc_chunk_of_luck
+  Drops:
+  - lucky_chunk_of_luck 1-5 1
+lucky_block_drops_misc_cookies_and_milk:
+  Conditions:
+  - stance lucky_block_drops_misc_cookies_and_milk
+  Drops:
+  - milk_bucket 1 1
+  - cookie 3-7 1
+lucky_block_drops_misc_diamond:
+  Conditions:
+  - stance lucky_block_drops_misc_diamond
+  Drops:
+  - diamond 3-7 1
+lucky_block_drops_misc_emerald:
+  Conditions:
+  - stance lucky_block_drops_misc_emerald
+  Drops:
+  - emerald 3-7 1
+lucky_block_drops_misc_gold_ingot:
+  Conditions:
+  - stance lucky_block_drops_misc_gold_ingot
+  Drops:
+  - gold_ingot 1-16 1
+lucky_block_drops_misc_iron_ingot:
+  Conditions:
+  - stance lucky_block_drops_misc_iron_ingot
+  Drops:
+  - iron_ingot 1-16 1
+lucky_block_drops_misc_name_tag:
+  Conditions:
+  - stance lucky_block_drops_misc_name_tag
+  Drops:
+  - name_tag 1 1
+lucky_block_drops_misc_packed_ice:
+  Conditions:
+  - stance lucky_block_drops_misc_packed_ice
+  Drops:
+  - packed_ice 1-7 1
+lucky_block_drops_misc_saddle:
+  Conditions:
+  - stance lucky_block_drops_misc_saddle
+  Drops:
+  - saddle 1 1
+lucky_block_drops_misc_sea_lantern:
+  Conditions:
+  - stance lucky_block_drops_misc_sea_lantern
+  Drops:
+  - sea_lantern 1-3 1
+lucky_block_drops_misc_sponge:
+  Conditions:
+  - stance lucky_block_drops_misc_sponge
+  Drops:
+  - sponge 1-5 1
+# unique
+lucky_block_drops_unique_lucky_multi_tool:
+  Conditions:
+  - stance lucky_block_drops_unique_lucky_multi_tool
+  Drops:
+  - lucky_block_inspector 1 1
+## negative event drops
+# misc
+lucky_block_drops_misc_cobblestone:
+  Conditions:
+  - stance lucky_block_drops_misc_cobblestone
+  Drops:
+  - cobblestone 1-7 1
+lucky_block_drops_misc_dirt:
+  Conditions:
+  - stance lucky_block_drops_misc_dirt
+  Drops:
+  - dirt 1-7 1
+lucky_block_drops_misc_gravel:
+  Conditions:
+  - stance lucky_block_drops_misc_gravel
+  Drops:
+  - gravel 1-7 1
+lucky_block_drops_misc_sand:
+  Conditions:
+  - stance lucky_block_drops_misc_sand
+  Drops:
+  - sand 1-7 1
+lucky_block_drops_misc_stick:
+  Conditions:
+  - stance lucky_block_drops_misc_stick
+  Drops:
+  - stick 1-2 1
+lucky_block_drops_misc_stone:
+  Conditions:
+  - stance lucky_block_drops_misc_stone
+  Drops:
+  - stone 1-7 1
+########################################################################
+### lucky item processor drops
+lucky_item_processor_drops_armor_stand:
+  Conditions:
+  - stance lucky_item_processor_drops_armor_stand
+  Drops:
+  - armor_stand 1 1
+  - armor_stand 1 0.5
+  - armor_stand 1 0.25
+lucky_item_processor_drops_brown_mushroom:
+  Conditions:
+  - stance lucky_item_processor_drops_brown_mushroom
+  Drops:
+  - mushroom_soup 3 1
+  - mushroom_soup 1 0.5
+  - mushroom_soup 1 0.25
+lucky_item_processor_drops_diamond:
+  Conditions:
+  - stance lucky_item_processor_drops_diamond
+  Drops:
+  - diamond 1 1
+  - diamond 1 0.5
+  - diamond 1 0.25
+  - diamond 1 0.1
+  - diamond 1 0.01
+lucky_item_processor_drops_flint:
+  Conditions:
+  - stance lucky_item_processor_drops_flint
+  Drops:
+  - flint_and_steel 1 1
+  - flint_and_steel 1 0.5
+  - flint_and_steel 1 0.25
+lucky_item_processor_drops_poisonous_potato:
+  Conditions:
+  - stance lucky_item_processor_drops_poisonous_potato
+  Drops:
+  - lucky_funbreaker_1 1 1
+  - lucky_funbreaker_1 1 0.75
+  - lucky_funbreaker_2 1 0.5
+  - lucky_funbreaker_2 1 0.25
+  - lucky_funbreaker_3 1 0.1
+lucky_item_processor_drops_wheat:
+  Conditions:
+  - stance lucky_item_processor_drops_wheat
+  Drops:
+  - bread 3 1
+  - bread 1 0.5
+  - bread 1 0.25
+  - bread 1 0.1
+  - bread 1 0.01
+########################################################################
+### lucky true mr rainbow drops
+lucky_true_mr_rainbow_drops_diamond:
+  Conditions:
+  - stance lucky_true_mr_rainbow_drops_diamond
+  Drops:
+  - diamond 1 1
+lucky_true_mr_rainbow_drops_emerald:
+  Conditions:
+  - stance lucky_true_mr_rainbow_drops_emerald
+  Drops:
+  - emerald 1 1
+########################################################################

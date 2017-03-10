@@ -1,0 +1,169 @@
+# ------------------------------ #
+#
+#  TitleAdvanced 5
+#  (c) Maxim Van de Wynckel
+#
+# ------------------------------ #
+
+# About: Minecraft 1.8 features a title text that is displayed
+#        in the middle of the screen. This plugin utilizes that
+#        title to display a permission specific MOTD with lots
+#        of variables and animated text.
+#
+#        This plugin supports variables from various plugins.
+
+# Permissions: To use the title groups give them the permission
+#              titleadvanced.group.<group>
+#              Make sure to remove them from the other groups
+#              when giving a new permission.
+
+# Commands: List of all commands 
+#           (ALIASES: titlemotdadvanced,title)
+#           /titleadvanced reload     -  Reload the configuration
+#           /titleadvanced help       -  Show more commands
+
+# Variables: These variables can be used in the TEXT section
+#            of both the header as the footer.
+#            
+#            {PLAYER}       - Player name
+#            {PLAYERNICK}   - Player nickname
+#            {SERVER}       - Server name
+#            {PLAYERCOUNT}  - Server player count
+#            {BUNGEECOUNT}  - Bungee network player count
+#            Lots more... See the spigot page (3600+)
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+# GENERAL PLUGIN SETTINGS
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+## Config version (DO NOT EDIT)
+config: 4
+
+## Language file
+lang: 'en'
+
+## Debug mode
+debug: false
+
+## Log to file
+log:
+  enabled: true
+  # Reset log on startup
+  reset: true
+
+## Update checking
+update:
+  check: true # RECOMMENDED YOU LEAVE THIS TRUE
+  
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+# PLUGIN SPECIFIC SETTINGS
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+# Placeholder settings
+placeholder:
+  # logs the memory usage of placeholders on startup
+  log-memory: false
+  # Clear unused placeholders that are not enabled.
+  clear-unused: true
+  # Config cache only
+  # This will only use placeholders in the config
+  # HOWEVER: IT WILL BREAK ALL CUSTOM PLACEHOLDERS!
+  # IT WILL ALSO PREVENT ANY HOOKS (PlaceholderAPI)
+  config-cache: false
+
+# Configure all titles here. These titles are not shown by default and have
+# to be triggered using a command, trigger event or by defining
+titles:
+  example-firstjoin:
+    # Only define this motd section if you want to use the title as an MOTD title
+    # you will need "titleadvanced.group.example-firstjoin"
+    motd:
+      # Show the title on first join
+      firstjoin: true
+      # Do not show the title on rejoin
+      rejoin: false
+    # Fade in time in TICKS (20 ticks = 1 sec)
+    # This is the fade in time for the first text in the row
+    fadein: 0
+    # Stay on screen time in TICKS
+    # This is the stay on screen time for the last message
+    staytime: 20
+    # Fade out time in TICKS
+    # This is the fade out time for the last message
+    fadeout: 15
+    # Delay time before starting the title. Recommended +- 10 ticks
+    delay: 10
+    # Title message
+    title:
+      text:
+      - '&5&l>&f&l> Welcome to &f&l<&5&l<'
+      - '&5&l>&f&l> &d&l文 &c&lJeriCraft.net &d&l文 &f&l<&5'
+      # Animation interval
+      interval: 3
+    # Subtitle message
+    subtitle:
+      text: 
+      - "&bDon't forget to vote!"
+      - '&ajericraft.enjin.com/vote'
+      - '&8[&eNEW &aSlimeFun 4&8]'
+      # Animation interval
+      interval: 25
+  jericraft:
+    # Only define this motd section if you want to use the title as an MOTD title
+    # you will need "titleadvanced.group.example-jericraft"
+    motd:
+      # Do not show the title on first join
+      firstjoin: false
+      # Show the title on rejoin
+      rejoin: true
+    # Fade in time in TICKS (20 ticks = 1 sec)
+    # This is the fade in time for the first text in the row
+    fadein: 25
+    # Stay on screen time in TICKS
+    # This is the stay on screen time for the last message
+    staytime: 35
+    # Fade out time in TICKS
+    # This is the fade out time for the last message
+    fadeout: 25
+    # Delay time before starting the title. Recommended +- 10 ticks
+    delay: 35
+    # Title message
+    title:
+      text:
+      - '&5&l>&f&l> Welcome to &f&l<&5&l<'
+      - '&5&l>&f&l> &d&l文 &c&lJeriCraft.net &d&l文 &f&l<&5'
+      # Animation interval
+      interval: 15
+    # Subtitle message
+    subtitle:
+      text: 
+      - "&bDon't forget to vote!"
+      - '&ajericraft.enjin.com/vote'
+      - '&8[&eNEW &aSlimeFun 4&8]'
+      # Animation interval
+      interval: 25
+  mcmmo_levelup:
+    # Only define this motd section if you want to use the title as an MOTD title
+    # you will need "titleadvanced.group.example-firstjoin"
+    motd:
+      # Do not show the title on first join
+      firstjoin: false
+      # Show the title on rejoin
+      rejoin: true
+    # Fade in time in TICKS (20 ticks = 1 sec)
+    # This is the fade in time for the first text in the row
+    fadein: 25
+    # Stay on screen time in TICKS
+    # This is the stay on screen time for the last message
+    staytime: 25
+    # Fade out time in TICKS
+    # This is the fade out time for the last message
+    fadeout: 25
+    # Delay time before starting the title. Recommended +- 10 ticks
+    delay: 25
+    # Title message
+    title:
+      text:
+      - '&eMCMMO&f: &cPowerlevel &6&l{mcmmo_powerlevel}'
+      # Animation interval
+      interval: 15

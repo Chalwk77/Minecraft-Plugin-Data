@@ -1,0 +1,31 @@
+lastAccountName: dvgamble
+timestamps:
+  login: 1471680223444
+  lastteleport: 1471609395541
+  logout: 1471680690879
+ipAddress: 14.2.68.225
+geolocation: Australia
+lastlocation:
+  world: world
+  x: -2938.6597083496144
+  y: 28.0
+  z: -23253.804881641252
+  yaw: 33.447655
+  pitch: 25.649857
+money: '13217.5'
+logoutlocation:
+  world: world
+  x: -2901.3250787192956
+  y: 28.0
+  z: -23281.59720730727
+  yaw: 2.3980408
+  pitch: 11.9998865
+afk: false
+homes:
+  home:
+    world: world
+    x: -3371.5741578987054
+    y: 71.0
+    z: -23107.640135889007
+    yaw: -337.95142
+    pitch: 12.299934

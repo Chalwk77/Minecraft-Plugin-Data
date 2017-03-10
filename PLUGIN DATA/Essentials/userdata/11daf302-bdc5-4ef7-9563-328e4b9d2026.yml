@@ -1,0 +1,31 @@
+geolocation: Australia
+lastlocation:
+  world: world
+  x: 455.9581634227872
+  y: 88.0
+  z: -187.74181726072464
+  yaw: 176.2001
+  pitch: 4.649985
+lastAccountName: Shtsngiggs
+timestamps:
+  login: 1476754587960
+  lastteleport: 1473518799638
+  logout: 1473518805082
+ipAddress: 120.156.5.190
+money: '21248.61220000000019742'
+logoutlocation:
+  world: world
+  x: 28373.5
+  y: 249.0
+  z: 3454.5
+  yaw: 57.900574
+  pitch: -37.65001
+homes:
+  home:
+    world: world
+    x: 28373.53954612996
+    y: 249.0
+    z: 3454.9798071218906
+    yaw: 211.35059
+    pitch: 61.049995
+afk: false

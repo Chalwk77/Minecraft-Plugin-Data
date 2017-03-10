@@ -1,0 +1,5 @@
+bounceback: true
+worlds:
+  world:
+    portalgoesto:
+      NETHER: world

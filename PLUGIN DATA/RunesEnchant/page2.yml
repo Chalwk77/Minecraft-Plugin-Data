@@ -1,0 +1,218 @@
+# Maximum 54 slots.
+
+1:
+ enchantment: stealth
+ level: 1
+ price: 131 
+2:
+ enchantment: stealth
+ level: 2
+ price: 530 
+3:
+ enchantment: stealth
+ level: 3
+ price: 782 
+4:
+ enchantment: stealth
+ level: 4
+ price: 1109 
+5:
+ enchantment: aegis
+ level: 1
+ price: 241 
+6:
+ enchantment: aegis
+ level: 2
+ price: 453 
+7:
+ enchantment: aegis
+ level: 3
+ price: 832
+8:
+ enchantment: aegis
+ level: 4
+ price: 1002 
+9:
+ enchantment: aegis
+ level: 5
+ price: 3845  
+10:
+ enchantment: purge
+ level: 1
+ price: 259
+11:
+ enchantment: purge
+ level: 2
+ price: 591 
+12:
+ enchantment: purge
+ level: 3
+ price: 767 
+13:
+ enchantment: purge
+ level: 4
+ price: 1103
+14:
+ enchantment: divine
+ level: 1
+ price: 111 
+15:
+ enchantment: divine
+ level: 2
+ price: 526 
+16:
+ enchantment: divine
+ level: 3
+ price: 962 
+17:
+ enchantment: entangle
+ level: 1
+ price: 151 
+18:
+ enchantment: entangle
+ level: 2
+ price: 464 
+19:
+ enchantment: entangle
+ level: 3
+ price: 932
+20:
+ enchantment: entangle
+ level: 4
+ price: 1021 
+21:
+ enchantment: pyromaniac
+ level: 1
+ price: 232 
+22:
+ enchantment: pyromaniac
+ level: 2
+ price: 558
+23:
+ enchantment: pyromaniac
+ level: 3
+ price: 936 
+24:
+ enchantment: pyromaniac
+ level: 4
+ price: 1045 
+25:
+ enchantment: pyromaniac
+ level: 5
+ price: 3371 
+26:
+ enchantment: batvision
+ level: 1
+ price: 284 
+27:
+ enchantment: flame_cloak
+ level: 1
+ price: 235 
+28:
+ enchantment: flame_cloak
+ level: 2
+ price: 627 
+29:
+ enchantment: flame_cloak
+ level: 3
+ price: 925 
+30:
+ enchantment: battlecry
+ level: 1
+ price: 182 
+31:
+ enchantment: battlecry
+ level: 2
+ price: 511 
+32:
+ enchantment: battlecry
+ level: 3
+ price: 956 
+33:
+ enchantment: corruption
+ level: 1
+ price: 173 
+34:
+ enchantment: corruption
+ level: 2
+ price: 509
+35:
+ enchantment: corruption
+ level: 3
+ price: 864 
+36:
+ enchantment: corruption
+ level: 4
+ price: 1194 
+37:
+ enchantment: corruption
+ level: 5
+ price: 2493
+38:
+ enchantment: turmoil
+ level: 1
+ price: 168  
+39:
+ enchantment: turmoil
+ level: 2
+ price: 423  
+40:
+ enchantment: turmoil
+ level: 3
+ price: 906  
+41:
+ enchantment: holy_smite
+ level: 1
+ price: 277 
+42:
+ enchantment: holy_smite
+ level: 2
+ price: 424  
+43:
+ enchantment: holy_smite
+ level: 3
+ price: 950  
+44:
+ enchantment: holy_smite
+ level: 4
+ price: 1194  
+45:
+ enchantment: holy_smite
+ level: 5
+ price: 1550  
+46:
+ enchantment: petrify
+ level: 1
+ price: 205  
+47:
+ enchantment: petrify
+ level: 2
+ price: 607 
+48:
+ enchantment: petrify
+ level: 3
+ price: 732 
+49:
+ enchantment: mischief
+ level: 1
+ price: 272 
+50:
+ enchantment: mischief
+ level: 2
+ price: 315 
+51:
+ enchantment: mischief
+ level: 3
+ price: 897 
+52:
+ enchantment: shadowstep
+ level: 1
+ price: 218  
+53:
+ enchantment: shadowstep
+ level: 2
+ price: 399  
+54:
+ enchantment: shadowstep
+ level: 3
+ price: 1596 

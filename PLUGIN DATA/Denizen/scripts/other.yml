@@ -1,0 +1,71 @@
+Hug_Command:
+  type: command
+  debug: false
+  name: Hug
+  aliases:
+  - hugs
+  usage: /hug <&lt>player<&gt> ...
+  description: Give people a hug!
+  tab complete:
+  - if <context.server> {
+    - queue clear
+  }
+  - determine <server.list_online_players.exclude[<player>].parse[name].filter[starts_with[<context.args.last||>]]>
+  script:
+  - choose <context.args.size>:
+    - case 0:
+      - narrate "<&c>Sorry, you must enter atleast one person to love!"
+      - queue clear
+    - default:
+      - if <context.server> {
+        - narrate "<&c>Sorry, but only players can give some love!"
+        - queue clear
+      }
+      - define Players li@
+      - foreach <context.args> {
+        - define P <server.match_player[<def[Value]>]||null>
+        - if <def[P]> != null && <def[P]> != <player> && <def[Players].contains[<def[P]>].not> {
+          - define Players <def[Players].include[<def[P]>]>
+        }
+      }
+      - if <def[Players].is_empty> {
+        - narrate "<&c>Sorry, but we couldn't find any of those players.. :("
+        - queue clear
+      }
+      - announce "<&7>[<&3>HUGS<&7>] <&6><player.name><&r> has given <&6><def[Players].formatted><&r> a hug!"
+      
+Hide_Command:
+  type: command
+  debug: false
+  name: Hide
+  aliases:
+  - hides
+  usage: /hide <&lt>player<&gt> ...
+  description: Hide from people!
+  tab complete:
+  - if <context.server> {
+    - queue clear
+  }
+  - determine <server.list_online_players.exclude[<player>].parse[name].filter[starts_with[<context.args.last||>]]>
+  script:
+  - choose <context.args.size>:
+    - case 0:
+      - narrate "<&c>Sorry, you must enter at least one person to hide from!"
+      - queue clear
+    - default:
+      - if <context.server> {
+        - narrate "<&c>Sorry, but only players can hide!"
+        - queue clear
+      }
+      - define Players li@
+      - foreach <context.args> {
+        - define P <server.match_player[<def[Value]>]||null>
+        - if <def[P]> != null && <def[P]> != <player> && <def[Players].contains[<def[P]>].not> {
+          - define Players <def[Players].include[<def[P]>]>
+        }
+      }
+      - if <def[Players].is_empty> {
+        - narrate "<&c>Sorry, but we couldn't find any of those players.. :("
+        - queue clear
+      }
+      - announce "<&7>[<&3>HIDE<&7>] <&6><player.name><&r> is hiding from <&6><def[Players].formatted><&r>!"

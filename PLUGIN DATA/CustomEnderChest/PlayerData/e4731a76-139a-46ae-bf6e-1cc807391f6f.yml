@@ -1,0 +1,240 @@
+PlayerLastName: PeanutButt
+EnderChestSize: 27
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §9Amazing Skill
+      custom-effects:
+      - ==: PotionEffect
+        effect: 8
+        duration: 1400
+        amplifier: 3
+        ambient: true
+        has-particles: true
+      - ==: PotionEffect
+        effect: 26
+        duration: 400
+        amplifier: 3
+        ambient: true
+        has-particles: true
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 2
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: BED
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eGallifreyan Swiftness
+      stored-enchants:
+        FROST_WALKER: 7
+        ARROW_KNOCKBACK: 3
+        ARROW_INFINITE: 6
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 10
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §bTravelling Madness
+      stored-enchants:
+        DIG_SPEED: 6
+        SILK_TOUCH: 2
+        FIRE_ASPECT: 2
+        LURE: 5
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §bLegendary Tool
+      stored-enchants:
+        DIG_SPEED: 1
+        FIRE_ASPECT: 2
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 4
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §ePowered Spawner §7(Wolf)
+      lore:
+      - ''
+      - '§8⇨ §e⚡ §7Max Entity Cap: 6'
+      - §8⇨ §e⚡ §7512 J Buffer
+      - §8⇨ §e⚡ §7240 J/Mob
+      internal: H4sIAAAAAAAAAE2LzW6CQBhFvzZtgqSP0S3J8Csuumiw6hA6FBlBZjfoEMBBDYIRnqqPWJZd3MXJOVcFUOEtPvVS/rSXopJCgWd8hHeL65ZrFK5WuK6hWe7C0HiuC806FrrBOULm3FFBnU5X0XaVuM1A6cSj61txUwHgSYHXhMtewK8YfMT2JTrufXkYsDMxjZEMcX2d43My5B52cDP5zacTDIt/rd3x1JaZ6ZfsHPV5k6DA3Eqx2eqHZndna2xkTWSTEZtZ6leEJidCoweh2CD0YIVphFiN7XAZmeFyVX6P0ZiNmcXWpGT1zpymk/WXzqgsM7qqmecvij36AFDghfBGwMyLvUsrgioH+APpiPodKgEAAA==
+      skull-owner: CSCoreLib
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §9Hellish Dragon
+      stored-enchants:
+        ARROW_FIRE: 8
+        FIRE_ASPECT: 1
+        OXYGEN: 7
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §6Trusty Treasure
+      custom-effects:
+      - ==: PotionEffect
+        effect: 9
+        duration: 400
+        amplifier: 2
+        ambient: true
+        has-particles: true
+      - ==: PotionEffect
+        effect: 17
+        duration: 1800
+        amplifier: 1
+        ambient: true
+        has-particles: true
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §7Tome of Analizing
+      lore:
+      - ''
+      - §eRight Click §7to analize Items
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_NUGGET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eChunk of Luck§r
+      lore:
+      - §7§oCurrency§r
+      enchants:
+        DURABILITY: 1
+      repair-cost: 2147483647
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    damage: 1
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    damage: 1
+    amount: 5
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIRT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: GLOWSTONE_DUST
+    amount: 60
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Gold Dust
+      internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    amount: 22
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: DARK_OAK_STAIRS
+    amount: 31
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: QUARTZ_BLOCK
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_BEEF
+    amount: 62
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: PORK
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: QUARTZ_BLOCK
+    amount: 7
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: STEP
+    damage: 7
+    amount: 15
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKmYAAwBsZpNoHgAAAA==

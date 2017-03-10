@@ -1,0 +1,491 @@
+############################
+#    Bartender
+#     Script
+#  Made By: Navyboy
+############################
+# This script requires Vault!
+############################
+#   Bartender Assignment
+############################
+bartender_assignment:
+  type: assignment
+  debug: false
+  actions:
+    on assignment:
+      - trigger name:click state:true
+      - trigger name:proximity state:true radius:3
+    on enter proximity:
+      - narrate format:bartenderChat "What can I get for you?"
+      - WAIT 1s
+      - inventory open d:in@bartender_Inventory
+    on click:
+      - inventory open d:in@bartender_Inventory
+#############################
+#  How to add another drink
+#############################
+#First you need to make another item (Tells you how down belowˇˇ)
+#Then you need to add the item to the inventory [i@name]
+#After you add it you need to make an event for it down below ˇˇ
+#After you make the event make sure to add the price!
+#To add a specific Potion, go to http://minecraft-ids.grahamedgecombe.com/potion-calculator
+#############################
+#   Bartender Assignment
+#############################
+bartender_Inventory:
+  type: inventory
+  title: "<&6>Bartender Menu"
+  size: 27
+  slots:
+  - "[i@blt] [i@ale] [i@whiskey] [i@scotch] [i@wine] [i@cider] [i@margarita] [i@martini] [i@pina_colada]"
+  - "[i@shirley_temple] [i@vodka_redbull] [i@black_russian] [i@long_island_iced_tea] [i@bloody_mary] [i@manhattan] [i@redbull] [] []"
+  - "[i@cola] [i@grape_soda] [i@orange_soda] [i@water_melon_soda] [i@water] [] [] [] []"
+
+############################
+#   Bartender Drinks
+############################ 
+#(This is the basic format for a drink)
+#drink:
+#  type: item
+#  material: "373:8194"
+#  display name: "<&c>RedCow"
+#  lore:
+#  - "Hyper drink that will get you"
+#  - "speeding around!"
+############################
+#     Hard Drinks
+############################
+redbull:
+  type: item
+  material: "373:8193"
+  display name: "<&4>Red<&b>Bull"
+  lore:
+  - "It gives you wings!"
+  - "<&a>$<&f>10"
+martini:
+  type: item
+  material: "373:8193"
+  display name: "<&3>Martini"
+  lore:
+  - "The elixir of quietude"
+  - "<&a>$<&f>6"
+manhattan:
+  type: item
+  material: "373:8227"
+  display name: "<&6>Manhattan"
+  lore:
+  - "A cherry to top it off"
+  - "<&a>$<&f>10"
+bloody_mary:
+  type: item
+  material: "373:8204"
+  display name: "<&4>Bloody Mary"
+  lore:
+  - "Always servered with a drop of blood"
+  - "<&a>$<&f>8"
+long_island_iced_tea:
+  type: item
+  material: "373:8205"
+  display name: "<&e>Long Island Iced Tea"
+  lore:
+  - "Sweet and sour always hit the spot"
+  - "<&a>$<&f>5"
+margarita:
+  type: item
+  material: "373:8198"
+  display name: "<&2>Margarita"
+  lore:
+  - "Margarita ville!"
+  - "<&a>$<&f>6"
+black_russian:
+  type: item
+  material: "373:8228"
+  display name: "<&8>Black Russian"
+  lore:
+  - "If there is one drink that practically every"
+  - "bartender in the world knows, it is the Black Russian"
+  - "<&a>$<&f>7"
+whiskey:
+  type: item
+  material: "373:8227"
+  display name: "<&6>Whiskey"
+  lore:
+  - "Lets not have another Whiskey Rebellion"
+  - "<&a>$<&f>10"
+pina_colada:
+  type: item
+  material: "373:8203"
+  display name: "<&d>Pina Colada"
+  lore:
+  - "Lovely drink to have on the beach"
+  - "<&a>$<&f>5"
+blt:
+  type: item
+  material: "373:8204"
+  display name: "<&b>BLT"
+  lore:
+  - "Delicious BLT, perfect"
+  - "<&a>$<&f>4"
+vodka_redbull:
+  type: item
+  material: "373:8194"
+  display name: "<&c>Vodka Redbull"
+  lore:
+  - "Oh jeez, 4 will hype you up"
+  - "<&a>$<&f>6"
+shirley_temple:
+  type: item
+  material: "373:8197"
+  display name: "<&4>Shirley Temple"
+  lore:
+  - "Always garnished with a maraschino cherry"
+  - "<&a>$<&f>5"
+ale:
+  type: item
+  material: "373:8200"
+  display name: "<&e>Ale"
+  lore:
+  - "Just a bit of bitter never hurt"
+  - "<&a>$<&f>5"
+wine:
+  type: item
+  material: "373:8229"
+  display name: "<&5>Wine"
+  lore:
+  - "Old squished up grapes"
+  - "<&a>$<&f>14"
+cider:
+  type: item
+  material: "373:8202"
+  display name: "<&9>Cider"
+  lore:
+  - "Apple cider maybe?"
+  - "<&a>$<&f>5"
+scotch:
+  type: item
+  material: "373:8227"
+  display name: "<&6>Scotch"
+  lore:
+  - "This is the good stuff."
+  - "<&a>$<&f>12"
+############################
+#     Soft Drinks
+############################
+cola:
+  type: item
+  material: "373:8194"
+  display name: "<&c>Cola"
+  lore:
+  - "Don't drink too many now"
+  - "<&a>$<&f>2"
+grape_soda:
+  type: item
+  material: "373:8194"
+  display name: "<&5>Grape Soda"
+  lore:
+  - "Graaaaapes"
+  - "<&a>$<&f>2"
+orange_soda:
+  type: item
+  material: "373:8194"
+  display name: "<&6>Orange Soda"
+  lore:
+  - "Oranges are the way to go"
+  - "<&a>$<&f>2"
+water_melon_soda:
+  type: item
+  material: "373:8194"
+  display name: "<&a>Water Melon Soda"
+  lore:
+  - "WATER MELONS!!"
+  - "<&a>$<&f>3"
+water:
+  type: item
+  material: 373
+  display name: "<&b>Water"
+  lore:
+  - "Bland. Old. Water."
+  - "<&a>$<&f>0"
+############################
+#  Bartender Chat/Handlers
+############################
+#If you want to add another drink event, copy and paste this template and fill in the correct information!
+#You can find the extraeffects at https://hub.spigotmc.org/javadocs/spigot/org/bukkit/potion/PotionEffectType.html
+#############################
+#    on player clicks (drinkname) in bartender_Inventory:
+#    - if <player.money> >= "(amount)" {
+#      - inventory close
+#      - money take quantity:(amount)
+#      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>(amount) <&a>has been taken from your balance!"
+#      - give (drinkname)
+#      } else {
+#      - inventory close
+#      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+#      }
+#   on player consumes (drinkname):
+#   - cast (extraeffect) duration:(time) power:(power)
+##############################
+bartenderChat:
+  type: format
+  debug: false
+  format: <&6>Bartender:<&f> <text>
+
+bartender_Inventory_Handler:
+  type: world
+  events:
+    on player clicks in bartender_Inventory:
+    - determine cancelled
+    on player drags in bartender_Inventory:
+    - determine cancelled
+    
+    on player clicks redbull in bartender_Inventory:
+    - if <player.money> >= "10" {
+      - inventory close
+      - money take quantity:10
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>10 <&a>has been taken from your balance!"
+      - give redbull 
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes redbull:
+    - cast speed duration:10s
+    - cast levitation duration:15s
+    on player clicks martini in bartender_Inventory:
+    - if <player.money> >= "6" {
+      - inventory close
+      - money take quantity:6
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>6 <&a>has been taken from your balance!"
+      - give martini 
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes martini:
+    - cast confusion duration:10s
+    on player clicks manhattan in bartender_Inventory:
+    - if <player.money> >= "10" {
+      - inventory close
+      - money take quantity:10
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>10 <&a>has been taken from your balance!"
+      - give manhattan
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes martini:
+    - cast confusion duration:10s
+    on player clicks bloody_mary in bartender_Inventory:
+    - if <player.money> >= "8" {
+      - inventory close
+      - money take quantity:8
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>8 <&a>has been taken from your balance!"
+      - give bloody_mary
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes bloody_mary:
+    - cast confusion duration:10s
+    on player clicks long_island_iced_tea in bartender_Inventory:
+    - if <player.money> >= "5" {
+      - inventory close
+      - money take quantity:5
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>5 <&a>has been taken from your balance!"
+      - give long_island_iced_tea
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes long_island_iced_tea:
+    - cast confusion duration:10s
+    on player clicks margarita in bartender_Inventory:
+    - if <player.money> >= "6" {
+      - inventory close
+      - money take quantity:6
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>6 <&a>has been taken from your balance!"
+      - give margarita
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes margarita:
+    - cast confusion duration:10s
+    on player clicks black_russian in bartender_Inventory:
+    - if <player.money> >= "7" {
+      - inventory close
+      - money take quantity:7
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>7 <&a>has been taken from your balance!"
+      - give black_russian 
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes black_russian:
+    - cast confusion duration:10s
+    on player consumes martini:
+    - cast confusion duration:10s
+    on player clicks whiskey in bartender_Inventory:
+    - if <player.money> >= "10" {
+      - inventory close
+      - money take quantity:10
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>10 <&a>has been taken from your balance!"
+      - give whiskey
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes whiskey:
+    - cast confusion duration:10s
+    on player clicks pina_colada in bartender_Inventory:
+    - if <player.money> >= "5" {
+      - inventory close
+      - money take quantity:5
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>5 <&a>has been taken from your balance!"
+      - give pina_colada
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes pina_colada:
+    - cast confusion duration:10s
+    on player clicks blt in bartender_Inventory:
+    - if <player.money> >= "4" {
+      - inventory close
+      - money take quantity:4
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>4 <&a>has been taken from your balance!"
+      - execute as_server "sf give <player.name> BLT" 
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player clicks vodka_redbull in bartender_Inventory:
+    - if <player.money> >= "4" {
+      - inventory close
+      - money take quantity:4
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>4 <&a>has been taken from your balance!"
+      - give vodka_redbull
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes vodka_redbull:
+    - cast confusion duration:10s
+    on player clicks shirley_temple in bartender_Inventory:
+    - if <player.money> >= "5" {
+      - inventory close
+      - money take quantity:5
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>5 <&a>has been taken from your balance!"
+      - give shirley_temple
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes shirley_temple:
+    - cast confusion duration:10s
+    on player clicks ale in bartender_Inventory:
+    - if <player.money> >= "5" {
+      - inventory close
+      - money take quantity:5
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>5 <&a>has been taken from your balance!"
+      - give ale
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes ale:
+    - cast confusion duration:10s
+    on player clicks wine in bartender_Inventory:
+    - if <player.money> >= "14" {
+      - inventory close
+      - money take quantity:14
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>14 <&a>has been taken from your balance!"
+      - give wine
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes wine:
+    - cast confusion duration:10s
+    on player clicks cider in bartender_Inventory:
+    - if <player.money> >= "5" {
+      - inventory close
+      - money take quantity:5
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>5 <&a>has been taken from your balance!"
+      - give cider
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes cider:
+    - cast confusion duration:10s
+    on player clicks scotch in bartender_Inventory:
+    - if <player.money> >= "12" {
+      - inventory close
+      - money take quantity:12
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>12 <&a>has been taken from your balance!"
+      - give scotch
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes scotch:
+    - cast confusion duration:10s
+    on player clicks cola in bartender_Inventory:
+    - if <player.money> >= "2" {
+      - inventory close
+      - money take quantity:2
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>2 <&a>has been taken from your balance!"
+      - give cola
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes cola:
+    - cast absorption duration:20s power:1
+    on player clicks grape_soda in bartender_Inventory:
+    - if <player.money> >= "2" {
+      - inventory close
+      - money take quantity:2
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>2 <&a>has been taken from your balance!"
+      - give grape_soda
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes grape_soda:
+    - cast absorption duration:20s power:1
+    on player clicks orange_soda in bartender_Inventory:
+    - if <player.money> >= "2" {
+      - inventory close
+      - money take quantity:2
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>2 <&a>has been taken from your balance!"
+      - give orange_soda
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes orange_soda:
+    - cast absorption duration:20s power:1
+    on player clicks water_melon_soda in bartender_Inventory:
+    - if <player.money> >= "3" {
+      - inventory close
+      - money take quantity:3
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>3 <&a>has been taken from your balance!"
+      - give water_melon_soda
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+    on player consumes water_melon_soda:
+    - cast absorption duration:20s power:1
+    on player clicks water in bartender_Inventory:
+    - if <player.money> >= "0" {
+      - inventory close
+      - money take quantity:0
+      - narrate "<&f>[<&b>Shop<&f>] <&a>$<&e>0 <&a>has been taken from your balance!"
+      - give water
+      } else {
+      - inventory close
+      - narrate "<&f>[<&b>Shop<&f>] <&c>You do not have enough money!"
+      }
+#This is the end! Seriously!

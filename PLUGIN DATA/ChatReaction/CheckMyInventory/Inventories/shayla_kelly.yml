@@ -1,0 +1,243 @@
+Inventories:
+  '1':
+    Time: 1462120696173
+    Exp: 106
+    Health: 17.0
+    MaxHealth: 20.0
+    Saturation: 6.2000003
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -159.12526770478524
+      y: 63.0
+      z: 1192.6128213699005
+      pitch: -4.199837
+      yaw: -59.247925
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 53
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 169
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '3':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '4':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '6':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '7':
+        type: COOKED_CHICKEN
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '11':
+        type: STONE
+        damage: 5
+        amount: 64
+      '12':
+        type: STONE
+        damage: 1
+        amount: 20
+      '13':
+        type: BED
+      '14':
+        type: DIRT
+        amount: 28
+      '15':
+        type: STONE
+        damage: 5
+        amount: 19
+      '16':
+        type: SUGAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Tin Dust
+      '17':
+        type: SUGAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Zinc Dust
+      '20':
+        type: COBBLESTONE
+        amount: 47
+      '34':
+        type: IRON_SWORD
+      '35':
+        type: IRON_INGOT
+        amount: 6
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rCow Head
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkQB51aaTqEBnrA3DYAV4rMKMGoQJf1U8syy5PzjkqgApvu7IR4qu6nnKBCjzTI7yTlKT6h51ojm2gZp7MiZY4lq2hYVmOSVAnZqaCOkw3rOoc7yNQamzrpsK7CgBPCryGiWgQfrHzSHw4k+PBE1lH7YH3OyLWtLg59BJ26YzaVA5+ObVX3eRfa9VJZAk+9s7xZdOkMiSr8VbgcqtnMvhh0cbgfSzixafFXE8yg+txkbW891tWzAvW+w8mOeFRWPr9dBy7393aLYdGlL6kD2bMc+YGHdtn7XoRlrwP8tNBnwAo8MISiTCa7WbXCld5CvAH4UJI9ioBAAA=
+          skull-owner: CSCoreLib
+  '2':
+    Time: 1462483220000
+    Exp: 106
+    Health: 17.0
+    MaxHealth: 20.0
+    Saturation: 6.2000003
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -159.12526770478524
+      y: 63.0
+      z: 1192.6128213699005
+      pitch: -4.199837
+      yaw: -59.247925
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 53
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 169
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '3':
+        type: DIAMOND_SPADE
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '4':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '6':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '7':
+        type: COOKED_CHICKEN
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '11':
+        type: STONE
+        damage: 5
+        amount: 64
+      '12':
+        type: STONE
+        damage: 1
+        amount: 20
+      '13':
+        type: BED
+      '14':
+        type: DIRT
+        amount: 28
+      '15':
+        type: STONE
+        damage: 5
+        amount: 19
+      '16':
+        type: SUGAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Tin Dust
+      '17':
+        type: SUGAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Zinc Dust
+      '20':
+        type: COBBLESTONE
+        amount: 47
+      '34':
+        type: IRON_SWORD
+      '35':
+        type: IRON_INGOT
+        amount: 6
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rCow Head
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkQB51aaTqEBnrA3DYAV4rMKMGoQJf1U8syy5PzjkqgApvu7IR4qu6nnKBCjzTI7yTlKT6h51ojm2gZp7MiZY4lq2hYVmOSVAnZqaCOkw3rOoc7yNQamzrpsK7CgBPCryGiWgQfrHzSHw4k+PBE1lH7YH3OyLWtLg59BJ26YzaVA5+ObVX3eRfa9VJZAk+9s7xZdOkMiSr8VbgcqtnMvhh0cbgfSzixafFXE8yg+txkbW891tWzAvW+w8mOeFRWPr9dBy7393aLYdGlL6kD2bMc+YGHdtn7XoRlrwP8tNBnwAo8MISiTCa7WbXCld5CvAH4UJI9ioBAAA=
+          skull-owner: CSCoreLib

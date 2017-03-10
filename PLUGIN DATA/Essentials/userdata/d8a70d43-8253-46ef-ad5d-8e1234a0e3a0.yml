@@ -1,0 +1,110 @@
+lastAccountName: _Lockie_
+timestamps:
+  login: 1471932123142
+  kits:
+    glass: 1469021730656
+    color: 1469021740604
+    banner: 1469957533184
+    pvp: 1469021750195
+    dtools: 1469021738238
+    food: 1469954920094
+    ultra: 1469788161462
+    clay: 1469021727372
+    elite: 1469021712653
+    firework: 1469021747595
+    donor: 1469021710952
+    jesus: 1469848360118
+    vip: 1469021714303
+  logout: 1471932143370
+  lastteleport: 1471843497984
+ipAddress: 1.152.96.176
+geolocation: Australia
+lastlocation:
+  world: world
+  x: -310439.50017774204
+  y: 71.0
+  z: -625939.0734850741
+  yaw: -187.88559
+  pitch: 30.702087
+logoutlocation:
+  world: world
+  x: -3065.340876332699
+  y: 7.0
+  z: 3479.699999988079
+  yaw: 356.63266
+  pitch: 37.761127
+money: '2500'
+godmode: true
+homes:
+  home:
+    world: world
+    x: -3073.167337869793
+    y: 6.0
+    z: 3471.5084630984675
+    yaw: 90.84412
+    pitch: 13.589422
+  blaze:
+    world: world
+    x: -3070.011574645949
+    y: 14.168962638846939
+    z: 3472.7265877840164
+    yaw: 10.892883
+    pitch: 30.96913
+  farm:
+    world: world
+    x: -3072.465899216318
+    y: 15.0
+    z: 3444.699999988079
+    yaw: 283.31873
+    pitch: 37.161797
+  mob:
+    world: world
+    x: 3225.1314004441583
+    y: 68.0
+    z: -1591.2464946712084
+    yaw: -50.156883
+    pitch: 21.879725
+  script:
+    world: world
+    x: -1105.916814463039
+    y: 69.49390748022948
+    z: 2587.047338007243
+    yaw: -346.51355
+    pitch: 50.091145
+  plane:
+    world: world
+    x: -3064.2623593642325
+    y: 240.0
+    z: 3468.801784119886
+    yaw: -267.523
+    pitch: 15.986792
+  chest:
+    world: world
+    x: -3071.9943651161434
+    y: 244.0
+    z: 3468.7401298404084
+    yaw: -180.62476
+    pitch: 8.695317
+  furnace:
+    world: world
+    x: -3091.571870315533
+    y: 72.875
+    z: 3489.4867039128326
+    yaw: 359.91852
+    pitch: 16.486162
+  gold:
+    world: world
+    x: -310419.5756103457
+    y: 71.0
+    z: -625929.5701435778
+    yaw: 89.49136
+    pitch: -0.5863696
+  build:
+    world: world
+    x: -12729.355864336072
+    y: 73.74436572127308
+    z: -11532.457556028901
+    yaw: 51.792107
+    pitch: 32.36755
+afk: false
+nickname: §c_§3L§5o§8c§bk§ai§2e§6_

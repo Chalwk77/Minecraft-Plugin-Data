@@ -1,0 +1,116 @@
+PlayerLastName: LazyChickenz
+EnderChestSize: 18
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_CHICKEN
+    amount: 11
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aCooked Chicken
+      enchants:
+        DAMAGE_UNDEAD: 65535
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 5
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aEnchanted Golden Apple
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    damage: 6
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6The Pro-Bow
+      lore:
+      - §1O§el§0y§2m§cp§1i§ec §0L§2e§cv§1e§el!
+      enchants:
+        ARROW_DAMAGE: 5
+        DURABILITY: 5
+        ARROW_INFINITE: 1
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_ORE
+    amount: 14
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 24
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §eWither §fSpawner
+      internal: H4sIAAAAAAAAAGWOQQuCQBCFXwayDmF/KcQO3QIDz0MNOri44Q5E/z51L4m3ge97bx4BhLLy4TlcR1P7PrhzcOm+vUCtWi9TFWIscG7e/BnvwWTG7CMBOBDyZDtkugngiLwV7XpbvOVRsRbUbLyXZ/q3YE9PjfphzcsUMzhJE2tcgB/68kfuxgAAAA==
+      blockMaterial: MOB_SPAWNER
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HOE
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: TRAPPED_CHEST
+    amount: 7
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_BEEF
+    amount: 16
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aSTEAK
+      enchants:
+        DAMAGE_UNDEAD: 65535
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENDER_CHEST
+    amount: 2
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: BEETROOT
+    amount: 16
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_UNDEAD: 65535
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTMENT_TABLE
+    amount: 2
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: JUKEBOX
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: ANVIL
+    amount: 2

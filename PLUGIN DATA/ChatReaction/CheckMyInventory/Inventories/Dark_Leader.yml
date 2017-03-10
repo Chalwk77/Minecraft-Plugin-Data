@@ -1,0 +1,2039 @@
+Inventories:
+  '25':
+    Time: 1458455349848
+    Exp: 390
+    Health: 15.600001335144043
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.036718233632714E7
+      y: 19.0
+      z: -1.2851736853955543E7
+      pitch: 24.083397
+      yaw: 291.8931
+    Items:
+      '0':
+        type: STRING
+        amount: 11
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §8Blackberry
+          internal: H4sIAAAAAAAAAE3MzU6DQBQF4KvRhBIfwy3JFAYsCxeGoh0CUyn9gx2FSwqdaRsKDfBUPqK4c3lyvnNUABVeolMrxHd9KUqBCjyyHF5xas4KC6mWWyTXqImZZtvpTNMNK6WGnaeFXaigjqMr1k2JtwkoDXZNW+NNBYAHBZ63qWgRfrD3SLI/knzviaxn1pjXERFLVl3f2HnbHxxmMTn2iw/L7+1/1mzSnSliwzsm57A9yC3xjZXAxWqayc09qDJ9uYtpXGU0HsI+WTMjkK7OK3HicqMnc9eMpUt5telG0wVfnyUfEsklI1yGZjD/c+6QzEM6fk2549nFnrwDKPDEU4kwcSLnUqNfHgB+AcxV5ykqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: STONE_PICKAXE
+        damage: 52
+      '3':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '4':
+        type: IRON_PICKAXE
+      '5':
+        type: STONE_AXE
+        damage: 8
+      '6':
+        type: TORCH
+        amount: 13
+      '7':
+        type: DIAMOND_SWORD
+        damage: 353
+      '8':
+        type: BOW
+        damage: 3
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cGrape
+          internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JUEliJy8NBoW5fAUgRB9gbLEoFdNQgK/a5+YD32OJkZFUCFl6gdhPjuTlUtuAKPuIRXky2QbbFKQxXLtbeclVpRVLbGdMcxC5Qbi7JSQb1PZ971Nb/MQOn52A8dv6gA8KDAc5KLgcMvn1yd7g96uXcFm/D8znGkiwA3Zxsfk6lY4TmWd795n3uT86+1+jy1RGa6B3oMh0ImumduBd9sDSZ3VyITEcQMkbWo6bq1grg1SByOPqJNJrNb1mAUpL7lp64ga1/3JR79r/BGfnZGJj9bgj5GgnYWSWlDU9pmKb7ho+FU4XIJoMATySWH2SpanTru1QXAH00CO3MuAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '11':
+        type: INK_SACK
+        damage: 15
+        amount: 2
+      '12':
+        type: FIREWORK_CHARGE
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 240
+              BLUE: 240
+              GREEN: 240
+            fade-colors: &id001 []
+            type: BALL
+      '13':
+        type: ARROW
+        amount: 49
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COAL
+        amount: 41
+      '16':
+        type: SPIDER_EYE
+        amount: 3
+      '17':
+        type: COAL
+        amount: 64
+      '18':
+        type: WOOD_AXE
+        damage: 10
+      '19':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Orange Sapling
+      '20':
+        type: BONE
+        amount: 61
+      '21':
+        type: SLIME_BALL
+        amount: 5
+      '22':
+        type: WOOD
+        amount: 16
+      '23':
+        type: FIREWORK_CHARGE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §6Shotgun Ammo
+          lore:
+          - ''
+          - §7This Ammo can be
+          - §7used in §bShotguns
+      '24':
+        type: FURNACE
+      '25':
+        type: SAPLING
+        amount: 2
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '27':
+        type: CARROT_ITEM
+      '28':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            Minecraft color§0
+            §0Codes:§0
+            §0 &0  §1 &1  §2 &2  §3 &3§0
+            §4 &4  §5 &5  §6 &6  §7 &7§0
+            §8 &8  §9 &9  §a &a  §b &b§0
+            §c &c  §d &d  §e &e  §f &f§0
+          generation: 0
+      '29':
+        type: COAL
+        amount: 64
+      '32':
+        type: GRILLED_PORK
+        amount: 51
+      '33':
+        type: COBBLESTONE
+        amount: 62
+      '34':
+        type: STONE_AXE
+        damage: 43
+  '26':
+    Time: 1459465459635
+    Exp: 390
+    Health: 16.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.036718233632714E7
+      y: 19.0
+      z: -1.2851736853955543E7
+      pitch: 24.083397
+      yaw: 291.8931
+    Items:
+      '0':
+        type: STRING
+        amount: 11
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §8Blackberry
+          internal: H4sIAAAAAAAAAE3MzU6DQBQF4KvRhBIfwy3JFAYsCxeGoh0CUyn9gx2FSwqdaRsKDfBUPqK4c3lyvnNUABVeolMrxHd9KUqBCjyyHF5xas4KC6mWWyTXqImZZtvpTNMNK6WGnaeFXaigjqMr1k2JtwkoDXZNW+NNBYAHBZ63qWgRfrD3SLI/knzviaxn1pjXERFLVl3f2HnbHxxmMTn2iw/L7+1/1mzSnSliwzsm57A9yC3xjZXAxWqayc09qDJ9uYtpXGU0HsI+WTMjkK7OK3HicqMnc9eMpUt5telG0wVfnyUfEsklI1yGZjD/c+6QzEM6fk2549nFnrwDKPDEU4kwcSLnUqNfHgB+AcxV5ykqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: STONE_PICKAXE
+        damage: 52
+      '3':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '4':
+        type: IRON_PICKAXE
+      '5':
+        type: STONE_AXE
+        damage: 8
+      '6':
+        type: TORCH
+        amount: 13
+      '7':
+        type: DIAMOND_SWORD
+        damage: 353
+      '8':
+        type: BOW
+        damage: 3
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cGrape
+          internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JUEliJy8NBoW5fAUgRB9gbLEoFdNQgK/a5+YD32OJkZFUCFl6gdhPjuTlUtuAKPuIRXky2QbbFKQxXLtbeclVpRVLbGdMcxC5Qbi7JSQb1PZ971Nb/MQOn52A8dv6gA8KDAc5KLgcMvn1yd7g96uXcFm/D8znGkiwA3Zxsfk6lY4TmWd795n3uT86+1+jy1RGa6B3oMh0ImumduBd9sDSZ3VyITEcQMkbWo6bq1grg1SByOPqJNJrNb1mAUpL7lp64ga1/3JR79r/BGfnZGJj9bgj5GgnYWSWlDU9pmKb7ho+FU4XIJoMATySWH2SpanTru1QXAH00CO3MuAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '11':
+        type: INK_SACK
+        damage: 15
+        amount: 2
+      '12':
+        type: FIREWORK_CHARGE
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 240
+              BLUE: 240
+              GREEN: 240
+            fade-colors: *id001
+            type: BALL
+      '13':
+        type: ARROW
+        amount: 49
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COAL
+        amount: 41
+      '16':
+        type: SPIDER_EYE
+        amount: 3
+      '17':
+        type: COAL
+        amount: 64
+      '18':
+        type: WOOD_AXE
+        damage: 10
+      '19':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Orange Sapling
+      '20':
+        type: BONE
+        amount: 61
+      '21':
+        type: SLIME_BALL
+        amount: 5
+      '22':
+        type: WOOD
+        amount: 16
+      '23':
+        type: FIREWORK_CHARGE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §6Shotgun Ammo
+          lore:
+          - ''
+          - §7This Ammo can be
+          - §7used in §bShotguns
+      '24':
+        type: FURNACE
+      '25':
+        type: SAPLING
+        amount: 2
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '27':
+        type: CARROT_ITEM
+      '28':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            Minecraft color§0
+            §0Codes:§0
+            §0 &0  §1 &1  §2 &2  §3 &3§0
+            §4 &4  §5 &5  §6 &6  §7 &7§0
+            §8 &8  §9 &9  §a &a  §b &b§0
+            §c &c  §d &d  §e &e  §f &f§0
+          generation: 0
+      '29':
+        type: COAL
+        amount: 64
+      '32':
+        type: GRILLED_PORK
+        amount: 51
+      '33':
+        type: COBBLESTONE
+        amount: 62
+      '34':
+        type: STONE_AXE
+        damage: 43
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 75
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 75
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 75
+      '39':
+        type: DIAMOND_HELMET
+        damage: 75
+  '27':
+    Time: 1459469868965
+    Exp: 390
+    Health: 16.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.036718233632714E7
+      y: 19.0
+      z: -1.2851736853955543E7
+      pitch: 24.083397
+      yaw: 291.8931
+    Items:
+      '0':
+        type: STRING
+        amount: 11
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §8Blackberry
+          internal: H4sIAAAAAAAAAE3MzU6DQBQF4KvRhBIfwy3JFAYsCxeGoh0CUyn9gx2FSwqdaRsKDfBUPqK4c3lyvnNUABVeolMrxHd9KUqBCjyyHF5xas4KC6mWWyTXqImZZtvpTNMNK6WGnaeFXaigjqMr1k2JtwkoDXZNW+NNBYAHBZ63qWgRfrD3SLI/knzviaxn1pjXERFLVl3f2HnbHxxmMTn2iw/L7+1/1mzSnSliwzsm57A9yC3xjZXAxWqayc09qDJ9uYtpXGU0HsI+WTMjkK7OK3HicqMnc9eMpUt5telG0wVfnyUfEsklI1yGZjD/c+6QzEM6fk2549nFnrwDKPDEU4kwcSLnUqNfHgB+AcxV5ykqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: STONE_PICKAXE
+        damage: 52
+      '3':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '4':
+        type: IRON_PICKAXE
+      '5':
+        type: STONE_AXE
+        damage: 8
+      '6':
+        type: TORCH
+        amount: 13
+      '7':
+        type: DIAMOND_SWORD
+        damage: 353
+      '8':
+        type: BOW
+        damage: 3
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cGrape
+          internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JUEliJy8NBoW5fAUgRB9gbLEoFdNQgK/a5+YD32OJkZFUCFl6gdhPjuTlUtuAKPuIRXky2QbbFKQxXLtbeclVpRVLbGdMcxC5Qbi7JSQb1PZ971Nb/MQOn52A8dv6gA8KDAc5KLgcMvn1yd7g96uXcFm/D8znGkiwA3Zxsfk6lY4TmWd795n3uT86+1+jy1RGa6B3oMh0ImumduBd9sDSZ3VyITEcQMkbWo6bq1grg1SByOPqJNJrNb1mAUpL7lp64ga1/3JR79r/BGfnZGJj9bgj5GgnYWSWlDU9pmKb7ho+FU4XIJoMATySWH2SpanTru1QXAH00CO3MuAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '11':
+        type: INK_SACK
+        damage: 15
+        amount: 2
+      '12':
+        type: FIREWORK_CHARGE
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 240
+              BLUE: 240
+              GREEN: 240
+            fade-colors: *id001
+            type: BALL
+      '13':
+        type: ARROW
+        amount: 49
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COAL
+        amount: 41
+      '16':
+        type: SPIDER_EYE
+        amount: 3
+      '17':
+        type: COAL
+        amount: 64
+      '18':
+        type: WOOD_AXE
+        damage: 10
+      '19':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Orange Sapling
+      '20':
+        type: BONE
+        amount: 61
+      '21':
+        type: SLIME_BALL
+        amount: 5
+      '22':
+        type: WOOD
+        amount: 16
+      '23':
+        type: FIREWORK_CHARGE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §6Shotgun Ammo
+          lore:
+          - ''
+          - §7This Ammo can be
+          - §7used in §bShotguns
+      '24':
+        type: FURNACE
+      '25':
+        type: SAPLING
+        amount: 2
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '27':
+        type: CARROT_ITEM
+      '28':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            Minecraft color§0
+            §0Codes:§0
+            §0 &0  §1 &1  §2 &2  §3 &3§0
+            §4 &4  §5 &5  §6 &6  §7 &7§0
+            §8 &8  §9 &9  §a &a  §b &b§0
+            §c &c  §d &d  §e &e  §f &f§0
+          generation: 0
+      '29':
+        type: COAL
+        amount: 64
+      '32':
+        type: GRILLED_PORK
+        amount: 51
+      '33':
+        type: COBBLESTONE
+        amount: 62
+      '34':
+        type: STONE_AXE
+        damage: 43
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 75
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 75
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 75
+      '39':
+        type: DIAMOND_HELMET
+        damage: 75
+  '28':
+    Time: 1459659257739
+    Exp: 390
+    Health: 16.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.036718233632714E7
+      y: 19.0
+      z: -1.2851736853955543E7
+      pitch: 24.083397
+      yaw: 291.8931
+    Items:
+      '0':
+        type: STRING
+        amount: 11
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §8Blackberry
+          internal: H4sIAAAAAAAAAE3MzU6DQBQF4KvRhBIfwy3JFAYsCxeGoh0CUyn9gx2FSwqdaRsKDfBUPqK4c3lyvnNUABVeolMrxHd9KUqBCjyyHF5xas4KC6mWWyTXqImZZtvpTNMNK6WGnaeFXaigjqMr1k2JtwkoDXZNW+NNBYAHBZ63qWgRfrD3SLI/knzviaxn1pjXERFLVl3f2HnbHxxmMTn2iw/L7+1/1mzSnSliwzsm57A9yC3xjZXAxWqayc09qDJ9uYtpXGU0HsI+WTMjkK7OK3HicqMnc9eMpUt5telG0wVfnyUfEsklI1yGZjD/c+6QzEM6fk2549nFnrwDKPDEU4kwcSLnUqNfHgB+AcxV5ykqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: STONE_PICKAXE
+        damage: 52
+      '3':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '4':
+        type: IRON_PICKAXE
+      '5':
+        type: STONE_AXE
+        damage: 8
+      '6':
+        type: TORCH
+        amount: 13
+      '7':
+        type: DIAMOND_SWORD
+        damage: 353
+      '8':
+        type: BOW
+        damage: 3
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cGrape
+          internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JUEliJy8NBoW5fAUgRB9gbLEoFdNQgK/a5+YD32OJkZFUCFl6gdhPjuTlUtuAKPuIRXky2QbbFKQxXLtbeclVpRVLbGdMcxC5Qbi7JSQb1PZ971Nb/MQOn52A8dv6gA8KDAc5KLgcMvn1yd7g96uXcFm/D8znGkiwA3Zxsfk6lY4TmWd795n3uT86+1+jy1RGa6B3oMh0ImumduBd9sDSZ3VyITEcQMkbWo6bq1grg1SByOPqJNJrNb1mAUpL7lp64ga1/3JR79r/BGfnZGJj9bgj5GgnYWSWlDU9pmKb7ho+FU4XIJoMATySWH2SpanTru1QXAH00CO3MuAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '11':
+        type: INK_SACK
+        damage: 15
+        amount: 2
+      '12':
+        type: FIREWORK_CHARGE
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 240
+              BLUE: 240
+              GREEN: 240
+            fade-colors: *id001
+            type: BALL
+      '13':
+        type: ARROW
+        amount: 49
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COAL
+        amount: 41
+      '16':
+        type: SPIDER_EYE
+        amount: 3
+      '17':
+        type: COAL
+        amount: 64
+      '18':
+        type: WOOD_AXE
+        damage: 10
+      '19':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Orange Sapling
+      '20':
+        type: BONE
+        amount: 61
+      '21':
+        type: SLIME_BALL
+        amount: 5
+      '22':
+        type: WOOD
+        amount: 16
+      '23':
+        type: FIREWORK_CHARGE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §6Shotgun Ammo
+          lore:
+          - ''
+          - §7This Ammo can be
+          - §7used in §bShotguns
+      '24':
+        type: FURNACE
+      '25':
+        type: SAPLING
+        amount: 2
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '27':
+        type: CARROT_ITEM
+      '28':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            Minecraft color§0
+            §0Codes:§0
+            §0 &0  §1 &1  §2 &2  §3 &3§0
+            §4 &4  §5 &5  §6 &6  §7 &7§0
+            §8 &8  §9 &9  §a &a  §b &b§0
+            §c &c  §d &d  §e &e  §f &f§0
+          generation: 0
+      '29':
+        type: COAL
+        amount: 64
+      '32':
+        type: GRILLED_PORK
+        amount: 51
+      '33':
+        type: COBBLESTONE
+        amount: 62
+      '34':
+        type: STONE_AXE
+        damage: 43
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 75
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 75
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 75
+      '39':
+        type: DIAMOND_HELMET
+        damage: 75
+  '29':
+    Time: 1459766730534
+    Exp: 390
+    Health: 16.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.036718233632714E7
+      y: 19.0
+      z: -1.2851736853955543E7
+      pitch: 24.083397
+      yaw: 291.8931
+    Items:
+      '0':
+        type: STRING
+        amount: 11
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §8Blackberry
+          internal: H4sIAAAAAAAAAE3MzU6DQBQF4KvRhBIfwy3JFAYsCxeGoh0CUyn9gx2FSwqdaRsKDfBUPqK4c3lyvnNUABVeolMrxHd9KUqBCjyyHF5xas4KC6mWWyTXqImZZtvpTNMNK6WGnaeFXaigjqMr1k2JtwkoDXZNW+NNBYAHBZ63qWgRfrD3SLI/knzviaxn1pjXERFLVl3f2HnbHxxmMTn2iw/L7+1/1mzSnSliwzsm57A9yC3xjZXAxWqayc09qDJ9uYtpXGU0HsI+WTMjkK7OK3HicqMnc9eMpUt5telG0wVfnyUfEsklI1yGZjD/c+6QzEM6fk2549nFnrwDKPDEU4kwcSLnUqNfHgB+AcxV5ykqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: STONE_PICKAXE
+        damage: 52
+      '3':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '4':
+        type: IRON_PICKAXE
+      '5':
+        type: STONE_AXE
+        damage: 8
+      '6':
+        type: TORCH
+        amount: 13
+      '7':
+        type: DIAMOND_SWORD
+        damage: 353
+      '8':
+        type: BOW
+        damage: 3
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cGrape
+          internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JUEliJy8NBoW5fAUgRB9gbLEoFdNQgK/a5+YD32OJkZFUCFl6gdhPjuTlUtuAKPuIRXky2QbbFKQxXLtbeclVpRVLbGdMcxC5Qbi7JSQb1PZ971Nb/MQOn52A8dv6gA8KDAc5KLgcMvn1yd7g96uXcFm/D8znGkiwA3Zxsfk6lY4TmWd795n3uT86+1+jy1RGa6B3oMh0ImumduBd9sDSZ3VyITEcQMkbWo6bq1grg1SByOPqJNJrNb1mAUpL7lp64ga1/3JR79r/BGfnZGJj9bgj5GgnYWSWlDU9pmKb7ho+FU4XIJoMATySWH2SpanTru1QXAH00CO3MuAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '11':
+        type: INK_SACK
+        damage: 15
+        amount: 2
+      '12':
+        type: FIREWORK_CHARGE
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 240
+              BLUE: 240
+              GREEN: 240
+            fade-colors: *id001
+            type: BALL
+      '13':
+        type: ARROW
+        amount: 49
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COAL
+        amount: 41
+      '16':
+        type: SPIDER_EYE
+        amount: 3
+      '17':
+        type: COAL
+        amount: 64
+      '18':
+        type: WOOD_AXE
+        damage: 10
+      '19':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Orange Sapling
+      '20':
+        type: BONE
+        amount: 61
+      '21':
+        type: SLIME_BALL
+        amount: 5
+      '22':
+        type: WOOD
+        amount: 16
+      '23':
+        type: FIREWORK_CHARGE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §6Shotgun Ammo
+          lore:
+          - ''
+          - §7This Ammo can be
+          - §7used in §bShotguns
+      '24':
+        type: FURNACE
+      '25':
+        type: SAPLING
+        amount: 2
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '27':
+        type: CARROT_ITEM
+      '28':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            Minecraft color§0
+            §0Codes:§0
+            §0 &0  §1 &1  §2 &2  §3 &3§0
+            §4 &4  §5 &5  §6 &6  §7 &7§0
+            §8 &8  §9 &9  §a &a  §b &b§0
+            §c &c  §d &d  §e &e  §f &f§0
+          generation: 0
+      '29':
+        type: COAL
+        amount: 64
+      '32':
+        type: GRILLED_PORK
+        amount: 51
+      '33':
+        type: COBBLESTONE
+        amount: 62
+      '34':
+        type: STONE_AXE
+        damage: 43
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 75
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 75
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 75
+      '39':
+        type: DIAMOND_HELMET
+        damage: 75
+  '30':
+    Time: 1459847482384
+    Exp: 390
+    Health: 16.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.036718233632714E7
+      y: 19.0
+      z: -1.2851736853955543E7
+      pitch: 24.083397
+      yaw: 291.8931
+    Items:
+      '0':
+        type: STRING
+        amount: 11
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §8Blackberry
+          internal: H4sIAAAAAAAAAE3MzU6DQBQF4KvRhBIfwy3JFAYsCxeGoh0CUyn9gx2FSwqdaRsKDfBUPqK4c3lyvnNUABVeolMrxHd9KUqBCjyyHF5xas4KC6mWWyTXqImZZtvpTNMNK6WGnaeFXaigjqMr1k2JtwkoDXZNW+NNBYAHBZ63qWgRfrD3SLI/knzviaxn1pjXERFLVl3f2HnbHxxmMTn2iw/L7+1/1mzSnSliwzsm57A9yC3xjZXAxWqayc09qDJ9uYtpXGU0HsI+WTMjkK7OK3HicqMnc9eMpUt5telG0wVfnyUfEsklI1yGZjD/c+6QzEM6fk2549nFnrwDKPDEU4kwcSLnUqNfHgB+AcxV5ykqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: STONE_PICKAXE
+        damage: 52
+      '3':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '4':
+        type: IRON_PICKAXE
+      '5':
+        type: STONE_AXE
+        damage: 8
+      '6':
+        type: TORCH
+        amount: 13
+      '7':
+        type: DIAMOND_SWORD
+        damage: 353
+      '8':
+        type: BOW
+        damage: 3
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cGrape
+          internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JUEliJy8NBoW5fAUgRB9gbLEoFdNQgK/a5+YD32OJkZFUCFl6gdhPjuTlUtuAKPuIRXky2QbbFKQxXLtbeclVpRVLbGdMcxC5Qbi7JSQb1PZ971Nb/MQOn52A8dv6gA8KDAc5KLgcMvn1yd7g96uXcFm/D8znGkiwA3Zxsfk6lY4TmWd795n3uT86+1+jy1RGa6B3oMh0ImumduBd9sDSZ3VyITEcQMkbWo6bq1grg1SByOPqJNJrNb1mAUpL7lp64ga1/3JR79r/BGfnZGJj9bgj5GgnYWSWlDU9pmKb7ho+FU4XIJoMATySWH2SpanTru1QXAH00CO3MuAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '11':
+        type: INK_SACK
+        damage: 15
+        amount: 2
+      '12':
+        type: FIREWORK_CHARGE
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 240
+              BLUE: 240
+              GREEN: 240
+            fade-colors: *id001
+            type: BALL
+      '13':
+        type: ARROW
+        amount: 49
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COAL
+        amount: 41
+      '16':
+        type: SPIDER_EYE
+        amount: 3
+      '17':
+        type: COAL
+        amount: 64
+      '18':
+        type: WOOD_AXE
+        damage: 10
+      '19':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Orange Sapling
+      '20':
+        type: BONE
+        amount: 61
+      '21':
+        type: SLIME_BALL
+        amount: 5
+      '22':
+        type: WOOD
+        amount: 16
+      '23':
+        type: FIREWORK_CHARGE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §6Shotgun Ammo
+          lore:
+          - ''
+          - §7This Ammo can be
+          - §7used in §bShotguns
+      '24':
+        type: FURNACE
+      '25':
+        type: SAPLING
+        amount: 2
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '27':
+        type: CARROT_ITEM
+      '28':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            Minecraft color§0
+            §0Codes:§0
+            §0 &0  §1 &1  §2 &2  §3 &3§0
+            §4 &4  §5 &5  §6 &6  §7 &7§0
+            §8 &8  §9 &9  §a &a  §b &b§0
+            §c &c  §d &d  §e &e  §f &f§0
+          generation: 0
+      '29':
+        type: COAL
+        amount: 64
+      '32':
+        type: GRILLED_PORK
+        amount: 51
+      '33':
+        type: COBBLESTONE
+        amount: 62
+      '34':
+        type: STONE_AXE
+        damage: 43
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 75
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 75
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 75
+      '39':
+        type: DIAMOND_HELMET
+        damage: 75
+  '31':
+    Time: 1460146819090
+    Exp: 390
+    Health: 16.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.036718233632714E7
+      y: 19.0
+      z: -1.2851736853955543E7
+      pitch: 24.083397
+      yaw: 291.8931
+    Items:
+      '0':
+        type: STRING
+        amount: 11
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §8Blackberry
+          internal: H4sIAAAAAAAAAE3MzU6DQBQF4KvRhBIfwy3JFAYsCxeGoh0CUyn9gx2FSwqdaRsKDfBUPqK4c3lyvnNUABVeolMrxHd9KUqBCjyyHF5xas4KC6mWWyTXqImZZtvpTNMNK6WGnaeFXaigjqMr1k2JtwkoDXZNW+NNBYAHBZ63qWgRfrD3SLI/knzviaxn1pjXERFLVl3f2HnbHxxmMTn2iw/L7+1/1mzSnSliwzsm57A9yC3xjZXAxWqayc09qDJ9uYtpXGU0HsI+WTMjkK7OK3HicqMnc9eMpUt5telG0wVfnyUfEsklI1yGZjD/c+6QzEM6fk2549nFnrwDKPDEU4kwcSLnUqNfHgB+AcxV5ykqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: STONE_PICKAXE
+        damage: 52
+      '3':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '4':
+        type: IRON_PICKAXE
+      '5':
+        type: STONE_AXE
+        damage: 8
+      '6':
+        type: TORCH
+        amount: 13
+      '7':
+        type: DIAMOND_SWORD
+        damage: 353
+      '8':
+        type: BOW
+        damage: 3
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cGrape
+          internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JUEliJy8NBoW5fAUgRB9gbLEoFdNQgK/a5+YD32OJkZFUCFl6gdhPjuTlUtuAKPuIRXky2QbbFKQxXLtbeclVpRVLbGdMcxC5Qbi7JSQb1PZ971Nb/MQOn52A8dv6gA8KDAc5KLgcMvn1yd7g96uXcFm/D8znGkiwA3Zxsfk6lY4TmWd795n3uT86+1+jy1RGa6B3oMh0ImumduBd9sDSZ3VyITEcQMkbWo6bq1grg1SByOPqJNJrNb1mAUpL7lp64ga1/3JR79r/BGfnZGJj9bgj5GgnYWSWlDU9pmKb7ho+FU4XIJoMATySWH2SpanTru1QXAH00CO3MuAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '11':
+        type: INK_SACK
+        damage: 15
+        amount: 2
+      '12':
+        type: FIREWORK_CHARGE
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 240
+              BLUE: 240
+              GREEN: 240
+            fade-colors: *id001
+            type: BALL
+      '13':
+        type: ARROW
+        amount: 49
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COAL
+        amount: 41
+      '16':
+        type: SPIDER_EYE
+        amount: 3
+      '17':
+        type: COAL
+        amount: 64
+      '18':
+        type: WOOD_AXE
+        damage: 10
+      '19':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Orange Sapling
+      '20':
+        type: BONE
+        amount: 61
+      '21':
+        type: SLIME_BALL
+        amount: 5
+      '22':
+        type: WOOD
+        amount: 16
+      '23':
+        type: FIREWORK_CHARGE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §6Shotgun Ammo
+          lore:
+          - ''
+          - §7This Ammo can be
+          - §7used in §bShotguns
+      '24':
+        type: FURNACE
+      '25':
+        type: SAPLING
+        amount: 2
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '27':
+        type: CARROT_ITEM
+      '28':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            Minecraft color§0
+            §0Codes:§0
+            §0 &0  §1 &1  §2 &2  §3 &3§0
+            §4 &4  §5 &5  §6 &6  §7 &7§0
+            §8 &8  §9 &9  §a &a  §b &b§0
+            §c &c  §d &d  §e &e  §f &f§0
+          generation: 0
+      '29':
+        type: COAL
+        amount: 64
+      '32':
+        type: GRILLED_PORK
+        amount: 51
+      '33':
+        type: COBBLESTONE
+        amount: 62
+      '34':
+        type: STONE_AXE
+        damage: 43
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 75
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 75
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 75
+      '39':
+        type: DIAMOND_HELMET
+        damage: 75
+  '32':
+    Time: 1460883165418
+    Exp: 390
+    Health: 16.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.036718233632714E7
+      y: 19.0
+      z: -1.2851736853955543E7
+      pitch: 24.083397
+      yaw: 291.8931
+    Items:
+      '0':
+        type: STRING
+        amount: 11
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §8Blackberry
+          internal: H4sIAAAAAAAAAE3MzU6DQBQF4KvRhBIfwy3JFAYsCxeGoh0CUyn9gx2FSwqdaRsKDfBUPqK4c3lyvnNUABVeolMrxHd9KUqBCjyyHF5xas4KC6mWWyTXqImZZtvpTNMNK6WGnaeFXaigjqMr1k2JtwkoDXZNW+NNBYAHBZ63qWgRfrD3SLI/knzviaxn1pjXERFLVl3f2HnbHxxmMTn2iw/L7+1/1mzSnSliwzsm57A9yC3xjZXAxWqayc09qDJ9uYtpXGU0HsI+WTMjkK7OK3HicqMnc9eMpUt5telG0wVfnyUfEsklI1yGZjD/c+6QzEM6fk2549nFnrwDKPDEU4kwcSLnUqNfHgB+AcxV5ykqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: STONE_PICKAXE
+        damage: 52
+      '3':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '4':
+        type: IRON_PICKAXE
+      '5':
+        type: STONE_AXE
+        damage: 8
+      '6':
+        type: TORCH
+        amount: 13
+      '7':
+        type: DIAMOND_SWORD
+        damage: 353
+      '8':
+        type: BOW
+        damage: 3
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cGrape
+          internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JUEliJy8NBoW5fAUgRB9gbLEoFdNQgK/a5+YD32OJkZFUCFl6gdhPjuTlUtuAKPuIRXky2QbbFKQxXLtbeclVpRVLbGdMcxC5Qbi7JSQb1PZ971Nb/MQOn52A8dv6gA8KDAc5KLgcMvn1yd7g96uXcFm/D8znGkiwA3Zxsfk6lY4TmWd795n3uT86+1+jy1RGa6B3oMh0ImumduBd9sDSZ3VyITEcQMkbWo6bq1grg1SByOPqJNJrNb1mAUpL7lp64ga1/3JR79r/BGfnZGJj9bgj5GgnYWSWlDU9pmKb7ho+FU4XIJoMATySWH2SpanTru1QXAH00CO3MuAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '11':
+        type: INK_SACK
+        damage: 15
+        amount: 2
+      '12':
+        type: FIREWORK_CHARGE
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 240
+              BLUE: 240
+              GREEN: 240
+            fade-colors: *id001
+            type: BALL
+      '13':
+        type: ARROW
+        amount: 49
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COAL
+        amount: 41
+      '16':
+        type: SPIDER_EYE
+        amount: 3
+      '17':
+        type: COAL
+        amount: 64
+      '18':
+        type: WOOD_AXE
+        damage: 10
+      '19':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Orange Sapling
+      '20':
+        type: BONE
+        amount: 61
+      '21':
+        type: SLIME_BALL
+        amount: 5
+      '22':
+        type: WOOD
+        amount: 16
+      '23':
+        type: FIREWORK_CHARGE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §6Shotgun Ammo
+          lore:
+          - ''
+          - §7This Ammo can be
+          - §7used in §bShotguns
+      '24':
+        type: FURNACE
+      '25':
+        type: SAPLING
+        amount: 2
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '27':
+        type: CARROT_ITEM
+      '28':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            Minecraft color§0
+            §0Codes:§0
+            §0 &0  §1 &1  §2 &2  §3 &3§0
+            §4 &4  §5 &5  §6 &6  §7 &7§0
+            §8 &8  §9 &9  §a &a  §b &b§0
+            §c &c  §d &d  §e &e  §f &f§0
+          generation: 0
+      '29':
+        type: COAL
+        amount: 64
+      '32':
+        type: GRILLED_PORK
+        amount: 51
+      '33':
+        type: COBBLESTONE
+        amount: 62
+      '34':
+        type: STONE_AXE
+        damage: 43
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 75
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 75
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 75
+      '39':
+        type: DIAMOND_HELMET
+        damage: 75
+  '33':
+    Time: 1462120690227
+    Exp: 390
+    Health: 16.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.036718233632714E7
+      y: 19.0
+      z: -1.2851736853955543E7
+      pitch: 24.083397
+      yaw: 291.8931
+    Items:
+      '0':
+        type: STRING
+        amount: 11
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §8Blackberry
+          internal: H4sIAAAAAAAAAE3MzU6DQBQF4KvRhBIfwy3JFAYsCxeGoh0CUyn9gx2FSwqdaRsKDfBUPqK4c3lyvnNUABVeolMrxHd9KUqBCjyyHF5xas4KC6mWWyTXqImZZtvpTNMNK6WGnaeFXaigjqMr1k2JtwkoDXZNW+NNBYAHBZ63qWgRfrD3SLI/knzviaxn1pjXERFLVl3f2HnbHxxmMTn2iw/L7+1/1mzSnSliwzsm57A9yC3xjZXAxWqayc09qDJ9uYtpXGU0HsI+WTMjkK7OK3HicqMnc9eMpUt5telG0wVfnyUfEsklI1yGZjD/c+6QzEM6fk2549nFnrwDKPDEU4kwcSLnUqNfHgB+AcxV5ykqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: STONE_PICKAXE
+        damage: 52
+      '3':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '4':
+        type: IRON_PICKAXE
+      '5':
+        type: STONE_AXE
+        damage: 8
+      '6':
+        type: TORCH
+        amount: 13
+      '7':
+        type: DIAMOND_SWORD
+        damage: 353
+      '8':
+        type: BOW
+        damage: 3
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cGrape
+          internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JUEliJy8NBoW5fAUgRB9gbLEoFdNQgK/a5+YD32OJkZFUCFl6gdhPjuTlUtuAKPuIRXky2QbbFKQxXLtbeclVpRVLbGdMcxC5Qbi7JSQb1PZ971Nb/MQOn52A8dv6gA8KDAc5KLgcMvn1yd7g96uXcFm/D8znGkiwA3Zxsfk6lY4TmWd795n3uT86+1+jy1RGa6B3oMh0ImumduBd9sDSZ3VyITEcQMkbWo6bq1grg1SByOPqJNJrNb1mAUpL7lp64ga1/3JR79r/BGfnZGJj9bgj5GgnYWSWlDU9pmKb7ho+FU4XIJoMATySWH2SpanTru1QXAH00CO3MuAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '11':
+        type: INK_SACK
+        damage: 15
+        amount: 2
+      '12':
+        type: FIREWORK_CHARGE
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 240
+              BLUE: 240
+              GREEN: 240
+            fade-colors: *id001
+            type: BALL
+      '13':
+        type: ARROW
+        amount: 49
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COAL
+        amount: 41
+      '16':
+        type: SPIDER_EYE
+        amount: 3
+      '17':
+        type: COAL
+        amount: 64
+      '18':
+        type: WOOD_AXE
+        damage: 10
+      '19':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Orange Sapling
+      '20':
+        type: BONE
+        amount: 61
+      '21':
+        type: SLIME_BALL
+        amount: 5
+      '22':
+        type: WOOD
+        amount: 16
+      '23':
+        type: FIREWORK_CHARGE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §6Shotgun Ammo
+          lore:
+          - ''
+          - §7This Ammo can be
+          - §7used in §bShotguns
+      '24':
+        type: FURNACE
+      '25':
+        type: SAPLING
+        amount: 2
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '27':
+        type: CARROT_ITEM
+      '28':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            Minecraft color§0
+            §0Codes:§0
+            §0 &0  §1 &1  §2 &2  §3 &3§0
+            §4 &4  §5 &5  §6 &6  §7 &7§0
+            §8 &8  §9 &9  §a &a  §b &b§0
+            §c &c  §d &d  §e &e  §f &f§0
+          generation: 0
+      '29':
+        type: COAL
+        amount: 64
+      '32':
+        type: GRILLED_PORK
+        amount: 51
+      '33':
+        type: COBBLESTONE
+        amount: 62
+      '34':
+        type: STONE_AXE
+        damage: 43
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 75
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 75
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 75
+      '39':
+        type: DIAMOND_HELMET
+        damage: 75
+  '34':
+    Time: 1462483213027
+    Exp: 390
+    Health: 16.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.036718233632714E7
+      y: 19.0
+      z: -1.2851736853955543E7
+      pitch: 24.083397
+      yaw: 291.8931
+    Items:
+      '0':
+        type: STRING
+        amount: 11
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §8Blackberry
+          internal: H4sIAAAAAAAAAE3MzU6DQBQF4KvRhBIfwy3JFAYsCxeGoh0CUyn9gx2FSwqdaRsKDfBUPqK4c3lyvnNUABVeolMrxHd9KUqBCjyyHF5xas4KC6mWWyTXqImZZtvpTNMNK6WGnaeFXaigjqMr1k2JtwkoDXZNW+NNBYAHBZ63qWgRfrD3SLI/knzviaxn1pjXERFLVl3f2HnbHxxmMTn2iw/L7+1/1mzSnSliwzsm57A9yC3xjZXAxWqayc09qDJ9uYtpXGU0HsI+WTMjkK7OK3HicqMnc9eMpUt5telG0wVfnyUfEsklI1yGZjD/c+6QzEM6fk2549nFnrwDKPDEU4kwcSLnUqNfHgB+AcxV5ykqAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: STONE_PICKAXE
+        damage: 52
+      '3':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '4':
+        type: IRON_PICKAXE
+      '5':
+        type: STONE_AXE
+        damage: 8
+      '6':
+        type: TORCH
+        amount: 13
+      '7':
+        type: DIAMOND_SWORD
+        damage: 353
+      '8':
+        type: BOW
+        damage: 3
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cGrape
+          internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JUEliJy8NBoW5fAUgRB9gbLEoFdNQgK/a5+YD32OJkZFUCFl6gdhPjuTlUtuAKPuIRXky2QbbFKQxXLtbeclVpRVLbGdMcxC5Qbi7JSQb1PZ971Nb/MQOn52A8dv6gA8KDAc5KLgcMvn1yd7g96uXcFm/D8znGkiwA3Zxsfk6lY4TmWd795n3uT86+1+jy1RGa6B3oMh0ImumduBd9sDSZ3VyITEcQMkbWo6bq1grg1SByOPqJNJrNb1mAUpL7lp64ga1/3JR79r/BGfnZGJj9bgj5GgnYWSWlDU9pmKb7ho+FU4XIJoMATySWH2SpanTru1QXAH00CO3MuAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '11':
+        type: INK_SACK
+        damage: 15
+        amount: 2
+      '12':
+        type: FIREWORK_CHARGE
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 240
+              BLUE: 240
+              GREEN: 240
+            fade-colors: *id001
+            type: BALL
+      '13':
+        type: ARROW
+        amount: 49
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COAL
+        amount: 41
+      '16':
+        type: SPIDER_EYE
+        amount: 3
+      '17':
+        type: COAL
+        amount: 64
+      '18':
+        type: WOOD_AXE
+        damage: 10
+      '19':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Orange Sapling
+      '20':
+        type: BONE
+        amount: 61
+      '21':
+        type: SLIME_BALL
+        amount: 5
+      '22':
+        type: WOOD
+        amount: 16
+      '23':
+        type: FIREWORK_CHARGE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §6Shotgun Ammo
+          lore:
+          - ''
+          - §7This Ammo can be
+          - §7used in §bShotguns
+      '24':
+        type: FURNACE
+      '25':
+        type: SAPLING
+        amount: 2
+      '26':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '27':
+        type: CARROT_ITEM
+      '28':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            Minecraft color§0
+            §0Codes:§0
+            §0 &0  §1 &1  §2 &2  §3 &3§0
+            §4 &4  §5 &5  §6 &6  §7 &7§0
+            §8 &8  §9 &9  §a &a  §b &b§0
+            §c &c  §d &d  §e &e  §f &f§0
+          generation: 0
+      '29':
+        type: COAL
+        amount: 64
+      '32':
+        type: GRILLED_PORK
+        amount: 51
+      '33':
+        type: COBBLESTONE
+        amount: 62
+      '34':
+        type: STONE_AXE
+        damage: 43
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 75
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 75
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 75
+      '39':
+        type: DIAMOND_HELMET
+        damage: 75

@@ -1,0 +1,474 @@
+PlayerLastName: VampCat
+EnderChestSize: 54
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Axe
+      enchants:
+        DAMAGE_ALL: 10
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+  '45':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '46':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '47':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 35
+  '48':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 64
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Jacko is sorry
+      repair-cost: 1
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Please enjoy :D
+      repair-cost: 1
+  '50':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    damage: 19
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Old Spell
+      lore:
+      - §6+ Confusion 4
+      - §e+ Wither 6
+      enchants:
+        SILK_TOUCH: 5
+        ARROW_KNOCKBACK: 7
+        THORNS: 6
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Elemental Staff §7- §c§oFire
+      lore:
+      - ''
+      - '§7Element: §c§oFire'
+      enchants:
+        FIRE_ASPECT: 5
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_HOE
+    damage: 3
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BLOCK
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6§lGold of Destiny
+      lore:
+      - §6§lA Present For You
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Baton
+      enchants:
+        KNOCKBACK: 10
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPONGE
+    amount: 16
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 15
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+      skull-owner: CSCoreLib
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPONGE
+    damage: 1
+    amount: 30
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §cBlade of Vampires
+      lore:
+      - §7Life Steal I
+      - ''
+      - §rEverytime you attack something
+      - §ryou have a 45% chance to
+      - §rrecover 2 Hearts of your Health
+      enchants:
+        DAMAGE_ALL: 2
+        DURABILITY: 4
+        FIRE_ASPECT: 2
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Baton
+      enchants:
+        KNOCKBACK: 10
+  '42':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 64
+  '43':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 64
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Baton
+      enchants:
+        KNOCKBACK: 10
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §eLarge Backpack
+      lore:
+      - ''
+      - '§7Size: §e27'
+      - '§7ID: ce369728-0aad-4d12-800e-cd68eab75c5d#2'
+      - ''
+      - §7§eRight Click§7 to open
+      blockMaterial: CHEST
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: OBSIDIAN
+    amount: 7
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §5Wither-Proof Obsidian
+      lore:
+      - ''
+      - §rWithstands Explosions
+      - §rWithstands Wither Bosses
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Leggings
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        DURABILITY: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §5§lEnder Chestplate
+      lore:
+      - ''
+      - §a§oSometimes its here, sometimes there!
+      color:
+        ==: Color
+        RED: 28
+        BLUE: 112
+        GREEN: 25
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bReinforced Boots
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 9
+        DURABILITY: 9
+  '51':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bAwakened Challenge
+      enchants:
+        SILK_TOUCH: 3
+        PROTECTION_EXPLOSIONS: 8
+  '44':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD_BLOCK
+    amount: 33
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §2Cactus Helmet
+      enchants:
+        DURABILITY: 5
+        THORNS: 3
+      color:
+        ==: Color
+        RED: 0
+        BLUE: 0
+        GREEN: 128
+  '34':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 606
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §9Enchanted Tool
+      lore:
+      - §b- Damage Resistance 7
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 8
+        DAMAGE_ARTHROPODS: 2
+        MENDING: 4
+  '35':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 286
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 4
+        DURABILITY: 3
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BLOCK
+    amount: 58
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6§lGold of Destiny
+      lore:
+      - §6§lA Present For You
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §cBroken Spawner
+      lore:
+      - '§7Type: §bCow'
+      - ''
+      - §cFractured, must be repaired in an Ancient Altar
+      blockMaterial: MOB_SPAWNER
+  '29':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §4Eyamaz Pet
+      lore:
+      - §9Special
+      - '§7Favourite Food: Souls'
+      - ''
+      - §rBeware! Eyamaz makes a Soul Pie
+      - §rout of the Souls of everything you kill
+      internal: H4sIAAAAAAAAAE2MwW6CQBRFX5s2QdLP6JZkQBh00UWjpEJkqGjBmR0wgyIzahCM8F39wLLs8uSce3UAHd62dSfld3MpKyk0ePY5vHOz5MIVloFLXBh2YWIjywUy3JnL53zm4mJm66CPo6to2krcJqC14tF2jbjpAPCkwWuSyU7Ar+gDxPZHxPeBLHofj7zbIhn5p6vrn5M+X/jYV6NffeJ1P//XOm2WOpJOgyM7b7pcJWg9jaVYxWahfu7h7oDIECtieRYdvCFK6YNapCZDaNLdxiIDP4XLjRlaIaIqUSyNFR0ODlNJPXqHpZ4dLZmkJ89mX+OPIjWrgnm5Rx8AGryQTAmYLLaLSyPWVQ7wB529T5IuAQAA
+      skull-owner: CSCoreLib
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '37':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '38':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  '39':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 38
+  '41':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 8
+  '53':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Smelter's Pickaxe
+      lore:
+      - §c§lAuto-Smelting
+      - ''
+      - §9Works with Fortune
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: NAME_TAG
+    amount: 60
+  '28':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §cSoul Jar §7(Pig)
+      lore:
+      - ''
+      - '§7Infused Souls: §e128'
+      internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJusuPHBsadYksRRFZbvwsFVjUIDTCU/URy7HHycyoACq8HZpByq/uWlZSKPBMC3i3rEwX9irXyoLoml4SQ7NLlGkktQgqkC3ylamCOk830fWVuC9A6cWjHzpxVwHgSYHXKJWDgF8xuiiJz6iIXZmP1Jw5PCDp0/pm0Us0Zg41aTv77Ye5G+1/rdGnJ0Ny4p6TSzBkbYR2ZC/Fdr/M2+MPb4MHn3LCcCS9kGM+BYTjtWR1o/PTEfM6x/5pf2ab48hrTpI6wP7n95KF3uRt1g3DbpNsAsLCdc1CaniYV2W8tAEUeGFpK2DhHJxrJ3ZVBvAHQcXUEyoBAAA=
+      skull-owner: CSCoreLib
+  '30':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §ePowered Spawner §7(Villager)
+      lore:
+      - ''
+      - '§8⇨ §e⚡ §7Max Entity Cap: 6'
+      - §8⇨ §e⚡ §7512 J Buffer
+      - §8⇨ §e⚡ §7240 J/Mob
+      internal: H4sIAAAAAAAAAE2LzW6CQBhFvzZtgqSP0S3J8Csuumiw6hA6FBlBZjfoEMBBDYIRnqqPWJZd3MXJOVcFUOEtPvVS/rSXopJCgWd8hHeL65ZrFK5WuK6hWe7C0HiuC806FrrBOULm3FFBnU5X0XaVuM1A6cSj61txUwHgSYHXhMtewK8YfMT2JTrufXkYsDMxjZEMcX2d43My5B52cDP5zacTDIt/rd3x1JaZ6ZfsHPV5k6DA3Eqx2eqHZndna2xkTWSTEZtZ6leEJidCoweh2CD0YIVphFiN7XAZmeFyVX6P0ZiNmcXWpGT1zpymk/WXzqgsM7qqmecvij36AFDghfBGwMyLvUsrgioH+APpiPodKgEAAA==
+      skull-owner: CSCoreLib
+  '31':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 5
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eWoven Backpack
+      lore:
+      - ''
+      - '§7Size: §e36'
+      - '§7ID: <ID>'
+      - ''
+      - §7§eRight Click§7 to open
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+      skull-owner: CSCoreLib
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 4
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §6Blaze Pet
+      lore:
+      - §cMob (Hostile)
+      - '§7Favourite Food: Nether Quartz'
+      - ''
+      - §rImmune to Fire
+      internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6NZkZATCwkUjTR0iUGREnZ3AIwwMaBCs/FU/sSy7uDc5uefqADq8xfWg1Hd3KaRCDZ5ZDu/EXGZpQZ25Y0+1dAycOynN50VuL3O0DZNmqIM+na7Y9RJvM9B6fPRDhzcdAJ40eE3OakD4xdEj4liS/OipbGTWxDwmKmTV1WZtMqZrZrFm2jcf1nZ0/rlmfz6Y6kS9UrTRkDYJ2dKdws1ukTX7e1Cxhe8mUvCMhlzIwIho+PVJfZ5XvrE3gkNSBq4nRcUePo9IeBD1qRJ1yIPGbxjxXVGGblmequwx5Ye1C6eIVisADV6Cc4MwW8frS4dbmQL8AX2fD9EqAQAA
+      skull-owner: CSCoreLib
+  '49':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 44
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 9
+        DURABILITY: 9
+        LOOT_BONUS_BLOCKS: 9

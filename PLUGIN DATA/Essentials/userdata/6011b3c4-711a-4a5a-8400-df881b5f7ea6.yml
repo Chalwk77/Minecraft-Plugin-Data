@@ -1,0 +1,39 @@
+lastlocation:
+  world: world
+  x: -28617.30000001192
+  y: 71.0
+  z: 5320.300000011921
+  yaw: -152.69966
+  pitch: 6.449992
+geolocation: United States
+lastAccountName: Greyrog
+timestamps:
+  login: 1475945049004
+  lastteleport: 1475892001481
+  logout: 1475945113934
+ipAddress: 104.183.52.35
+mail:
+- §6[§rServer§6] §rThanks for signing up. We appreciate your support!
+money: '16561.7634999999999935'
+homes:
+  home:
+    world: world
+    x: -17630.30000001192
+    y: 64.0
+    z: 10373.238432685313
+    yaw: -15.749925
+    pitch: 24.749987
+  a1:
+    world: world
+    x: -28943.69999998808
+    y: 67.0
+    z: 5825.46963913612
+    yaw: -85.64989
+    pitch: 20.850004
+logoutlocation:
+  world: world
+  x: -17666.69999998808
+  y: 73.0
+  z: 10376.381704685977
+  yaw: -137.09927
+  pitch: 22.050003

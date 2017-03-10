@@ -1,0 +1,47 @@
+socialspy: false
+lastAccountName: Will7838
+timestamps:
+  login: 1481709310254
+  logout: 1481709315398
+  lastteleport: 1480570590776
+  kits:
+    mccharacter: 1459048725839
+    firework: 1475897738171
+    mod: 1458022202794
+    color: 1461482901833
+    wekit: 1456993054696
+    drinks: 1460254121854
+    pw: 1470046273581
+    dtools: 1467432511027
+    tools: 1459230541872
+    food: 1472724452665
+  jail: 0
+ipAddress: 60.241.117.46
+geolocation: Maroubra, New South Wales, Australia
+logoutlocation:
+  world: world
+  x: 412827.6999999881
+  y: 67.20000004768372
+  z: 272472.9896442243
+  yaw: -177.19815
+  pitch: 27.000086
+lastlocation:
+  world: world
+  x: 473.89799216063176
+  y: 138.0
+  z: -238.52984456399616
+  yaw: -59.00363
+  pitch: 52.799995
+money: '111320.58415000000015485'
+homes:
+  home:
+    world: world
+    x: 8734.96880378452
+    y: 64.0
+    z: 27836.57745171435
+    yaw: -87.2999
+    pitch: 20.999996
+afk: false
+godmode: true
+jailed: false
+teleportenabled: false

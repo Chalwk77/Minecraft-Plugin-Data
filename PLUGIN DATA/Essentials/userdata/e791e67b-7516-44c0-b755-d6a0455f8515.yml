@@ -1,0 +1,33 @@
+lastlocation:
+  world: world
+  x: 14642.94777131975
+  y: 72.0
+  z: 9176.659284499225
+  yaw: -21.615883
+  pitch: 10.499978
+geolocation: Australia
+lastAccountName: mybrotherisanoob
+timestamps:
+  login: 1472724669305
+  lastteleport: 1472729039378
+  logout: 1472729069633
+  kits:
+    tools: 1472728653478
+    food: 1472724435975
+ipAddress: 14.2.67.162
+money: '103446.4742499999999980'
+homes:
+  home:
+    world: world
+    x: -11373.892280564494
+    y: 70.0
+    z: -17968.275771674114
+    yaw: -11.699964
+    pitch: 17.850016
+logoutlocation:
+  world: world
+  x: -3037.2120156668047
+  y: 100.0
+  z: -2211.5527933383755
+  yaw: -137.01192
+  pitch: 31.200275

@@ -1,0 +1,733 @@
+Inventories:
+  '1':
+    Time: 1459766733393
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 95880
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3429.6580041139237
+      y: 70.0
+      z: -3564.4819874473924
+      pitch: -0.2264906
+      yaw: -110.00232
+    Items:
+      '0':
+        type: SAPLING
+        damage: 2
+      '1':
+        type: COOKED_CHICKEN
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: BONE
+      '3':
+        type: DIAMOND_SWORD
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 181
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: LOG
+        amount: 64
+      '8':
+        type: LOG
+        damage: 2
+        amount: 64
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '12':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '13':
+        type: ARROW
+      '14':
+        type: LOG
+        amount: 44
+      '15':
+        type: ROTTEN_FLESH
+        amount: 2
+      '16':
+        type: SAPLING
+      '17':
+        type: SEEDS
+        amount: 2
+      '18':
+        type: STRING
+        amount: 3
+      '19':
+        type: SPIDER_EYE
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+  '2':
+    Time: 1459847484496
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 95880
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3429.6580041139237
+      y: 70.0
+      z: -3564.4819874473924
+      pitch: -0.2264906
+      yaw: -110.00232
+    Items:
+      '0':
+        type: SAPLING
+        damage: 2
+      '1':
+        type: COOKED_CHICKEN
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: BONE
+      '3':
+        type: DIAMOND_SWORD
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 181
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: LOG
+        amount: 64
+      '8':
+        type: LOG
+        damage: 2
+        amount: 64
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '12':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '13':
+        type: ARROW
+      '14':
+        type: LOG
+        amount: 44
+      '15':
+        type: ROTTEN_FLESH
+        amount: 2
+      '16':
+        type: SAPLING
+      '17':
+        type: SEEDS
+        amount: 2
+      '18':
+        type: STRING
+        amount: 3
+      '19':
+        type: SPIDER_EYE
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+  '3':
+    Time: 1460146820699
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 95880
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3429.6580041139237
+      y: 70.0
+      z: -3564.4819874473924
+      pitch: -0.2264906
+      yaw: -110.00232
+    Items:
+      '0':
+        type: SAPLING
+        damage: 2
+      '1':
+        type: COOKED_CHICKEN
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: BONE
+      '3':
+        type: DIAMOND_SWORD
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 181
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: LOG
+        amount: 64
+      '8':
+        type: LOG
+        damage: 2
+        amount: 64
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '12':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '13':
+        type: ARROW
+      '14':
+        type: LOG
+        amount: 44
+      '15':
+        type: ROTTEN_FLESH
+        amount: 2
+      '16':
+        type: SAPLING
+      '17':
+        type: SEEDS
+        amount: 2
+      '18':
+        type: STRING
+        amount: 3
+      '19':
+        type: SPIDER_EYE
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+  '4':
+    Time: 1460883167382
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 95880
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3429.6580041139237
+      y: 70.0
+      z: -3564.4819874473924
+      pitch: -0.2264906
+      yaw: -110.00232
+    Items:
+      '0':
+        type: SAPLING
+        damage: 2
+      '1':
+        type: COOKED_CHICKEN
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: BONE
+      '3':
+        type: DIAMOND_SWORD
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 181
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: LOG
+        amount: 64
+      '8':
+        type: LOG
+        damage: 2
+        amount: 64
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '12':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '13':
+        type: ARROW
+      '14':
+        type: LOG
+        amount: 44
+      '15':
+        type: ROTTEN_FLESH
+        amount: 2
+      '16':
+        type: SAPLING
+      '17':
+        type: SEEDS
+        amount: 2
+      '18':
+        type: STRING
+        amount: 3
+      '19':
+        type: SPIDER_EYE
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+  '5':
+    Time: 1462120692071
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 95880
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3429.6580041139237
+      y: 70.0
+      z: -3564.4819874473924
+      pitch: -0.2264906
+      yaw: -110.00232
+    Items:
+      '0':
+        type: SAPLING
+        damage: 2
+      '1':
+        type: COOKED_CHICKEN
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: BONE
+      '3':
+        type: DIAMOND_SWORD
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 181
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: LOG
+        amount: 64
+      '8':
+        type: LOG
+        damage: 2
+        amount: 64
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '12':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '13':
+        type: ARROW
+      '14':
+        type: LOG
+        amount: 44
+      '15':
+        type: ROTTEN_FLESH
+        amount: 2
+      '16':
+        type: SAPLING
+      '17':
+        type: SEEDS
+        amount: 2
+      '18':
+        type: STRING
+        amount: 3
+      '19':
+        type: SPIDER_EYE
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+  '6':
+    Time: 1462483215279
+    Exp: 21
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 95880
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3429.6580041139237
+      y: 70.0
+      z: -3564.4819874473924
+      pitch: -0.2264906
+      yaw: -110.00232
+    Items:
+      '0':
+        type: SAPLING
+        damage: 2
+      '1':
+        type: COOKED_CHICKEN
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: BONE
+      '3':
+        type: DIAMOND_SWORD
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 181
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: LOG
+        amount: 64
+      '8':
+        type: LOG
+        damage: 2
+        amount: 64
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '12':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '13':
+        type: ARROW
+      '14':
+        type: LOG
+        amount: 44
+      '15':
+        type: ROTTEN_FLESH
+        amount: 2
+      '16':
+        type: SAPLING
+      '17':
+        type: SEEDS
+        amount: 2
+      '18':
+        type: STRING
+        amount: 3
+      '19':
+        type: SPIDER_EYE
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe

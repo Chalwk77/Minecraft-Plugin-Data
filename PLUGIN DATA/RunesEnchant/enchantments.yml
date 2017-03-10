@@ -1,0 +1,152 @@
+# In this file, you can change the color and enchantment name of a specfic enchant.
+# After editing, the enchantment with different properties than these will not work.
+
+# IMPORTANT: Do not have more than 1 space (' '). If you do that, plugin might break!
+
+lifesteal: '&7Lifesteal'
+
+block: '&7Block'
+
+assassin: '&7Assassin'
+
+kill_confirm: '&7Kill Confirm'
+
+hex: '&7Hex'
+
+jump: '&7Jump'
+
+speed: '&7Speed'
+
+zeus: '&7Zeus'
+
+enrage: '&7Enrage'
+
+batvision: '&7Batvision'
+
+demonic_aura: '&7Demonic Aura'
+
+dodge: '&7Dodge'
+
+blessed: '&7Blessed'
+
+arrow_rain: '&7Arrow Rain'
+
+snare: '&7Snare'
+
+curse: '&7Curse'
+
+crushing: '&7Crushing'
+
+execute: '&7Execute'
+
+stealth: '&7Stealth'
+
+aegis: '&7Aegis'
+
+platemail: '&7Platemail'
+
+purge: '&7Purge'
+
+divine: '&7Divine'
+
+entangle: '&7Entangle'
+
+pyromaniac: '&7Pyromaniac'
+
+flame_cloak: '&7Flame Cloak'
+
+battlecry: '&7Battlecry'
+
+corruption: '&7Corruption'
+
+turmoil: '&7Turmoil'
+
+holy_smite: '&7Holy Smite'
+
+riftslayer: '&7Riftslayer'
+
+petrify: '&7Petrify'
+
+eyepatch: '&7Eyepatch'
+
+plunder: '&7Plunder'
+
+mischief: '&7Mischief'
+
+shadowstep: '&7Shadowstep'
+
+demon_siphon: '&7Demon Siphon'
+
+animal_tamer: '&7Animal Tamer'
+
+wolves: '&7Wolves'
+
+disarm: '&7Disarm'
+
+superman_punch: '&7Superman Punch'
+
+spiked: '&7Spiked'
+
+medic: '&7Medic'
+
+swimmer: '&7Swimmer'
+
+thief: '&7Thief'
+
+health_boost: '&7Health Boost' 
+
+reborn: '&7Reborn'
+
+endless: '&7Endless'
+
+molten: '&7Molten'
+
+immolation: '&7Immolation'
+
+strength: '&7Strength'
+
+horse_rider: '&7Horse Rider'
+
+web_trap: '&7Web Trap'
+
+paralyze: '&7Paralyze'
+
+soft_touch: '&7Soft Touch'
+
+tnt_shooter: '&7Tnt Shooter'
+
+rekt: '&7Rekt'
+
+reversal: '&7Reversal'
+
+reinforced: '&7Reinforced'
+
+wild_mark: '&7Wild Mark'
+
+shearer: '&7Shearer'
+
+farmer: '&7Farmer'
+
+haste: '&7Haste'
+
+explosive: '&7Explosive'
+
+lumberjack: '&7Lumberjack'
+
+plow: '&7Plow'
+
+veinminer: '&7Veinminer'
+
+lucky_mining: '&7Lucky Mining'
+
+smelt: '&7Smelt'
+
+auto_block: '&7Auto Block'
+
+shooter: '&7Shooter'
+
+feather_fall: '&7Feather Fall'
+
+suicide: '&7Suicide'
+
+angry_birds: '&7Angry Birds'

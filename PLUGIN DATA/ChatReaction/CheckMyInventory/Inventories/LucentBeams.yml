@@ -1,0 +1,232 @@
+Inventories:
+  '1':
+    Time: 1460883169240
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3512.949999988079
+      y: 88.0
+      z: -3542.0420541749772
+      pitch: 11.250021
+      yaw: -48.75008
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '2':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '8':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '9':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '29':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+  '2':
+    Time: 1462120693748
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3512.949999988079
+      y: 88.0
+      z: -3542.0420541749772
+      pitch: 11.250021
+      yaw: -48.75008
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '2':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '8':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '9':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '29':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+  '3':
+    Time: 1462483217350
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3512.949999988079
+      y: 88.0
+      z: -3542.0420541749772
+      pitch: 11.250021
+      yaw: -48.75008
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '2':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '8':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '9':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '29':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple

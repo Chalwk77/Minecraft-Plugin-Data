@@ -1,0 +1,59 @@
+lastAccountName: WesleyW1998
+timestamps:
+  login: 1469176339684
+  lastteleport: 1469181348531
+  logout: 1469181960901
+  kits:
+    citizen: 1469176515925
+    color: 1469056960906
+    tools: 1469176520993
+    food: 1469176529418
+ipAddress: 107.214.13.109
+geolocation: Eureka, Kansas, United States
+lastlocation:
+  world: world
+  x: -2062.5
+  y: 80.07500000000746
+  z: 5168.5
+  yaw: 307.64508
+  pitch: 47.549953
+money: '2500'
+homes:
+  home:
+    world: world
+    x: -2110.5
+    y: 81.90199999809265
+    z: 5376.5
+    yaw: -0.9222412
+    pitch: 8.7957
+  home2:
+    world: world
+    x: -2064.8278545911653
+    y: 75.0
+    z: 5168.262715933831
+    yaw: 133.34518
+    pitch: 24.599953
+  home3:
+    world: world
+    x: -2031.5328656733361
+    y: 21.0
+    z: 5164.692889114091
+    yaw: -242.30203
+    pitch: 25.11362
+logoutlocation:
+  world: world
+  x: -2064.2052615677912
+  y: 79.0
+  z: 5168.659425867371
+  yaw: 112.19507
+  pitch: 40.34994
+afk: false
+mail:
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'

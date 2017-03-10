@@ -1,0 +1,721 @@
+Inventories:
+  '25':
+    Time: 1458455358408
+    Exp: 8
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8337.97130437478
+      y: 71.0
+      z: -7850.506474268885
+      pitch: 15.600091
+      yaw: 290.39758
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_CHICKEN
+        amount: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: DIAMOND_SWORD
+        damage: 92
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '4':
+        type: RAW_BEEF
+        amount: 7
+      '5':
+        type: YELLOW_FLOWER
+      '6':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: MELON
+        amount: 16
+  '26':
+    Time: 1459465463905
+    Exp: 8
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8337.97130437478
+      y: 71.0
+      z: -7850.506474268885
+      pitch: 15.600091
+      yaw: 290.39758
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_CHICKEN
+        amount: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: DIAMOND_SWORD
+        damage: 92
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '4':
+        type: RAW_BEEF
+        amount: 7
+      '5':
+        type: YELLOW_FLOWER
+      '6':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: MELON
+        amount: 16
+  '27':
+    Time: 1459469872449
+    Exp: 8
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8337.97130437478
+      y: 71.0
+      z: -7850.506474268885
+      pitch: 15.600091
+      yaw: 290.39758
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_CHICKEN
+        amount: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: DIAMOND_SWORD
+        damage: 92
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '4':
+        type: RAW_BEEF
+        amount: 7
+      '5':
+        type: YELLOW_FLOWER
+      '6':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: MELON
+        amount: 16
+  '28':
+    Time: 1459659262040
+    Exp: 8
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8337.97130437478
+      y: 71.0
+      z: -7850.506474268885
+      pitch: 15.600091
+      yaw: 290.39758
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_CHICKEN
+        amount: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: DIAMOND_SWORD
+        damage: 92
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '4':
+        type: RAW_BEEF
+        amount: 7
+      '5':
+        type: YELLOW_FLOWER
+      '6':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: MELON
+        amount: 16
+  '29':
+    Time: 1459766735921
+    Exp: 8
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8337.97130437478
+      y: 71.0
+      z: -7850.506474268885
+      pitch: 15.600091
+      yaw: 290.39758
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_CHICKEN
+        amount: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: DIAMOND_SWORD
+        damage: 92
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '4':
+        type: RAW_BEEF
+        amount: 7
+      '5':
+        type: YELLOW_FLOWER
+      '6':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: MELON
+        amount: 16
+  '30':
+    Time: 1459847486830
+    Exp: 8
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8337.97130437478
+      y: 71.0
+      z: -7850.506474268885
+      pitch: 15.600091
+      yaw: 290.39758
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_CHICKEN
+        amount: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: DIAMOND_SWORD
+        damage: 92
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '4':
+        type: RAW_BEEF
+        amount: 7
+      '5':
+        type: YELLOW_FLOWER
+      '6':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: MELON
+        amount: 16
+  '31':
+    Time: 1460146822692
+    Exp: 8
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8337.97130437478
+      y: 71.0
+      z: -7850.506474268885
+      pitch: 15.600091
+      yaw: 290.39758
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_CHICKEN
+        amount: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: DIAMOND_SWORD
+        damage: 92
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '4':
+        type: RAW_BEEF
+        amount: 7
+      '5':
+        type: YELLOW_FLOWER
+      '6':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: MELON
+        amount: 16
+  '32':
+    Time: 1460883169596
+    Exp: 8
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8337.97130437478
+      y: 71.0
+      z: -7850.506474268885
+      pitch: 15.600091
+      yaw: 290.39758
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_CHICKEN
+        amount: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: DIAMOND_SWORD
+        damage: 92
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '4':
+        type: RAW_BEEF
+        amount: 7
+      '5':
+        type: YELLOW_FLOWER
+      '6':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: MELON
+        amount: 16
+  '33':
+    Time: 1462120694186
+    Exp: 8
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8337.97130437478
+      y: 71.0
+      z: -7850.506474268885
+      pitch: 15.600091
+      yaw: 290.39758
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_CHICKEN
+        amount: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: DIAMOND_SWORD
+        damage: 92
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '4':
+        type: RAW_BEEF
+        amount: 7
+      '5':
+        type: YELLOW_FLOWER
+      '6':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: MELON
+        amount: 16
+  '34':
+    Time: 1462483217814
+    Exp: 8
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -8337.97130437478
+      y: 71.0
+      z: -7850.506474268885
+      pitch: 15.600091
+      yaw: 290.39758
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_CHICKEN
+        amount: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '2':
+        type: DIAMOND_SWORD
+        damage: 92
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '4':
+        type: RAW_BEEF
+        amount: 7
+      '5':
+        type: YELLOW_FLOWER
+      '6':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Tomato Plant
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: MELON
+        amount: 16

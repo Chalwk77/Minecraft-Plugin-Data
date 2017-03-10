@@ -1,0 +1,149 @@
+PlayerLastName: Jlble
+EnderChestSize: 18
+EnderChestInventory:
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: NAME_TAG
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    damage: 73
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: RABBIT_STEW
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_BEEF
+    amount: 17
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aSTEAK
+      enchants:
+        DAMAGE_UNDEAD: 65535
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: SEEDS
+    amount: 4
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_NUGGET
+    amount: 14
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eChunk of Luck§r
+      lore:
+      - §7§oCurrency§r
+      enchants:
+        DURABILITY: 1
+      repair-cost: 2147483647
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: SAPLING
+    damage: 3
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Pickaxe
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 21
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aEnchanted Golden Apple
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    amount: 20
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: QUARTZ
+    amount: 14
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: BAKED_POTATO
+    amount: 3
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 117
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Faithful Lion
+      lore:
+      - §9- Harm 6
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 7
+        DAMAGE_UNDEAD: 3
+        DAMAGE_ARTHROPODS: 3
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Axe
+      enchants:
+        DAMAGE_ALL: 10
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_CHESTPLATE
+    damage: 18
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eEnhanced Crime
+      lore:
+      - §b+ Unluck 8
+      - §9+ Luck 3
+      enchants:
+        ARROW_FIRE: 3
+        OXYGEN: 8
+        THORNS: 2
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §bSoul Jar §7(Squid)
+      lore:
+      - ''
+      - '§7Infused Souls: §e0'
+      internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJusuPHBsadYksRRFZbvwsFVjUIDTCU/URy7HHycyoACq8HZpByq/uWlZSKPBMC3i3rEwX9irXyoLoml4SQ7NLlGkktQgqkC3ylamCOk830fWVuC9A6cWjHzpxVwHgSYHXKJWDgF8xuiiJz6iIXZmP1Jw5PCDp0/pm0Us0Zg41aTv77Ye5G+1/rdGnJ0Ny4p6TSzBkbYR2ZC/Fdr/M2+MPb4MHn3LCcCS9kGM+BYTjtWR1o/PTEfM6x/5pf2ab48hrTpI6wP7n95KF3uRt1g3DbpNsAsLCdc1CaniYV2W8tAEUeGFpK2DhHJxrJ3ZVBvAHQcXUEyoBAAA=
+      skull-owner: CSCoreLib

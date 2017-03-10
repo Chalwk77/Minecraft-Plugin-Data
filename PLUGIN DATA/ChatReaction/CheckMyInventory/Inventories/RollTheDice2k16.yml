@@ -1,0 +1,1619 @@
+Inventories:
+  '13':
+    Time: 1459130992427
+    Exp: 126
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 841.1855382703066
+      y: 63.0
+      z: 396.7879845334917
+      pitch: 69.14982
+      yaw: -274.64594
+    Items:
+      '1':
+        type: ENDER_CHEST
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Backpack
+          lore:
+          - ''
+          - '§7Size: §e36'
+          - '§7ID: e0cebdae-70b6-491a-a58e-306e7f3a5c23#1'
+          - ''
+          - §7§eRight Click§7 to open
+  '14':
+    Time: 1459139989125
+    Exp: 1164
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 9
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9902889
+        Amplifier: 1
+    Location:
+      world: world
+      x: -703960.7637228959
+      y: 72.0
+      z: 446036.3438208861
+      pitch: 19.752985
+      yaw: -235.74707
+    Items:
+      '0':
+        type: ENDER_CHEST
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Backpack
+          lore:
+          - ''
+          - '§7Size: §e36'
+          - '§7ID: e0cebdae-70b6-491a-a58e-306e7f3a5c23#1'
+          - ''
+          - §7§eRight Click§7 to open
+      '1':
+        type: DIAMOND_SWORD
+        damage: 10
+      '2':
+        type: COOKED_BEEF
+        amount: 9
+      '3':
+        type: STRING
+        amount: 2
+      '4':
+        type: DIRT
+        amount: 21
+      '5':
+        type: HARD_CLAY
+        amount: 64
+      '6':
+        type: HARD_CLAY
+        amount: 64
+      '7':
+        type: DIAMOND_SWORD
+        damage: 13
+      '8':
+        type: DIAMOND_LEGGINGS
+        damage: 26
+      '9':
+        type: DIAMOND_HELMET
+        damage: 26
+      '10':
+        type: DIAMOND_BOOTS
+        damage: 26
+      '11':
+        type: DIAMOND_CHESTPLATE
+        damage: 26
+      '15':
+        type: WOOD
+        amount: 4
+  '15':
+    Time: 1459144030592
+    Exp: 52863
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 0
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9974526
+        Amplifier: 1
+    Location:
+      world: world
+      x: 999463.6999999881
+      y: 19.0
+      z: -289.13742063009937
+      pitch: 5.400023
+      yaw: -268.05225
+    Items:
+      '0':
+        type: ENDER_CHEST
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Backpack
+          lore:
+          - ''
+          - '§7Size: §e36'
+          - '§7ID: e0cebdae-70b6-491a-a58e-306e7f3a5c23#1'
+          - ''
+          - §7§eRight Click§7 to open
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '2':
+        type: COBBLESTONE
+        amount: 64
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        type: STONE
+        damage: 3
+        amount: 64
+      '6':
+        type: IRON_ORE
+        amount: 64
+      '7':
+        type: COAL
+        amount: 64
+      '8':
+        type: STONE
+        damage: 5
+        amount: 64
+      '9':
+        type: COBBLESTONE
+        amount: 64
+      '10':
+        type: IRON_ORE
+        amount: 40
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: COBBLESTONE
+        amount: 64
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 64
+      '18':
+        type: COBBLESTONE
+        amount: 64
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: COBBLESTONE
+        amount: 64
+      '21':
+        type: OBSIDIAN
+        amount: 3
+      '22':
+        type: DIRT
+        amount: 64
+      '23':
+        type: SEEDS
+      '24':
+        type: COBBLESTONE
+        amount: 64
+      '25':
+        type: COBBLESTONE
+        amount: 64
+      '26':
+        type: COBBLESTONE
+        amount: 64
+      '27':
+        type: COBBLESTONE
+        amount: 64
+      '28':
+        type: STONE
+        damage: 3
+        amount: 64
+      '29':
+        type: COBBLESTONE
+        amount: 64
+      '30':
+        type: INK_SACK
+        damage: 4
+        amount: 60
+      '31':
+        type: GOLD_ORE
+        amount: 13
+      '32':
+        type: STONE
+        damage: 5
+        amount: 64
+      '33':
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        type: STONE
+        damage: 1
+        amount: 64
+      '35':
+        type: COBBLESTONE
+        amount: 64
+  '16':
+    Time: 1459465459983
+    Exp: 56190
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 11.8
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9576743
+        Amplifier: 1
+    Location:
+      world: world
+      x: 739.1046659023569
+      y: 64.0
+      z: 414.92357767562135
+      pitch: 19.350037
+      yaw: -199.49611
+    Items:
+      '0':
+        type: ENDER_CHEST
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Backpack
+          lore:
+          - ''
+          - '§7Size: §e36'
+          - '§7ID: e0cebdae-70b6-491a-a58e-306e7f3a5c23#1'
+          - ''
+          - §7§eRight Click§7 to open
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §5Purplicious Cow Pet
+          lore:
+          - §9Special
+          - '§7Favourite Food: Golden Apples'
+          - ''
+          - '§rRight-Click: §7Gives you Health Regeneration'
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JODJSF100mugQB6pcZ3YODPEyowbBCk/VRyzL7r6Tcz4bwIa36NRq/V1fqoNWFjzTEt69sefiEpcORrhwXEk8Z+YS4uBKVpUk7odUlQ32cLqqujmo2wisRj2atlY3GwCeLHhNd7pV8Ks6H4l8j8rc10VHpwPHEdIhPV49ek47OadTaga/+pquu9m/ljS7jGg+8ffivGmlSdF6stVqtR0XJrkznDyEYZjhTc8WgebH1LCeY56lR54lWCzomC03SMT+KegLwmNtgiw14XKreSaGTXtuGAli9hNgYcLIn1U5+gSw4CXYGQWjeTS/1Gp9kAB/EAV4FyoBAAA=
+          skull-owner: CSCoreLib
+      '3':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 48
+      '5':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '6':
+        type: WORKBENCH
+      '7':
+        type: BOW
+        damage: 144
+      '9':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 12
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 13
+      '11':
+        type: WOOD
+        amount: 16
+      '12':
+        type: ARROW
+        amount: 4
+      '13':
+        type: COAL
+        amount: 64
+      '15':
+        type: SULPHUR
+        amount: 15
+      '16':
+        type: SPIDER_EYE
+        amount: 5
+      '17':
+        type: ROTTEN_FLESH
+        amount: 7
+      '18':
+        type: WATER_LILY
+      '19':
+        type: STICK
+      '20':
+        type: PORK
+        amount: 64
+      '21':
+        type: DIAMOND_AXE
+        damage: 318
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '23':
+        type: COBBLESTONE
+        amount: 15
+      '24':
+        type: HARD_CLAY
+        amount: 64
+      '27':
+        type: PUMPKIN_SEEDS
+      '28':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '29':
+        type: REDSTONE
+        amount: 50
+      '30':
+        type: INK_SACK
+        damage: 4
+        amount: 57
+      '31':
+        type: DIAMOND_HOE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '32':
+        type: STAINED_CLAY
+        damage: 12
+        amount: 2
+      '33':
+        type: HARD_CLAY
+        amount: 29
+      '34':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Blaze Pet
+          lore:
+          - §cMob (Hostile)
+          - '§7Favourite Food: Nether Quartz'
+          - ''
+          - §rImmune to Fire
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJID/14KGh/iyRtYCysrcFlsp2Vw1CFZ+rD1iPPU5mRgfQ4SX97qX8bI91I7kGj6iC18p7s3nJuGH5BTMcy2HGhI0Lg1VeUTG/tku/1EG/Tyfedg0/j0Dr+LXrW37WAeBBg+eMyZ7DLx9Ck+72ZrULZTkg786b1JRrJE4+OmRDESAPqbtfvnurYfKvdTtGXJmPwz09xH2hMnM1TiRfJlaptj+5KB1K8oFuEkFFKPDHfB+p+IoXoaKLrZvbc0XF7BKJmUtF1kQkVJigGyYzc02yBm/mAovYxrcvJ1K4wSS/oIM1qePpFECDJ8wUh1GQBseWr5oC4A+LkyGZLgEAAA==
+          skull-owner: CSCoreLib
+      '38':
+        type: DIAMOND_CHESTPLATE
+        amount: 0
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 255
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '17':
+    Time: 1459469869201
+    Exp: 56190
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 11.8
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9576743
+        Amplifier: 1
+    Location:
+      world: world
+      x: 739.1046659023569
+      y: 64.0
+      z: 414.92357767562135
+      pitch: 19.350037
+      yaw: -199.49611
+    Items:
+      '0':
+        type: ENDER_CHEST
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Backpack
+          lore:
+          - ''
+          - '§7Size: §e36'
+          - '§7ID: e0cebdae-70b6-491a-a58e-306e7f3a5c23#1'
+          - ''
+          - §7§eRight Click§7 to open
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §5Purplicious Cow Pet
+          lore:
+          - §9Special
+          - '§7Favourite Food: Golden Apples'
+          - ''
+          - '§rRight-Click: §7Gives you Health Regeneration'
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JODJSF100mugQB6pcZ3YODPEyowbBCk/VRyzL7r6Tcz4bwIa36NRq/V1fqoNWFjzTEt69sefiEpcORrhwXEk8Z+YS4uBKVpUk7odUlQ32cLqqujmo2wisRj2atlY3GwCeLHhNd7pV8Ks6H4l8j8rc10VHpwPHEdIhPV49ek47OadTaga/+pquu9m/ljS7jGg+8ffivGmlSdF6stVqtR0XJrkznDyEYZjhTc8WgebH1LCeY56lR54lWCzomC03SMT+KegLwmNtgiw14XKreSaGTXtuGAli9hNgYcLIn1U5+gSw4CXYGQWjeTS/1Gp9kAB/EAV4FyoBAAA=
+          skull-owner: CSCoreLib
+      '3':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 48
+      '5':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '6':
+        type: WORKBENCH
+      '7':
+        type: BOW
+        damage: 144
+      '9':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 12
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 13
+      '11':
+        type: WOOD
+        amount: 16
+      '12':
+        type: ARROW
+        amount: 4
+      '13':
+        type: COAL
+        amount: 64
+      '15':
+        type: SULPHUR
+        amount: 15
+      '16':
+        type: SPIDER_EYE
+        amount: 5
+      '17':
+        type: ROTTEN_FLESH
+        amount: 7
+      '18':
+        type: WATER_LILY
+      '19':
+        type: STICK
+      '20':
+        type: PORK
+        amount: 64
+      '21':
+        type: DIAMOND_AXE
+        damage: 318
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '23':
+        type: COBBLESTONE
+        amount: 15
+      '24':
+        type: HARD_CLAY
+        amount: 64
+      '27':
+        type: PUMPKIN_SEEDS
+      '28':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '29':
+        type: REDSTONE
+        amount: 50
+      '30':
+        type: INK_SACK
+        damage: 4
+        amount: 57
+      '31':
+        type: DIAMOND_HOE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '32':
+        type: STAINED_CLAY
+        damage: 12
+        amount: 2
+      '33':
+        type: HARD_CLAY
+        amount: 29
+      '34':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Blaze Pet
+          lore:
+          - §cMob (Hostile)
+          - '§7Favourite Food: Nether Quartz'
+          - ''
+          - §rImmune to Fire
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJID/14KGh/iyRtYCysrcFlsp2Vw1CFZ+rD1iPPU5mRgfQ4SX97qX8bI91I7kGj6iC18p7s3nJuGH5BTMcy2HGhI0Lg1VeUTG/tku/1EG/Tyfedg0/j0Dr+LXrW37WAeBBg+eMyZ7DLx9Ck+72ZrULZTkg786b1JRrJE4+OmRDESAPqbtfvnurYfKvdTtGXJmPwz09xH2hMnM1TiRfJlaptj+5KB1K8oFuEkFFKPDHfB+p+IoXoaKLrZvbc0XF7BKJmUtF1kQkVJigGyYzc02yBm/mAovYxrcvJ1K4wSS/oIM1qePpFECDJ8wUh1GQBseWr5oC4A+LkyGZLgEAAA==
+          skull-owner: CSCoreLib
+      '38':
+        type: DIAMOND_CHESTPLATE
+        amount: 0
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 255
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '18':
+    Time: 1459659258097
+    Exp: 56190
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 11.8
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9576743
+        Amplifier: 1
+    Location:
+      world: world
+      x: 739.1046659023569
+      y: 64.0
+      z: 414.92357767562135
+      pitch: 19.350037
+      yaw: -199.49611
+    Items:
+      '0':
+        type: ENDER_CHEST
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Backpack
+          lore:
+          - ''
+          - '§7Size: §e36'
+          - '§7ID: e0cebdae-70b6-491a-a58e-306e7f3a5c23#1'
+          - ''
+          - §7§eRight Click§7 to open
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §5Purplicious Cow Pet
+          lore:
+          - §9Special
+          - '§7Favourite Food: Golden Apples'
+          - ''
+          - '§rRight-Click: §7Gives you Health Regeneration'
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JODJSF100mugQB6pcZ3YODPEyowbBCk/VRyzL7r6Tcz4bwIa36NRq/V1fqoNWFjzTEt69sefiEpcORrhwXEk8Z+YS4uBKVpUk7odUlQ32cLqqujmo2wisRj2atlY3GwCeLHhNd7pV8Ks6H4l8j8rc10VHpwPHEdIhPV49ek47OadTaga/+pquu9m/ljS7jGg+8ffivGmlSdF6stVqtR0XJrkznDyEYZjhTc8WgebH1LCeY56lR54lWCzomC03SMT+KegLwmNtgiw14XKreSaGTXtuGAli9hNgYcLIn1U5+gSw4CXYGQWjeTS/1Gp9kAB/EAV4FyoBAAA=
+          skull-owner: CSCoreLib
+      '3':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 48
+      '5':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '6':
+        type: WORKBENCH
+      '7':
+        type: BOW
+        damage: 144
+      '9':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 12
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 13
+      '11':
+        type: WOOD
+        amount: 16
+      '12':
+        type: ARROW
+        amount: 4
+      '13':
+        type: COAL
+        amount: 64
+      '15':
+        type: SULPHUR
+        amount: 15
+      '16':
+        type: SPIDER_EYE
+        amount: 5
+      '17':
+        type: ROTTEN_FLESH
+        amount: 7
+      '18':
+        type: WATER_LILY
+      '19':
+        type: STICK
+      '20':
+        type: PORK
+        amount: 64
+      '21':
+        type: DIAMOND_AXE
+        damage: 318
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '23':
+        type: COBBLESTONE
+        amount: 15
+      '24':
+        type: HARD_CLAY
+        amount: 64
+      '27':
+        type: PUMPKIN_SEEDS
+      '28':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '29':
+        type: REDSTONE
+        amount: 50
+      '30':
+        type: INK_SACK
+        damage: 4
+        amount: 57
+      '31':
+        type: DIAMOND_HOE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '32':
+        type: STAINED_CLAY
+        damage: 12
+        amount: 2
+      '33':
+        type: HARD_CLAY
+        amount: 29
+      '34':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Blaze Pet
+          lore:
+          - §cMob (Hostile)
+          - '§7Favourite Food: Nether Quartz'
+          - ''
+          - §rImmune to Fire
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJID/14KGh/iyRtYCysrcFlsp2Vw1CFZ+rD1iPPU5mRgfQ4SX97qX8bI91I7kGj6iC18p7s3nJuGH5BTMcy2HGhI0Lg1VeUTG/tku/1EG/Tyfedg0/j0Dr+LXrW37WAeBBg+eMyZ7DLx9Ck+72ZrULZTkg786b1JRrJE4+OmRDESAPqbtfvnurYfKvdTtGXJmPwz09xH2hMnM1TiRfJlaptj+5KB1K8oFuEkFFKPDHfB+p+IoXoaKLrZvbc0XF7BKJmUtF1kQkVJigGyYzc02yBm/mAovYxrcvJ1K4wSS/oIM1qePpFECDJ8wUh1GQBseWr5oC4A+LkyGZLgEAAA==
+          skull-owner: CSCoreLib
+      '38':
+        type: DIAMOND_CHESTPLATE
+        amount: 0
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 255
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '19':
+    Time: 1459766731115
+    Exp: 56190
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 9.8
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9551556
+        Amplifier: 1
+    Location:
+      world: world
+      x: 758.2704919102407
+      y: 65.5
+      z: 438.13138715122545
+      pitch: 19.65008
+      yaw: -195.44537
+    Items:
+      '0':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §5Purplicious Cow Pet
+          lore:
+          - §9Special
+          - '§7Favourite Food: Golden Apples'
+          - ''
+          - '§rRight-Click: §7Gives you Health Regeneration'
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JODJSF100mugQB6pcZ3YODPEyowbBCk/VRyzL7r6Tcz4bwIa36NRq/V1fqoNWFjzTEt69sefiEpcORrhwXEk8Z+YS4uBKVpUk7odUlQ32cLqqujmo2wisRj2atlY3GwCeLHhNd7pV8Ks6H4l8j8rc10VHpwPHEdIhPV49ek47OadTaga/+pquu9m/ljS7jGg+8ffivGmlSdF6stVqtR0XJrkznDyEYZjhTc8WgebH1LCeY56lR54lWCzomC03SMT+KegLwmNtgiw14XKreSaGTXtuGAli9hNgYcLIn1U5+gSw4CXYGQWjeTS/1Gp9kAB/EAV4FyoBAAA=
+          skull-owner: CSCoreLib
+      '2':
+        type: OBSIDIAN
+        amount: 8
+      '4':
+        type: GOLDEN_APPLE
+        amount: 48
+      '5':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '6':
+        type: WORKBENCH
+      '7':
+        type: BOW
+        damage: 144
+      '9':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 12
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 13
+      '11':
+        type: WOOD
+        amount: 16
+      '12':
+        type: ARROW
+        amount: 4
+      '13':
+        type: COAL
+        amount: 64
+      '15':
+        type: SULPHUR
+        amount: 15
+      '16':
+        type: SPIDER_EYE
+        amount: 5
+      '17':
+        type: ROTTEN_FLESH
+        amount: 7
+      '18':
+        type: WATER_LILY
+      '19':
+        type: STICK
+      '20':
+        type: PORK
+        amount: 64
+      '21':
+        type: DIAMOND_AXE
+        damage: 318
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '23':
+        type: COBBLESTONE
+        amount: 15
+      '24':
+        type: HARD_CLAY
+        amount: 64
+      '27':
+        type: PUMPKIN_SEEDS
+      '28':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '29':
+        type: REDSTONE
+        amount: 50
+      '30':
+        type: INK_SACK
+        damage: 4
+        amount: 57
+      '31':
+        type: DIAMOND_HOE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '32':
+        type: STAINED_CLAY
+        damage: 12
+        amount: 2
+      '33':
+        type: HARD_CLAY
+        amount: 29
+      '34':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Blaze Pet
+          lore:
+          - §cMob (Hostile)
+          - '§7Favourite Food: Nether Quartz'
+          - ''
+          - §rImmune to Fire
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJID/14KGh/iyRtYCysrcFlsp2Vw1CFZ+rD1iPPU5mRgfQ4SX97qX8bI91I7kGj6iC18p7s3nJuGH5BTMcy2HGhI0Lg1VeUTG/tku/1EG/Tyfedg0/j0Dr+LXrW37WAeBBg+eMyZ7DLx9Ck+72ZrULZTkg786b1JRrJE4+OmRDESAPqbtfvnurYfKvdTtGXJmPwz09xH2hMnM1TiRfJlaptj+5KB1K8oFuEkFFKPDHfB+p+IoXoaKLrZvbc0XF7BKJmUtF1kQkVJigGyYzc02yBm/mAovYxrcvJ1K4wSS/oIM1qePpFECDJ8wUh1GQBseWr5oC4A+LkyGZLgEAAA==
+          skull-owner: CSCoreLib
+      '38':
+        type: DIAMOND_CHESTPLATE
+        amount: 0
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 255
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '40':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+  '20':
+    Time: 1459847482703
+    Exp: 56190
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 9.8
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9551556
+        Amplifier: 1
+    Location:
+      world: world
+      x: 758.2704919102407
+      y: 65.5
+      z: 438.13138715122545
+      pitch: 19.65008
+      yaw: -195.44537
+    Items:
+      '0':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §5Purplicious Cow Pet
+          lore:
+          - §9Special
+          - '§7Favourite Food: Golden Apples'
+          - ''
+          - '§rRight-Click: §7Gives you Health Regeneration'
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JODJSF100mugQB6pcZ3YODPEyowbBCk/VRyzL7r6Tcz4bwIa36NRq/V1fqoNWFjzTEt69sefiEpcORrhwXEk8Z+YS4uBKVpUk7odUlQ32cLqqujmo2wisRj2atlY3GwCeLHhNd7pV8Ks6H4l8j8rc10VHpwPHEdIhPV49ek47OadTaga/+pquu9m/ljS7jGg+8ffivGmlSdF6stVqtR0XJrkznDyEYZjhTc8WgebH1LCeY56lR54lWCzomC03SMT+KegLwmNtgiw14XKreSaGTXtuGAli9hNgYcLIn1U5+gSw4CXYGQWjeTS/1Gp9kAB/EAV4FyoBAAA=
+          skull-owner: CSCoreLib
+      '2':
+        type: OBSIDIAN
+        amount: 8
+      '4':
+        type: GOLDEN_APPLE
+        amount: 48
+      '5':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '6':
+        type: WORKBENCH
+      '7':
+        type: BOW
+        damage: 144
+      '9':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 12
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 13
+      '11':
+        type: WOOD
+        amount: 16
+      '12':
+        type: ARROW
+        amount: 4
+      '13':
+        type: COAL
+        amount: 64
+      '15':
+        type: SULPHUR
+        amount: 15
+      '16':
+        type: SPIDER_EYE
+        amount: 5
+      '17':
+        type: ROTTEN_FLESH
+        amount: 7
+      '18':
+        type: WATER_LILY
+      '19':
+        type: STICK
+      '20':
+        type: PORK
+        amount: 64
+      '21':
+        type: DIAMOND_AXE
+        damage: 318
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '23':
+        type: COBBLESTONE
+        amount: 15
+      '24':
+        type: HARD_CLAY
+        amount: 64
+      '27':
+        type: PUMPKIN_SEEDS
+      '28':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '29':
+        type: REDSTONE
+        amount: 50
+      '30':
+        type: INK_SACK
+        damage: 4
+        amount: 57
+      '31':
+        type: DIAMOND_HOE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '32':
+        type: STAINED_CLAY
+        damage: 12
+        amount: 2
+      '33':
+        type: HARD_CLAY
+        amount: 29
+      '34':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Blaze Pet
+          lore:
+          - §cMob (Hostile)
+          - '§7Favourite Food: Nether Quartz'
+          - ''
+          - §rImmune to Fire
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJID/14KGh/iyRtYCysrcFlsp2Vw1CFZ+rD1iPPU5mRgfQ4SX97qX8bI91I7kGj6iC18p7s3nJuGH5BTMcy2HGhI0Lg1VeUTG/tku/1EG/Tyfedg0/j0Dr+LXrW37WAeBBg+eMyZ7DLx9Ck+72ZrULZTkg786b1JRrJE4+OmRDESAPqbtfvnurYfKvdTtGXJmPwz09xH2hMnM1TiRfJlaptj+5KB1K8oFuEkFFKPDHfB+p+IoXoaKLrZvbc0XF7BKJmUtF1kQkVJigGyYzc02yBm/mAovYxrcvJ1K4wSS/oIM1qePpFECDJ8wUh1GQBseWr5oC4A+LkyGZLgEAAA==
+          skull-owner: CSCoreLib
+      '38':
+        type: DIAMOND_CHESTPLATE
+        amount: 0
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 255
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '40':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+  '21':
+    Time: 1460146819370
+    Exp: 56190
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 4.8
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9546672
+        Amplifier: 1
+    Location:
+      world: world
+      x: 753.8413649206097
+      y: 65.5
+      z: 402.51632340579556
+      pitch: 36.150078
+      yaw: -82.194824
+    Items:
+      '0':
+        type: OBSIDIAN
+        amount: 8
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §5Purplicious Cow Pet
+          lore:
+          - §9Special
+          - '§7Favourite Food: Golden Apples'
+          - ''
+          - '§rRight-Click: §7Gives you Health Regeneration'
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JODJSF100mugQB6pcZ3YODPEyowbBCk/VRyzL7r6Tcz4bwIa36NRq/V1fqoNWFjzTEt69sefiEpcORrhwXEk8Z+YS4uBKVpUk7odUlQ32cLqqujmo2wisRj2atlY3GwCeLHhNd7pV8Ks6H4l8j8rc10VHpwPHEdIhPV49ek47OadTaga/+pquu9m/ljS7jGg+8ffivGmlSdF6stVqtR0XJrkznDyEYZjhTc8WgebH1LCeY56lR54lWCzomC03SMT+KegLwmNtgiw14XKreSaGTXtuGAli9hNgYcLIn1U5+gSw4CXYGQWjeTS/1Gp9kAB/EAV4FyoBAAA=
+          skull-owner: CSCoreLib
+      '2':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 48
+      '5':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '6':
+        type: WORKBENCH
+      '7':
+        type: BOW
+        damage: 144
+      '9':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 12
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 13
+      '11':
+        type: WOOD
+        amount: 16
+      '12':
+        type: ARROW
+        amount: 4
+      '13':
+        type: COAL
+        amount: 64
+      '15':
+        type: SULPHUR
+        amount: 15
+      '16':
+        type: SPIDER_EYE
+        amount: 5
+      '17':
+        type: ROTTEN_FLESH
+        amount: 7
+      '18':
+        type: WATER_LILY
+      '19':
+        type: STICK
+      '20':
+        type: PORK
+        amount: 64
+      '21':
+        type: DIAMOND_AXE
+        damage: 318
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '23':
+        type: COBBLESTONE
+        amount: 15
+      '24':
+        type: HARD_CLAY
+        amount: 64
+      '27':
+        type: PUMPKIN_SEEDS
+      '28':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '29':
+        type: REDSTONE
+        amount: 50
+      '30':
+        type: INK_SACK
+        damage: 4
+        amount: 57
+      '31':
+        type: DIAMOND_HOE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '32':
+        type: STAINED_CLAY
+        damage: 12
+        amount: 2
+      '33':
+        type: HARD_CLAY
+        amount: 29
+      '34':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Blaze Pet
+          lore:
+          - §cMob (Hostile)
+          - '§7Favourite Food: Nether Quartz'
+          - ''
+          - §rImmune to Fire
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJID/14KGh/iyRtYCysrcFlsp2Vw1CFZ+rD1iPPU5mRgfQ4SX97qX8bI91I7kGj6iC18p7s3nJuGH5BTMcy2HGhI0Lg1VeUTG/tku/1EG/Tyfedg0/j0Dr+LXrW37WAeBBg+eMyZ7DLx9Ck+72ZrULZTkg786b1JRrJE4+OmRDESAPqbtfvnurYfKvdTtGXJmPwz09xH2hMnM1TiRfJlaptj+5KB1K8oFuEkFFKPDHfB+p+IoXoaKLrZvbc0XF7BKJmUtF1kQkVJigGyYzc02yBm/mAovYxrcvJ1K4wSS/oIM1qePpFECDJ8wUh1GQBseWr5oC4A+LkyGZLgEAAA==
+          skull-owner: CSCoreLib
+      '38':
+        type: DIAMOND_CHESTPLATE
+        amount: 0
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 255
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '40':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+  '22':
+    Time: 1460883165794
+    Exp: 56190
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 4.8
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9546672
+        Amplifier: 1
+    Location:
+      world: world
+      x: 753.8413649206097
+      y: 65.5
+      z: 402.51632340579556
+      pitch: 36.150078
+      yaw: -82.194824
+    Items:
+      '0':
+        type: OBSIDIAN
+        amount: 8
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §5Purplicious Cow Pet
+          lore:
+          - §9Special
+          - '§7Favourite Food: Golden Apples'
+          - ''
+          - '§rRight-Click: §7Gives you Health Regeneration'
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JODJSF100mugQB6pcZ3YODPEyowbBCk/VRyzL7r6Tcz4bwIa36NRq/V1fqoNWFjzTEt69sefiEpcORrhwXEk8Z+YS4uBKVpUk7odUlQ32cLqqujmo2wisRj2atlY3GwCeLHhNd7pV8Ks6H4l8j8rc10VHpwPHEdIhPV49ek47OadTaga/+pquu9m/ljS7jGg+8ffivGmlSdF6stVqtR0XJrkznDyEYZjhTc8WgebH1LCeY56lR54lWCzomC03SMT+KegLwmNtgiw14XKreSaGTXtuGAli9hNgYcLIn1U5+gSw4CXYGQWjeTS/1Gp9kAB/EAV4FyoBAAA=
+          skull-owner: CSCoreLib
+      '2':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 48
+      '5':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '6':
+        type: WORKBENCH
+      '7':
+        type: BOW
+        damage: 144
+      '9':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 12
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 13
+      '11':
+        type: WOOD
+        amount: 16
+      '12':
+        type: ARROW
+        amount: 4
+      '13':
+        type: COAL
+        amount: 64
+      '15':
+        type: SULPHUR
+        amount: 15
+      '16':
+        type: SPIDER_EYE
+        amount: 5
+      '17':
+        type: ROTTEN_FLESH
+        amount: 7
+      '18':
+        type: WATER_LILY
+      '19':
+        type: STICK
+      '20':
+        type: PORK
+        amount: 64
+      '21':
+        type: DIAMOND_AXE
+        damage: 318
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '23':
+        type: COBBLESTONE
+        amount: 15
+      '24':
+        type: HARD_CLAY
+        amount: 64
+      '27':
+        type: PUMPKIN_SEEDS
+      '28':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '29':
+        type: REDSTONE
+        amount: 50
+      '30':
+        type: INK_SACK
+        damage: 4
+        amount: 57
+      '31':
+        type: DIAMOND_HOE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '32':
+        type: STAINED_CLAY
+        damage: 12
+        amount: 2
+      '33':
+        type: HARD_CLAY
+        amount: 29
+      '34':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Blaze Pet
+          lore:
+          - §cMob (Hostile)
+          - '§7Favourite Food: Nether Quartz'
+          - ''
+          - §rImmune to Fire
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJID/14KGh/iyRtYCysrcFlsp2Vw1CFZ+rD1iPPU5mRgfQ4SX97qX8bI91I7kGj6iC18p7s3nJuGH5BTMcy2HGhI0Lg1VeUTG/tku/1EG/Tyfedg0/j0Dr+LXrW37WAeBBg+eMyZ7DLx9Ck+72ZrULZTkg786b1JRrJE4+OmRDESAPqbtfvnurYfKvdTtGXJmPwz09xH2hMnM1TiRfJlaptj+5KB1K8oFuEkFFKPDHfB+p+IoXoaKLrZvbc0XF7BKJmUtF1kQkVJigGyYzc02yBm/mAovYxrcvJ1K4wSS/oIM1qePpFECDJ8wUh1GQBseWr5oC4A+LkyGZLgEAAA==
+          skull-owner: CSCoreLib
+      '38':
+        type: DIAMOND_CHESTPLATE
+        amount: 0
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 255
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '40':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1

@@ -1,0 +1,101 @@
+geolocation: Australia
+lastlocation:
+  world: world
+  x: -11677.595312107964
+  y: 64.0
+  z: -9342.90741791556
+  yaw: 252.01918
+  pitch: 4.45928
+lastAccountName: BilboSwagginzz_
+timestamps:
+  login: 1482401959602
+  lastteleport: 1482401950408
+  logout: 1482402534551
+  kits:
+    firework: 1480165108627
+    donor: 1480153840251
+    color: 1479846116882
+    dtools: 1480237240948
+    ultra: 1481987004011
+ipAddress: 110.21.188.211
+money: '2016.7176666666682470'
+logoutlocation:
+  world: world
+  x: 488.9327440296805
+  y: 97.24495355447972
+  z: -202.45379399051436
+  yaw: 330.84998
+  pitch: 35.099976
+homes:
+  igspawner:
+    world: world
+    x: 14918.805903569571
+    y: 77.0
+    z: -8727.379973503806
+    yaw: 89.3356
+    pitch: 3.3639908
+  home:
+    world: world
+    x: -11677.08266308969
+    y: 64.0
+    z: -9342.766424394798
+    yaw: 296.11923
+    pitch: 10.009279
+  zombies:
+    world: world
+    x: -27475.879191375094
+    y: 65.0
+    z: -27018.501221332437
+    yaw: 90.208595
+    pitch: -4.028614
+  eman:
+    world: world
+    x: 25839.75231422045
+    y: 82.0
+    z: 775.4791553403919
+    yaw: -50.605743
+    pitch: -0.5603475
+  giantspawner:
+    world: world
+    x: -2935.9646097789055
+    y: 147.0
+    z: 11315.240262425681
+    yaw: 359.70392
+    pitch: 5.8983164
+  home2:
+    world: world
+    x: -27150.163788513048
+    y: 48.0
+    z: -26784.475655576272
+    yaw: 235.3847
+    pitch: 13.352481
+  ruin:
+    world: world
+    x: -1736.2596149411984
+    y: 86.0
+    z: -1136.3745134183152
+    yaw: -173.49757
+    pitch: 33.11574
+  build:
+    world: world
+    x: -1634.1582602507006
+    y: 97.48561763250488
+    z: 11003.208992160591
+    yaw: -40.845642
+    pitch: -2.1387634
+  marker1:
+    world: world
+    x: -1703.0820976890566
+    y: 78.0
+    z: 10909.86587473759
+    yaw: 149.0538
+    pitch: 15.595345
+  marker2:
+    world: world
+    x: -1465.5512461422195
+    y: 75.0
+    z: 11164.933818471336
+    yaw: 179.14357
+    pitch: 57.293495
+afk: false
+godmode: true

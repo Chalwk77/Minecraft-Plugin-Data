@@ -1,0 +1,25 @@
+# How long time after the plugin has been enabled (during startup) should it start
+# refreshing scoreboards?
+boards:
+  jobsbrowse:
+    command: jobs browse
+    interval: 5m
+    sender: console
+    filter: []
+    delay: 5s
+    location:
+      world: world
+      x: 505.5123936563198
+      y: 95.14883068215039
+      z: -194.85472231262057
+  mctop:
+    command: mctop
+    interval: 5m
+    sender: console
+    filter: []
+    delay: 5s
+    location:
+      world: world
+      x: 505.48151721689436
+      y: 91.62
+      z: -180.2961046980923

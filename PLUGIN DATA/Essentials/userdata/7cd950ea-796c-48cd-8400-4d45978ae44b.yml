@@ -1,0 +1,31 @@
+lastlocation:
+  world: world
+  x: 762.9407850735491
+  y: 64.0
+  z: -111.17638320106265
+  yaw: 88.18882
+  pitch: -3.657408
+lastAccountName: SuprItaliano
+timestamps:
+  login: 1469955478640
+  logout: 1469955510859
+  lastteleport: 1469869925692
+ipAddress: 121.217.63.70
+geolocation: Sydney, New South Wales, Australia
+logoutlocation:
+  world: world
+  x: 480.930232002819
+  y: 89.0
+  z: -185.26166823393598
+  yaw: 4.3136597
+  pitch: -3.825914
+money: '2500'
+homes:
+  home:
+    world: world
+    x: -6203.858967520594
+    y: 66.0
+    z: 27331.129414656913
+    yaw: -7.511369
+    pitch: 34.195625
+afk: false

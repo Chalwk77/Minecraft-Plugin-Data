@@ -1,0 +1,847 @@
+Inventories:
+  '57':
+    Time: 1460865598450
+    Exp: 68708
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 15.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 65890
+        Amplifier: 1
+    Location:
+      world: world
+      x: -3151.6349971026516
+      y: 63.0
+      z: -2381.55897304851
+      pitch: 58.051197
+      yaw: 222.11526
+  '58':
+    Time: 1460880519620
+    Exp: 85923
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 7.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14686.5
+      y: 68.0
+      z: 9262.5
+      pitch: 46.814396
+      yaw: -282.16742
+    Items:
+      '9':
+        type: ITEM_FRAME
+      '10':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '11':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '12':
+        type: EXPLOSIVE_MINECART
+      '13':
+        type: POWERED_MINECART
+      '14':
+        type: BOAT
+      '15':
+        type: RAILS
+        amount: 16
+      '16':
+        type: DETECTOR_RAIL
+        amount: 16
+      '17':
+        type: POWERED_RAIL
+        amount: 16
+      '18':
+        type: ACTIVATOR_RAIL
+        amount: 16
+      '19':
+        type: MINECART
+      '38':
+        type: ELYTRA
+        damage: 59
+  '59':
+    Time: 1460883165151
+    Exp: 85926
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -3066.3709062899443
+      y: 54.0
+      z: -3318.546821552445
+      pitch: 5.212803
+      yaw: 17.734694
+    Items:
+      '0':
+        type: TNT
+        amount: 63
+      '3':
+        type: IRON_INGOT
+        amount: 5
+      '4':
+        type: ACTIVATOR_RAIL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bBasic Circuit Board
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §8§oHat
+          internal: H4sIAAAAAAAAAE2Oy06DQBhGf01MkPgYbkmGmXJbuCDFWEiZWsp9N4WhhQ61acEwfSofUdy5PPnOlxwVQIWX3WkU4vP61bSCK/Do1/BaYd1GVm1rTcNsbcFrR2MIY81EtsUcUrEaExXU+XTh16Hlt2dQBj4N45XfVAB4UOApZWLk8MNlgMr8iOo8EJX0zZnjHRIbv7tY/jmV+6Vv+v28r1xzLZ1/rjGwzBAFCY7leTvu+xStSST4KtKrPvkOs2IqugOhWSSoJzoaH0gZ05Z6rgwxFWEXnahXybIvJL0nixC/T2Xn6vSjuFOckD8O4wQVXdrSeGtsloHT5OhtrodfG4UBcRgBAAA=
+  '60':
+    Time: 1460885713676
+    Exp: 85939
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 94225
+        Amplifier: 1
+    Location:
+      world: world
+      x: -703998.1662750868
+      y: 72.0
+      z: 446020.96886898065
+      pitch: 9.875795
+      yaw: -142.02701
+    Items:
+      '0':
+        type: TNT
+        amount: 61
+      '1':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Sword of Infinity
+          lore:
+          - §5Grants the user unwavering power!
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '9':
+        type: ACTIVATOR_RAIL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bBasic Circuit Board
+      '10':
+        type: IRON_INGOT
+        amount: 5
+      '11':
+        type: STRING
+      '12':
+        type: TORCH
+      '13':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '14':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '15':
+        type: GOLDEN_APPLE
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Magical Apple
+      '16':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '17':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Sword of Infinity
+          lore:
+          - §5Grants the user unwavering power!
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '18':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Sword of Infinity
+          lore:
+          - §5Grants the user unwavering power!
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '21':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '28':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '29':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '30':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '31':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '32':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '33':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '34':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '61':
+    Time: 1460933233126
+    Exp: 86099
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 89018
+        Amplifier: 1
+      '2':
+        Name: SLOW_DIGGING
+        Duration: 686
+        Amplifier: 2
+    Location:
+      world: world
+      x: -46.53586353898073
+      y: 64.0
+      z: -3629.6219069334848
+      pitch: 23.644766
+      yaw: -24.806
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: DIAMOND_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '2':
+        type: DIAMOND_SWORD
+        damage: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: EMERALD
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '4':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '5':
+        type: SPONGE
+      '6':
+        type: GOLD_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '7':
+        type: IRON_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '8':
+        type: WATER_BUCKET
+      '9':
+        type: ITEM_FRAME
+      '10':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '11':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '12':
+        type: EXPLOSIVE_MINECART
+      '13':
+        type: MINECART
+      '14':
+        type: ACTIVATOR_RAIL
+        amount: 16
+      '15':
+        type: PRISMARINE_CRYSTALS
+        amount: 9
+      '16':
+        type: POWERED_MINECART
+      '17':
+        type: RAILS
+        amount: 16
+      '18':
+        type: POWERED_RAIL
+        amount: 16
+      '19':
+        type: DIAMOND_ORE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '20':
+        type: PRISMARINE_SHARD
+        amount: 44
+      '21':
+        type: PRISMARINE_CRYSTALS
+        amount: 64
+      '22':
+        type: BUCKET
+      '23':
+        type: PRISMARINE_SHARD
+        amount: 64
+      '24':
+        type: RAW_FISH
+        amount: 34
+      '25':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '26':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '27':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '28':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '29':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '30':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '31':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '32':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '33':
+        type: DIAMOND
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '34':
+        type: EMERALD_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '35':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rGuardian Head
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJiMBy8GA00SXuUn5E4bbIWlgXNQhtl+fqA9Zjj5OZ0QF0eEvOg5Qf3fXUSK7BM67gvUKl5c+YY3ioQsaM+chACHGDVTObn3zmOeVUB/0x3XjXN/w+Aa3nP/3Q8bsOAE8avGZMDhx+uQrM4lCb1SGQR4XdB6eJKUMsbh6+ZKpcYhe3D79ZuFvl/2udnu0dmdtBXVyioWwzc2vHkm9i69juvsKUqHzEJk2xmY+fKt/jMRdU0rQSRCws0hKLjLQlKT0Xq1qQdSBzUTfFOvqmgkzDfdAQsbPoOq7DVSFIikd8sfxTNJ8DaPBCWcthskyW145vmxLgDyAiBfYuAQAA
+          skull-owner: CSCoreLib
+      '38':
+        type: ELYTRA
+        damage: 42
+  '62':
+    Time: 1461832702573
+    Exp: 253215
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2386.759536538469
+      y: 69.0
+      z: 2471.1646716212017
+      pitch: -24.278439
+      yaw: -298.02695
+    Items:
+      '0':
+        type: ARROW
+        amount: 8
+      '7':
+        type: DIAMOND_SWORD
+        damage: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Sword of Infinity
+          lore:
+          - §5Grants the user unwavering power!
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: BOW
+        damage: 222
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+  '63':
+    Time: 1461832755656
+    Exp: 253215
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2393.7421761189858
+      y: 69.0
+      z: 2468.42840259312
+      pitch: 23.030361
+      yaw: -156.10065
+    Items:
+      '0':
+        type: ARROW
+        amount: 8
+      '1':
+        type: DIAMOND_SWORD
+        damage: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Sword of Infinity
+          lore:
+          - §5Grants the user unwavering power!
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: BOW
+        damage: 222
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+  '64':
+    Time: 1462073059248
+    Exp: 305286
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -165.89887269430707
+      y: 79.0
+      z: 4238.588076416325
+      pitch: -18.74882
+      yaw: -20.966064
+    Items:
+      '0':
+        type: COBBLESTONE
+        amount: 64
+      '1':
+        type: STONE
+        damage: 4
+        amount: 2
+      '2':
+        type: COAL
+        amount: 4
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 35
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 411
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+  '65':
+    Time: 1462120693074
+    Exp: 352703
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 67261
+        Amplifier: 1
+    Location:
+      world: world
+      x: -170.40721447062205
+      y: 17.0
+      z: 4136.4734766054025
+      pitch: 16.87321
+      yaw: 5.131873
+    Items:
+      '0':
+        type: COBBLESTONE
+        amount: 64
+      '1':
+        type: ROTTEN_FLESH
+        amount: 8
+      '2':
+        type: COBBLESTONE
+        amount: 35
+      '8':
+        type: DIAMOND_PICKAXE
+        damage: 821
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+  '66':
+    Time: 1462483216409
+    Exp: 434125
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 78822
+        Amplifier: 1
+    Location:
+      world: world
+      x: 14860.979939690546
+      y: 65.0
+      z: 9276.0553308174
+      pitch: 5.4387436
+      yaw: 163.12071
+    Items:
+      '8':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DIG_SPEED: 2
+      '38':
+        type: ELYTRA
+        damage: 64

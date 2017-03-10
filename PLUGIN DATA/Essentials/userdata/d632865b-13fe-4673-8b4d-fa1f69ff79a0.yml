@@ -1,0 +1,57 @@
+lastAccountName: PrizonBreak
+timestamps:
+  login: 1468154329562
+  lastteleport: 1468134817120
+  logout: 1468157748207
+  kits:
+    architect: 1443499984910
+    tools: 1443499989705
+    regular: 1443499990360
+    jesus: 1443499961879
+    mod: 1443499990713
+    tophat: 1443499973971
+    dtools: 1443499990111
+    ultra: 1443499977509
+ipAddress: 121.218.36.188
+lastlocation:
+  world: world
+  x: 474.2798187421254
+  y: 89.0
+  z: -183.0830472618645
+  yaw: 160.98407
+  pitch: 3.6676383
+godmode: true
+logoutlocation:
+  world: world
+  x: 238768.65356062085
+  y: 96.0
+  z: -701155.7370298525
+  yaw: -281.28723
+  pitch: 27.749996
+afk: false
+money: '2500'
+nickname: §3Prizon§fBreak
+geolocation: Gladesville, New South Wales, Australia
+homes:
+  home:
+    world: world
+    x: 238758.5918737237
+    y: 121.98127043811533
+    z: -701104.3445908675
+    yaw: -0.4774475
+    pitch: 46.800014
+mail:
+- §6[§rChalwk§6] §rCustom Runes Enchant Shop now open! &b/warp runeshop
+- §6[§rChalwk§6] §rNew content available at /warp runeshop
+- '§6[§rServer§6] §rNotice: Known issue with /nv when wearing any type of helmet.'
+- '§6[§rChalwk§6] §rNotice: Known issue with Veinminer Rune Enchant. Do not use!'
+- '§6[§rChalwk§6] §rNotice: Disguises (/d) are ''temporarily'' disabled.'
+- '§6[§rServer§6] §rNotice: Webstore sale extended to Mon 25th Jul'
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'

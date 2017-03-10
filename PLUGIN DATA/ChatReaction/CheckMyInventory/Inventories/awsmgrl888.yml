@@ -1,0 +1,512 @@
+Inventories:
+  '68':
+    Time: 1462351376306
+    Exp: 1097
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 3
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 298.7247935205061
+      y: 112.0
+      z: 112.4137313997024
+      pitch: 19.950058
+      yaw: -82.149536
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '39':
+        type: SKULL_ITEM
+        damage: 1
+  '69':
+    Time: 1462351475568
+    Exp: 0
+    Health: 6.75
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 305.77277526722645
+      y: 112.0
+      z: 112.80203677281345
+      pitch: 12.189599
+      yaw: -296.11783
+    Items:
+      '0':
+        type: SANDSTONE_STAIRS
+      '1':
+        type: MILK_BUCKET
+      '2':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: long_invisibility
+      '3':
+        type: SIGN
+      '4':
+        type: QUARTZ_BLOCK
+        damage: 2
+      '7':
+        type: WOOD_AXE
+      '8':
+        type: GRASS
+      '9':
+        type: SEEDS
+        amount: 2
+      '11':
+        type: SIGN
+        amount: 8
+      '12':
+        type: IRON_DOOR
+      '13':
+        type: PISTON_BASE
+      '14':
+        type: STEP
+      '15':
+        type: BRICK
+      '16':
+        type: BRICK_STAIRS
+      '17':
+        type: STONE_BUTTON
+        amount: 2
+      '18':
+        type: CHEST
+      '19':
+        type: CARPET
+        damage: 15
+      '20':
+        type: CARPET
+        damage: 11
+      '21':
+        type: LEVER
+      '22':
+        type: WOOD_DOOR
+      '23':
+        type: BANNER
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          base-color: BLUE
+          patterns:
+          - ==: Pattern
+            color: ORANGE
+            pattern: tt
+          - ==: Pattern
+            color: LIME
+            pattern: bt
+      '24':
+        type: WATER_BUCKET
+      '25':
+        type: CARPET
+        damage: 8
+      '27':
+        type: FENCE_GATE
+      '29':
+        type: WOOL
+        damage: 15
+      '30':
+        type: CAULDRON_ITEM
+      '31':
+        type: SANDSTONE
+        damage: 2
+      '32':
+        type: GRASS
+      '33':
+        type: SANDSTONE
+      '34':
+        type: CARPET
+        damage: 7
+        amount: 6
+      '35':
+        type: BOOKSHELF
+      '38':
+        type: ELYTRA
+  '70':
+    Time: 1462436231018
+    Exp: 22
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 7
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14677.026255387183
+      y: 72.5
+      z: 9259.246799663553
+      pitch: 13.650054
+      yaw: -125.239746
+    Items:
+      '1':
+        type: DIAMOND_SWORD
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '39':
+        type: SKULL_ITEM
+        damage: 1
+  '71':
+    Time: 1462440856832
+    Exp: 101
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3060.9773009014025
+      y: 80.0
+      z: -2310.660256420499
+      pitch: 34.65013
+      yaw: -224.70532
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rPig Head
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJgqzx0EODbV0iHxVR3L0tsIafXTUIBvpUfcR67HEyMyaACS/bplfquz0fKyUNeKQFvBZFLnIhhUUIOVozj8wt4c4ySwo5zV1HFg6xTTDv00W2XSWvEzA6OXR9K68mADwY8LwXqpfwK8fA5ofSLg6BykdK7pxsbRXR+jKnp/2Y+ZRQfferd7IeF/9arxOpp5gblPy06TO9t9durOQqnuZ6d8OaDlizGU+ZyxzqRmncRGk4hhpV6GwGXqPGL6xQ70ZMdl60bH5YzRtexyUumYfJh80T5qATDqg/S/SDxfFgvwEY8IRCS5j4W//cynWVAfwB7qosRCoBAAA=
+          skull-owner: CSCoreLib
+      '1':
+        type: DIAMOND_SWORD
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: PORK
+      '8':
+        type: GRILLED_PORK
+        amount: 33
+      '39':
+        type: SKULL_ITEM
+        damage: 1
+  '72':
+    Time: 1462442106071
+    Exp: 89
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3031.1200461417898
+      y: 80.0
+      z: -2320.3873572568355
+      pitch: 11.54999
+      yaw: 78.145325
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rPig Head
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJgqzx0EODbV0iHxVR3L0tsIafXTUIBvpUfcR67HEyMyaACS/bplfquz0fKyUNeKQFvBZFLnIhhUUIOVozj8wt4c4ySwo5zV1HFg6xTTDv00W2XSWvEzA6OXR9K68mADwY8LwXqpfwK8fA5ofSLg6BykdK7pxsbRXR+jKnp/2Y+ZRQfferd7IeF/9arxOpp5gblPy06TO9t9durOQqnuZ6d8OaDlizGU+ZyxzqRmncRGk4hhpV6GwGXqPGL6xQ70ZMdl60bH5YzRtexyUumYfJh80T5qATDqg/S/SDxfFgvwEY8IRCS5j4W//cynWVAfwB7qosRCoBAAA=
+          skull-owner: CSCoreLib
+      '1':
+        type: DIAMOND_SWORD
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: PORK
+      '3':
+        type: GRILLED_PORK
+        amount: 33
+      '4':
+        type: SKULL_ITEM
+        damage: 1
+  '73':
+    Time: 1462483222136
+    Exp: 263
+    Health: 12.140000343322754
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -3065.8787763670016
+      y: 66.0
+      z: -2133.1105916625725
+      pitch: 29.40023
+      yaw: -357.06146
+    Items:
+      '0':
+        type: BRICK_STAIRS
+      '1':
+        type: MONSTER_EGG
+        amount: 53
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANzkhNLWBgAAABt1TGHQAAAA==
+      '2':
+        type: INK_SACK
+        damage: 15
+        amount: 64
+      '3':
+        type: BED
+      '4':
+        type: BOW
+      '5':
+        type: STEP
+      '7':
+        type: WOOL
+        damage: 5
+      '8':
+        type: MYCEL
+      '19':
+        type: MONSTER_EGG
+        amount: 53
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAJz89JY2AAAIves4gcAAAA
+      '27':
+        type: SAPLING
+        damage: 1
+      '28':
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANzkhNLWBgAAABt1TGHQAAAA==
+      '29':
+        type: MONSTER_EGG
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAOyExnYAAASo1SARsAAAA=
+      '30':
+        type: WATER_BUCKET
+      '31':
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWDzr0rNyS9hYAAA3vuJER4AAAA=
+      '32':
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeD2LS3OKMrPz3XOL2dgAADFQ0VuIwAAAA==
+      '33':
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeCG8D3yi4pTGRgA104FmCMAAAA=
+  '74':
+    Time: 1462529801154
+    Exp: 1055
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 10
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14840.86412015867
+      y: 80.4312500178814
+      z: 9278.396935653458
+      pitch: 15.000284
+      yaw: -273.50674
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 1
+        amount: 2
+      '1':
+        type: DIAMOND_SWORD
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: GRILLED_PORK
+        amount: 33
+      '8':
+        type: PORK
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rOcelot Head
+          internal: H4sIAAAAAAAAAE2L3W6CMBhAvy1bgmSPsVsSKhblciNOa2zd5EfaO6pl/BQ1CIvwTHvIcbnLk3OOCWDCS1B1Wn82l6zQyoBHcoJXN8UIpZ6yZtJxrRmaSstDmWfZ84WbIplJiRcmmON0VU1bqNsEjFbd265RNxMAHgx4jlPdKfhV/cYWSW6fko0+9sQdOQxsvSPldU7OcS994pJ69Os3d9t7/1rcpgesubPJxfmrk3Vsb529Vus9OtbRDws5YlNWsQPtd+E3FjXHbIgcuhKaD/tKrFjFB45pKXJW5jkdKKYDQXRF77yO7qJ8L2i4tHn4UfFyWWQJ8gAMeGJprWDiB/6lUdtCAvwBCgxzuSYBAAA=
+          skull-owner: CSCoreLib
+  '75':
+    Time: 1462529847313
+    Exp: 178
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14835.390958423626
+      y: 81.5
+      z: 9281.133774315353
+      pitch: 9.900316
+      yaw: -1.856649
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 1
+        amount: 2
+  '76':
+    Time: 1462604255017
+    Exp: 1155
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 10
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14663.05704764223
+      y: 70.0
+      z: 9249.827542778216
+      pitch: 90.0
+      yaw: -61.216187
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '1':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: FIREWORK_CHARGE
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §f§l215 §c§lSmashDown
+          lore:
+          - §9Gadget
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rOcelot Head
+          internal: H4sIAAAAAAAAAE2L3W6CMBhAvy1bgmSPsVsSKhblciNOa2zd5EfaO6pl/BQ1CIvwTHvIcbnLk3OOCWDCS1B1Wn82l6zQyoBHcoJXN8UIpZ6yZtJxrRmaSstDmWfZ84WbIplJiRcmmON0VU1bqNsEjFbd265RNxMAHgx4jlPdKfhV/cYWSW6fko0+9sQdOQxsvSPldU7OcS994pJ69Os3d9t7/1rcpgesubPJxfmrk3Vsb529Vus9OtbRDws5YlNWsQPtd+E3FjXHbIgcuhKaD/tKrFjFB45pKXJW5jkdKKYDQXRF77yO7qJ8L2i4tHn4UfFyWWQJ8gAMeGJprWDiB/6lUdtCAvwBCgxzuSYBAAA=
+          skull-owner: CSCoreLib
+  '77':
+    Time: 1462683729083
+    Exp: 4077
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 13
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 14649.273675595421
+      y: 70.0
+      z: 9237.142158977662
+      pitch: 4.800116
+      yaw: -226.21002
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '1':
+        type: BRICK_STAIRS
+      '2':
+        type: WOOD_PLATE
+        amount: 2
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: STONE_BUTTON
+        amount: 2
+      '8':
+        type: THIN_GLASS
+        amount: 10
+      '11':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rOcelot Head
+          internal: H4sIAAAAAAAAAE2L3W6CMBhAvy1bgmSPsVsSKhblciNOa2zd5EfaO6pl/BQ1CIvwTHvIcbnLk3OOCWDCS1B1Wn82l6zQyoBHcoJXN8UIpZ6yZtJxrRmaSstDmWfZ84WbIplJiRcmmON0VU1bqNsEjFbd265RNxMAHgx4jlPdKfhV/cYWSW6fko0+9sQdOQxsvSPldU7OcS994pJ69Os3d9t7/1rcpgesubPJxfmrk3Vsb529Vus9OtbRDws5YlNWsQPtd+E3FjXHbIgcuhKaD/tKrFjFB45pKXJW5jkdKKYDQXRF77yO7qJ8L2i4tHn4UfFyWWQJ8gAMeGJprWDiB/6lUdtCAvwBCgxzuSYBAAA=
+          skull-owner: CSCoreLib
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2QyZKjRhRF6bYdUV3hz/BOUSFmwaIXSMxiFGLKHZNQJlMJBAK+yZ/lDzHVG3uRkRnv5Xv3nvuOYe/Yn1411rXTdzdYF2/Ydy3H/koz8pDc8sMHy3H8B80RxAd/yPgPgmKKgmazPEmzd+x9G/os+icshh/Y27OYn2NfDO8Yhn17w354sGyTr8r3v7XP266eiPSAL6y3yMYJlHdqbPJzgpxjhM5cNp96M1S80jw6zEXpz7Du8rWNvezJs3zVKwiyTTS+wCrrJPNIStnzE3LVfGBGhqwinXoAnMj9y6kppNBx+zR0gmj34ocaxD1rqMrOYeVrLVgnKnvkcD/F82MIBYXWfHOaZMIxBtoL7gVF6G25oNPZUfNMqDxiJ7JqnFXJkTyJiKsovLR3nMMAZM72YI4ipZL2IYJQoB+SK5G9NuDL7sot3qFrj3KcARkfhrBiJHbnwQc3d+0lJSvaTVi1rFHb09wwES7ezz3p4o7sw8wI98eJckg5bM8XR5Y78MqFsvBPS9I+oTVnOZ/FxtAWZDX4rumjaG1kb0+Bl7sC5RA8HInH92HjPeUpNgU7mLVWwF9dTvuFHXtJUj4eZW1JsszG445Y9IM7HwdBhPNauIUwtQdyfxPX9c67+4WyX2k37iU9/1zBJNOFgdgnIYnMrmGy25GW6/ncKfR0p5SToxs8X8lZ38/KXssU/cZKzHp9iAERnHOrWKLLQzpfrQDvVWFd3IJ5XfOOPeOo++yohxAwOCfuAb3non1+N7QqynHfYbxK5Voc0fmVeVTlfpICWdXtmdoVowJ34y0Q9jCSrungvJ63rgM9CtOOuumZYuvhgly87kwgPPf4TeU94BUJR6/z8Qj1Z/F54EvDVvsw+owcZdcsuvnzDfsjSOqx+PZPseh4EhJ1Rl3uaSRAG0m4hTTSFs3tlLOFhEFrj0tKgs9UCXRw0lit0ZGJ8jtoXMpCJW1fXdq8SoxFmox5NQkQ+rjVWFUc6kiDL5ip+gSaegA+c09DH9pQV1PShcZJX5MwH+PoQmRN4IFIJpJIr780clUngPeCuRLQuRosIDKh3Q7Qx5/6FWrs5nubeX3t6nL18rIhN/3v75iG9QhCa4lDgBsNU+cnHgfRHc+3/QZpQTPU5pgEVUz6xPZ+bTzQ2uoWyhYT6RCI5cZ2RBvPC2w9gKqNs26AIs2WmOHWNV7BNWgAsuoYxYvW4oNWWUdf8n/53HQGDXUwUS94JnaTQV3qQv3FuRoN8Zk2AcoauclPzAgi9z/vHg+tNaaAuGW6aluWErHdX3qbrkDG6I5sUb/HjV5Zir9Yq08AJM3m1V9j0qWtUIamuOUfWsiEOn+L8J8Y9ob9biVNgf2mdDmG/Qu2bmMHEgUAAA==
+          skull-owner: God

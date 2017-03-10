@@ -1,0 +1,1779 @@
+Inventories:
+  '25':
+    Time: 1458455365652
+    Exp: 55
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -171545.47388799945
+      y: 71.0
+      z: 54099.68558382843
+      pitch: 15.657528
+      yaw: -64.09851
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 704
+      '1':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cBlade of Vampires
+          lore:
+          - §7Life Steal I
+          - ''
+          - §rEverytime you attack something
+          - §ryou have a 45% chance to
+          - §rrecover 2 Hearts of your Health
+          enchants:
+            DAMAGE_ALL: 2
+            FIRE_ASPECT: 2
+            DURABILITY: 4
+      '2':
+        type: DIAMOND_SWORD
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPear Sapling
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: COBBLESTONE
+        amount: 30
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: ROTTEN_FLESH
+        amount: 14
+      '9':
+        type: COOKED_BEEF
+        amount: 56
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: WOOD
+        amount: 64
+      '13':
+        type: WOOD
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 5
+      '16':
+        type: SEEDS
+      '17':
+        type: LEATHER
+        amount: 36
+      '19':
+        type: GRILLED_PORK
+        amount: 59
+      '20':
+        type: SPIDER_EYE
+        amount: 64
+      '21':
+        type: WOOD
+        amount: 7
+      '22':
+        type: CARROT_ITEM
+      '23':
+        type: SULPHUR
+        amount: 15
+      '24':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Blackberry Bush
+      '25':
+        type: WOOL
+        amount: 3
+      '26':
+        type: COOKED_MUTTON
+        amount: 3
+      '27':
+        type: FEATHER
+        amount: 15
+      '28':
+        type: DIRT
+        amount: 7
+      '29':
+        type: GOLD_BLOCK
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: SAPLING
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Pineapple Plant
+      '32':
+        type: SPIDER_EYE
+        amount: 2
+      '33':
+        type: BONE
+        amount: 10
+      '34':
+        type: WORKBENCH
+      '35':
+        type: LAPIS_BLOCK
+  '26':
+    Time: 1459465468116
+    Exp: 55
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -171545.47388799945
+      y: 71.0
+      z: 54099.68558382843
+      pitch: 15.657528
+      yaw: -64.09851
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 704
+      '1':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cBlade of Vampires
+          lore:
+          - §7Life Steal I
+          - ''
+          - §rEverytime you attack something
+          - §ryou have a 45% chance to
+          - §rrecover 2 Hearts of your Health
+          enchants:
+            DAMAGE_ALL: 2
+            FIRE_ASPECT: 2
+            DURABILITY: 4
+      '2':
+        type: DIAMOND_SWORD
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPear Sapling
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: COBBLESTONE
+        amount: 30
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: ROTTEN_FLESH
+        amount: 14
+      '9':
+        type: COOKED_BEEF
+        amount: 56
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: WOOD
+        amount: 64
+      '13':
+        type: WOOD
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 5
+      '16':
+        type: SEEDS
+      '17':
+        type: LEATHER
+        amount: 36
+      '19':
+        type: GRILLED_PORK
+        amount: 59
+      '20':
+        type: SPIDER_EYE
+        amount: 64
+      '21':
+        type: WOOD
+        amount: 7
+      '22':
+        type: CARROT_ITEM
+      '23':
+        type: SULPHUR
+        amount: 15
+      '24':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Blackberry Bush
+      '25':
+        type: WOOL
+        amount: 3
+      '26':
+        type: COOKED_MUTTON
+        amount: 3
+      '27':
+        type: FEATHER
+        amount: 15
+      '28':
+        type: DIRT
+        amount: 7
+      '29':
+        type: GOLD_BLOCK
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: SAPLING
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Pineapple Plant
+      '32':
+        type: SPIDER_EYE
+        amount: 2
+      '33':
+        type: BONE
+        amount: 10
+      '34':
+        type: WORKBENCH
+      '35':
+        type: LAPIS_BLOCK
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 34
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 34
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 34
+      '39':
+        type: DIAMOND_HELMET
+        damage: 34
+  '27':
+    Time: 1459469876384
+    Exp: 55
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -171545.47388799945
+      y: 71.0
+      z: 54099.68558382843
+      pitch: 15.657528
+      yaw: -64.09851
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 704
+      '1':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cBlade of Vampires
+          lore:
+          - §7Life Steal I
+          - ''
+          - §rEverytime you attack something
+          - §ryou have a 45% chance to
+          - §rrecover 2 Hearts of your Health
+          enchants:
+            DAMAGE_ALL: 2
+            FIRE_ASPECT: 2
+            DURABILITY: 4
+      '2':
+        type: DIAMOND_SWORD
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPear Sapling
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: COBBLESTONE
+        amount: 30
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: ROTTEN_FLESH
+        amount: 14
+      '9':
+        type: COOKED_BEEF
+        amount: 56
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: WOOD
+        amount: 64
+      '13':
+        type: WOOD
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 5
+      '16':
+        type: SEEDS
+      '17':
+        type: LEATHER
+        amount: 36
+      '19':
+        type: GRILLED_PORK
+        amount: 59
+      '20':
+        type: SPIDER_EYE
+        amount: 64
+      '21':
+        type: WOOD
+        amount: 7
+      '22':
+        type: CARROT_ITEM
+      '23':
+        type: SULPHUR
+        amount: 15
+      '24':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Blackberry Bush
+      '25':
+        type: WOOL
+        amount: 3
+      '26':
+        type: COOKED_MUTTON
+        amount: 3
+      '27':
+        type: FEATHER
+        amount: 15
+      '28':
+        type: DIRT
+        amount: 7
+      '29':
+        type: GOLD_BLOCK
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: SAPLING
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Pineapple Plant
+      '32':
+        type: SPIDER_EYE
+        amount: 2
+      '33':
+        type: BONE
+        amount: 10
+      '34':
+        type: WORKBENCH
+      '35':
+        type: LAPIS_BLOCK
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 34
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 34
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 34
+      '39':
+        type: DIAMOND_HELMET
+        damage: 34
+  '28':
+    Time: 1459659266144
+    Exp: 55
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -171545.47388799945
+      y: 71.0
+      z: 54099.68558382843
+      pitch: 15.657528
+      yaw: -64.09851
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 704
+      '1':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cBlade of Vampires
+          lore:
+          - §7Life Steal I
+          - ''
+          - §rEverytime you attack something
+          - §ryou have a 45% chance to
+          - §rrecover 2 Hearts of your Health
+          enchants:
+            DAMAGE_ALL: 2
+            FIRE_ASPECT: 2
+            DURABILITY: 4
+      '2':
+        type: DIAMOND_SWORD
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPear Sapling
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: COBBLESTONE
+        amount: 30
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: ROTTEN_FLESH
+        amount: 14
+      '9':
+        type: COOKED_BEEF
+        amount: 56
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: WOOD
+        amount: 64
+      '13':
+        type: WOOD
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 5
+      '16':
+        type: SEEDS
+      '17':
+        type: LEATHER
+        amount: 36
+      '19':
+        type: GRILLED_PORK
+        amount: 59
+      '20':
+        type: SPIDER_EYE
+        amount: 64
+      '21':
+        type: WOOD
+        amount: 7
+      '22':
+        type: CARROT_ITEM
+      '23':
+        type: SULPHUR
+        amount: 15
+      '24':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Blackberry Bush
+      '25':
+        type: WOOL
+        amount: 3
+      '26':
+        type: COOKED_MUTTON
+        amount: 3
+      '27':
+        type: FEATHER
+        amount: 15
+      '28':
+        type: DIRT
+        amount: 7
+      '29':
+        type: GOLD_BLOCK
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: SAPLING
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Pineapple Plant
+      '32':
+        type: SPIDER_EYE
+        amount: 2
+      '33':
+        type: BONE
+        amount: 10
+      '34':
+        type: WORKBENCH
+      '35':
+        type: LAPIS_BLOCK
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 34
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 34
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 34
+      '39':
+        type: DIAMOND_HELMET
+        damage: 34
+  '29':
+    Time: 1459766740610
+    Exp: 55
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -171545.47388799945
+      y: 71.0
+      z: 54099.68558382843
+      pitch: 15.657528
+      yaw: -64.09851
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 704
+      '1':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cBlade of Vampires
+          lore:
+          - §7Life Steal I
+          - ''
+          - §rEverytime you attack something
+          - §ryou have a 45% chance to
+          - §rrecover 2 Hearts of your Health
+          enchants:
+            DAMAGE_ALL: 2
+            FIRE_ASPECT: 2
+            DURABILITY: 4
+      '2':
+        type: DIAMOND_SWORD
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPear Sapling
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: COBBLESTONE
+        amount: 30
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: ROTTEN_FLESH
+        amount: 14
+      '9':
+        type: COOKED_BEEF
+        amount: 56
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: WOOD
+        amount: 64
+      '13':
+        type: WOOD
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 5
+      '16':
+        type: SEEDS
+      '17':
+        type: LEATHER
+        amount: 36
+      '19':
+        type: GRILLED_PORK
+        amount: 59
+      '20':
+        type: SPIDER_EYE
+        amount: 64
+      '21':
+        type: WOOD
+        amount: 7
+      '22':
+        type: CARROT_ITEM
+      '23':
+        type: SULPHUR
+        amount: 15
+      '24':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Blackberry Bush
+      '25':
+        type: WOOL
+        amount: 3
+      '26':
+        type: COOKED_MUTTON
+        amount: 3
+      '27':
+        type: FEATHER
+        amount: 15
+      '28':
+        type: DIRT
+        amount: 7
+      '29':
+        type: GOLD_BLOCK
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: SAPLING
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Pineapple Plant
+      '32':
+        type: SPIDER_EYE
+        amount: 2
+      '33':
+        type: BONE
+        amount: 10
+      '34':
+        type: WORKBENCH
+      '35':
+        type: LAPIS_BLOCK
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 34
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 34
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 34
+      '39':
+        type: DIAMOND_HELMET
+        damage: 34
+  '30':
+    Time: 1459847491757
+    Exp: 55
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -171545.47388799945
+      y: 71.0
+      z: 54099.68558382843
+      pitch: 15.657528
+      yaw: -64.09851
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 704
+      '1':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cBlade of Vampires
+          lore:
+          - §7Life Steal I
+          - ''
+          - §rEverytime you attack something
+          - §ryou have a 45% chance to
+          - §rrecover 2 Hearts of your Health
+          enchants:
+            DAMAGE_ALL: 2
+            FIRE_ASPECT: 2
+            DURABILITY: 4
+      '2':
+        type: DIAMOND_SWORD
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPear Sapling
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: COBBLESTONE
+        amount: 30
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: ROTTEN_FLESH
+        amount: 14
+      '9':
+        type: COOKED_BEEF
+        amount: 56
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: WOOD
+        amount: 64
+      '13':
+        type: WOOD
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 5
+      '16':
+        type: SEEDS
+      '17':
+        type: LEATHER
+        amount: 36
+      '19':
+        type: GRILLED_PORK
+        amount: 59
+      '20':
+        type: SPIDER_EYE
+        amount: 64
+      '21':
+        type: WOOD
+        amount: 7
+      '22':
+        type: CARROT_ITEM
+      '23':
+        type: SULPHUR
+        amount: 15
+      '24':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Blackberry Bush
+      '25':
+        type: WOOL
+        amount: 3
+      '26':
+        type: COOKED_MUTTON
+        amount: 3
+      '27':
+        type: FEATHER
+        amount: 15
+      '28':
+        type: DIRT
+        amount: 7
+      '29':
+        type: GOLD_BLOCK
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: SAPLING
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Pineapple Plant
+      '32':
+        type: SPIDER_EYE
+        amount: 2
+      '33':
+        type: BONE
+        amount: 10
+      '34':
+        type: WORKBENCH
+      '35':
+        type: LAPIS_BLOCK
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 34
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 34
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 34
+      '39':
+        type: DIAMOND_HELMET
+        damage: 34
+  '31':
+    Time: 1460146826648
+    Exp: 55
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -171545.47388799945
+      y: 71.0
+      z: 54099.68558382843
+      pitch: 15.657528
+      yaw: -64.09851
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 704
+      '1':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cBlade of Vampires
+          lore:
+          - §7Life Steal I
+          - ''
+          - §rEverytime you attack something
+          - §ryou have a 45% chance to
+          - §rrecover 2 Hearts of your Health
+          enchants:
+            DAMAGE_ALL: 2
+            FIRE_ASPECT: 2
+            DURABILITY: 4
+      '2':
+        type: DIAMOND_SWORD
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPear Sapling
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: COBBLESTONE
+        amount: 30
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: ROTTEN_FLESH
+        amount: 14
+      '9':
+        type: COOKED_BEEF
+        amount: 56
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: WOOD
+        amount: 64
+      '13':
+        type: WOOD
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 5
+      '16':
+        type: SEEDS
+      '17':
+        type: LEATHER
+        amount: 36
+      '19':
+        type: GRILLED_PORK
+        amount: 59
+      '20':
+        type: SPIDER_EYE
+        amount: 64
+      '21':
+        type: WOOD
+        amount: 7
+      '22':
+        type: CARROT_ITEM
+      '23':
+        type: SULPHUR
+        amount: 15
+      '24':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Blackberry Bush
+      '25':
+        type: WOOL
+        amount: 3
+      '26':
+        type: COOKED_MUTTON
+        amount: 3
+      '27':
+        type: FEATHER
+        amount: 15
+      '28':
+        type: DIRT
+        amount: 7
+      '29':
+        type: GOLD_BLOCK
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: SAPLING
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Pineapple Plant
+      '32':
+        type: SPIDER_EYE
+        amount: 2
+      '33':
+        type: BONE
+        amount: 10
+      '34':
+        type: WORKBENCH
+      '35':
+        type: LAPIS_BLOCK
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 34
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 34
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 34
+      '39':
+        type: DIAMOND_HELMET
+        damage: 34
+  '32':
+    Time: 1460883173958
+    Exp: 55
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -171545.47388799945
+      y: 71.0
+      z: 54099.68558382843
+      pitch: 15.657528
+      yaw: -64.09851
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 704
+      '1':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cBlade of Vampires
+          lore:
+          - §7Life Steal I
+          - ''
+          - §rEverytime you attack something
+          - §ryou have a 45% chance to
+          - §rrecover 2 Hearts of your Health
+          enchants:
+            DAMAGE_ALL: 2
+            FIRE_ASPECT: 2
+            DURABILITY: 4
+      '2':
+        type: DIAMOND_SWORD
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPear Sapling
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: COBBLESTONE
+        amount: 30
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: ROTTEN_FLESH
+        amount: 14
+      '9':
+        type: COOKED_BEEF
+        amount: 56
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: WOOD
+        amount: 64
+      '13':
+        type: WOOD
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 5
+      '16':
+        type: SEEDS
+      '17':
+        type: LEATHER
+        amount: 36
+      '19':
+        type: GRILLED_PORK
+        amount: 59
+      '20':
+        type: SPIDER_EYE
+        amount: 64
+      '21':
+        type: WOOD
+        amount: 7
+      '22':
+        type: CARROT_ITEM
+      '23':
+        type: SULPHUR
+        amount: 15
+      '24':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Blackberry Bush
+      '25':
+        type: WOOL
+        amount: 3
+      '26':
+        type: COOKED_MUTTON
+        amount: 3
+      '27':
+        type: FEATHER
+        amount: 15
+      '28':
+        type: DIRT
+        amount: 7
+      '29':
+        type: GOLD_BLOCK
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: SAPLING
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Pineapple Plant
+      '32':
+        type: SPIDER_EYE
+        amount: 2
+      '33':
+        type: BONE
+        amount: 10
+      '34':
+        type: WORKBENCH
+      '35':
+        type: LAPIS_BLOCK
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 34
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 34
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 34
+      '39':
+        type: DIAMOND_HELMET
+        damage: 34
+  '33':
+    Time: 1462120698685
+    Exp: 55
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -171545.47388799945
+      y: 71.0
+      z: 54099.68558382843
+      pitch: 15.657528
+      yaw: -64.09851
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 704
+      '1':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cBlade of Vampires
+          lore:
+          - §7Life Steal I
+          - ''
+          - §rEverytime you attack something
+          - §ryou have a 45% chance to
+          - §rrecover 2 Hearts of your Health
+          enchants:
+            DAMAGE_ALL: 2
+            FIRE_ASPECT: 2
+            DURABILITY: 4
+      '2':
+        type: DIAMOND_SWORD
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPear Sapling
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: COBBLESTONE
+        amount: 30
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: ROTTEN_FLESH
+        amount: 14
+      '9':
+        type: COOKED_BEEF
+        amount: 56
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: WOOD
+        amount: 64
+      '13':
+        type: WOOD
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 5
+      '16':
+        type: SEEDS
+      '17':
+        type: LEATHER
+        amount: 36
+      '19':
+        type: GRILLED_PORK
+        amount: 59
+      '20':
+        type: SPIDER_EYE
+        amount: 64
+      '21':
+        type: WOOD
+        amount: 7
+      '22':
+        type: CARROT_ITEM
+      '23':
+        type: SULPHUR
+        amount: 15
+      '24':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Blackberry Bush
+      '25':
+        type: WOOL
+        amount: 3
+      '26':
+        type: COOKED_MUTTON
+        amount: 3
+      '27':
+        type: FEATHER
+        amount: 15
+      '28':
+        type: DIRT
+        amount: 7
+      '29':
+        type: GOLD_BLOCK
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: SAPLING
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Pineapple Plant
+      '32':
+        type: SPIDER_EYE
+        amount: 2
+      '33':
+        type: BONE
+        amount: 10
+      '34':
+        type: WORKBENCH
+      '35':
+        type: LAPIS_BLOCK
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 34
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 34
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 34
+      '39':
+        type: DIAMOND_HELMET
+        damage: 34
+  '34':
+    Time: 1462483223090
+    Exp: 55
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -171545.47388799945
+      y: 71.0
+      z: 54099.68558382843
+      pitch: 15.657528
+      yaw: -64.09851
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 704
+      '1':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cBlade of Vampires
+          lore:
+          - §7Life Steal I
+          - ''
+          - §rEverytime you attack something
+          - §ryou have a 45% chance to
+          - §rrecover 2 Hearts of your Health
+          enchants:
+            DAMAGE_ALL: 2
+            FIRE_ASPECT: 2
+            DURABILITY: 4
+      '2':
+        type: DIAMOND_SWORD
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPear Sapling
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: COBBLESTONE
+        amount: 30
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '8':
+        type: ROTTEN_FLESH
+        amount: 14
+      '9':
+        type: COOKED_BEEF
+        amount: 56
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: WOOD
+        amount: 64
+      '13':
+        type: WOOD
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 5
+      '16':
+        type: SEEDS
+      '17':
+        type: LEATHER
+        amount: 36
+      '19':
+        type: GRILLED_PORK
+        amount: 59
+      '20':
+        type: SPIDER_EYE
+        amount: 64
+      '21':
+        type: WOOD
+        amount: 7
+      '22':
+        type: CARROT_ITEM
+      '23':
+        type: SULPHUR
+        amount: 15
+      '24':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Blackberry Bush
+      '25':
+        type: WOOL
+        amount: 3
+      '26':
+        type: COOKED_MUTTON
+        amount: 3
+      '27':
+        type: FEATHER
+        amount: 15
+      '28':
+        type: DIRT
+        amount: 7
+      '29':
+        type: GOLD_BLOCK
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: SAPLING
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Pineapple Plant
+      '32':
+        type: SPIDER_EYE
+        amount: 2
+      '33':
+        type: BONE
+        amount: 10
+      '34':
+        type: WORKBENCH
+      '35':
+        type: LAPIS_BLOCK
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 34
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 34
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 34
+      '39':
+        type: DIAMOND_HELMET
+        damage: 34

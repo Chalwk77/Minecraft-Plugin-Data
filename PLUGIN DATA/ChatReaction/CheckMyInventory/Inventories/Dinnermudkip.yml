@@ -1,0 +1,931 @@
+Inventories:
+  '25':
+    Time: 1458455364844
+    Exp: 10966
+    Health: 9.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 294.45554235531665
+      y: 63.0
+      z: 1188.3438549404718
+      pitch: 16.800062
+      yaw: 6.9108887
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 57
+      '1':
+        type: IRON_AXE
+        damage: 84
+      '2':
+        type: STICK
+        amount: 61
+      '3':
+        type: DIRT
+        amount: 25
+      '4':
+        type: IRON_PICKAXE
+        damage: 205
+      '5':
+        type: LOG
+        damage: 2
+        amount: 2
+      '6':
+        type: RABBIT
+      '7':
+        type: WOOD
+        damage: 2
+        amount: 56
+      '8':
+        type: FENCE
+        amount: 20
+      '9':
+        type: APPLE
+      '14':
+        type: EGG
+        amount: 2
+      '15':
+        type: ARROW
+        amount: 4
+      '17':
+        type: RAW_CHICKEN
+      '18':
+        type: COAL
+        amount: 33
+      '19':
+        type: COAL
+        amount: 27
+      '21':
+        type: SHEARS
+        damage: 45
+      '24':
+        type: GLASS
+        amount: 24
+      '26':
+        type: LEAVES
+        amount: 4
+      '28':
+        type: BUCKET
+      '29':
+        type: TORCH
+        amount: 44
+      '30':
+        type: TORCH
+        amount: 64
+      '31':
+        type: STICK
+        amount: 64
+      '32':
+        type: STRING
+        amount: 5
+      '33':
+        type: IRON_SPADE
+      '34':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '35':
+        type: STICK
+        amount: 64
+  '26':
+    Time: 1459465467340
+    Exp: 10966
+    Health: 9.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 294.45554235531665
+      y: 63.0
+      z: 1188.3438549404718
+      pitch: 16.800062
+      yaw: 6.9108887
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 57
+      '1':
+        type: IRON_AXE
+        damage: 84
+      '2':
+        type: STICK
+        amount: 61
+      '3':
+        type: DIRT
+        amount: 25
+      '4':
+        type: IRON_PICKAXE
+        damage: 205
+      '5':
+        type: LOG
+        damage: 2
+        amount: 2
+      '6':
+        type: RABBIT
+      '7':
+        type: WOOD
+        damage: 2
+        amount: 56
+      '8':
+        type: FENCE
+        amount: 20
+      '9':
+        type: APPLE
+      '14':
+        type: EGG
+        amount: 2
+      '15':
+        type: ARROW
+        amount: 4
+      '17':
+        type: RAW_CHICKEN
+      '18':
+        type: COAL
+        amount: 33
+      '19':
+        type: COAL
+        amount: 27
+      '21':
+        type: SHEARS
+        damage: 45
+      '24':
+        type: GLASS
+        amount: 24
+      '26':
+        type: LEAVES
+        amount: 4
+      '28':
+        type: BUCKET
+      '29':
+        type: TORCH
+        amount: 44
+      '30':
+        type: TORCH
+        amount: 64
+      '31':
+        type: STICK
+        amount: 64
+      '32':
+        type: STRING
+        amount: 5
+      '33':
+        type: IRON_SPADE
+      '34':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '35':
+        type: STICK
+        amount: 64
+  '27':
+    Time: 1459469875710
+    Exp: 10966
+    Health: 9.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 294.45554235531665
+      y: 63.0
+      z: 1188.3438549404718
+      pitch: 16.800062
+      yaw: 6.9108887
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 57
+      '1':
+        type: IRON_AXE
+        damage: 84
+      '2':
+        type: STICK
+        amount: 61
+      '3':
+        type: DIRT
+        amount: 25
+      '4':
+        type: IRON_PICKAXE
+        damage: 205
+      '5':
+        type: LOG
+        damage: 2
+        amount: 2
+      '6':
+        type: RABBIT
+      '7':
+        type: WOOD
+        damage: 2
+        amount: 56
+      '8':
+        type: FENCE
+        amount: 20
+      '9':
+        type: APPLE
+      '14':
+        type: EGG
+        amount: 2
+      '15':
+        type: ARROW
+        amount: 4
+      '17':
+        type: RAW_CHICKEN
+      '18':
+        type: COAL
+        amount: 33
+      '19':
+        type: COAL
+        amount: 27
+      '21':
+        type: SHEARS
+        damage: 45
+      '24':
+        type: GLASS
+        amount: 24
+      '26':
+        type: LEAVES
+        amount: 4
+      '28':
+        type: BUCKET
+      '29':
+        type: TORCH
+        amount: 44
+      '30':
+        type: TORCH
+        amount: 64
+      '31':
+        type: STICK
+        amount: 64
+      '32':
+        type: STRING
+        amount: 5
+      '33':
+        type: IRON_SPADE
+      '34':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '35':
+        type: STICK
+        amount: 64
+  '28':
+    Time: 1459659265474
+    Exp: 10966
+    Health: 9.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 294.45554235531665
+      y: 63.0
+      z: 1188.3438549404718
+      pitch: 16.800062
+      yaw: 6.9108887
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 57
+      '1':
+        type: IRON_AXE
+        damage: 84
+      '2':
+        type: STICK
+        amount: 61
+      '3':
+        type: DIRT
+        amount: 25
+      '4':
+        type: IRON_PICKAXE
+        damage: 205
+      '5':
+        type: LOG
+        damage: 2
+        amount: 2
+      '6':
+        type: RABBIT
+      '7':
+        type: WOOD
+        damage: 2
+        amount: 56
+      '8':
+        type: FENCE
+        amount: 20
+      '9':
+        type: APPLE
+      '14':
+        type: EGG
+        amount: 2
+      '15':
+        type: ARROW
+        amount: 4
+      '17':
+        type: RAW_CHICKEN
+      '18':
+        type: COAL
+        amount: 33
+      '19':
+        type: COAL
+        amount: 27
+      '21':
+        type: SHEARS
+        damage: 45
+      '24':
+        type: GLASS
+        amount: 24
+      '26':
+        type: LEAVES
+        amount: 4
+      '28':
+        type: BUCKET
+      '29':
+        type: TORCH
+        amount: 44
+      '30':
+        type: TORCH
+        amount: 64
+      '31':
+        type: STICK
+        amount: 64
+      '32':
+        type: STRING
+        amount: 5
+      '33':
+        type: IRON_SPADE
+      '34':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '35':
+        type: STICK
+        amount: 64
+  '29':
+    Time: 1459766739969
+    Exp: 10966
+    Health: 9.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 294.45554235531665
+      y: 63.0
+      z: 1188.3438549404718
+      pitch: 16.800062
+      yaw: 6.9108887
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 57
+      '1':
+        type: IRON_AXE
+        damage: 84
+      '2':
+        type: STICK
+        amount: 61
+      '3':
+        type: DIRT
+        amount: 25
+      '4':
+        type: IRON_PICKAXE
+        damage: 205
+      '5':
+        type: LOG
+        damage: 2
+        amount: 2
+      '6':
+        type: RABBIT
+      '7':
+        type: WOOD
+        damage: 2
+        amount: 56
+      '8':
+        type: FENCE
+        amount: 20
+      '9':
+        type: APPLE
+      '14':
+        type: EGG
+        amount: 2
+      '15':
+        type: ARROW
+        amount: 4
+      '17':
+        type: RAW_CHICKEN
+      '18':
+        type: COAL
+        amount: 33
+      '19':
+        type: COAL
+        amount: 27
+      '21':
+        type: SHEARS
+        damage: 45
+      '24':
+        type: GLASS
+        amount: 24
+      '26':
+        type: LEAVES
+        amount: 4
+      '28':
+        type: BUCKET
+      '29':
+        type: TORCH
+        amount: 44
+      '30':
+        type: TORCH
+        amount: 64
+      '31':
+        type: STICK
+        amount: 64
+      '32':
+        type: STRING
+        amount: 5
+      '33':
+        type: IRON_SPADE
+      '34':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '35':
+        type: STICK
+        amount: 64
+  '30':
+    Time: 1459847490954
+    Exp: 10966
+    Health: 9.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 294.45554235531665
+      y: 63.0
+      z: 1188.3438549404718
+      pitch: 16.800062
+      yaw: 6.9108887
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 57
+      '1':
+        type: IRON_AXE
+        damage: 84
+      '2':
+        type: STICK
+        amount: 61
+      '3':
+        type: DIRT
+        amount: 25
+      '4':
+        type: IRON_PICKAXE
+        damage: 205
+      '5':
+        type: LOG
+        damage: 2
+        amount: 2
+      '6':
+        type: RABBIT
+      '7':
+        type: WOOD
+        damage: 2
+        amount: 56
+      '8':
+        type: FENCE
+        amount: 20
+      '9':
+        type: APPLE
+      '14':
+        type: EGG
+        amount: 2
+      '15':
+        type: ARROW
+        amount: 4
+      '17':
+        type: RAW_CHICKEN
+      '18':
+        type: COAL
+        amount: 33
+      '19':
+        type: COAL
+        amount: 27
+      '21':
+        type: SHEARS
+        damage: 45
+      '24':
+        type: GLASS
+        amount: 24
+      '26':
+        type: LEAVES
+        amount: 4
+      '28':
+        type: BUCKET
+      '29':
+        type: TORCH
+        amount: 44
+      '30':
+        type: TORCH
+        amount: 64
+      '31':
+        type: STICK
+        amount: 64
+      '32':
+        type: STRING
+        amount: 5
+      '33':
+        type: IRON_SPADE
+      '34':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '35':
+        type: STICK
+        amount: 64
+  '31':
+    Time: 1460146826058
+    Exp: 10966
+    Health: 9.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 294.45554235531665
+      y: 63.0
+      z: 1188.3438549404718
+      pitch: 16.800062
+      yaw: 6.9108887
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 57
+      '1':
+        type: IRON_AXE
+        damage: 84
+      '2':
+        type: STICK
+        amount: 61
+      '3':
+        type: DIRT
+        amount: 25
+      '4':
+        type: IRON_PICKAXE
+        damage: 205
+      '5':
+        type: LOG
+        damage: 2
+        amount: 2
+      '6':
+        type: RABBIT
+      '7':
+        type: WOOD
+        damage: 2
+        amount: 56
+      '8':
+        type: FENCE
+        amount: 20
+      '9':
+        type: APPLE
+      '14':
+        type: EGG
+        amount: 2
+      '15':
+        type: ARROW
+        amount: 4
+      '17':
+        type: RAW_CHICKEN
+      '18':
+        type: COAL
+        amount: 33
+      '19':
+        type: COAL
+        amount: 27
+      '21':
+        type: SHEARS
+        damage: 45
+      '24':
+        type: GLASS
+        amount: 24
+      '26':
+        type: LEAVES
+        amount: 4
+      '28':
+        type: BUCKET
+      '29':
+        type: TORCH
+        amount: 44
+      '30':
+        type: TORCH
+        amount: 64
+      '31':
+        type: STICK
+        amount: 64
+      '32':
+        type: STRING
+        amount: 5
+      '33':
+        type: IRON_SPADE
+      '34':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '35':
+        type: STICK
+        amount: 64
+  '32':
+    Time: 1460883173257
+    Exp: 10966
+    Health: 9.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 294.45554235531665
+      y: 63.0
+      z: 1188.3438549404718
+      pitch: 16.800062
+      yaw: 6.9108887
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 57
+      '1':
+        type: IRON_AXE
+        damage: 84
+      '2':
+        type: STICK
+        amount: 61
+      '3':
+        type: DIRT
+        amount: 25
+      '4':
+        type: IRON_PICKAXE
+        damage: 205
+      '5':
+        type: LOG
+        damage: 2
+        amount: 2
+      '6':
+        type: RABBIT
+      '7':
+        type: WOOD
+        damage: 2
+        amount: 56
+      '8':
+        type: FENCE
+        amount: 20
+      '9':
+        type: APPLE
+      '14':
+        type: EGG
+        amount: 2
+      '15':
+        type: ARROW
+        amount: 4
+      '17':
+        type: RAW_CHICKEN
+      '18':
+        type: COAL
+        amount: 33
+      '19':
+        type: COAL
+        amount: 27
+      '21':
+        type: SHEARS
+        damage: 45
+      '24':
+        type: GLASS
+        amount: 24
+      '26':
+        type: LEAVES
+        amount: 4
+      '28':
+        type: BUCKET
+      '29':
+        type: TORCH
+        amount: 44
+      '30':
+        type: TORCH
+        amount: 64
+      '31':
+        type: STICK
+        amount: 64
+      '32':
+        type: STRING
+        amount: 5
+      '33':
+        type: IRON_SPADE
+      '34':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '35':
+        type: STICK
+        amount: 64
+  '33':
+    Time: 1462120697997
+    Exp: 10966
+    Health: 9.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 294.45554235531665
+      y: 63.0
+      z: 1188.3438549404718
+      pitch: 16.800062
+      yaw: 6.9108887
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 57
+      '1':
+        type: IRON_AXE
+        damage: 84
+      '2':
+        type: STICK
+        amount: 61
+      '3':
+        type: DIRT
+        amount: 25
+      '4':
+        type: IRON_PICKAXE
+        damage: 205
+      '5':
+        type: LOG
+        damage: 2
+        amount: 2
+      '6':
+        type: RABBIT
+      '7':
+        type: WOOD
+        damage: 2
+        amount: 56
+      '8':
+        type: FENCE
+        amount: 20
+      '9':
+        type: APPLE
+      '14':
+        type: EGG
+        amount: 2
+      '15':
+        type: ARROW
+        amount: 4
+      '17':
+        type: RAW_CHICKEN
+      '18':
+        type: COAL
+        amount: 33
+      '19':
+        type: COAL
+        amount: 27
+      '21':
+        type: SHEARS
+        damage: 45
+      '24':
+        type: GLASS
+        amount: 24
+      '26':
+        type: LEAVES
+        amount: 4
+      '28':
+        type: BUCKET
+      '29':
+        type: TORCH
+        amount: 44
+      '30':
+        type: TORCH
+        amount: 64
+      '31':
+        type: STICK
+        amount: 64
+      '32':
+        type: STRING
+        amount: 5
+      '33':
+        type: IRON_SPADE
+      '34':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '35':
+        type: STICK
+        amount: 64
+  '34':
+    Time: 1462483222260
+    Exp: 10966
+    Health: 9.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 294.45554235531665
+      y: 63.0
+      z: 1188.3438549404718
+      pitch: 16.800062
+      yaw: 6.9108887
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 57
+      '1':
+        type: IRON_AXE
+        damage: 84
+      '2':
+        type: STICK
+        amount: 61
+      '3':
+        type: DIRT
+        amount: 25
+      '4':
+        type: IRON_PICKAXE
+        damage: 205
+      '5':
+        type: LOG
+        damage: 2
+        amount: 2
+      '6':
+        type: RABBIT
+      '7':
+        type: WOOD
+        damage: 2
+        amount: 56
+      '8':
+        type: FENCE
+        amount: 20
+      '9':
+        type: APPLE
+      '14':
+        type: EGG
+        amount: 2
+      '15':
+        type: ARROW
+        amount: 4
+      '17':
+        type: RAW_CHICKEN
+      '18':
+        type: COAL
+        amount: 33
+      '19':
+        type: COAL
+        amount: 27
+      '21':
+        type: SHEARS
+        damage: 45
+      '24':
+        type: GLASS
+        amount: 24
+      '26':
+        type: LEAVES
+        amount: 4
+      '28':
+        type: BUCKET
+      '29':
+        type: TORCH
+        amount: 44
+      '30':
+        type: TORCH
+        amount: 64
+      '31':
+        type: STICK
+        amount: 64
+      '32':
+        type: STRING
+        amount: 5
+      '33':
+        type: IRON_SPADE
+      '34':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '35':
+        type: STICK
+        amount: 64

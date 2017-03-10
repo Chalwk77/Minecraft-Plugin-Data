@@ -1,0 +1,793 @@
+Inventories:
+  '40':
+    Time: 1460291464140
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2883.2638182823516
+      y: 65.0
+      z: 3418.7703156337475
+      pitch: 6.5999985
+      yaw: -160.42795
+    Items:
+      '0':
+        type: COOKED_CHICKEN
+        amount: 16
+      '9':
+        type: COAL
+        amount: 12
+      '10':
+        type: BAKED_POTATO
+        amount: 3
+      '11':
+        type: STRING
+      '12':
+        type: TORCH
+      '13':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '14':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '15':
+        type: REDSTONE
+        amount: 21
+      '16':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '17':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '18':
+        type: ARROW
+        amount: 64
+      '19':
+        type: SPIDER_EYE
+        amount: 11
+      '20':
+        type: RABBIT_STEW
+      '21':
+        type: SLIME_BALL
+        amount: 35
+      '22':
+        type: ARROW
+        amount: 20
+      '23':
+        type: BONE
+        amount: 64
+      '24':
+        type: INK_SACK
+        damage: 4
+        amount: 10
+      '25':
+        type: STONE
+        damage: 5
+        amount: 11
+      '26':
+        type: COBBLESTONE
+        amount: 32
+      '27':
+        type: MELON
+        amount: 3
+      '28':
+        type: COAL
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Carbon
+      '29':
+        type: COOKED_BEEF
+        amount: 64
+      '30':
+        type: BOW
+        damage: 162
+      '31':
+        type: BONE
+        amount: 38
+  '41':
+    Time: 1460883168329
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2868.731122459646
+      y: 68.501384856372
+      z: 3411.5940533187336
+      pitch: -90.0
+      yaw: -12.078613
+    Items:
+      '0':
+        type: COOKED_CHICKEN
+        amount: 10
+      '1':
+        type: COAL
+        amount: 12
+      '2':
+        type: BAKED_POTATO
+        amount: 3
+      '3':
+        type: STRING
+      '4':
+        type: TORCH
+      '5':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '6':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '7':
+        type: REDSTONE
+        amount: 21
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '9':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '10':
+        type: ARROW
+        amount: 64
+      '11':
+        type: SPIDER_EYE
+        amount: 11
+      '12':
+        type: RABBIT_STEW
+      '13':
+        type: SLIME_BALL
+        amount: 35
+      '14':
+        type: ARROW
+        amount: 20
+      '15':
+        type: BONE
+        amount: 64
+      '16':
+        type: INK_SACK
+        damage: 4
+        amount: 10
+      '17':
+        type: STONE
+        damage: 5
+        amount: 11
+      '18':
+        type: COBBLESTONE
+        amount: 32
+      '19':
+        type: MELON
+        amount: 3
+      '20':
+        type: COAL
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Carbon
+      '21':
+        type: COOKED_BEEF
+        amount: 64
+      '22':
+        type: BOW
+        damage: 162
+      '23':
+        type: BONE
+        amount: 38
+  '42':
+    Time: 1461470606068
+    Exp: 107
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703867.750800606
+      y: 77.0
+      z: 446387.6190374842
+      pitch: 17.121557
+      yaw: -34.95755
+    Items:
+      '0':
+        type: COOKED_CHICKEN
+        amount: 10
+      '1':
+        type: COAL
+        amount: 12
+      '2':
+        type: BAKED_POTATO
+        amount: 3
+      '3':
+        type: STRING
+      '4':
+        type: DIAMOND_SWORD
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '6':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '7':
+        type: REDSTONE
+        amount: 21
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '9':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '10':
+        type: ARROW
+        amount: 64
+      '11':
+        type: SPIDER_EYE
+        amount: 11
+      '12':
+        type: RABBIT_STEW
+      '13':
+        type: SLIME_BALL
+        amount: 35
+      '14':
+        type: ARROW
+        amount: 20
+      '15':
+        type: BONE
+        amount: 64
+      '16':
+        type: INK_SACK
+        damage: 4
+        amount: 10
+      '17':
+        type: STONE
+        damage: 5
+        amount: 11
+      '18':
+        type: COBBLESTONE
+        amount: 32
+      '19':
+        type: MELON
+        amount: 3
+      '20':
+        type: COAL
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Carbon
+      '21':
+        type: COOKED_BEEF
+        amount: 64
+      '22':
+        type: TORCH
+      '23':
+        type: BONE
+        amount: 38
+      '24':
+        type: PORK
+        amount: 3
+      '31':
+        type: BOW
+        damage: 162
+  '43':
+    Time: 1461470708387
+    Exp: 20
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703860.0773016337
+      y: 75.53584062504456
+      z: 446388.58562256274
+      pitch: -3.7499864
+      yaw: 30.892914
+    Items:
+      '0':
+        type: SLIME_BALL
+        amount: 35
+      '1':
+        type: DIAMOND_SWORD
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '2':
+        type: RABBIT_STEW
+      '3':
+        type: MELON
+        amount: 3
+      '4':
+        type: BOW
+        damage: 167
+      '5':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '6':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '7':
+        type: PORK
+        amount: 3
+      '8':
+        type: TORCH
+      '9':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '10':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '11':
+        type: INK_SACK
+        damage: 4
+        amount: 10
+      '12':
+        type: SPIDER_EYE
+        amount: 11
+      '13':
+        type: COBBLESTONE
+        amount: 32
+      '14':
+        type: BONE
+        amount: 64
+      '15':
+        type: COAL
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Carbon
+      '16':
+        type: BAKED_POTATO
+        amount: 3
+      '18':
+        type: STONE
+        damage: 5
+        amount: 11
+      '19':
+        type: COOKED_BEEF
+        amount: 64
+      '20':
+        type: ARROW
+        amount: 63
+      '21':
+        type: STRING
+      '22':
+        type: COAL
+        amount: 12
+      '23':
+        type: COOKED_CHICKEN
+        amount: 10
+      '24':
+        type: REDSTONE
+        amount: 21
+      '28':
+        type: SUGAR_CANE
+        amount: 14
+  '44':
+    Time: 1461470782245
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703865.6722992427
+      y: 76.0
+      z: 446384.66074792505
+      pitch: 6.3000145
+      yaw: -19.056908
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+  '45':
+    Time: 1461470862581
+    Exp: 20
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703871.5814765857
+      y: 77.0
+      z: 446384.4974886639
+      pitch: 8.099989
+      yaw: 331.6429
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 63
+      '1':
+        type: DIAMOND_SWORD
+        damage: 33
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '2':
+        type: INK_SACK
+        damage: 4
+        amount: 10
+      '3':
+        type: COOKED_CHICKEN
+        amount: 10
+      '4':
+        type: REDSTONE
+        amount: 21
+  '46':
+    Time: 1461471020139
+    Exp: 20
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703881.0000066794
+      y: 78.02442408821369
+      z: 446370.8899913083
+      pitch: -9.749974
+      yaw: 58.34367
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 44
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: GOLD_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+      '2':
+        type: STICK
+        amount: 3
+      '3':
+        type: BONE
+        amount: 64
+      '4':
+        type: STONE
+        damage: 5
+        amount: 11
+      '5':
+        type: SLIME_BALL
+        amount: 35
+      '7':
+        type: BOWL
+      '8':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '9':
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '10':
+        type: COAL
+        amount: 12
+      '11':
+        type: SUGAR_CANE
+        amount: 14
+      '12':
+        type: ARROW
+        amount: 17
+      '13':
+        type: COOKED_CHICKEN
+        amount: 10
+  '47':
+    Time: 1461471132414
+    Exp: 2
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703878.3721492976
+      y: 86.0
+      z: 446424.28199351317
+      pitch: 26.699984
+      yaw: 163.1937
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 46
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: LEATHER
+      '2':
+        type: RAW_BEEF
+      '7':
+        type: ARROW
+        amount: 14
+      '8':
+        type: BOW
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+  '48':
+    Time: 1462120692718
+    Exp: 23
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703143.0756787889
+      y: 67.0
+      z: 448215.97970709146
+      pitch: 7.0499935
+      yaw: -242.85486
+    Items:
+      '0':
+        type: RAW_BEEF
+      '1':
+        type: BOW
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: WOOL
+        amount: 9
+      '3':
+        type: COOKED_MUTTON
+        amount: 38
+      '4':
+        type: STRING
+        amount: 8
+      '5':
+        type: SPIDER_EYE
+        amount: 15
+      '6':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '7':
+        type: ROTTEN_FLESH
+        amount: 8
+      '8':
+        type: GRILLED_PORK
+        amount: 9
+      '9':
+        type: YELLOW_FLOWER
+      '10':
+        type: ARROW
+      '11':
+        type: BONE
+        amount: 9
+      '12':
+        type: BOW
+        damage: 356
+      '13':
+        type: DIAMOND_CHESTPLATE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 68
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: ELYTRA
+        damage: 16
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+  '49':
+    Time: 1462483216106
+    Exp: 23
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703143.0756787889
+      y: 67.0
+      z: 448215.97970709146
+      pitch: 7.0499935
+      yaw: -242.85486
+    Items:
+      '0':
+        type: RAW_BEEF
+      '1':
+        type: BOW
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: WOOL
+        amount: 9
+      '3':
+        type: COOKED_MUTTON
+        amount: 38
+      '4':
+        type: STRING
+        amount: 8
+      '5':
+        type: SPIDER_EYE
+        amount: 15
+      '6':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '7':
+        type: ROTTEN_FLESH
+        amount: 8
+      '8':
+        type: GRILLED_PORK
+        amount: 9
+      '9':
+        type: YELLOW_FLOWER
+      '10':
+        type: ARROW
+      '11':
+        type: BONE
+        amount: 9
+      '12':
+        type: BOW
+        damage: 356
+      '13':
+        type: DIAMOND_CHESTPLATE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 68
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: ELYTRA
+        damage: 16
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib

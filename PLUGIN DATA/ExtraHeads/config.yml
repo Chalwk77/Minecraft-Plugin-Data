@@ -1,0 +1,36 @@
+# 
+# Name: ExtraHeads
+# Author: mrCookieSlime
+# 
+# Do not modify the Config while the Server is running
+# otherwise bad things might happen!
+# 
+# This Plugin also requires CS-CoreLib to run!
+# If you don't have it installed already, its going to be
+# automatically installed for you
+# 
+# This Plugin utilises an Auto-Updater. If you want to turn that off,
+# simply set options -> auto-update to false
+chances:
+  BLAZE: 20
+  CAVE_SPIDER: 20
+  GHAST: 20
+  PIG_ZOMBIE: 20
+  ENDERMAN: 20
+  MAGMA_CUBE: 20
+  SLIME: 20
+  SPIDER: 20
+  CHICKEN: 20
+  PIG: 20
+  COW: 20
+  SQUID: 20
+  VILLAGER: 20
+  IRON_GOLEM: 20
+  MUSHROOM_COW: 20
+  OCELOT: 20
+  HORSE: 20
+  GUARDIAN: 20
+  WITHER: 20
+  ENDER_DRAGON: 20
+  WITCH: 20
+  RABBIT: 20

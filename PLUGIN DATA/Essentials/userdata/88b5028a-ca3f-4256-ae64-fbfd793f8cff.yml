@@ -1,0 +1,36 @@
+geolocation: Australia
+lastAccountName: backboi490
+timestamps:
+  login: 1470995447972
+  lastteleport: 1470036566145
+  logout: 1470995529493
+  kits:
+    dtools: 1469859432578
+    food: 1469862196079
+ipAddress: 49.193.192.89
+lastlocation:
+  world: world
+  x: 2339.237500011921
+  y: 80.0
+  z: 1854.300000011921
+  yaw: -45.370636
+  pitch: 26.29708
+mail:
+- §6[§rServer§6] §rThank you for your donation!
+logoutlocation:
+  world: world
+  x: 2341.683943162312
+  y: 80.0
+  z: 1858.036926828967
+  yaw: -288.4945
+  pitch: 26.716177
+money: '2500'
+homes:
+  home:
+    world: world
+    x: 2341.683943162312
+    y: 80.0
+    z: 1858.036926828967
+    yaw: -288.4945
+    pitch: 26.716177
+afk: false

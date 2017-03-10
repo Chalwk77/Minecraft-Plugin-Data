@@ -1,0 +1,32 @@
+lastlocation:
+  world: world
+  x: 3120.8953447025606
+  y: 64.0
+  z: 17253.046339088094
+  yaw: 176.54022
+  pitch: 10.710065
+geolocation: Belleville, Michigan, United States
+lastAccountName: YuuKasumi
+timestamps:
+  login: 1479756548350
+  lastteleport: 1479756107441
+  logout: 1479756637805
+ipAddress: 24.23.70.11
+money: '3436306.14500000000165910'
+homes:
+  home:
+    world: world
+    x: 3111.973193848923
+    y: 57.0
+    z: 17230.442529283624
+    yaw: -93.81428
+    pitch: 8.343427
+logoutlocation:
+  world: world
+  x: 3117.2438973251055
+  y: 64.0
+  z: 17230.414987811033
+  yaw: 284.25497
+  pitch: 11.881909
+afk: false
+godmode: false

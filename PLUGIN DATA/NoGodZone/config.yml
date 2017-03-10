@@ -1,0 +1,25 @@
+############################################################
+# +------------------------------------------------------+ #
+# |                     NoGodZone                        | #
+# |                    By GiansCode                      | #
+# +------------------------------------------------------+ #
+############################################################
+
+#A list of regions that when players enter, they lose their God mode. They will get it again when they leave.
+regions:
+- pvp
+- mobarena_nogodzone1
+- mobarena_nogodzone2
+- mobarena_nogodzone3
+- mobarena_nogodzone4
+- mobarena_nogodzone5
+- parkour2
+
+#A message sent to the player to let them know they are no longer in God mode.
+enterMessage: "&7[&cNo God Zone&7] &6God Mode automatically &4disabled."
+
+#A message sent to the player to let them know they are now back in God mode.
+leaveMessage: "&7[&cNo God Zone&7] &6God Mode automatically &are-enabled."
+
+#A message sent to the player when they do /god in a blocked region.
+onCommand: "&7[&cNo God Zone&7] &cYou cannot perform that command here!"

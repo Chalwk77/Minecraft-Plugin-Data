@@ -1,0 +1,30 @@
+lastAccountName: Erikhale
+timestamps:
+  login: 1469821723142
+  lastteleport: 1469823465251
+  logout: 1469825533134
+ipAddress: 70.120.201.112
+geolocation: Woodway, Texas, United States
+lastlocation:
+  world: world
+  x: -310445.8620511615
+  y: 71.0
+  z: -625929.1672031287
+  yaw: -162.00114
+  pitch: 13.561971
+homes:
+  home:
+    world: world
+    x: -6276.495421417419
+    y: 72.0
+    z: 6031.15129235526
+    yaw: 270.6229
+    pitch: 18.79314
+money: '2500'
+logoutlocation:
+  world: world
+  x: -6237.300000011921
+  y: 65.0
+  z: 6017.818492953593
+  yaw: -67.73657
+  pitch: 17.112087

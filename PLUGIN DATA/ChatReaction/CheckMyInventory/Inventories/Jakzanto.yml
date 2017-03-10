@@ -1,0 +1,1336 @@
+Inventories:
+  '5':
+    Time: 1459156738112
+    Exp: 43
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 999217.3000000119
+      y: 19.30421341792974
+      z: -325.30000001192093
+      pitch: 1.4999734
+      yaw: -109.64014
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '3':
+        type: DIAMOND_SWORD
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '4':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '5':
+        type: COOKED_CHICKEN
+        amount: 60
+      '6':
+        type: STRING
+        amount: 2
+      '7':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '8':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Coconut Sapling
+      '9':
+        type: PORK
+        amount: 64
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 18
+      '13':
+        type: COOKED_FISH
+        amount: 10
+      '14':
+        type: MELON
+        amount: 5
+      '16':
+        type: MELON_SEEDS
+      '17':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '19':
+        type: BOWL
+      '22':
+        type: SULPHUR
+        amount: 10
+      '23':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '24':
+        type: SAPLING
+        damage: 5
+      '25':
+        type: SEEDS
+        amount: 20
+      '26':
+        type: LEATHER
+      '30':
+        type: WOOD
+        damage: 1
+        amount: 26
+      '31':
+        type: BONE
+        amount: 2
+      '32':
+        type: DIAMOND_SWORD
+      '33':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '34':
+        type: COBBLESTONE
+        amount: 2
+      '35':
+        type: COOKED_BEEF
+        amount: 61
+  '6':
+    Time: 1459465466726
+    Exp: 43
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 14.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 816.1555183679325
+      y: 64.29014401021043
+      z: 609.6526511463558
+      pitch: 5.549987
+      yaw: -83.25079
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: STRING
+        amount: 2
+      '4':
+        type: PORK
+        amount: 4
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 14
+      '6':
+        type: COOKED_FISH
+        amount: 10
+      '7':
+        type: MELON
+        amount: 5
+      '9':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '10':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '11':
+        type: SAPLING
+        damage: 5
+      '12':
+        type: LEATHER
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 26
+      '14':
+        type: BONE
+        amount: 2
+      '15':
+        type: DIAMOND_SWORD
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '17':
+        type: COOKED_BEEF
+        amount: 61
+      '22':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '23':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '24':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '28':
+        type: COOKED_CHICKEN
+        amount: 60
+      '35':
+        type: MELON_SEEDS
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 49
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 52
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 52
+      '39':
+        type: DIAMOND_HELMET
+        damage: 51
+  '7':
+    Time: 1459469875178
+    Exp: 43
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 14.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 816.1555183679325
+      y: 64.29014401021043
+      z: 609.6526511463558
+      pitch: 5.549987
+      yaw: -83.25079
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: STRING
+        amount: 2
+      '4':
+        type: PORK
+        amount: 4
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 14
+      '6':
+        type: COOKED_FISH
+        amount: 10
+      '7':
+        type: MELON
+        amount: 5
+      '9':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '10':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '11':
+        type: SAPLING
+        damage: 5
+      '12':
+        type: LEATHER
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 26
+      '14':
+        type: BONE
+        amount: 2
+      '15':
+        type: DIAMOND_SWORD
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '17':
+        type: COOKED_BEEF
+        amount: 61
+      '22':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '23':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '24':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '28':
+        type: COOKED_CHICKEN
+        amount: 60
+      '35':
+        type: MELON_SEEDS
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 49
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 52
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 52
+      '39':
+        type: DIAMOND_HELMET
+        damage: 51
+  '8':
+    Time: 1459659264917
+    Exp: 43
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 14.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 816.1555183679325
+      y: 64.29014401021043
+      z: 609.6526511463558
+      pitch: 5.549987
+      yaw: -83.25079
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: STRING
+        amount: 2
+      '4':
+        type: PORK
+        amount: 4
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 14
+      '6':
+        type: COOKED_FISH
+        amount: 10
+      '7':
+        type: MELON
+        amount: 5
+      '9':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '10':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '11':
+        type: SAPLING
+        damage: 5
+      '12':
+        type: LEATHER
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 26
+      '14':
+        type: BONE
+        amount: 2
+      '15':
+        type: DIAMOND_SWORD
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '17':
+        type: COOKED_BEEF
+        amount: 61
+      '22':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '23':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '24':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '28':
+        type: COOKED_CHICKEN
+        amount: 60
+      '35':
+        type: MELON_SEEDS
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 49
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 52
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 52
+      '39':
+        type: DIAMOND_HELMET
+        damage: 51
+  '9':
+    Time: 1459766739341
+    Exp: 43
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 14.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 816.1555183679325
+      y: 64.29014401021043
+      z: 609.6526511463558
+      pitch: 5.549987
+      yaw: -83.25079
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: STRING
+        amount: 2
+      '4':
+        type: PORK
+        amount: 4
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 14
+      '6':
+        type: COOKED_FISH
+        amount: 10
+      '7':
+        type: MELON
+        amount: 5
+      '9':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '10':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '11':
+        type: SAPLING
+        damage: 5
+      '12':
+        type: LEATHER
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 26
+      '14':
+        type: BONE
+        amount: 2
+      '15':
+        type: DIAMOND_SWORD
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '17':
+        type: COOKED_BEEF
+        amount: 61
+      '22':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '23':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '24':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '28':
+        type: COOKED_CHICKEN
+        amount: 60
+      '35':
+        type: MELON_SEEDS
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 49
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 52
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 52
+      '39':
+        type: DIAMOND_HELMET
+        damage: 51
+  '10':
+    Time: 1459847490309
+    Exp: 43
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 14.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 816.1555183679325
+      y: 64.29014401021043
+      z: 609.6526511463558
+      pitch: 5.549987
+      yaw: -83.25079
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: STRING
+        amount: 2
+      '4':
+        type: PORK
+        amount: 4
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 14
+      '6':
+        type: COOKED_FISH
+        amount: 10
+      '7':
+        type: MELON
+        amount: 5
+      '9':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '10':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '11':
+        type: SAPLING
+        damage: 5
+      '12':
+        type: LEATHER
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 26
+      '14':
+        type: BONE
+        amount: 2
+      '15':
+        type: DIAMOND_SWORD
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '17':
+        type: COOKED_BEEF
+        amount: 61
+      '22':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '23':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '24':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '28':
+        type: COOKED_CHICKEN
+        amount: 60
+      '35':
+        type: MELON_SEEDS
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 49
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 52
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 52
+      '39':
+        type: DIAMOND_HELMET
+        damage: 51
+  '11':
+    Time: 1460146825471
+    Exp: 43
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 14.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 816.1555183679325
+      y: 64.29014401021043
+      z: 609.6526511463558
+      pitch: 5.549987
+      yaw: -83.25079
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: STRING
+        amount: 2
+      '4':
+        type: PORK
+        amount: 4
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 14
+      '6':
+        type: COOKED_FISH
+        amount: 10
+      '7':
+        type: MELON
+        amount: 5
+      '9':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '10':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '11':
+        type: SAPLING
+        damage: 5
+      '12':
+        type: LEATHER
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 26
+      '14':
+        type: BONE
+        amount: 2
+      '15':
+        type: DIAMOND_SWORD
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '17':
+        type: COOKED_BEEF
+        amount: 61
+      '22':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '23':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '24':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '28':
+        type: COOKED_CHICKEN
+        amount: 60
+      '35':
+        type: MELON_SEEDS
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 49
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 52
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 52
+      '39':
+        type: DIAMOND_HELMET
+        damage: 51
+  '12':
+    Time: 1460883172740
+    Exp: 43
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 14.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 816.1555183679325
+      y: 64.29014401021043
+      z: 609.6526511463558
+      pitch: 5.549987
+      yaw: -83.25079
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: STRING
+        amount: 2
+      '4':
+        type: PORK
+        amount: 4
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 14
+      '6':
+        type: COOKED_FISH
+        amount: 10
+      '7':
+        type: MELON
+        amount: 5
+      '9':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '10':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '11':
+        type: SAPLING
+        damage: 5
+      '12':
+        type: LEATHER
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 26
+      '14':
+        type: BONE
+        amount: 2
+      '15':
+        type: DIAMOND_SWORD
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '17':
+        type: COOKED_BEEF
+        amount: 61
+      '22':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '23':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '24':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '28':
+        type: COOKED_CHICKEN
+        amount: 60
+      '35':
+        type: MELON_SEEDS
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 49
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 52
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 52
+      '39':
+        type: DIAMOND_HELMET
+        damage: 51
+  '13':
+    Time: 1462120697441
+    Exp: 43
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 14.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 816.1555183679325
+      y: 64.29014401021043
+      z: 609.6526511463558
+      pitch: 5.549987
+      yaw: -83.25079
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: STRING
+        amount: 2
+      '4':
+        type: PORK
+        amount: 4
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 14
+      '6':
+        type: COOKED_FISH
+        amount: 10
+      '7':
+        type: MELON
+        amount: 5
+      '9':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '10':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '11':
+        type: SAPLING
+        damage: 5
+      '12':
+        type: LEATHER
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 26
+      '14':
+        type: BONE
+        amount: 2
+      '15':
+        type: DIAMOND_SWORD
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '17':
+        type: COOKED_BEEF
+        amount: 61
+      '22':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '23':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '24':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '28':
+        type: COOKED_CHICKEN
+        amount: 60
+      '35':
+        type: MELON_SEEDS
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 49
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 52
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 52
+      '39':
+        type: DIAMOND_HELMET
+        damage: 51
+  '14':
+    Time: 1462483221633
+    Exp: 43
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 14.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 816.1555183679325
+      y: 64.29014401021043
+      z: 609.6526511463558
+      pitch: 5.549987
+      yaw: -83.25079
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: STRING
+        amount: 2
+      '4':
+        type: PORK
+        amount: 4
+      '5':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 14
+      '6':
+        type: COOKED_FISH
+        amount: 10
+      '7':
+        type: MELON
+        amount: 5
+      '9':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '10':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '11':
+        type: SAPLING
+        damage: 5
+      '12':
+        type: LEATHER
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 26
+      '14':
+        type: BONE
+        amount: 2
+      '15':
+        type: DIAMOND_SWORD
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '17':
+        type: COOKED_BEEF
+        amount: 61
+      '22':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '23':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '24':
+        type: DIAMOND_AXE
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '28':
+        type: COOKED_CHICKEN
+        amount: 60
+      '35':
+        type: MELON_SEEDS
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 49
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 52
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 52
+      '39':
+        type: DIAMOND_HELMET
+        damage: 51

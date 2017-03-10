@@ -1,0 +1,70 @@
+lastAccountName: NelsonW
+timestamps:
+  login: 1477098900036
+  lastteleport: 1477098920945
+  logout: 1477098953729
+  jail: 0
+  kits:
+    citizen: 1457171730905
+    mod: 1457085737941
+    color: 1456990086332
+    banner: 1456988979810
+    mobeggs: 1458158657943
+    dtools: 1474670003239
+    food: 1474689678826
+    sfdrinks: 1457087010059
+    mccharacter: 1457949043994
+    donor: 1456987552931
+    jesus: 1456996837810
+    wekit: 1456992674854
+    iron: 1457129525839
+    overlord: 1459766962069
+ipAddress: 101.191.109.189
+geolocation: Australia
+lastlocation:
+  world: world
+  x: -1610.0
+  y: 77.0
+  z: -1044.0
+  yaw: 167.54999
+  pitch: 64.65
+money: '377698.2715333333332870'
+logoutlocation:
+  world: world
+  x: 14096.659909451522
+  y: 64.0
+  z: -15442.003462928795
+  yaw: -319.92212
+  pitch: 16.799992
+homes:
+  home:
+    world: world
+    x: 14129.749543834692
+    y: 64.0
+    z: -15421.835469526037
+    yaw: -159.72209
+    pitch: 16.799995
+  spawners:
+    world: world_nether
+    x: -2158.363160106884
+    y: 32.0
+    z: 142.52764559323558
+    yaw: 207.70203
+    pitch: 28.649778
+  ig:
+    world: world
+    x: -7576.104676894703
+    y: 63.0
+    z: 24825.356916333672
+    yaw: -41.399994
+    pitch: 30.749996
+  ruin:
+    world: world
+    x: 947.7922278145636
+    y: 61.0
+    z: -2252.2393200214365
+    yaw: 88.11228
+    pitch: 41.121357
+jailed: false
+afk: false
+godmode: false

@@ -1,0 +1,34 @@
+Keys: 0
+Ammo:
+  batblaster: 0
+  chickenator: 88
+  colorbomb: 0
+  discoball: 0
+  etherealpearl: 46
+  fleshhook: 0
+  melonthrower: 0
+  blizzardblaster: 0
+  portalgun: 0
+  explosivesheep: 71
+  paintballgun: 0
+  thorhammer: 0
+  antigravity: 0
+  smashdown: 0
+  blackhole: 0
+  tsunami: 24
+  tnt: 82
+  fungun: 0
+  parachute: 0
+  quakegun: 0
+  ghostparty: 0
+  firework: 0
+  christmastree: 0
+  freezecannon: 0
+  snowball: 0
+  partypopper: 0
+  trampoline: 47
+  rocket: 0
+Gadgets-Enabled: true
+Third-Person-Morph-View: true
+Pet-Names:
+  Cow: Slave

@@ -1,0 +1,7 @@
+PlayerLastName: stigcrafter
+EnderChestSize: 18
+EnderChestInventory:
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: COBBLESTONE
+    amount: 64

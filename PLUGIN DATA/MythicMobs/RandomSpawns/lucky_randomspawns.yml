@@ -1,0 +1,19 @@
+########################################################################
+###                                                                    #
+###   Lucky Blocks v0.dev6                                             #
+###                                                                    #
+###   Designed for MythicMobs 2.4.4 / Spigot 1.9.x                     #
+###                                                                    #
+###   Created by jaylawl                                               #
+###   Contact: jaylawlMC@gmail.com                                     #
+###                                                                    #
+########################################################################
+lucky_block_randomspawns:
+  Type: lucky_block
+  Worlds: world
+  Chance: 0.001
+  Priority: 1
+  Action: add
+  Conditions:
+  - inblock air
+########################################################################

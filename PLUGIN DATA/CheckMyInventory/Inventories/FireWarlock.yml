@@ -1,0 +1,855 @@
+Inventories:
+  '4':
+    Time: 1479800507202
+    DeathReasson: Unknown
+    Exp: 214262
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1620.699999988079
+      y: 68.21589434553873
+      z: -1009.7556272267908
+      pitch: 34.61632
+      yaw: -193.00357
+  '5':
+    Time: 1479800517110
+    DeathReasson: Unknown
+    Exp: 214262
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1612.5657640532795
+      y: 68.30543845175121
+      z: -1003.6453625284176
+      pitch: 23.915724
+      yaw: -42.167137
+  '6':
+    Time: 1479800546877
+    DeathReasson: Unknown
+    Exp: 214262
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1620.699999988079
+      y: 68.21589434553873
+      z: -1009.6969096823595
+      pitch: 43.846973
+      yaw: 82.865585
+  '7':
+    Time: 1479800602378
+    DeathReasson: Unknown
+    Exp: 214262
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1615.066475979724
+      y: 68.01249701414868
+      z: -998.8710960945713
+      pitch: 34.824574
+      yaw: 59.789116
+  '8':
+    Time: 1479800611923
+    DeathReasson: Unknown
+    Exp: 214262
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1611.0823645770415
+      y: 68.67109571500066
+      z: -1001.3390268149788
+      pitch: 32.936497
+      yaw: 36.083336
+  '9':
+    Time: 1479893947376
+    Killer: Arrow
+    DeathReasson: Projectile
+    Exp: 215187
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.40000057
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -29019.1764775389
+      y: 64.05789149971963
+      z: -18536.21163553681
+      pitch: 27.060888
+      yaw: -136.31677
+    Items:
+      '0':
+        type: DIAMOND_SPADE
+        damage: 1110
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 1
+          repair-cost: 3
+      '1':
+        type: DIAMOND_AXE
+        damage: 190
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: GOLD_NUGGET
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '3':
+        type: DIRT
+        amount: 64
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+      '5':
+        type: ANVIL
+        damage: 2
+        amount: 2
+      '6':
+        type: DIAMOND
+        amount: 13
+      '7':
+        type: DIRT
+        amount: 57
+      '8':
+        type: DIAMOND_PICKAXE
+        damage: 673
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §6Slots 4
+          - §7Haste III
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            MENDING: 1
+          repair-cost: 31
+      '9':
+        type: WORKBENCH
+      '10':
+        type: RED_ROSE
+        amount: 5
+      '11':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Corn Plant
+      '12':
+        type: WOOD
+        amount: 19
+      '13':
+        type: STAINED_CLAY
+        damage: 14
+        amount: 64
+      '14':
+        type: SEEDS
+        amount: 41
+      '15':
+        type: DIRT
+        amount: 64
+      '16':
+        type: CARPET
+        damage: 3
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 64
+      '18':
+        type: SEA_LANTERN
+        amount: 64
+      '19':
+        type: DIAMOND_CHESTPLATE
+        damage: 205
+      '20':
+        type: POTATO_ITEM
+      '21':
+        type: STONE
+        amount: 3
+      '22':
+        type: IRON_PICKAXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDevil's Sun
+          lore:
+          - §c- Fast Digging 6
+          - §c+ Luck 4
+          enchants:
+            SILK_TOUCH: 8
+            PROTECTION_FIRE: 3
+            DAMAGE_ARTHROPODS: 1
+            WATER_WORKER: 4
+      '23':
+        type: ROTTEN_FLESH
+        amount: 11
+      '24':
+        type: DIRT
+        amount: 64
+      '25':
+        type: BONE
+      '26':
+        type: RED_ROSE
+        damage: 3
+      '27':
+        type: SHEARS
+        damage: 120
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7§kAnalize meh
+          lore:
+          - ''
+          - §7§oUnanalized
+      '28':
+        type: SEA_LANTERN
+        amount: 58
+      '29':
+        type: DIRT
+        amount: 64
+      '30':
+        type: DIRT
+        amount: 64
+      '31':
+        type: BRICK
+        amount: 63
+      '32':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nParalyze II
+          lore:
+          - §lRune of Paralyze II
+          - §6Armour Enchant
+          - §7Place the Rune on armour to enchant.
+      '33':
+        type: DIRT
+        amount: 64
+      '34':
+        type: SIGN
+        amount: 5
+      '35':
+        type: DIRT
+        amount: 64
+      '38':
+        type: ELYTRA
+        damage: 117
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7§kAnalize meh
+          lore:
+          - ''
+          - §7§oUnanalized
+      '40':
+        type: GOLDEN_CARROT
+        amount: 29
+  '10':
+    Time: 1480157924293
+    Killer: Small Fireball
+    DeathReasson: Projectile
+    Exp: 218211
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -11669.347292680173
+      y: 63.0
+      z: -9334.699999988079
+      pitch: -52.235325
+      yaw: -299.58606
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 333
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §6Slots 4
+          - §7Haste III
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            MENDING: 1
+          repair-cost: 63
+      '1':
+        type: DIAMOND_AXE
+        damage: 63
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+          repair-cost: 1
+      '2':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 1
+          repair-cost: 7
+      '3':
+        type: IRON_PICKAXE
+        damage: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: aDevil's Sun
+          lore:
+          - §c- Fast Digging 6
+          - §c+ Luck 4
+          - §6Slots 4
+          - §7Haste III
+          enchants:
+            SILK_TOUCH: 8
+            PROTECTION_FIRE: 3
+            DAMAGE_ARTHROPODS: 1
+            WATER_WORKER: 4
+            MENDING: 1
+          repair-cost: 15
+      '4':
+        type: SEA_LANTERN
+        amount: 64
+      '5':
+        type: SMOOTH_BRICK
+        damage: 3
+        amount: 60
+      '6':
+        type: SMOOTH_BRICK
+        amount: 64
+      '7':
+        type: SMOOTH_BRICK
+        damage: 2
+        amount: 64
+      '8':
+        type: HOPPER
+      '9':
+        type: COBBLESTONE
+        amount: 64
+      '10':
+        type: STONE
+        amount: 64
+      '11':
+        type: SANDSTONE
+        damage: 2
+        amount: 16
+      '12':
+        type: STONE
+        damage: 5
+        amount: 24
+      '13':
+        type: STAINED_CLAY
+        damage: 14
+        amount: 64
+      '14':
+        type: STONE
+        damage: 1
+        amount: 24
+      '15':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nPyromaniac IV
+          lore:
+          - §lRune of Pyromaniac IV
+          - §6Armour Enchant
+          - §7Place the Rune on Armour to enchant.
+      '16':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nFlame Cloak II
+          lore:
+          - §lRune of Flame Cloak II
+          - §6Armour Enchant
+          - §7Place the Rune on Armour to enchant.
+      '17':
+        type: COAL
+        amount: 6
+      '18':
+        type: STAINED_GLASS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Rainbow Glass §7(Valentine's Day)
+          lore:
+          - ''
+          - §d< Valentine's Day Edition >
+      '19':
+        type: SMOOTH_BRICK
+        amount: 64
+      '20':
+        type: ANVIL
+        damage: 1
+      '21':
+        type: STONE
+        damage: 3
+        amount: 2
+      '22':
+        type: GOLDEN_CARROT
+        amount: 15
+      '23':
+        type: ANVIL
+        amount: 4
+      '24':
+        type: STONE
+        amount: 17
+      '26':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nSwimmer II
+          lore:
+          - §lRune of Swimmer II
+          - §a67% Success Rate and §c33% Destroy Rate.
+          - §6Helmet Enchant
+          - §7Place the Rune on a helmet to enchant.
+      '35':
+        type: COBBLESTONE
+        amount: 52
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 254
+      '40':
+        type: TORCH
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aLight the way...
+          enchants:
+            DAMAGE_UNDEAD: 65535
+  '11':
+    Time: 1480157955373
+    Killer: Blaze
+    DeathReasson: Entity attack
+    Exp: 218221
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -11672.272761330098
+      y: 63.0
+      z: -9341.564503789827
+      pitch: 19.52251
+      yaw: 108.221634
+    Items:
+      '0':
+        type: BLAZE_ROD
+      '1':
+        type: IRON_PICKAXE
+        damage: 33
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: aDevil's Sun
+          lore:
+          - §c- Fast Digging 6
+          - §c+ Luck 4
+          - §6Slots 4
+          - §7Haste III
+          enchants:
+            SILK_TOUCH: 8
+            PROTECTION_FIRE: 3
+            DAMAGE_ARTHROPODS: 1
+            WATER_WORKER: 4
+            MENDING: 1
+          repair-cost: 15
+      '2':
+        type: TORCH
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aLight the way...
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '3':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 1
+          repair-cost: 7
+      '4':
+        type: HOPPER
+      '5':
+        type: STAINED_CLAY
+        damage: 14
+        amount: 64
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: STONE
+        amount: 64
+      '8':
+        type: STONE
+        amount: 17
+      '9':
+        type: STONE
+        damage: 5
+        amount: 27
+      '10':
+        type: SMOOTH_BRICK
+        damage: 2
+        amount: 64
+      '11':
+        type: STONE
+        damage: 1
+        amount: 24
+      '12':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nFlame Cloak II
+          lore:
+          - §lRune of Flame Cloak II
+          - §6Armour Enchant
+          - §7Place the Rune on Armour to enchant.
+      '13':
+        type: COAL
+        amount: 6
+      '14':
+        type: STAINED_GLASS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Rainbow Glass §7(Valentine's Day)
+          lore:
+          - ''
+          - §d< Valentine's Day Edition >
+      '15':
+        type: ANVIL
+        damage: 1
+      '16':
+        type: ANVIL
+        amount: 4
+      '17':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nSwimmer II
+          lore:
+          - §lRune of Swimmer II
+          - §a67% Success Rate and §c33% Destroy Rate.
+          - §6Helmet Enchant
+          - §7Place the Rune on a helmet to enchant.
+      '18':
+        type: DIAMOND_CHESTPLATE
+        damage: 254
+      '19':
+        type: SMOOTH_BRICK
+        amount: 64
+      '20':
+        type: SMOOTH_BRICK
+        damage: 3
+        amount: 61
+      '21':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nPyromaniac IV
+          lore:
+          - §lRune of Pyromaniac IV
+          - §6Armour Enchant
+          - §7Place the Rune on Armour to enchant.
+      '22':
+        type: SMOOTH_BRICK
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 52
+      '25':
+        type: GOLDEN_CARROT
+        amount: 15
+      '26':
+        type: DIAMOND_PICKAXE
+        damage: 333
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §6Slots 4
+          - §7Haste III
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            MENDING: 1
+          repair-cost: 63
+      '27':
+        type: DIAMOND_AXE
+        damage: 63
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+          repair-cost: 1
+      '28':
+        type: STONE
+        damage: 3
+        amount: 2
+      '29':
+        type: SEA_LANTERN
+        amount: 64
+      '31':
+        type: SANDSTONE
+        damage: 2
+        amount: 16
+  '12':
+    Time: 1480160850871
+    Killer: §5§lEnder Warrior
+    DeathReasson: Entity attack
+    Exp: 218947
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: FAST_DIGGING
+        Duration: 100
+        Amplifier: 2
+    Location:
+      world: world
+      x: 25840.88704837729
+      y: 95.0
+      z: 778.2191089363873
+      pitch: 34.40347
+      yaw: 272.02383
+    Items:
+      '0':
+        type: REDSTONE
+        amount: 64
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 427
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §6Slots 4
+          - §7Haste III
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            MENDING: 1
+          repair-cost: 63
+      '2':
+        type: HOPPER
+        amount: 2
+      '3':
+        type: REDSTONE_COMPARATOR
+      '4':
+        type: REDSTONE
+        amount: 64
+      '5':
+        type: SMOOTH_BRICK
+        amount: 4
+      '6':
+        type: WOOD_PLATE
+        amount: 31
+      '7':
+        type: IRON_PICKAXE
+        damage: 190
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: aDevil's Sun
+          lore:
+          - §c- Fast Digging 6
+          - §c+ Luck 4
+          - §6Slots 4
+          - §7Haste III
+          enchants:
+            SILK_TOUCH: 8
+            PROTECTION_FIRE: 3
+            DAMAGE_ARTHROPODS: 1
+            WATER_WORKER: 4
+            MENDING: 1
+          repair-cost: 15
+      '8':
+        type: PISTON_STICKY_BASE
+        amount: 62
+      '9':
+        type: DIAMOND_AXE
+        damage: 72
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §6Slots 4
+          - §7Reborn II
+          enchants:
+            DURABILITY: 1
+          repair-cost: 1
+      '10':
+        type: REDSTONE
+        amount: 64
+      '11':
+        type: SIGN
+      '12':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rEnderman Head
+          internal: H4sIAAAAAAAAAE2LzU6DQBgAP40mlPgYXkmWfzh40FopBFgLy89yo7C1wNI2FFrxqXxEe/Q4mRkRQISnuJs4/xyOu4YzAe7dGp4rrVRrxGrJ3um6pGmqJVmKZUmmoevINCpbM0sRxNt0YsPYsPMChJF9j9PAziIA3AnwmJZ8YvDLZg8V+R7Vucer2TVuTGLEsdueTPeQztula7j9za9fDX+2/7X6WGY6p6q3Lw6badunyFcjztaRXPXJJVRWMs68JnBWKiXBjAmVaRt2mLx12En3Rb/SMOFdQL5+woyioN3IwTvnNIu60EkU2lZXnH10lCRX2vK2aDx7l6MXAAEewrJnsFjGy+PA/GYL8AeiIc0MKgEAAA==
+          skull-owner: CSCoreLib
+      '13':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 1
+          repair-cost: 7
+      '14':
+        type: WOOD
+        amount: 6
+      '15':
+        type: REDSTONE
+        amount: 64
+      '16':
+        type: REDSTONE_TORCH_ON
+      '17':
+        type: REDSTONE
+        amount: 64
+      '18':
+        type: REDSTONE
+        amount: 64
+      '19':
+        type: REDSTONE
+        amount: 50
+      '20':
+        type: QUARTZ_ORE
+        amount: 15
+      '21':
+        type: INK_SACK
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '§eI.R. Mod: Dropper'
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Insert into an Item Router
+          - §7Drops items onto the ground
+          - §7in the configured direction
+          - '§7L-click Block: §r Set direction'
+          - '§7⇧ + L-click Air: §r Unset direction'
+          - §7§60 items black-listed
+          - §7§6Filter by Material
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAFWPwUrDQBCGRwylWehFPXnaW0Gw0OveAo0YSFRqiogIrtlJHcxmw+7k4Bv4Ar5D7x59JR/CVEvBuc3H98/wC4AYjhJmT889Y+EM1YQ+CAA4iGC8WmWLwgV+es+Ou6/LzwjiLcpRB96clh/n37P5CEaJdX3LsJsxTPYXr7RFOFlji56qmWbW1etCW73GQ4ivO/SaybV/qehX9oY8Vluq5G2aXwhGb6nV7LyStW4CipqaAaJR8uFxt9y9EGNDgf875VuHShZJmS6zJBfTs/L+Jp0qabzrhufWmb7BoewPhSCiIwgBAAA=
+      '25':
+        type: REDSTONE
+        amount: 64
+      '29':
+        type: SMOOTH_BRICK
+        amount: 62
+      '34':
+        type: REDSTONE
+        amount: 64
+      '35':
+        type: STICK
+        amount: 3
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 273
+  '13':
+    Time: 1480160885266
+    DeathReasson: Unknown
+    Exp: 218947
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1610.6236912489999
+      y: 68.67109571500066
+      z: -1000.865909783937
+      pitch: 25.38415
+      yaw: 50.768425

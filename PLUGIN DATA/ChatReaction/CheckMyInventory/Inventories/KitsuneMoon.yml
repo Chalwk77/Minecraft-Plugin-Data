@@ -1,0 +1,1281 @@
+Inventories:
+  '25':
+    Time: 1458455363878
+    Exp: 19033
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -15040.141749540418
+      y: 66.0
+      z: -13305.904774509392
+      pitch: 10.467062
+      yaw: 17.02124
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 1084
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+          repair-cost: 31
+      '1':
+        type: LOG
+        damage: 2
+        amount: 45
+      '2':
+        type: SAPLING
+        damage: 2
+      '5':
+        type: STRING
+        amount: 3
+      '6':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '7':
+        type: DIAMOND_SWORD
+        damage: 366
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: DIAMOND_AXE
+        damage: 317
+      '9':
+        type: WOOD
+        damage: 2
+        amount: 3
+      '10':
+        type: SULPHUR
+        amount: 22
+      '11':
+        type: ENDER_PEARL
+        amount: 15
+      '12':
+        type: BLAZE_POWDER
+        amount: 9
+      '13':
+        type: BOW
+        damage: 106
+      '14':
+        type: COBBLESTONE
+        amount: 16
+      '15':
+        type: SAPLING
+        amount: 2
+      '16':
+        type: GLASS
+        amount: 2
+      '17':
+        type: ENDER_CHEST
+      '18':
+        type: BONE
+        amount: 6
+      '19':
+        type: ARROW
+        amount: 8
+      '20':
+        type: EMERALD
+        amount: 3
+      '21':
+        type: WOOL
+      '22':
+        type: COOKED_MUTTON
+      '23':
+        type: LOG
+        amount: 19
+      '24':
+        type: FEATHER
+        amount: 10
+      '25':
+        type: CHEST
+        amount: 2
+      '27':
+        type: COOKED_CHICKEN
+      '28':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eIron Chest
+          lore:
+          - '§7Size: §e3x9'
+          internal: H4sIAAAAAAAAAE2LQW+CMBiGvy1bgmQ/Y1eSorbgYYdFp5ZInYJouYEUobZqEDbxd+0Hjuy0w3t48jyvCWDCS3BslPqsznmphAGPNINXOyeZa7uuRRLsWMN9OrSSnBDLcWzHTXE26Ge5CWZ3uoiqLsW1B0YtbnVTiasJAA8GPEeJagT8iNZD8a5A2c5T+5aSjsMAqSWVF4eeojYdU0J15+fvZNGO/rW4TrZY8YFXxKdVk+oILQZrJeZre683X3FYKBZuEJtNNetzm00OmPf9lt1X2N+ygslC8/DY+vcD4rJQPIxkLOk3l5FcTj7wcjY9cpmVsV7dfO3Jv5XeKN+hNwADnliiBfTGwfhciUWZAvwC7+Lgmi4BAAA=
+          skull-owner: CSCoreLib
+  '26':
+    Time: 1459465466693
+    Exp: 19033
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -15040.141749540418
+      y: 66.0
+      z: -13305.904774509392
+      pitch: 10.467062
+      yaw: 17.02124
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 1084
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+          repair-cost: 31
+      '1':
+        type: LOG
+        damage: 2
+        amount: 45
+      '2':
+        type: SAPLING
+        damage: 2
+      '5':
+        type: STRING
+        amount: 3
+      '6':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '7':
+        type: DIAMOND_SWORD
+        damage: 366
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: DIAMOND_AXE
+        damage: 317
+      '9':
+        type: WOOD
+        damage: 2
+        amount: 3
+      '10':
+        type: SULPHUR
+        amount: 22
+      '11':
+        type: ENDER_PEARL
+        amount: 15
+      '12':
+        type: BLAZE_POWDER
+        amount: 9
+      '13':
+        type: BOW
+        damage: 106
+      '14':
+        type: COBBLESTONE
+        amount: 16
+      '15':
+        type: SAPLING
+        amount: 2
+      '16':
+        type: GLASS
+        amount: 2
+      '17':
+        type: ENDER_CHEST
+      '18':
+        type: BONE
+        amount: 6
+      '19':
+        type: ARROW
+        amount: 8
+      '20':
+        type: EMERALD
+        amount: 3
+      '21':
+        type: WOOL
+      '22':
+        type: COOKED_MUTTON
+      '23':
+        type: LOG
+        amount: 19
+      '24':
+        type: FEATHER
+        amount: 10
+      '25':
+        type: CHEST
+        amount: 2
+      '27':
+        type: COOKED_CHICKEN
+      '28':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eIron Chest
+          lore:
+          - '§7Size: §e3x9'
+          internal: H4sIAAAAAAAAAE2LQW+CMBiGvy1bgmQ/Y1eSorbgYYdFp5ZInYJouYEUobZqEDbxd+0Hjuy0w3t48jyvCWDCS3BslPqsznmphAGPNINXOyeZa7uuRRLsWMN9OrSSnBDLcWzHTXE26Ge5CWZ3uoiqLsW1B0YtbnVTiasJAA8GPEeJagT8iNZD8a5A2c5T+5aSjsMAqSWVF4eeojYdU0J15+fvZNGO/rW4TrZY8YFXxKdVk+oILQZrJeZre683X3FYKBZuEJtNNetzm00OmPf9lt1X2N+ygslC8/DY+vcD4rJQPIxkLOk3l5FcTj7wcjY9cpmVsV7dfO3Jv5XeKN+hNwADnliiBfTGwfhciUWZAvwC7+Lgmi4BAAA=
+          skull-owner: CSCoreLib
+  '27':
+    Time: 1459469875147
+    Exp: 19033
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -15040.141749540418
+      y: 66.0
+      z: -13305.904774509392
+      pitch: 10.467062
+      yaw: 17.02124
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 1084
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+          repair-cost: 31
+      '1':
+        type: LOG
+        damage: 2
+        amount: 45
+      '2':
+        type: SAPLING
+        damage: 2
+      '5':
+        type: STRING
+        amount: 3
+      '6':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '7':
+        type: DIAMOND_SWORD
+        damage: 366
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: DIAMOND_AXE
+        damage: 317
+      '9':
+        type: WOOD
+        damage: 2
+        amount: 3
+      '10':
+        type: SULPHUR
+        amount: 22
+      '11':
+        type: ENDER_PEARL
+        amount: 15
+      '12':
+        type: BLAZE_POWDER
+        amount: 9
+      '13':
+        type: BOW
+        damage: 106
+      '14':
+        type: COBBLESTONE
+        amount: 16
+      '15':
+        type: SAPLING
+        amount: 2
+      '16':
+        type: GLASS
+        amount: 2
+      '17':
+        type: ENDER_CHEST
+      '18':
+        type: BONE
+        amount: 6
+      '19':
+        type: ARROW
+        amount: 8
+      '20':
+        type: EMERALD
+        amount: 3
+      '21':
+        type: WOOL
+      '22':
+        type: COOKED_MUTTON
+      '23':
+        type: LOG
+        amount: 19
+      '24':
+        type: FEATHER
+        amount: 10
+      '25':
+        type: CHEST
+        amount: 2
+      '27':
+        type: COOKED_CHICKEN
+      '28':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eIron Chest
+          lore:
+          - '§7Size: §e3x9'
+          internal: H4sIAAAAAAAAAE2LQW+CMBiGvy1bgmQ/Y1eSorbgYYdFp5ZInYJouYEUobZqEDbxd+0Hjuy0w3t48jyvCWDCS3BslPqsznmphAGPNINXOyeZa7uuRRLsWMN9OrSSnBDLcWzHTXE26Ge5CWZ3uoiqLsW1B0YtbnVTiasJAA8GPEeJagT8iNZD8a5A2c5T+5aSjsMAqSWVF4eeojYdU0J15+fvZNGO/rW4TrZY8YFXxKdVk+oILQZrJeZre683X3FYKBZuEJtNNetzm00OmPf9lt1X2N+ygslC8/DY+vcD4rJQPIxkLOk3l5FcTj7wcjY9cpmVsV7dfO3Jv5XeKN+hNwADnliiBfTGwfhciUWZAvwC7+Lgmi4BAAA=
+          skull-owner: CSCoreLib
+  '28':
+    Time: 1459659264886
+    Exp: 19033
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -15040.141749540418
+      y: 66.0
+      z: -13305.904774509392
+      pitch: 10.467062
+      yaw: 17.02124
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 1084
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+          repair-cost: 31
+      '1':
+        type: LOG
+        damage: 2
+        amount: 45
+      '2':
+        type: SAPLING
+        damage: 2
+      '5':
+        type: STRING
+        amount: 3
+      '6':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '7':
+        type: DIAMOND_SWORD
+        damage: 366
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: DIAMOND_AXE
+        damage: 317
+      '9':
+        type: WOOD
+        damage: 2
+        amount: 3
+      '10':
+        type: SULPHUR
+        amount: 22
+      '11':
+        type: ENDER_PEARL
+        amount: 15
+      '12':
+        type: BLAZE_POWDER
+        amount: 9
+      '13':
+        type: BOW
+        damage: 106
+      '14':
+        type: COBBLESTONE
+        amount: 16
+      '15':
+        type: SAPLING
+        amount: 2
+      '16':
+        type: GLASS
+        amount: 2
+      '17':
+        type: ENDER_CHEST
+      '18':
+        type: BONE
+        amount: 6
+      '19':
+        type: ARROW
+        amount: 8
+      '20':
+        type: EMERALD
+        amount: 3
+      '21':
+        type: WOOL
+      '22':
+        type: COOKED_MUTTON
+      '23':
+        type: LOG
+        amount: 19
+      '24':
+        type: FEATHER
+        amount: 10
+      '25':
+        type: CHEST
+        amount: 2
+      '27':
+        type: COOKED_CHICKEN
+      '28':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eIron Chest
+          lore:
+          - '§7Size: §e3x9'
+          internal: H4sIAAAAAAAAAE2LQW+CMBiGvy1bgmQ/Y1eSorbgYYdFp5ZInYJouYEUobZqEDbxd+0Hjuy0w3t48jyvCWDCS3BslPqsznmphAGPNINXOyeZa7uuRRLsWMN9OrSSnBDLcWzHTXE26Ge5CWZ3uoiqLsW1B0YtbnVTiasJAA8GPEeJagT8iNZD8a5A2c5T+5aSjsMAqSWVF4eeojYdU0J15+fvZNGO/rW4TrZY8YFXxKdVk+oILQZrJeZre683X3FYKBZuEJtNNetzm00OmPf9lt1X2N+ygslC8/DY+vcD4rJQPIxkLOk3l5FcTj7wcjY9cpmVsV7dfO3Jv5XeKN+hNwADnliiBfTGwfhciUWZAvwC7+Lgmi4BAAA=
+          skull-owner: CSCoreLib
+  '29':
+    Time: 1459766739310
+    Exp: 19033
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -15040.141749540418
+      y: 66.0
+      z: -13305.904774509392
+      pitch: 10.467062
+      yaw: 17.02124
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 1084
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+          repair-cost: 31
+      '1':
+        type: LOG
+        damage: 2
+        amount: 45
+      '2':
+        type: SAPLING
+        damage: 2
+      '5':
+        type: STRING
+        amount: 3
+      '6':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '7':
+        type: DIAMOND_SWORD
+        damage: 366
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: DIAMOND_AXE
+        damage: 317
+      '9':
+        type: WOOD
+        damage: 2
+        amount: 3
+      '10':
+        type: SULPHUR
+        amount: 22
+      '11':
+        type: ENDER_PEARL
+        amount: 15
+      '12':
+        type: BLAZE_POWDER
+        amount: 9
+      '13':
+        type: BOW
+        damage: 106
+      '14':
+        type: COBBLESTONE
+        amount: 16
+      '15':
+        type: SAPLING
+        amount: 2
+      '16':
+        type: GLASS
+        amount: 2
+      '17':
+        type: ENDER_CHEST
+      '18':
+        type: BONE
+        amount: 6
+      '19':
+        type: ARROW
+        amount: 8
+      '20':
+        type: EMERALD
+        amount: 3
+      '21':
+        type: WOOL
+      '22':
+        type: COOKED_MUTTON
+      '23':
+        type: LOG
+        amount: 19
+      '24':
+        type: FEATHER
+        amount: 10
+      '25':
+        type: CHEST
+        amount: 2
+      '27':
+        type: COOKED_CHICKEN
+      '28':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eIron Chest
+          lore:
+          - '§7Size: §e3x9'
+          internal: H4sIAAAAAAAAAE2LQW+CMBiGvy1bgmQ/Y1eSorbgYYdFp5ZInYJouYEUobZqEDbxd+0Hjuy0w3t48jyvCWDCS3BslPqsznmphAGPNINXOyeZa7uuRRLsWMN9OrSSnBDLcWzHTXE26Ge5CWZ3uoiqLsW1B0YtbnVTiasJAA8GPEeJagT8iNZD8a5A2c5T+5aSjsMAqSWVF4eeojYdU0J15+fvZNGO/rW4TrZY8YFXxKdVk+oILQZrJeZre683X3FYKBZuEJtNNetzm00OmPf9lt1X2N+ygslC8/DY+vcD4rJQPIxkLOk3l5FcTj7wcjY9cpmVsV7dfO3Jv5XeKN+hNwADnliiBfTGwfhciUWZAvwC7+Lgmi4BAAA=
+          skull-owner: CSCoreLib
+  '30':
+    Time: 1459847490268
+    Exp: 19033
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -15040.141749540418
+      y: 66.0
+      z: -13305.904774509392
+      pitch: 10.467062
+      yaw: 17.02124
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 1084
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+          repair-cost: 31
+      '1':
+        type: LOG
+        damage: 2
+        amount: 45
+      '2':
+        type: SAPLING
+        damage: 2
+      '5':
+        type: STRING
+        amount: 3
+      '6':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '7':
+        type: DIAMOND_SWORD
+        damage: 366
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: DIAMOND_AXE
+        damage: 317
+      '9':
+        type: WOOD
+        damage: 2
+        amount: 3
+      '10':
+        type: SULPHUR
+        amount: 22
+      '11':
+        type: ENDER_PEARL
+        amount: 15
+      '12':
+        type: BLAZE_POWDER
+        amount: 9
+      '13':
+        type: BOW
+        damage: 106
+      '14':
+        type: COBBLESTONE
+        amount: 16
+      '15':
+        type: SAPLING
+        amount: 2
+      '16':
+        type: GLASS
+        amount: 2
+      '17':
+        type: ENDER_CHEST
+      '18':
+        type: BONE
+        amount: 6
+      '19':
+        type: ARROW
+        amount: 8
+      '20':
+        type: EMERALD
+        amount: 3
+      '21':
+        type: WOOL
+      '22':
+        type: COOKED_MUTTON
+      '23':
+        type: LOG
+        amount: 19
+      '24':
+        type: FEATHER
+        amount: 10
+      '25':
+        type: CHEST
+        amount: 2
+      '27':
+        type: COOKED_CHICKEN
+      '28':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eIron Chest
+          lore:
+          - '§7Size: §e3x9'
+          internal: H4sIAAAAAAAAAE2LQW+CMBiGvy1bgmQ/Y1eSorbgYYdFp5ZInYJouYEUobZqEDbxd+0Hjuy0w3t48jyvCWDCS3BslPqsznmphAGPNINXOyeZa7uuRRLsWMN9OrSSnBDLcWzHTXE26Ge5CWZ3uoiqLsW1B0YtbnVTiasJAA8GPEeJagT8iNZD8a5A2c5T+5aSjsMAqSWVF4eeojYdU0J15+fvZNGO/rW4TrZY8YFXxKdVk+oILQZrJeZre683X3FYKBZuEJtNNetzm00OmPf9lt1X2N+ygslC8/DY+vcD4rJQPIxkLOk3l5FcTj7wcjY9cpmVsV7dfO3Jv5XeKN+hNwADnliiBfTGwfhciUWZAvwC7+Lgmi4BAAA=
+          skull-owner: CSCoreLib
+  '31':
+    Time: 1460146825422
+    Exp: 19033
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -15040.141749540418
+      y: 66.0
+      z: -13305.904774509392
+      pitch: 10.467062
+      yaw: 17.02124
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 1084
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+          repair-cost: 31
+      '1':
+        type: LOG
+        damage: 2
+        amount: 45
+      '2':
+        type: SAPLING
+        damage: 2
+      '5':
+        type: STRING
+        amount: 3
+      '6':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '7':
+        type: DIAMOND_SWORD
+        damage: 366
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: DIAMOND_AXE
+        damage: 317
+      '9':
+        type: WOOD
+        damage: 2
+        amount: 3
+      '10':
+        type: SULPHUR
+        amount: 22
+      '11':
+        type: ENDER_PEARL
+        amount: 15
+      '12':
+        type: BLAZE_POWDER
+        amount: 9
+      '13':
+        type: BOW
+        damage: 106
+      '14':
+        type: COBBLESTONE
+        amount: 16
+      '15':
+        type: SAPLING
+        amount: 2
+      '16':
+        type: GLASS
+        amount: 2
+      '17':
+        type: ENDER_CHEST
+      '18':
+        type: BONE
+        amount: 6
+      '19':
+        type: ARROW
+        amount: 8
+      '20':
+        type: EMERALD
+        amount: 3
+      '21':
+        type: WOOL
+      '22':
+        type: COOKED_MUTTON
+      '23':
+        type: LOG
+        amount: 19
+      '24':
+        type: FEATHER
+        amount: 10
+      '25':
+        type: CHEST
+        amount: 2
+      '27':
+        type: COOKED_CHICKEN
+      '28':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eIron Chest
+          lore:
+          - '§7Size: §e3x9'
+          internal: H4sIAAAAAAAAAE2LQW+CMBiGvy1bgmQ/Y1eSorbgYYdFp5ZInYJouYEUobZqEDbxd+0Hjuy0w3t48jyvCWDCS3BslPqsznmphAGPNINXOyeZa7uuRRLsWMN9OrSSnBDLcWzHTXE26Ge5CWZ3uoiqLsW1B0YtbnVTiasJAA8GPEeJagT8iNZD8a5A2c5T+5aSjsMAqSWVF4eeojYdU0J15+fvZNGO/rW4TrZY8YFXxKdVk+oILQZrJeZre683X3FYKBZuEJtNNetzm00OmPf9lt1X2N+ygslC8/DY+vcD4rJQPIxkLOk3l5FcTj7wcjY9cpmVsV7dfO3Jv5XeKN+hNwADnliiBfTGwfhciUWZAvwC7+Lgmi4BAAA=
+          skull-owner: CSCoreLib
+  '32':
+    Time: 1460883172691
+    Exp: 19033
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -15040.141749540418
+      y: 66.0
+      z: -13305.904774509392
+      pitch: 10.467062
+      yaw: 17.02124
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 1084
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+          repair-cost: 31
+      '1':
+        type: LOG
+        damage: 2
+        amount: 45
+      '2':
+        type: SAPLING
+        damage: 2
+      '5':
+        type: STRING
+        amount: 3
+      '6':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '7':
+        type: DIAMOND_SWORD
+        damage: 366
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: DIAMOND_AXE
+        damage: 317
+      '9':
+        type: WOOD
+        damage: 2
+        amount: 3
+      '10':
+        type: SULPHUR
+        amount: 22
+      '11':
+        type: ENDER_PEARL
+        amount: 15
+      '12':
+        type: BLAZE_POWDER
+        amount: 9
+      '13':
+        type: BOW
+        damage: 106
+      '14':
+        type: COBBLESTONE
+        amount: 16
+      '15':
+        type: SAPLING
+        amount: 2
+      '16':
+        type: GLASS
+        amount: 2
+      '17':
+        type: ENDER_CHEST
+      '18':
+        type: BONE
+        amount: 6
+      '19':
+        type: ARROW
+        amount: 8
+      '20':
+        type: EMERALD
+        amount: 3
+      '21':
+        type: WOOL
+      '22':
+        type: COOKED_MUTTON
+      '23':
+        type: LOG
+        amount: 19
+      '24':
+        type: FEATHER
+        amount: 10
+      '25':
+        type: CHEST
+        amount: 2
+      '27':
+        type: COOKED_CHICKEN
+      '28':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eIron Chest
+          lore:
+          - '§7Size: §e3x9'
+          internal: H4sIAAAAAAAAAE2LQW+CMBiGvy1bgmQ/Y1eSorbgYYdFp5ZInYJouYEUobZqEDbxd+0Hjuy0w3t48jyvCWDCS3BslPqsznmphAGPNINXOyeZa7uuRRLsWMN9OrSSnBDLcWzHTXE26Ge5CWZ3uoiqLsW1B0YtbnVTiasJAA8GPEeJagT8iNZD8a5A2c5T+5aSjsMAqSWVF4eeojYdU0J15+fvZNGO/rW4TrZY8YFXxKdVk+oILQZrJeZre683X3FYKBZuEJtNNetzm00OmPf9lt1X2N+ygslC8/DY+vcD4rJQPIxkLOk3l5FcTj7wcjY9cpmVsV7dfO3Jv5XeKN+hNwADnliiBfTGwfhciUWZAvwC7+Lgmi4BAAA=
+          skull-owner: CSCoreLib
+  '33':
+    Time: 1462120697392
+    Exp: 19033
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -15040.141749540418
+      y: 66.0
+      z: -13305.904774509392
+      pitch: 10.467062
+      yaw: 17.02124
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 1084
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+          repair-cost: 31
+      '1':
+        type: LOG
+        damage: 2
+        amount: 45
+      '2':
+        type: SAPLING
+        damage: 2
+      '5':
+        type: STRING
+        amount: 3
+      '6':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '7':
+        type: DIAMOND_SWORD
+        damage: 366
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: DIAMOND_AXE
+        damage: 317
+      '9':
+        type: WOOD
+        damage: 2
+        amount: 3
+      '10':
+        type: SULPHUR
+        amount: 22
+      '11':
+        type: ENDER_PEARL
+        amount: 15
+      '12':
+        type: BLAZE_POWDER
+        amount: 9
+      '13':
+        type: BOW
+        damage: 106
+      '14':
+        type: COBBLESTONE
+        amount: 16
+      '15':
+        type: SAPLING
+        amount: 2
+      '16':
+        type: GLASS
+        amount: 2
+      '17':
+        type: ENDER_CHEST
+      '18':
+        type: BONE
+        amount: 6
+      '19':
+        type: ARROW
+        amount: 8
+      '20':
+        type: EMERALD
+        amount: 3
+      '21':
+        type: WOOL
+      '22':
+        type: COOKED_MUTTON
+      '23':
+        type: LOG
+        amount: 19
+      '24':
+        type: FEATHER
+        amount: 10
+      '25':
+        type: CHEST
+        amount: 2
+      '27':
+        type: COOKED_CHICKEN
+      '28':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eIron Chest
+          lore:
+          - '§7Size: §e3x9'
+          internal: H4sIAAAAAAAAAE2LQW+CMBiGvy1bgmQ/Y1eSorbgYYdFp5ZInYJouYEUobZqEDbxd+0Hjuy0w3t48jyvCWDCS3BslPqsznmphAGPNINXOyeZa7uuRRLsWMN9OrSSnBDLcWzHTXE26Ge5CWZ3uoiqLsW1B0YtbnVTiasJAA8GPEeJagT8iNZD8a5A2c5T+5aSjsMAqSWVF4eeojYdU0J15+fvZNGO/rW4TrZY8YFXxKdVk+oILQZrJeZre683X3FYKBZuEJtNNetzm00OmPf9lt1X2N+ygslC8/DY+vcD4rJQPIxkLOk3l5FcTj7wcjY9cpmVsV7dfO3Jv5XeKN+hNwADnliiBfTGwfhciUWZAvwC7+Lgmi4BAAA=
+          skull-owner: CSCoreLib
+  '34':
+    Time: 1462483221569
+    Exp: 19033
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -15040.141749540418
+      y: 66.0
+      z: -13305.904774509392
+      pitch: 10.467062
+      yaw: 17.02124
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 1084
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+          repair-cost: 31
+      '1':
+        type: LOG
+        damage: 2
+        amount: 45
+      '2':
+        type: SAPLING
+        damage: 2
+      '5':
+        type: STRING
+        amount: 3
+      '6':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '7':
+        type: DIAMOND_SWORD
+        damage: 366
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: DIAMOND_AXE
+        damage: 317
+      '9':
+        type: WOOD
+        damage: 2
+        amount: 3
+      '10':
+        type: SULPHUR
+        amount: 22
+      '11':
+        type: ENDER_PEARL
+        amount: 15
+      '12':
+        type: BLAZE_POWDER
+        amount: 9
+      '13':
+        type: BOW
+        damage: 106
+      '14':
+        type: COBBLESTONE
+        amount: 16
+      '15':
+        type: SAPLING
+        amount: 2
+      '16':
+        type: GLASS
+        amount: 2
+      '17':
+        type: ENDER_CHEST
+      '18':
+        type: BONE
+        amount: 6
+      '19':
+        type: ARROW
+        amount: 8
+      '20':
+        type: EMERALD
+        amount: 3
+      '21':
+        type: WOOL
+      '22':
+        type: COOKED_MUTTON
+      '23':
+        type: LOG
+        amount: 19
+      '24':
+        type: FEATHER
+        amount: 10
+      '25':
+        type: CHEST
+        amount: 2
+      '27':
+        type: COOKED_CHICKEN
+      '28':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eIron Chest
+          lore:
+          - '§7Size: §e3x9'
+          internal: H4sIAAAAAAAAAE2LQW+CMBiGvy1bgmQ/Y1eSorbgYYdFp5ZInYJouYEUobZqEDbxd+0Hjuy0w3t48jyvCWDCS3BslPqsznmphAGPNINXOyeZa7uuRRLsWMN9OrSSnBDLcWzHTXE26Ge5CWZ3uoiqLsW1B0YtbnVTiasJAA8GPEeJagT8iNZD8a5A2c5T+5aSjsMAqSWVF4eeojYdU0J15+fvZNGO/rW4TrZY8YFXxKdVk+oILQZrJeZre683X3FYKBZuEJtNNetzm00OmPf9lt1X2N+ygslC8/DY+vcD4rJQPIxkLOk3l5FcTj7wcjY9cpmVsV7dfO3Jv5XeKN+hNwADnliiBfTGwfhciUWZAvwC7+Lgmi4BAAA=
+          skull-owner: CSCoreLib

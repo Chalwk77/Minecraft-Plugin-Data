@@ -1,0 +1,50 @@
+lastAccountName: _Yoghurt_
+timestamps:
+  login: 1475319038201
+  logout: 1475319151738
+  lastteleport: 1468574315379
+  kits:
+    dtools: 1462691850997
+    tools: 1446358397554
+    food: 1456730121039
+ipAddress: 172.196.160.211
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+geolocation: Australia
+logoutlocation:
+  world: world
+  x: 477.33425602917106
+  y: 88.77976897585246
+  z: -219.9087277790523
+  yaw: 87.66834
+  pitch: 13.960784
+money: '2500'
+homes:
+  home:
+    world: world
+    x: 600.5250658736676
+    y: 62.5
+    z: 420.64694108006995
+    yaw: -91.18286
+    pitch: -27.750206
+afk: false
+godmode: true
+mail:
+- §6[§rChalwk§6] §rNew content available at /warp runeshop
+- '§6[§rServer§6] §rNotice: Known issue with /nv when wearing any type of helmet.'
+- '§6[§rChalwk§6] §rNotice: Known issue with Veinminer Rune Enchant. Do not use!'
+- '§6[§rChalwk§6] §rNotice: Disguises (/d) are ''temporarily'' disabled.'
+- '§6[§rServer§6] §rNotice: Webstore sale extended to Mon 25th Jul'
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'

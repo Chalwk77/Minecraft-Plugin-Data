@@ -1,0 +1,135 @@
+PlayerLastName: MTF2003
+EnderChestSize: 27
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: Silk Touch I
+      repair-cost: 1
+      stored-enchants:
+        SILK_TOUCH: 1
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: Silk Touch I
+      repair-cost: 1
+      stored-enchants:
+        SILK_TOUCH: 1
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: Efficiency V
+      repair-cost: 7
+      stored-enchants:
+        DIG_SPEED: 5
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: Silk Touch I
+      repair-cost: 1
+      stored-enchants:
+        SILK_TOUCH: 1
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: Silk Touch I
+      repair-cost: 1
+      stored-enchants:
+        PROTECTION_PROJECTILE: 4
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: Efficiency V
+      repair-cost: 1
+      stored-enchants:
+        DAMAGE_ARTHROPODS: 3
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: Efficiency V
+      repair-cost: 7
+      stored-enchants:
+        DIG_SPEED: 5
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: Silk Touch I
+      repair-cost: 1
+      stored-enchants:
+        SILK_TOUCH: 1
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: Efficiency V
+      repair-cost: 1
+      stored-enchants:
+        ARROW_INFINITE: 1
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Silver Dust
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Lead Dust
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: NETHERRACK
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    amount: 5
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Aluminum Dust
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Magnesium
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Zinc Dust

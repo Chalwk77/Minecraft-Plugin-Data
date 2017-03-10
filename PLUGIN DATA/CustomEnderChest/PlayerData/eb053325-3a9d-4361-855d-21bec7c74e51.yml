@@ -1,0 +1,227 @@
+PlayerLastName: Raseori
+EnderChestSize: 27
+EnderChestInventory:
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §4Dwellers §6Mining §4Cap
+      lore:
+      - §a+3 Health
+      - §3+1% Dodge
+      - §6+2% Critical Chance
+      - §c+5 Critical Damage
+      - §6This amazing cap gives the wearer unwavering §4Power
+      - §cDwellers Set
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        PROTECTION_FIRE: 4
+        PROTECTION_EXPLOSIONS: 4
+        PROTECTION_PROJECTILE: 4
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+    amount: 64
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §eWither §fSpawner
+      internal: H4sIAAAAAAAAAGWOQQuCQBCFXwayDmF/KcQO3QIDz0MNOri44Q5E/z51L4m3ge97bx4BhLLy4TlcR1P7PrhzcOm+vUCtWi9TFWIscG7e/BnvwWTG7CMBOBDyZDtkugngiLwV7XpbvOVRsRbUbLyXZ/q3YE9PjfphzcsUMzhJE2tcgB/68kfuxgAAAA==
+      blockMaterial: MOB_SPAWNER
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §4Dwellers §6Mining §4Shoes!
+      lore:
+      - §a+3 Health
+      - §3+1% Dodge
+      - §6+2% Critical Chance
+      - §c+5 Critical Damage
+      - §6These amazing boots give the wearer unwavering §4Power
+      - §cDwellers Set
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        PROTECTION_FIRE: 4
+        PROTECTION_EXPLOSIONS: 4
+        PROTECTION_PROJECTILE: 4
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+    amount: 15
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        DAMAGE_UNDEAD: 4
+        DURABILITY: 3
+        KNOCKBACK: 2
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 12
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §cSoulbound Pickaxe
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §4Dwellers §6Mining §4Shoes
+      lore:
+      - §a+3 Health
+      - §3+1% Dodge
+      - §6+2% Critical Chance
+      - §c+5 Critical Damage
+      - §6These amazing boots give the wearer unwavering §4Power
+      - §cDwellers Set
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        PROTECTION_FIRE: 4
+        PROTECTION_EXPLOSIONS: 4
+        PROTECTION_PROJECTILE: 4
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §4Dwellers §6Mining §4Shoes!
+      lore:
+      - §a+3 Health
+      - §3+1% Dodge
+      - §6+2% Critical Chance
+      - §c+5 Critical Damage
+      - §6These amazing boots give the wearer unwavering §4Power
+      - §cDwellers Set
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        PROTECTION_FIRE: 4
+        PROTECTION_EXPLOSIONS: 4
+        PROTECTION_PROJECTILE: 4
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+    amount: 6
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §9Electric Jetpack §7- §eIV
+      lore:
+      - ''
+      - '§8⇨ §7Material: §bSteel'
+      - §c§o§8⇨ §e⚡ §70 / 60 J
+      - '§8⇨ §7Thrust: §c0.5'
+      - ''
+      - §7Hold §eShift§7 to use
+      color:
+        ==: Color
+        RED: 192
+        BLUE: 192
+        GREEN: 192
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §eSkeleton §fSpawner
+      internal: H4sIAAAAAAAAAF2OwQqDMBBERwuyhlI/pn9Q7MGbkELPS7vYkJCUuiD+fdVcxNvAe8OMAQwut5Be/h7V6fzggUA5d2+Q9RJEU6zR2C9PsU8qC+QwGgCFQZVdQul2Ok6onuKGj67WOlJv9ZaVj+rCdttHdrYu+K0rv7EESb7W4gr8AdY8SBa+AAAA
+      blockMaterial: MOB_SPAWNER
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §eCreeper §fSpawner
+      internal: H4sIAAAAAAAAAF2OywqDMBREpxY0hqL/4ie06aK7gkLXl3rRYFCJF0r/3kcWiruBc4YZDWhkdzd8u2cvVv4VNQoq5FeN5OGZR/Yp8nKkX/8ehBdGbtIALhpxUBUiu9u4Iv6wbVpZpXUi3dqGhE7mgg7DJ3Qrreu2JvspguJwy6AAZi9yuja6AAAA
+      blockMaterial: MOB_SPAWNER
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 2
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: ELYTRA
+    damage: 8
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 1291
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 4
+        DURABILITY: 3
+        LOOT_BONUS_BLOCKS: 2
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §eChicken §fSpawner
+      internal: H4sIAAAAAAAAAF2OQQuCQBSEJwNbl6j/VHboJhh08vDQhz52WSMfSP8+dQ+Kt4HvG2YsYHG5+b52j6Civxe1BibmZ4PTvZPacchwLT80hqJXnhj5wQI4WKRRNUhktXFE+mZpO52leSJb2jkp7cwJbYZ36FyKd0uTv0MCw/FWjgr4A0WNbxS6AAAA
+      blockMaterial: MOB_SPAWNER
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: SADDLE
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 11
+    amount: 64
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 7
+    amount: 64
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+    amount: 64
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 4
+    amount: 64
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 1
+    amount: 64
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 14
+    amount: 62
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 15
+    amount: 61
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 45

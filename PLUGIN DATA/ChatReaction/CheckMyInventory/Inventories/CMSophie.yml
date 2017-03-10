@@ -1,0 +1,1415 @@
+Inventories:
+  '25':
+    Time: 1458455353253
+    Exp: 470
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9996608
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3939093.5
+      y: 64.0
+      z: -7345430.5
+      pitch: 19.049984
+      yaw: 84.30017
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: GRILLED_PORK
+        amount: 37
+      '2':
+        type: IRON_SWORD
+        damage: 59
+      '3':
+        type: IRON_PICKAXE
+        damage: 24
+      '4':
+        type: STONE_PICKAXE
+        damage: 115
+      '5':
+        type: STONE_SPADE
+        damage: 63
+      '6':
+        type: DIAMOND_BLOCK
+      '7':
+        type: STAINED_CLAY
+        damage: 2
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 20
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+        amount: 2
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 2
+      '11':
+        type: STAINED_CLAY
+        damage: 3
+        amount: 2
+      '12':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 2
+      '13':
+        type: DIRT
+        amount: 6
+      '14':
+        type: STAINED_CLAY
+        damage: 5
+        amount: 2
+      '15':
+        type: SEEDS
+        amount: 4
+      '16':
+        type: RAW_FISH
+        amount: 4
+      '17':
+        type: RAW_BEEF
+        amount: 4
+      '18':
+        type: RAW_CHICKEN
+        amount: 4
+      '19':
+        type: PORK
+        amount: 4
+      '20':
+        type: COOKIE
+      '21':
+        type: SUGAR_CANE
+        amount: 9
+      '22':
+        type: REDSTONE
+      '23':
+        type: GLASS_BOTTLE
+      '24':
+        type: WOOL
+      '25':
+        type: MUTTON
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: GOLD_INGOT
+        amount: 4
+      '28':
+        type: IRON_INGOT
+        amount: 4
+      '29':
+        type: EMERALD
+        amount: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 7
+      '31':
+        type: STAINED_CLAY
+        amount: 2
+  '26':
+    Time: 1459465461436
+    Exp: 470
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9996608
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3939093.5
+      y: 64.0
+      z: -7345430.5
+      pitch: 19.049984
+      yaw: 84.30017
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: GRILLED_PORK
+        amount: 37
+      '2':
+        type: IRON_SWORD
+        damage: 59
+      '3':
+        type: IRON_PICKAXE
+        damage: 24
+      '4':
+        type: STONE_PICKAXE
+        damage: 115
+      '5':
+        type: STONE_SPADE
+        damage: 63
+      '6':
+        type: DIAMOND_BLOCK
+      '7':
+        type: STAINED_CLAY
+        damage: 2
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 20
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+        amount: 2
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 2
+      '11':
+        type: STAINED_CLAY
+        damage: 3
+        amount: 2
+      '12':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 2
+      '13':
+        type: DIRT
+        amount: 6
+      '14':
+        type: STAINED_CLAY
+        damage: 5
+        amount: 2
+      '15':
+        type: SEEDS
+        amount: 4
+      '16':
+        type: RAW_FISH
+        amount: 4
+      '17':
+        type: RAW_BEEF
+        amount: 4
+      '18':
+        type: RAW_CHICKEN
+        amount: 4
+      '19':
+        type: PORK
+        amount: 4
+      '20':
+        type: COOKIE
+      '21':
+        type: SUGAR_CANE
+        amount: 9
+      '22':
+        type: REDSTONE
+      '23':
+        type: GLASS_BOTTLE
+      '24':
+        type: WOOL
+      '25':
+        type: MUTTON
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: GOLD_INGOT
+        amount: 4
+      '28':
+        type: IRON_INGOT
+        amount: 4
+      '29':
+        type: EMERALD
+        amount: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 7
+      '31':
+        type: STAINED_CLAY
+        amount: 2
+      '37':
+        type: IRON_LEGGINGS
+        damage: 19
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '27':
+    Time: 1459469870571
+    Exp: 470
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9996608
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3939093.5
+      y: 64.0
+      z: -7345430.5
+      pitch: 19.049984
+      yaw: 84.30017
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: GRILLED_PORK
+        amount: 37
+      '2':
+        type: IRON_SWORD
+        damage: 59
+      '3':
+        type: IRON_PICKAXE
+        damage: 24
+      '4':
+        type: STONE_PICKAXE
+        damage: 115
+      '5':
+        type: STONE_SPADE
+        damage: 63
+      '6':
+        type: DIAMOND_BLOCK
+      '7':
+        type: STAINED_CLAY
+        damage: 2
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 20
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+        amount: 2
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 2
+      '11':
+        type: STAINED_CLAY
+        damage: 3
+        amount: 2
+      '12':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 2
+      '13':
+        type: DIRT
+        amount: 6
+      '14':
+        type: STAINED_CLAY
+        damage: 5
+        amount: 2
+      '15':
+        type: SEEDS
+        amount: 4
+      '16':
+        type: RAW_FISH
+        amount: 4
+      '17':
+        type: RAW_BEEF
+        amount: 4
+      '18':
+        type: RAW_CHICKEN
+        amount: 4
+      '19':
+        type: PORK
+        amount: 4
+      '20':
+        type: COOKIE
+      '21':
+        type: SUGAR_CANE
+        amount: 9
+      '22':
+        type: REDSTONE
+      '23':
+        type: GLASS_BOTTLE
+      '24':
+        type: WOOL
+      '25':
+        type: MUTTON
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: GOLD_INGOT
+        amount: 4
+      '28':
+        type: IRON_INGOT
+        amount: 4
+      '29':
+        type: EMERALD
+        amount: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 7
+      '31':
+        type: STAINED_CLAY
+        amount: 2
+      '37':
+        type: IRON_LEGGINGS
+        damage: 19
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '28':
+    Time: 1459659259850
+    Exp: 470
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9996608
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3939093.5
+      y: 64.0
+      z: -7345430.5
+      pitch: 19.049984
+      yaw: 84.30017
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: GRILLED_PORK
+        amount: 37
+      '2':
+        type: IRON_SWORD
+        damage: 59
+      '3':
+        type: IRON_PICKAXE
+        damage: 24
+      '4':
+        type: STONE_PICKAXE
+        damage: 115
+      '5':
+        type: STONE_SPADE
+        damage: 63
+      '6':
+        type: DIAMOND_BLOCK
+      '7':
+        type: STAINED_CLAY
+        damage: 2
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 20
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+        amount: 2
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 2
+      '11':
+        type: STAINED_CLAY
+        damage: 3
+        amount: 2
+      '12':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 2
+      '13':
+        type: DIRT
+        amount: 6
+      '14':
+        type: STAINED_CLAY
+        damage: 5
+        amount: 2
+      '15':
+        type: SEEDS
+        amount: 4
+      '16':
+        type: RAW_FISH
+        amount: 4
+      '17':
+        type: RAW_BEEF
+        amount: 4
+      '18':
+        type: RAW_CHICKEN
+        amount: 4
+      '19':
+        type: PORK
+        amount: 4
+      '20':
+        type: COOKIE
+      '21':
+        type: SUGAR_CANE
+        amount: 9
+      '22':
+        type: REDSTONE
+      '23':
+        type: GLASS_BOTTLE
+      '24':
+        type: WOOL
+      '25':
+        type: MUTTON
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: GOLD_INGOT
+        amount: 4
+      '28':
+        type: IRON_INGOT
+        amount: 4
+      '29':
+        type: EMERALD
+        amount: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 7
+      '31':
+        type: STAINED_CLAY
+        amount: 2
+      '37':
+        type: IRON_LEGGINGS
+        damage: 19
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '29':
+    Time: 1459766733362
+    Exp: 470
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9996608
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3939093.5
+      y: 64.0
+      z: -7345430.5
+      pitch: 19.049984
+      yaw: 84.30017
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: GRILLED_PORK
+        amount: 37
+      '2':
+        type: IRON_SWORD
+        damage: 59
+      '3':
+        type: IRON_PICKAXE
+        damage: 24
+      '4':
+        type: STONE_PICKAXE
+        damage: 115
+      '5':
+        type: STONE_SPADE
+        damage: 63
+      '6':
+        type: DIAMOND_BLOCK
+      '7':
+        type: STAINED_CLAY
+        damage: 2
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 20
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+        amount: 2
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 2
+      '11':
+        type: STAINED_CLAY
+        damage: 3
+        amount: 2
+      '12':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 2
+      '13':
+        type: DIRT
+        amount: 6
+      '14':
+        type: STAINED_CLAY
+        damage: 5
+        amount: 2
+      '15':
+        type: SEEDS
+        amount: 4
+      '16':
+        type: RAW_FISH
+        amount: 4
+      '17':
+        type: RAW_BEEF
+        amount: 4
+      '18':
+        type: RAW_CHICKEN
+        amount: 4
+      '19':
+        type: PORK
+        amount: 4
+      '20':
+        type: COOKIE
+      '21':
+        type: SUGAR_CANE
+        amount: 9
+      '22':
+        type: REDSTONE
+      '23':
+        type: GLASS_BOTTLE
+      '24':
+        type: WOOL
+      '25':
+        type: MUTTON
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: GOLD_INGOT
+        amount: 4
+      '28':
+        type: IRON_INGOT
+        amount: 4
+      '29':
+        type: EMERALD
+        amount: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 7
+      '31':
+        type: STAINED_CLAY
+        amount: 2
+      '37':
+        type: IRON_LEGGINGS
+        damage: 19
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '30':
+    Time: 1459847484482
+    Exp: 470
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9996608
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3939093.5
+      y: 64.0
+      z: -7345430.5
+      pitch: 19.049984
+      yaw: 84.30017
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: GRILLED_PORK
+        amount: 37
+      '2':
+        type: IRON_SWORD
+        damage: 59
+      '3':
+        type: IRON_PICKAXE
+        damage: 24
+      '4':
+        type: STONE_PICKAXE
+        damage: 115
+      '5':
+        type: STONE_SPADE
+        damage: 63
+      '6':
+        type: DIAMOND_BLOCK
+      '7':
+        type: STAINED_CLAY
+        damage: 2
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 20
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+        amount: 2
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 2
+      '11':
+        type: STAINED_CLAY
+        damage: 3
+        amount: 2
+      '12':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 2
+      '13':
+        type: DIRT
+        amount: 6
+      '14':
+        type: STAINED_CLAY
+        damage: 5
+        amount: 2
+      '15':
+        type: SEEDS
+        amount: 4
+      '16':
+        type: RAW_FISH
+        amount: 4
+      '17':
+        type: RAW_BEEF
+        amount: 4
+      '18':
+        type: RAW_CHICKEN
+        amount: 4
+      '19':
+        type: PORK
+        amount: 4
+      '20':
+        type: COOKIE
+      '21':
+        type: SUGAR_CANE
+        amount: 9
+      '22':
+        type: REDSTONE
+      '23':
+        type: GLASS_BOTTLE
+      '24':
+        type: WOOL
+      '25':
+        type: MUTTON
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: GOLD_INGOT
+        amount: 4
+      '28':
+        type: IRON_INGOT
+        amount: 4
+      '29':
+        type: EMERALD
+        amount: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 7
+      '31':
+        type: STAINED_CLAY
+        amount: 2
+      '37':
+        type: IRON_LEGGINGS
+        damage: 19
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '31':
+    Time: 1460146820685
+    Exp: 470
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9996608
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3939093.5
+      y: 64.0
+      z: -7345430.5
+      pitch: 19.049984
+      yaw: 84.30017
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: GRILLED_PORK
+        amount: 37
+      '2':
+        type: IRON_SWORD
+        damage: 59
+      '3':
+        type: IRON_PICKAXE
+        damage: 24
+      '4':
+        type: STONE_PICKAXE
+        damage: 115
+      '5':
+        type: STONE_SPADE
+        damage: 63
+      '6':
+        type: DIAMOND_BLOCK
+      '7':
+        type: STAINED_CLAY
+        damage: 2
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 20
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+        amount: 2
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 2
+      '11':
+        type: STAINED_CLAY
+        damage: 3
+        amount: 2
+      '12':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 2
+      '13':
+        type: DIRT
+        amount: 6
+      '14':
+        type: STAINED_CLAY
+        damage: 5
+        amount: 2
+      '15':
+        type: SEEDS
+        amount: 4
+      '16':
+        type: RAW_FISH
+        amount: 4
+      '17':
+        type: RAW_BEEF
+        amount: 4
+      '18':
+        type: RAW_CHICKEN
+        amount: 4
+      '19':
+        type: PORK
+        amount: 4
+      '20':
+        type: COOKIE
+      '21':
+        type: SUGAR_CANE
+        amount: 9
+      '22':
+        type: REDSTONE
+      '23':
+        type: GLASS_BOTTLE
+      '24':
+        type: WOOL
+      '25':
+        type: MUTTON
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: GOLD_INGOT
+        amount: 4
+      '28':
+        type: IRON_INGOT
+        amount: 4
+      '29':
+        type: EMERALD
+        amount: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 7
+      '31':
+        type: STAINED_CLAY
+        amount: 2
+      '37':
+        type: IRON_LEGGINGS
+        damage: 19
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '32':
+    Time: 1460883167367
+    Exp: 470
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9996608
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3939093.5
+      y: 64.0
+      z: -7345430.5
+      pitch: 19.049984
+      yaw: 84.30017
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: GRILLED_PORK
+        amount: 37
+      '2':
+        type: IRON_SWORD
+        damage: 59
+      '3':
+        type: IRON_PICKAXE
+        damage: 24
+      '4':
+        type: STONE_PICKAXE
+        damage: 115
+      '5':
+        type: STONE_SPADE
+        damage: 63
+      '6':
+        type: DIAMOND_BLOCK
+      '7':
+        type: STAINED_CLAY
+        damage: 2
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 20
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+        amount: 2
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 2
+      '11':
+        type: STAINED_CLAY
+        damage: 3
+        amount: 2
+      '12':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 2
+      '13':
+        type: DIRT
+        amount: 6
+      '14':
+        type: STAINED_CLAY
+        damage: 5
+        amount: 2
+      '15':
+        type: SEEDS
+        amount: 4
+      '16':
+        type: RAW_FISH
+        amount: 4
+      '17':
+        type: RAW_BEEF
+        amount: 4
+      '18':
+        type: RAW_CHICKEN
+        amount: 4
+      '19':
+        type: PORK
+        amount: 4
+      '20':
+        type: COOKIE
+      '21':
+        type: SUGAR_CANE
+        amount: 9
+      '22':
+        type: REDSTONE
+      '23':
+        type: GLASS_BOTTLE
+      '24':
+        type: WOOL
+      '25':
+        type: MUTTON
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: GOLD_INGOT
+        amount: 4
+      '28':
+        type: IRON_INGOT
+        amount: 4
+      '29':
+        type: EMERALD
+        amount: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 7
+      '31':
+        type: STAINED_CLAY
+        amount: 2
+      '37':
+        type: IRON_LEGGINGS
+        damage: 19
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '33':
+    Time: 1462120692055
+    Exp: 470
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9996608
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3939093.5
+      y: 64.0
+      z: -7345430.5
+      pitch: 19.049984
+      yaw: 84.30017
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: GRILLED_PORK
+        amount: 37
+      '2':
+        type: IRON_SWORD
+        damage: 59
+      '3':
+        type: IRON_PICKAXE
+        damage: 24
+      '4':
+        type: STONE_PICKAXE
+        damage: 115
+      '5':
+        type: STONE_SPADE
+        damage: 63
+      '6':
+        type: DIAMOND_BLOCK
+      '7':
+        type: STAINED_CLAY
+        damage: 2
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 20
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+        amount: 2
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 2
+      '11':
+        type: STAINED_CLAY
+        damage: 3
+        amount: 2
+      '12':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 2
+      '13':
+        type: DIRT
+        amount: 6
+      '14':
+        type: STAINED_CLAY
+        damage: 5
+        amount: 2
+      '15':
+        type: SEEDS
+        amount: 4
+      '16':
+        type: RAW_FISH
+        amount: 4
+      '17':
+        type: RAW_BEEF
+        amount: 4
+      '18':
+        type: RAW_CHICKEN
+        amount: 4
+      '19':
+        type: PORK
+        amount: 4
+      '20':
+        type: COOKIE
+      '21':
+        type: SUGAR_CANE
+        amount: 9
+      '22':
+        type: REDSTONE
+      '23':
+        type: GLASS_BOTTLE
+      '24':
+        type: WOOL
+      '25':
+        type: MUTTON
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: GOLD_INGOT
+        amount: 4
+      '28':
+        type: IRON_INGOT
+        amount: 4
+      '29':
+        type: EMERALD
+        amount: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 7
+      '31':
+        type: STAINED_CLAY
+        amount: 2
+      '37':
+        type: IRON_LEGGINGS
+        damage: 19
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '34':
+    Time: 1462483215251
+    Exp: 470
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9996608
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3939093.5
+      y: 64.0
+      z: -7345430.5
+      pitch: 19.049984
+      yaw: 84.30017
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: GRILLED_PORK
+        amount: 37
+      '2':
+        type: IRON_SWORD
+        damage: 59
+      '3':
+        type: IRON_PICKAXE
+        damage: 24
+      '4':
+        type: STONE_PICKAXE
+        damage: 115
+      '5':
+        type: STONE_SPADE
+        damage: 63
+      '6':
+        type: DIAMOND_BLOCK
+      '7':
+        type: STAINED_CLAY
+        damage: 2
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 20
+      '9':
+        type: STAINED_CLAY
+        damage: 6
+        amount: 2
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+        amount: 2
+      '11':
+        type: STAINED_CLAY
+        damage: 3
+        amount: 2
+      '12':
+        type: STAINED_CLAY
+        damage: 4
+        amount: 2
+      '13':
+        type: DIRT
+        amount: 6
+      '14':
+        type: STAINED_CLAY
+        damage: 5
+        amount: 2
+      '15':
+        type: SEEDS
+        amount: 4
+      '16':
+        type: RAW_FISH
+        amount: 4
+      '17':
+        type: RAW_BEEF
+        amount: 4
+      '18':
+        type: RAW_CHICKEN
+        amount: 4
+      '19':
+        type: PORK
+        amount: 4
+      '20':
+        type: COOKIE
+      '21':
+        type: SUGAR_CANE
+        amount: 9
+      '22':
+        type: REDSTONE
+      '23':
+        type: GLASS_BOTTLE
+      '24':
+        type: WOOL
+      '25':
+        type: MUTTON
+      '26':
+        type: DIAMOND
+        amount: 4
+      '27':
+        type: GOLD_INGOT
+        amount: 4
+      '28':
+        type: IRON_INGOT
+        amount: 4
+      '29':
+        type: EMERALD
+        amount: 4
+      '30':
+        type: STAINED_CLAY
+        damage: 7
+      '31':
+        type: STAINED_CLAY
+        amount: 2
+      '37':
+        type: IRON_LEGGINGS
+        damage: 19
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

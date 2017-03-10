@@ -1,0 +1,85 @@
+PlayerLastName: RoBB_NZL
+EnderChestSize: 54
+EnderChestInventory:
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: OBSIDIAN
+    amount: 42
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTMENT_TABLE
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §dAncient Altar
+      lore:
+      - ''
+      - §5Multi-Block Altar for
+      - §5magical Crafting Processes
+      blockMaterial: ENCHANTMENT_TABLE
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 49
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: BREWING_STAND_ITEM
+    amount: 4
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENDER_CHEST
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 5
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aEnchanted Golden Apple
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: BEACON
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bSynthetic Diamond
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 9
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Tome of Knowledge Sharing
+      lore:
+      - '§7Owner: §bNone'
+      - ''
+      - §eRight Click§7 to bind this Tome to yourself
+      - ''
+      - ''
+      - §eRight Click§7 to obtain all Researches by
+      - §7the previously assigned Owner
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 63
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_NUGGET
+    amount: 20
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §5Ender Lump §7- §eI
+      lore:
+      - ''
+      - '§c§oTier: I'

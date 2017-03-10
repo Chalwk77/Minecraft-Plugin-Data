@@ -1,0 +1,1331 @@
+Inventories:
+  '25':
+    Time: 1458455363802
+    Exp: 47
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 702.5964812804235
+      y: 63.0
+      z: 518.7324974060488
+      pitch: 13.050046
+      yaw: 75.75332
+    Items:
+      '0':
+        type: BRICK
+        amount: 64
+      '1':
+        type: NETHER_BRICK
+        amount: 54
+      '2':
+        type: GOLD_PICKAXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '3':
+        type: COBBLESTONE
+      '4':
+        type: BRICK
+        amount: 64
+      '5':
+        type: BRICK_STAIRS
+        amount: 3
+      '6':
+        type: BRICK
+        amount: 49
+      '7':
+        type: ANVIL
+        amount: 4
+      '8':
+        type: COOKED_BEEF
+        amount: 58
+      '9':
+        type: SIGN
+      '10':
+        type: COAL_BLOCK
+        amount: 4
+      '11':
+        type: COBBLESTONE_STAIRS
+        amount: 4
+      '12':
+        type: QUARTZ_STAIRS
+        amount: 6
+      '13':
+        type: NETHER_BRICK
+        amount: 64
+      '14':
+        type: NETHER_BRICK
+        amount: 64
+      '15':
+        type: NETHER_BRICK
+        amount: 64
+      '16':
+        type: NETHER_BRICK
+        amount: 64
+      '17':
+        type: NETHER_BRICK
+        amount: 64
+      '18':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '19':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '20':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '21':
+        type: GLOWSTONE
+        amount: 64
+      '22':
+        type: GLOWSTONE
+        amount: 64
+      '23':
+        type: GLOWSTONE
+        amount: 64
+      '24':
+        type: GLOWSTONE
+        amount: 64
+      '25':
+        type: GOLD_NUGGET
+      '26':
+        type: DISPENSER
+      '27':
+        type: CARPET
+        amount: 6
+      '28':
+        type: RAILS
+      '29':
+        type: STONE_BUTTON
+        amount: 3
+      '30':
+        type: LEVER
+      '31':
+        type: STEP
+        damage: 7
+        amount: 7
+      '32':
+        type: STEP
+        damage: 5
+        amount: 11
+      '33':
+        type: STEP
+        damage: 3
+        amount: 2
+      '34':
+        type: QUARTZ_BLOCK
+        amount: 8
+      '35':
+        type: HOPPER
+  '26':
+    Time: 1459465466638
+    Exp: 47
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 702.5964812804235
+      y: 63.0
+      z: 518.7324974060488
+      pitch: 13.050046
+      yaw: 75.75332
+    Items:
+      '0':
+        type: BRICK
+        amount: 64
+      '1':
+        type: NETHER_BRICK
+        amount: 54
+      '2':
+        type: GOLD_PICKAXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '3':
+        type: COBBLESTONE
+      '4':
+        type: BRICK
+        amount: 64
+      '5':
+        type: BRICK_STAIRS
+        amount: 3
+      '6':
+        type: BRICK
+        amount: 49
+      '7':
+        type: ANVIL
+        amount: 4
+      '8':
+        type: COOKED_BEEF
+        amount: 58
+      '9':
+        type: SIGN
+      '10':
+        type: COAL_BLOCK
+        amount: 4
+      '11':
+        type: COBBLESTONE_STAIRS
+        amount: 4
+      '12':
+        type: QUARTZ_STAIRS
+        amount: 6
+      '13':
+        type: NETHER_BRICK
+        amount: 64
+      '14':
+        type: NETHER_BRICK
+        amount: 64
+      '15':
+        type: NETHER_BRICK
+        amount: 64
+      '16':
+        type: NETHER_BRICK
+        amount: 64
+      '17':
+        type: NETHER_BRICK
+        amount: 64
+      '18':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '19':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '20':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '21':
+        type: GLOWSTONE
+        amount: 64
+      '22':
+        type: GLOWSTONE
+        amount: 64
+      '23':
+        type: GLOWSTONE
+        amount: 64
+      '24':
+        type: GLOWSTONE
+        amount: 64
+      '25':
+        type: GOLD_NUGGET
+      '26':
+        type: DISPENSER
+      '27':
+        type: CARPET
+        amount: 6
+      '28':
+        type: RAILS
+      '29':
+        type: STONE_BUTTON
+        amount: 3
+      '30':
+        type: LEVER
+      '31':
+        type: STEP
+        damage: 7
+        amount: 7
+      '32':
+        type: STEP
+        damage: 5
+        amount: 11
+      '33':
+        type: STEP
+        damage: 3
+        amount: 2
+      '34':
+        type: QUARTZ_BLOCK
+        amount: 8
+      '35':
+        type: HOPPER
+  '27':
+    Time: 1459469875088
+    Exp: 47
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 702.5964812804235
+      y: 63.0
+      z: 518.7324974060488
+      pitch: 13.050046
+      yaw: 75.75332
+    Items:
+      '0':
+        type: BRICK
+        amount: 64
+      '1':
+        type: NETHER_BRICK
+        amount: 54
+      '2':
+        type: GOLD_PICKAXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '3':
+        type: COBBLESTONE
+      '4':
+        type: BRICK
+        amount: 64
+      '5':
+        type: BRICK_STAIRS
+        amount: 3
+      '6':
+        type: BRICK
+        amount: 49
+      '7':
+        type: ANVIL
+        amount: 4
+      '8':
+        type: COOKED_BEEF
+        amount: 58
+      '9':
+        type: SIGN
+      '10':
+        type: COAL_BLOCK
+        amount: 4
+      '11':
+        type: COBBLESTONE_STAIRS
+        amount: 4
+      '12':
+        type: QUARTZ_STAIRS
+        amount: 6
+      '13':
+        type: NETHER_BRICK
+        amount: 64
+      '14':
+        type: NETHER_BRICK
+        amount: 64
+      '15':
+        type: NETHER_BRICK
+        amount: 64
+      '16':
+        type: NETHER_BRICK
+        amount: 64
+      '17':
+        type: NETHER_BRICK
+        amount: 64
+      '18':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '19':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '20':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '21':
+        type: GLOWSTONE
+        amount: 64
+      '22':
+        type: GLOWSTONE
+        amount: 64
+      '23':
+        type: GLOWSTONE
+        amount: 64
+      '24':
+        type: GLOWSTONE
+        amount: 64
+      '25':
+        type: GOLD_NUGGET
+      '26':
+        type: DISPENSER
+      '27':
+        type: CARPET
+        amount: 6
+      '28':
+        type: RAILS
+      '29':
+        type: STONE_BUTTON
+        amount: 3
+      '30':
+        type: LEVER
+      '31':
+        type: STEP
+        damage: 7
+        amount: 7
+      '32':
+        type: STEP
+        damage: 5
+        amount: 11
+      '33':
+        type: STEP
+        damage: 3
+        amount: 2
+      '34':
+        type: QUARTZ_BLOCK
+        amount: 8
+      '35':
+        type: HOPPER
+  '28':
+    Time: 1459659264816
+    Exp: 47
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 702.5964812804235
+      y: 63.0
+      z: 518.7324974060488
+      pitch: 13.050046
+      yaw: 75.75332
+    Items:
+      '0':
+        type: BRICK
+        amount: 64
+      '1':
+        type: NETHER_BRICK
+        amount: 54
+      '2':
+        type: GOLD_PICKAXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '3':
+        type: COBBLESTONE
+      '4':
+        type: BRICK
+        amount: 64
+      '5':
+        type: BRICK_STAIRS
+        amount: 3
+      '6':
+        type: BRICK
+        amount: 49
+      '7':
+        type: ANVIL
+        amount: 4
+      '8':
+        type: COOKED_BEEF
+        amount: 58
+      '9':
+        type: SIGN
+      '10':
+        type: COAL_BLOCK
+        amount: 4
+      '11':
+        type: COBBLESTONE_STAIRS
+        amount: 4
+      '12':
+        type: QUARTZ_STAIRS
+        amount: 6
+      '13':
+        type: NETHER_BRICK
+        amount: 64
+      '14':
+        type: NETHER_BRICK
+        amount: 64
+      '15':
+        type: NETHER_BRICK
+        amount: 64
+      '16':
+        type: NETHER_BRICK
+        amount: 64
+      '17':
+        type: NETHER_BRICK
+        amount: 64
+      '18':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '19':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '20':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '21':
+        type: GLOWSTONE
+        amount: 64
+      '22':
+        type: GLOWSTONE
+        amount: 64
+      '23':
+        type: GLOWSTONE
+        amount: 64
+      '24':
+        type: GLOWSTONE
+        amount: 64
+      '25':
+        type: GOLD_NUGGET
+      '26':
+        type: DISPENSER
+      '27':
+        type: CARPET
+        amount: 6
+      '28':
+        type: RAILS
+      '29':
+        type: STONE_BUTTON
+        amount: 3
+      '30':
+        type: LEVER
+      '31':
+        type: STEP
+        damage: 7
+        amount: 7
+      '32':
+        type: STEP
+        damage: 5
+        amount: 11
+      '33':
+        type: STEP
+        damage: 3
+        amount: 2
+      '34':
+        type: QUARTZ_BLOCK
+        amount: 8
+      '35':
+        type: HOPPER
+  '29':
+    Time: 1459766739250
+    Exp: 47
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 702.5964812804235
+      y: 63.0
+      z: 518.7324974060488
+      pitch: 13.050046
+      yaw: 75.75332
+    Items:
+      '0':
+        type: BRICK
+        amount: 64
+      '1':
+        type: NETHER_BRICK
+        amount: 54
+      '2':
+        type: GOLD_PICKAXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '3':
+        type: COBBLESTONE
+      '4':
+        type: BRICK
+        amount: 64
+      '5':
+        type: BRICK_STAIRS
+        amount: 3
+      '6':
+        type: BRICK
+        amount: 49
+      '7':
+        type: ANVIL
+        amount: 4
+      '8':
+        type: COOKED_BEEF
+        amount: 58
+      '9':
+        type: SIGN
+      '10':
+        type: COAL_BLOCK
+        amount: 4
+      '11':
+        type: COBBLESTONE_STAIRS
+        amount: 4
+      '12':
+        type: QUARTZ_STAIRS
+        amount: 6
+      '13':
+        type: NETHER_BRICK
+        amount: 64
+      '14':
+        type: NETHER_BRICK
+        amount: 64
+      '15':
+        type: NETHER_BRICK
+        amount: 64
+      '16':
+        type: NETHER_BRICK
+        amount: 64
+      '17':
+        type: NETHER_BRICK
+        amount: 64
+      '18':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '19':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '20':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '21':
+        type: GLOWSTONE
+        amount: 64
+      '22':
+        type: GLOWSTONE
+        amount: 64
+      '23':
+        type: GLOWSTONE
+        amount: 64
+      '24':
+        type: GLOWSTONE
+        amount: 64
+      '25':
+        type: GOLD_NUGGET
+      '26':
+        type: DISPENSER
+      '27':
+        type: CARPET
+        amount: 6
+      '28':
+        type: RAILS
+      '29':
+        type: STONE_BUTTON
+        amount: 3
+      '30':
+        type: LEVER
+      '31':
+        type: STEP
+        damage: 7
+        amount: 7
+      '32':
+        type: STEP
+        damage: 5
+        amount: 11
+      '33':
+        type: STEP
+        damage: 3
+        amount: 2
+      '34':
+        type: QUARTZ_BLOCK
+        amount: 8
+      '35':
+        type: HOPPER
+  '30':
+    Time: 1459847490192
+    Exp: 47
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 702.5964812804235
+      y: 63.0
+      z: 518.7324974060488
+      pitch: 13.050046
+      yaw: 75.75332
+    Items:
+      '0':
+        type: BRICK
+        amount: 64
+      '1':
+        type: NETHER_BRICK
+        amount: 54
+      '2':
+        type: GOLD_PICKAXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '3':
+        type: COBBLESTONE
+      '4':
+        type: BRICK
+        amount: 64
+      '5':
+        type: BRICK_STAIRS
+        amount: 3
+      '6':
+        type: BRICK
+        amount: 49
+      '7':
+        type: ANVIL
+        amount: 4
+      '8':
+        type: COOKED_BEEF
+        amount: 58
+      '9':
+        type: SIGN
+      '10':
+        type: COAL_BLOCK
+        amount: 4
+      '11':
+        type: COBBLESTONE_STAIRS
+        amount: 4
+      '12':
+        type: QUARTZ_STAIRS
+        amount: 6
+      '13':
+        type: NETHER_BRICK
+        amount: 64
+      '14':
+        type: NETHER_BRICK
+        amount: 64
+      '15':
+        type: NETHER_BRICK
+        amount: 64
+      '16':
+        type: NETHER_BRICK
+        amount: 64
+      '17':
+        type: NETHER_BRICK
+        amount: 64
+      '18':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '19':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '20':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '21':
+        type: GLOWSTONE
+        amount: 64
+      '22':
+        type: GLOWSTONE
+        amount: 64
+      '23':
+        type: GLOWSTONE
+        amount: 64
+      '24':
+        type: GLOWSTONE
+        amount: 64
+      '25':
+        type: GOLD_NUGGET
+      '26':
+        type: DISPENSER
+      '27':
+        type: CARPET
+        amount: 6
+      '28':
+        type: RAILS
+      '29':
+        type: STONE_BUTTON
+        amount: 3
+      '30':
+        type: LEVER
+      '31':
+        type: STEP
+        damage: 7
+        amount: 7
+      '32':
+        type: STEP
+        damage: 5
+        amount: 11
+      '33':
+        type: STEP
+        damage: 3
+        amount: 2
+      '34':
+        type: QUARTZ_BLOCK
+        amount: 8
+      '35':
+        type: HOPPER
+  '31':
+    Time: 1460146825374
+    Exp: 47
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 702.5964812804235
+      y: 63.0
+      z: 518.7324974060488
+      pitch: 13.050046
+      yaw: 75.75332
+    Items:
+      '0':
+        type: BRICK
+        amount: 64
+      '1':
+        type: NETHER_BRICK
+        amount: 54
+      '2':
+        type: GOLD_PICKAXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '3':
+        type: COBBLESTONE
+      '4':
+        type: BRICK
+        amount: 64
+      '5':
+        type: BRICK_STAIRS
+        amount: 3
+      '6':
+        type: BRICK
+        amount: 49
+      '7':
+        type: ANVIL
+        amount: 4
+      '8':
+        type: COOKED_BEEF
+        amount: 58
+      '9':
+        type: SIGN
+      '10':
+        type: COAL_BLOCK
+        amount: 4
+      '11':
+        type: COBBLESTONE_STAIRS
+        amount: 4
+      '12':
+        type: QUARTZ_STAIRS
+        amount: 6
+      '13':
+        type: NETHER_BRICK
+        amount: 64
+      '14':
+        type: NETHER_BRICK
+        amount: 64
+      '15':
+        type: NETHER_BRICK
+        amount: 64
+      '16':
+        type: NETHER_BRICK
+        amount: 64
+      '17':
+        type: NETHER_BRICK
+        amount: 64
+      '18':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '19':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '20':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '21':
+        type: GLOWSTONE
+        amount: 64
+      '22':
+        type: GLOWSTONE
+        amount: 64
+      '23':
+        type: GLOWSTONE
+        amount: 64
+      '24':
+        type: GLOWSTONE
+        amount: 64
+      '25':
+        type: GOLD_NUGGET
+      '26':
+        type: DISPENSER
+      '27':
+        type: CARPET
+        amount: 6
+      '28':
+        type: RAILS
+      '29':
+        type: STONE_BUTTON
+        amount: 3
+      '30':
+        type: LEVER
+      '31':
+        type: STEP
+        damage: 7
+        amount: 7
+      '32':
+        type: STEP
+        damage: 5
+        amount: 11
+      '33':
+        type: STEP
+        damage: 3
+        amount: 2
+      '34':
+        type: QUARTZ_BLOCK
+        amount: 8
+      '35':
+        type: HOPPER
+  '32':
+    Time: 1460883172643
+    Exp: 47
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 702.5964812804235
+      y: 63.0
+      z: 518.7324974060488
+      pitch: 13.050046
+      yaw: 75.75332
+    Items:
+      '0':
+        type: BRICK
+        amount: 64
+      '1':
+        type: NETHER_BRICK
+        amount: 54
+      '2':
+        type: GOLD_PICKAXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '3':
+        type: COBBLESTONE
+      '4':
+        type: BRICK
+        amount: 64
+      '5':
+        type: BRICK_STAIRS
+        amount: 3
+      '6':
+        type: BRICK
+        amount: 49
+      '7':
+        type: ANVIL
+        amount: 4
+      '8':
+        type: COOKED_BEEF
+        amount: 58
+      '9':
+        type: SIGN
+      '10':
+        type: COAL_BLOCK
+        amount: 4
+      '11':
+        type: COBBLESTONE_STAIRS
+        amount: 4
+      '12':
+        type: QUARTZ_STAIRS
+        amount: 6
+      '13':
+        type: NETHER_BRICK
+        amount: 64
+      '14':
+        type: NETHER_BRICK
+        amount: 64
+      '15':
+        type: NETHER_BRICK
+        amount: 64
+      '16':
+        type: NETHER_BRICK
+        amount: 64
+      '17':
+        type: NETHER_BRICK
+        amount: 64
+      '18':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '19':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '20':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '21':
+        type: GLOWSTONE
+        amount: 64
+      '22':
+        type: GLOWSTONE
+        amount: 64
+      '23':
+        type: GLOWSTONE
+        amount: 64
+      '24':
+        type: GLOWSTONE
+        amount: 64
+      '25':
+        type: GOLD_NUGGET
+      '26':
+        type: DISPENSER
+      '27':
+        type: CARPET
+        amount: 6
+      '28':
+        type: RAILS
+      '29':
+        type: STONE_BUTTON
+        amount: 3
+      '30':
+        type: LEVER
+      '31':
+        type: STEP
+        damage: 7
+        amount: 7
+      '32':
+        type: STEP
+        damage: 5
+        amount: 11
+      '33':
+        type: STEP
+        damage: 3
+        amount: 2
+      '34':
+        type: QUARTZ_BLOCK
+        amount: 8
+      '35':
+        type: HOPPER
+  '33':
+    Time: 1462120697347
+    Exp: 47
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 702.5964812804235
+      y: 63.0
+      z: 518.7324974060488
+      pitch: 13.050046
+      yaw: 75.75332
+    Items:
+      '0':
+        type: BRICK
+        amount: 64
+      '1':
+        type: NETHER_BRICK
+        amount: 54
+      '2':
+        type: GOLD_PICKAXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '3':
+        type: COBBLESTONE
+      '4':
+        type: BRICK
+        amount: 64
+      '5':
+        type: BRICK_STAIRS
+        amount: 3
+      '6':
+        type: BRICK
+        amount: 49
+      '7':
+        type: ANVIL
+        amount: 4
+      '8':
+        type: COOKED_BEEF
+        amount: 58
+      '9':
+        type: SIGN
+      '10':
+        type: COAL_BLOCK
+        amount: 4
+      '11':
+        type: COBBLESTONE_STAIRS
+        amount: 4
+      '12':
+        type: QUARTZ_STAIRS
+        amount: 6
+      '13':
+        type: NETHER_BRICK
+        amount: 64
+      '14':
+        type: NETHER_BRICK
+        amount: 64
+      '15':
+        type: NETHER_BRICK
+        amount: 64
+      '16':
+        type: NETHER_BRICK
+        amount: 64
+      '17':
+        type: NETHER_BRICK
+        amount: 64
+      '18':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '19':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '20':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '21':
+        type: GLOWSTONE
+        amount: 64
+      '22':
+        type: GLOWSTONE
+        amount: 64
+      '23':
+        type: GLOWSTONE
+        amount: 64
+      '24':
+        type: GLOWSTONE
+        amount: 64
+      '25':
+        type: GOLD_NUGGET
+      '26':
+        type: DISPENSER
+      '27':
+        type: CARPET
+        amount: 6
+      '28':
+        type: RAILS
+      '29':
+        type: STONE_BUTTON
+        amount: 3
+      '30':
+        type: LEVER
+      '31':
+        type: STEP
+        damage: 7
+        amount: 7
+      '32':
+        type: STEP
+        damage: 5
+        amount: 11
+      '33':
+        type: STEP
+        damage: 3
+        amount: 2
+      '34':
+        type: QUARTZ_BLOCK
+        amount: 8
+      '35':
+        type: HOPPER
+  '34':
+    Time: 1462483221515
+    Exp: 47
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 702.5964812804235
+      y: 63.0
+      z: 518.7324974060488
+      pitch: 13.050046
+      yaw: 75.75332
+    Items:
+      '0':
+        type: BRICK
+        amount: 64
+      '1':
+        type: NETHER_BRICK
+        amount: 54
+      '2':
+        type: GOLD_PICKAXE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '3':
+        type: COBBLESTONE
+      '4':
+        type: BRICK
+        amount: 64
+      '5':
+        type: BRICK_STAIRS
+        amount: 3
+      '6':
+        type: BRICK
+        amount: 49
+      '7':
+        type: ANVIL
+        amount: 4
+      '8':
+        type: COOKED_BEEF
+        amount: 58
+      '9':
+        type: SIGN
+      '10':
+        type: COAL_BLOCK
+        amount: 4
+      '11':
+        type: COBBLESTONE_STAIRS
+        amount: 4
+      '12':
+        type: QUARTZ_STAIRS
+        amount: 6
+      '13':
+        type: NETHER_BRICK
+        amount: 64
+      '14':
+        type: NETHER_BRICK
+        amount: 64
+      '15':
+        type: NETHER_BRICK
+        amount: 64
+      '16':
+        type: NETHER_BRICK
+        amount: 64
+      '17':
+        type: NETHER_BRICK
+        amount: 64
+      '18':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '19':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '20':
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+      '21':
+        type: GLOWSTONE
+        amount: 64
+      '22':
+        type: GLOWSTONE
+        amount: 64
+      '23':
+        type: GLOWSTONE
+        amount: 64
+      '24':
+        type: GLOWSTONE
+        amount: 64
+      '25':
+        type: GOLD_NUGGET
+      '26':
+        type: DISPENSER
+      '27':
+        type: CARPET
+        amount: 6
+      '28':
+        type: RAILS
+      '29':
+        type: STONE_BUTTON
+        amount: 3
+      '30':
+        type: LEVER
+      '31':
+        type: STEP
+        damage: 7
+        amount: 7
+      '32':
+        type: STEP
+        damage: 5
+        amount: 11
+      '33':
+        type: STEP
+        damage: 3
+        amount: 2
+      '34':
+        type: QUARTZ_BLOCK
+        amount: 8
+      '35':
+        type: HOPPER

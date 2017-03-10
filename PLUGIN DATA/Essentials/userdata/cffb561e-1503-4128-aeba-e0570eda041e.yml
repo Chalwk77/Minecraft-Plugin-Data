@@ -1,0 +1,34 @@
+lastlocation:
+  world: world
+  x: 22356.087930186703
+  y: 69.0
+  z: -21946.374222144826
+  yaw: 2.9138086
+  pitch: 11.410857
+geolocation: Australia
+lastAccountName: xXMizuchiXx
+timestamps:
+  login: 1479790117431
+  logout: 1479793408647
+  lastteleport: 1479792540407
+  kits:
+    tools: 1479638029954
+    food: 1479728603550
+ipAddress: 49.199.6.234
+logoutlocation:
+  world: world
+  x: -262.92550199151276
+  y: 62.0
+  z: -17994.697004278863
+  yaw: -201.9157
+  pitch: 7.526321
+money: '9391.4042999999999612'
+homes:
+  home:
+    world: world
+    x: 3847.067452417893
+    y: 12.5
+    z: -2707.9225276375178
+    yaw: -350.2528
+    pitch: 8.990793
+afk: false

@@ -1,0 +1,210 @@
+Inventories:
+  '26':
+    Time: 1459465463813
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 412842.5309660526
+      y: 67.0
+      z: 272469.3801669599
+      pitch: 41.699986
+      yaw: 9.098022
+    Items:
+      '1':
+        type: BOOK
+        amount: 3
+      '3':
+        type: SEEDS
+        amount: 2
+  '27':
+    Time: 1459469872386
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 412842.5309660526
+      y: 67.0
+      z: 272469.3801669599
+      pitch: 41.699986
+      yaw: 9.098022
+    Items:
+      '1':
+        type: BOOK
+        amount: 3
+      '3':
+        type: SEEDS
+        amount: 2
+  '28':
+    Time: 1459647848229
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 5
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0366876346097793E7
+      y: 67.0
+      z: -1.2851833711576428E7
+      pitch: 41.850006
+      yaw: -93.22626
+    Items:
+      '1':
+        type: BOOK
+        amount: 3
+      '3':
+        type: SEEDS
+        amount: 2
+  '29':
+    Time: 1459659261978
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.03668765E7
+      y: 88.0
+      z: -1.28518265E7
+      pitch: 28.224113
+      yaw: 272.5202
+    Items:
+      '0':
+        type: BOOK
+        amount: 3
+  '30':
+    Time: 1459766735822
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.03668765E7
+      y: 88.0
+      z: -1.28518265E7
+      pitch: 28.224113
+      yaw: 272.5202
+    Items:
+      '0':
+        type: BOOK
+        amount: 3
+  '31':
+    Time: 1459847486745
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.03668765E7
+      y: 88.0
+      z: -1.28518265E7
+      pitch: 28.224113
+      yaw: 272.5202
+    Items:
+      '0':
+        type: BOOK
+        amount: 3
+  '32':
+    Time: 1460146822629
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.03668765E7
+      y: 88.0
+      z: -1.28518265E7
+      pitch: 28.224113
+      yaw: 272.5202
+    Items:
+      '0':
+        type: BOOK
+        amount: 3
+  '33':
+    Time: 1460883169537
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.03668765E7
+      y: 88.0
+      z: -1.28518265E7
+      pitch: 28.224113
+      yaw: 272.5202
+    Items:
+      '0':
+        type: BOOK
+        amount: 3
+  '34':
+    Time: 1462120694116
+    Exp: 0
+    Health: 7.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 12
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0366823699999988E7
+      y: 75.0
+      z: -1.2851874925446404E7
+      pitch: 38.574074
+      yaw: -327.02957
+    Items:
+      '0':
+        type: BOOK
+        amount: 3
+  '35':
+    Time: 1462483217737
+    Exp: 0
+    Health: 7.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 12
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0366823699999988E7
+      y: 75.0
+      z: -1.2851874925446404E7
+      pitch: 38.574074
+      yaw: -327.02957
+    Items:
+      '0':
+        type: BOOK
+        amount: 3

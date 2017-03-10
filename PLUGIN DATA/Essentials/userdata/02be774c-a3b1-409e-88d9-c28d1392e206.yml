@@ -1,0 +1,56 @@
+lastAccountName: oblliv
+timestamps:
+  login: 1478852102327
+  logout: 1478852498901
+  lastteleport: 1478691768008
+  jail: 0
+  kits:
+    jesus: 1470205637063
+    donor: 1469003205817
+    pvp: 1469007687042
+    vip: 1471414237529
+    ultra: 1470205640814
+ipAddress: 121.221.64.103
+geolocation: Australia
+lastlocation:
+  world: world
+  x: 465.2435813886565
+  y: 88.0
+  z: -202.6919156988182
+  yaw: 180.83162
+  pitch: 12.637729
+logoutlocation:
+  world: world
+  x: -1613.30458468786
+  y: 83.0
+  z: -986.578052411775
+  yaw: -272.6446
+  pitch: 30.57168
+homes:
+  home:
+    world: world
+    x: -635.6999999880791
+    y: 68.0
+    z: 2041.058160713372
+    yaw: 269.00995
+    pitch: 25.830557
+  chopcity:
+    world: world
+    x: 2300.5770386225918
+    y: 80.0
+    z: -610.0694157055229
+    yaw: 91.58825
+    pitch: 0.94383186
+  new:
+    world: world
+    x: 2287.990095349535
+    y: 69.0
+    z: 1838.7724463703357
+    yaw: -180.15271
+    pitch: 10.212452
+money: '184387.62935000000055201'
+afk: false
+jailed: false
+godmode: true
+nickname: §3Luucass
+teleportenabled: true

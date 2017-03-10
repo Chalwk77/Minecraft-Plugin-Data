@@ -1,0 +1,15 @@
+signedit:
+  ignorecreative: true
+  invertmouse: false
+  log:
+    filename: signedit.log
+  commands:
+    logtofile: true
+    logtoconsole: true
+  colorsonplace:
+    enabled: true
+    usepermission: false
+  locale: enUS
+  metrics: true
+  fireBlockBreakPlace: true
+  truncateLines: true

@@ -1,0 +1,37 @@
+PlayerLastName: TheSavagePenguin
+EnderChestSize: 18
+EnderChestInventory:
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        SILK_TOUCH: 1
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        MENDING: 1
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §eVillager §fSpawner
+      internal: H4sIAAAAAAAAAF2OywrCUAxExwolvYj+k9SFO6FS10HDNTS00gbUv+/jbkp3A+cMMwEIOJ6tezaX1tX/d44ESvn6AtVqxlH6Aqfqw9/21rlMkG0IAHYBeXIJma507JE/ROPbZ2seKZZ6yc5bdWKr7S07VGrN0pV+yECSrpX4ASNqdMbZvgAAAA==
+      blockMaterial: MOB_SPAWNER
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §eIron Golem §fSpawner
+      internal: H4sIAAAAAAAAAG3OzQrCQAwE4LFC2S7+vJNUxJtQ0XOoYQ1Nu9IGxLe37V5Eesvhm8l4wGN30Fg3x87EPlcKDi7d5we2N1GlwP0pKrcF9tWL3t0lGo+CdPAAVh55Cjhk8p/BGvmdJTxtotO7Yu4oyWjRj+BnyiLYVKLN3ML9kMFxmluiBr4GQSts0gAAAA==
+      blockMaterial: MOB_SPAWNER

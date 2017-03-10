@@ -1,0 +1,524 @@
+Inventories:
+  '202':
+    Time: 1462670378405
+    Exp: 44658103
+    Health: 0.0
+    MaxHealth: 70.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -3004.536316614541
+      y: 62.01999999910593
+      z: -2444.3726106187246
+      pitch: -8.089957
+      yaw: -280.9942
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rCow Head
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkQB51aaTqEBnrA3DYAV4rMKMGoQJf1U8syy5PzjkqgApvu7IR4qu6nnKBCjzTI7yTlKT6h51ojm2gZp7MiZY4lq2hYVmOSVAnZqaCOkw3rOoc7yNQamzrpsK7CgBPCryGiWgQfrHzSHw4k+PBE1lH7YH3OyLWtLg59BJ26YzaVA5+ObVX3eRfa9VJZAk+9s7xZdOkMiSr8VbgcqtnMvhh0cbgfSzixafFXE8yg+txkbW891tWzAvW+w8mOeFRWPr9dBy7393aLYdGlL6kD2bMc+YGHdtn7XoRlrwP8tNBnwAo8MISiTCa7WbXCld5CvAH4UJI9ioBAAA=
+          skull-owner: CSCoreLib
+      '1':
+        type: ROTTEN_FLESH
+        amount: 2
+      '2':
+        type: RAW_BEEF
+        amount: 6
+      '3':
+        type: LEATHER
+        amount: 14
+      '4':
+        type: WOOL
+      '5':
+        type: BONE
+        amount: 2
+      '6':
+        type: ARROW
+        amount: 2
+      '7':
+        type: STRING
+        amount: 3
+      '9':
+        type: SULPHUR
+      '10':
+        type: GRAVEL
+      '19':
+        type: ELYTRA
+        damage: 82
+      '23':
+        type: COBBLESTONE
+        amount: 34
+      '35':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+  '203':
+    Time: 1462670401447
+    Exp: 44658103
+    Health: 0.0
+    MaxHealth: 70.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -3003.4227282373035
+      y: 64.16610926093821
+      z: -2469.2775627858523
+      pitch: 81.72731
+      yaw: -322.9483
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rCow Head
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkQB51aaTqEBnrA3DYAV4rMKMGoQJf1U8syy5PzjkqgApvu7IR4qu6nnKBCjzTI7yTlKT6h51ojm2gZp7MiZY4lq2hYVmOSVAnZqaCOkw3rOoc7yNQamzrpsK7CgBPCryGiWgQfrHzSHw4k+PBE1lH7YH3OyLWtLg59BJ26YzaVA5+ObVX3eRfa9VJZAk+9s7xZdOkMiSr8VbgcqtnMvhh0cbgfSzixafFXE8yg+txkbW891tWzAvW+w8mOeFRWPr9dBy7393aLYdGlL6kD2bMc+YGHdtn7XoRlrwP8tNBnwAo8MISiTCa7WbXCld5CvAH4UJI9ioBAAA=
+          skull-owner: CSCoreLib
+      '1':
+        type: ROTTEN_FLESH
+        amount: 2
+      '2':
+        type: RAW_BEEF
+        amount: 6
+      '3':
+        type: LEATHER
+        amount: 14
+      '4':
+        type: WOOL
+      '5':
+        type: BONE
+        amount: 2
+      '6':
+        type: ARROW
+        amount: 2
+      '7':
+        type: STRING
+        amount: 3
+      '9':
+        type: SULPHUR
+      '10':
+        type: GRAVEL
+      '19':
+        type: ELYTRA
+        damage: 82
+      '23':
+        type: COBBLESTONE
+        amount: 34
+      '35':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+  '204':
+    Time: 1462670420072
+    Exp: 44658103
+    Health: 0.0
+    MaxHealth: 70.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: CONFUSION
+        Duration: 105
+        Amplifier: 10
+    Location:
+      world: world
+      x: -3003.699999988079
+      y: 63.096671980926494
+      z: -2469.300000011921
+      pitch: 52.0
+      yaw: -295.56824
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rCow Head
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkQB51aaTqEBnrA3DYAV4rMKMGoQJf1U8syy5PzjkqgApvu7IR4qu6nnKBCjzTI7yTlKT6h51ojm2gZp7MiZY4lq2hYVmOSVAnZqaCOkw3rOoc7yNQamzrpsK7CgBPCryGiWgQfrHzSHw4k+PBE1lH7YH3OyLWtLg59BJ26YzaVA5+ObVX3eRfa9VJZAk+9s7xZdOkMiSr8VbgcqtnMvhh0cbgfSzixafFXE8yg+txkbW891tWzAvW+w8mOeFRWPr9dBy7393aLYdGlL6kD2bMc+YGHdtn7XoRlrwP8tNBnwAo8MISiTCa7WbXCld5CvAH4UJI9ioBAAA=
+          skull-owner: CSCoreLib
+      '1':
+        type: ROTTEN_FLESH
+        amount: 2
+      '2':
+        type: RAW_BEEF
+        amount: 6
+      '3':
+        type: LEATHER
+        amount: 14
+      '4':
+        type: WOOL
+      '5':
+        type: BONE
+        amount: 2
+      '6':
+        type: ARROW
+        amount: 2
+      '7':
+        type: STRING
+        amount: 3
+      '9':
+        type: SULPHUR
+      '10':
+        type: GRAVEL
+      '19':
+        type: ELYTRA
+        damage: 82
+      '23':
+        type: COBBLESTONE
+        amount: 34
+      '35':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+  '205':
+    Time: 1462677132504
+    Exp: 44744144
+    Health: 0.0
+    MaxHealth: 70.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -30.42154688022546
+      y: 64.0625
+      z: -3529.629873140418
+      pitch: 38.98167
+      yaw: 88.12154
+    Items:
+      '19':
+        type: ELYTRA
+        damage: 82
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+  '206':
+    Time: 1462683154776
+    Exp: 44787156
+    Health: 0.0
+    MaxHealth: 70.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14685.168115171473
+      y: 70.0
+      z: 9221.472658742792
+      pitch: 10.523531
+      yaw: 59.928303
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: MUTTON
+        amount: 2
+      '2':
+        type: ROTTEN_FLESH
+        amount: 5
+      '38':
+        type: ELYTRA
+        damage: 82
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+  '207':
+    Time: 1462683330534
+    Exp: 44831472
+    Health: 0.0
+    MaxHealth: 70.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: CONFUSION
+        Duration: 130
+        Amplifier: 10
+    Location:
+      world: world
+      x: 14661.870815136082
+      y: 70.0
+      z: 9211.576863764616
+      pitch: -3.705328
+      yaw: 8.519659
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: MUTTON
+        amount: 2
+      '2':
+        type: ROTTEN_FLESH
+        amount: 5
+      '3':
+        type: SPIDER_EYE
+      '38':
+        type: ELYTRA
+        damage: 82
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+  '208':
+    Time: 1462683378882
+    Exp: 44831472
+    Health: 0.0
+    MaxHealth: 70.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14668.153954103456
+      y: 70.0
+      z: 9212.708501761872
+      pitch: 16.976292
+      yaw: -66.31314
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: MUTTON
+        amount: 2
+      '2':
+        type: ROTTEN_FLESH
+        amount: 5
+      '3':
+        type: SPIDER_EYE
+      '38':
+        type: ELYTRA
+        damage: 82
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+  '209':
+    Time: 1462683548951
+    Exp: 44831606
+    Health: 0.0
+    MaxHealth: 70.0
+    Saturation: 2.4
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14682.909541355031
+      y: 70.0
+      z: 9211.979350429117
+      pitch: 11.658207
+      yaw: 100.44556
+    Items:
+      '0':
+        type: WOOL
+      '2':
+        type: ROTTEN_FLESH
+        amount: 5
+      '3':
+        type: SPIDER_EYE
+      '4':
+        type: ARROW
+      '38':
+        type: ELYTRA
+        damage: 82
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+  '210':
+    Time: 1462747084087
+    Exp: 44943723
+    Health: 0.0
+    MaxHealth: 70.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -148.52427133376816
+      y: 36.0
+      z: 4237.660385983428
+      pitch: 90.0
+      yaw: 123.65655
+    Items:
+      '0':
+        type: WOOL
+      '2':
+        type: ROTTEN_FLESH
+        amount: 5
+      '3':
+        type: SPIDER_EYE
+      '4':
+        type: ARROW
+      '19':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+      '38':
+        type: ELYTRA
+        damage: 82
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2QyZKjRhRF6bYdUV3hz/BOUSFmwaIXSMxiFGLKHZNQJlMJBAK+yZ/lDzHVG3uRkRnv5Xv3nvuOYe/Yn1411rXTdzdYF2/Ydy3H/koz8pDc8sMHy3H8B80RxAd/yPgPgmKKgmazPEmzd+x9G/os+icshh/Y27OYn2NfDO8Yhn17w354sGyTr8r3v7XP266eiPSAL6y3yMYJlHdqbPJzgpxjhM5cNp96M1S80jw6zEXpz7Du8rWNvezJs3zVKwiyTTS+wCrrJPNIStnzE3LVfGBGhqwinXoAnMj9y6kppNBx+zR0gmj34ocaxD1rqMrOYeVrLVgnKnvkcD/F82MIBYXWfHOaZMIxBtoL7gVF6G25oNPZUfNMqDxiJ7JqnFXJkTyJiKsovLR3nMMAZM72YI4ipZL2IYJQoB+SK5G9NuDL7sot3qFrj3KcARkfhrBiJHbnwQc3d+0lJSvaTVi1rFHb09wwES7ezz3p4o7sw8wI98eJckg5bM8XR5Y78MqFsvBPS9I+oTVnOZ/FxtAWZDX4rumjaG1kb0+Bl7sC5RA8HInH92HjPeUpNgU7mLVWwF9dTvuFHXtJUj4eZW1JsszG445Y9IM7HwdBhPNauIUwtQdyfxPX9c67+4WyX2k37iU9/1zBJNOFgdgnIYnMrmGy25GW6/ncKfR0p5SToxs8X8lZ38/KXssU/cZKzHp9iAERnHOrWKLLQzpfrQDvVWFd3IJ5XfOOPeOo++yohxAwOCfuAb3non1+N7QqynHfYbxK5Voc0fmVeVTlfpICWdXtmdoVowJ34y0Q9jCSrungvJ63rgM9CtOOuumZYuvhgly87kwgPPf4TeU94BUJR6/z8Qj1Z/F54EvDVvsw+owcZdcsuvnzDfsjSOqx+PZPseh4EhJ1Rl3uaSRAG0m4hTTSFs3tlLOFhEFrj0tKgs9UCXRw0lit0ZGJ8jtoXMpCJW1fXdq8SoxFmox5NQkQ+rjVWFUc6kiDL5ip+gSaegA+c09DH9pQV1PShcZJX5MwH+PoQmRN4IFIJpJIr780clUngPeCuRLQuRosIDKh3Q7Qx5/6FWrs5nubeX3t6nL18rIhN/3v75iG9QhCa4lDgBsNU+cnHgfRHc+3/QZpQTPU5pgEVUz6xPZ+bTzQ2uoWyhYT6RCI5cZ2RBvPC2w9gKqNs26AIs2WmOHWNV7BNWgAsuoYxYvW4oNWWUdf8n/53HQGDXUwUS94JnaTQV3qQv3FuRoN8Zk2AcoauclPzAgi9z/vHg+tNaaAuGW6aluWErHdX3qbrkDG6I5sUb/HjV5Zir9Yq08AJM3m1V9j0qWtUIamuOUfWsiEOn+L8J8Y9ob9biVNgf2mdDmG/Qu2bmMHEgUAAA==
+          skull-owner: God
+  '211':
+    Time: 1462768007531
+    Exp: 44993867
+    Health: 70.0
+    MaxHealth: 70.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 3441.257053014339
+      y: 70.45657944809773
+      z: -438.1804659366144
+      pitch: 53.954983
+      yaw: 164.31036
+    Items:
+      '0':
+        type: LEATHER
+        amount: 10
+      '1':
+        type: SPIDER_EYE
+      '2':
+        type: STRING
+        amount: 5
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+      '4':
+        type: MUTTON
+        amount: 2
+      '5':
+        type: LEAVES
+        damage: 1
+      '6':
+        type: SULPHUR
+      '7':
+        type: RABBIT_HIDE
+        amount: 2
+      '8':
+        type: RABBIT
+        amount: 3
+      '9':
+        type: WOOL
+      '10':
+        type: SAPLING
+        amount: 2
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rRabbit Head
+          internal: H4sIAAAAAAAAAE2LT0+DMBxAfxpNGPFjeCUpfycHD0qWrGRUZQXW3mArjq7dFgYG+FR+RDl6fHnvmQAmPG1PvVKf7aVulDDgHh/guQ5C/6X0XMur/MryyiWywtBHliiDPaqQcGwvNMGcp6tou0bcFmB0Yuj6VtxMALgz4DEvVS/gV4wx4rsjOuxitR9xMDPdIvWB5XWJz/lYRTjAevbrt2Azhv9avysLXzE3PvLzV1/pHG3cVIl1au919sM1GwjN/ISeEKMrl9DTRArsMZlqXqwcIleI6VwS+d5w+T0wh9mJTI9cck0oQ8mUTGzKbFJkDqGHho1xWO/QK4ABD6TUAhbRNrq0YtNUAH8ral0XKgEAAA==
+          skull-owner: CSCoreLib
+      '34':
+        type: RAW_BEEF
+        amount: 6

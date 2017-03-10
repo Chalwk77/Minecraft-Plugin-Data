@@ -1,0 +1,21 @@
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+lastAccountName: PeterGarrett
+timestamps:
+  login: 1470644986394
+  logout: 1470645016270
+ipAddress: 124.191.69.12
+geolocation: Melton South, Victoria, Australia
+logoutlocation:
+  world: world
+  x: 469.97779370287856
+  y: 88.0
+  z: -180.60094508491056
+  yaw: 34.14966
+  pitch: 13.499976
+money: '2500'

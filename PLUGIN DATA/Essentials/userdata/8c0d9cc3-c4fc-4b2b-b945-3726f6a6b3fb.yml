@@ -1,0 +1,24 @@
+lastAccountName: isokissa3
+timestamps:
+  login: 1469928930310
+  lastteleport: 1469930717413
+  logout: 1469932528483
+ipAddress: 88.195.29.67
+geolocation: Finland
+lastlocation:
+  world: world
+  x: -1200.5357378218482
+  y: 65.0
+  z: -1317.1562402408813
+  yaw: 201.26904
+  pitch: 19.09157
+afk: false
+money: '2500'
+godmode: true
+logoutlocation:
+  world: world
+  x: -1822.14411896405
+  y: 16.0
+  z: -123.69999998807907
+  yaw: 262.39426
+  pitch: 2.6634827

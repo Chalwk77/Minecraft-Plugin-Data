@@ -1,0 +1,111 @@
+PlayerLastName: LegendaryKay
+EnderChestSize: 18
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: ROTTEN_FLESH
+    amount: 3
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: SAPLING
+    amount: 64
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HOE
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_CHICKEN
+    amount: 32
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aCooked Chicken
+      enchants:
+        DAMAGE_UNDEAD: 65535
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: BEETROOT
+    amount: 32
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_UNDEAD: 65535
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: TORCH
+    amount: 32
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aLight the way...
+      enchants:
+        DAMAGE_UNDEAD: 65535
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 10
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aEnchanted Golden Apple
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HOE
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: NETHERRACK
+    amount: 64
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: NETHERRACK
+    amount: 64
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: NETHERRACK
+    amount: 64
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: NETHERRACK
+    amount: 41
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    damage: 1
+    amount: 2

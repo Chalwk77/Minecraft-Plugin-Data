@@ -1,0 +1,166 @@
+PlayerLastName: H4L0
+EnderChestSize: 27
+EnderChestInventory:
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: TORCH
+    amount: 16
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aLight the way...
+      enchants:
+        DAMAGE_UNDEAD: 65535
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: BEETROOT
+    amount: 16
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_UNDEAD: 65535
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HOE
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Aluminum Dust
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: TORCH
+    amount: 32
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: LAVA_BUCKET
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: WATER_BUCKET
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_ORE
+    amount: 25
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 5
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aEnchanted Golden Apple
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §7Grandmas Walking Stick
+      enchants:
+        KNOCKBACK: 2
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Zinc Dust
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Magnesium
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 35
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §4Strawberry
+      internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+      skull-owner: CSCoreLib
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: SAPLING
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §cCranberry Bush
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: GLOWSTONE_DUST
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Copper Dust
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: COAL
+    amount: 19
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 7
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §cCowberry
+      internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JVkcRHK0apRjLu0uoLrTeBZwF01CK3rV/UT67HHyczYADa8rA6dUh/NaV8ptOAxKuCVvCHSves7gdsvHM8tPCeklDp+OAj8gGKRe54N9n06Y9NWeOmB1eK17Rq82ADwYMFzslMdwi+aOdluSlJs5io3kX9nsSIqjupzEB0Tk40iP9J3Pxv6CxP+awftLh0oSefl9vjZZTohC7pUOFu6uV5/SzEkW7EmUkvDRVLK+r1iKSOxKGspeMmmXMl07cpbUfNxopn46rOalzyd/DAtaTyd0FhMDL8Nr1Iww8eHar9xQwALnvhOI/RGq9GpwUWVAfwBwpgHjyoBAAA=
+      skull-owner: CSCoreLib
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Iron Dust
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 12
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §cCranberry
+      internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JoAPKoosGmzhEsJWRy+wYGMJlRg2CEZ6qj1iWXZ18Od/RAXR4C9tByu/uUtZSaPBMCngvVrlp54gbVmluDIy5MDYYO0bGHdMy1xwJK9NBn6Or6Ppa3Bag9eLRD5246QDwpMFrlMlBwK8YPcSSChWJJ/OR2POmIZIH0lzX5ByN3CU2UbPffdr70fn3tfostmS68ip2/hm4itB+dZRidzRzdbqzbaQYZU0wfWGmvGqmxVS69Bsy+lMh2VbKlKbYb4rW37YTi2cbE+zTY80oeRyoJw80Rf7yNDEatMHoOWWCPgA0eAkyJWDhhu6lE/uaA/wBs4Vs1SoBAAA=
+      skull-owner: CSCoreLib

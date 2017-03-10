@@ -1,0 +1,39 @@
+geolocation: Forest, Tasmania, Australia
+lastAccountName: Taiden_
+timestamps:
+  login: 1469262204050
+  lastteleport: 1469262402261
+  logout: 1469262484626
+ipAddress: 58.165.82.179
+lastlocation:
+  world: world
+  x: 472.47900568930925
+  y: 89.0
+  z: -181.96170065325057
+  yaw: 11.501984
+  pitch: 11.007819
+afk: false
+logoutlocation:
+  world: world
+  x: 758.6009128895017
+  y: 64.0625
+  z: 899.5555527559881
+  yaw: 127.63672
+  pitch: 51.448868
+money: '2500'
+homes:
+  home:
+    world: world
+    x: 758.4046395213026
+    y: 64.0
+    z: 897.2865186276962
+    yaw: 177.01976
+    pitch: 7.3500037
+mail:
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'

@@ -1,0 +1,788 @@
+# 
+# These example files show you some of the basic attributes and
+# skills MythicMobs can use. Far more is possible!
+SoccorBall:
+  Mobtype: SLIME
+  Display: '&6Soccer Ball'
+  Health: 1800
+  Damage: 0
+  Options:
+    Size: 2
+    Speed: 0.001
+    MaxCombatDistance: 6
+    FollowRange: 0
+    AlwaysShowName: true
+    Despawn: false 
+    MovementSpeed: 0.001
+  AIGoalSelectors:
+    - 0 clear
+  AITargetSelectors:
+    - 0 clear
+Bandit:
+  Mobtype: ZOMBIE
+  Display: '&6Bandit'
+  Health: 30
+  Damage: 5
+  Faction: Bandits
+  Drops:
+  - exp 1-25 1
+  - money 500
+  Equipment:
+  - iron_helmet:4
+  - iron_boots:1
+  - iron_sword:0
+  Skills:
+#  - skill{s=BanditHealthandMoney} @Target ~onTimer:100
+  - skill{s=BanditDeath} ~onDeath
+  - skill{s=SpawnBandits} @Self ~onSpawn
+  - skill{s=Mug} @Target ~onAttack 0.4
+  Options:
+    AlwaysShowName: true
+    Despawn: true 
+    MovementSpeed: 0.3  
+  AIGoalSelectors:
+    - 0 clear
+    - 1 meleeattack
+    - 2 randomstroll
+    - 3 FleeSun
+  AITargetSelectors:
+    - 0 clear
+    - 1 players
+    - 2 otherfaction
+BanditExtrasSword:
+  Mobtype: ZOMBIE
+  Display: '&6Bandit'
+  Health: 30
+  Damage: 5
+  Faction: Bandits
+  Drops:
+  - exp 1-25 1
+  - money 500
+  Equipment:
+  - iron_helmet:4
+  - iron_boots:1
+  - iron_sword:0
+  Skills:
+#  - skill{s=BanditHealthandMoney} @Target ~onTimer:100
+  - skill{s=BanditDeath} ~onDeath
+  - skill{s=Mug} @Target ~onAttack 0.2
+  Options:
+    AlwaysShowName: true
+    Despawn: true 
+    MovementSpeed: 0.3    
+  AIGoalSelectors:
+    - 0 clear
+    - 1 meleeattack
+    - 2 randomstroll
+    - 3 FleeSun
+  AITargetSelectors:
+    - 0 clear
+    - 1 players
+    - 2 otherfaction    
+BanditExtrasBow:
+  Mobtype: SKELETON
+  Display: '&6Bandit'
+  Health: 30
+  Damage: 5
+  Faction: Bandits
+  Drops:
+  - exp 1-25 1
+  - money 500
+  Equipment:
+  - iron_helmet:4
+  - iron_boots:1
+  - BOW:0
+  Skills:
+#  - skill{s=BanditHealthandMoney} @Target ~onTimer:100 
+  - skill{s=BowDrug} ~onAttack 0.1
+  - skill{s=BanditDeath} ~onDeath
+  - skill{s=Mug} @Target ~onAttack 0.2
+  Options:
+    AlwaysShowName: true
+    Despawn: true 
+    MovementSpeed: 0.3    
+  AITargetSelectors:
+    - 0 clear
+    - 1 players
+    - 2 otherfaction
+PygmyRider:
+  KillMessages:
+  - '&7[&8Mythical Creature&7] <target.name> has been killed by <mob.name>'
+  Mobtype: skeleton
+  Display: '&cFallen &7Warrior'
+  Health: 35
+  Damage: 10
+  Despawn: true
+  Riding: riding_this_horse
+  Drops:
+  - exp 1-25 1
+  - money 500
+  Options:
+    FollowRange: 50
+    MovementSpeed: .31
+riding_this_horse:
+  KillMessages:
+  - '&7[&8Mythical Creature&7] <target.name> has been killed by <mob.name>'
+  Mobtype: cave_spider
+  Display: '&7Villager''s Steed'
+  Health: 20
+  Damage: 5
+  Drops:
+  - exp 1-25 1
+  - money 500
+  Options:
+    MaxCombatDistance: 10
+    FollowRange: 30
+    MovementSpeed: .28
+    PreventRenaming: true
+  Skills:
+  - potion{type=POISON;d=100;l=1} @target ~onAttack >1 1
+  - potion{type=CONFUSION;d=150;l=1} @target ~onAttack >1 1
+mount_this:
+  KillMessages:
+  - '&7[&8Mythical Creature&7] <target.name> has been killed by <mob.name>'
+  Drops:
+  - money 100
+  KillMessages:
+  - '&7[&8Mob Boss&7] &c<target.name> was killed by &cFallen &7Villager &cWarrior!'
+  Modules:
+    ThreatTable: true
+    ImmunityTable: true
+  Mobtype: VILLAGER
+  Display: '&cFallen &7Villager &cWarrior'
+  Drops:
+  - exp 1-25 1
+  - money 500
+  Health: 25
+  Damage: 10
+  Skills:
+  - mount{type=UndeadMount}
+  Options:
+    MovementSpeed: 0.4
+    MaxCombatDistance: 35
+    FollowRange: 35
+Villager_Bandit:
+  KillMessages:
+  - '&7[&8Mythical Creature&7] <target.name> has been killed by <mob.name>'
+  Drops:
+  - exp 150-500 1
+  - money 350
+  - diamond 2 0.1
+  KillMessages:
+  - '&7[&8Mob Boss&7] &c<target.name> was killed by &e&lVillager Bandit!'
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 randomstroll
+  - 3 opendoors
+  - 4 moveindoors
+  Modules:
+    ThreatTable: true
+    ImmunityTable: true
+  Mobtype: VILLAGER
+  Display: '&cVillager &6Bandit'
+  Health: 15
+  Damage: 25
+  Skills:
+  - skill{s=Rapiddamage} @Target ~onAttack
+  - skill{cooldown=2;s=villager_bandit_skills} @PlayersInRadius{r=40} ~onCombat >0 0.2
+  - skill{s=villager_bandit_smash} ~onCombat >0 0.2
+  - skill{s=Bash} =15%-90% ~onCombat >0 0.2
+  - effect:particles{p=flame;a=20;hS=3;vS=1;s=0;y=2}
+  Options:
+    MovementSpeed: 1
+    MaxCombatDistance: 35
+    FollowRange: 35
+Karazsch:
+  KillMessages:
+  - '&7[&8Mythical Creature&7] <target.name> has been killed by <mob.name>'
+  Mobtype: PIG_ZOMBIE
+  Drops:
+  - exp 150-500 1
+  - money 35000
+  Options:
+    MaxCombatDistance: 15
+    FollowRange: 15
+    Silent: true
+    Despawn: true
+    AlwaysShowName: false
+    MovementSpeed: 0.3
+    PreventOtherDrops: true
+    PreventItemPickup: true
+    KnockbackResistance: 0.4
+    PreventMobKillDrops: true
+  Display: '&6&lKreiger'
+  Health: 850
+  Damage: 20
+  Skills:
+  - message{m="&4&l<mob.name>&f&l<&co> &7Ha-ha-ha-ha! You gotta death-wish? Or you really this stupid!"} @PlayersInRadius{r=100} ~onEnterCombat
+  - message{m="&4&l<mob.name>&f&l<&co> &7Life is sweet, but death is sweeter!"} @PlayersInRadius{r=100} ~onKillPlayer
+  - message{m="&4&l<mob.name>&f&l<&co> &7Urgh! Nnnooo! Just you wait. I will be back!"} @PlayersInRadius{r=100} ~onDeath
+  - message{m="&4&l<mob.name>&f&l<&co> &7Any last requests! A dyin' man always has last requests! ...And you just been tried, sentenced and condemned!"} =100%-95% 1 @PlayersInRadius{r=100} ~onEnterCombat
+  - sound{s=entity.witch.death;p=0.8;v=0.8} @self ~onDamaged
+  - sound{s=entity.blaze.ambient;p=0.3;v=0.2} @self ~onTimer:60 0.25
+  - particles{p=reddust;a=150;hs=0.8;vs=1.2;s=0;y=1.0;c=#8ad9ff} @self ~onDamaged
+  - skill{s=healthbarA} ~onDamaged 1
+  - skill{s=healthbarB} ~onDeath 1
+  - summon{type=KarazschCloud;amount=1;radius=15} ~onDamaged 0.25
+  - skill{s=KarazschBossParticles} @self ~onTimer:20
+  - skill{s=KarazschArcaneBolt} @target ~onTimer:80
+#  - summon{type=KarazschLaserMob;amount=1;radius=8;os=true} ~onTimer:200
+  - effect:lightning @self ~onDeath 1
+  - effect:lightning @self ~onDeath 1
+  - effect:lightning @self ~onDeath 1
+  - command{c="broadcast <trigger.name> defeated &6Kreiger!"} ~onDeath 1
+  KillMessages:
+  - '&7[&8Mob Boss&7] &c<target.name> was destroyed by &6Kreiger'
+  Equipment:
+  - KarazschHead:4
+  AIGoalSelectors:
+  - 0 clear
+  - 2 RandomStroll
+  - 3 AvoidArrows
+  - 4 LookAtPlayers
+  - 5 MoveTowardsTarget
+  AITargetSelectors:
+  - 0 clear
+  - 1 hurtbytarget
+  DamageModifiers:
+  - FALL 0
+  Faction: Karazsch
+KarazschLaserMob:
+  KillMessages:
+  - '&7[&8Mythical Creature&7] <target.name> has been killed by <mob.name>'
+  Type: BABY_PIG_ZOMBIE
+  Drops:
+  - exp 150-500 1
+  - money 350
+  Disguise:
+    Type: ENDER_CRYSTAL
+  Display: ''
+  Health: 5
+  Damage: 0
+  Skills:
+  - skill{s=KarazschLaser} @Target ~onTimer:100
+  - skill{s=KarazschLaserDeath} @Self ~onSpawn
+  - potion{type=SLOW;d=999999;l=10} @self ~onSpawn
+  AITargetSelectors:
+  - 0 clear
+  - 1 Golems
+  Faction: Laser
+  DamageModifiers:
+  - FALL 0
+  Options:
+    PreventOtherDrops: true
+    KnockbackResistance: 1
+    Silent: true
+KarazschCloud:
+  Type: CHICKEN
+  Disguise:
+    Type: CHICKEN
+    Invisible: true
+  Display: 'Dispersed Magic'
+  Drops:
+  - exp 150-500 1
+  Health: 1000
+  Damage: 0
+  Skills:
+  - skill{s=KarazschCloudDeath} @Self ~onSpawn
+  - skill{s=MagicCloudEffect} @Self ~onTimer:20
+  DamageModifiers:
+  - ENTITY_ATTACK 0
+  - PROJECTILE 0
+  - FIRE 0
+  - FIRE_TICK 0
+  - LAVA 0
+  - FALL 0
+  - SUFFOCATION 0
+  - MAGIC 0
+  - CUSTOM 0
+  - CONTACT 0
+  - ENTITY_EXPLOSION 0
+  - BLOCK_EXPLOSION 0
+  AIGoalSelectors:
+  - 0 clear
+  - 2 RandomStroll
+  - 3 AvoidArrows
+  - 4 LookAtPlayers
+  - 5 MoveTowardsTarget
+  AITargetSelectors:
+  - 0 clear
+  - 1 Players
+  DamageModifiers:
+  - FALL 0
+  Options:
+    Silent: true
+    Despawn: true
+    FollowRange: 50
+    AlwaysShowName: false
+    MovementSpeed: 0.1
+    PreventOtherDrops: true
+    PreventItemPickup: true
+    KnockbackResistance: 1.0
+    PreventMobKillDrops: true
+Dead:
+  Type: Skeleton
+  Display: '&8&lUndead'
+  KillMessages:
+  - '&7[&8Mob Boss&7] &c<target.name> was killed by the &5undead...'
+  Health: 25
+  Modules:
+    ImmunityTable: true
+  DamageModifiers:
+  - FIRE_TICK 0
+  Skills:
+  Damage: 4
+  Equipment:
+  - Air:0
+  Drops:
+  - exp 150-500 1
+  - money 200
+  - bone 1-2 .6
+  - rotten_flesh 1-4 .6  
+  AIGoalSelectors:
+  - 0 clear
+  - 1 MeleeAttack
+  - 2 AvoidArrows
+  - 3 LookAtPlayers
+  - 4 Float
+  KillMessages:
+  - '&7[&8Mob Boss&7] &c<target.name> was dragged to the underworld by the Undead'
+  AITargetSelectors:
+  - 0 clear
+  - 1 Players
+  Options:
+    Silent: false
+    Despawn: true
+    MaxCombatDistance: 15
+    FollowRange: 15
+    AlwaysShowName: false
+    MovementSpeed: 0.35
+    PreventOtherDrops: true
+    PreventItemPickup: true
+    KnockbackResistance: 0.4
+    PreventMobKillDrops: false
+    Persistent: false
+    PreventRenaming: false
+    NoDamageTicks: 20
+    Collidable: false
+    Glowing: true
+DeadP:
+  Type: Zombie
+  Display: '&8&lUndead'
+  KillMessages:
+  - '&7[&8Mob Boss&7] &c<target.name> was killed by the &5undead...'
+  Health: 50
+  Modules:
+    ImmunityTable: true
+  DamageModifiers:
+  - FIRE_TICK 0
+  Skills:
+  - effect:itemspray{item=rotten_flesh;amount=40;velocity=0.2;r=0;d=100} @self ~onSpawn 
+  Damage: 6
+  Equipment:
+  - Air:0
+  Drops:
+  - SkeletonKingDrops
+  - money 45000
+  - exp 150-500 1
+  - bone 2-4 .8
+  - rotten_flesh 2-8 .8  
+  AIGoalSelectors:
+  - 0 clear
+  - 1 MeleeAttack
+  - 2 LookAtPlayers
+  - 3 Float
+  KillMessages:
+  - '<target.name> was disfigured by an Undead player'
+  AITargetSelectors:
+  - 0 clear
+  - 1 Players
+  Options:
+    Silent: false
+    Despawn: true
+    MaxCombatDistance: 15
+    FollowRange: 15
+    AlwaysShowName: false
+    MovementSpeed: 0.4
+    PreventOtherDrops: true
+    PreventItemPickup: true
+    KnockbackResistance: 0.8
+    PreventMobKillDrops: false
+    Persistent: false
+    PreventRenaming: false
+    NoDamageTicks: 20
+    Collidable: true
+    Glowing: false
+MeteorPointer:
+  Type: bat
+  Display: ''
+  Health: 1000
+  Damage: 1000
+  DamageModifiers:
+  - '<target.name> was taken by Darkness'
+  Skills:
+  - skill{s=MeteorPointerSpawn} @Self ~onSpawn
+  - skill{s=MeteorPointerFinish} @Self ~onTimer:5 0.07
+  Options:
+    PreventOtherDrops: true
+    KnockbackResistance: 1
+    Silent: true
+    Invincible: true
+SupriseEnemy:
+  Type: ZOMBIE
+  Display: '&6Bandit'
+  Health: 100
+  Damage: 3
+  Faction: Bandits
+  Equipment:
+  - leather_helmet:4
+  - leather_boots:1
+  - leather_sword:0
+  Drops:
+  - exp 150-500 1
+  - money 200
+  Skills:
+  - skill{s=EnemySpawnAnim} ~onSpawn
+  Options:
+    AlwaysShowName: true
+    Despawn: true 
+    MovementSpeed: 0.3  
+  AIGoalSelectors:
+    - 0 clear
+    - 1 meleeattack
+    - 2 randomstroll
+    - 3 FleeSun
+  AITargetSelectors:
+    - 0 clear
+    - 1 players
+    - 2 otherfaction
+Survivor:
+  Type: ZOMBIE
+  Display: '&aSurvivor'
+  Health: 100
+  Damage: 3
+  Faction: Bandits
+  Equipment:
+  - leather_helmet:4
+  - leather_boots:1
+  - leather_sword:0
+  Skills:
+  - skill{s=CryForHelp} ~onTimer:200
+  - skill{s=RevealSelf} ~onInteract
+  - skill{s=KilledSurvivor} ~onDeath
+  Options:
+    AlwaysShowName: true
+    Despawn: true 
+    MovementSpeed: 0.3  
+  AIGoalSelectors:
+    - 0 clear
+    - 1 randomstroll
+    - 2 lookatplayers
+  AITargetSelectors:
+    - 0 clear
+    - 1 players
+    - 2 otherfaction
+KillerSquid:
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 randomstroll
+  - 3 opendoors
+  - 4 moveindoors
+  Modules:
+    ThreatTable: true
+    ImmunityTable: true
+  Mobtype: SQUID
+  Display: '&c&lKiller Squid'
+  Health: 35
+  Damage: 25
+  Skills:
+  - skill{cooldown=8;s=PigSkills} @PlayersInRadius{r=40} ~onCombat >0 0.2
+  - skill{s=PigSmash} ~onCombat >0 0.2
+  - skill{s=Bash} =10%-90% ~onCombat >0 0.2
+  - effect:particles{p=flame;a=20;hS=3;vS=1;s=0;y=2}
+  Options:
+    Speed: 2
+    MaxCombatDistance: 35
+    FollowRange: 35
+SpiderPig:
+  KillMessages:
+  - '&7[&8Mob Boss&7] &c<target.name> was killed by &e&lSpider Pig'
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 randomstroll
+  - 3 opendoors
+  - 4 moveindoors
+  Modules:
+    ThreatTable: true
+    ImmunityTable: true
+  Mobtype: PIG
+  Display: '&e&lSpider Pig'
+  Health: 35
+  Drops:
+  - exp 100-200 1
+  - money 200
+  Damage: 25
+  Skills:
+  - skill{cooldown=8;s=PigSkills} @PlayersInRadius{r=40} ~onCombat >0 0.2
+  - skill{s=PigSmash} ~onCombat >0 0.2
+  - skill{s=Bash} =10%-90% ~onCombat >0 0.2
+  - effect:particles{p=flame;a=20;hS=3;vS=1;s=0;y=2}
+  Options:
+    Speed: 2
+    MaxCombatDistance: 35
+    FollowRange: 35
+Kraken:
+  Mobtype: SKELETON
+  Display: '&3fgvdh'
+  Health: 100
+  Damage: 10
+  Skills:
+  - shootskull 10 >0 0.01
+  - shootfireball 2:true:20 >0 0.03
+  - shootprojectile 10 >0 0.03
+  - ignite 20:5 >0 0.06
+  - forcepull 30 >0 0.01
+  - pull 20:25 >0 0.01
+  - throw 20:10:20 >0 0.01
+  - throwall 20:10:20 >0 0.01
+  - potionboss SPEED:1000:2 =999 1
+  - bossfirework BURST:100,0,255:false:false >0 0.15
+  - effect boss flames =50
+  - skill SummonSkeletons >0 0.01
+  - summon babyzombie:5:5 >0 0.02
+  - summon spider:3:5 >0 0.01
+  Options:
+    Speed: 1
+    MaxCombatDistance: 35
+    FollowRange: 35
+  Equipment:
+  - KrakenEquip
+  - boswer_jr:4
+  Drops:
+  - KrakenDrops
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 randomstroll
+  - 3 opendoors
+  - 4 moveindoors
+BeachWalker:
+  Mobtype: SKELETON
+  Display: '&6Beowulf'
+  Health: 200
+  Damage: 5
+  Skills:
+  - pull 20:25 >0 0.01
+  - potionboss SPEED:1000:2 =999 1
+  Equipment:
+  - Beachequip
+  - Hawaiian29:4
+  Drops:
+  - BeachDrops
+  - exp 100-200 1
+  - money 200
+Jacksparrow:
+  Mobtype: WITHER_SKELETON
+  Display: '&4Ridley'
+  Health: 200
+  Damage: 13
+  Skills:
+  - shootskull 10 >0 0.02
+  - shootfireball 8:true:20 >0 0.03
+  - shootprojectile 10 >0 0.01
+  - ignite 20:5 >0 0.10
+  - forcepull 30 >0 0.01
+  - forcepull 30 >0 0.04
+  - forcepull 30 =1300 1
+  - forcepull 30 =1200 1
+  - forcepull 30 =1100 1
+  - forcepull 30 =1000 1
+  - forcepull 30 =900 1
+  - forcepull 30 =800 1
+  - forcepull 30 =750 1
+  - forcepull 20 =700 1
+  - forcepull 20 =600 1
+  - forcepull 20 =500 1
+  - forcepull 20 =450 1
+  - forcepull 20 =300 1
+  - forcepull 20 =400 1
+  - forcepull 20 =200 1
+  - forcepull 20 =220 1
+  - forcepull 20 =55 1
+  - skill SummonSailors >0 0.01
+  - throw 20:10:20 >0 0.04
+  - throwall 20:10:20 >0 0.02
+  - potionboss SPEED:1000:2 =1400 1
+  - bossfirework BURST:100,0,255:false:false >0 0.15
+  - effect boss flames =50
+  - skill SummonSailors =1000 1
+  - skill SummonSailors =840 1
+  - skill SummonSailors =800 1
+  - skill SummonSailors =770 1
+  - skill SummonSailors =600 1
+  - skill SummonSailors =555 1
+  - skill SummonSailors =444 1
+  - skill SummonSailors =333 1
+  - skill SummonSailors =222 1
+  - skill SummonSailors =111 1
+  - skill SummonSailors =90 1
+  - skill SummonSailors =1230 1
+  - skill SummonSailors =1330 1
+  - skill SummonSailors =1450 1
+  - summon skeleton:5:5 >0 0.01
+  Options:
+    Speed: 1
+    MaxCombatDistance: 35
+    FollowRange: 35
+  Equipment:
+  - JackEquip
+  - aidantristan:4
+  Drops:
+  - JackDrops
+  - exp 100-200 1
+  - money 200
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 randomstroll
+  - 3 opendoors
+  - 4 moveindoors
+Sailor:
+  Mobtype: SKELETON
+  Display: '&6Quadraxis'
+  Health: 100
+  Damage: 5
+  Skills:
+  - pull 20:25 >0 0.01
+  - potionboss SPEED:1000:2 =999 1
+  Equipment:
+  - Beachequip
+  - bradleynegs:4
+  Drops:
+  - BeachDrops
+  - exp 100-200 1
+  - money 200
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 randomstroll
+  - 3 opendoors
+  - 4 moveindoors
+SkeletalKnight:
+  KillMessages:
+  - '&7[&8Mob Boss&7] &c<target.name> was killed by the &e&lSkeletal Knight'
+  Type: WITHER_SKELETON
+  Display: '&2Skeletal Knight'
+  Health: 50
+  Damage: 10
+  Drops:
+  - exp 100-200 1
+  - money 200
+  DropsPerLevel:
+  - gold_nugget 1 0.5
+  LevelModifiers:
+  - health 5
+  - damage 0.5
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 randomstroll
+  - 3 opendoors
+  - 4 moveindoors
+SkeletonHorseRiders:
+  KillMessages:
+  - '&7[&8Mob Boss&7] &c<target.name> was killed by the &e&lSkeletal Rider'
+  Type: SKELETON
+  Display: '&2Skeletal Rider'
+  Health: 100
+  Damage: 5
+  Drops:
+  - gold_nugget 2 0.5
+  - exp 100-200 1
+  - money 200
+  Options:
+    MovementSpeed: 0.3
+  Skills:
+  - mount{m=ymir_ibmm} 0.1
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 randomstroll
+  - 3 opendoors
+  - 4 moveindoors
+StaticallyChargedSheep:
+  Type: SHEEP
+  Display: '&bStatically Charged Sheep'
+  Health: 100
+  Damage: 2
+  Drops:
+  - exp 100-200 1
+  - money 200
+  Options:
+    MovementSpeed: 0.3
+  DamageModifiers:
+  - LIGHTNING 0
+  - FIRE 0.5
+  Skills:
+  - lightning @LivingInRadius{r=10} ~onTimer:100
+AngrySludge:
+  Type: SLIME
+  Display: Angry Sludge
+  Health: 100
+  Damage: 2
+  Drops:
+  - exp 100-200 1
+  - money 200
+  Options:
+    Size: 20
+    MovementSpeed: 0.1
+    PreventSlimeSplit: true
+    PreventOtherDrops: true
+    MaxCombatDistance: 35
+    FollowRange: 35
+    KnockbackResistance: 1
+  Skills:
+  - skill{s=AngrySludgePoison} 0.2
+SkeletalMinion:
+  KillMessages:
+  - '&7[&8Mob Boss&7] &c<target.name> was killed by the &2Skeletal Minion'
+  Type: SKELETON
+  Display: '&2Skeletal Minion'
+  Health: 15
+  Damage: 2
+  Equipment:
+  - ChainMailHelmet:4
+  Drops:
+  - exp 100-200 1
+  - money 200
+  Skills:
+  - message{m="<mob.name><&co> We have defeated you!, <trigger.name>!"} @PlayersInRadius{r=40} ~onPlayerKill >0 1
+  Options:
+    MovementSpeed: 0.1

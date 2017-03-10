@@ -1,0 +1,22 @@
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+lastAccountName: AmzingMlpLover
+timestamps:
+  login: 1472234434761
+  logout: 1472234498193
+ipAddress: 24.151.94.166
+geolocation: Harwinton, Connecticut, United States
+logoutlocation:
+  world: world
+  x: 499.58052163052264
+  y: 88.0
+  z: -187.62546617161792
+  yaw: 93.69998
+  pitch: 59.84998
+money: '2500'
+afk: false

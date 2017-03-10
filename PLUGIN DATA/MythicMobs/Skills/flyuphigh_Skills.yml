@@ -1,0 +1,516 @@
+###########################################################################
+#The following Mob pack was made by flyuphigh on MM v2.3.0 on a 1.8.8 server, but works on the latest version(2.4.5) as well.
+#For 1.9 compatibility, change the sounds accordingly to 1.9
+#http://minecraft.gamepedia.com/Sounds.json -> this link should help on converting to 1.9 sounds.
+
+#If you are an active user of MythicMobs, please consider becoming a patron to MM
+#https://www.patreon.com/xikage?ty=h -> I post this link without any strings attached to Xikage.
+#Enjoy~
+
+#http://jaygrounds.yolasite.com/Downloads.php -> You need the vanilla item core in your items folder.
+#for mc_iron_sword, mc_bow. Seriously you'll need it if you want the equip mechanic to work properly.
+#That's Jaylawl's site btw and his creations are beyond epic, check him out when you get the chance :)
+###########################################################################
+
+
+#Multi-purpose
+Lava_avoid:
+  Cooldown: 1
+  Conditions:
+  - inblock STATIONARY_LAVA,LAVA
+  Skills:
+  - teleport{spreadH=20;spreadv=10} @Self
+  - message{m="&7[<mob.name>&7] &eHOT!"} @PlayersInRadius{r=30}
+
+teleport_firsthit:
+  Cooldown: 10000
+  Skills:
+  - message{m="&7[<mob.name>&7] &eI enter battle"} @PlayersInRadius{r=30}
+  - teleport{spreadh=12;spreadv=1} @trigger
+
+  
+  
+  
+  
+  
+#Lurker summon/summoncheck
+Lurker_summon_check:
+  Conditions:
+  - outside true
+  - heightabove 60
+  - heightbelow 100
+  - inblock AIR
+  - onblock IRON_BLOCK
+  Skills:
+  - skill{s=Lurker_summon}
+  
+Lurker_summon:
+  Cooldown: 20
+  Skills:
+  - message{m="[BOSS ALERT] &4<!!!> &fThe &cQueen of Blades&f is being summoned&4<!!!>"} @PlayersInRadius{r=50}
+  - potion{type=DAMAGE_RESISTANCE;d=200;lvl=5} @Self
+  - effect:spin{duration=40;velocity=5} @self
+  - potion{type=DAMAGE_RESISTANCE;d=10;l=5} @PlayersInRadius{r=7}
+  - throw{v=5;vy=2} @PlayersInRadius{r=7}
+  - potion{t=SLOW;d=400;l=99} @self
+  - effect:particles{p=blockcrack_57;a=50;hS=1;vs=1;v=0;y=0} @self
+  - delay 40
+  - effect:spin{duration=20;velocity=10} @self
+  - explosion{blockdamage=true;fire=false;yield=3}
+  - delay 20
+  - explosion{blockdamage=false;fire=false;yield=5}
+  - effect:spin{duration=40;velocity=20} @self
+  - delay 40
+  - effect:itemspray{item=iron_sword;amount=30;velocity=0.5;d=30;yo=3;r=0;yVelocity=1} @origin
+  - effect:blockmask{m=IRON_BLOCK;r=10;d=60} @origin
+  - effect:spin{duration=40;velocity=40} @self
+  - delay 40
+  - effect:itemspray{item=diamond_sword;amount=40;velocity=0.5;d=60;yo=3;r=0;yVelocity=1} @origin
+  - summon{m=Lurker;a=1;r=0} @Self
+  - delay 5
+  - remove @Self
+  
+  
+  
+  
+  
+  
+  
+  
+
+#Stealthzombie
+Stealthzombie_Idle:
+  Conditions:
+  - stance Stealthzombie_Idle_stance
+  - offgcd
+  Skills:
+  - effect:sound{sound=mob.endermen.stare;v=0.5;p=1} @Self
+  - potion{type=INVISIBILITY;lvl=1;duration=25} @Self
+  - delay 30
+  - potion{type=INVISIBILITY;lvl=1;duration=25} @Self
+  - delay 30
+  - potion{type=INVISIBILITY;lvl=1;duration=25} @Self
+  - delay 40
+  
+Stealthzombie_Combat:
+  Conditions:
+  - stance Stealthzombie_Combat_stance
+  Cooldown: 4
+  Skills:
+  - potion{type=INVISIBILITY;lvl=1;duration=50} @Self
+  - potion{type=DAMAGE_RESISTANCE;lvl=4;duration=50} @Self
+  - potion{type=SLOW;lvl=11;duration=50} @Self
+  - teleport{spreadH=4;spreadV=2} @Self
+  - teleport{spreadH=7;spreadV=1} @Target >0 0.5
+  - delay 60
+  - potion{type=SPEED;lvl=4;duration=20} @Self
+  - shoot{type=SNOWBALL;velocity=2;damage=11} @PlayersInRadius{r=15}
+  - delay 10
+  
+Stealthzombie_Hit:
+  Conditions:
+  - stance Stealthzombie_Hit_stance
+  Cooldown: 10
+  Skills:
+  - message{m="&7[<mob.name>&7] &eDeath from above"} @PlayersInRadius{r=30}
+  - teleport{spreadh=0;spreadv=7} @Target
+  - leap{velocity=40;n=0} @Target
+  - delay 20
+  - jump{velocity=-100}
+  - effect:explosion @self
+  - damage{amount=4;ignorearmor=true @EntitiesInRadius{r=10}
+  - heal{amount=30} @Self
+  - setstance{stance=Stealthzombie_Combat_stance}
+
+  
+  
+  
+  
+  
+  
+  
+  
+#Lurker
+Lurker_Idle:
+  Conditions:
+  - stance Lurker_Idle_stance
+  Cooldown: 4
+  Skills:
+  - potion{type=SPEED;lvl=5;duration=10} @Self
+  - effect:sound{s=mob.spider.step;v=1;p=0}
+  - delay 20
+  - heal{amount=25} @Self
+  - potion{type=SPEED;lvl=5;duration=10} @Self
+  - effect:sound{s=mob.spider.step;v=1;p=0}
+  - delay 20
+  - potion{type=SPEED;lvl=5;duration=10} @Self
+  - effect:sound{s=mob.spider.step;v=1;p=0}
+  - delay 20
+  - potion{type=SPEED;lvl=5;duration=10} @Self
+  - jump{velocity=1}
+  - effect:sound{s=mob.spider.step;v=1;p=0}
+  - delay 20
+  - heal{amount=25} @Self
+  
+Lurker_Combat:
+  Conditions:
+  - stance Lurker_Combat_stance
+  Cooldown: 10
+  Skills:
+  - potion{type=SLOW;lvl=30;duration=130} @Self
+  - potion{type=INVISIBILITY;lvl=1;duration=130} @Self
+  - effect:particles{p=blockcrack_3;amount=20;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0} @Self
+  - effect:sound{s=dig.gravel;v=1.5;p=0.2} @Self
+  - delay 2
+  - effect:sound{s=dig.sand;v=1.5;p=0.2} @Self
+  - delay 2
+  - effect:particles{p=blockcrack_3;amount=20;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0} @Self
+  - effect:sound{s=dig.gravel;v=1.5;p=0.2} @Self
+  - delay 2
+  - effect:sound{s=dig.sand;v=1.5;p=0.2} @Self
+  - delay 2
+  - effect:particles{p=blockcrack_3;amount=20;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0} @Self
+  - effect:sound{s=dig.gravel;v=1.5;p=0.2} @Self
+  - delay 2
+  - effect:sound{s=dig.sand;v=1.5;p=0.2} @Self
+  - delay 2
+  - effect:particles{p=blockcrack_3;amount=20;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0} @Self
+  - effect:sound{s=dig.gravel;v=1.5;p=0.2} @Self
+  - delay 2
+  - effect:sound{s=dig.sand;v=1.5;p=0.2} @Self
+  - delay 2
+  - effect:particles{p=blockcrack_3;amount=20;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0} @Self
+  - effect:sound{s=dig.gravel;v=1.5;p=0.2} @Self
+  - delay 2
+  - effect:sound{s=dig.sand;v=1.5;p=0.2} @Self
+  - delay 2
+  - potion{type=DAMAGE_RESISTANCE;lvl=5;duration=120} @Self
+  - effect:particles{p=blockcrack_3;amount=100;hSpread=3;ySpread=1.5;speed=1;yOFfset=0} @Self
+  - delay 20
+  - skill{s=LurkerSpikes}
+  - delay 30
+  - skill{s=LurkerSpikes}
+  - delay 30
+  - skill{s=LurkerSpikes}
+  - delay 30
+  - effect:particles{p=blockcrack_3;amount=100;hSpread=1;ySpread=1.5;speed=1;yOFfset=0} @Self
+  - effect:sound{s=dig.sand;v=1.5;p=0} @Self
+  - delay 2
+  - effect:sound{s=dig.sand;v=1.5;p=0} @Self
+  - setstance{stance=Lurker_Skill_stance} @Self >0 0.75
+  
+Lurker_Skill:
+  Conditions:
+  - stance Lurker_Skill_stance
+  Cooldown: 11
+  Skills:
+  - potion{type=SLOW;lvl=30;duration=100} @Self
+  - potion{type=INVISIBILITY;lvl=1;duration=100} @Self
+  - message{m="&7[<mob.name>&7] &eCowards shall be slain"} @PlayersInRadius{r=60}
+  - effect:sound{s=mob.endermen.death;v=1.5;p=2} @Self
+  - effect:particles{p=blockcrack_1;amount=20;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0} @Self
+  - effect:sound{s=dig.gravel;v=1.5;p=0.5} @Self
+  - delay 2
+  - effect:sound{s=dig.sand;v=1.5;p=0.5} @Self
+  - delay 2
+  - effect:particles{p=blockcrack_1;amount=20;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0} @Self
+  - effect:sound{s=dig.gravel;v=1.5;p=0.5} @Self
+  - delay 2
+  - effect:sound{s=dig.sand;v=1.5;p=0.5} @Self
+  - delay 2
+  - effect:particles{p=blockcrack_1;amount=20;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0} @Self
+  - effect:sound{s=dig.gravel;v=1.5;p=0.5} @Self
+  - delay 2
+  - effect:sound{s=dig.sand;v=1.5;p=0.5} @Self
+  - delay 2
+  - effect:particles{p=blockcrack_1;amount=20;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0} @Self
+  - effect:sound{s=dig.gravel;v=1.5;p=0.5} @Self
+  - delay 2
+  - effect:sound{s=dig.sand;v=1.5;p=0.5} @Self
+  - delay 2
+  - effect:particles{p=blockcrack_1;amount=20;hSpread=0.5;ySpread=0.5;speed=0;yOFfset=0} @Self
+  - effect:sound{s=dig.gravel;v=1.5;p=0.5} @Self
+  - delay 2
+  - effect:sound{s=dig.sand;v=1.5;p=0.5} @Self
+  - delay 2
+  - potion{type=DAMAGE_RESISTANCE;lvl=5;duration=80} @Self
+  - effect:particles{p=blockcrack_1;amount=110;hSpread=3;ySpread=1.5;speed=1;yOFfset=0} @Self
+  - teleport{spreadH=12;spreadV=1} @Target >0 0.5
+  - delay 20
+  - skill{s=LurkerSpikes2}
+  - teleport{spreadH=12;spreadV=1} @Target
+  - delay 20
+  - skill{s=LurkerSpikes2}
+  - teleport{spreadH=12;spreadV=1} @Target >0 0.5
+  - delay 20
+  - skill{s=LurkerSpikes2}
+  - teleport{spreadH=12;spreadV=1} @Target >0 0.5
+  - delay 10
+  - effect:particles{p=blockcrack_1;amount=100;hSpread=1;ySpread=1.5;speed=1;yOFfset=0} @Self
+  - effect:sound{s=dig.sand;v=1.5;p=0} @Self
+  - delay 2
+  - effect:sound{s=dig.sand;v=1.5;p=0} @Self
+  - heal{amount=30} @Self
+  - setstance{stance=Lurker_Idle_stance} @Self
+  - message{m="&7[<mob.name>&7] &eHealing mode initiated"} @PlayersInRadius{r=60}
+
+LurkerSpikes:
+  Skills:
+  - projectile{onTick=LurkerSpike_TICK;onHit=LurkerSpike_HIT;i=4;hR=2.5;Vr=40;d=60;v=20;mR=30;syo=0.1;sfo=0;hp=true;sE=true;sB=false;hs=true;hfs=0.1} @RTT
+
+LurkerSpike_TICK:
+  Skills:
+  - effect:itemspray{item=iron_sword;amount=5;velocity=0.1;d=10;yo=0.1;r=0;v=0.5} @origin
+  - effect:sound{s=tile.piston.out;v=0.5;p=0.5} @Origin
+
+  
+LurkerSpike_HIT:
+  Skills:
+  - pull{velocity=6} @target
+  - delay 5
+  - damage{amount=10;ignorearmor=false} @target
+  - explosion{blockdamage=false;fire=false;yield=0.08} @target
+  - delay 2
+  - throw{v=0;vy=8} @target
+  
+LurkerSpikes2:
+  Skills:
+  - projectile{onTick=LurkerSpike_TICK2;onHit=LurkerSpike_HIT2;i=4;hR=2.5;Vr=2.5;d=60;v=22;mR=30;syo=0.1;sfo=0;hp=true;sE=true;sB=false;hs=true;hfs=0.1} @RTT
+  
+LurkerSpike_TICK2:
+  Skills:
+  - effect:itemspray{item=diamond_sword;amount=5;velocity=0.1;d=10;yo=0.1;r=0;v=0.5} @origin
+  - effect:sound{s=tile.piston.out;v=0.5;p=0.5} @Origin
+  
+LurkerSpike_HIT2:
+  Skills:
+  - pull{velocity=8} @target
+  - delay 5
+  - explosion{blockdamage=false;fire=false;yield=0.08} @target
+  - damage{amount=4;ignorearmor=true} @target
+  - delay 2
+  - throw{v=0;vy=10} @target
+  
+  
+  
+  
+  
+#witch
+IceBolt:
+  Cooldown: 10
+  Conditions:
+  - targetwithin 25
+  Skills:
+  - effect:particleline{particle=dripWater;amount=1;s=10;fromOrigin=true;ys=3} @Target
+  - delay 20
+  - projectile{onTick=IceBolt_tick;onHit=IceBolt_hit;velocity=25;Type=NORMAL;interval=2;HorizontalRadius=1;VerticalRadius=1;StartYOffset=2;StartFOffset=1;maxrange=20;d=20;StopAtEntity=true} @Target
+  - message{m="&7[<mob.name>&7] &eICE BOLT!"} @PlayersInRadius{r=30}
+IceBolt_tick:
+  Skills:
+  - effect:particlesphere{particle=snowballpoof;amount=15;radius=0.3} @self @Origin
+  - effect:particlesphere{p=blockcrack_79;a=15;radius=0.3} @Origin
+IceBolt_hit:
+  Skills:
+  - effect:sound{s=dig.glass;v=1;p=0} @Origin
+  - damage{amount=8;ignorearmor=false} @Target
+  - potion{type=SLOW;lvl=5;duration=200} @Target
+  - potion{type=HUNGER;lvl=2;duration=120} @Target
+  - potion{type=BLINDNESS;lvl=1;duration=60} @Target
+
+IceHeal:
+  Conditions:
+  - targetwithin 60
+  Cooldown: 12
+  Skills:
+  - message{m="&7[<mob.name>&7] &eI shall freeze my wounds"} @PlayersInRadius{r=30}
+  - teleport{spreadH=10,spreadV=2} @Self
+  - prison{material=PACKED_ICE;duration=30;breakable=false} @Self
+  - heal{amount=50} @Self
+ 
+push:
+  Cooldown: 5
+  Conditions:
+  - targetwithin 7
+  Skills:
+  - message{m="&7[&5<mob.name>&7] &eGO AWAY"} @PlayersInRadius{r=20}
+  - summon{mob=shotgunfish;amount=1} @Self
+  - throw{velocity=10;velocityY=1} @PlayersInRadius{r=10}
+  
+witch_blink:
+  Cooldown: 10
+  Skills:
+  - message{m="&7[<mob.name>&7] &eBlink!"} @PlayersInRadius{r=30}
+  - teleport{spreadh=3;spreadv=1} @target
+  
+  
+  
+#Hybridzombie
+
+Check_far:
+  Skills:
+  - skill{s=Switch_far_stance} @Self
+  - skill{s=Switch_close_stance} @Self
+  
+Switch_far_stance:
+  Conditions:
+  - playernotwithin 6
+  - stance close_stance
+  Skills:
+  - setstance{stance=far_stance}
+  - equip{i=mc_bow:0}
+  
+Switch_close_stance:
+  Conditions:
+  - playerwithin 5
+  - stance far_stance
+  Skills:
+  - setstance{stance=close_stance}
+  - equip{i=mc_iron_sword:0}
+
+Hybrid_far_attack:
+  Cooldown: 1
+  Conditions:
+  - stance far_stance
+  - targetwithin 50
+  - targetinlineofsight true
+  Skills:
+  - shoot{type=ARROW;velocity=5;damage=6}
+  - setstance{stance=Hybrid_volley_stance} @self >0 0.2
+  
+Hybrid_close_attack:
+  Cooldown: 1
+  Conditions:
+  - stance close_stance
+  Skills:
+  - potion{type=speed;lvl=1;duration=25} @Self
+  - teleport{spreadH=3;spreadv=1} @Target >0 0.1
+  
+Hybrid_volley:
+  Cooldown: 1
+  Conditions:
+  - stance Hybrid_volley_stance
+  - targetinlineofsight true
+  Skills:
+  - effect:particleline{particle=flame;amount=1;s=0;fromOrigin=true;ys=3} @Target
+  - delay 40
+  - arrowvolley{a=7;s=200;v=30;f=80;r=60} @Target
+  - delay 30
+  - arrowvolley{a=7;s=200;v=30;f=80;r=60} @Target
+  - delay 30
+  - arrowvolley{a=7;s=200;v=30;f=80;r=60} @Target
+  - setstance{stance=far_stance} @Self
+  
+  
+
+  
+  
+  
+  
+  
+#Hybridspider
+Spider_shoot:
+  Cooldown: 5
+  Conditions:
+  - playerwithin 45
+  - targetinlineofsight true
+  Skills:
+  - jump{v=1}
+  - effect:sound{s=mob.spider.say;v=2;p=2} @Target
+  - delay 20
+  - projectile{onTick=Web_TICK;onHit=Web_HIT;i=2;hR=1;Vr=1;d=80;v=20;mR=40;syo=1;sfo=0.5;hp=true;sE=true;sB=true} @Target
+  - skill{s=Spider_leap_close}
+  - skill{s=Spider_leap_far}
+  - skill{s=Spider_leap_water}
+  - delay 30
+  - effect:particlesphere{particle=cloud;amount=15;radius=2;speed=0} @self
+  - delay 10
+  - projectile{onTick=Spider_TICK;onHit=Spider_HIT;i=1;hR=1;Vr=1;d=80;v=30;mR=40;syo=1;sfo=0.5;hp=true;sE=true;sB=true} @Target
+  
+Spider_leap_close:
+  Conditions:
+  - Targetwithin 15
+  - inblock air
+  Skills:
+  - leap{velocity=-300}
+  
+Spider_leap_far:
+  Conditions:
+  - Targetnotwithin 15
+  - inblock air
+  Skills:
+  - leap{velocity=300}
+  
+Spider_leap_water:
+  Conditions:
+  - inblock WATER,STATIONARY_WATER
+  Skills:
+  - jump{v=1}
+  - delay 20
+  - leap{velocity=300}
+  
+Spider_TICK:
+  Skills:
+  - effect:particles{particle=cloud;amount=10;speed=0;hs=0.2;vs=0.2} @Origin
+  
+Web_TICK:
+  Skills:
+  - effect:particles{particle=crit;amount=10;speed=0;hs=0.2;vs=0.2} @Origin
+  
+Web_HIT:
+  Skills:
+  - potion{type=SLOW;lvl=5;duration=60}
+  - potion{type=BLINDNESS;lvl=1;duration=40}
+  - message{m="&7[<mob.name>&7] &eYou are already bit puny human"} @Target
+  
+Spider_HIT:
+  Skills:
+  - jump{v=1} @Self
+  - effect:sound{s=mob.spider.step;v=1;p=2} @Target
+  - delay 2
+  - effect:sound{s=mob.spider.step;v=1;p=2} @Target
+  - delay 2
+  - effect:sound{s=mob.spider.step;v=1;p=2} @Target
+  - delay 10
+  - effect:particleline{particle=cloud;amount=1;s=0;ys=0.5} @Target
+  - leap{velocity=600} @target
+  - delay 10
+  - potion{type=SPEED;lvl=5;duration=100} @Self
+  - potion{type=INVISIBILITY;lvl=1;duration=50} @Self
+  - potion{type=POISON;lvl=1;duration=80} @Target
+  - teleport{spreadH=3;spreadV=1} @target
+  - delay 17
+  - teleport{spreadH=3;spreadV=1} @target
+  - delay 18
+  - teleport{spreadH=3;spreadV=1} @target
+  - delay 15
+  - teleport{spreadH=3;spreadV=1} @target
+  
+
+  
+  
+  
+  
+  
+#Swordspider
+SpiderSpikes:
+  Conditions:
+  - playerwithin 25
+  Cooldown: 5
+  Skills:
+  - message{m="&7[<mob.name>&7] &esshhkk"} @PlayersInRadius{r=60}
+  - jump{velocity=0.5}
+  - delay 40
+  - projectile{onTick=SpiderSpike_TICK;onHit=SpiderSpike_HIT;i=4;hR=2.5;Vr=2.5;d=60;v=10;mR=30;syo=0.1;sfo=0;hp=true;sE=true;sB=false;hs=true;hfs=0.1} @Target
+  
+SpiderSpike_TICK:
+  Skills:
+  - effect:itemspray{item=stone_sword;amount=5;velocity=0.1;d=10;yo=0.1;r=0;v=0.5} @origin
+  - effect:sound{s=tile.piston.out;v=0.5;p=0.5} @Origin
+  
+SpiderSpike_HIT:
+  Skills:
+  - explosion{blockdamage=false;fire=false;yield=0.05} @target
+  - throw{velocity=15;velocityY=1} @target
+  - damage{amount=9;ignorearmor=false} @target
+  
+  

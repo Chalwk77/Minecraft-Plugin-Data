@@ -1,0 +1,4 @@
+# 
+#  					BukkitDev Help page : http://dev.bukkit.org/server-mods/mycommand/    					#
+variables:
+  cooldown: 5

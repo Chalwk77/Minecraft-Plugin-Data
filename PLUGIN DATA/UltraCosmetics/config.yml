@@ -1,0 +1,1476 @@
+Pets:
+  Piggy:
+    Description:
+    - §7§oOink! Oink!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Sheep:
+    Description:
+    - §7§oBaaaa, baa
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Kitty:
+    Description:
+    - §7§oMeoooow!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Dog:
+    Description:
+    - §7§oWoof!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Chick:
+    Description:
+    - §7§oBwwaaaaaaaaaaaakkkkk!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Cow:
+    Description:
+    - §7§oMoo moo!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  EasterBunny:
+    Description:
+    - §7§oIs it easter yet?
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Wither:
+    Description:
+    - §7§oWatch out for me.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Pumpling:
+    Description:
+    - §7§oI am just a little pumpkin
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  ChristmasElf:
+    # description of this pet.
+    Description:
+    - '&7&oI can make presents for you!'
+    # if true, the pet will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  Mooshroom:
+    # description of this pet.
+    Description:
+    - '&7&oMoooo!'
+    # if true, the pet will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+Mounts:
+  DruggedHorse:
+    Description:
+    - §7§oThat is just too much!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  EcologistHorse:
+    Description:
+    - §7§oBecome ecologist!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  GlacialSteed:
+    Description:
+    - §7§oThis mount comes from North Pole!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  InfernalHorror:
+    Description:
+    - §7§oThis mount directly comes from hell!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  MountOfFire:
+    Description:
+    - §7§oThe mount of Hadès!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  MountOfWater:
+    Description:
+    - §7§oThe mount of Poseidon!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  WalkingDead:
+    Description:
+    - §7§oGraaaw..
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Snake:
+    Description:
+    - §7§oWatch out it may bite.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  NyanSheep:
+    Description:
+    - §4§lNyan §6§lnyan §e§lnyan
+    - §a§lnyan §3§lnyan §9§lnyan
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Dragon:
+    Description:
+    - §7§oBecome a dragon rider!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  SkySquid:
+    Description:
+    - §7§oWat.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Slime:
+    Description:
+    - §7§oSplat Splat
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  HypeCart:
+    Description:
+    - §7§oNow you can be in a F1!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Spider:
+    Description:
+    - §7§oYou are the spider jockey!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Rudolph:
+    # Description of this mount.
+    Description:
+    - '&7&oWhat would be Christmas'
+    - '&7&owithout Rudolph!'
+    # if true, the mount will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  MoltenSnake:
+    # Description of this mount.
+    Description:
+    - '&7&oDeep under the Earth''s surface, there'
+    - '&7&oexists a mythical species of Molten'
+    - '&7&oSnakes. This one will serve you eternally.'
+    # if true, the mount will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  FlyingShip:
+    # Description of this mount.
+    Description:
+    - '&7&oBomb them all!'
+    # if true, the mount will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+Particle-Effects:
+  RainCloud:
+    Description:
+    - §7§oThe weather forecast is
+    - §7§otelling me it is raining.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  SnowCloud:
+    Description:
+    - §7§oThe weather forecast is
+    - §7§otelling me it is raining.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  BloodHelix:
+    Description:
+    - §7§oAncient legend says this magic
+    - §7§o enpowers the blood of its user,
+    - §7§ogiving them godly powers
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  FrostLord:
+    Description:
+    - §7§oI am the almighty frostlord!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  FlameRings:
+    Description:
+    - §7§oWatch out, they are hot!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  InLove:
+    Description:
+    - §7§oOMG, I am in love!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  GreenSparks:
+    Description:
+    - §7§oLittle green sparkly sparks!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  FrozenWalk:
+    Description:
+    - §7§oMy feet are so cold!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Music:
+    Description:
+    - §7§oMuch music
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Enchanted:
+    Description:
+    - §7§oBecome an almighty enchanter!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Inferno:
+    Description:
+    - §7§oEffect created by Satan himself!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  AngelWings:
+    Description:
+    - §7§oBecome an angel!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  SuperHero:
+    Description:
+    - §7§oBecome SuperMan!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  SantaHat:
+    # Description of this particle effect.
+    Description:
+    - '&7&oBecome Santa!'
+    # if true, the effect will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  CrushedCandyCane:
+    # Description of this particle effect.
+    Description:
+    - '&7&oThere''s no such thing as too much'
+    - '&7&oChristmas Candy. Do not listen'
+    - '&7&oto your dentist.'
+    # if true, the effect will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  EnderAura:
+    # Description of this particle effect.
+    Description:
+    - '&7&oThese mystic particle attach to'
+    - '&7&oonly the most legendary of players!'
+    # if true, the effect will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  FlameFairy:
+    # Description of this particle effect.
+    Description:
+    - '&7&oHEY!!'
+    # if true, the effect will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+Hats:
+  Astronaut:
+    Description:
+    - §7§oHouston, we have got a problem.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Scared:
+    Description:
+    - §7§oOh gawd, that scared me!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Angel:
+    Description:
+    - §7§oDid it hurt when you fell from heaven?
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Embarassed:
+    Description:
+    - §7§oI am kinda embarassed by that.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Kissy:
+    Description:
+    - §7§oWanna kiss?
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Sad:
+    Description:
+    - §7§oI am so sad.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Cool:
+    Description:
+    - §7§oI am such a cool guy.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Surprised:
+    Description:
+    - §7§oWow, did not expect that!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Dead:
+    Description:
+    - §7§ogot rekt
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Crying:
+    Description:
+    - §7§oi cri evrytiem
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  BigSmile:
+    Description:
+    - §7§oUh, because I am really happy!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Wink:
+    Description:
+    - §7§oYou know what I mean ;)
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Derp:
+    Description:
+    - §7§oDerp Derp Derping all around
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Smile:
+    Description:
+    - §7§oUh, because I am happy
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Iron:
+    Description:
+    - §7§oAs hard as iron!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Gold:
+    Description:
+    - §7§oMy precious!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Diamond:
+    Description:
+    - §7§oThis is really strong!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Piston:
+    Description:
+    - §7§oHave you got the redstone?
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  CommandBlock:
+    Description:
+    - §7§oControl the world with it!
+    Enabled: false
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Music:
+    Description:
+    - §7§oYou are so musical.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Squid:
+    Description:
+    - §7§oBloop Bloop!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Chicken:
+    Description:
+    - §7§oBwwaaaaaaaaaaaakkkkk!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Pig:
+    Description:
+    - §7§oOink Oink!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Blaze:
+    Description:
+    - §7§oWatch out for the fire!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Sheep:
+    Description:
+    - §7§oBaaaa, baa
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Golem:
+    Description:
+    - §7§oI am your guard.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Enderman:
+    Description:
+    - §7§oNow I am here, now I am there.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Mario:
+    Description:
+    - §7§oIt is me! Mario!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Luigi:
+    Description:
+    - §7§oLuigi time!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Batman:
+    Description:
+    - §7§oI am batman!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Chest:
+    Description:
+    - §7§oOpen, and close
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Skull:
+    Description:
+    - §7§oWho iss headless now?
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Ghost:
+    Description:
+    - §7§o2spooky4u
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  JackOLantern:
+    Description:
+    - §7§oA little pumkin
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  ScaryClown:
+    Description:
+    - §7§oHope you are not scared of clowns.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+  Santa:
+    # description of this hat.
+    Description:
+    - '&7&oOh oh oh! Merry Christmas!'
+    # if true, the hat will be enabled.
+    Enabled: true
+    # if true, the description of this hat will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  Snowman:
+    # description of this hat.
+    Description:
+    - '&7&oI don''t have a skull.. or bones'
+    # if true, the hat will be enabled.
+    Enabled: true
+    # if true, the description of this hat will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  Present:
+    # description of this hat.
+    Description:
+    - '&7&oFrom Santa, to you!'
+    # if true, the hat will be enabled.
+    Enabled: true
+    # if true, the description of this hat will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  Elf:
+    # description of this hat.
+    Description:
+    - '&7&oI work for Santa!'
+    # if true, the hat will be enabled.
+    Enabled: true
+    # if true, the description of this hat will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  Bedrock:
+    # description of this hat.
+    Description:
+    - '&7&oUnbreakable!'
+    # if true, the hat will be enabled.
+    Enabled: true
+    # if true, the description of this hat will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+Enabled-Worlds:
+- world
+Check-For-Updates: true
+Categories-Enabled:
+  Gadgets: true
+  Particle-Effects: true
+  Mounts: true
+  Pets: true
+  Morphs: true
+  Hats: true
+  # Do you want to enable Suits category?
+  Suits: true
+  Emotes: true
+TreasureChests:
+  Enabled: true
+  Key-Price: 15000
+  Loots:
+    Money:
+      Enabled: true
+      Max: 100
+      Chance: 10
+      Message:
+        enabled: true
+        message: '%prefix% §6§l%name% found $%money%'
+    Gadgets-Ammo:
+      Enabled: true
+      Min: 20
+      Max: 100
+      Chance: 60
+      Message:
+        enabled: true
+        message: '%prefix% §6§l%name% found %ammo% %gadget% ammo'
+    Mounts:
+      Enabled: true
+      Chance: 10
+      Message:
+        enabled: true
+        message: '%prefix% §6§l%name% found rare %mount%'
+    Pets:
+      Enabled: true
+      Chance: 10
+      Message:
+        enabled: true
+        message: '%prefix% §6§l%name% found rare %pet%'
+    Morphs:
+      Enabled: true
+      Chance: 4
+      Message:
+        enabled: true
+        message: '%prefix% §6§l%name% found legendary %morph%'
+    Effects:
+      Enabled: true
+      Chance: 4
+      Message:
+        enabled: true
+        message: '%prefix% §6§l%name% found legendary %effect%'
+    Hats:
+      Enabled: true
+      Chance: 30
+      Message:
+        enabled: true
+        message: '%prefix% §6§l%name% found rare %hat%'
+    # Chance of getting a GADGET
+    # This is different from ammo!
+    Gadgets:
+      Enabled: true
+      Chance: 20
+      Message:
+        enabled: true
+        message: '%prefix% &6&l%name% found gadget %gadget%'
+    Suits:
+      Enabled: true
+      Chance: 10
+      Message:
+        enabled: true
+        message: '%prefix% &6&l%name% found suit part: %suitw%'
+    Emotes:
+      Enabled: true
+      Chance: 5
+      Message:
+        enabled: true
+        message: '%prefix% &6&l%name% found rare %emote%'
+  Designs:
+    Classic:
+      center-block: '169:0'
+      around-center: '5:0'
+      third-blocks: '5:1'
+      below-chests: '17:0'
+      barriers: '85:0'
+      chest-type: NORMAL
+      effect: FLAME
+    Modern:
+      center-block: '169:0'
+      around-center: '5:0'
+      third-blocks: '5:1'
+      below-chests: '17:0'
+      barriers: '85:0'
+      chest-type: NORMAL
+      effect: FLAME
+    Nether:
+      center-block: '89:0'
+      around-center: '88:0'
+      third-blocks: '87:0'
+      below-chests: '112:0'
+      barriers: '113:0'
+      chest-type: TRAPPED
+      effect: FLAME
+  Permission-Add-Command: pex user %name% add %permission%
+Categories:
+  Gadgets:
+    Main-Menu-Item: '341:0'
+    Go-Back-Arrow: true
+    # You wanna show the cooldown of
+    # current gadget in action bar?
+    Cooldown-In-ActionBar: true
+  Particle-Effects:
+    Main-Menu-Item: '362:0'
+    Go-Back-Arrow: true
+  Mounts:
+    Main-Menu-Item: '329:0'
+    Go-Back-Arrow: true
+  Pets:
+    Main-Menu-Item: '383:0'
+    Go-Back-Arrow: true
+  Morphs:
+    Main-Menu-Item: '397:4'
+    Go-Back-Arrow: true
+  Hats:
+    Main-Menu-Item: '310:0'
+    Go-Back-Arrow: true
+  Suits:
+    Main-Menu-Item: '299:0'
+    Go-Back-Arrow: true
+  # Item where user click to clear a cosmetic.
+  Clear-Cosmetic-Item: '152:0'
+  # Previous Page Item
+  Previous-Page-Item: '368:0'
+  # Next Page Item
+  Next-Page-Item: '381:0'
+  # Back to Main Menu Item
+  Back-Main-Menu-Item: '262:0'
+  Self-View-Item:
+    # Item in Morphs Menu when Self View enabled.
+    When-Enabled: '381:0'
+    # Item in Morphs Menu when Self View disabled.
+    When-Disabled: '368:0'
+  Gadgets-Item:
+    # Item in Gadgets Menu when Gadgets enabled.
+    When-Enabled: '351:10'
+    # Item in Gadgets Menu when Gadgets disabled.
+    When-Disabled: '351:8'
+  # Item in Pets Menu to rename current pet.
+  Rename-Pet-Item: '421:0'
+  # Should GUI close after selecting a cosmetic?
+  Close-GUI-After-Select: true
+  Back-To-Main-Menu-Custom-Command:
+    Enabled: false
+    Command: cc open custommenu.yml {player}
+  Emotes:
+    # Want Go back To Menu Item in that menu?
+    Go-Back-Arrow: true
+Fill-Blank-Slots-With-Item:
+  Enabled: true
+  Item: '160:15'
+Pets-Rename:
+  Enabled: true
+  Permission-Required: false
+  Requires-Money:
+    Enabled: true
+    Price: 100
+Pets-Drop-Items: true
+Pets-Are-Babies: true
+Mounts-Block-Trails: true
+Ammo-System-For-Gadgets:
+  Enabled: true
+  System: file
+  MySQL:
+    hostname: 203.57.45.63
+    username: Chalwk
+    password: hHM8dFpbaSGwhyKn
+    port: '3306'
+    database: Chalwk
+  # Do you want that in the gadgets menu
+  # each gadget item has an amount
+  # corresponding to your ammo.
+  Show-Ammo-In-Menu-As-Item-Amount: true
+Menu-Item:
+  Give-On-Join: false
+  Give-On-Respawn: false
+  Slot: 0
+  Type: ENDER_CHEST
+  Data: 0
+  Displayname: '&6&lJeriCraft Cosmetics'
+No-Permission:
+  Show-In-Lore: true
+  Lore-Message-Yes: '&o&7Permission: &a&lYes!'
+  Lore-Message-No: '&o&7Permission: &4&lNo!'
+  Dont-Show-Item: false
+  Custom-Item:
+    enabled: false
+    Type: INK_SACK
+    Data: 8
+    Name: '&c&lNo Permission'
+    Lore:
+    - ''
+    - '&c&lYou do not have permission for this!'
+    - ''
+Chat-Cosmetic-PlaceHolder-Color: true
+Gadget-Slot: 4
+Remove-Gadget-With-Drop: true
+Gadgets:
+  BatBlaster:
+    Affect-Players: true
+    Cooldown: 7.0
+    Description:
+    - §7§oLaunch waves of annoying bats
+    - §7§oto people you do not like!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  Chickenator:
+    Affect-Players: true
+    Cooldown: 2.0
+    Description:
+    - §7§oShoot, boom, KFC
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  ColorBomb:
+    Affect-Players: true
+    Cooldown: 30.0
+    Description:
+    - §7§oA colorful bomb!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  DiscoBall:
+    Affect-Players: true
+    Cooldown: 60.0
+    Description:
+    - §7§oJust, dance!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  EtherealPearl:
+    Affect-Players: true
+    Cooldown: 3.0
+    Description:
+    - §7§oTake a ride through the skies
+    - §7§oon your very own Ethereal Pearl!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  FleshHook:
+    Affect-Players: true
+    Cooldown: 2.0
+    Description:
+    - §7§oMake new friends by throwing a hook
+    - §7§ointo their face and pulling them
+    - §7§otowards you!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  MelonThrower:
+    Affect-Players: true
+    Cooldown: 1.5
+    Description:
+    - §7§oDeliciously fun!
+    - §7§oEat the melon slices for a
+    - §7§otemporary speed boost!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  BlizzardBlaster:
+    Affect-Players: true
+    Cooldown: 5.0
+    Description:
+    - §7§oLet it go!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  PortalGun:
+    Affect-Players: true
+    Cooldown: 1.0
+    Description:
+    - §7§oMomentum, a function of mass and velocity,
+    - §7§ois converved between portals. In layman's terms,
+    - §7§ospeedy thing goes in, speedy thing goes out.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  ExplosiveSheep:
+    Affect-Players: true
+    Cooldown: 40.0
+    Description:
+    - §7§oAre you sure it is supposed
+    - §7§oto flicker like that?
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  PaintballGun:
+    Affect-Players: true
+    Cooldown: 0.20000000298023224
+    Description:
+    - §7§oPEW PEW PEW PEW!!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Block-Type: STAINED_CLAY
+    Particle:
+      Enabled: false
+      Effect: fireworksSpark
+    Radius: 2
+    BlackList:
+    - REDSTONE_BLOCK
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  ThorHammer:
+    Affect-Players: true
+    Cooldown: 4.0
+    Description:
+    - §7§oGet the real Mjölnir!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  AntiGravity:
+    Affect-Players: true
+    Cooldown: 30.0
+    Description:
+    - §7§oIf you do not like gravity
+    - §7§oThis gadget is made for you!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  SmashDown:
+    Affect-Players: true
+    Cooldown: 15.0
+    Description:
+    - §7§oSmash the ground like Hulk!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  Rocket:
+    Affect-Players: true
+    Cooldown: 60.0
+    Description:
+    - §7§oHouston, we have got a problem.
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  BlackHole:
+    Affect-Players: true
+    Cooldown: 45.0
+    Description:
+    - §7§oDo not get caught in it...
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  Tsunami:
+    Affect-Players: true
+    Cooldown: 10.0
+    Description:
+    - §9§oTSUNAMI
+    - §7§oJump!
+    - §7§oLet's go!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  TNT:
+    Affect-Players: true
+    Cooldown: 1.0
+    Description:
+    - §7§oBlow some people up!
+    - §7§oKABOOM!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  FunGun:
+    Affect-Players: true
+    Cooldown: 2.0
+    Description:
+    - §7§oWow! So much fun in a gun!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  Parachute:
+    Affect-Players: true
+    Cooldown: 45.0
+    Description:
+    - §7§oGeronimo!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  QuakeGun:
+    Affect-Players: true
+    Cooldown: 5.0
+    Description:
+    - §7§oGet a real Rail Gun and
+    - §7§oStrike players and mobs!
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  GhostParty:
+    Affect-Players: true
+    Cooldown: 45.0
+    Description:
+    - §7§oWho Ya Gonna Call?
+    - §f§lGHOST §4§lBUSTERS
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  Firework:
+    Affect-Players: true
+    Cooldown: 0.1
+    Description:
+    - §7§oNeed to celebrate?
+    - §7§oUse fireworks
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      Enabled: true
+      Price: 500
+      Result-Amount: 20
+  Bat:
+    Description:
+    - §7§oBecome a bat!
+  Blaze:
+    Description:
+    - §7§oIt might be hot on there..
+  Slime:
+    Description:
+    - §7§oSplat splat!
+  Enderman:
+    Description:
+    - §7§oI go from there to
+    - §7§o there, then you lost me.
+  Chicken:
+    Description:
+    - §7§oPoor chicken!
+  Pig:
+    Description:
+    - §7§oMust hold your carrot!
+  Creeper:
+    Description:
+    - §7§oNice housssssssse you got! Sssssssh
+  WitherSkeleton:
+    Description:
+    - §7§oJust a regular skeleton
+    - §7§obut from the Nether!
+  ChristmasTree:
+    Cooldown: 15.0
+    # Description of this gadget.
+    Description:
+    - '&7&oHere is a Christmas Tree for you!'
+    # if true, the gadget will be enabled.
+    Enabled: true
+    # if true, the description of gadget will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      # You want this gadget to need ammo?
+      Enabled: true
+      # What price for the ammo?
+      Price: 500
+      # And how much ammo is given
+      # when bought?
+      Result-Amount: 20
+    # Should it affect players? (Velocity, etc.)
+    Affect-Players: true
+  Snowman:
+    # Description of this Morph.
+    Description:
+    - '&7&oI''m Olaf!'
+  FreezeCannon:
+    Cooldown: 8.0
+    # Description of this gadget.
+    Description:
+    - '&7&oTransform the floor into a rink!'
+    # Should it affect players? (Velocity, etc.)
+    Affect-Players: true
+    # if true, the gadget will be enabled.
+    Enabled: true
+    # if true, the description of gadget will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      # You want this gadget to need ammo?
+      Enabled: true
+      # What price for the ammo?
+      Price: 500
+      # And how much ammo is given
+      # when bought?
+      Result-Amount: 20
+  Snowball:
+    Cooldown: 0.5
+    # Description of this gadget.
+    Description:
+    - '&7&oJoin in on the festive fun by'
+    - '&7&othrowing snow at people!'
+    # Should it affect players? (Velocity, etc.)
+    Affect-Players: true
+    # if true, the gadget will be enabled.
+    Enabled: true
+    # if true, the description of gadget will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      # You want this gadget to need ammo?
+      Enabled: true
+      # What price for the ammo?
+      Price: 500
+      # And how much ammo is given
+      # when bought?
+      Result-Amount: 20
+  PartyPopper:
+    Cooldown: 2.0
+    # Description of this gadget.
+    Description:
+    - '&7&oCelebrate by blasting confetti into'
+    - '&7&opeoples'' eyes!'
+    # Should it affect players? (Velocity, etc.)
+    Affect-Players: true
+    # if true, the gadget will be enabled.
+    Enabled: true
+    # if true, the description of gadget will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      # You want this gadget to need ammo?
+      Enabled: true
+      # What price for the ammo?
+      Price: 500
+      # And how much ammo is given
+      # when bought?
+      Result-Amount: 20
+  Trampoline:
+    Cooldown: 75.0
+    # Description of this gadget.
+    Description:
+    - '&7&oConstructs a trampoline!'
+    - '&7&othat sends you and your'
+    - '&7&ofriends into air!'
+    # Should it affect players? (Velocity, etc.)
+    Affect-Players: true
+    # if true, the gadget will be enabled.
+    Enabled: true
+    # if true, the description of gadget will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+    Ammo:
+      # You want this gadget to need ammo?
+      Enabled: true
+      # What price for the ammo?
+      Price: 500
+      # And how much ammo is given
+      # when bought?
+      Result-Amount: 20
+Morphs:
+  Bat:
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    # Description of this Morph.
+    Description:
+    - '&7&oBecome a bat!'
+  Blaze:
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    # Description of this Morph.
+    Description:
+    - '&7&oIt might be hot on there..'
+  Slime:
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    # Description of this Morph.
+    Description:
+    - '&7&oSplat splat!'
+  Enderman:
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    # Description of this Morph.
+    Description:
+    - '&7&oI go from there to'
+    - '&7&othere, then you lost me..'
+  Chicken:
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    # Description of this Morph.
+    Description:
+    - '&7&oBecome a chicken!'
+  Pig:
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    # Description of this Morph.
+    Description:
+    - '&7&oMust hold your carrot!'
+  Creeper:
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    # Description of this Morph.
+    Description:
+    - '&7&oHey What''sssssss up?'
+  WitherSkeleton:
+    Enabled: true
+    Show-Description: true
+    Can-Be-Found-In-Treasure-Chests: true
+    # Description of this Morph.
+    Description:
+    - '&7&oJust a regular skeleton..'
+    - '&7&obut from the Nether!'
+  Snowman:
+    # if true, the morph will be enabled.
+    Enabled: true
+    # if true, the description of this morph will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+    # Description of this Morph.
+    Description:
+    - '&7&oBecome Olaf!'
+  ElderGuardian:
+    # Description of this Morph.
+    Description:
+    - '&7&oBecome an Elder Guardian!!'
+    # if true, the morph will be enabled.
+    Enabled: true
+    # if true, the description of this morph will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+Suits:
+  Rave:
+    # if true, the suit will be enabled.
+    Enabled: true
+    # if true, the description of this suit will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+    # Description of this cosmetic.
+    Description:
+    - '&7&oSuch amazing colors!'
+  Astronaut:
+    # if true, the suit will be enabled.
+    Enabled: true
+    # if true, the description of this suit will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+    # Description of this cosmetic.
+    Description:
+    - '&7&oHouston?'
+  Diamond:
+    # if true, the suit will be enabled.
+    Enabled: true
+    # if true, the description of this suit will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+    # Description of this cosmetic.
+    Description:
+    - '&7&oShow your Mining skills'
+    - '&7&owith this amazing outfit!'
+  Santa:
+    # if true, the suit will be enabled.
+    Enabled: true
+    # if true, the description of this suit will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+    # Description of this cosmetic.
+    Description:
+    - '&7&oBecome Santa and deliver presents!'
+Emotes:
+  Cry:
+    # description of this emote.
+    Description:
+    - '&7&oAre you really sad? :('
+    # if true, the mount will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  Angry:
+    # description of this emote.
+    Description:
+    - '&7&oShow your rage to the other players!'
+    # if true, the mount will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  Happy:
+    # description of this emote.
+    Description:
+    - '&7&oDon''t worry, be happy!'
+    # if true, the mount will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  Cheeky:
+    # description of this emote.
+    Description:
+    - '&7&oYou like being cheeky? Well, this emote is for you!'
+    # if true, the mount will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  Love:
+    # description of this emote.
+    Description:
+    - '&7&oYou have beautiful eyes, do you know that?'
+    # if true, the mount will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  DealWithIt:
+    # description of this emote.
+    Description:
+    - '&7&oDo you feel like showing off? This emote is for you!'
+    # if true, the mount will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  Cool:
+    # description of this emote.
+    Description:
+    - '&7&oKeep cool man!'
+    # if true, the mount will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  Surprised:
+    # description of this emote.
+    Description:
+    - '&7&oOH LORD!!!'
+    # if true, the mount will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true
+  Wink:
+    # description of this emote.
+    Description:
+    - '&7&oHaving fun? Let someone know you are in on the joke'
+    # if true, the mount will be enabled.
+    Enabled: true
+    # if true, the description will be showed.
+    Show-Description: true
+    # if true, it'll be possible to find
+    # it in treasure chests
+    Can-Be-Found-In-Treasure-Chests: true

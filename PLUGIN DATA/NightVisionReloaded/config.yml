@@ -1,0 +1,7 @@
+#  Author: DutchPvPGod      #
+#  Skype: live:geheimpjes123#
+NightVisionReloaded:
+  OnMessage: '&7[&cJeriCraft&7] &5NightVision &a&lenabled!'
+  OffMessage: '&7[&cJeriCraft&7] &5NightVision &4&ldisabled!'
+  NoPermissionMessageEnabled: true
+  NoPermissionMessage: '&7[&cJeriCraft&7] &cAccess Denied!'

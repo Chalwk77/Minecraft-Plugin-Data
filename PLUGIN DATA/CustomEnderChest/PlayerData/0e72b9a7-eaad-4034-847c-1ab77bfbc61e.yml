@@ -1,0 +1,301 @@
+PlayerLastName: rbb1213
+EnderChestSize: 54
+EnderChestInventory:
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §6Ender Backpack
+      lore:
+      - §a§oA portable Ender Chest
+      - ''
+      - §eRight Click§7 to open
+      internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkkGhktZdGGgtkO4CFTaYcdlCOBM21Aw0mfyIWXp8nznOzKADC/p18T5x3BpOs4keCQ1vFqFgS17XStqVaiKjnVdKTVTVWrEStzgdaXhWgZ5ia5sGDt2W4E0sp9xGthNBoAHCZ6zgk8MftnsofzUovrk8Wom5sKHFPGI9FeLnLO5dIhJxOL3b6Y/2/++xlgcDU6x1+bneCpFhnyccLZP1Ep8fgdie6d9gCKXzrTnbS6IFmihiHaxGt4rIzpQLXdDQcUWB7t3EbleF7gJj5Yt0LI27ykK3aU7ei05q3YTbzYAEjyFhWCwclLnMjC/KwH+AD4EzxEmAQAA
+      skull-owner: CSCoreLib
+  '40':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §cProgrammable Android §7(Fisherman)
+      lore:
+      - ''
+      - '§8⇨ §7Function: Fishing'
+      - '§8⇨ §7Success Rate: 10%'
+      - '§8⇨ §7Fuel Efficiency: 1.0x'
+      internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuSViboxS4W1Fhi65QOtXeAZYBFDYKzfao94rjc1flOvnNsABteomOn1GdzzkslLXgkB3hFOPXH0keOn2VD5w33lI5z35n4yMOum8vcc22w+9NFNm0prwOwWnlvu0ZebQB4sOA5TlQn4VfqEIldgQ67UGWaeH3nEVIrUl18cop1GhCP1L1ffHhLPfm3HbXJdqT2bliI07pL6xgt3Y2Siw3O6q8bNWss+LdLDSuYoXfK16bncsWLkpr9D+UZppygPjWt94iZmRF8XtDtDIspHYo6LCmnmk2PRlTziulwku/QO4AFTyypJQyCKDg3clmmAH+hjZkMKgEAAA==
+      skull-owner: CSCoreLib
+  '41':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §cAdvanced Programmable Android §7(Butcher)
+      lore:
+      - ''
+      - '§8⇨ §7Function: Slaughtering'
+      - '§8⇨ §7Damage: 8'
+      - '§8⇨ §7Fuel Efficiency: 1.5x'
+      internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kreWfhx2cXbQE6pCJ0BtiCWirBmERP9U+4txtx5f3nglgwkty6JX6bE9Vo6QBj2wHr55vOyUiviVd7Fq2hwvLdzGxiI+dsiITUhaeCeZ9Osu2a+RlBEYnr13fyosJAA8GPKeF6iX8yCFAIqvRLgtUOTD3zl8JUku2P3vsmA7bGXOZvvvF1A2Hyb/W6YqNo3IS1OIY91udopCslFyscKnX39GYIX4LDmL/Xguq6mgcqCWtdaTXWND0wCkbBJ0O+f7jynU85vPYFvP8ymmJxSa+/XWcilroyOZzdouSYFJl6A3AgCdeaAmjWTI7tTJstgC/zza1MSoBAAA=
+      skull-owner: CSCoreLib
+  '42':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §6Iron Safe
+      lore:
+      - '§7Size: §e3x9'
+      - ''
+      - §rThis Chest can only be opened by you
+      internal: H4sIAAAAAAAAAE2LQW+CMBiGvy1bgmQ/Y1eSorbgYYdFp5ZInYJouYEUobZqEDbxd+0Hjuy0w3t48jyvCWDCS3BslPqsznmphAGPNINXOyeZa7uuRRLsWMN9OrSSnBDLcWzHTXE26Ge5CWZ3uoiqLsW1B0YtbnVTiasJAA8GPEeJagT8iNZD8a5A2c5T+5aSjsMAqSWVF4eeojYdU0J15+fvZNGO/rW4TrZY8YFXxKdVk+oILQZrJeZre683X3FYKBZuEJtNNetzm00OmPf9lt1X2N+ygslC8/DY+vcD4rJQPIxkLOk3l5FcTj7wcjY9cpmVsV7dfO3Jv5XeKN+hNwADnliiBfTGwfhciUWZAvwC7+Lgmi4BAAA=
+      skull-owner: CSCoreLib
+  '43':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTMENT_TABLE
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §5Auto Enchanter
+      lore:
+      - ''
+      - §aMedium Machine
+      - '§8⇨ §7Speed: 1x'
+      - §8⇨ §e⚡ §718 J/s
+      blockMaterial: ENCHANTMENT_TABLE
+  '44':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §rTin Leggings
+      enchants:
+        PROTECTION_EXPLOSIONS: 3
+  '49':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_NUGGET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §5Ender Lump §7- §eI
+      lore:
+      - ''
+      - '§c§oTier: I'
+  '50':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §cGPS Emergency Transmitter
+      lore:
+      - ''
+      - §rCarrying this in your Inventory
+      - §rautomatically sets a Waypoint
+      - §rat your Location when you die.
+      internal: H4sIAAAAAAAAAE2LzU6DQBgAP40mlPgYXkm2/JaDh9qadgkLWihlubGwCLi0DYUGeCofUY4eJzMjA8jwEvz0Qny2l6ISXIJHnMOrwazczpipsCzXFH2V2wpb2ZrCigJZmsmWdqHLIM/TlbddxW8LkDo+dH3LbzIAPEjwHKWi5/DLRwclcYny2BHZiM2ZwwAJH9dXC5+jkW2wiZvZ79emO9r/WqNLT4agmlMm56+eNRFytYPg+8Mya453Wr/X/okMNFyPpKGI7LBGVDp4O4yo6pRkymtv+tDplJReSKak9kpSf6uzV2dWk23UeNuj6odk7smQVI5dxOgNQIInL204LDbB5tJyt2IAf1oEkO0qAQAA
+      skull-owner: CSCoreLib
+  '51':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eEmpowered Programmable Android §7(Butcher)
+      lore:
+      - ''
+      - '§8⇨ §7Function: Slaughtering'
+      - '§8⇨ §7Damage: 20'
+      - '§8⇨ §7Fuel Efficiency: 8.0x'
+      internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kreWfhx2cXbQE6pCJ0BtiCWirBmERP9U+4txtx5f3nglgwkty6JX6bE9Vo6QBj2wHr55vOyUiviVd7Fq2hwvLdzGxiI+dsiITUhaeCeZ9Osu2a+RlBEYnr13fyosJAA8GPKeF6iX8yCFAIqvRLgtUOTD3zl8JUku2P3vsmA7bGXOZvvvF1A2Hyb/W6YqNo3IS1OIY91udopCslFyscKnX39GYIX4LDmL/Xguq6mgcqCWtdaTXWND0wCkbBJ0O+f7jynU85vPYFvP8ymmJxSa+/XWcilroyOZzdouSYFJl6A3AgCdeaAmjWTI7tTJstgC/zza1MSoBAAA=
+      skull-owner: CSCoreLib
+  '53':
+    ==: org.bukkit.inventory.ItemStack
+    type: FURNACE
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §7Reinforced Furnace
+      lore:
+      - ''
+      - '§7Processing Speed: §e10x'
+      - '§7Fuel Efficiency: §e10x'
+      - '§7Luck Multiplier: §e3x'
+      blockMaterial: FURNACE
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eGilded Backpack
+      lore:
+      - ''
+      - '§7Size: §e45'
+      - '§7ID: 0e72b9a7-eaad-4034-847c-1ab77bfbc61e#3'
+      - ''
+      - §7§eRight Click§7 to open
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+      skull-owner: CSCoreLib
+  '52':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §6Emerald Safe
+      lore:
+      - '§7Size: §e6x9'
+      - ''
+      - §rThis Chest can only be opened by you
+      internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3J4ADVhYtGYhziYLkUhB0DQwBn1CBU8an6iJ1lF2dxvosOoMNbdByF+OrPdSu4Bs+kgvc5NhFb2LVRMlQbVrGojMKZVwbCrCgdbHJmIR10dbrwfmj5dQbawO/D2POrDgBPGrwmhRg5/PLJQ/mhQdXBE+VEHOVxhMSedJcPckomtiYOkarffjq7aflvaw9FaosMe01+CkYmE7TDoeDb0Czl948vN0f6SEQmw5bGxMyl1/guudPuaOVuMGUPcqOSYn+uSAmi0u/2sVAENn0IZSrvgluW0vve3UhyMpd1sFoBaPDiF5LDbB2tzz3ftQzgD6kYvI8qAQAA
+      skull-owner: CSCoreLib
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eGilded Backpack
+      lore:
+      - ''
+      - '§7Size: §e45'
+      - '§7ID: 0e72b9a7-eaad-4034-847c-1ab77bfbc61e#2'
+      - ''
+      - §7§eRight Click§7 to open
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+      skull-owner: CSCoreLib
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §rTin Helmet
+      enchants:
+        PROTECTION_EXPLOSIONS: 3
+  '33':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §2Cactus Chestplate
+      enchants:
+        DURABILITY: 5
+        THORNS: 3
+      color:
+        ==: Color
+        RED: 0
+        BLUE: 0
+        GREEN: 128
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eWoven Backpack
+      lore:
+      - ''
+      - '§7Size: §e36'
+      - '§7ID: 0e72b9a7-eaad-4034-847c-1ab77bfbc61e#4'
+      - ''
+      - §7§eRight Click§7 to open
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+      skull-owner: CSCoreLib
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eGilded Backpack
+      lore:
+      - ''
+      - '§7Size: §e45'
+      - '§7ID: 0e72b9a7-eaad-4034-847c-1ab77bfbc61e#7'
+      - ''
+      - §7§eRight Click§7 to open
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+      skull-owner: CSCoreLib
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eGilded Backpack
+      lore:
+      - ''
+      - '§7Size: §e45'
+      - '§7ID: 0e72b9a7-eaad-4034-847c-1ab77bfbc61e#8'
+      - ''
+      - §7§eRight Click§7 to open
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+      skull-owner: CSCoreLib
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 61
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eGilded Backpack
+      lore:
+      - ''
+      - '§7Size: §e45'
+      - '§7ID: <ID>'
+      - ''
+      - §7§eRight Click§7 to open
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+      skull-owner: CSCoreLib
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: STAINED_GLASS
+    damage: 8
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §cHeated Pressure Chamber
+      lore:
+      - ''
+      - §4End-Game Machine
+      - '§8⇨ §7Speed: 1x'
+      - §8⇨ §e⚡ §710 J/s
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §6Steel Safe
+      lore:
+      - '§7Size: §e5x9'
+      - §bWithstands Explosions
+      - ''
+      - §rThis Chest can only be opened by you
+      internal: H4sIAAAAAAAAAE3LT2+CMBzG8d+WLUGyl7ErSQWEedhhY4uW0LIpouXGn3ZSihoEY31de4HjuOOTz/M1AUx4WjeDUl/dUdSKG3CPK3iuKk8g4RVWgSrXcktRWPMyLy3hu/ZL6fhT4SMTzDE68a6v+XkCRs+v/dDxswkAdwY8prkaOPxyHaJst0fVLlSlxt64kzVSMZYnHx9SXQTYw+3oyzcv0vN/31mfb2eKOeE+O3wPRZuiyFkpvlxNy3ZzoVJJJmlDEtUwudHx9lOTJJWZZJrKxqFJc2U2uRI7q+MFceKPbB8vRrPxaNhlN6LZlug4+bGZbGx6e5c0COdih14BDHigecthEqyDY8ejugD4A17yXgsuAQAA
+      skull-owner: CSCoreLib

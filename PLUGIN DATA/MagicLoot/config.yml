@@ -1,0 +1,54 @@
+# 
+# Name: MagicLoot
+# Author: mrCookieSlime
+# 
+# Do not modify the Config while the Server is running
+# otherwise bad things might happen!
+# 
+# This Plugin also requires CS-CoreLib to run!
+# If you don't have it installed already, its going to be
+# automatically installed for you
+# 
+# This Plugin utilises an Auto-Updater. If you want to turn that off,
+# simply set options -> auto-update to false
+options:
+  auto-update: true
+  log: true
+chances:
+  ruin: 1
+items:
+  min: 1
+  max: 15
+enchantments:
+  min: 1
+  max: 5
+potions:
+  min: 1
+  max: 4
+effects:
+  min: 0
+  max: 3
+slimefun:
+  min: 2
+  max: 6
+enable:
+  TREASURE: true
+  TOOL: true
+  SLIMEFUN: true
+  BOOK: true
+  POTION: true
+  UNANALIZED: true
+world-blacklist:
+- world_nether
+- world_the_end
+- flat
+- old_world
+spawners:
+- ZOMBIE
+- SPIDER
+- CAVE_SPIDER
+- BLAZE
+- SKELETON
+- ENDERMAN
+- PIG_ZOMBIE
+- WITCH

@@ -1,0 +1,775 @@
+DisableAI:
+  Cooldown: 0.25
+  Skills:
+  - command{c="entitydata <mob.uuid> <&lc>NoAI<&co>1b<&rc>"} @self
+VolcanicWeather:
+  Cooldown: 0.25
+  Skills:
+  - effect:particles{particle=flame;amount=700;vSpread=20;hSpread=40;Speed=0.1;yOffset=0} @Self
+VarsonSpawn:
+  Cooldown: 0.25
+  Skills:
+  - potion{t=DAMAGE_RESISTANCE;d=420;l=8} @Self >0 1
+  - potion{t=SLOW;d=420;l=8} @Self >0 1
+  - potion{t=INVISIBILITY;d=420;l=8} @Self >0 1
+  - message{msg="<mob.name><&co> &4Well done. You managed to kill all of my greatest commanders in your endless slaughter!"} @PlayersInRadius{r=80} >0 1
+  - delay 120
+  - message{msg="<mob.name><&co> &4You sliced and chopped your way through my army leaving nothing but ashes!"} @PlayersInRadius{r=80} >0 1
+  - delay 120
+  - message{msg="<mob.name><&co> &4But now comes your real challenge!"} @PlayersInRadius{r=80} >0 1
+  - delay 80
+  - message{msg="<mob.name><&co> &4But do you really think you have what it takes to defeat me?"} @PlayersInRadius{r=80} >0 1
+  - delay 80
+  - skill{skill=VarsonSpawnEffect} @Self >0 1
+  - delay 18
+  - effect:sound{sound=mob.wither.spawn;volume=1;p=1} @PlayersInRadius{r=80}
+  - effect:sound{sound=mob.wither.spawn;volume=1;p=0.5} @PlayersInRadius{r=80}
+  - sendtitle{fadein=20;fadeout=20;duration=100;title=“&cMakuta <&sp>Icarax”;subtitle=“&9>-(&6Leader<&sp>of<&sp>the<&sp>Mob<&sp>Alliance&9)-<”} @PlayersInRadius{r=80} ~onSpawn
+  - setstance{stance=PhaseOne} @Self
+  - message{msg="<mob.name><&co> &4TIME TO FIND OUT!"} @PlayersInRadius{r=80} >0 1
+  - throw{velocity=14;velocityY=12} @LivingEntitiesInRadius{r=15} 1
+  - skill{skill=VarsonSpawnEffect2} @Self
+VarsonSpawnEffect:
+  Cooldown: 0.25
+  Skills:
+  - effect:particles{particle=explode;amount=50;vSpread=0.5;hSpread=1;Speed=0.01;yOffset=20} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=20;vSpread=1;hSpread=0.5;Speed=1;yOffset=20} @Self >0 1
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - delay 3
+  - effect:particles{particle=explode;amount=50;vSpread=0.5;hSpread=1;Speed=0.01;yOffset=17} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=20;vSpread=1;hSpread=0.5;Speed=1;yOffset=17} @Self >0 1
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - delay 3
+  - effect:particles{particle=explode;amount=50;vSpread=0.5;hSpread=1;Speed=0.01;yOffset=14} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=20;vSpread=1;hSpread=0.5;Speed=1;yOffset=14} @Self >0 1
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - delay 3
+  - effect:particles{particle=explode;amount=50;vSpread=0.5;hSpread=1;Speed=0.01;yOffset=11} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=20;vSpread=1;hSpread=0.5;Speed=1;yOffset=11} @Self >0 1
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - delay 3
+  - effect:particles{particle=explode;amount=50;vSpread=0.5;hSpread=1;Speed=0.01;yOffset=8} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=20;vSpread=1;hSpread=0.5;Speed=1;yOffset=8} @Self >0 1
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - delay 3
+  - effect:particles{particle=explode;amount=50;vSpread=0.5;hSpread=1;Speed=0.01;yOffset=5} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=20;vSpread=1;hSpread=0.5;Speed=1;yOffset=5} @Self >0 1
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - delay 3
+  - effect:particles{particle=explode;amount=50;vSpread=0.5;hSpread=1;Speed=0.01;yOffset=2} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=20;vSpread=1;hSpread=0.5;Speed=1;yOffset=2} @Self >0 1
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - delay 3
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=50;vSpread=5;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=10;vSpread=3.5;hSpread=3;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=flame;amount=100;vSpread=3;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=smoke;amount=100;vSpread=5;hSpread=2;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=lava;amount=100;vSpread=5;hSpread=2;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=lava;amount=100;vSpread=7;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=reddust;amount=500;vSpread=3;hSpread=1;Speed=0.01;yOffset=0} @Self >0 1
+VarsonSpawnEffect2:
+  Cooldown: 0.25
+  Skills:
+  - effect:sound{sound=random.explode;volume=2;p=1} @Self >0 1
+  - effect:particlering{particle=largeexplode;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0.3;points=20;radius=1} @Self >0 1
+  - delay 2
+  - effect:sound{sound=random.explode;volume=2;p=1} @Self >0 1
+  - effect:particlering{particle=largeexplode;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0.3;points=20;radius=3} @Self >0 1
+  - delay 2
+  - effect:sound{sound=random.explode;volume=2;p=1} @Self >0 1
+  - effect:particlering{particle=largeexplode;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0.3;points=20;radius=5} @Self >0 1
+  - delay 2
+  - effect:sound{sound=random.explode;volume=2;p=1} @Self >0 1
+  - effect:particlering{particle=largeexplode;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0.3;points=20;radius=7} @Self >0 1
+  - delay 2
+  - effect:sound{sound=random.explode;volume=2;p=1} @Self >0 1
+  - effect:particlering{particle=largeexplode;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0.3;points=20;radius=9} @Self >0 1
+  - delay 2
+  - effect:sound{sound=random.explode;volume=2;p=1} @Self >0 1
+  - effect:particlering{particle=largeexplode;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0.3;points=20;radius=11} @Self >0 1
+  - delay 2
+  - effect:sound{sound=random.explode;volume=2;p=1} @Self >0 1
+  - effect:particlering{particle=largeexplode;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0.3;points=20;radius=13} @Self >0 1
+  - delay 2
+  - effect:sound{sound=random.explode;volume=2;p=1} @Self >0 1
+  - effect:particlering{particle=largeexplode;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0.3;points=20;radius=15} @Self >0 1
+VarsonInitiatePhaseTwo:
+  Cooldown: 0.25
+  Skills:
+  - message{msg="<mob.name><&co> &4You think I am done?! I'M JUST GETTING STARTED!"} @PlayersInRadius{r=80}
+  - setstance{stance=Intermission} @Self
+  - delay 60
+  - message{msg="<mob.name><&co> &4I am the bare MIGHT of the Mob Alliance! They look to me for STRENGTH! Time to demonstrate how committed I am to wiping you off the face of the earth!"} @PlayersInRadius{r=80}
+  - setstance{stance=PhaseTwo} @Self
+VarsonInitiatePhaseThree:
+  Cooldown: 0.25
+  Skills:
+  - message{msg="<mob.name><&co> &4ALRIGHT! THAT IS ENOUGH! I AM DONE PLAYING CAT AND MOUSE WITH YOU!"} @PlayersInRadius{r=80}
+  - setstance{stance=Intermission} @Self
+  - delay 60
+  - message{msg="<mob.name><&co> &4DEATH TO ALL WHO OPPOSE ME!"} @PlayersInRadius{r=80}
+  - setstance{stance=PhaseThree} @Self
+VarsonHealthBroadcast:
+  Cooldown: 0.25
+  Skills:
+  - sendactionmessage{msg=“&c>->>&4(&cMakuta<&sp>Icarax<&sp>&c&lHealth<&co><&sp>&a<mob.hp>&4)&c<<-<”} @PlayersInRadius{r=80} =100%-80% 1
+  - sendactionmessage{msg=“&c>->>&4(&cMakuta<&sp>Icarax<&sp>&c&lHealth<&co><&sp>&2<mob.hp>&4)&c<<-<”} @PlayersInRadius{r=80} =80%-60% 1
+  - sendactionmessage{msg=“&c>->>&4(&cMakuta<&sp>Icarax<&sp>&c&lHealth<&co><&sp>&e<mob.hp>&4)&c<<-<”} @PlayersInRadius{r=80} =60%-40% 1
+  - sendactionmessage{msg=“&c>->>&4(&cMakuta<&sp>Icarax<&sp>&c&lHealth<&co><&sp>&6<mob.hp>&4)&c<<-<”} @PlayersInRadius{r=80} =40%-20% 1
+  - sendactionmessage{msg=“&c>->>&4(&cMakuta<&sp>Icarax<&sp>&c&lHealth<&co><&sp>&c<mob.hp>&4)&c<<-<”} @PlayersInRadius{r=80} =20%-10% 1
+  - sendactionmessage{msg=“&c>->>&4(&cMakuta<&sp>Icarax<&sp>&c&lHealth<&co><&sp>&4<mob.hp>&4)&c<<-<”} @PlayersInRadius{r=80} =10%-0% 1
+VarsonFlamethrower:
+  Cooldown: 15
+  Conditions:
+  - stance PhaseTwo
+  - offgcd true
+  - targetwithin 20
+  Skills:
+  - GCD{ticks=200} @Self
+  - randommessage{m="<mob.name><&co> &4BURN!","<mob.name><&co> &4Die you pathetic insects!","<mob.name><&co> &4You will all BURN!";} @PlayersInRadius{r=80} >0 1
+  - potion{t=SLOW;d=160;l=6} @Self
+  - effect:particles{particle=flame;amount=50;vSpread=2;hSpread=2;Speed=-0.5;yOffset=1} @Self >0 1
+  - delay 20
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=0;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=180;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=15;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=195;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=30;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=205;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=45;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=220;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=60;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=235;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=75;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=250;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=90;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=265;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=105;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=280;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=120;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=295;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=135;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=310;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=150;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=325;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=165;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=340;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=180;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=360;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=195;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=15;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=210;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=30;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=225;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=45;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=240;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=60;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=255;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=75;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=270;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=90;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=285;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=105;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=300;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=120;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=315;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=135;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=330;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=150;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=345;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=165;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+  - delay 5
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=0;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onTick=VarsonFlamethrowerEffect;onHit=VarsonFlamethrowerDamage;i=1;hR=1;mr=20;md=100;vR=1;syo=0.8;sfo=0;v=15;vO=0;hO=180;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - effect:sound{sound=fire.fire;volume=2;p=0.5} >0 1
+VarsonFlamethrowerEffect:
+  Cooldown: 0.05
+  Skills:
+  - effect:particles{particle=flame;amount=9;vSpread=0.2;hSpread=0.2;Speed=0;yOffset=1} @Origin >0 1
+  - effect:particles{particle=largesmoke;amount=2;vSpread=0.2;hSpread=0.2;Speed=0;yOffset=1} @Origin >0 1
+VarsonFlamethrowerDamage:
+  Cooldown: 0.25
+  Skills:
+  - ignite{d=200} >0 1
+  - damage{a=40;i=false} >0 1
+VarsonCallMobAlliance:
+  Cooldown: 15
+  Skills:
+  - randommessage{m="<mob.name><&co> &4The might of the Mob Alliance WILL BE PROVED!","<mob.name><&co> &4YOU CANNOT STOP OUR ADVANCE!","<mob.name><&co> &4Show them our true might soldiers! KILL THEM ALL!";} @PlayersInRadius{r=80} >0 1
+  - summon{type=DSent;amount=2;radius=5} @Self
+  - summon{type=GodZombie;amount=2;radius=5} @Self
+  - summon{type=GodSkeleton;amount=2;radius=5} @Self
+  - summon{type=MAElite;amount=2;radius=5} @Self
+  - summon{type=MAEliteMarksman;amount=2;radius=5} @Self  
+VarsonFirePulse:
+  Cooldown: 40
+  Conditions:
+  - stance PhaseOne
+  - offgcd true
+  Skills:
+  - GCD{ticks=200} @Self
+  - message{msg="<mob.name> &2blasts out a powerful wave of heat!"} @PlayersInRadius{r=80} >0 1
+  - damage{a=4;i=true} @PlayersInRadius{r=16} >0 1
+  - ignite{d=400} @PlayersInRadius{r=16} >0 1
+  - effect:sound{s=mob.ghast.fireball;v=2;p=0.5} @Self >0 1
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - delay 3
+  - effect:particlesphere{particle=flame;amount=100;radius=4;yoffset=1} @Self
+  - delay 3
+  - effect:particlesphere{particle=flame;amount=125;radius=6;yoffset=1} @Self
+  - delay 3
+  - effect:particlesphere{particle=flame;amount=150;radius=8;yoffset=1} @Self
+  - delay 3
+  - effect:particlesphere{particle=flame;amount=175;radius=10;yoffset=1} @Self
+  - delay 3
+  - effect:particlesphere{particle=flame;amount=200;radius=12;yoffset=1} @Self
+  - delay 3
+  - effect:particlesphere{particle=flame;amount=225;radius=14;yoffset=1} @Self
+  - delay 3
+  - effect:particlesphere{particle=flame;amount=250;radius=16;yoffset=1} @Self
+VarsonFireyArmor:
+  Cooldown: 40
+  Conditions:
+  - stance PhaseOne
+  - offgcd true
+  Skills:
+  - GCD{ticks=200} @Self
+  - message{msg="<mob.name> &2starts to emit massive amounts of heat!"} @PlayersInRadius{r=80} >0 1
+  - effect:sound{s=random.anvil_use;v=1;p=1} @Self >0 1
+  - effect:particles{particle=enchantmenttable;amount=50;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=1.5} @Self
+  - skill{skill=VarsonFireyArmorEffect} @Self
+VarsonFireyArmorEffect:
+  Cooldown: 0.25
+  Skills:
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+  - delay 10
+  - effect:particlesphere{particle=flame;amount=75;radius=2;yoffset=1} @Self
+  - damage{a=7;i=false} @PlayersInRadius{r=4} >0 1
+  - ignite{d=400} @PlayersInRadius{r=4} >0 1
+VarsonTripleWarp:
+  Cooldown: 20
+  Conditions:
+  - stance PhaseOne
+  Skills:
+  - teleport{spreadh=8;spreadv=0} @Target
+  - effect:particles{particle=largesmoke;amount=200;vSpread=1;hSpread=1;Speed=1;yOffset=1} @Self 1
+  - effect:sound{sound=mob.endermen.portal;volume=1;p=0.5} @Self >0 1
+  - delay 10
+  - teleport{spreadh=8;spreadv=0} @Target
+  - effect:particles{particle=largesmoke;amount=200;vSpread=1;hSpread=1;Speed=1;yOffset=1} @Self 1
+  - effect:sound{sound=mob.endermen.portal;volume=1;p=0.5} @Self >0 1
+  - delay 10
+  - teleport{spreadh=8;spreadv=0} @Target
+  - effect:particles{particle=largesmoke;amount=200;vSpread=1;hSpread=1;Speed=1;yOffset=1} @Self 1
+  - effect:sound{sound=mob.endermen.portal;volume=1;p=0.5} @Self >0 1
+  - delay 20
+  - projectile{onEnd=ZombiusFireballEnd;onTick=ZombiusFireball;onHit=ZombiusFireballDamage;i=2;hR=0.75;mr=40;md=400;vR=0.75;syo=1;sfo=1;v=12;vO=0;hO=0;g=0;sE=true;hnp=true;sB=true;pav=true;par=true;hs=false;hfs=0.5} @Target >0 1
+VarsonFireBlast:
+  Cooldown: 20
+  Conditions:
+  - stance PhaseOne
+  - offgcd true
+  Skills:
+  - GCD{ticks=200} @Self
+  - randommessage{m="<mob.name><&co> &4This is where you DIE!","<mob.name><&co> &4You fools will be used as examples!","<mob.name><&co> &4It<&sq>s time to pay!";} @PlayersInRadius{r=80} >0 1
+  - potion{t=SLOW;d=45;l=8} @Self >0 1
+  - delay 40
+  - effect:sound{s=mob.ghast.fireball;v=2.0;p=0.5} >0 1
+  - projectile{onEnd=VarsonFireballEnd;onTick=VarsonFireball;onHit=VarsonFireballDamage;i=2;hR=0.75;mr=40;md=400;vR=0.75;syo=0.5;sfo=1;v=15;vO=0;hO=0;g=0;sE=true;hnp=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onEnd=VarsonFireballEnd;onTick=VarsonFireball;onHit=VarsonFireballDamage;i=2;hR=0.75;mr=40;md=400;vR=0.75;syo=0.5;sfo=1;v=15;vO=0;hO=45;g=0;sE=true;hnp=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onEnd=VarsonFireballEnd;onTick=VarsonFireball;onHit=VarsonFireballDamage;i=2;hR=0.75;mr=40;md=400;vR=0.75;syo=0.5;sfo=1;v=15;vO=0;hO=90;g=0;sE=true;hnp=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onEnd=VarsonFireballEnd;onTick=VarsonFireball;onHit=VarsonFireballDamage;i=2;hR=0.75;mr=40;md=400;vR=0.75;syo=0.5;sfo=1;v=15;vO=0;hO=135;g=0;sE=true;hnp=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onEnd=VarsonFireballEnd;onTick=VarsonFireball;onHit=VarsonFireballDamage;i=2;hR=0.75;mr=40;md=400;vR=0.75;syo=0.5;sfo=1;v=15;vO=0;hO=180;g=0;sE=true;hnp=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onEnd=VarsonFireballEnd;onTick=VarsonFireball;onHit=VarsonFireballDamage;i=2;hR=0.75;mr=40;md=400;vR=0.75;syo=0.5;sfo=1;v=15;vO=0;hO=225;g=0;sE=true;hnp=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onEnd=VarsonFireballEnd;onTick=VarsonFireball;onHit=VarsonFireballDamage;i=2;hR=0.75;mr=40;md=400;vR=0.75;syo=0.5;sfo=1;v=15;vO=0;hO=270;g=0;sE=true;hnp=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+  - projectile{onEnd=VarsonFireballEnd;onTick=VarsonFireball;onHit=VarsonFireballDamage;i=2;hR=0.75;mr=40;md=400;vR=0.75;syo=0.5;sfo=1;v=15;vO=0;hO=315;g=0;sE=true;hnp=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+VarsonFireball:
+  Cooldown: 0.05
+  Skills:
+  - effect:particles{particle=largesmoke;amount=2;vSpread=0.2;hSpread=0.2;Speed=0;yOffset=0} @Origin >0 1
+  - effect:particles{particle=flame;amount=25;vSpread=0.2;hSpread=0.2;Speed=0;yOffset=0} @Origin >0 1
+VarsonFireballDamage:
+  Cooldown: 0.05
+  Skills:
+  - effect:particles{particle=largeexplosion;amount=15;vSpread=1;hSpread=1;Speed=1;yOffset=0}
+  - effect:particles{particle=flame;amount=15;vSpread=1;hSpread=1;Speed=1;yOffset=0}
+  - effect:particles{particle=smoke;amount=15;vSpread=1;hSpread=1;Speed=1;yOffset=0}
+  - effect:particles{particle=lava;amount=15;vSpread=1;hSpread=1;Speed=1;yOffset=0}
+  - effect:particles{particle=lava;amount=15;vSpread=1;hSpread=1;Speed=1;yOffset=0} 
+  - effect:particles{particle=reddust;amount=25;vSpread=1;hSpread=1;Speed=0.01;yOffset=0}
+  - effect:sound{s=random.explode;v=2.0;p=0.5}
+  - damage{a=40;i=false}
+  - ignite{d=400}
+VarsonFireballEnd:
+  Cooldown: 0.05
+  Skills:
+  - effect:particles{particle=largeexplosion;amount=15;vSpread=1;hSpread=1;Speed=1;yOffset=0} @Origin >0 1
+  - effect:particles{particle=flame;amount=15;vSpread=1;hSpread=1;Speed=1;yOffset=0} @Origin >0 1
+  - effect:particles{particle=smoke;amount=15;vSpread=1;hSpread=1;Speed=1;yOffset=0} @Origin >0 1
+  - effect:particles{particle=lava;amount=15;vSpread=1;hSpread=1;Speed=1;yOffset=0} @Origin >0 1
+  - effect:particles{particle=lava;amount=15;vSpread=1;hSpread=1;Speed=1;yOffset=0} @Origin >0 1
+  - effect:particles{particle=reddust;amount=25;vSpread=1;hSpread=1;Speed=0.01;yOffset=0} @Origin >0 1
+VarsonMassTeleport:
+  Cooldown: 30
+  Conditions:
+  - stance PhaseTwo
+  - offgcd true
+  Skills:
+  - GCD{ticks=100} @Self
+  - randommessage{m="<mob.name><&co> &4Your pathetic attempt to escape is futile!","<mob.name><&co> &4No! You are NOT walking away from this ALIVE!","<mob.name><&co> &4No one has ever escaped! NEITHER WILL YOU!";} @PlayersInRadius{r=80} >0 1
+  - forcepull @PlayersInRadius{r=80} >0 1
+VarsonMissileRain:
+  Cooldown: 15
+  Conditions:
+  - stance PhaseTwo
+  - offgcd true
+  - targetwithin 30
+  - targetinlineofsight true
+  Skills:
+  - GCD{ticks=200} @Self
+  - randommessage{m="<mob.name><&co> &4MUAHAHAHAH!","<mob.name><&co> &4FEAR ME! AHAHAHAHA!","<mob.name><&co> &4THIS IS WHAT TRUE POWER IS!";} @PlayersInRadius{r=80} >0 1
+  - potion{t=SLOW;d=120;l=6} @Self
+  - summon{type=0PMissileMob0;amount=1;radius=20} @Self
+  - delay 10
+  - summon{type=0PMissileMob0;amount=1;radius=20} @Self
+  - delay 10
+  - summon{type=0PMissileMob0;amount=1;radius=20} @Self
+  - delay 10
+  - summon{type=0PMissileMob0;amount=1;radius=20} @Self
+  - delay 10
+  - summon{type=0PMissileMob0;amount=1;radius=20} @Self
+  - delay 10
+  - summon{type=0PMissileMob0;amount=1;radius=20} @Self
+  - delay 10
+  - summon{type=0PMissileMob0;amount=1;radius=20} @Self
+  - delay 10
+  - summon{type=0PMissileMob0;amount=1;radius=20} @Self
+  - delay 10
+  - summon{type=0PMissileMob0;amount=1;radius=20} @Self
+  - delay 10
+  - summon{type=0PMissileMob0;amount=1;radius=20} @Self
+  - delay 10
+  - summon{type=0PMissileMob0;amount=1;radius=20} @Self
+  - delay 10
+  - summon{type=0PMissileMob0;amount=1;radius=20} @Self
+  - delay 10
+  - summon{type=0PMissileMob0;amount=1;radius=20} @Self
+VarsonMissile:
+  Cooldown: 15
+  Conditions:
+  - stance PhaseTwo
+  - offgcd true
+  - targetwithin 30
+  - targetinlineofsight true
+  Skills:
+  - GCD{ticks=200} @Self
+  - randommessage{m="<mob.name><&co> &4You will die!","<mob.name><&co> &4DIE FOR ME!","<mob.name><&co> &4I will blow you to pieces!";} @PlayersInRadius{r=80} >0 1
+  - potion{t=SLOW;d=80;l=6} @Self
+  - skill{skill=VarsonMissileWARN} @Self
+  - delay 60
+  - projectile{onTick=VarsonMissileEffect;onHit=VarsonMissileDamage;i=3;hR=1.5;mr=50;md=300;vR=1.5;syo=0.8;sfo=0;v=17;vO=0;hO=0;g=0;hnp=true;sE=false;sB=true;pav=true;par=true;hs=true;hfs=0.5} >0 1
+VarsonMissileEffect:
+  Cooldown: 0.25
+  Skills:
+  - effect:particles{particle=explode;amount=25;vSpread=0.5;hSpread=0.5;Speed=0.01;yOffset=0} @Origin
+  - effect:particles{particle=largeexplode;amount=10;vSpread=0.5;hSpread=0.5;Speed=1;yOffset=0} @Origin
+  - effect:sound{sound=random.explode;volume=1;p=0.5} @Origin
+VarsonMissileDamage:
+  Cooldown: 0.25
+  Skills:
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0}
+  - damage{a=8;i=true}
+VarsonMissileWARN:
+  Cooldown: 0.25
+  Skills:
+  - effect:particlering{particle=witchMagic;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Target
+  - effect:particleline{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=0;ystartoffset=0;distancebetween=3} @Target
+  - delay 5
+  - effect:sound{sound=note.pling;volume=2;p=2} @Target >0 1
+  - effect:particlering{particle=witchMagic;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Target
+  - effect:particleline{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=0;ystartoffset=0;distancebetween=3} @Target
+  - delay 5
+  - effect:sound{sound=note.pling;volume=2;p=2} @Target >0 1
+  - effect:particlering{particle=witchMagic;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Target
+  - effect:particleline{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=0;ystartoffset=0;distancebetween=3} @Target
+  - delay 5
+  - effect:sound{sound=note.pling;volume=2;p=2} @Target >0 1
+  - effect:particlering{particle=witchMagic;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Target
+  - effect:particleline{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=0;ystartoffset=0;distancebetween=3} @Target
+  - delay 5
+  - effect:sound{sound=note.pling;volume=2;p=2} @Target >0 1
+  - effect:particlering{particle=witchMagic;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Target
+  - effect:particleline{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=0;ystartoffset=0;distancebetween=3} @Target
+  - delay 5
+  - effect:sound{sound=note.pling;volume=2;p=2} @Target >0 1
+  - effect:particlering{particle=witchMagic;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Target
+  - effect:particleline{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=0;ystartoffset=0;distancebetween=3} @Target
+  - delay 5
+  - effect:sound{sound=note.pling;volume=2;p=2} @Target >0 1
+  - effect:particlering{particle=witchMagic;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Target
+  - effect:particleline{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=0;ystartoffset=0;distancebetween=3} @Target
+  - delay 5
+  - effect:sound{sound=note.pling;volume=2;p=2} @Target >0 1
+  - effect:particlering{particle=witchMagic;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Target
+  - effect:particleline{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=0;ystartoffset=0;distancebetween=3} @Target
+  - delay 5
+  - effect:sound{sound=note.pling;volume=2;p=2} @Target >0 1
+  - effect:particlering{particle=witchMagic;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Target
+  - effect:particleline{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=0;ystartoffset=0;distancebetween=3} @Target
+  - delay 5
+  - effect:sound{sound=note.pling;volume=2;p=2} @Target >0 1
+  - effect:particlering{particle=witchMagic;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Target
+  - effect:particleline{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=0;ystartoffset=0;distancebetween=3} @Target
+  - delay 5
+  - effect:sound{sound=note.pling;volume=2;p=2} @Target >0 1
+  - effect:particlering{particle=witchMagic;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Target
+  - effect:particleline{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=0;ystartoffset=0;distancebetween=3} @Target
+  - delay 5
+  - effect:sound{sound=note.pling;volume=2;p=2} @Target >0 1
+  - effect:particlering{particle=witchMagic;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Target
+  - effect:particleline{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=0;ystartoffset=0;distancebetween=3} @Target
+  - delay 5
+  - effect:sound{sound=note.pling;volume=2;p=2} @Target >0 1
+  - effect:particlering{particle=witchMagic;amount=40;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Target
+  - effect:particleline{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=0;ystartoffset=0;distancebetween=3} @Target
+VarsonUnhinged:
+  Cooldown: 0.25
+  Conditions:
+  - stance PhaseThree
+  - targetinlineofsight true
+  Skills:
+  - projectile{onEnd=VarsonUnhingedFireballEnd;onTick=VarsonUnhingedFireball;onHit=VarsonUnhingedFireballDamage;i=2;hR=0.75;mr=40;md=400;vR=0.75;syo=1;sfo=1;v=12;vO=0;hO=-20;g=0;sE=true;hnp=true;sB=true;pav=true;par=true;hs=false;hfs=0.5} @Target <5% 1
+  - projectile{onEnd=VarsonUnhingedFireballEnd;onTick=VarsonUnhingedFireball;onHit=VarsonUnhingedFireballDamage;i=2;hR=0.75;mr=40;md=400;vR=0.75;syo=1;sfo=1;v=12;vO=0;hO=0;g=0;sE=true;hnp=true;sB=true;pav=true;par=true;hs=false;hfs=0.5} @Target >0 1
+  - projectile{onEnd=VarsonUnhingedFireballEnd;onTick=VarsonUnhingedFireball;onHit=VarsonUnhingedFireballDamage;i=2;hR=0.75;mr=40;md=400;vR=0.75;syo=1;sfo=1;v=12;vO=0;hO=20;g=0;sE=true;hnp=true;sB=true;pav=true;par=true;hs=false;hfs=0.5} @Target <5% 1
+  - effect:sound{s=mob.ghast.fireball;v=1;p=0.5} @Self >0 1
+VarsonUnhingedFireball:
+  Cooldown: 0.05
+  Skills:
+  - effect:particles{particle=smoke;amount=7;vSpread=0.1;hSpread=0.1;Speed=0;yOffset=1} @Origin >0 1
+  - effect:particles{particle=flame;amount=10;vSpread=0.1;hSpread=0.1;Speed=0;yOffset=1} @Origin >0 1
+VarsonUnhingedFireballDamage:
+  Cooldown: 0.05
+  Skills:
+  - damage{a=12;i=false}
+  - ignite{d=200}
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=1;hSpread=1;Speed=1;yOffset=1}
+  - effect:particles{particle=flame;amount=25;vSpread=1;hSpread=1;Speed=1;yOffset=1}
+  - effect:particles{particle=smoke;amount=25;vSpread=1;hSpread=1;Speed=1;yOffset=1}
+  - effect:particles{particle=lava;amount=25;vSpread=1;hSpread=1;Speed=1;yOffset=1}
+  - effect:particles{particle=lava;amount=25;vSpread=1;hSpread=1;Speed=1;yOffset=1} 
+  - effect:particles{particle=reddust;amount=50;vSpread=1;hSpread=1;Speed=0.01;yOffset=1}
+VarsonUnhingedFireballEnd:
+  Cooldown: 0.05
+  Skills:
+  - effect:sound{s=random.explode;v=2.0;p=0.5} @Origin >0 1
+  - throw{velocity=5;velocityY=5} @PlayersNearOrigin{r=5} >0 1
+  - damage{a=6;i=false} @PlayersNearOrigin{r=5}
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=1;hSpread=1;Speed=1;yOffset=1} @Origin >0 1
+  - effect:particles{particle=flame;amount=25;vSpread=1;hSpread=1;Speed=1;yOffset=1} @Origin >0 1
+  - effect:particles{particle=smoke;amount=25;vSpread=1;hSpread=1;Speed=1;yOffset=1} @Origin >0 1
+  - effect:particles{particle=lava;amount=25;vSpread=1;hSpread=1;Speed=1;yOffset=1} @Origin >0 1
+  - effect:particles{particle=lava;amount=25;vSpread=1;hSpread=1;Speed=1;yOffset=1} @Origin >0 1
+  - effect:particles{particle=reddust;amount=50;vSpread=1;hSpread=1;Speed=0.01;yOffset=1} @Origin >0 1
+VarsonDeath:
+  Cooldown: 0.25
+  Skills:
+  - potion{t=SLOW;d=900;l=8} @Self >0 1
+  - effect:sound{sound=mob.enderdragon.end;volume=100;p=1} @Self>0 1
+  - message{msg="<mob.name><&co> &4WHAT?! NOOOOOOOOO!"} @PlayersInRadius{r=80} >0 1
+  - jump{velocity=1.5} @Self
+  - delay 10
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneRedstone;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneIron;duration=60;amount=10;force=3} @Self
+  - skill{skill=DisableAI} @Self
+  - delay 10
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneIron;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneRedstone;duration=60;amount=10;force=3} @Self 
+  - delay 10
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneIron;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneRedstone;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneIron;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneRedstone;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneIron;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - message{msg="<mob.name><&co> &4Aaaaaaaaaaaaaaagh! I AM THE LEADER OF MIGHTY FACTION! HOW?!?!"} @PlayersInRadius{r=80} >0 1
+  - effect:itemspray{item=DroneRedstone;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneRedstone;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneIron;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneRedstone;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - effect:particles{particle=fireworksSpark;amount=150;vSpread=2;hSpread=0.5;Speed=0;yOffset=1} @Self
+  - effect:particles{particle=explode;amount=150;vSpread=2;hSpread=0.5;Speed=0;yOffset=1} @Self
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneRedstone;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - effect:particles{particle=fireworksSpark;amount=200;vSpread=4;hSpread=0.5;Speed=0;yOffset=2} @Self
+  - effect:particles{particle=explode;amount=200;vSpread=4;hSpread=0.5;Speed=0;yOffset=2} @Self
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneIron;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - effect:particles{particle=fireworksSpark;amount=250;vSpread=6;hSpread=0.5;Speed=0;yOffset=3} @Self
+  - effect:particles{particle=explode;amount=250;vSpread=6;hSpread=0.5;Speed=0;yOffset=3} @Self
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneIron;duration=60;amount=10;force=3} @Self
+  - skill{skill=VarsonDeathEffect} @Self
+  - delay 10
+  - effect:particles{particle=fireworksSpark;amount=300;vSpread=8;hSpread=0.5;Speed=0;yOffset=4} @Self
+  - effect:particles{particle=explode;amount=300;vSpread=8;hSpread=0.5;Speed=0;yOffset=4} @Self
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=1;vSpread=0;hSpread=0;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneRedstone;duration=60;amount=10;force=3} @Self
+  - delay 10
+  - message{msg="<mob.name><&co> &4I can't... believe this..."} @PlayersInRadius{r=80} >0 1
+  - effect:sound{sound=random.explode;volume=2;p=0.5} @Self >0 1
+  - potion{t=INVISIBILITY;d=999999;l=0} @Self
+  - effect:particles{particle=fireworksSpark;amount=300;vSpread=10;hSpread=0.5;Speed=0;yOffset=5} @Self
+  - effect:particles{particle=explode;amount=300;vSpread=10;hSpread=0.5;Speed=0;yOffset=5} @Self
+  - effect:particles{particle=hugeexplosion;amount=10;vSpread=1.5;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=flame;amount=50;vSpread=1;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=smoke;amount=50;vSpread=2;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=lava;amount=50;vSpread=2;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=lava;amount=50;vSpread=3;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=reddust;amount=100;vSpread=3;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:itemspray{item=DroneIron;duration=120;amount=20;force=3} @Self
+  - effect:itemspray{item=DroneRedstone;duration=120;amount=20;force=3} @Self
+  - suicide @Self >0 1
+VarsonDeathEffect:
+  Cooldown: 0.25
+  Skills:
+  - effect:particlering{particle=flame;amount=100;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=1} @Self >0 1
+  - delay 3
+  - effect:particlering{particle=flame;amount=100;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=2} @Self >0 1
+  - delay 3
+  - effect:particlering{particle=flame;amount=100;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=3} @Self >0 1
+  - delay 3
+  - effect:particlering{particle=flame;amount=100;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=4} @Self >0 1
+  - delay 3
+  - effect:particlering{particle=flame;amount=100;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=5} @Self >0 1
+  - delay 3
+  - effect:particlering{particle=flame;amount=100;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=6} @Self >0 1
+  - delay 3
+  - effect:particlering{particle=flame;amount=100;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=7} @Self >0 1
+  - delay 3
+  - effect:particlering{particle=flame;amount=100;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=8} @Self >0 1
+  - delay 3
+  - effect:particlering{particle=flame;amount=100;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=9} @Self >0 1
+  - delay 3
+  - effect:particlering{particle=flame;amount=100;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=20;radius=10} @Self >0 1
+PrecisionMissile:
+  Cooldown: 0.25
+  Skills:
+  - skill{skill=PrecisionMissileWARN} @Self >0 1
+  - delay 20
+  - effect:particles{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0.01;yOffset=20} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=5;vSpread=0.5;hSpread=0.5;Speed=1;yOffset=20} @Self >0 1
+  - effect:sound{sound=random.explode;volume=1.5;p=1} @Self >0 1
+  - delay 2
+  - effect:particles{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0.01;yOffset=17} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=5;vSpread=0.5;hSpread=0.5;Speed=1;yOffset=17} @Self >0 1
+  - effect:sound{sound=random.explode;volume=1.5;p=1} @Self >0 1
+  - delay 2
+  - effect:particles{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0.01;yOffset=14} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=5;vSpread=0.5;hSpread=0.5;Speed=1;yOffset=14} @Self >0 1
+  - effect:sound{sound=random.explode;volume=1.5;p=1} @Self >0 1
+  - delay 2
+  - effect:particles{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0.01;yOffset=11} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=5;vSpread=0.5;hSpread=0.5;Speed=1;yOffset=11} @Self >0 1
+  - effect:sound{sound=random.explode;volume=1.5;p=1} @Self >0 1
+  - delay 2
+  - effect:particles{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0.01;yOffset=8} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=5;vSpread=0.5;hSpread=0.5;Speed=1;yOffset=8} @Self >0 1
+  - effect:sound{sound=random.explode;volume=1.5;p=1} @Self >0 1
+  - delay 2
+  - effect:particles{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0.01;yOffset=5} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=5;vSpread=0.5;hSpread=0.5;Speed=1;yOffset=5} @Self >0 1
+  - effect:sound{sound=random.explode;volume=1.5;p=1} @Self >0 1
+  - delay 2
+  - effect:particles{particle=explode;amount=10;vSpread=0.5;hSpread=0.5;Speed=0.01;yOffset=2} @Self >0 1
+  - effect:particles{particle=largeexplode;amount=5;vSpread=0.5;hSpread=0.5;Speed=1;yOffset=2} @Self >0 1
+  - effect:sound{sound=random.explode;volume=1.5;p=1} @Self >0 1
+  - delay 2
+  - effect:sound{sound=random.explode;volume=2;p=1} @Self >0 1
+  - effect:particles{particle=hugeexplosion;amount=10;vSpread=1.5;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=flame;amount=50;vSpread=1;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=smoke;amount=50;vSpread=2;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=lava;amount=50;vSpread=2;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=lava;amount=50;vSpread=3;hSpread=1;Speed=1;yOffset=0} @Self >0 1
+  - effect:particles{particle=reddust;amount=100;vSpread=3;hSpread=1;Speed=0.01;yOffset=0} @Self >0 1
+  - throw{velocity=6;velocityY=6} @LivingEntitiesInRadius{r=5} >0 1
+  - damage{a=35;i=false} @LivingEntitiesInRadius{r=4} >0 1
+  - suicide @Self >0 1
+PrecisionMissileWARN:
+  Cooldown: 0.25
+  Skills:  
+  - effect:particlering{particle=witchMagic;amount=50;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=10;radius=4} @Self
+  - effect:sound{sound=note.pling;volume=2;p=1} @Self >0 1
+  - delay 5
+  - effect:particlering{particle=witchMagic;amount=50;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=10;radius=4} @Self
+  - effect:sound{sound=note.pling;volume=2;p=1} @Self >0 1
+  - delay 5
+  - effect:sound{sound=note.pling;volume=2;p=1} @Self >0 1
+  - effect:particlering{particle=witchMagic;amount=50;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=10;radius=4} @Self
+  - delay 5
+  - effect:particlering{particle=witchMagic;amount=50;vspread=0.5;hspread=0.5;speed=0;yoffset=0;points=10;radius=4} @Self
+  - effect:sound{sound=note.pling;volume=2;p=1} @Self >0 1

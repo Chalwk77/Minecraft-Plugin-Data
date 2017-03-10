@@ -1,0 +1,31 @@
+lastAccountName: Hitman00013
+timestamps:
+  login: 1470715449145
+  logout: 1470715652352
+  lastteleport: 1470715473563
+ipAddress: 60.234.87.238
+geolocation: New Zealand
+lastlocation:
+  world: world
+  x: 24032.92354015188
+  y: 75.0
+  z: 23155.66423537751
+  yaw: 267.9
+  pitch: -9.449984
+logoutlocation:
+  world: world
+  x: 14710.436066561442
+  y: 68.0
+  z: 9103.175991065777
+  yaw: 148.96318
+  pitch: 37.942745
+homes:
+  home:
+    world: world
+    x: 14708.629684944224
+    y: 68.0
+    z: 9081.10396516653
+    yaw: -76.93683
+    pitch: -5.4072685
+money: '2500'
+afk: false

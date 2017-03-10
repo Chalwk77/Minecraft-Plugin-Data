@@ -1,0 +1,59 @@
+lastAccountName: redfacedassassin
+timestamps:
+  login: 1481015294070
+  lastteleport: 1481011683376
+  logout: 1481015434398
+ipAddress: 103.60.240.83
+geolocation: Chippendale, New South Wales, Australia
+lastlocation:
+  world: world
+  x: -18603.821055245808
+  y: 120.0
+  z: 10649.994657770187
+  yaw: 182.76012
+  pitch: -15.616455
+money: '266571.34509999999857238'
+homes:
+  home:
+    world: world
+    x: -18603.303876876595
+    y: 119.0
+    z: 10650.890537511887
+    yaw: 121.84124
+    pitch: 59.193336
+  sand:
+    world: world
+    x: -18940.798458338057
+    y: 91.0
+    z: 9322.672176583277
+    yaw: -209.54083
+    pitch: 30.26738
+  wood:
+    world: world
+    x: 415378.7462227766
+    y: 75.0
+    z: 273891.3000000119
+    yaw: 118.82312
+    pitch: 6.9873695
+  mine:
+    world: world
+    x: -18796.84737821317
+    y: 14.0
+    z: 10924.845025440314
+    yaw: -96.642426
+    pitch: 13.420096
+  village:
+    world: world
+    x: -18874.692943759215
+    y: 63.9375
+    z: 9881.9644015225
+    yaw: 164.43678
+    pitch: 14.541092
+logoutlocation:
+  world: world
+  x: -18603.809716475673
+  y: 120.0
+  z: 10652.576524669163
+  yaw: -19.075409
+  pitch: 18.80483
+afk: false

@@ -1,0 +1,1786 @@
+Inventories:
+  '62':
+    Time: 1459847491523
+    Exp: 7627175
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 31445
+        Amplifier: 1
+    Location:
+      world: world
+      x: 2825.3918663728723
+      y: 69.97910877056275
+      z: 3426.5530067981804
+      pitch: 10.650008
+      yaw: -3.5469918
+    Items:
+      '0':
+        type: ITEM_FRAME
+        amount: 64
+      '1':
+        type: SIGN
+        amount: 64
+      '2':
+        type: WOOD_AXE
+      '3':
+        type: GLASS
+  '63':
+    Time: 1460025377098
+    Exp: 7760490
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: WITHER
+        Duration: 180
+        Amplifier: 0
+    Location:
+      world: world
+      x: 531.2977302370778
+      y: 68.740750379948
+      z: -3841.509243704466
+      pitch: 11.554817
+      yaw: -151.17136
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 526
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: BOW
+        damage: 46
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: FISHING_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LUCK: 2
+      '9':
+        type: SEEDS
+        amount: 3
+      '10':
+        type: BONE
+        amount: 12
+      '11':
+        type: END_ROD
+        amount: 64
+      '12':
+        type: IRON_ORE
+        amount: 51
+      '13':
+        type: DIAMOND_SWORD
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '14':
+        type: COAL
+        amount: 57
+      '16':
+        type: STICK
+        amount: 37
+      '18':
+        type: COBBLESTONE
+        amount: 64
+      '19':
+        type: SULPHUR
+        amount: 20
+      '20':
+        type: GREEN_RECORD
+      '21':
+        type: GLOWSTONE_DUST
+        amount: 25
+      '22':
+        type: STONE
+        damage: 3
+        amount: 64
+      '23':
+        type: INK_SACK
+        damage: 3
+        amount: 38
+      '24':
+        type: STONE
+        damage: 3
+        amount: 64
+      '25':
+        type: COAL
+        amount: 64
+      '26':
+        type: STONE
+        damage: 3
+        amount: 45
+      '27':
+        type: COBBLESTONE
+        amount: 64
+      '28':
+        type: COAL
+        amount: 64
+      '29':
+        type: GOLD_RECORD
+      '30':
+        type: FLINT
+        amount: 3
+      '31':
+        type: STONE
+        damage: 1
+        amount: 29
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: NAME_TAG
+        amount: 3
+      '34':
+        type: ROTTEN_FLESH
+        amount: 8
+      '35':
+        type: INK_SACK
+        damage: 4
+        amount: 6
+  '64':
+    Time: 1460025423438
+    Exp: 7760493
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 541.7030219702625
+      y: 68.97228374466336
+      z: -3812.8609762210694
+      pitch: 32.69995
+      yaw: 26.877625
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 526
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: BOW
+        damage: 46
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: FISHING_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LUCK: 2
+      '9':
+        type: SEEDS
+        amount: 3
+      '10':
+        type: BONE
+        amount: 12
+      '11':
+        type: END_ROD
+        amount: 64
+      '12':
+        type: IRON_ORE
+        amount: 51
+      '13':
+        type: DIAMOND_SWORD
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '14':
+        type: COAL
+        amount: 57
+      '16':
+        type: STICK
+        amount: 37
+      '18':
+        type: COBBLESTONE
+        amount: 64
+      '19':
+        type: SULPHUR
+        amount: 20
+      '20':
+        type: GREEN_RECORD
+      '21':
+        type: GLOWSTONE_DUST
+        amount: 25
+      '22':
+        type: STONE
+        damage: 3
+        amount: 64
+      '23':
+        type: INK_SACK
+        damage: 3
+        amount: 38
+      '24':
+        type: STONE
+        damage: 3
+        amount: 64
+      '25':
+        type: COAL
+        amount: 64
+      '26':
+        type: STONE
+        damage: 3
+        amount: 45
+      '27':
+        type: COBBLESTONE
+        amount: 64
+      '28':
+        type: COAL
+        amount: 64
+      '29':
+        type: GOLD_RECORD
+      '30':
+        type: FLINT
+        amount: 3
+      '31':
+        type: STONE
+        damage: 1
+        amount: 29
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: NAME_TAG
+        amount: 3
+      '34':
+        type: ROTTEN_FLESH
+        amount: 8
+      '35':
+        type: INK_SACK
+        damage: 4
+        amount: 6
+  '65':
+    Time: 1460025553710
+    Exp: 7760493
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 212.5
+      y: 65.0
+      z: -3610.5
+      pitch: 12.749974
+      yaw: 22.069824
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 526
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: BOW
+        damage: 46
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: FISHING_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LUCK: 2
+      '9':
+        type: SEEDS
+        amount: 3
+      '10':
+        type: BONE
+        amount: 12
+      '11':
+        type: END_ROD
+        amount: 64
+      '12':
+        type: IRON_ORE
+        amount: 51
+      '13':
+        type: DIAMOND_SWORD
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '14':
+        type: COAL
+        amount: 57
+      '16':
+        type: STICK
+        amount: 37
+      '18':
+        type: COBBLESTONE
+        amount: 64
+      '19':
+        type: SULPHUR
+        amount: 20
+      '20':
+        type: GREEN_RECORD
+      '21':
+        type: GLOWSTONE_DUST
+        amount: 25
+      '22':
+        type: STONE
+        damage: 3
+        amount: 64
+      '23':
+        type: INK_SACK
+        damage: 3
+        amount: 38
+      '24':
+        type: STONE
+        damage: 3
+        amount: 64
+      '25':
+        type: COAL
+        amount: 64
+      '26':
+        type: STONE
+        damage: 3
+        amount: 45
+      '27':
+        type: COBBLESTONE
+        amount: 64
+      '28':
+        type: COAL
+        amount: 64
+      '29':
+        type: GOLD_RECORD
+      '30':
+        type: FLINT
+        amount: 3
+      '31':
+        type: STONE
+        damage: 1
+        amount: 29
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: NAME_TAG
+        amount: 3
+      '34':
+        type: ROTTEN_FLESH
+        amount: 8
+      '35':
+        type: INK_SACK
+        damage: 4
+        amount: 6
+  '66':
+    Time: 1460146826478
+    Exp: 8027826
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 495.74567769244544
+      y: 109.5
+      z: -194.6510267517489
+      pitch: 28.27153
+      yaw: 180.15637
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 526
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: BOW
+        damage: 46
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: EMERALD
+        amount: 5
+      '9':
+        type: SEEDS
+        amount: 3
+      '10':
+        type: BONE
+        amount: 12
+      '11':
+        type: END_ROD
+        amount: 64
+      '12':
+        type: IRON_ORE
+        amount: 51
+      '13':
+        type: DIAMOND_SWORD
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '14':
+        type: COAL
+        amount: 57
+      '15':
+        type: EXP_BOTTLE
+        amount: 10
+      '16':
+        type: STICK
+        amount: 37
+      '17':
+        type: DIAMOND
+        amount: 10
+      '18':
+        type: COBBLESTONE
+        amount: 64
+      '19':
+        type: SULPHUR
+        amount: 20
+      '20':
+        type: GREEN_RECORD
+      '21':
+        type: GLOWSTONE_DUST
+        amount: 25
+      '22':
+        type: STONE
+        damage: 3
+        amount: 64
+      '23':
+        type: INK_SACK
+        damage: 3
+        amount: 38
+      '24':
+        type: STONE
+        damage: 3
+        amount: 64
+      '25':
+        type: COAL
+        amount: 64
+      '26':
+        type: STONE
+        damage: 3
+        amount: 45
+      '27':
+        type: COBBLESTONE
+        amount: 64
+      '28':
+        type: COAL
+        amount: 64
+      '29':
+        type: GOLD_RECORD
+      '30':
+        type: FLINT
+        amount: 3
+      '31':
+        type: STONE
+        damage: 1
+        amount: 29
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: NAME_TAG
+        amount: 3
+      '34':
+        type: ROTTEN_FLESH
+        amount: 10
+      '35':
+        type: INK_SACK
+        damage: 4
+        amount: 6
+  '67':
+    Time: 1460883173753
+    Exp: 8027826
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 477.15010340017454
+      y: 88.0
+      z: -147.19491068928915
+      pitch: -2.7785046
+      yaw: 355.20636
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 526
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: BOW
+        damage: 46
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: EMERALD
+        amount: 5
+      '9':
+        type: SEEDS
+        amount: 3
+      '10':
+        type: BONE
+        amount: 12
+      '11':
+        type: END_ROD
+        amount: 64
+      '12':
+        type: IRON_ORE
+        amount: 51
+      '13':
+        type: DIAMOND_SWORD
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '14':
+        type: COAL
+        amount: 57
+      '15':
+        type: EXP_BOTTLE
+        amount: 10
+      '16':
+        type: STICK
+        amount: 37
+      '17':
+        type: DIAMOND
+        amount: 10
+      '18':
+        type: COBBLESTONE
+        amount: 64
+      '19':
+        type: SULPHUR
+        amount: 20
+      '20':
+        type: GREEN_RECORD
+      '21':
+        type: GLOWSTONE_DUST
+        amount: 25
+      '22':
+        type: STONE
+        damage: 3
+        amount: 64
+      '23':
+        type: INK_SACK
+        damage: 3
+        amount: 38
+      '24':
+        type: STONE
+        damage: 3
+        amount: 64
+      '25':
+        type: COAL
+        amount: 64
+      '26':
+        type: STONE
+        damage: 3
+        amount: 45
+      '27':
+        type: COBBLESTONE
+        amount: 64
+      '28':
+        type: COAL
+        amount: 64
+      '29':
+        type: GOLD_RECORD
+      '30':
+        type: FLINT
+        amount: 3
+      '31':
+        type: STONE
+        damage: 1
+        amount: 29
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: NAME_TAG
+        amount: 3
+      '34':
+        type: ROTTEN_FLESH
+        amount: 10
+      '35':
+        type: INK_SACK
+        damage: 4
+        amount: 6
+  '68':
+    Time: 1462120698478
+    Exp: 8027875
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 739.6540234433539
+      y: 62.5
+      z: 319.4536717906041
+      pitch: -3.3001385
+      yaw: 90.75867
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 526
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: BOW
+        damage: 46
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: EMERALD
+        amount: 5
+      '9':
+        type: SEEDS
+        amount: 3
+      '10':
+        type: BONE
+        amount: 12
+      '11':
+        type: END_ROD
+        amount: 64
+      '12':
+        type: IRON_ORE
+        amount: 51
+      '13':
+        type: DIAMOND_SWORD
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '14':
+        type: COAL
+        amount: 57
+      '15':
+        type: EXP_BOTTLE
+        amount: 10
+      '16':
+        type: STICK
+        amount: 37
+      '17':
+        type: DIAMOND
+        amount: 10
+      '18':
+        type: COBBLESTONE
+        amount: 64
+      '19':
+        type: SULPHUR
+        amount: 20
+      '20':
+        type: GREEN_RECORD
+      '21':
+        type: GLOWSTONE_DUST
+        amount: 25
+      '22':
+        type: STONE
+        damage: 3
+        amount: 64
+      '23':
+        type: INK_SACK
+        damage: 3
+        amount: 38
+      '24':
+        type: STONE
+        damage: 3
+        amount: 64
+      '25':
+        type: COAL
+        amount: 64
+      '26':
+        type: STONE
+        damage: 3
+        amount: 45
+      '27':
+        type: COBBLESTONE
+        amount: 64
+      '28':
+        type: COAL
+        amount: 64
+      '29':
+        type: GOLD_RECORD
+      '30':
+        type: FLINT
+        amount: 3
+      '31':
+        type: STONE
+        damage: 1
+        amount: 29
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: NAME_TAG
+        amount: 3
+      '34':
+        type: ROTTEN_FLESH
+        amount: 10
+      '35':
+        type: INK_SACK
+        damage: 4
+        amount: 6
+  '69':
+    Time: 1462162104366
+    Exp: 8028055
+    Health: 2.8324062824249268
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 72740
+        Amplifier: 1
+      '2':
+        Name: WITHER
+        Duration: 189
+        Amplifier: 0
+    Location:
+      world: world
+      x: -1019.3000000119212
+      y: 60.0
+      z: -1301.925000011921
+      pitch: -0.2999618
+      yaw: 137.10367
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Sword of Infinity
+          lore:
+          - §5Grants the user unwavering power!
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 528
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: BOW
+        damage: 69
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: ARROW
+        amount: 6
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: EMERALD
+        amount: 5
+      '9':
+        type: SEEDS
+        amount: 3
+      '10':
+        type: BONE
+        amount: 42
+      '11':
+        type: END_ROD
+        amount: 64
+      '12':
+        type: IRON_ORE
+        amount: 51
+      '13':
+        type: DIAMOND_SWORD
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: DIAMOND_SWORD
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '16':
+        type: ROTTEN_FLESH
+        amount: 7
+      '17':
+        type: DIAMOND
+        amount: 10
+      '18':
+        type: COBBLESTONE
+        amount: 64
+      '19':
+        type: SULPHUR
+        amount: 20
+      '20':
+        type: GREEN_RECORD
+      '21':
+        type: GLOWSTONE_DUST
+        amount: 25
+      '22':
+        type: STONE
+        damage: 3
+        amount: 64
+      '23':
+        type: INK_SACK
+        damage: 3
+        amount: 38
+      '24':
+        type: STONE
+        damage: 3
+        amount: 64
+      '25':
+        type: COAL
+        amount: 64
+      '26':
+        type: STONE
+        damage: 3
+        amount: 45
+      '27':
+        type: COBBLESTONE
+        amount: 64
+      '28':
+        type: COAL
+        amount: 64
+      '29':
+        type: GOLD_RECORD
+      '30':
+        type: FLINT
+        amount: 3
+      '31':
+        type: STONE
+        damage: 1
+        amount: 29
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: NAME_TAG
+        amount: 3
+      '34':
+        type: STICK
+        amount: 37
+      '35':
+        type: INK_SACK
+        damage: 4
+        amount: 6
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 165
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 153
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 135
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '40':
+        type: SHIELD
+        damage: 89
+  '70':
+    Time: 1462162230680
+    Exp: 149
+    Health: 2.7920024394989014
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: WITHER
+        Duration: 191
+        Amplifier: 0
+    Location:
+      world: world
+      x: -1033.3844267782788
+      y: 61.04488488728202
+      z: -1311.9198959424564
+      pitch: -0.3000136
+      yaw: 302.0985
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Sword of Infinity
+          lore:
+          - §5Grants the user unwavering power!
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 528
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: BOW
+        damage: 93
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: EMERALD
+        amount: 5
+      '6':
+        type: BONE
+        amount: 64
+      '7':
+        type: IRON_ORE
+        amount: 51
+      '8':
+        type: DIAMOND_SWORD
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '9':
+        type: COAL
+        amount: 64
+      '10':
+        type: ROTTEN_FLESH
+        amount: 7
+      '11':
+        type: DIAMOND
+        amount: 10
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: SULPHUR
+        amount: 20
+      '14':
+        type: GREEN_RECORD
+      '15':
+        type: GLOWSTONE_DUST
+        amount: 25
+      '16':
+        type: INK_SACK
+        damage: 3
+        amount: 38
+      '17':
+        type: COAL
+        amount: 64
+      '18':
+        type: STONE
+        damage: 3
+        amount: 64
+      '19':
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        type: GOLD_RECORD
+      '21':
+        type: STONE
+        damage: 1
+        amount: 29
+      '22':
+        type: COBBLESTONE
+        amount: 64
+      '23':
+        type: NAME_TAG
+        amount: 3
+      '24':
+        type: STICK
+        amount: 37
+      '25':
+        type: STONE
+        damage: 3
+        amount: 64
+      '26':
+        type: STONE
+        damage: 3
+        amount: 45
+      '27':
+        type: FLINT
+        amount: 3
+      '28':
+        type: SEEDS
+        amount: 3
+      '29':
+        type: COAL
+        amount: 64
+      '30':
+        type: INK_SACK
+        damage: 4
+        amount: 6
+      '31':
+        type: END_ROD
+        amount: 64
+      '32':
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        type: ARROW
+        amount: 18
+      '34':
+        type: DIAMOND_SWORD
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '35':
+        type: COAL
+        amount: 26
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 319
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 310
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 331
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 316
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '40':
+        type: SHIELD
+        damage: 135
+  '71':
+    Time: 1462483222840
+    Exp: 370
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 470.09288869638505
+      y: 94.5
+      z: -261.7778151425865
+      pitch: -2.8499749
+      yaw: 191.4989
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 204
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: NAME_TAG
+        amount: 3
+      '3':
+        type: STONE
+        damage: 3
+        amount: 64
+      '4':
+        type: GOLD_RECORD
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 528
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '6':
+        type: DIAMOND_SWORD
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '7':
+        type: DIAMOND
+        amount: 10
+      '8':
+        type: WATER_BUCKET
+      '9':
+        type: COAL
+        amount: 64
+      '10':
+        type: COAL
+        amount: 64
+      '11':
+        type: IRON_ORE
+        amount: 51
+      '12':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '13':
+        type: ARROW
+        amount: 18
+      '14':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '15':
+        type: GREEN_RECORD
+      '16':
+        type: DIAMOND_SWORD
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Sword of Infinity
+          lore:
+          - §5Grants the user unwavering power!
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '17':
+        type: GOLD_NUGGET
+        amount: 34
+      '18':
+        type: EMERALD
+        amount: 5
+      '19':
+        type: BONE
+        amount: 64
+      '20':
+        type: ROTTEN_FLESH
+        amount: 7
+      '21':
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        type: GLOWSTONE_DUST
+        amount: 25
+      '23':
+        type: INK_SACK
+        damage: 3
+        amount: 38
+      '24':
+        type: COBBLESTONE
+        amount: 64
+      '25':
+        type: STONE
+        damage: 1
+        amount: 29
+      '26':
+        type: COBBLESTONE
+        amount: 64
+      '27':
+        type: STICK
+        amount: 37
+      '28':
+        type: STONE
+        damage: 3
+        amount: 64
+      '29':
+        type: FLINT
+        amount: 3
+      '30':
+        type: SEEDS
+        amount: 3
+      '31':
+        type: COAL
+        amount: 64
+      '32':
+        type: INK_SACK
+        damage: 4
+        amount: 6
+      '33':
+        type: END_ROD
+        amount: 64
+      '34':
+        type: SULPHUR
+        amount: 20
+      '35':
+        type: COAL
+        amount: 26
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 422
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 422
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '40':
+        type: SHIELD
+        damage: 135

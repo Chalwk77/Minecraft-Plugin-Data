@@ -1,0 +1,35 @@
+lastlocation:
+  world: world
+  x: 14503.939139071854
+  y: 63.0
+  z: -24326.042644184385
+  yaw: -326.21194
+  pitch: 5.399861
+lastAccountName: bythinel
+timestamps:
+  login: 1473421761639
+  lastteleport: 1473404747064
+  kits:
+    citizen: 1473403230321
+    color: 1472807151100
+    tools: 1473402870903
+    food: 1473402932748
+  logout: 1473422521814
+ipAddress: 123.243.174.129
+geolocation: Brisbane, Queensland, Australia
+money: '34379.0869999999999886'
+homes:
+  home:
+    world: world
+    x: 14441.275883160017
+    y: 96.0
+    z: -24316.151084727982
+    yaw: -356.5558
+    pitch: 41.100048
+logoutlocation:
+  world: world
+  x: 14466.651191200135
+  y: 86.0
+  z: -24324.00462029983
+  yaw: 97.796364
+  pitch: 30.150032

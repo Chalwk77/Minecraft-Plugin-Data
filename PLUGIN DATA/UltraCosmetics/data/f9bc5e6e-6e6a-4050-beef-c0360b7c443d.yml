@@ -1,0 +1,36 @@
+Keys: 0
+Ammo:
+  be:
+    isach:
+      ultracosmetics:
+        cosmetics:
+          gadgets:
+            gadgettype@ce4013: 0
+            gadgettype@1d11032b: 0
+            gadgettype@3270b7d5: 0
+            gadgettype@2a1ff203: 0
+            gadgettype@a9dd36e: 0
+            gadgettype@539c4a1c: 0
+            gadgettype@5e09dedd: 0
+            gadgettype@5e46d82c: 0
+            gadgettype@6e0256a6: 0
+            gadgettype@426ccad4: 0
+            gadgettype@23ca5cee: 0
+            gadgettype@4a5ebeaa: 0
+            gadgettype@2f76ddc4: 0
+            gadgettype@356f7b66: 0
+            gadgettype@3d9bc28a: 0
+            gadgettype@58ef825b: 0
+            gadgettype@212526b6: 0
+            gadgettype@1e134e53: 0
+            gadgettype@15e79300: 0
+            gadgettype@483d3a1c: 0
+            gadgettype@64f2c9da: 0
+            gadgettype@47c7fd9a: 0
+            gadgettype@71aaef6a: 0
+            gadgettype@30342741: 0
+            gadgettype@7d04ff22: 0
+            gadgettype@62d30dba: 0
+            gadgettype@78d4684: 0
+Gadgets-Enabled: true
+Third-Person-Morph-View: true

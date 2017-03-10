@@ -1,0 +1,23 @@
+command-no-perms: "&cYou do not have permission for that!"
+command-missing-args: "&cNot enough arguments supplied!"
+unkown-command: "&cUnknown command!"
+
+nothing-to-cancel: "&cNothing to cancel here!"
+process-cancelled: "&dProcess cancelled!"
+process-already-in-action: "&4Process already in action!"
+invalid-time: "&cNot a valid value for time!"
+time-not-positive: "&4Time must be a positive number!"
+
+time-format: "&7{minutes}&e:&7{seconds}"
+
+shutting-down: "Shutting Down for maintenance"
+restarting: "Restarting"
+right-now: "&eServer will now close down"
+
+ping-message: "&4Server is {action} in {time}"
+kick-message: "Server is {action}\n{reason}\nJeriCraft will be back online soon!"
+
+actionbar-txt: "&4{action} in {time}"
+title-txt: "{time}"
+subtitle-txt: "&4{action}"
+chat-txt: "&7[&eServer&7] &4{action} in {time}"

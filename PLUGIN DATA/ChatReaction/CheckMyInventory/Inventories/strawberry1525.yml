@@ -1,0 +1,623 @@
+Inventories:
+  '9':
+    Time: 1459659265544
+    Exp: 1047
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9786695
+        Amplifier: 1
+    Location:
+      world: world
+      x: 670.2586722872563
+      y: 69.1690082401319
+      z: 43.93910531217176
+      pitch: 2.9998734
+      yaw: -272.75195
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '8':
+        type: DIAMOND_PICKAXE
+        damage: 1037
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          enchants:
+            DIG_SPEED: 5
+  '10':
+    Time: 1459766740040
+    Exp: 1047
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9719688
+        Amplifier: 1
+    Location:
+      world: world
+      x: 14648.824408517834
+      y: 90.0
+      z: 9270.137076587482
+      pitch: -0.45001197
+      yaw: -185.85541
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '8':
+        type: DIAMOND_PICKAXE
+        damage: 1039
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          enchants:
+            DIG_SPEED: 5
+  '11':
+    Time: 1459847491075
+    Exp: 1047
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9692249
+        Amplifier: 1
+    Location:
+      world: world
+      x: 14639.426202537506
+      y: 89.0
+      z: 9271.00155808263
+      pitch: 18.29997
+      yaw: -130.35483
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '8':
+        type: DIAMOND_PICKAXE
+        damage: 1039
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          enchants:
+            DIG_SPEED: 5
+  '12':
+    Time: 1460146826144
+    Exp: 6381
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -3336.3252376073624
+      y: 79.0
+      z: -4401.80588011651
+      pitch: -14.099975
+      yaw: 2.8156128
+    Items:
+      '0':
+        type: WOOD_AXE
+      '1':
+        type: STONE
+      '2':
+        type: GRASS
+      '3':
+        type: BEDROCK
+      '4':
+        type: ROTTEN_FLESH
+        amount: 9
+      '9':
+        type: RED_ROSE
+        damage: 6
+  '13':
+    Time: 1460161025182
+    Exp: 6931
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: WITHER
+        Duration: 175
+        Amplifier: 0
+    Location:
+      world: world
+      x: -1025.050000011921
+      y: 60.0
+      z: -1320.4458906672344
+      pitch: 6.1500425
+      yaw: 66.008224
+    Items:
+      '0':
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eCave Spider §fSpawner
+          internal: H4sIAAAAAAAAAGWOzQqCUBCFTwZyHcIeqF3Zop1wBddDDjZ4UdHB6O1L70raHTjf+SGAkF/D8Ozuval9Km4dXNSPBnTjRfyojUwZzn7kd18OJj+bw0wADoQ00g6J7gI4Iq1F25et3DqUbQUFG//DhJPX0G2ETHMCJ/FEgQvwBb0UoqGoAAAA
+          blockMaterial: MOB_SPAWNER
+      '1':
+        type: WOOD_AXE
+      '2':
+        type: DIAMOND_AXE
+        damage: 231
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dJesus§k§6§kii
+          enchants:
+            DIG_SPEED: 5
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '15':
+        type: BOAT
+      '17':
+        type: GRILLED_PORK
+        amount: 64
+      '18':
+        type: BOW
+        damage: 335
+      '20':
+        type: PUMPKIN_SEEDS
+        amount: 3
+      '21':
+        type: NAME_TAG
+      '22':
+        type: DIAMOND_PICKAXE
+        damage: 1048
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          enchants:
+            DIG_SPEED: 5
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+  '14':
+    Time: 1460161054023
+    Exp: 6931
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: WITHER
+        Duration: 160
+        Amplifier: 0
+    Location:
+      world: world
+      x: -13378.547431879288
+      y: 79.0
+      z: -16754.387808848787
+      pitch: 59.99997
+      yaw: -153.74988
+    Items:
+      '0':
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eCave Spider §fSpawner
+          internal: H4sIAAAAAAAAAGWOzQqCUBCFTwZyHcIeqF3Zop1wBddDDjZ4UdHB6O1L70raHTjf+SGAkF/D8Ozuval9Km4dXNSPBnTjRfyojUwZzn7kd18OJj+bw0wADoQ00g6J7gI4Iq1F25et3DqUbQUFG//DhJPX0G2ETHMCJ/FEgQvwBb0UoqGoAAAA
+          blockMaterial: MOB_SPAWNER
+      '1':
+        type: WOOD_AXE
+      '2':
+        type: DIAMOND_AXE
+        damage: 231
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dJesus§k§6§kii
+          enchants:
+            DIG_SPEED: 5
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '15':
+        type: BOAT
+      '17':
+        type: GRILLED_PORK
+        amount: 64
+      '18':
+        type: BOW
+        damage: 335
+      '20':
+        type: PUMPKIN_SEEDS
+        amount: 3
+      '21':
+        type: NAME_TAG
+      '22':
+        type: DIAMOND_PICKAXE
+        damage: 1048
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          enchants:
+            DIG_SPEED: 5
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+  '15':
+    Time: 1460161073169
+    Exp: 6931
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: WITHER
+        Duration: 160
+        Amplifier: 0
+    Location:
+      world: world
+      x: -13379.482428865296
+      y: 79.0
+      z: -16754.01918919815
+      pitch: 35.249977
+      yaw: -133.79993
+    Items:
+      '0':
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eCave Spider §fSpawner
+          internal: H4sIAAAAAAAAAGWOzQqCUBCFTwZyHcIeqF3Zop1wBddDDjZ4UdHB6O1L70raHTjf+SGAkF/D8Ozuval9Km4dXNSPBnTjRfyojUwZzn7kd18OJj+bw0wADoQ00g6J7gI4Iq1F25et3DqUbQUFG//DhJPX0G2ETHMCJ/FEgQvwBb0UoqGoAAAA
+          blockMaterial: MOB_SPAWNER
+      '1':
+        type: WOOD_AXE
+      '2':
+        type: DIAMOND_AXE
+        damage: 231
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dJesus§k§6§kii
+          enchants:
+            DIG_SPEED: 5
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '15':
+        type: BOAT
+      '17':
+        type: GRILLED_PORK
+        amount: 64
+      '18':
+        type: BOW
+        damage: 335
+      '20':
+        type: PUMPKIN_SEEDS
+        amount: 3
+      '21':
+        type: NAME_TAG
+      '22':
+        type: DIAMOND_PICKAXE
+        damage: 1048
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          enchants:
+            DIG_SPEED: 5
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+  '16':
+    Time: 1460883173348
+    Exp: 7238
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -7356.871669063686
+      y: 65.0
+      z: -5245.445801043273
+      pitch: 3.000011
+      yaw: 283.7389
+    Items:
+      '0':
+        type: WOOD_AXE
+      '1':
+        type: LEAVES
+      '2':
+        type: THIN_GLASS
+      '4':
+        type: CARPET
+      '5':
+        type: STEP
+        damage: 7
+      '6':
+        type: STAINED_CLAY
+        damage: 2
+      '7':
+        type: IRON_DOOR
+      '8':
+        type: GRASS
+      '9':
+        type: RED_ROSE
+        damage: 6
+      '10':
+        type: IRON_DOOR
+      '11':
+        type: ARROW
+        amount: 2
+      '12':
+        type: DOUBLE_PLANT
+        amount: 2
+      '13':
+        type: SEEDS
+        amount: 8
+      '14':
+        type: WOOD
+        amount: 62
+      '15':
+        type: SIGN
+      '16':
+        type: BONE
+        amount: 2
+  '17':
+    Time: 1462120698098
+    Exp: 8658
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 7.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -2499.3945336112447
+      y: 100.03145984851824
+      z: -2345.6516833722844
+      pitch: 17.55005
+      yaw: 34.737057
+    Items:
+      '0':
+        type: QUARTZ_STAIRS
+      '1':
+        type: STAINED_GLASS
+        damage: 15
+      '2':
+        type: LEAVES
+      '3':
+        type: WOOD
+        damage: 3
+      '4':
+        type: QUARTZ_BLOCK
+      '5':
+        type: STEP
+        damage: 7
+      '6':
+        type: STAINED_CLAY
+        damage: 2
+      '7':
+        type: IRON_DOOR
+      '8':
+        type: GRASS
+      '9':
+        type: RED_ROSE
+        damage: 6
+      '10':
+        type: IRON_DOOR
+      '11':
+        type: ARROW
+        amount: 2
+      '12':
+        type: DOUBLE_PLANT
+        amount: 2
+      '13':
+        type: SEEDS
+        amount: 8
+      '14':
+        type: WOOD
+        amount: 62
+      '15':
+        type: SIGN
+      '16':
+        type: BONE
+        amount: 2
+      '17':
+        type: CARPET
+  '18':
+    Time: 1462483222374
+    Exp: 8658
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 7.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -2499.3945336112447
+      y: 100.03145984851824
+      z: -2345.6516833722844
+      pitch: 17.55005
+      yaw: 34.737057
+    Items:
+      '0':
+        type: QUARTZ_STAIRS
+      '1':
+        type: STAINED_GLASS
+        damage: 15
+      '2':
+        type: LEAVES
+      '3':
+        type: WOOD
+        damage: 3
+      '4':
+        type: QUARTZ_BLOCK
+      '5':
+        type: STEP
+        damage: 7
+      '6':
+        type: STAINED_CLAY
+        damage: 2
+      '7':
+        type: IRON_DOOR
+      '8':
+        type: GRASS
+      '9':
+        type: RED_ROSE
+        damage: 6
+      '10':
+        type: IRON_DOOR
+      '11':
+        type: ARROW
+        amount: 2
+      '12':
+        type: DOUBLE_PLANT
+        amount: 2
+      '13':
+        type: SEEDS
+        amount: 8
+      '14':
+        type: WOOD
+        amount: 62
+      '15':
+        type: SIGN
+      '16':
+        type: BONE
+        amount: 2
+      '17':
+        type: CARPET

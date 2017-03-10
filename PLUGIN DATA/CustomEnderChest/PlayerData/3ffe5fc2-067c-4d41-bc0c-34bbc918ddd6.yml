@@ -1,0 +1,128 @@
+PlayerLastName: Sekinchan
+EnderChestSize: 54
+EnderChestInventory:
+  '53':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §5Ender Talisman of the Hunter
+      lore:
+      - §7§oEnder Infused
+      - ''
+      - ''
+      - §rWhile you have this Talisman
+      - §rin your Inventory it has
+      - §ra 20% chance of doubling
+      - §rall Drops from Mobs you kill
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_PICKAXE
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §8§lIron Pickaxe
+      lore:
+      - §8IRON KIT
+      - §6Slots 4
+      - §7Endless I
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §ePickaxe of Vein Mining
+      lore:
+      - ''
+      - §rThis Pickaxe will dig out
+      - §rwhole Veins of Ores...
+      enchants:
+        DIG_SPEED: 4
+        DURABILITY: 3
+        LOOT_BONUS_BLOCKS: 3
+        MENDING: 1
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_PICKAXE
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §8§lIron Pickaxe
+      lore:
+      - §8IRON KIT
+      - §6Slots 3
+      - §7Endless I
+      - §7Veinminer III
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+  '45':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §cHazmat Suit Leggings
+      lore:
+      - ''
+      - §4§oPart of Hazmat Suit
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 9
+        DURABILITY: 9
+        MENDING: 1
+      color:
+        ==: Color
+        RED: 255
+        BLUE: 0
+        GREEN: 165
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 44
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 5
+        SILK_TOUCH: 1
+        DURABILITY: 3
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §eFarmer Shoes
+      lore:
+      - ''
+      - §6§oPrevents you from trampling your Crops
+      color:
+        ==: Color
+        RED: 255
+        BLUE: 0
+        GREEN: 255
+  '44':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 4
+    amount: 5
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §2Creeper Pet
+      lore:
+      - §cMob (Hostile)
+      - '§7Favourite Food: Gunpowder'
+      - ''
+      - §rImmune to Explosions
+      - '§rRight-Click: §7Explode'

@@ -1,0 +1,14 @@
+PlayerLastName: ihatelocust11
+EnderChestSize: 18
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 43
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: aDiamond Shovel
+      enchants:
+        SILK_TOUCH: 1
+      repair-cost: 3

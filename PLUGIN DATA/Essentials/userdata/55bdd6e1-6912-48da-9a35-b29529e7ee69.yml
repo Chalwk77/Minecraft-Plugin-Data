@@ -1,0 +1,32 @@
+lastlocation:
+  world: world
+  x: 8822.676822573632
+  y: 77.0
+  z: -17353.327483987156
+  yaw: 99.86279
+  pitch: 33.337624
+geolocation: Ottawa, Ontario, Canada
+lastAccountName: deltatacoman9
+timestamps:
+  login: 1472871318813
+  logout: 1472871850203
+  lastteleport: 1472871847859
+  kits:
+    food: 1472179919051
+ipAddress: 47.140.1.244
+homes:
+  kaybae:
+    world: world
+    x: 9166.620953938353
+    y: 72.0
+    z: -17378.60311376088
+    yaw: 39.419815
+    pitch: 6.1174912
+money: '105614.05759999999999344'
+logoutlocation:
+  world: world
+  x: 9166.5
+  y: 72.0
+  z: -17378.5
+  yaw: 38.30879
+  pitch: 4.450951

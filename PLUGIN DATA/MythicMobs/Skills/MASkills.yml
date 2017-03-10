@@ -1,0 +1,28 @@
+MAExplosiveArrow:
+  Cooldown: 0.25
+  Conditions:
+  - targetinlineofsight true
+  - targetwithin 20
+  Skills:
+  - message{msg="<mob.name> &2fires an explosive arrow at you!"} @Trigger >0 1
+  - projectile{onEnd=MAExplosiveArrowDamage;onTick=MAExplosiveArrowEffect;onHit=MAExplosiveArrowDamage;i=1;hR=0.75;mr=20;md=200;vR=0.75;syo=2.3;sfo=1;v=20;vO=0;hO=0;g=0.1;sE=true;hnp=true;sB=true;pav=true;par=true;hs=false;hfs=0.5} >0 1
+MAExplosiveArrowEffect:
+  Cooldown: 0.05
+  Skills:
+  - effect:particles{particle=smoke;amount=5;vSpread=0.1;hSpread=0.1;Speed=0;yOffset=0} @Origin >0 1
+  - effect:particles{particle=flame;amount=5;vSpread=0.1;hSpread=0.1;Speed=0;yOffset=0} @Origin >0 1
+  - effect:particles{particle=explode;amount=4;vSpread=0.1;hSpread=0.1;Speed=0;yOffset=0} @Origin >0 1
+MAExplosiveArrowDamage:
+  Cooldown: 0.05
+  Skills:
+  - effect:particles{particle=largeexplosion;amount=5;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=1} @Origin >0 1
+  - effect:sound{s=random.explode;v=2.0;p=0.5} @Origin >0 1
+  - throw{velocity=5;velocityY=5} >0 1
+  - damage{a=6;i=false} >0 1
+DroneSmoke:
+  Cooldown: 0.25
+  Skills:
+  - effect:particles{particle=smoke;amount=25;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=1} >0 1
+  - effect:particles{particle=flame;amount=10;vSpread=0.5;hSpread=0.5;Speed=0;yOffset=1} >0 1
+  - delay 20
+  - skill{skill=DroneSmoke} >0 1

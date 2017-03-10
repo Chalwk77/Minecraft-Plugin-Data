@@ -1,0 +1,20 @@
+lastAccountName: Kronked
+timestamps:
+  login: 1472739872767
+  logout: 1472739881065
+ipAddress: 124.187.70.83
+geolocation: Queensland, Australia
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+logoutlocation:
+  world: world
+  x: 477.02435521054974
+  y: 89.0
+  z: -187.41917217687777
+  yaw: 337.8999
+  pitch: 6.449982

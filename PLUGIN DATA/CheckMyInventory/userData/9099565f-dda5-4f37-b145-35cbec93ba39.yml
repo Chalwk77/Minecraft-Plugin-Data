@@ -1,0 +1,25 @@
+Name: eddxe
+LogOutLocation:
+  X: 3864.5
+  Pitch: 13.292491
+  Y: 22.0
+  Z: -2646.5
+  World: world
+  Yaw: 291.71005
+Charges:
+  Amount: 0
+  LastGot: 1479632389265
+TeleportLocation:
+  X: 247.98612181568387
+  Pitch: -4.4049044
+  Y: 63.09375
+  Z: -186.65726625523476
+  World: world
+  Yaw: 145.52963
+DeathLocation:
+  X: 575.9204766930301
+  Pitch: -5.6999736
+  Y: 66.5
+  Z: -374.0947661449984
+  World: world
+  Yaw: 178.60272

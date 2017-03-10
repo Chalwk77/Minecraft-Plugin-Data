@@ -1,0 +1,591 @@
+Inventories:
+  '25':
+    Time: 1458455360833
+    Exp: 0
+    Health: 7.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 1
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3505.4549808136376
+      y: 67.0
+      z: 3010.3783734388494
+      pitch: 31.08115
+      yaw: -352.12827
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '4':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '5':
+        type: DOUBLE_PLANT
+        damage: 5
+      '6':
+        type: SEEDS
+        amount: 2
+  '26':
+    Time: 1459465465375
+    Exp: 0
+    Health: 7.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 1
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3505.4549808136376
+      y: 67.0
+      z: 3010.3783734388494
+      pitch: 31.08115
+      yaw: -352.12827
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '4':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '5':
+        type: DOUBLE_PLANT
+        damage: 5
+      '6':
+        type: SEEDS
+        amount: 2
+  '27':
+    Time: 1459469873883
+    Exp: 0
+    Health: 7.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 1
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3505.4549808136376
+      y: 67.0
+      z: 3010.3783734388494
+      pitch: 31.08115
+      yaw: -352.12827
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '4':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '5':
+        type: DOUBLE_PLANT
+        damage: 5
+      '6':
+        type: SEEDS
+        amount: 2
+  '28':
+    Time: 1459659263423
+    Exp: 0
+    Health: 7.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 1
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3505.4549808136376
+      y: 67.0
+      z: 3010.3783734388494
+      pitch: 31.08115
+      yaw: -352.12827
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '4':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '5':
+        type: DOUBLE_PLANT
+        damage: 5
+      '6':
+        type: SEEDS
+        amount: 2
+  '29':
+    Time: 1459766737503
+    Exp: 0
+    Health: 7.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 1
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3505.4549808136376
+      y: 67.0
+      z: 3010.3783734388494
+      pitch: 31.08115
+      yaw: -352.12827
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '4':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '5':
+        type: DOUBLE_PLANT
+        damage: 5
+      '6':
+        type: SEEDS
+        amount: 2
+  '30':
+    Time: 1459847488695
+    Exp: 0
+    Health: 7.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 1
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3505.4549808136376
+      y: 67.0
+      z: 3010.3783734388494
+      pitch: 31.08115
+      yaw: -352.12827
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '4':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '5':
+        type: DOUBLE_PLANT
+        damage: 5
+      '6':
+        type: SEEDS
+        amount: 2
+  '31':
+    Time: 1460146823959
+    Exp: 0
+    Health: 7.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 1
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3505.4549808136376
+      y: 67.0
+      z: 3010.3783734388494
+      pitch: 31.08115
+      yaw: -352.12827
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '4':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '5':
+        type: DOUBLE_PLANT
+        damage: 5
+      '6':
+        type: SEEDS
+        amount: 2
+  '32':
+    Time: 1460883171005
+    Exp: 0
+    Health: 7.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 1
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3505.4549808136376
+      y: 67.0
+      z: 3010.3783734388494
+      pitch: 31.08115
+      yaw: -352.12827
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '4':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '5':
+        type: DOUBLE_PLANT
+        damage: 5
+      '6':
+        type: SEEDS
+        amount: 2
+  '33':
+    Time: 1462120695681
+    Exp: 0
+    Health: 7.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 1
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3505.4549808136376
+      y: 67.0
+      z: 3010.3783734388494
+      pitch: 31.08115
+      yaw: -352.12827
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '4':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '5':
+        type: DOUBLE_PLANT
+        damage: 5
+      '6':
+        type: SEEDS
+        amount: 2
+  '34':
+    Time: 1462483219491
+    Exp: 0
+    Health: 7.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 1
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3505.4549808136376
+      y: 67.0
+      z: 3010.3783734388494
+      pitch: 31.08115
+      yaw: -352.12827
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '4':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '5':
+        type: DOUBLE_PLANT
+        damage: 5
+      '6':
+        type: SEEDS
+        amount: 2

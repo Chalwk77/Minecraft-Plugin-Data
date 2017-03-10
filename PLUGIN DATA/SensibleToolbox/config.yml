@@ -1,0 +1,131 @@
+coloured_console: true
+rename_level_cost: 5
+particle_effects: 2
+debug_level: 0
+save_interval: 30
+database:
+  table_prefix: stb_
+holograms:
+  enabled: true
+  duration-in-seconds: 3
+energy:
+  tick_rate: 10
+noisy_machines: true
+explode_item_drop_chance: 50
+inventory_protection: best
+block_protection: best
+default_access: public
+default_redstone: ignore
+creative_ender_access: false
+gui:
+  texture:
+    input: stained_glass_pane:cyan
+    output: stained_glass_pane:orange
+    bg: stained_glass_pane:blue
+    label: book
+    button: wood_button
+item_settings:
+  paintbrush:
+    wood_staining: true
+  paintroller:
+    wood_staining: true
+  paintcan:
+    paint_per_dye: 25
+  autobuilder:
+    scu_per_op: 30
+  multibuilder:
+    scu_per_op: 30
+options:
+  auto-update: false
+  glowing_items: false
+items_enabled:
+  angelicblock: true
+  enderleash: true
+  redstoneclock: true
+  blockupdatedetector: true
+  enderbag: true
+  wateringcan: true
+  moisturechecker: true
+  advancedmoisturechecker: true
+  woodcombinehoe: true
+  ironcombinehoe: true
+  goldcombinehoe: true
+  diamondcombinehoe: true
+  trashcan: true
+  paintbrush: true
+  paintroller: true
+  paintcan: true
+  elevator: true
+  tapemeasure: true
+  circuitboard: true
+  simplecircuit: true
+  multibuilder: true
+  machineframe: true
+  smelter: true
+  masher: true
+  sawmill: true
+  irondust: true
+  golddust: true
+  itemrouter: true
+  blankmodule: true
+  pullermodule: true
+  droppermodule: true
+  sendermodule: true
+  distributormodule: true
+  advancedsendermodule: true
+  hypersendermodule: true
+  receivermodule: true
+  sortermodule: true
+  vacuummodule: true
+  breakermodule: true
+  stackmodule: true
+  speedmodule: true
+  tenkenergycell: true
+  fiftykenergycell: true
+  tenkbatterybox: true
+  fiftykbatterybox: true
+  speedupgrade: true
+  ejectorupgrade: true
+  regulatorupgrade: true
+  thoroughnessupgrade: true
+  heatengine: true
+  basicsolarcell: true
+  densesolar: true
+  recipebook: true
+  advancedrecipebook: true
+  multimeter: true
+  bigstorageunit: true
+  hyperstorageunit: true
+  pump: true
+  endertuner: true
+  enderbox: true
+  infernaldust: true
+  energizedirondust: true
+  energizedgolddust: true
+  energizedironingot: true
+  energizedgoldingot: true
+  toughmachineframe: true
+  quartzdust: true
+  siliconwafer: true
+  integratedcircuit: true
+  landmarker: true
+  pvcell: true
+  autobuilder: true
+  unlinkedscurelay: true
+  scurelay: true
+  silkybreakermodule: true
+  subspacetransponder: true
+  bioengine: true
+  magmaticengine: true
+  energizedquartz: true
+  electricalenergizer: true
+  powermonitor: true
+  fermenter: true
+  fishbait: true
+  fishingnet: true
+  autofarm: true
+  autoforester: true
+  advancedfarm: true
+  infernalfarm: true
+  autofarm2: true
+  holographicmonitor: true

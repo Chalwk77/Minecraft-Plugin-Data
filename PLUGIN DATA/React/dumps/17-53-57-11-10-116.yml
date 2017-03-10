@@ -1,0 +1,1535 @@
+server:
+  plugins:
+    Denizen:
+      main: net.aufdemrand.denizen.Denizen
+      version: 1.0.0-SNAPSHOT (build 1625)
+      soft-depend:
+      - Citizens
+      - Vault
+      depend: []
+      events-registered:
+      - BlockPhysicsEvent
+      - ChunkUnloadEvent
+      - PlayerJoinEvent
+      - InventoryCloseEvent
+      - AsyncPlayerChatEvent
+      - PlayerChatEvent
+      - PlayerQuitEvent
+      - EntityChangeBlockEvent
+    HeadNamer:
+      description: Rename a player-head item, painlessly simply and without hassle.
+      main: com.github.devilquak.HeadNamer
+      soft-depend: []
+      version: '1.1'
+      depend: []
+    ProtocolLib:
+      soft-depend: []
+      depend: []
+      events-registered:
+      - PlayerJoinEvent
+      - PlayerQuitEvent
+      version: 4.1.0
+      description: Provides read/write access to the Minecraft protocol.
+      main: com.comphenix.protocol.ProtocolLib
+    DarkHorse:
+      version: 1.3.1a
+      description: DarkHorse is a Bukkit plugin designed to let you spawn in all types of horses.
+      depend: []
+      main: com.justinwflory.darkhorse.DarkHorse
+      soft-depend: []
+    EssentialsKitManager:
+      main: com.faris.esskitmanager.Main
+      depend:
+      - Essentials
+      description: Manage Essentials' kits in-game.
+      version: 1.0.4
+      soft-depend: []
+    Citizens:
+      main: net.citizensnpcs.Citizens
+      version: 2.0.20-SNAPSHOT (build 1419)
+      depend: []
+      events-registered:
+      - PlayerTeleportEvent
+      - ChunkLoadEvent
+      - ChunkUnloadEvent
+      - PlayerJoinEvent
+      - InventoryCloseEvent
+      - CreatureSpawnEvent
+      - PlayerQuitEvent
+      soft-depend:
+      - Vault
+    LibsDisguises:
+      events-registered:
+      - PlayerTeleportEvent
+      - PlayerJoinEvent
+      - PlayerQuitEvent
+      main: me.libraryaddict.disguise.LibsDisguises
+      soft-depend:
+      - ProtocolLib
+      depend: []
+      description: A disguise plugin with various disguises.
+      version: 9.0.9
+    Votifier:
+      depend: []
+      main: com.vexsoftware.votifier.Votifier
+      soft-depend: []
+      version: '1.9'
+      description: A plugin that gets notified when votes are made for the server on toplists.
+    CoreProtect:
+      version: 2.13.1
+      soft-depend: []
+      depend: []
+      description: |
+        Provides block protection for your server.
+      main: net.coreprotect.CoreProtect
+      events-registered:
+      - PlayerJoinEvent
+      - PlayerCommandPreprocessEvent
+      - AsyncPlayerChatEvent
+      - CreatureSpawnEvent
+      - BlockSpreadEvent
+      - BlockIgniteEvent
+      - PlayerQuitEvent
+      - EntityChangeBlockEvent
+    SignEdit:
+      depend: []
+      soft-depend: []
+      version: 3.3.10
+      main: net.timroden.signedit.SignEdit
+      description: Ever made a mistake on a sign, and not wanted to take the sign down to fix it? Now you don't have to!
+    MyCommand:
+      description: |
+        Make your own, customized Minecraft commands
+      soft-depend:
+      - Vault
+      - MyCommandPlus
+      - Spout
+      - PlaceholderAPI
+      depend: []
+      main: it.mri.mycommand.Main
+      version: 5.3.4
+      events-registered:
+      - VehicleUpdateEvent
+      - PlayerJoinEvent
+      - PlayerCommandPreprocessEvent
+      - PlayerQuitEvent
+    ChatControl:
+      soft-depend: []
+      events-registered:
+      - PlayerJoinEvent
+      - PlayerCommandPreprocessEvent
+      - AsyncPlayerChatEvent
+      - PlayerQuitEvent
+      main: me.kangarko.chatcontrol.ChatControl
+      depend: []
+      version: 7.0.22
+    UltraCosmetics:
+      version: 2.3.9
+      depend: []
+      soft-depend:
+      - LibsDisguises
+      - Vault
+      events-registered:
+      - PlayerJoinEvent
+      - InventoryCloseEvent
+      - PlayerQuitEvent
+      main: be.isach.ultracosmetics.UltraCosmetics
+    PluginManagerReloaded:
+      events-registered:
+      - PlayerJoinEvent
+      - PlayerCommandPreprocessEvent
+      soft-depend: []
+      depend: []
+      description: A plugin used for managing plugins
+      version: 1.0.2
+      main: com.jadeningle.PluginManager.PluginManagerReloaded
+    ColoredSigns:
+      soft-depend: []
+      version: '2.0'
+      main: de.janomine.coloredsigns.main.ColoredSigns
+      depend: []
+      description: ColoredSigns Bukkit - Plugin
+    MythicLib:
+      soft-depend: []
+      description: A terrible mythical library
+      version: 0.0.1-SNAPSHOT
+      depend: []
+      main: io.lumine.xikage.MythicLib.MythicLib
+    Modifyworld:
+      description: World modification permission ruleset
+      depend: []
+      soft-depend: []
+      version: 1.19.7
+      events-registered:
+      - PlayerCommandPreprocessEvent
+      - PlayerChatEvent
+      main: ru.tehkode.modifyworld.bukkit.Modifyworld
+    MythicMobs:
+      version: 2.5.0
+      description: The total solution for all things mob-related.
+      main: net.elseland.xikage.MythicMobs.MythicMobs
+      events-registered:
+      - ChunkLoadEvent
+      - ChunkUnloadEvent
+      - PlayerJoinEvent
+      - CreatureSpawnEvent
+      - PlayerQuitEvent
+      - EntityChangeBlockEvent
+      depend:
+      - MythicLib
+      soft-depend:
+      - Multiverse-Core
+      - Heroes
+      - PhatLoots
+      - Vault
+      - MagicSpells
+      - MiniaturePets
+      - BarAPI
+      - LanguageAPI
+      - LibsDisguises
+      - WorldGuard
+    DeathBounty:
+      main: me.mrCookieSlime.DeathBounty.main
+      depend:
+      - Vault
+      version: '1.0'
+      soft-depend: []
+    TitleAdvanced:
+      depend: []
+      main: be.maximvdw.titleadvanced.TitleAdvanced
+      version: 5.10.1
+      description: Group specific animated titles
+      events-registered:
+      - PlayerJoinEvent
+      - AsyncPlayerChatEvent
+      soft-depend:
+      - MVdWUpdater
+      - MVdWPlaceholderAPI
+    ChairStairs:
+      depend: []
+      main: com.axeldios.ChairStairs.ChairStairs
+      soft-depend: []
+      events-registered:
+      - PlayerTeleportEvent
+      version: '1.1'
+    ShutdownNotice:
+      version: '3.2'
+      depend: []
+      description: Bukkit plugin to control server shutdowns and restarts
+      soft-depend: []
+      events-registered:
+      - ServerListPingEvent
+      - PlayerCommandPreprocessEvent
+      main: net.pl3x.bukkit.shutdownnotice.Main
+    AutoMessage:
+      depend: []
+      main: com.TeamNovus.AutoMessage.AutoMessage
+      version: 2.5.5
+      description: Schedule easily configurable broadcasts!
+      soft-depend: []
+    RandomTP:
+      soft-depend:
+      - Towny
+      - WorldGuard
+      - Factions
+      - WorldBorder
+      - Vault
+      description: RandomTP
+      depend: []
+      main: backcab.RandomTP.RandomTP
+      events-registered:
+      - BlockPhysicsEvent
+      - PlayerQuitEvent
+      version: '2.3'
+    NoFlyZone:
+      main: me.clip.noflyzone.NoFlyZone
+      soft-depend:
+      - WorldGuard
+      - WorldEdit
+      version: '1.3'
+      description: Stop players from flying in certain regions
+      depend: []
+    SilkSpawnersShopAddon:
+      events-registered:
+      - BlockPhysicsEvent
+      - BlockIgniteEvent
+      main: de.dustplanet.silkspawnersshopaddon.SilkSpawnersShopAddon
+      version: 1.3.3
+      description: A sign shop for SilkSpawners
+      soft-depend: []
+      depend:
+      - SilkSpawners
+      - Vault
+    EnjinMinecraftPlugin:
+      main: com.enjin.bukkit.EnjinMinecraftPlugin
+      soft-depend:
+      - Votifier
+      - NuVotifier
+      - mcMMO
+      - Essentials
+      - VanishNoPacket
+      - PermissionsEx
+      - GroupManager
+      - BPermissions
+      - ZPermissions
+      - PermissionsBukkit
+      events-registered:
+      - PlayerJoinEvent
+      - InventoryCloseEvent
+      - PlayerCommandPreprocessEvent
+      - AsyncPlayerChatEvent
+      - PlayerQuitEvent
+      description: A plugin which allows the enjin servers to communicate with your server.
+      version: 3.0.22
+      depend:
+      - Vault
+    CheckMyInventory:
+      depend: []
+      main: com.Zrips.CheckMyInventory.CMI
+      version: 5.0.7.1
+      description: Simple but powerfull players management plugin
+      events-registered:
+      - PlayerTeleportEvent
+      - PlayerJoinEvent
+      - InventoryCloseEvent
+      - PlayerCommandPreprocessEvent
+      - AsyncPlayerChatEvent
+      - PlayerQuitEvent
+      soft-depend:
+      - ProtocolLib
+      - LWC
+      - Vault
+      - Essentials
+    HolographicScoreboard:
+      depend: []
+      version: 1.4.2
+      main: dk.lockfuglsang.wolfencraft.HolographicScoreboard
+      soft-depend:
+      - HolographicDisplays
+      - ProtocolLib
+      - Holograms
+    AsyncWorldEditInjector:
+      version: 3.4.3
+      description: This plugin attaches into WorldEdit and makes it asynchronous.
+      soft-depend: []
+      main: org.primesoft.asyncworldedit.injector.InjectorBukkit
+      depend: []
+    CustomEnderChest:
+      soft-depend: []
+      main: net.craftersland.customenderchest.EnderChest
+      depend: []
+      events-registered:
+      - InventoryCloseEvent
+      version: 1.2.1
+    RegionGUI:
+      version: 2.5.0
+      main: net.crytec.RegionGUI.Core
+      events-registered:
+      - InventoryCloseEvent
+      - PlayerQuitEvent
+      soft-depend:
+      - WorldGuard
+      - WorldEdit
+      - Vault
+      - Multiverse-Core
+      - WorldManagement
+      description: User can create their own protected region using a simple Interface
+      depend: []
+    AsyncWorldEdit:
+      description: This plugin attaches into WorldEdit and makes it asynchronous.
+      depend: []
+      events-registered:
+      - PluginEnableEvent
+      - ChunkLoadEvent
+      - BlockPhysicsEvent
+      - ChunkUnloadEvent
+      - PlayerJoinEvent
+      - BlockSpreadEvent
+      - BlockGrowEvent
+      - BlockIgniteEvent
+      - PlayerQuitEvent
+      - EntityChangeBlockEvent
+      main: org.primesoft.asyncworldedit.AsyncWorldEditBukkit
+      version: 3.4.4
+      soft-depend: []
+    WorldGuardExtraFlags:
+      description: Add more flags to worldguard to help manage your server easily!
+      main: net.goldtreeservers.worldguardextraflags.WorldGuardExtraFlagsPlugin
+      version: 2.9.3
+      events-registered:
+      - PlayerTeleportEvent
+      - AsyncPlayerChatEvent
+      - PlayerGameModeChangeEvent
+      soft-depend:
+      - MythicMobs
+      - FastAsyncWorldEdit
+      - Essentials
+      depend:
+      - WorldGuard
+    HolographicDisplays:
+      depend: []
+      events-registered:
+      - ChunkLoadEvent
+      - ChunkUnloadEvent
+      - PlayerJoinEvent
+      - CreatureSpawnEvent
+      - PlayerQuitEvent
+      version: 2.2.1
+      main: com.gmail.filoghost.holographicdisplays.HolographicDisplays
+      soft-depend:
+      - Multiverse-Core
+      - MultiWorld
+      - My_Worlds
+      - My_Worlds
+      - ProtocolLib
+    DeluxeChat:
+      depend: []
+      description: Deluxe chat formatting system
+      version: 1.10.0
+      soft-depend:
+      - AcidIsland
+      - ASkyBlock
+      - Autorank
+      - AutoSell
+      - BanManager
+      - ChatColor
+      - ChatReaction
+      - CheckNameHistory
+      - DeluxeTags
+      - Essentials
+      - EZBlocks
+      - EZPrestige
+      - EZRanksLite
+      - EZRanksPro
+      - Factions
+      - GAListener
+      - GangsPlus
+      - Heroes
+      - IslandWorld
+      - Jobs
+      - KillRewards
+      - killStats
+      - LWC
+      - MarriageMaster
+      - McInfected
+      - McInfected-Ranks
+      - mcMMO
+      - MVdWPlaceholderAPI
+      - Nicky
+      - PlaceholderAPI
+      - PlotMe
+      - PlayerPoints
+      - PlotMe
+      - PlotSquared
+      - PrisonGangs
+      - pvpstats
+      - QuickSell
+      - RoyalCommands
+      - SimpleClans
+      - SimpleCoinsAPI
+      - Simple_Suffix
+      - SkyWarsReloaded
+      - SQLPerms
+      - SQLTokens
+      - SurvivalGames
+      - Teams
+      - TokenEnchant
+      - Towny
+      - TownyChat
+      - uSkyBlock
+      - UltimateVotes
+      - Vault
+      - VoteParty
+      - Werewolf
+      - WickedSkyWars
+      main: me.clip.deluxechat.DeluxeChat
+      events-registered:
+      - PlayerJoinEvent
+      - AsyncPlayerChatEvent
+      - PlayerQuitEvent
+    React:
+      version: 3p
+      description: React is a smart performance plugin designed to automatically fix lag from the source. This is different from lag clearers.
+      main: org.cyberpwn.react.reflect.R
+      soft-depend:
+      - WorldEdit
+      - AsyncWorldEdit
+      - WorldBorder
+      - PlaceholderAPI
+      - ProtocolLib
+      depend: []
+    neoPaintingSwitch:
+      version: '1.371'
+      main: plugin.arcwolf.neopaintingswitch.neoPaintingSwitch
+      soft-depend: []
+      depend: []
+    Lift:
+      soft-depend:
+      - Spout
+      - AntiCheat
+      - NoCheatPlus
+      main: net.croxis.plugins.lift.BukkitLift
+      version: '52'
+      events-registered:
+      - PlayerQuitEvent
+      description: Simple and easy Lifts and Elevators for Bukkit
+      depend: []
+    Multiverse-Portals:
+      depend:
+      - Multiverse-Core
+      version: 2.5.0-SNAPSHOT-b746
+      soft-depend: []
+      main: com.onarandombox.MultiversePortals.MultiversePortals
+      events-registered:
+      - PluginEnableEvent
+      - PlayerTeleportEvent
+      - BlockPhysicsEvent
+    ArmorStandTools:
+      soft-depend:
+      - WorldGuard
+      - PlotSquared
+      depend: []
+      version: 2.1.4
+      events-registered:
+      - PlayerTeleportEvent
+      - PlayerQuitEvent
+      main: com.gmail.St3venAU.plugins.ArmorStandTools.Main
+      description: Armor stand manipulation tools
+    EssentialsAntiBuild:
+      soft-depend: []
+      version: 2.0.1-b${BUILD_NUMBER}
+      depend:
+      - Essentials
+      main: com.earth2me.essentials.antibuild.EssentialsAntiBuild
+      description: Provides build protection.
+    Rename:
+      soft-depend: []
+      version: '1.0'
+      main: me.rprrr.rename.Rename
+      depend: []
+    HeadDatabase:
+      depend: []
+      main: com.Arcaniax.headdatabase.Main
+      version: 2.3.2
+      events-registered:
+      - InventoryCloseEvent
+      - AsyncPlayerChatEvent
+      - CreatureSpawnEvent
+      - PlayerGameModeChangeEvent
+      soft-depend:
+      - Vault
+      - PlayerPoints
+    Auctions:
+      soft-depend:
+      - Herochat
+      - PlaceholderAPI
+      main: com.sainttx.auctions.AuctionPlugin
+      depend:
+      - Vault
+      description: An elegant auctioning solution that allows text tooltips for auctioned items
+      events-registered:
+      - PlayerTeleportEvent
+      - PlayerJoinEvent
+      - PlayerCommandPreprocessEvent
+      version: 2.5.0-SNAPSHOT
+    BuyRegion:
+      version: 1.1.7
+      depend:
+      - Vault
+      - WorldGuard
+      main: com.region.BuyRegion
+      soft-depend: []
+    DeathMessagesPrime:
+      main: net.memmove.bukkit.deathmsg.Main
+      soft-depend: []
+      version: 1.9.4
+      description: Very customizable death message interface.
+      depend: []
+    EssentialsGeoIP:
+      main: com.earth2me.essentials.geoip.EssentialsGeoIP
+      depend:
+      - Essentials
+      description: Shows the country or city of a user on login and /whois.
+      version: 2.0.1-b${BUILD_NUMBER}
+      events-registered:
+      - PlayerJoinEvent
+      soft-depend: []
+    Tablist:
+      events-registered:
+      - PlayerJoinEvent
+      version: 1.3.0.2
+      main: com.sn1cko.tablist.tablist
+      soft-depend: []
+      depend: []
+    EssentialsProtect:
+      description: Provides protection for various parts of the world.
+      main: com.earth2me.essentials.protect.EssentialsProtect
+      soft-depend:
+      - Essentials
+      events-registered:
+      - CreatureSpawnEvent
+      - BlockIgniteEvent
+      - EntityChangeBlockEvent
+      - ThunderChangeEvent
+      depend: []
+      version: 2.0.1-b${BUILD_NUMBER}
+    boosCooldowns:
+      soft-depend:
+      - Vault
+      events-registered:
+      - PlayerCommandPreprocessEvent
+      - AsyncPlayerChatEvent
+      depend: []
+      version: 3.12.0
+      description: |
+        Shortcuts
+      main: cz.boosik.boosCooldown.BoosCoolDown
+    SimpleSit:
+      depend: []
+      description: Simple-Sit is a plugin created by SkyLordJay_. This plugin allows players to use the command /sit to sit anywhere in the world. For more info check out this plugin on Bukkit-Dev or Spigot-MC.
+      soft-depend: []
+      events-registered:
+      - PlayerTeleportEvent
+      - PlayerJoinEvent
+      - PlayerQuitEvent
+      main: me.skylordjay_.simplesit.SimpleSit
+      version: 1.5.1
+    ServerListPlus:
+      soft-depend:
+      - ProtocolLib
+      events-registered:
+      - ServerListPingEvent
+      - AsyncPlayerPreLoginEvent
+      - PlayerQuitEvent
+      description: An extremely customizable server status ping plugin for Minecraft
+      main: net.minecrell.serverlistplus.bukkit.BukkitPlugin
+      version: 3.4.7
+      depend: []
+    BlocksHub-CoreProtect:
+      description: CoreProtect blocks hub implementation.
+      main: org.PrimeSoft.blocksHub.coreProtect.BlocksHubPlugin
+      soft-depend: []
+      version: 1.2.1
+      depend:
+      - BlocksHub
+      - CoreProtect
+    WorldeditRegions:
+      soft-depend:
+      - WGCustomFlags
+      - Vault
+      - WorldGuard
+      - GriefPrevention
+      - PreciousStones
+      - Towny
+      - Factions
+      - Residence
+      events-registered:
+      - PlayerTeleportEvent
+      - PlayerJoinEvent
+      - PlayerCommandPreprocessEvent
+      - PlayerQuitEvent
+      version: '1.2'
+      main: com.empcraft.wrg.WorldeditRegions
+      depend:
+      - WorldEdit
+    SonarPet:
+      description: |
+        SonarPet is an advanced, easy to use plugin, designed to handle custom-tailored pets with more unique behaviours than vanilla Minecraft entities. Perfect for donation perks.
+      depend: []
+      version: 1.1.0-SNAPSHOT
+      main: net.techcable.sonarpet.Bootstrap
+      soft-depend:
+      - WorldGuard
+      - VanishNoPacket
+      - ProtocolLib
+      - EchoPet
+    BlocksHub:
+      depend: []
+      soft-depend: []
+      version: '1.2'
+      main: org.PrimeSoft.blocksHub.BlocksHub
+      description: Logger & Block access API.
+    FlagsCopy:
+      version: 1.1.1
+      main: org.inventivetalent.flagscopy.FlagsCopy
+      depend: []
+      soft-depend: []
+      events-registered:
+      - PluginEnableEvent
+    Multiverse-NetherPortals:
+      soft-depend:
+      - Multiverse-Portals
+      depend:
+      - Multiverse-Core
+      main: com.onarandombox.MultiverseNetherPortals.MultiverseNetherPortals
+      events-registered:
+      - PluginEnableEvent
+      version: 2.5-b710
+    RunesEnchant:
+      soft-depend: []
+      version: 3.5.2
+      depend:
+      - Vault
+      main: me.ayush_03.runesenchant.Main
+      description: A custom enchant plugin.
+      events-registered:
+      - InventoryCloseEvent
+      - PlayerCommandPreprocessEvent
+      - CreatureSpawnEvent
+      - PlayerQuitEvent
+    Jobs:
+      main: com.gamingmesh.jobs.Jobs
+      depend:
+      - Vault
+      description: Jobs Plugin for the BukkitAPI
+      version: 3.6.3
+      soft-depend:
+      - MythicMobs
+      - McMMO
+      events-registered:
+      - PlayerJoinEvent
+      - InventoryCloseEvent
+      - AsyncPlayerChatEvent
+      - CreatureSpawnEvent
+      - BlockGrowEvent
+      - PlayerQuitEvent
+    LWC:
+      version: 1.7.3
+      main: com.griefcraft.lwc.LWCPlugin
+      events-registered:
+      - PlayerJoinEvent
+      - CreatureSpawnEvent
+      - PlayerQuitEvent
+      - EntityChangeBlockEvent
+      depend: []
+      description: |
+        Inventory protection & management utilizing SQLite or MySQL as its backend Other blocks can also be protected individually, if configured.
+      soft-depend:
+      - Vault
+      - SpigotUpdater
+    WGRegionEvents:
+      main: com.mewin.WGRegionEvents.WGRegionEventsPlugin
+      soft-depend: []
+      version: '1.1'
+      depend:
+      - WorldGuard
+    ClearLag:
+      events-registered:
+      - CreatureSpawnEvent
+      main: me.minebuilders.clearlag.Clearlag
+      version: 2.9.1
+      description: Clear your lagg!
+      depend: []
+      soft-depend: []
+    BiomeTP:
+      soft-depend: []
+      main: org.thespherret.plugins.biometp.Start
+      depend: []
+      version: '3.0'
+      description: Teleports you to any biome.
+    PremiumVanish:
+      version: 1.6.11
+      depend: []
+      events-registered:
+      - PluginEnableEvent
+      - PlayerTeleportEvent
+      - AsyncPlayerPreLoginEvent
+      - PlayerJoinEvent
+      - InventoryCloseEvent
+      - PlayerCommandPreprocessEvent
+      - AsyncPlayerChatEvent
+      - PlayerQuitEvent
+      - PlayerGameModeChangeEvent
+      description: Ultimate admin tool to fully vanish from the server and spy on potential rule breakers
+      main: de.myzelyam.premiumvanish.main.PremiumVanish
+      soft-depend:
+      - LibsDisguises
+      - DisguiseCraft
+      - dynmap
+      - Essentials
+      - ProtocolLib
+      - TrailGUI
+      - SuperTrails
+      - PlaceholderAPI
+      - EnjinMinecraftPlugin
+      - CustomParticleEffects
+      - Citizens
+      - NametagEdit
+      - MVdWPlaceholderAPI
+    NametagEdit:
+      depend: []
+      main: com.nametagedit.plugin.NametagEdit
+      version: 4.1.2
+      events-registered:
+      - PlayerJoinEvent
+      - PlayerQuitEvent
+      soft-depend: []
+    WhatIsIt:
+      description: Gets names of stuff.
+      version: 1.3.9
+      soft-depend:
+      - Vault
+      main: com.flobi.WhatIsIt.WhatIsIt
+      depend: []
+    WorldEdit:
+      soft-depend:
+      - Spout
+      version: 6.1.4-SNAPSHOT;3619-4a72b97
+      main: com.sk89q.worldedit.bukkit.WorldEditPlugin
+      events-registered:
+      - PluginEnableEvent
+      - PlayerCommandPreprocessEvent
+      - PlayerGameModeChangeEvent
+      depend: []
+    MVdWPlaceholderAPI:
+      depend: []
+      soft-depend: []
+      version: 1.0.0
+      main: be.maximvdw.placeholderapi.PlaceholderAPI
+      description: Placeholder API for MVdW Software plugins
+    SilkSpawners:
+      depend: []
+      version: 3.7.3
+      soft-depend:
+      - WorldGuard
+      - BarAPI
+      - Factions
+      main: de.dustplanet.silkspawners.SilkSpawners
+      description: pick up and move monster spawners using silk touch
+    ChestShop:
+      main: com.Acrobot.ChestShop.ChestShop
+      events-registered:
+      - PlayerTeleportEvent
+      - BlockPhysicsEvent
+      - PlayerJoinEvent
+      - PlayerQuitEvent
+      depend:
+      - Vault
+      description: |
+        A chest shop for economy plugins.
+      soft-depend:
+      - LWC
+      - Lockette
+      - Deadbolt
+      - OddItem
+      - WorldGuard
+      - Heroes
+      - SimpleChestLock
+      - Residence
+      version: 3.8.12
+    BanManager:
+      version: 5.12.0
+      description: A database driven ban system
+      main: me.confuser.banmanager.BanManager
+      soft-depend: []
+      events-registered:
+      - AsyncPlayerPreLoginEvent
+      - PlayerJoinEvent
+      - PlayerCommandPreprocessEvent
+      - AsyncPlayerChatEvent
+      - PlayerQuitEvent
+      depend: []
+    PlayerMagnet:
+      soft-depend: []
+      depend: []
+      main: com.bryanchauvin.playermagnet.PlayerMagnet
+      version: '1.01'
+    EssentialsChat:
+      description: Provides chat control features for Essentials.  Requires Permissions.
+      main: com.earth2me.essentials.chat.EssentialsChat
+      version: 2.0.1-b${BUILD_NUMBER}
+      events-registered:
+      - AsyncPlayerChatEvent
+      depend:
+      - Essentials
+      soft-depend: []
+    Admin-Chat-Channel:
+      description: A simple admin and moderator chat channel plugin.
+      version: 2.0.2
+      depend: []
+      soft-depend:
+      - PermissionsEx
+      - GroupManager
+      - dynmap
+      - TownyChat
+      events-registered:
+      - PlayerJoinEvent
+      - AsyncPlayerChatEvent
+      main: com.anders.adminchat.main.Main
+    GameModeInventories:
+      events-registered:
+      - ChunkLoadEvent
+      - BlockPhysicsEvent
+      - PlayerJoinEvent
+      - InventoryCloseEvent
+      - PlayerCommandPreprocessEvent
+      - CreatureSpawnEvent
+      - PlayerQuitEvent
+      - PlayerGameModeChangeEvent
+      description: Allow players to have separate inventories for each game mode (Creative and Survival).
+      version: '2.8'
+      depend: []
+      main: me.eccentric_nz.gamemodeinventories.GameModeInventories
+      soft-depend:
+      - Multiverse-Core
+      - MultiWorld
+      - CoreProtect
+      - LogBlock
+      - Prism
+    mcMMO:
+      depend: []
+      soft-depend:
+      - CombatTag
+      - HealthBar
+      description: |
+        The goal of mcMMO is to take core Minecraft game mechanics and expand them into add an extensive and quality RPG experience. Everything in mcMMO has been carefully thought out and is constantly being improved upon. Currently, mcMMO adds thirteen unique skills to train and level in. Each of these skills is highly customizable through our configuration files, allowing server admins to tweak mcMMO to best suit the needs of his or her server. Know that the mcMMO team is dedicated to providing an ever-evolving experience, and that we carefully read all feedback and bug reports in order to evaluate and balance the mechanics of mcMMO in every update.
+      main: com.gmail.nossr50.mcMMO
+      events-registered:
+      - PlayerTeleportEvent
+      - ChunkUnloadEvent
+      - PlayerJoinEvent
+      - InventoryCloseEvent
+      - PlayerCommandPreprocessEvent
+      - AsyncPlayerChatEvent
+      - CreatureSpawnEvent
+      - PlayerQuitEvent
+      - EntityChangeBlockEvent
+      version: 1.5.06-b${BUILD_NUMBER}
+    Essentials:
+      events-registered:
+      - PluginEnableEvent
+      - PlayerTeleportEvent
+      - PlayerJoinEvent
+      - InventoryCloseEvent
+      - PlayerCommandPreprocessEvent
+      - AsyncPlayerChatEvent
+      - BlockIgniteEvent
+      - PlayerQuitEvent
+      - EntityChangeBlockEvent
+      description: Provides an essential, core set of commands for Bukkit.
+      depend: []
+      soft-depend:
+      - Vault
+      version: 2.0.1-b${BUILD_NUMBER}
+      main: com.earth2me.essentials.Essentials
+    PermissionsEx:
+      events-registered:
+      - AsyncPlayerPreLoginEvent
+      - PlayerJoinEvent
+      - PlayerQuitEvent
+      soft-depend:
+      - NetEvents
+      version: 1.23.4
+      main: ru.tehkode.permissions.bukkit.PermissionsEx
+      depend: []
+      description: PermissionsEx - New powerful users and groups permissions management plugin.
+    WorldGuard:
+      version: 6.1.3-SNAPSHOT;1685-9cafb07
+      events-registered:
+      - PluginEnableEvent
+      - PlayerTeleportEvent
+      - ChunkLoadEvent
+      - BlockPhysicsEvent
+      - ChunkUnloadEvent
+      - PlayerJoinEvent
+      - PlayerCommandPreprocessEvent
+      - AsyncPlayerChatEvent
+      - CreatureSpawnEvent
+      - BlockSpreadEvent
+      - BlockIgniteEvent
+      - PlayerQuitEvent
+      - PlayerGameModeChangeEvent
+      - EntityChangeBlockEvent
+      - ThunderChangeEvent
+      depend: []
+      main: com.sk89q.worldguard.bukkit.WorldGuardPlugin
+      soft-depend:
+      - WorldEdit
+      - CommandBook
+    TuxTwoLib:
+      main: Tux2.TuxTwoLib.TuxTwoLib
+      version: 1.10-b7
+      soft-depend: []
+      depend: []
+    Multiverse-Core:
+      events-registered:
+      - PluginEnableEvent
+      - PlayerTeleportEvent
+      - PlayerJoinEvent
+      - AsyncPlayerChatEvent
+      - CreatureSpawnEvent
+      - PlayerQuitEvent
+      - ThunderChangeEvent
+      depend: []
+      version: 2.5-b717
+      soft-depend: []
+      main: com.onarandombox.MultiverseCore.MultiverseCore
+    Vault:
+      soft-depend: []
+      version: 1.5.6-b49
+      main: net.milkbowl.vault.Vault
+      events-registered:
+      - PluginEnableEvent
+      - PlayerJoinEvent
+      depend: []
+      description: Vault is a Permissions & Economy API to allow plugins to more easily hook into these systems without needing to hook each individual system themselves.
+    EssentialsSpawn:
+      depend:
+      - Essentials
+      main: com.earth2me.essentials.spawn.EssentialsSpawn
+      version: 2.0.1-b${BUILD_NUMBER}
+      description: Provides spawn control commands, utilizing Essentials.
+      events-registered:
+      - PlayerJoinEvent
+      soft-depend: []
+    AdminFunPlus:
+      main: me.trevor1134.adminfunplus.a.a
+      description: AdminFun, but better!
+      depend: []
+      version: 1.0.7
+      soft-depend: []
+    WarpPortals:
+      version: 5.6.3
+      depend: []
+      events-registered:
+      - BlockPhysicsEvent
+      main: com.mccraftaholics.warpportals.bukkit.PortalPlugin
+      soft-depend:
+      - WorldGuard
+      - Multiverse-Core
+      - Multiverse
+      - Multiworld
+      - My_Worlds
+    ChatReaction:
+      events-registered:
+      - PlayerJoinEvent
+      - AsyncPlayerChatEvent
+      - PlayerQuitEvent
+      version: 1.6.2
+      depend: []
+      main: me.clip.chatreaction.ChatReaction
+      soft-depend: []
+      description: Be the fastest to type the random text and win!
+    ArtMap:
+      description: Make pixel art!
+      events-registered:
+      - PlayerTeleportEvent
+      - BlockPhysicsEvent
+      - ChunkUnloadEvent
+      - InventoryCloseEvent
+      - PlayerQuitEvent
+      main: me.Fupery.ArtMap.ArtMap
+      version: 2.4.8
+      depend: []
+      soft-depend:
+      - WorldGuard
+      - ProtocolLib
+      - Factions
+      - Denizen
+      - GriefPrevention
+      - RedProtect
+      - Landlord
+      - iDisguise
+      - ASkyBlock
+    PlaceholderAPI:
+      main: me.clip.placeholderapi.PlaceholderAPIPlugin
+      soft-depend: []
+      depend: []
+      description: Clips public placeholder API that allows other plugins to obtain and register placeholders to show information from other plugins!
+      version: 2.5.1
+      events-registered:
+      - PluginEnableEvent
+      - AsyncPlayerChatEvent
+      - PlayerQuitEvent
+    CommandLogger:
+      soft-depend: []
+      events-registered:
+      - PlayerCommandPreprocessEvent
+      version: '2.2'
+      depend: []
+      main: poweringg.cl.CLmain
+    NoGodZone:
+      soft-depend: []
+      version: 1.0.0
+      events-registered:
+      - PlayerCommandPreprocessEvent
+      description: Disable God Mode completely in set regions
+      main: com.gianscode.nogodzone.Main
+      depend:
+      - Essentials
+      - WGRegionEvents
+    PvPManager:
+      description: Allows Administrators To Change Their PvP Mechanics.
+      main: me.NoChance.PvPManager.PvPManager
+      soft-depend:
+      - Vault
+      - WorldGuard
+      - DisguiseCraft
+      - LibsDisguises
+      - Factions
+      - EZRanksLite
+      - Essentials
+      events-registered:
+      - PlayerTeleportEvent
+      - AsyncPlayerPreLoginEvent
+      - PlayerJoinEvent
+      - PlayerCommandPreprocessEvent
+      - PlayerQuitEvent
+      depend: []
+      version: 3.6.2.1
+    ChatColor:
+      main: me.creeperkila21.chatcolor.CC
+      version: '1.5'
+      soft-depend: []
+      events-registered:
+      - AsyncPlayerChatEvent
+      depend: []
+    AntiCommandTab:
+      events-registered:
+      - PlayerCommandPreprocessEvent
+      main: cc.playmc.anticommandtab.AntiCommandTab
+      depend:
+      - ProtocolLib
+      soft-depend: []
+      version: '3.4'
+    NightVisionReloaded:
+      main: me.dutchpvpgod.nightvisionreloaded.Main
+      soft-depend: []
+      version: '1.3'
+      depend: []
+      description: Enable and Disable NightVision
+  worlds:
+    flat:
+      loaded-chunks: 0
+      loaded-entities: 0
+      players: 0
+    world:
+      players: 1
+      loaded-chunks: 442
+      loaded-entities: 158
+    world_the_end:
+      players: 0
+      loaded-chunks: 0
+      loaded-entities: 0
+    world_nether:
+      players: 0
+      loaded-entities: 0
+      loaded-chunks: 0
+react:
+  controller:
+    action-controller:
+      action-cull-entities:
+        config:
+          component:
+            enable: 'true'
+            interval: '100'
+          action-cull-entities:
+            max-entities-radius: '16'
+            filter:
+              ignore-horses: 'true'
+              ignore-villagers: 'false'
+              ignore-named-entities: 'true'
+            max-entities-per-chunk-hard: '64'
+            animate-entity-culls: 'false'
+            enable-entity-spawn-radius: 'false'
+            cullable: EXPERIENCE_ORB, LEASH_HITCH, SNOWBALL, FIREBALL, SMALL_FIREBALL, PRIMED_TNT, FALLING_BLOCK, FIREWORK, TIPPED_ARROW, SPECTRAL_ARROW, SHULKER_BULLET, DRAGON_FIREBALL, ARMOR_STAND, MINECART_COMMAND, MINECART, MINECART_CHEST, MINECART_FURNACE, MINECART_TNT, MINECART_HOPPER, MINECART_MOB_SPAWNER, CREEPER, SKELETON, SPIDER, GIANT, ZOMBIE, SLIME, GHAST, PIG_ZOMBIE, ENDERMAN, CAVE_SPIDER, SILVERFISH, BLAZE, MAGMA_CUBE, ENDER_DRAGON, WITHER, BAT, WITCH, ENDERMITE, GUARDIAN, SHULKER, PIG, SHEEP, COW, CHICKEN, SQUID, WOLF, MUSHROOM_COW, SNOWMAN, OCELOT, IRON_GOLEM, HORSE, RABBIT, POLAR_BEAR, VILLAGER, SPLASH_POTION, LINGERING_POTION, AREA_EFFECT_CLOUD, FISHING_HOOK, LIGHTNING, WEATHER
+            max-entities-per-chunk: '16'
+            max-entities-per-radius: '32'
+          config:
+            version: '1'
+        tickrate: 100
+      action-cull-drops:
+        config:
+          worth:
+            rare-materials: '0.8'
+            undefined: '1.2'
+            expensive-tools-armor: '1.0'
+            lumber: '0.5'
+            cheap-tools-armor: '0.7'
+            other: '1.1'
+            ore: '0.9'
+            rubble: '0.1'
+            mob-drops: '0.3'
+            food: '0.4'
+            herbs: '0.2'
+            cheap-materials: '0.6'
+          drops-per-chunk: '40'
+          define:
+            rare-materials: DIAMOND, EMERALD, IRON_INGOT, GOLD_INGOT, REDSTONE, GLOWSTONE, GLOWSTONE_DUST, COAL_BLOCK, COAL, DIAMOND_BLOCK, EMERALD_BLOCK, GOLD_BLOCK, IRON_BLOCK, LAPIS_BLOCK, QUARTZ, QUARTZ_BLOCK
+            rubble: DIRT, GRASS, COBBLESTONE, COBBLE_WALL, COBBLESTONE_STAIRS, MOSSY_COBBLESTONE, BEDROCK, SANDSTONE, SAND, CLAY, STAINED_CLAY, HARD_CLAY, STONE
+            mob-drops: SULPHUR, EGG, LEATHER, RAW_BEEF, RAW_CHICKEN, RAW_FISH, FEATHER, PORK, ROTTEN_FLESH
+            cheap-materials: TNT, IRON_FENCE, NETHER_FENCE, NETHERRACK, OBSIDIAN, STICK, CARROT_STICK, WOOL, CARPET, BED, BED_BLOCK, WRITTEN_BOOK, BOOK, BOOK_AND_QUILL, BOOKSHELF, CLAY_BALL, SNOW_BALL, SNOW, SNOW_BLOCK
+            cheap-tools-armor: WOOD_AXE, WOOD_HOE, WOOD_PICKAXE, WOOD_SPADE, WOOD_SWORD, WOOD_PLATE, WOOD_BUTTON, LEATHER_BOOTS, LEATHER_CHESTPLATE, LEATHER_HELMET, LEATHER_LEGGINGS
+            food: COOKED_BEEF, GRILLED_PORK, COOKED_CHICKEN, COOKED_FISH
+            lumber: WOOD, LOG, LOG_2, FENCE, FENCE_GATE, ACACIA_STAIRS, BIRCH_WOOD_STAIRS, JUNGLE_WOOD_STAIRS, SPRUCE_WOOD_STAIRS
+            expensive-tools-armor: DIAMOND_AXE, DIAMOND_BARDING, DIAMOND_BOOTS, DIAMOND_CHESTPLATE, DIAMOND_HELMET, DIAMOND_LEGGINGS, DIAMOND_HOE, DIAMOND_PICKAXE, DIAMOND_SPADE, DIAMOND_SWORD, GOLD_AXE, GOLD_BARDING, IRON_BARDING, GOLD_BOOTS, GOLD_CHESTPLATE, GOLD_HELMET, GOLD_LEGGINGS, GOLD_NUGGET, GOLD_PICKAXE, GOLD_SPADE, GOLD_SWORD, IRON_AXE, IRON_BOOTS, IRON_CHESTPLATE, IRON_HELMET, IRON_LEGGINGS, IRON_HOE, IRON_PICKAXE, IRON_SPADE, IRON_SWORD
+            herbs: SEEDS, SUGAR, SUGAR_CANE, SUGAR_CANE_BLOCK, MELON_SEEDS, PUMPKIN_SEEDS, CROPS, SAPLING, VINE, BROWN_MUSHROOM, YELLOW_FLOWER, INK_SACK, RED_MUSHROOM, HUGE_MUSHROOM_1, HUGE_MUSHROOM_2, CACTUS, DEAD_BUSH, LONG_GRASS, LEAVES, LEAVES_2
+            ore: QUARTZ_ORE, LAPIS_ORE, DIAMOND_ORE, EMERALD_ORE, COAL_ORE, GOLD_ORE, IRON_ORE, REDSTONE_ORE
+            other: GOLDEN_APPLE, ENDER_PEARL, ENCHANTED_BOOK
+          ignore-all-worth-when-culling: 'false'
+          config:
+            version: '1'
+          component:
+            enable: 'true'
+            interval: '1200'
+        tickrate: 1200
+      action-purge-chunks:
+        config:
+          culls:
+            limit-interval-seconds: '60'
+            limit-per-player: '750'
+          config:
+            version: '1'
+          component:
+            enable: 'true'
+            interval: '20'
+          limit-ms: '26'
+        tickrate: 20
+      action-instability-cause:
+        config:
+          component:
+            interval: '10'
+            enable: 'true'
+          action-instability-cause:
+            high:
+              worldedit:
+                bps: '10000'
+              drop:
+                count: '1024'
+              liquid: '4096'
+              tnt: '256'
+              entity:
+                count: '8192'
+              memory:
+                percent: '0.8'
+                chunk:
+                  percent: '0.9'
+              chunk:
+                generation: '18'
+              redstone: '4096'
+              spms: '1'
+            low:
+              tps: '16.8'
+            slow-fast-flyers-temporarily: 'true'
+          config:
+            version: '1'
+        tickrate: 10
+      action-suppress-tnt:
+        config:
+          config:
+            version: '1'
+          component:
+            interval: '20'
+            enable: 'true'
+          action-suppress-tnt:
+            freeze-all-tnt-on-lag: 'true'
+            max-tnt-per-chunk: '16'
+            disable-if-factions-installed: 'true'
+        tickrate: 20
+      action-purge-entities:
+        tickrate: 100
+        config:
+          action-purge-entities:
+            filter:
+              ignore-villagers: 'false'
+              ignore-named-entities: 'false'
+            cullable: EXPERIENCE_ORB, LEASH_HITCH, SNOWBALL, FIREBALL, SMALL_FIREBALL, PRIMED_TNT, FALLING_BLOCK, FIREWORK, TIPPED_ARROW, SPECTRAL_ARROW, SHULKER_BULLET, DRAGON_FIREBALL, ARMOR_STAND, MINECART_COMMAND, MINECART, MINECART_CHEST, MINECART_FURNACE, MINECART_TNT, MINECART_HOPPER, MINECART_MOB_SPAWNER, CREEPER, SKELETON, SPIDER, GIANT, ZOMBIE, SLIME, GHAST, PIG_ZOMBIE, ENDERMAN, CAVE_SPIDER, SILVERFISH, BLAZE, MAGMA_CUBE, ENDER_DRAGON, WITHER, BAT, WITCH, ENDERMITE, GUARDIAN, SHULKER, PIG, SHEEP, COW, CHICKEN, SQUID, WOLF, MUSHROOM_COW, SNOWMAN, OCELOT, IRON_GOLEM, HORSE, RABBIT, POLAR_BEAR, VILLAGER, SPLASH_POTION, LINGERING_POTION, AREA_EFFECT_CLOUD, FISHING_HOOK, LIGHTNING, WEATHER
+          component:
+            enable: 'true'
+            interval: '100'
+          config:
+            version: '1'
+      action-suppress-growth:
+        tickrate: 100
+        config:
+          component:
+            enable: 'true'
+            interval: '100'
+          action-suppress-growth:
+            max-per-chunk-per-interval: '5'
+          config:
+            version: '1'
+      action-purge-drops:
+        config:
+          config:
+            version: '1'
+          component:
+            enable: 'true'
+            interval: '100'
+        tickrate: 100
+      action-collect-garbage:
+        config:
+          action-collect-garbage:
+            auto:
+              conditions:
+                minutes-per: '15'
+                chunkloads: '1350'
+              enabled: 'true'
+          component:
+            interval: '20'
+            enable: 'true'
+          config:
+            version: '1'
+        tickrate: 20
+      action-suppress-liquid:
+        config:
+          component:
+            interval: '20'
+            enable: 'true'
+          action-suppress-liquid:
+            freeze-all-liquid-on-lag: 'true'
+          config:
+            version: '1'
+        tickrate: 20
+      action-lagged-chunk:
+        config:
+          config:
+            version: '1'
+          component:
+            enable: 'true'
+            interval: '100'
+          action-lagged-chunk:
+            entity-buffer: '16'
+        tickrate: 100
+      action-suppress-redstone:
+        config:
+          component:
+            enable: 'true'
+            interval: '20'
+          config:
+            version: '1'
+          action-suppress-redstone:
+            freeze-all-redstone-on-lag: 'true'
+            freeze-radius: '64'
+        tickrate: 20
+      action-teleport-drops:
+        config:
+          config:
+            version: '1'
+          component:
+            interval: '100'
+            enable: 'true'
+        tickrate: 100
+    sample-controller:
+      sample-garbage-direction:
+        value: 0.0
+        fvalue: 79M +38 Garbage
+        config:
+          component:
+            interval: '1'
+          config:
+            version: '1'
+      sample-stability:
+        config:
+          component:
+            interval: '5'
+          config:
+            version: '1'
+        value: 0.9959743421348085
+        fvalue: 99.597%
+      sample-reaction-time:
+        value: 156786.625021068
+        config:
+          config:
+            version: '1'
+          component:
+            interval: '1'
+        fvalue: 0.1568ms
+      sample-liquid-flow-per-second:
+        config:
+          component:
+            interval: '20'
+          config:
+            version: '1'
+        value: 0.0
+        fvalue: 0 LIQ/S
+      sample-redstone-updates-per-second:
+        config:
+          component:
+            interval: '20'
+          config:
+            version: '1'
+        fvalue: 0 RED/S
+        value: 0.0
+      sample-p-h-entities:
+        config:
+          component:
+            interval: '13500'
+          config:
+            version: '1'
+        value: 1.0
+        fvalue: E
+      sample-photon:
+        config:
+          config:
+            version: '1'
+          component:
+            interval: '100'
+        fvalue: 0 Cached 0 Photons 100% Accuracy 0 Lum/t
+        value: 0.0
+      sample-drops:
+        config:
+          component:
+            interval: '100'
+          config:
+            version: '1'
+        value: 4.0
+        fvalue: 4 DROPS
+      sample-memory-per-player:
+        config:
+          config:
+            version: '1'
+          component:
+            interval: '100'
+        fvalue: 48 MB/P
+        value: 48.648515125002426
+      sample-monitored-plugins:
+        fvalue: 96 PLG
+        value: 96.0
+        config:
+          config:
+            version: '1'
+          component:
+            interval: '200'
+      sample-chunk-load-per-second:
+        config:
+          component:
+            interval: '20'
+          config:
+            version: '1'
+        value: 0.0
+        fvalue: 0 CHK/S
+      sample-ticks-per-second:
+        value: 19.918929110105584
+        fvalue: 19.919 (109%)
+        config:
+          component:
+            interval: '1'
+          config:
+            version: '1'
+      sample-chunk-memory:
+        value: 34.0
+        config:
+          component:
+            interval: '1'
+          config:
+            version: '1'
+        fvalue: 34 MB (2%) CMEM
+      sample-chunks-loaded:
+        fvalue: 442 CHKS
+        config:
+          config:
+            version: '1'
+          component:
+            interval: '5'
+        value: 442.0
+      sample-memory-allocations-per-second:
+        config:
+          config:
+            version: '1'
+          component:
+            interval: '1'
+        value: 76.0
+        fvalue: 76 MAH/S
+      sample-timings:
+        fvalue: playerCommandTime 54.66ms (109%)
+        config:
+          component:
+            interval: '20'
+          config:
+            version: '1'
+        value: 1.0
+      sample-history:
+        fvalue: MAP ONLY
+        config:
+          config:
+            version: '1'
+          component:
+            interval: '13500'
+        value: 1.0
+      sample-players:
+        value: 1.0
+        config:
+          config:
+            version: '1'
+          component:
+            interval: '20'
+        fvalue: 1 PL
+      sample-t-n-t-per-second:
+        config:
+          config:
+            version: '1'
+          component:
+            interval: '20'
+        value: 0.0
+        fvalue: 0 TNT/S
+      sample-chunk-gen-per-second:
+        config:
+          config:
+            version: '1'
+          component:
+            limit: '42'
+            interval: '20'
+        value: 0.0
+        fvalue: 0 CGEN/S
+      sample-p-h-photon:
+        config:
+          component:
+            interval: '13500'
+          config:
+            version: '1'
+        value: 1.0
+        fvalue: P
+      sample-entities:
+        value: 161.0
+        config:
+          config:
+            version: '1'
+          component:
+            interval: '100'
+        fvalue: 161 ENTS
+      sample-hit-rate:
+        config:
+          component:
+            interval: '20'
+          config:
+            version: '1'
+        fvalue: 0 HT
+        value: 0.0
+      sample-memory-used:
+        fvalue: 2.14 GB
+        config:
+          component:
+            interval: '1'
+          config:
+            version: '1'
+        value: 2111.0
+      sample-p-h-timings:
+        value: 1.0
+        fvalue: T
+        config:
+          component:
+            interval: '13500'
+          config:
+            version: '1'
+      sample-memory-sweep-frequency:
+        fvalue: 4 GC/M
+        value: 4.152249134948096
+        config:
+          component:
+            interval: '1'
+          config:
+            version: '1'
+  ai:
+    digest:
+      md5sha256sha512: cb2b4ed1-80e9-3864-aed1-910013592512
+    server:
+      version: 'git-Spigot-570526c-6af9f5b (MC: 1.10.2)'
+      bukkit-version: 1.10.2-R0.1-SNAPSHOT
+    version-code: 3000
+    version-name: 3p
+config:
+  version: 1
+machine:
+  processor:
+    cores: 16

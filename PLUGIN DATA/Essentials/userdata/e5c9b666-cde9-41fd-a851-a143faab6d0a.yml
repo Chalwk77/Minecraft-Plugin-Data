@@ -1,0 +1,21 @@
+lastAccountName: MiaWoodHD
+timestamps:
+  login: 1469807057553
+  logout: 1469807334180
+ipAddress: 108.91.156.165
+geolocation: Newcastle, California, United States
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+logoutlocation:
+  world: world
+  x: 475.24654541978725
+  y: 89.0
+  z: -186.42640612049252
+  yaw: -128.93399
+  pitch: 12.068634
+money: '2500'

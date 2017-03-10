@@ -1,0 +1,20 @@
+geolocation: Australia
+lastAccountName: lockie2000
+timestamps:
+  login: 1471433955872
+  logout: 1471434036506
+ipAddress: 1.152.96.4
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+logoutlocation:
+  world: world
+  x: 474.9033265015233
+  y: 89.0
+  z: -183.93440739767456
+  yaw: 283.03497
+  pitch: 6.6409674

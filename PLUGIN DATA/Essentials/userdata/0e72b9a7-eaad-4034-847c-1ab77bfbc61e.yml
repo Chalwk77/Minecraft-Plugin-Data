@@ -1,0 +1,51 @@
+lastAccountName: rbb1213
+timestamps:
+  login: 1481147972624
+  logout: 1481152962602
+  lastteleport: 1480285427477
+  kits:
+    citizen: 1462316593724
+    ande: 1465139031269
+    color: 1445435468006
+    tophat: 1443471762442
+    architect: 1444701130704
+    drinks: 1446521034292
+    pw: 1477708587504
+    food: 1467263332007
+    ultra: 1443471914877
+    donor: 1443471944439
+    jesus: 1443471832449
+    wekit: 1445519243779
+    sking_arena: 1460600568540
+    overlord: 1460933435310
+  mute: 0
+ipAddress: 70.94.233.30
+godmode: false
+afk: false
+geolocation: Dothan, Alabama, United States
+socialspy: false
+money: '689188.42774999999583008'
+muted: false
+teleportenabled: true
+lastlocation:
+  world: world
+  x: -15653.459711112826
+  y: 34.61999889552333
+  z: 16624.30000001192
+  yaw: 149.94179
+  pitch: 90.0
+logoutlocation:
+  world: world
+  x: -6865.626548639149
+  y: 66.75737614331298
+  z: 6004.703417264305
+  yaw: 94.05023
+  pitch: 13.950166
+homes:
+  home:
+    world: world
+    x: 3203.792619302704
+    y: 97.0
+    z: 3589.91099847017
+    yaw: 92.06186
+    pitch: 20.036333

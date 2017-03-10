@@ -1,0 +1,70 @@
+# 
+# Name: SlimefunLuckyBlocks
+# Author: mrCookieSlime
+# 
+# Do not modify the Config while the Server is running
+# otherwise bad things might happen!
+# 
+# This Plugin also requires CS-CoreLib to run!
+# If you don't have it installed already, its going to be
+# automatically installed for you
+# 
+# This Plugin utilises an Auto-Updater. If you want to turn that off,
+# simply set options -> auto-update to false
+world-blacklist:
+- world_nether
+- world_the_end
+- old_world
+- flat
+chance: 80
+events:
+  Cooked Food: true
+  Golden Apples: true
+  Diamond Block with Lightning: true
+  I am Groot: true
+  Raw Food: true
+  Fish: true
+  Stained Clay Pillar with Diamond Block on top: true
+  Charged Creeper: true
+  Witch and Bats: true
+  Emerald Block: true
+  Iron Block: true
+  Explosion: true
+  Void Hole: true
+  Anvil Rain: true
+  Enclosed Water Pool: true
+  TNT Rain: true
+  Tamed Dogs: true
+  Tamed Cats: true
+  Mister Rainbow: true
+  Flying Creepers: true
+  Flying TNT: true
+  Valuables: true
+  Normal and Fake Diamond Block: true
+  Lucky Sword: true
+  Lucky Pickaxe: true
+  Lucky Axe: true
+  XP Rain: true
+  Chicken Rain: true
+  Bryan: true
+  Walshrus: true
+  Lucky Baton: true
+  Lucky Helmet: true
+  Lucky Chestplate: true
+  Lucky Leggings: true
+  Lucky Boots: true
+  Good Potions: true
+  Bad Potions: true
+  Dyes: true
+  Hay there: true
+  Cookies: true
+  Cake: true
+  jeb_ Sheep: true
+  Reaper: true
+  Up up and away: true
+  Webs: true
+  Giant Slime: true
+  Villager Number X: true
+  PotatOS: true
+  Iron Golem Invasion: true
+  Jerry the Slime: true

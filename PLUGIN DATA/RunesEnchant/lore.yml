@@ -1,0 +1,464 @@
+trade-shard:
+- '&aContents -'
+- ''
+- '%enchantments%'
+- ''
+- '&aRight click!'
+
+protection:
+- '&lRune of Protection'
+- '&f&lProtects the item from getting'
+- '&f&ldestroyed through un-successful'
+- '&f&lenchantment.'
+
+magical:
+- '&6Magical Rune'
+- '&7Gives one extra slot to an item'
+- '&7on which this Rune is placed on.'
+
+cursed_stone:
+- '&4&lThe Cursed Stone'
+- '&5Takes a random enchantment from an item'
+- '&5and gives you the Rune of that'
+
+magic_dust:
+- '&aA chance to increase the success rate by'
+- '&aa random number'
+
+lifesteal:
+- '&lRune of Lifesteal %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Sword Enchant'
+- '&7Place the Rune on a sword to enchant.'
+
+block:
+- '&lRune of Block %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Sword Enchant'
+- '&7Place the Rune on a sword to enchant.'
+
+assassin:
+- '&lRune of Assassin %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Sword Enchant'
+- '&7Place the Rune on a sword to enchant.'
+
+kill_confirm:
+- '&lRune of Kill Confirm %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Sword Enchant'
+- '&7Place the Rune on a sword to enchant.'
+
+hex:
+- '&lRune of Hex %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Sword Enchant'
+- '&7Place the Rune on a sword to enchant.'
+
+jump:
+- '&lRune of Jump %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Boot Enchant'
+- '&7Place the Rune on a boot to enchant.'
+
+speed:
+- '&lRune of Speed %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Boot Enchant'
+- '&7Place the Rune on a boot to enchant.'
+
+zeus:
+- '&lRune of Zeus %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Bow Enchant'
+- '&7Place the Rune on a bow to enchant.'
+
+batvision:
+- '&lRune of Batvision %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Helmet Enchant'
+- '&7Place the Rune on a helmet to enchant.'
+
+demonic_aura:
+- '&lRune of Demonic Aura %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on Armour to enchant.'
+
+dodge:
+- '&lRune of Dodge %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on Armour to enchant.'
+
+blessed:
+- '&lRune of Blessed %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on Armour to enchant.'
+
+arrow_rain:
+- '&lRune of Arrow Rain %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Bow Enchant'
+- '&7Place the Rune on a bow to enchant.'
+
+snare:
+- '&lRune of Snare %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Bow Enchant'
+- '&7Place the Rune on a bow to enchant.'
+
+curse:
+- '&lRune of Curse %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Weapon Enchant'
+- '&7Place the Rune on any weapon to enchant.'
+
+crushing:
+- '&lRune of Crushing %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Weapon Enchant'
+- '&7Place the Rune on any weapon to enchant.'
+
+execute:
+- '&lRune of Execute %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Weapon Enchant'
+- '&7Place the Rune on any weapon to enchant.'
+
+stealth:
+- '&lRune of Stealth %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on Armour to enchant.'
+
+aegis:
+- '&lRune of Aegis %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on Armour to enchant.'
+
+platemail:
+- '&lRune of Platemail %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on Armour to enchant.'
+
+purge:
+- '&lRune of Purge %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Weapon Enchant'
+- '&7Place the Rune on any weapon to enchant.'
+
+divine:
+- '&lRune of Divine %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Weapon Enchant'
+- '&7Place the Rune on any weapon to enchant.'
+
+entangle:
+- '&lRune of Entangle %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Bow Enchant'
+- '&7Place the Rune on a bow to enchant.'
+
+pyromaniac:
+- '&lRune of Pyromaniac %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on Armour to enchant.'
+
+flame_cloak:
+- '&lRune of Flame Cloak %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on Armour to enchant.'
+
+battlecry:
+- '&lRune of Battlecry %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Axe Enchant'
+- '&7Place the Rune on a axe to enchant.'
+
+corruption:
+- '&lRune of Corruption %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Axe Enchant'
+- '&7Place the Rune on a axe to enchant.'
+
+turmoil:
+- '&lRune of Turmoil %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Axe Enchant'
+- '&7Place the Rune on a axe to enchant.'
+
+holy_smite:
+- '&lRune of Holy Smite %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Axe Enchant'
+- '&7Place the Rune on a axe to enchant.'
+
+riftslayer:
+- '&lRune of Riftslayer %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Sword Enchant'
+- '&7Place the Rune on a sword to enchant.'
+
+petrify:
+- '&lRune of Petrify %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Axe Enchant'
+- '&7Place the Rune on a axe to enchant.'
+
+eyepatch:
+- '&lRune of Eyepatch %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on Armour to enchant.'
+
+plunder:
+- '&lRune of Plunder %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Weapon Enchant'
+- '&7Place the Rune on any weapon to enchant.'
+
+mischief:
+- '&lRune of Mischief %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Weapon Enchant'
+- '&7Place the Rune on any weapon to enchant.'
+
+shadowstep:
+- '&lRune of Shadowstep %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on Armour to enchant.'
+
+demon_siphon:
+- '&lRune of Demon Siphon %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Sword Enchant'
+- '&7Place the Rune on a sword to enchant.'
+
+animal_tamer:
+- '&lRune of Animal Tamer %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on armour to enchant.'
+
+wolves:
+- '&lRune of Wolves %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on amour to enchant.'
+
+disarm:
+- '&lRune of Disarm %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Weapon Enchant'
+- '&7Place the Rune on any weapon to enchant.'
+
+superman_punch:
+- '&lRune of Superman Punch %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on armour to enchant.'
+
+spiked:
+- '&lRune of Spiked %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on armour to enchant.'
+
+medic:
+- '&lRune of Medic %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Bow Enchant'
+- '&7Place the Rune on a bow to enchant.'
+
+swimmer:
+- '&lRune of Swimmer %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Helmet Enchant'
+- '&7Place the Rune on a helmet to enchant.'
+
+thief:
+- '&lRune of Thief %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Weapon Enchant'
+- '&7Place the Rune on any weapon to enchant.'
+
+health_boost:
+- '&lRune of Health Boost %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Chestplate Enchant'
+- '&7Place the Rune on a chstplate to enchant.'
+
+reborn:
+- '&lRune of Reborn %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Weapon Enchant'
+- '&7Place the Rune on any weapon to enchant.'
+
+endless:
+- '&lRune of Endless %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Tool Enchant'
+- '&7Place the Rune on any tool to enchant.'
+
+molten:
+- '&lRune of Molten %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Chestplate Enchant'
+- '&7Place the Rune on a chestplate to enchant.'
+
+immolation:
+- '&lRune of Immolation %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Chestplate Enchant'
+- '&7Place the Rune on a chestplate to enchant.'
+
+strength:
+- '&lRune of Strength %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Chestplate Enchant'
+- '&7Place the Rune on a chestplate to enchant.'
+
+horse_rider:
+- '&lRune of Horse Rider %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on armour to enchant.'
+
+web_trap: 
+- '&lRune of Web Trap %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Weapon Enchant'
+- '&7Place the Rune on any weapon to enchant.'
+
+veinminer:
+- '&lRune of Veinminer %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Pickaxe Enchant'
+- '&7Place the Rune on a pickaxe to enchant.'
+
+paralyze:
+- '&lRune of Paralyze %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on armour to enchant.'
+
+soft_touch:
+- '&lRune of Soft Touch %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Pickaxe Enchant'
+- '&7Place the Rune on a pickaxe to enchant.'
+
+tnt_shooter:
+- '&lRune of Tnt Shooter %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Bow Enchant'
+- '&7Place the Rune on a bow to enchant.'
+
+rekt:
+- '&lRune of Rekt %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Axe Enchant'
+- '&7Place the Rune on a axe to enchant.'
+
+reversal:
+- '&lRune of Reversal %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Weapon Enchant'
+- '&7Place the Rune on any weapon to enchant.'
+
+reinforced:
+- '&lRune of Reinforced %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Chestplate Enchant'
+- '&7Place the Rune on a chestplate to enchant.'
+
+wild_mark:
+- '&lRune of Wild Mark %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Bow Enchant'
+- '&7Place the Rune on a bow to enchant.'
+
+shearer:
+- '&lRune of Shearer %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Shears Enchant'
+- '&7Place the Rune on a shears to enchant.'
+
+farmer:
+- '&lRune of Farmer %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on armour to enchant.'
+
+haste:
+- '&lRune of Haste %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Pickaxe Enchant'
+- '&7Place the Rune on a pickaxe to enchant.'
+
+explosive:
+- '&lRune of Explosive %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Pickaxe Enchant'
+- '&7Place the Rune on a pickaxe to enchant.'
+
+lumberjack:
+- '&lRune of Lumberjack %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Axe Enchant'
+- '&7Place the Rune on an axe to enchant.'
+
+plow:
+- '&lRune of Plow %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Hoe Enchant'
+- '&7Place the Rune on an axe to enchant.'
+
+smelt:
+- '&lRune of Smelt %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Pickaxe Enchant'
+- '&7Place the Rune on a pickaxe to enchant.'
+
+lucky_mining:
+- '&lRune of Lucky Mining %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Pickaxe Enchant'
+- '&7Place the Rune on a pickaxe to enchant.'
+
+auto_block:
+- '&lRune of Auto Block %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Pickaxe Enchant'
+- '&7Place the Rune on a pickaxe to enchant.'
+
+shooter:
+- '&lRune of Shooter %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Pickaxe Enchant'
+- '&7Place the Rune on a pickaxe to enchant.'
+
+feather_fall:
+- '&lRune of Feather Fall %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Armour Enchant'
+- '&7Place the Rune on armour to enchant.'
+
+suicide:
+- '&lRune of Suicide %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Chestplate Enchant'
+- '&7Place the Rune on a chestplate to enchant.'
+
+angry_birds:
+- '&lRune of Angry Birds %level%'
+- '&a%success% Success Rate and &c%destroy% Destroy Rate.'
+- '&6Sword Enchant'
+- '&7Place the Rune on a sword to enchant.'

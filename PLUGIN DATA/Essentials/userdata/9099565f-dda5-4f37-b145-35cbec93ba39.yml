@@ -1,0 +1,62 @@
+lastlocation:
+  world: world
+  x: 17191.878599605847
+  y: 76.0
+  z: 613.1060484283039
+  yaw: 36.150085
+  pitch: 9.600007
+lastAccountName: eddxe
+timestamps:
+  login: 1479729737954
+  lastteleport: 1479729247320
+  logout: 1479729748332
+  kits:
+    tools: 1479635798325
+    food: 1479639845925
+ipAddress: 121.219.115.19
+geolocation: Whittlesea, Victoria, Australia
+money: '96888.28039999999878381'
+homes:
+  home:
+    world: world
+    x: 3864.604013852745
+    y: 22.0
+    z: -2646.487149078759
+    yaw: 291.86005
+    pitch: 13.89249
+  gold:
+    world: world
+    x: -24455.17319682956
+    y: 70.0
+    z: 15338.261077323878
+    yaw: 164.54932
+    pitch: 1.6500112
+  jg:
+    world: world
+    x: -26469.049020813076
+    y: 67.0
+    z: 21828.51116154336
+    yaw: 326.24988
+    pitch: 19.64999
+  mizuchi:
+    world: world
+    x: 3844.3657833386815
+    y: 12.0
+    z: -2706.971699855445
+    yaw: 64.75922
+    pitch: 23.69996
+  idk:
+    world: world
+    x: -1772.3752054060096
+    y: 63.0
+    z: -108.50516912368717
+    yaw: 158.5481
+    pitch: 73.35006
+logoutlocation:
+  world: world
+  x: 3864.5
+  y: 22.0
+  z: -2646.5
+  yaw: 291.71005
+  pitch: 13.292491
+afk: false

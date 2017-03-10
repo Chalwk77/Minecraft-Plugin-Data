@@ -1,0 +1,879 @@
+########################################################################
+###                                                                    #
+###   Lucky Blocks v0.dev6                                             #
+###                                                                    #
+###   Designed for MythicMobs 2.4.4 / Spigot 1.9.x                     #
+###                                                                    #
+###   Created by jaylawl                                               #
+###   Contact: jaylawlMC@gmail.com                                     #
+###                                                                    #
+########################################################################
+### master block & utilities
+lucky_block:
+  Type: baby_zombie
+  Display: '&eLucky Block&r'
+  KillMessages:
+  - '<target.name> was slain by a &eLucky Block&r'
+  Health: 10
+  Options:
+    KnockbackResistance: 1
+    PreventOtherDrops: true
+    PreventItemPickup: true
+    Silent: true
+    Despawn: true
+  DamageModifiers:
+  - ENTITY_ATTACK 100
+  - FALL 0
+  - PROJECTILE 0
+  - FIRE 0
+  - FIRE_TICK 0
+  - LAVA 0
+  - ENTITY_EXPLOSION 0
+  - BLOCK_EXPLOSION 0
+  - CONTACT 0
+  - CUSTOM 0
+  - SUFFOCATION 0
+  Equipment:
+  - lucky_block_head:4
+  AIGoalSelectors:
+  - 0 clear
+  - 1 randomlookaround
+  AITargetSelectors:
+  - 0 clear
+  Skills:
+  - skill{s=lucky_block_on_spawn_core} @self ~onSpawn
+  - skill{s=lucky_block_on_interact_core} @self ~onInteract
+  - skill{s=lucky_block_on_signal_core} @self ~onSignal
+  - skill{s=lucky_block_on_death_core} @self ~onDeath
+  - skill{s=lucky_block_clock} @self ~onTimer:20
+lucky_block_mount:
+  Type: silverfish
+  Display: 'lucky_block_mount'
+  Health: 100
+  Options:
+    Silent: true
+    NoAI: true
+    Despawn: true
+  AIGoalSelectors:
+  - 0 clear
+  AITargetSelectors:
+  - 0 clear
+  DamageModifiers:
+  - ENTITY_ATTACK 100
+  - FALL 0
+  - PROJECTILE 0
+  - FIRE 0
+  - FIRE_TICK 0
+  - LAVA 0
+  - ENTITY_EXPLOSION 0
+  - BLOCK_EXPLOSION 0
+  - CONTACT 0
+  - CUSTOM 0
+  - SUFFOCATION 0
+  Skills:
+  - potion{t=INVISIBILITY;d=630720000;l=0} @self ~onSpawn
+  - skill{s=lucky_block_mount_clock} @self ~onTimer:20
+lucky_block_dropper:
+  Type: silverfish
+  Display: ''
+  KillMessages:
+  - ''
+  Health: 2000
+  Options:
+    Silent: true
+    PreventOtherDrops: true
+  AIGoalSelectors:
+  - 0 clear
+  AITargetSelectors:
+  - 0 clear
+  Drops:
+  - lucky_block_drops_master
+  - lucky_item_processor_drops_master
+  - lucky_true_mr_rainbow_drops_master
+  Skills:
+  - potion{t=INVISIBILITY;d=630720000;l=0} @self ~onSpawn
+  - suicide{delay=1} @self ~onSpawn
+  - remove{delay=1} @self ~onDeath
+########################################################################
+### hostiles
+lucky_block_angry_zombie:
+  Type: zombie
+  Display: '&eAngry Lucky Block&r'
+  KillMessages:
+  - '<target.name> was slain by an &eAngry Lucky Block&r'
+  Health: 20
+  Options:
+    PreventOtherDrops: true
+    PreventItemPickup: true
+    Silent: true
+    Despawn: true
+  Equipment:
+  - lucky_block_head:4
+  - lucky_tier_gear_level_0_chestplate:3
+  - mc_dummy:2
+  - lucky_tier_gear_level_0_boots:1
+  - mc_golden_sword:0
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 randomlookaround
+  - 3 randomstroll
+  AITargetSelectors:
+  - 0 clear
+  - 1 attacker
+  - 2 players
+  Drops:
+  - exp 1-10 1
+  Skills:
+  - potion{t=INVISIBILITY;d=630720000;l=0} @self ~onSpawn
+  - modifyscore{o=luckyblockspos;e=<mob.uuid>;a=set;v=<random.1-100>} @self ~onSpawn
+  - modifyscore{o=luckyblocksneg;e=<mob.uuid>;a=set;v=<random.1-100>} @self ~onSpawn
+  - skill{s=lucky_block_display_odds_gate;sync=true} @self ~onInteract
+  - effect:sound{s=block.stone.place;v=1;p=2} @self ~onCombat
+  - skill{s=lucky_block_on_death_core} @self ~onDeath
+  - effect:particles{p=angryVillager;a=1;hS=0.3;vS=0.05;s=0;y=1.5;repeat=2;repeatInterval=5} @self ~onTimer:20 0.25
+  - effect:sound{s=entity.villager.no;v=1;p=0} @self ~onTimer:60 0.25
+  - effect:sound{s=entity.villager.hurt;v=1;p=0} @self ~onDamaged 0.51
+lucky_block_angry_skeleton:
+  Type: skeleton
+  Display: '&eAngry Lucky Block&r'
+  KillMessages:
+  - '<target.name> was shot by an &eAngry Lucky Block&r'
+  Health: 20
+  Options:
+    PreventOtherDrops: true
+    PreventItemPickup: true
+    Silent: true
+    Despawn: true
+  Equipment:
+  - lucky_block_head:4
+  - lucky_tier_gear_level_0_chestplate:3
+  - mc_dummy:2
+  - lucky_tier_gear_level_0_boots:1
+  AITargetSelectors:
+  - 0 clear
+  - 1 attacker
+  - 2 players
+  Drops:
+  - exp 1-10 1
+  Skills:
+  - potion{t=INVISIBILITY;d=630720000;l=0} @self ~onSpawn
+  - modifyscore{o=luckyblockspos;e=<mob.uuid>;a=set;v=<random.1-100>} @self ~onSpawn
+  - modifyscore{o=luckyblocksneg;e=<mob.uuid>;a=set;v=<random.1-100>} @self ~onSpawn
+  - skill{s=lucky_block_display_odds_gate;sync=true} @self ~onInteract
+  - effect:sound{s=block.stone.place;v=1;p=2} @self ~onCombat
+  - skill{s=lucky_block_on_death_core} @self ~onDeath
+  - effect:particles{p=angryVillager;a=1;hS=0.3;vS=0.05;s=0;y=1.5;repeat=2;repeatInterval=5} @self ~onTimer:20 0.25
+  - effect:sound{s=entity.villager.no;v=1;p=0} @self ~onTimer:60 0.25
+  - effect:sound{s=entity.villager.hurt;v=1;p=0} @self ~onDamaged 0.51
+lucky_annoyed_villager:
+  Type: villager
+  Display: '&eAnnoyed Villager&r'
+  Health: 50
+  Options:
+    Silent: true
+    PreventOtherDrops: true
+    Despawn: true
+    MovementSpeed: 0.3
+  Disguise:
+    Type: villager
+    ShowName: true
+  AIGoalSelectors:
+  - 0 clear
+  - 1 randomstroll
+  - 2 lookatplayers
+  - 3 randomlookaround
+  AITargetSelectors:
+  - 0 clear
+  Skills:
+  - mount{m=lucky_annoyed_villager_golem} @self ~onSpawn
+  - effect:particles{p=angryVillager;a=1;hS=0.3;vS=0.05;s=0;y=1.5;repeat=2;repeatInterval=10} @self ~onTimer:20 0.25
+  Drops:
+  - exp 100 1
+  - lucky_chunk 1 1
+  - lucky_chunk 1 0.1
+lucky_annoyed_villager_golem:
+  Type: iron_golem
+  Display: '&eAnnoyed Golem&r'
+  KillMessages:
+  - 'The &eAnnoyed Villager&r has had it with <target.name><&sq>s bad luck (and so does <target.name>)'
+  - '<target.name> was slain by the capeable metal fists of the &eAnnoyed Villager&r<&sq>s Golem'
+  - 'Quick and efficient - the way the &eAnnoyed Golem&r slayed <target.name>'
+  Health: 250
+  Options:
+    KnockbackResistance: 1
+    Despawn: true
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 randomstroll
+  - 3 randomlookaround
+  AITargetSelectors:
+  - 0 clear
+  - 1 attacker
+  - 2 players
+  - 3 monsters
+  Skills:
+  - remove @MIR{r=5;t=lucky_annoyed_villager} ~onDeath
+  Drops:
+  - exp 500 1
+  - lucky_chunk 3 1
+  - lucky_chunk 1 0.1
+lucky_creeper_mounted_flying:
+  Type: creeper
+  Display: '&eCreeper&r'
+  KillMessages:
+  - '<target.name> tried to hug a &eCreeper&r'
+  - '<target.name> was hugged by a &eCreeper&r'
+  Health: 20
+  Drops:
+  - exp 1-20 1
+  Skills:
+  - summon{m=BAT;a=1;r=0} @self ~onSpawn
+  - mounttarget{delay=1} @e[r=1,c=1,type=Bat] ~onSpawn
+lucky_creeper_mounted_lucky_spider:
+  Type: creeper
+  Display: '&eCreeper&r'
+  KillMessages:
+  - '<target.name> ran into a spider mounting &eCreeper&r'
+  - '<&dq>&oNOPE, NOPE, NOPE!<&dq> - <target.name> blew up'
+  - '<target.name> tried to hug a &eCreeper&r'
+  - '<target.name> was hugged by a &eCreeper&r'
+  Health: 20
+  Drops:
+  - exp 1-20 1
+  Skills:
+  - mount{m=lucky_spider} @self ~onSpawn
+lucky_doppleganger_zombie:
+  Type: zombie
+  Display: '&r'
+  KillMessages:
+  - '<target.name> was slain by <target.name>'
+  - '<target.name> was slain by a better version of <target.name>'
+  Health: 100
+  Options:
+    FollowRange: 128
+    PreventOtherDrops: true
+    MovementSpeed: 0.3
+    Despawn: true
+  Modules:
+    ThreatTable: true
+  Equipment:
+  - mc_stone_button:4
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  Drops:
+  - exp 1-200
+  - lucky_chunk_of_luck 1 1
+  Skills:
+  - doppleganger @p[r=128,c=1] ~onSpawn
+  - skill{s=lucky_doppleganger_disguise} @self ~onChangeTarget
+  - skill{s=lucky_doppleganger_disguise} @self ~onEnterCombat
+lucky_doppleganger_skeleton:
+  Type: skeleton
+  Display: '&r'
+  KillMessages:
+  - '<target.name> was slain by <target.name>'
+  - '<target.name> was slain by a better version of <target.name>'
+  Health: 100
+  Options:
+    FollowRange: 128
+    PreventOtherDrops: true
+    MovementSpeed: 0.3
+    Despawn: true
+  Modules:
+    ThreatTable: true
+  Equipment:
+  - mc_stone_button:4
+  AIGoalSelectors:
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  Drops:
+  - exp 1-200
+  - lucky_chunk_of_luck 1 1
+  Skills:
+  - doppleganger @p[r=128,c=1] ~onSpawn
+  - skill{s=lucky_doppleganger_disguise} @self ~onChangeTarget
+  - skill{s=lucky_doppleganger_disguise} @self ~onEnterCombat
+lucky_fiery_entity:
+  Type: bat
+  Display: '&eFiery Entity&r'
+  KillMessages:
+  - '<target.name> was slain by an entity that can<&sq>t attack'
+  Health: 10
+  Options:
+    Silent: true
+    Despawn: true
+  DamageModifiers:
+  - FIRE 0
+  - FIRE_TICK 0
+  - LAVA 0
+  Skills:
+  - ignite{t=630720000} @self ~onSpawn
+  - potion{t=INVISIBILITY;d=630720000;l=0} @self ~onSpawn
+  - ignite{t=200} @PIR{r=3} ~onTimer:40
+  - effect:sound{s=entity.ghast.shoot;v=1;p=2} @PIR{r=3} ~onTimer:40
+lucky_flying_laser_squid:
+  Type: guardian
+  Display: '&eFlying Laser Squid&r'
+  KillMessages:
+  - '<target.name> was slain by a &eFlying Laser Squid&r'
+  - '<target.name> was lasered by a rare &eFlying Laser Squid&r'
+  - '<target.name> died in awe, observing a gracious &eFlying Laser Squid&r'
+  Options:
+    Silent: true
+    PreventOtherDrops: true
+    Despawn: true
+  Skills:
+  - potion{t=INVISIBILITY;d=630720000;l=0} @self ~onSpawn
+  - remove @MIR{r=3;t=lucky_flying_laser_squid_mount} ~onSpawn
+  - mount{m=lucky_flying_laser_squid_mount;delay=1} @self ~onSpawn
+  - damage{a=0} @MIR{r=3;t=lucky_flying_laser_squid_mount} ~onDamaged
+  - remove @MIR{r=3;t=lucky_flying_laser_squid_mount} ~onDeath
+lucky_flying_laser_squid_mount:
+  Type: bat
+  Health: 2000
+  Display: '&eFlying Laser Squid&r'
+  Options:
+    Silent: true
+    Despawn: false
+  Disguise:
+    Type: squid
+    ShowName: true
+  DamageModifiers:
+  - ENTITY_ATTACK 0
+  - ENTITY_EXPLOSION 0
+  - PROJECTILE 0
+  - FIRE 0
+  - FIRE_TICK 0
+  - LAVA 0
+lucky_haunted_block:
+  Type: slime
+  Display: '&eHaunted Block&r'
+  KillMessages:
+  - '<target.name> was killed by a &eHaunted Block&r'
+  - '<target.name> was slain by a &eHaunted Block&r'
+  - '<target.name> was blocked by a &eHaunted Block&r'
+  - '<target.name> couldn<&sq>t quite mine that &eHaunted Block&r'
+  Damage: 10
+  Options:
+    Silent: true
+    MovementSpeed: 0.50
+    PreventOtherDrops: true
+    PreventSlimeSplit: true
+  Drops:
+  - exp 1-10 1
+  Skills:
+  - skill{s=lucky_haunted_block_disguise;sync=true} @self ~onSpawn
+lucky_hostile_snowman:
+  Type: snowman
+  Display: '&eHostile Snowman&r'
+  KillMessages:
+  - '<target.name> lost a snowball fight against a &eHostile Snowman&r'
+  - '<target.name> was buried in snow by a &eHostile Snowman&r'
+  - '<target.name> brought a sword to a snowball fight'
+  Health: 20
+  Options:
+    FollowRange: 64
+    KnockbackResistance: 0.5
+    Despawn: true
+  AITargetSelectors:
+  - 0 clear
+  - 1 attacker
+  - 2 players
+  - 3 monsters
+  Drops:
+  - pumpkin 1 1
+  - exp 1-200 1
+  Skills:
+  - shoot{t=SNOWBALL;v=2;d=1} @target ~onTimer:20
+  - effect:particles{p=angryVillager;a=1;hS=0.3;vS=0.05;s=0;y=1.5;repeat=2;repeatInterval=5} @self ~onTimer:20 0.75
+  - effect:particles{p=snowshovel;a=1;hS=0.5;vS=0.6;s=0;y=1} @self ~onTimer:20 0.89
+lucky_invisible_wolf:
+  Type: wolf
+  Display: '&eInvisible Wolf&r'
+  KillMessages:
+  - '<target.name> was devoured by a pack of &rInvisible Wolfs&r'
+  Options:
+    Despawn: true
+  Skills:
+  - potion{t=INVISIBILITY;d=630720000;l=0} @self ~onSpawn
+  - effect:particles{p=mobSpell;a=1;hS=0.25;vS=0.25;s=0.5;y=0.5} @self ~onTimer:20 0.5
+lucky_magma_cube_tower_1:
+  Type: magma_cube
+  Display: '&eLucky Magma Cube Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eMagma Cube Tower&r disapproves of <target.name><&sq>s bad luck'
+  Options:
+    Size: 1
+    PreventSlimeSplit: true
+lucky_magma_cube_tower_2:
+  Display: '&eLucky Magma Cube Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eMagma Cube Tower&r disapproves of <target.name><&sq>s bad luck'
+  Type: magma_cube
+  Options:
+    Size: 2
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_magma_cube_tower_1} @self ~onSpawn
+lucky_magma_cube_tower_3:
+  Display: '&eLucky Magma Cube Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eMagma Cube Tower&r disapproves of <target.name><&sq>s bad luck'
+  Type: magma_cube
+  Options:
+    Size: 3
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_magma_cube_tower_2} @self ~onSpawn
+lucky_magma_cube_tower_4:
+  Type: magma_cube
+  Display: '&eLucky Magma Cube Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eMagma Cube Tower&r disapproves of <target.name><&sq>s bad luck'
+  Options:
+    Size: 4
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_magma_cube_tower_3} @self ~onSpawn
+lucky_magma_cube_tower_5:
+  Display: '&eLucky Magma Cube Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eMagma Cube Tower&r disapproves of <target.name><&sq>s bad luck'
+  Type: magma_cube
+  Options:
+    Size: 5
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_magma_cube_tower_4} @self ~onSpawn
+lucky_magma_cube_tower_7:
+  Display: '&eLucky Magma Cube Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eMagma Cube Tower&r disapproves of <target.name><&sq>s bad luck'
+  Type: magma_cube
+  Options:
+    Size: 7
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_magma_cube_tower_5} @self ~onSpawn
+lucky_magma_cube_tower_9:
+  Display: '&eLucky Magma Cube Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eMagma Cube Tower&r disapproves of <target.name><&sq>s bad luck'
+  Type: magma_cube
+  Options:
+    Size: 9
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_magma_cube_tower_7} @self ~onSpawn
+lucky_magma_cube_tower_11:
+  Display: '&eLucky Magma Cube Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eMagma Cube Tower&r disapproves of <target.name><&sq>s bad luck'
+  Type: magma_cube
+  Options:
+    Size: 11
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_magma_cube_tower_9} @self ~onSpawn
+lucky_magma_cube_tower_13:
+  Display: '&eLucky Magma Cube Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eMagma Cube Tower&r disapproves of <target.name><&sq>s bad luck'
+  Type: magma_cube
+  Options:
+    Size: 13
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_magma_cube_tower_11} @self ~onSpawn
+lucky_nuke:
+  Type: silverfish
+  Display: '&eEnvironmentally harmless Nuke&r'
+  KillMessages:
+  - '<target.name> was blown up by an &eEnvironmentally Harmless Nuke&r'
+  - '<target.name> was eradicated by an &eEnvironmentally Harmless Nuke&r'
+  - '<target.name> was converted to ashes by an &eEnvironmentally Harmless Nuke&r'
+  - '<target.name> was converted to ashijins by an &eEnvironmentally Harmless Nuke&r'
+  Health: 2000
+  Options:
+    Silent: true
+    PreventOtherDrops: true
+    KnockbackResistance: 1
+  AIGoalSelectors:
+  - 0 clear
+  AITargetSelectors:
+  - 0 clear
+  Disguise:
+    Type: BLOCK
+    Block: TNT
+    ShowName: false
+  Skills:
+  - skill{s=lucky_nuke_countdown} @PIR{r=30} ~onSpawn
+lucky_slimetower_1:
+  Type: slime
+  Display: '&eSlime Tower&r'
+  KillMessages:
+  - '<target.name> was slain by a mob that cannot kill'
+  Options:
+    Size: 1
+    PreventSlimeSplit: true
+  Skills:
+  - dismount ~onDamaged 0.5
+lucky_slimetower_2:
+  Type: slime
+  Display: '&eSlime Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eSlime Tower&r disapproves of <target.name><&sq>s bad luck'
+  Options:
+    Size: 2
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_slimetower_1} @self ~onSpawn
+lucky_slimetower_3:
+  Type: slime
+  Display: '&eSlime Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eSlime Tower&r disapproves of <target.name><&sq>s bad luck'
+  Options:
+    Size: 3
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_slimetower_2} @self ~onSpawn
+lucky_slimetower_4:
+  Type: slime
+  Display: '&eSlime Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eSlime Tower&r disapproves of <target.name><&sq>s bad luck'
+  Options:
+    Size: 4
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_slimetower_3} @self ~onSpawn
+lucky_slimetower_5:
+  Type: slime
+  Display: '&eSlime Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eSlime Tower&r disapproves of <target.name><&sq>s bad luck'
+  Options:
+    Size: 5
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_slimetower_4} @self ~onSpawn
+lucky_slimetower_7:
+  Type: slime
+  Display: '&eSlime Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eSlime Tower&r disapproves of <target.name><&sq>s bad luck'
+  Options:
+    Size: 7
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_slimetower_5} @self ~onSpawn
+lucky_slimetower_9:
+  Type: slime
+  Display: '&eSlime Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eSlime Tower&r disapproves of <target.name><&sq>s bad luck'
+  Options:
+    Size: 9
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_slimetower_7} @self ~onSpawn
+lucky_slimetower_11:
+  Type: slime
+  Display: '&eSlime Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eSlime Tower&r disapproves of <target.name><&sq>s bad luck'
+  Options:
+    Size: 11
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_slimetower_9} @self ~onSpawn
+lucky_slimetower_13:
+  Type: slime
+  Display: '&eSlime Tower&r'
+  KillMessages:
+  - '<target.name> was slain by stacked misfortune'
+  - 'The &eSlime Tower&r disapproves of <target.name><&sq>s bad luck'
+  Options:
+    Size: 13
+    PreventSlimeSplit: true
+  Skills:
+  - mount{m=lucky_slimetower_11} @self ~onSpawn
+lucky_sniper:
+  Type: ocelot
+  Display: '&eSniper&r'
+  KillMessages:
+  - '<target.name> didn<&sq>t quite see that arrow coming'
+  - 'The &eSniper&r shoots from a distance, <target.name> learned'
+  - '<target.name> was shot by a &eSniper&r'
+  Health: 50
+  DamageModifiers:
+  - PROJECTILE 0.25
+  - ENTITY_ATTACK 1.25
+  Options:
+    FollowRange: 75
+    Despawn: true
+    Silent: true
+  Disguise:
+    Type: Skeleton
+    ShowName: true
+  Equipment:
+  - mc_bow:0
+  AIGoalSelectors:
+  - 0 clear
+  - 1 fleeplayers
+  - 2 meleeattack
+  - 3 randomlookaround
+  - 4 randomstroll
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  Skills:
+  - shoot{t=arrow;d=14;v=5.5;md=35} @a[r=35,rm=15,c=1] ~onTimer:20 0.25
+  Drops:
+  - exp 1-100 1
+  - lucky_chunk 1 1
+  - lucky_chunk 1 0.1
+lucky_spider:
+  Type: spider
+  Display: '&eSpider&r'
+  KillMessages:
+  - '<&dq>&oNOPE, NOPE, NOPE!<&dq> - <target.name> died'
+  Drops:
+  - exp 1-30 1
+  Skills:
+  - leap{v=200;delay=30} @target ~onDamaged
+lucky_witch:
+  Type: witch
+  Display: '&eWitch&r'
+  KillMessages:
+  - '<target.name> liked his women a little too witchy'
+  - '<target.name> died by the local witches magic'
+  - '<target.name> died by the hands of the local witch'
+  - '<target.name> was slain by magical misfortune'
+  - '<target.name> tried to sell brooms to retired housewives'
+  Options:
+    Despawn: true
+  Skills:
+  - summon{m=BAT;a=1;r=0} @self ~onSpawn 0.5
+  - mounttarget{delay=1} @e[r=1,c=1,type=Bat] ~onSpawn
+lucky_warrior:
+  Type: zombie
+  Display: '&eWarrior&r'
+  KillMessages:
+  - '<target.name> was filled with regret after trying his luck against a &eWarrior&r'
+  - '<target.name> + &eWarrior&r = &m<target.name>&r'
+  Health: 20
+  Options:
+    PreventOtherDrops: true
+  Drops:
+  - exp 50-150 1
+  - lucky_chunk_of_luck 1 1
+  Skills:
+  - skill{s=lucky_warrior_random_armor} @self ~onSpawn
+lucky_warrior_trainee:
+  Type: baby_zombie
+  Display: '&eTrainee Warrior&r'
+  KillMessages:
+  - '<target.name> was slain by a &eTrainee Warrior&r'
+  - '<target.name> was scared to death by a &eTrainee Warrior&r'
+  - '<target.name> + &eTrainee Warrior&r = &m<target.name>&r'
+  Health: 20
+  Options:
+    PreventOtherDrops: true
+  Drops:
+  - exp 50-150 1
+  - lucky_chunk 1 1
+  Skills:
+  - skill{s=lucky_warrior_random_armor} @self ~onSpawn
+lucky_warrior_ender:
+  Type: zombie
+  Display: '&eEnder Warrior&r'
+  KillMessages:
+  - '<target.name> didn<&sq>t know &eEnder Warriors&r could teleport'
+  - '<target.name> was mesmerized by teleportation effects'
+  Health: 20
+  Options:
+    PreventOtherDrops: true
+  Drops:
+  - exp 50-150 1
+  - lucky_chunk 1 1
+  Skills:
+  - skill{s=lucky_warrior_random_armor} @self ~onSpawn
+  - teleport{sh=7;sv=0;cooldown=3} @target ~onCombat
+  - effect:particles{p=portal;a=1;y=1;s=1;repeat=4;repeatInterval=5} @self ~onTimer:20
+########################################################################
+### passives
+lucky_fresh_food_chicken:
+  Type: chicken
+  Options:
+    Despawn: true
+  DamageModifiers:
+  - FALL 0.1
+  - FIRE_TICK 0.5
+  Skills:
+  - mount{m=lucky_fresh_food_chicken} @self ~onSpawn 0.9
+  - skill{s=lucky_fresh_food_common} @self ~onSpawn
+lucky_fresh_food_cow:
+  Type: cow
+  Options:
+    Despawn: true
+  DamageModifiers:
+  - FALL 0.1
+  - FIRE_TICK 0.5
+  Skills:
+  - mount{m=lucky_fresh_food_cow} @self ~onSpawn 0.9
+  - skill{s=lucky_fresh_food_common} @self ~onSpawn
+lucky_fresh_food_mooshroom:
+  Type: mushroom_cow
+  Options:
+    Despawn: true
+  DamageModifiers:
+  - FALL 0.1
+  - FIRE_TICK 0.5
+  Skills:
+  - mount{m=lucky_fresh_food_mooshroom} @self ~onSpawn 0.9
+  - skill{s=lucky_fresh_food_common} @self ~onSpawn
+lucky_fresh_food_pig:
+  Type: pig
+  Options:
+    Despawn: true
+  DamageModifiers:
+  - FALL 0.1
+  - FIRE_TICK 0.5
+  Skills:
+  - mount{m=lucky_fresh_food_pig} @self ~onSpawn 0.9
+  - skill{s=lucky_fresh_food_common} @self ~onSpawn
+lucky_fresh_food_rabbit:
+  Type: rabbit
+  Options:
+    Despawn: true
+  DamageModifiers:
+  - FALL 0.1
+  - FIRE_TICK 0.5
+  Skills:
+  - mount{m=lucky_fresh_food_rabbit} @self ~onSpawn 0.9
+  - skill{s=lucky_fresh_food_common} @self ~onSpawn
+lucky_fresh_food_sheep:
+  Type: sheep
+  Options:
+    Despawn: true
+  DamageModifiers:
+  - FALL 0.1
+  - FIRE_TICK 0.5
+  Skills:
+  - mount{m=lucky_fresh_food_sheep} @self ~onSpawn 0.9
+  - skill{s=lucky_fresh_food_common} @self ~onSpawn
+lucky_true_mr_rainbow:
+  Type: sheep
+  Display: '&4T&cr&6u&ee &2M&ai&bs&3t&1e&9r &dR&5a&4i&cn&6b&eo&2w'
+  Health: 2000
+  Options:
+    AlwaysShowName: true
+  Skills:
+  - effect:sound{s=entity.sheep.ambient;v=2;p=0.765} @self ~onSpawn
+  - summon{m=BAT;a=1;r=0} @self ~onSpawn
+  - potion{t=INVISIBILITY;d=630720000;l=0;delay=1} @e[r=3,c=1,type=Bat] ~onSpawn
+  - mounttarget{delay=1} @e[r=3,c=1,type=Bat] ~onSpawn
+  - summon{m=lucky_block_dropper;a=1;r=0} @self ~onDamaged
+  - setstance{s=lucky_true_mr_rainbow_drops_diamond;delay=1} @MIR{r=3;t=lucky_block_dropper} ~onDamaged
+  - setstance{s=lucky_true_mr_rainbow_drops_emerald;delay=1} @MIR{r=3;t=lucky_block_dropper} ~onDamaged 0.5
+  - command{c="entitydata <mob.uuid> {Color:<random.0-15>b}"} @self ~onTimer:5
+  - effect:particles{p=mobSpell;a=3;hS=0.5;vS=0.5;s=1;y=0} @self ~onTimer:5
+  - effect:particles{p=cloud;a=2;hS=0.2;vS=0.025;s=0;y=0.1;repeat=5;repeatInterval=1} @self ~onTimer:5
+  - suicide{delay=600} @self ~onSpawn
+  - remove @e[r=3,c=1,type=Bat] ~onDeath
+  - effect:particles{p=mobSpell;a=250;hS=1;vS=1;s=1;y=0} @self ~onDeath
+  - effect:particles{p=cloud;a=50;hS=0.5;vS=0.5;s=0;y=0} @self ~onDeath
+lucky_villager_harmonious_blacksmith:
+  Type: villager
+  Display: '&fHarmonious Blacksmith&r'
+  Options:
+    Despawn: false
+  Skills:
+  - skill{s=lucky_villager_harmonious_blacksmith_on_spawn_core} @self ~onSpawn
+  - skill{s=lucky_villager_harmonious_blacksmith_on_spawn_core} @self ~onInteract
+lucky_villager_professor_snabe:
+  Type: villager
+  Display: '&0Professor Snabe&r'
+  Options:
+    Silent: true
+    Despawn: false
+  Skills:
+  - skill{s=lucky_villager_professor_snabe_on_spawn_core} @self ~onSpawn
+  - skill{s=lucky_villager_professor_snabe_on_spawn_core} @self ~onInteract
+lucky_villager_lucky_purveyor:
+  Type: villager
+  Display: '&eLucky Purveyor&r'
+  Options:
+    Despawn: false
+  Skills:
+  - skill{s=lucky_villager_lucky_purveyor_on_spawn_core} @self ~onSpawn
+  - skill{s=lucky_villager_lucky_purveyor_on_spawn_core} @self ~onInteract
+########################################################################
+### other
+lucky_acrophobia_catapult_dummy:
+  Type: armor_stand
+  Display: 'lucky_acrophobia_catapult_dummy'
+  Options:
+    Invisible: true
+    HasGravity: false
+  Skills:
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~5 ~1 ~5 ~-5 ~ ~-5 air 0 replace barrier";delay=80} @self ~onSpawn
+  - command{c="execute <target.uuid> ~ ~ ~ fill ~5 ~1 ~5 ~-5 ~1 ~-5 air 0 replace water";delay=100} @self ~onSpawn
+  - remove{delay=101} @self ~onSpawn
+lucky_adventure_portal:
+  Type: armor_stand
+  Display: '&eLucky Adventure Portal&r'
+  Options:
+    AlwaysShowName: true
+    Invincible: true
+    Invisible: true
+    Despawn: true
+  Skills:
+  - skill{s=lucky_adventure_portal_execution;sync=true} @self ~onSpawn
+lucky_item_processor:
+  Type: armor_stand
+  Display: '&eLucky Item Processor&r'
+  Options:
+    Invincible: true
+    Despawn: true
+  Skills:
+  - skill{s=lucky_item_processor_on_spawn_core} @self ~onSpawn
+  - skill{s=lucky_item_processor_clock} @self ~onTimer:60
+lucky_tier_gear_stand:
+  Type: armor_stand
+  Display: 'lucky_tier_gear_stand'
+  Pose:
+    Head: 0,0,0
+    Body: 0,0,0
+    LeftArm: 0 to 100,0 to 100,0 to 100
+    RightArm: 0 to 100,0 to 100,0 to 100
+    LeftLeg: 0 to 100,0 to 100,0 to 100
+    RightLeg: 0 to 100,0 to 100,0 to 100
+  Skills:
+  - skill{s=lucky_tier_gear_stand_on_spawn_core} @self ~onSpawn
+########################################################################

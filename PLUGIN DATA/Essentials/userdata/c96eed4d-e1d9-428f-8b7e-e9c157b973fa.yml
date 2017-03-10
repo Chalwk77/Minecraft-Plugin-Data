@@ -1,0 +1,21 @@
+lastAccountName: Strom_Surge
+timestamps:
+  login: 1470562301112
+  logout: 1470562493032
+ipAddress: 220.253.187.253
+geolocation: Perth, Western Australia, Australia
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+logoutlocation:
+  world: world
+  x: 532.1140581287254
+  y: 87.0
+  z: -187.1140158775949
+  yaw: 273.55014
+  pitch: 2.399986
+money: '2500'

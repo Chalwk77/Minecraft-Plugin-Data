@@ -1,0 +1,81 @@
+lastlocation:
+  world: world
+  x: 492.1378566675774
+  y: 89.00431225519904
+  z: -207.52370984454515
+  yaw: 206.65004
+  pitch: 20.099974
+lastAccountName: Cownerr
+timestamps:
+  login: 1471854164725
+  lastteleport: 1471854188496
+  logout: 1471854191769
+ipAddress: 115.166.29.97
+geolocation: Adelaide, South Australia, Australia
+money: '2500'
+logoutlocation:
+  world: world
+  x: -3298.5
+  y: 76.09875652094897
+  z: 1035.5
+  yaw: -244.04846
+  pitch: 35.849876
+homes:
+  home:
+    world: world
+    x: -3016.2441688068243
+    y: 64.0
+    z: 3982.009117978986
+    yaw: 275.70105
+    pitch: 27.450176
+  camp:
+    world: world
+    x: -3017.4396245315047
+    y: 64.0
+    z: 3987.729061961011
+    yaw: 242.40051
+    pitch: 22.200191
+  fort:
+    world: world
+    x: 2185.7837230591176
+    y: 63.0
+    z: -1487.0256916208696
+    yaw: -73.94974
+    pitch: 10.800004
+  cryos:
+    world: world
+    x: 491.2697571223614
+    y: 71.0
+    z: -3848.2671538673408
+    yaw: 87.47689
+    pitch: 32.100014
+  connor:
+    world: world
+    x: 3737.5605725744276
+    y: 63.0
+    z: 10227.816231268946
+    yaw: 48.001648
+    pitch: 23.850008
+  cownerr:
+    world: world
+    x: -3046.475460582743
+    y: 79.0
+    z: 1280.6323287696518
+    yaw: 266.8514
+    pitch: 10.049887
+  soccer:
+    world: world
+    x: -3298.4788006912663
+    y: 63.0
+    z: 1035.6433621887275
+    yaw: -0.8984314
+    pitch: 80.09988
+  fire:
+    world: world
+    x: 663.0975147110523
+    y: 72.0
+    z: 904.3320015868893
+    yaw: 171.47067
+    pitch: 6.7499332
+afk: false
+godmode: true

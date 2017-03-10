@@ -1,0 +1,71 @@
+PlayerLastName: Chater_Gaming
+EnderChestSize: 27
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §rMagical Essence
+      lore:
+      - ''
+      - §7Quartz
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BARDING
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §7M-9
+      lore:
+      - ''
+      - '§7Type: §bPistol'
+      - '§7Ammo: §b0 | 80 / 192'
+      - '§7Damage: §b4.5'
+      - '§7Speed: §b2.0'
+      - '§7Clip Size: §b8'
+      - ''
+      - §2§oRight Click §ato fire
+      - §2§oLeft Click §ato zoom
+      - §2§oSneak + Right Click §ato load Ammo
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: NETHER_STAR
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §aPear Pie
+      lore:
+      - ''
+      - §7§oRestores §b§o6.5 §7§oHunger
+      internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4k/CvKwcOmUSEWhjqU3kqpKV2rBsEIn2ofcR53fHnvmQAmvG1/OqW+mvOxVtyA56iC9+PEtYNxySxUur7lVza1KHWZRX2GQmcSosApTTAf04U3bc2vIzBafm+7hl9NAHgy4DWnquPwy/vYJgdhV4dYsT4KHrzb2iqN5GUcnfK+nEVBpB9+9RGs+/Bfi1q6R6rwYkFOWVfq3F57G8VXG4fp7xsesnu6xG4hPwWWShfDQpMdQ3iP/XTHvGSZ+VgKTWQxkHks0j0RicY+HrCH3VxjdyGSeVUTmahCMhSdnPCYTacABrwkVHMYzbazc8PXdQnwB5vMQUMqAQAA
+      skull-owner: CSCoreLib
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rSpider Head
+      internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+      skull-owner: CSCoreLib
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: REDSTONE
+    amount: 5
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: APPLE
+    amount: 3

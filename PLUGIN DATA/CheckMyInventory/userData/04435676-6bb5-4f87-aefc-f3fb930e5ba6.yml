@@ -1,0 +1,25 @@
+Name: xX_The_Hood_Xx
+TeleportLocation:
+  X: -20078.5
+  Pitch: 22.34996
+  Y: 69.07500000000746
+  Z: -4412.5
+  World: world
+  Yaw: 10.148548
+Charges:
+  Amount: 0
+  LastGot: 1480923129973
+LogOutLocation:
+  X: -20080.36280378327
+  Pitch: 23.850016
+  Y: 67.5
+  Z: -4415.483951044011
+  World: world
+  Yaw: 123.398605
+DeathLocation:
+  X: 704.0613885750122
+  Pitch: -5.708931
+  Y: 65.0
+  Z: -122.39343498724297
+  World: world
+  Yaw: -256.23782

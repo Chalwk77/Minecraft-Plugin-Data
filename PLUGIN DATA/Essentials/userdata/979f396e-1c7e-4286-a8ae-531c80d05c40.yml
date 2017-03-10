@@ -1,0 +1,30 @@
+lastlocation:
+  world: world
+  x: 2919.4768759297763
+  y: 78.0
+  z: 2329.8014621199877
+  yaw: -211.05003
+  pitch: 20.249996
+lastAccountName: Razor_Edge_101
+timestamps:
+  login: 1475918220267
+  logout: 1475918931296
+  lastteleport: 1475918835985
+ipAddress: 101.180.114.77
+geolocation: Australia
+logoutlocation:
+  world: world
+  x: 22569.30000001192
+  y: 62.0
+  z: 18964.30000001192
+  yaw: 30.000458
+  pitch: 5.2499666
+money: '17771.1999999999999966'
+homes:
+  home:
+    world: world
+    x: -310447.3647957397
+    y: 65.0
+    z: -625930.6790768496
+    yaw: 275.8437
+    pitch: 37.03511

@@ -1,0 +1,161 @@
+console-only: Only the console can do this!
+player-only: You have to be a player to do this!
+no-perms: You do not have permissions to do this!
+no-stats-yet: No data for stat %stat% yet!
+no-stats-yet-fancy: No data yet for stat %stat% with this %fancyMetadata%
+needs-more-arguments: 'This command requires more arguments. Correct usage: %usage%'
+player-not-found: Player by the name of %input% not found
+command-not-found: Unknown command. Type /stats help to view commands
+stat-not-found: Unknown Stat. For a list of stats, type /stats list
+sign:
+  unknown-stat: The stat type of the sign is unknown, or the stat was not found
+  unknown-player: The player type of the sign is unknown, or no player could be found by that name
+  combi-unsuported: This combination of types is unsupported. For a list of supported types, see //TODO link here
+stats:
+  playtime:
+    description: Time played
+    format: '%days% days, %hours% hours, %minutes% minutes and %seconds% seconds'
+  fish_caught:
+    format: '%value% in world %world%'
+  items_picked_up:
+    format: '%value% in world %world%'
+  blocks_broken:
+    format: '%value% in world %world%'
+  items_dropped:
+    format: '%value% in world %world%'
+  times_kicked:
+    format: '%value%'
+  pvp:
+    format: '%value% in world %world%'
+  arrows:
+    format: '%value% in world %world%'
+  buckets_emptied:
+    format: '%value% in world %world%'
+  damage_taken:
+    format: '%value% in world %world%'
+  tools_broken:
+    format: '%value% in world %world%'
+  move:
+    format: '%value% in world %world%'
+  shears:
+    format: '%value% in world %world%'
+  votes:
+    format: '%value%'
+  kill:
+    format: '%value% in world %world%'
+  last_seen:
+    format: '%value% in world %world%'
+  last_join:
+    format: '%value% in world %world%'
+  trades:
+    format: '%value% in world %world%'
+  blocks_placed:
+    format: '%value% in world %world%'
+  items_crafted:
+    format: '%value% in world %world%'
+  teleports:
+    format: '%value% in world %world%'
+  words_said:
+    format: '%value% in world %world%'
+  xp_gained:
+    format: '%value% in world %world%'
+  eggs_thrown:
+    format: '%value% in world %world%'
+  times_changed_world:
+    format: '%value%'
+  buckets_filled:
+    format: '%value% in world %world%'
+  omnomnom:
+    format: '%value% in world %world%'
+  death:
+    format: '%value% in world %world%'
+  beds_entered:
+    format: '%value% in world %world%'
+  commands_done:
+    format: '%value% in world %world%'
+  joins:
+    format: '%value% times joined'
+  Fish_caught:
+    format: '%value% in world %world%'
+  Items_picked_up:
+    format: '%value% in world %world%'
+  Playtime:
+    format: '%value% in world %world%'
+  Blocks_broken:
+    format: '%value% in world %world%'
+  Items_dropped:
+    format: '%value% in world %world%'
+  Times_kicked:
+    format: '%value% in world %world%'
+  PVP:
+    format: '%value% in world %world%'
+  Arrows:
+    format: '%value% in world %world%'
+  Buckets_emptied:
+    format: '%value% in world %world%'
+  Money:
+    format: '%value% in world %world%'
+  Damage_taken:
+    format: '%value% in world %world%'
+  Tools_broken:
+    format: '%value% in world %world%'
+  Move:
+    format: '%value% in world %world%'
+  Shears:
+    format: '%value% in world %world%'
+  Votes:
+    format: '%value%'
+  Kill:
+    format: '%value% in world %world%'
+  Last_seen:
+    format: '%value% in world %world%'
+  Last_join:
+    format: '%value% in world %world%'
+  Trades:
+    format: '%value% in world %world%'
+  Blocks_placed:
+    format: '%value% in world %world%'
+  Items_crafted:
+    format: '%value% in world %world%'
+  Teleports:
+    format: '%value% in world %world%'
+  Words_said:
+    format: '%value% in world %world%'
+  Joins:
+    format: '%value%'
+  XP_gained:
+    format: '%value% in world %world%'
+  Eggs_thrown:
+    format: '%value% in world %world%'
+  Times_changed_world:
+    format: '%value%'
+  Buckets_filled:
+    format: '%value% in world %world%'
+  Omnomnom:
+    format: '%value% in world %world%'
+  Death:
+    format: '%value% in world %world%'
+  Beds_entered:
+    format: '%value% in world %world%'
+  Commands_done:
+    format: '%value% in world %world%'
+  PVP_streak:
+    format: '%value% in world %world%'
+  PVP_top_streak:
+    format: '%value% in world %world%'
+commands:
+  stat:
+  - The %name% statistic
+  - '%description%'
+  - '%total% in total, from which %currWorldTotal% from this world'
+  reset:
+    confirm: Please perform the command again to confirm you want to reset %target%
+    target-self: yourself
+    target-all: everyone
+    success: Stats have been reset.
+  help-message:
+    root: Shows you your stats!
+    reset: Reset your own or other stats
+    player: Look up the stats of another player
+    stat: Look up more detailed stats about your progress in a statistic
+    help: Shows this message

@@ -1,0 +1,31 @@
+lastlocation:
+  world: world
+  x: -25532.69999998808
+  y: 62.614078398395094
+  z: 26574.776219110558
+  yaw: 58.149082
+  pitch: 21.791656
+lastAccountName: vSkylar
+timestamps:
+  login: 1471261613522
+  lastteleport: 1471262862278
+  logout: 1471263336344
+ipAddress: 110.175.54.225
+geolocation: Cairnlea, Victoria, Australia
+homes:
+  home:
+    world: world
+    x: 175.01649319009906
+    y: 64.0
+    z: 1625.3880829239913
+    yaw: 151.85779
+    pitch: 13.881037
+logoutlocation:
+  world: world
+  x: -25816.010079796015
+  y: 67.0
+  z: 26680.143589703992
+  yaw: -242.03125
+  pitch: 18.910309
+money: '2500'
+afk: false

@@ -1,0 +1,21 @@
+geolocation: Sydney, New South Wales, Australia
+lastAccountName: SuperUltron
+timestamps:
+  login: 1472880487393
+  lastteleport: 1472880514862
+  logout: 1472880532316
+ipAddress: 124.149.176.209
+lastlocation:
+  world: world
+  x: 482.92526436763575
+  y: 89.0
+  z: -188.96406055759897
+  yaw: 165.25002
+  pitch: 23.549976
+logoutlocation:
+  world: world
+  x: -2069.3409513959714
+  y: 80.0
+  z: -1187.619946472265
+  yaw: 84.46098
+  pitch: -3.1247816

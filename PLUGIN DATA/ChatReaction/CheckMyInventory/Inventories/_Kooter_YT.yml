@@ -1,0 +1,326 @@
+Inventories:
+  '1':
+    Time: 1459117692150
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 12
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1854.300000011921
+      y: 39.0
+      z: 3920.300000011921
+      pitch: 19.44622
+      yaw: -140.27003
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 93
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Feces digger
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 63
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: COBBLESTONE
+        amount: 64
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: STONE
+        damage: 3
+        amount: 51
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        type: STONE
+        damage: 1
+        amount: 43
+      '10':
+        type: COBBLESTONE
+        amount: 64
+      '11':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '12':
+        type: COOKED_BEEF
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '13':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '14':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '15':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '16':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '17':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '18':
+        type: COOKED_CHICKEN
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '19':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '20':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '21':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '22':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '23':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '24':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '25':
+        type: GRAVEL
+        amount: 2
+      '26':
+        type: COBBLESTONE
+        amount: 64
+      '27':
+        type: FLINT
+      '28':
+        type: COBBLESTONE
+        amount: 64
+      '29':
+        type: IRON_ORE
+        amount: 9
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: COBBLESTONE
+        amount: 44
+      '32':
+        type: STONE
+        damage: 5
+        amount: 8
+      '33':
+        type: DIRT
+  '2':
+    Time: 1459465463215
+    Exp: 1
+    Health: 12.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1420.3231953917277
+      y: 78.0
+      z: 3772.573025754934
+      pitch: 13.2419815
+      yaw: -263.4267
+  '3':
+    Time: 1459469871991
+    Exp: 1
+    Health: 12.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1420.3231953917277
+      y: 78.0
+      z: 3772.573025754934
+      pitch: 13.2419815
+      yaw: -263.4267
+  '4':
+    Time: 1459659261511
+    Exp: 1
+    Health: 12.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1420.3231953917277
+      y: 78.0
+      z: 3772.573025754934
+      pitch: 13.2419815
+      yaw: -263.4267
+  '5':
+    Time: 1459766735233
+    Exp: 1
+    Health: 12.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1420.3231953917277
+      y: 78.0
+      z: 3772.573025754934
+      pitch: 13.2419815
+      yaw: -263.4267
+  '6':
+    Time: 1459847486237
+    Exp: 1
+    Health: 12.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1420.3231953917277
+      y: 78.0
+      z: 3772.573025754934
+      pitch: 13.2419815
+      yaw: -263.4267
+  '7':
+    Time: 1460146822191
+    Exp: 1
+    Health: 12.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1420.3231953917277
+      y: 78.0
+      z: 3772.573025754934
+      pitch: 13.2419815
+      yaw: -263.4267
+  '8':
+    Time: 1460883169103
+    Exp: 1
+    Health: 12.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1420.3231953917277
+      y: 78.0
+      z: 3772.573025754934
+      pitch: 13.2419815
+      yaw: -263.4267
+  '9':
+    Time: 1462120693575
+    Exp: 1
+    Health: 12.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1420.3231953917277
+      y: 78.0
+      z: 3772.573025754934
+      pitch: 13.2419815
+      yaw: -263.4267
+  '10':
+    Time: 1462483217145
+    Exp: 1
+    Health: 12.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1420.3231953917277
+      y: 78.0
+      z: 3772.573025754934
+      pitch: 13.2419815
+      yaw: -263.4267

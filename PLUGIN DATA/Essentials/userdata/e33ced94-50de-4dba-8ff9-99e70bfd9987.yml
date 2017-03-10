@@ -1,0 +1,20 @@
+geolocation: Pascoe Vale, Victoria, Australia
+lastAccountName: _LIMO_
+timestamps:
+  login: 1472286302469
+  logout: 1472286451318
+ipAddress: 121.219.230.82
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+logoutlocation:
+  world: world
+  x: 474.5025879158344
+  y: 88.0
+  z: -88.90904069263614
+  yaw: 73.44997
+  pitch: 16.199993

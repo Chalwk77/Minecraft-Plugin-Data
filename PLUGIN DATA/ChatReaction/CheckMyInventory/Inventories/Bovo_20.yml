@@ -1,0 +1,154 @@
+Inventories:
+  '1':
+    Time: 1462120699585
+    Exp: 260
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -161.09893214059383
+      y: 63.0
+      z: 1199.8508363602093
+      pitch: -13.499876
+      yaw: 96.752075
+    Items:
+      '0':
+        type: PUMPKIN
+      '2':
+        type: COOKED_CHICKEN
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '4':
+        type: DIAMOND_SWORD
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        damage: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 210
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: DIAMOND_AXE
+        damage: 49
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '8':
+        type: DIAMOND_HOE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rRabbit Head
+          internal: H4sIAAAAAAAAAE2LT0+DMBxAfxpNGPFjeCUpfycHD0qWrGRUZQXW3mArjq7dFgYG+FR+RDl6fHnvmQAmPG1PvVKf7aVulDDgHh/guQ5C/6X0XMur/MryyiWywtBHliiDPaqQcGwvNMGcp6tou0bcFmB0Yuj6VtxMALgz4DEvVS/gV4wx4rsjOuxitR9xMDPdIvWB5XWJz/lYRTjAevbrt2Azhv9avysLXzE3PvLzV1/pHG3cVIl1au919sM1GwjN/ISeEKMrl9DTRArsMZlqXqwcIleI6VwS+d5w+T0wh9mJTI9cck0oQ8mUTGzKbFJkDqGHho1xWO/QK4ABD6TUAhbRNrq0YtNUAH8ral0XKgEAAA==
+          skull-owner: CSCoreLib
+  '2':
+    Time: 1462483224163
+    Exp: 1843
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 15.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -156.62223185289085
+      y: 63.0
+      z: 1190.300000011921
+      pitch: 5.2502217
+      yaw: 5.7055664
+    Items:
+      '0':
+        type: TORCH
+        amount: 32
+      '1':
+        type: COOKED_BEEF
+        amount: 39
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '4':
+        type: DIAMOND_SWORD
+        damage: 785
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        damage: 154
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 1147
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: DIAMOND_AXE
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '8':
+        type: DIAMOND_HOE
+        damage: 191
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rPig Head
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJgqzx0EODbV0iHxVR3L0tsIafXTUIBvpUfcR67HEyMyaACS/bplfquz0fKyUNeKQFvBZFLnIhhUUIOVozj8wt4c4ySwo5zV1HFg6xTTDv00W2XSWvEzA6OXR9K68mADwY8LwXqpfwK8fA5ofSLg6BykdK7pxsbRXR+jKnp/2Y+ZRQfferd7IeF/9arxOpp5gblPy06TO9t9durOQqnuZ6d8OaDlizGU+ZyxzqRmncRGk4hhpV6GwGXqPGL6xQ70ZMdl60bH5YzRtexyUumYfJh80T5qATDqg/S/SDxfFgvwEY8IRCS5j4W//cynWVAfwB7qosRCoBAAA=
+          skull-owner: CSCoreLib

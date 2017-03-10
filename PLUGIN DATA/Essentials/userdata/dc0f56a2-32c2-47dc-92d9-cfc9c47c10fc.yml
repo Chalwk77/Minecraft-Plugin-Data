@@ -1,0 +1,31 @@
+lastlocation:
+  world: world
+  x: 476673.40274715575
+  y: 74.0
+  z: 443141.97741077456
+  yaw: 258.7882
+  pitch: 35.60283
+lastAccountName: PoppyBros
+timestamps:
+  login: 1473499803876
+  lastteleport: 1473387452863
+  logout: 1473499831755
+ipAddress: 68.224.101.27
+geolocation: Las Vegas, Nevada, United States
+money: '2380.19299999999999655'
+afk: false
+logoutlocation:
+  world: world
+  x: 476691.74916503346
+  y: 73.0
+  z: 443137.29672211094
+  yaw: 258.7882
+  pitch: 35.60283
+homes:
+  home:
+    world: world
+    x: 476668.6171696531
+    y: 75.0
+    z: 443142.90712072863
+    yaw: 258.7882
+    pitch: 35.60283

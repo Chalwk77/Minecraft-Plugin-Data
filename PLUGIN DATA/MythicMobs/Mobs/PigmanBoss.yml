@@ -1,0 +1,60 @@
+PigmanBoss:
+  Type: PIG_ZOMBIE
+  Display: '&ePigman Boss'
+  Health: 1400
+  Damage: 18
+  Modules:
+  ThreatTable: true
+  AITargetSelectors:
+  - 0 clear
+  - 1 hurtbytarget
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  Skills:
+  - message{cooldown=25;m="<mob.name><&co> OnCombat Message Recorded"} @PlayersInRadius{r=40} ~onCombat >0 0.2
+  - message{m="<mob.name><&co> Ahahahahah! Die, <trigger.name>!"} @PlayersInRadius{r=40} ~onPlayerKill >0 1
+  - skill{s=PigmanBoss_Babies} @Self 0.1
+  - skill{s=SmashAttack} @Target >0 0.2
+  - skill{s=FireShield} @trigger ~onDamaged 0.1
+  - skill{s=Bash} =10%-90%
+  - effect:flames @target 
+  - effect:lightning @self ~onDeath 1
+  - effect:lightning @self ~onDeath 1
+  - effect:lightning @self ~onDeath 1
+  - effect:ender @PlayersInRadius{r=20}
+  - effect:particles{p=flame;a=20;hS=3;vS=1;s=0;y=2}
+  - command{c="broadcast <trigger.name> defeated the &ePigman Boss!"} ~onDeath 1
+  Modules:
+    ImmunityTable: true
+  Options:
+    Cooldown: 10
+    Warmup: 60
+    NoDamageTicks: 10
+  Drops:
+  - money 3000
+  - exp 75-125 10
+  Options:
+    AlwaysShowName: true
+    MovementSpeed: 1
+    MaxCombatDistance: 15
+    FollowRange: 13
+    PreventOtherDrops: true
+PigmanBoss_Babies:
+  Type: BABY_PIG_ZOMBIE
+  Display: '&2Pigman Baby'
+  Health: 2
+  Damage: 1.5
+  PreventOtherDrops: true
+  Equipment:
+  - ChainMailHelmet:4
+  Drops:
+  - money 4000
+  - exp 5
+  Skills:
+  - sendtitle{title="Beware!";subtitle="A dangerous spell is being cast!";d=20} @PlayersInRadius{r=10}
+  - message{cooldown=35;m="<mob.name><&co> You're outnumbered! "} @PlayersInRadius{r=40} ~onCombat >0 0.3
+  - message{cooldown=55;m="<mob.name><&co> You don't stand a chance!"} @PlayersInRadius{r=40} ~onCombat >0 0.4
+  - message{m="<mob.name><&co> We have defeated you!, <trigger.name>!"} @PlayersInRadius{r=40} ~onPlayerKill >0 1
+  Options:
+    MovementSpeed: 0.1

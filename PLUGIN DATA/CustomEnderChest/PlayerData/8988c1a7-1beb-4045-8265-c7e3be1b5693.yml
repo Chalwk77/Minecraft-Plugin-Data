@@ -1,0 +1,179 @@
+PlayerLastName: Lukie2006
+EnderChestSize: 18
+EnderChestInventory:
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: STRING
+    amount: 17
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    amount: 58
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_ORE
+    amount: 6
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: COBBLESTONE
+    amount: 48
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: NETHERRACK
+    amount: 6
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    damage: 1
+    amount: 4
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPIDER_EYE
+  '28':
+    ==: org.bukkit.inventory.ItemStack
+    type: REDSTONE
+    amount: 64
+  '29':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    damage: 5
+  '30':
+    ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+    amount: 15
+  '31':
+    ==: org.bukkit.inventory.ItemStack
+    type: LOG_2
+    damage: 1
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_AXE
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Axe
+      enchants:
+        DAMAGE_ALL: 10
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+  '33':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    damage: 269
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        PROTECTION_FIRE: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  '34':
+    ==: org.bukkit.inventory.ItemStack
+    type: REDSTONE
+    amount: 5
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: ROTTEN_FLESH
+    amount: 43
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    damage: 239
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+    amount: 38
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: BONE
+    amount: 11
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: SAND
+    amount: 2
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_CHICKEN
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: FEATHER
+    amount: 6
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    damage: 22
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    damage: 41
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    damage: 96
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPIDER_EYE
+    amount: 8
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: COBBLESTONE
+    amount: 5
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR
+    amount: 16
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    damage: 1
+    amount: 64
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §4Dwellers §6Mining §4Cap
+      lore:
+      - §a+3 Health
+      - §3+1% Dodge
+      - §6+2% Critical Chance
+      - §c+5 Critical Damage
+      - §6This amazing cap gives the wearer unwavering §4Power
+      - §cDwellers Set
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        PROTECTION_FIRE: 4
+        PROTECTION_EXPLOSIONS: 4
+        PROTECTION_PROJECTILE: 4
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    damage: 1
+    amount: 37
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §4Dwellers §6Mining §4Cap
+      lore:
+      - §a+3 Health
+      - §3+1% Dodge
+      - §6+2% Critical Chance
+      - §c+5 Critical Damage
+      - §6This amazing cap gives the wearer unwavering §4Power
+      - §cDwellers Set
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        PROTECTION_FIRE: 4
+        PROTECTION_EXPLOSIONS: 4
+        PROTECTION_PROJECTILE: 4
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIRT

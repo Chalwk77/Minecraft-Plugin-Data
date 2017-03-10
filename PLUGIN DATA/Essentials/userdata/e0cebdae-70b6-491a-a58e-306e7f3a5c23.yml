@@ -1,0 +1,61 @@
+lastAccountName: DankFrankTheTank
+timestamps:
+  login: 1476784954160
+  lastteleport: 1476785412176
+  logout: 1476785514831
+  kits:
+    food: 1459133166205
+ipAddress: 101.175.172.75
+geolocation: Sydney, New South Wales, Australia
+lastlocation:
+  world: world
+  x: 756.040385908212
+  y: 65.5
+  z: 411.33697584045353
+  yaw: -1.6481934
+  pitch: 23.999777
+money: '2500'
+homes:
+  home:
+    world: world
+    x: 741.0786562981925
+    y: 64.0
+    z: 416.3939024375835
+    yaw: -262.3457
+    pitch: 15.599806
+logoutlocation:
+  world: world
+  x: 1006541.7994739164
+  y: 63.0
+  z: -752.9768301528102
+  yaw: -41.552856
+  pitch: 37.88799
+mail:
+- §6[§rServer§6] §rThank you for your donation!
+- §6[§rServer§6] §rThank you for your donation!
+- §6[§rServer§6] §rCustom EnderChests have been restored as of 1/04/16
+- §6[§rChalwk§6] §rYou can now sit anywhere! Type /sit
+- §6[§rChalwk§6] §rJeriCraft's very own custom Mob Arena is now open! /warp mobarena
+- §6[§rServer§6] §rThe command to change a mob spawner type is now /spawner change <mob type>
+- §6[§rServer§6] §rSlimefun's Cargo Management System is temporarily disabled.
+- §6[§rServer§6] §rSlimefun's Cargo Management system has been fixed and is now enabled.
+- §6[§rChalwk§6] §r/warp mobarena2 (new mob boss)
+- §6[§rChalwk§6] §rMob Arena's 1,4 and 3 are now open!
+- '§6[§rChalwk§6] §rFinal Boss: /warp mobarena5'
+- '§6[§rChalwk§6] §rFinal Boss: /warp mobarena5. God have mercy on your soul.'
+- §6[§rServer§6] §rAll NPC's have been removed from /baltop list
+- §6[§rChalwk§6] §rCustom Runes Enchant Shop now open! &b/warp runeshop
+- §6[§rChalwk§6] §rNew content available at /warp runeshop
+- '§6[§rServer§6] §rNotice: Known issue with /nv when wearing any type of helmet.'
+- '§6[§rChalwk§6] §rNotice: Known issue with Veinminer Rune Enchant. Do not use!'
+- '§6[§rChalwk§6] §rNotice: Disguises (/d) are ''temporarily'' disabled.'
+- '§6[§rServer§6] §rNotice: Webstore sale extended to Mon 25th Jul'
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'
+afk: false

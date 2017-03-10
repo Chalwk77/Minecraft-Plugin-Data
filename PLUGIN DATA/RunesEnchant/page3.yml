@@ -1,0 +1,218 @@
+# Maximum 54 slots.
+
+1:
+ enchantment: demon_siphon
+ level: 1
+ price: 234 
+2:
+ enchantment: demon_siphon
+ level: 2
+ price: 588 
+3:
+ enchantment: demon_siphon
+ level: 3
+ price: 955 
+4:
+ enchantment: wolves
+ level: 1
+ price: 278 
+5:
+ enchantment: wolves
+ level: 2
+ price: 588 
+6:
+ enchantment: wolves
+ level: 3
+ price: 953
+7:
+ enchantment: wolves
+ level: 4
+ price: 1181 
+8:
+ enchantment: wolves
+ level: 5
+ price: 1458
+9:
+ enchantment: superman_punch
+ level: 1
+ price: 278 
+10:
+ enchantment: superman_punch
+ level: 2
+ price: 393
+11:
+ enchantment: superman_punch
+ level: 3
+ price: 874
+12:
+ enchantment: disarm
+ level: 1
+ price: 187
+13:
+ enchantment: disarm
+ level: 2
+ price: 514 
+14:
+ enchantment: disarm
+ level: 3
+ price: 875 
+15:
+ enchantment: swimmer
+ level: 1
+ price: 219 
+16:
+ enchantment: swimmer
+ level: 2
+ price: 595
+17:
+ enchantment: swimmer
+ level: 3
+ price: 722 
+18:
+ enchantment: thief
+ level: 1
+ price: 178 
+19:
+ enchantment: thief
+ level: 2
+ price: 515 
+20:
+ enchantment: thief
+ level: 3
+ price: 775 
+21:
+ enchantment: health_boost
+ level: 1
+ price: 130 
+22:
+ enchantment: health_boost
+ level: 2
+ price: 515 
+23:
+ enchantment: health_boost
+ level: 3
+ price: 852 
+24:
+ enchantment: reborn
+ level: 1
+ price: 300
+25:
+ enchantment: reborn
+ level: 2
+ price: 416 
+26:
+ enchantment: reborn
+ level: 3
+ price:  
+27:
+ enchantment: molten
+ level: 1
+ price: 239
+28:
+ enchantment: molten
+ level: 2
+ price: 629 
+29:
+ enchantment: molten
+ level: 3
+ price: 826
+30:
+ enchantment: immolation
+ level: 1
+ price: 265 
+31:
+ enchantment: immolation
+ level: 2
+ price: 597 
+32:
+ enchantment: immolation
+ level: 3
+ price: 699 
+33:
+ enchantment: immolation
+ level: 4
+ price: 1164
+34:
+ enchantment: immolation
+ level: 5
+ price: 1874 
+35:
+ enchantment: strength
+ level: 1
+ price: 293 
+36:
+ enchantment: strength
+ level: 2
+ price: 601 
+37:
+ enchantment: strength
+ level: 3
+ price: 847 
+38:
+ enchantment: web_trap
+ level: 1
+ price: 209
+39:
+ enchantment: web_trap
+ level: 2
+ price: 590 
+40:
+ enchantment: web_trap
+ level: 3
+ price: 957 
+41:
+ enchantment: veinminer
+ level: 1
+ price: 260 
+42:
+ enchantment: veinminer
+ level: 2
+ price: 623 
+43:
+ enchantment: veinminer
+ level: 3
+ price: 711 
+44:
+ enchantment: paralyze
+ level: 1
+ price: 257 
+45:
+ enchantment: paralyze
+ level: 2
+ price: 522 
+46:
+ enchantment: tnt_shooter
+ level: 1
+ price: 118 
+47:
+ enchantment: reversal
+ level: 1
+ price: 132
+48:
+ enchantment: reversal
+ level: 2
+ price: 475 
+49:
+ enchantment: reversal
+ level: 3
+ price: 711 
+50:
+ enchantment: reinforced
+ level: 1
+ price: 143
+51:
+ enchantment: reinforced
+ level: 2
+ price: 524 
+52:
+ enchantment: reinforced
+ level: 3
+ price: 765 
+53:
+ enchantment: reinforced
+ level: 4
+ price: 0996 
+54:
+ enchantment: reinforced
+ level: 5
+ price: 4955 

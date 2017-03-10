@@ -1,0 +1,1471 @@
+Inventories:
+  '25':
+    Time: 1458455365055
+    Exp: 138
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3465.106472573629
+      y: 80.0
+      z: 10727.184517378788
+      pitch: 4.649954
+      yaw: -71.55014
+    Items:
+      '0':
+        type: TORCH
+      '1':
+        type: SPIDER_EYE
+      '2':
+        type: WOOD_PICKAXE
+        damage: 56
+      '3':
+        type: GRILLED_PORK
+        amount: 7
+      '4':
+        type: ARROW
+        amount: 3
+      '5':
+        type: DIAMOND_ORE
+        amount: 20
+      '6':
+        type: WOOD_SPADE
+        damage: 48
+      '7':
+        type: IRON_PICKAXE
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '8':
+        type: STRING
+        amount: 2
+      '9':
+        type: BROWN_MUSHROOM
+        amount: 3
+      '10':
+        type: WATER_LILY
+      '11':
+        type: COBBLESTONE
+        amount: 34
+      '12':
+        type: BOWL
+        amount: 4
+      '14':
+        type: LEATHER
+        amount: 2
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COAL
+      '17':
+        type: WOOL
+        damage: 6
+      '18':
+        type: DIRT
+        amount: 5
+      '19':
+        type: LAPIS_ORE
+        amount: 12
+      '20':
+        type: POTATO_ITEM
+        amount: 8
+      '21':
+        type: BONE
+      '22':
+        type: IRON_INGOT
+        amount: 29
+      '23':
+        type: COOKED_CHICKEN
+        amount: 12
+      '24':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '25':
+        type: RAW_FISH
+        amount: 4
+      '26':
+        type: WORKBENCH
+        amount: 20
+      '27':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '28':
+        type: SEEDS
+        amount: 3
+      '29':
+        type: SULPHUR
+      '30':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '32':
+        type: WOOD
+        damage: 1
+        amount: 60
+      '33':
+        type: INK_SACK
+        damage: 4
+      '34':
+        type: STONE_SWORD
+        damage: 29
+      '35':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+  '26':
+    Time: 1459465467485
+    Exp: 138
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3465.106472573629
+      y: 80.0
+      z: 10727.184517378788
+      pitch: 4.649954
+      yaw: -71.55014
+    Items:
+      '0':
+        type: TORCH
+      '1':
+        type: SPIDER_EYE
+      '2':
+        type: WOOD_PICKAXE
+        damage: 56
+      '3':
+        type: GRILLED_PORK
+        amount: 7
+      '4':
+        type: ARROW
+        amount: 3
+      '5':
+        type: DIAMOND_ORE
+        amount: 20
+      '6':
+        type: WOOD_SPADE
+        damage: 48
+      '7':
+        type: IRON_PICKAXE
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '8':
+        type: STRING
+        amount: 2
+      '9':
+        type: BROWN_MUSHROOM
+        amount: 3
+      '10':
+        type: WATER_LILY
+      '11':
+        type: COBBLESTONE
+        amount: 34
+      '12':
+        type: BOWL
+        amount: 4
+      '14':
+        type: LEATHER
+        amount: 2
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COAL
+      '17':
+        type: WOOL
+        damage: 6
+      '18':
+        type: DIRT
+        amount: 5
+      '19':
+        type: LAPIS_ORE
+        amount: 12
+      '20':
+        type: POTATO_ITEM
+        amount: 8
+      '21':
+        type: BONE
+      '22':
+        type: IRON_INGOT
+        amount: 29
+      '23':
+        type: COOKED_CHICKEN
+        amount: 12
+      '24':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '25':
+        type: RAW_FISH
+        amount: 4
+      '26':
+        type: WORKBENCH
+        amount: 20
+      '27':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '28':
+        type: SEEDS
+        amount: 3
+      '29':
+        type: SULPHUR
+      '30':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '32':
+        type: WOOD
+        damage: 1
+        amount: 60
+      '33':
+        type: INK_SACK
+        damage: 4
+      '34':
+        type: STONE_SWORD
+        damage: 29
+      '35':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+  '27':
+    Time: 1459469875896
+    Exp: 138
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3465.106472573629
+      y: 80.0
+      z: 10727.184517378788
+      pitch: 4.649954
+      yaw: -71.55014
+    Items:
+      '0':
+        type: TORCH
+      '1':
+        type: SPIDER_EYE
+      '2':
+        type: WOOD_PICKAXE
+        damage: 56
+      '3':
+        type: GRILLED_PORK
+        amount: 7
+      '4':
+        type: ARROW
+        amount: 3
+      '5':
+        type: DIAMOND_ORE
+        amount: 20
+      '6':
+        type: WOOD_SPADE
+        damage: 48
+      '7':
+        type: IRON_PICKAXE
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '8':
+        type: STRING
+        amount: 2
+      '9':
+        type: BROWN_MUSHROOM
+        amount: 3
+      '10':
+        type: WATER_LILY
+      '11':
+        type: COBBLESTONE
+        amount: 34
+      '12':
+        type: BOWL
+        amount: 4
+      '14':
+        type: LEATHER
+        amount: 2
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COAL
+      '17':
+        type: WOOL
+        damage: 6
+      '18':
+        type: DIRT
+        amount: 5
+      '19':
+        type: LAPIS_ORE
+        amount: 12
+      '20':
+        type: POTATO_ITEM
+        amount: 8
+      '21':
+        type: BONE
+      '22':
+        type: IRON_INGOT
+        amount: 29
+      '23':
+        type: COOKED_CHICKEN
+        amount: 12
+      '24':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '25':
+        type: RAW_FISH
+        amount: 4
+      '26':
+        type: WORKBENCH
+        amount: 20
+      '27':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '28':
+        type: SEEDS
+        amount: 3
+      '29':
+        type: SULPHUR
+      '30':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '32':
+        type: WOOD
+        damage: 1
+        amount: 60
+      '33':
+        type: INK_SACK
+        damage: 4
+      '34':
+        type: STONE_SWORD
+        damage: 29
+      '35':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+  '28':
+    Time: 1459659265598
+    Exp: 138
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3465.106472573629
+      y: 80.0
+      z: 10727.184517378788
+      pitch: 4.649954
+      yaw: -71.55014
+    Items:
+      '0':
+        type: TORCH
+      '1':
+        type: SPIDER_EYE
+      '2':
+        type: WOOD_PICKAXE
+        damage: 56
+      '3':
+        type: GRILLED_PORK
+        amount: 7
+      '4':
+        type: ARROW
+        amount: 3
+      '5':
+        type: DIAMOND_ORE
+        amount: 20
+      '6':
+        type: WOOD_SPADE
+        damage: 48
+      '7':
+        type: IRON_PICKAXE
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '8':
+        type: STRING
+        amount: 2
+      '9':
+        type: BROWN_MUSHROOM
+        amount: 3
+      '10':
+        type: WATER_LILY
+      '11':
+        type: COBBLESTONE
+        amount: 34
+      '12':
+        type: BOWL
+        amount: 4
+      '14':
+        type: LEATHER
+        amount: 2
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COAL
+      '17':
+        type: WOOL
+        damage: 6
+      '18':
+        type: DIRT
+        amount: 5
+      '19':
+        type: LAPIS_ORE
+        amount: 12
+      '20':
+        type: POTATO_ITEM
+        amount: 8
+      '21':
+        type: BONE
+      '22':
+        type: IRON_INGOT
+        amount: 29
+      '23':
+        type: COOKED_CHICKEN
+        amount: 12
+      '24':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '25':
+        type: RAW_FISH
+        amount: 4
+      '26':
+        type: WORKBENCH
+        amount: 20
+      '27':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '28':
+        type: SEEDS
+        amount: 3
+      '29':
+        type: SULPHUR
+      '30':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '32':
+        type: WOOD
+        damage: 1
+        amount: 60
+      '33':
+        type: INK_SACK
+        damage: 4
+      '34':
+        type: STONE_SWORD
+        damage: 29
+      '35':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+  '29':
+    Time: 1459766740104
+    Exp: 138
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3465.106472573629
+      y: 80.0
+      z: 10727.184517378788
+      pitch: 4.649954
+      yaw: -71.55014
+    Items:
+      '0':
+        type: TORCH
+      '1':
+        type: SPIDER_EYE
+      '2':
+        type: WOOD_PICKAXE
+        damage: 56
+      '3':
+        type: GRILLED_PORK
+        amount: 7
+      '4':
+        type: ARROW
+        amount: 3
+      '5':
+        type: DIAMOND_ORE
+        amount: 20
+      '6':
+        type: WOOD_SPADE
+        damage: 48
+      '7':
+        type: IRON_PICKAXE
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '8':
+        type: STRING
+        amount: 2
+      '9':
+        type: BROWN_MUSHROOM
+        amount: 3
+      '10':
+        type: WATER_LILY
+      '11':
+        type: COBBLESTONE
+        amount: 34
+      '12':
+        type: BOWL
+        amount: 4
+      '14':
+        type: LEATHER
+        amount: 2
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COAL
+      '17':
+        type: WOOL
+        damage: 6
+      '18':
+        type: DIRT
+        amount: 5
+      '19':
+        type: LAPIS_ORE
+        amount: 12
+      '20':
+        type: POTATO_ITEM
+        amount: 8
+      '21':
+        type: BONE
+      '22':
+        type: IRON_INGOT
+        amount: 29
+      '23':
+        type: COOKED_CHICKEN
+        amount: 12
+      '24':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '25':
+        type: RAW_FISH
+        amount: 4
+      '26':
+        type: WORKBENCH
+        amount: 20
+      '27':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '28':
+        type: SEEDS
+        amount: 3
+      '29':
+        type: SULPHUR
+      '30':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '32':
+        type: WOOD
+        damage: 1
+        amount: 60
+      '33':
+        type: INK_SACK
+        damage: 4
+      '34':
+        type: STONE_SWORD
+        damage: 29
+      '35':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+  '30':
+    Time: 1459847491132
+    Exp: 138
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3465.106472573629
+      y: 80.0
+      z: 10727.184517378788
+      pitch: 4.649954
+      yaw: -71.55014
+    Items:
+      '0':
+        type: TORCH
+      '1':
+        type: SPIDER_EYE
+      '2':
+        type: WOOD_PICKAXE
+        damage: 56
+      '3':
+        type: GRILLED_PORK
+        amount: 7
+      '4':
+        type: ARROW
+        amount: 3
+      '5':
+        type: DIAMOND_ORE
+        amount: 20
+      '6':
+        type: WOOD_SPADE
+        damage: 48
+      '7':
+        type: IRON_PICKAXE
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '8':
+        type: STRING
+        amount: 2
+      '9':
+        type: BROWN_MUSHROOM
+        amount: 3
+      '10':
+        type: WATER_LILY
+      '11':
+        type: COBBLESTONE
+        amount: 34
+      '12':
+        type: BOWL
+        amount: 4
+      '14':
+        type: LEATHER
+        amount: 2
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COAL
+      '17':
+        type: WOOL
+        damage: 6
+      '18':
+        type: DIRT
+        amount: 5
+      '19':
+        type: LAPIS_ORE
+        amount: 12
+      '20':
+        type: POTATO_ITEM
+        amount: 8
+      '21':
+        type: BONE
+      '22':
+        type: IRON_INGOT
+        amount: 29
+      '23':
+        type: COOKED_CHICKEN
+        amount: 12
+      '24':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '25':
+        type: RAW_FISH
+        amount: 4
+      '26':
+        type: WORKBENCH
+        amount: 20
+      '27':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '28':
+        type: SEEDS
+        amount: 3
+      '29':
+        type: SULPHUR
+      '30':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '32':
+        type: WOOD
+        damage: 1
+        amount: 60
+      '33':
+        type: INK_SACK
+        damage: 4
+      '34':
+        type: STONE_SWORD
+        damage: 29
+      '35':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+  '31':
+    Time: 1460146826194
+    Exp: 138
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3465.106472573629
+      y: 80.0
+      z: 10727.184517378788
+      pitch: 4.649954
+      yaw: -71.55014
+    Items:
+      '0':
+        type: TORCH
+      '1':
+        type: SPIDER_EYE
+      '2':
+        type: WOOD_PICKAXE
+        damage: 56
+      '3':
+        type: GRILLED_PORK
+        amount: 7
+      '4':
+        type: ARROW
+        amount: 3
+      '5':
+        type: DIAMOND_ORE
+        amount: 20
+      '6':
+        type: WOOD_SPADE
+        damage: 48
+      '7':
+        type: IRON_PICKAXE
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '8':
+        type: STRING
+        amount: 2
+      '9':
+        type: BROWN_MUSHROOM
+        amount: 3
+      '10':
+        type: WATER_LILY
+      '11':
+        type: COBBLESTONE
+        amount: 34
+      '12':
+        type: BOWL
+        amount: 4
+      '14':
+        type: LEATHER
+        amount: 2
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COAL
+      '17':
+        type: WOOL
+        damage: 6
+      '18':
+        type: DIRT
+        amount: 5
+      '19':
+        type: LAPIS_ORE
+        amount: 12
+      '20':
+        type: POTATO_ITEM
+        amount: 8
+      '21':
+        type: BONE
+      '22':
+        type: IRON_INGOT
+        amount: 29
+      '23':
+        type: COOKED_CHICKEN
+        amount: 12
+      '24':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '25':
+        type: RAW_FISH
+        amount: 4
+      '26':
+        type: WORKBENCH
+        amount: 20
+      '27':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '28':
+        type: SEEDS
+        amount: 3
+      '29':
+        type: SULPHUR
+      '30':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '32':
+        type: WOOD
+        damage: 1
+        amount: 60
+      '33':
+        type: INK_SACK
+        damage: 4
+      '34':
+        type: STONE_SWORD
+        damage: 29
+      '35':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+  '32':
+    Time: 1460883173405
+    Exp: 138
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3465.106472573629
+      y: 80.0
+      z: 10727.184517378788
+      pitch: 4.649954
+      yaw: -71.55014
+    Items:
+      '0':
+        type: TORCH
+      '1':
+        type: SPIDER_EYE
+      '2':
+        type: WOOD_PICKAXE
+        damage: 56
+      '3':
+        type: GRILLED_PORK
+        amount: 7
+      '4':
+        type: ARROW
+        amount: 3
+      '5':
+        type: DIAMOND_ORE
+        amount: 20
+      '6':
+        type: WOOD_SPADE
+        damage: 48
+      '7':
+        type: IRON_PICKAXE
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '8':
+        type: STRING
+        amount: 2
+      '9':
+        type: BROWN_MUSHROOM
+        amount: 3
+      '10':
+        type: WATER_LILY
+      '11':
+        type: COBBLESTONE
+        amount: 34
+      '12':
+        type: BOWL
+        amount: 4
+      '14':
+        type: LEATHER
+        amount: 2
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COAL
+      '17':
+        type: WOOL
+        damage: 6
+      '18':
+        type: DIRT
+        amount: 5
+      '19':
+        type: LAPIS_ORE
+        amount: 12
+      '20':
+        type: POTATO_ITEM
+        amount: 8
+      '21':
+        type: BONE
+      '22':
+        type: IRON_INGOT
+        amount: 29
+      '23':
+        type: COOKED_CHICKEN
+        amount: 12
+      '24':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '25':
+        type: RAW_FISH
+        amount: 4
+      '26':
+        type: WORKBENCH
+        amount: 20
+      '27':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '28':
+        type: SEEDS
+        amount: 3
+      '29':
+        type: SULPHUR
+      '30':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '32':
+        type: WOOD
+        damage: 1
+        amount: 60
+      '33':
+        type: INK_SACK
+        damage: 4
+      '34':
+        type: STONE_SWORD
+        damage: 29
+      '35':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+  '33':
+    Time: 1462120698153
+    Exp: 138
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3465.106472573629
+      y: 80.0
+      z: 10727.184517378788
+      pitch: 4.649954
+      yaw: -71.55014
+    Items:
+      '0':
+        type: TORCH
+      '1':
+        type: SPIDER_EYE
+      '2':
+        type: WOOD_PICKAXE
+        damage: 56
+      '3':
+        type: GRILLED_PORK
+        amount: 7
+      '4':
+        type: ARROW
+        amount: 3
+      '5':
+        type: DIAMOND_ORE
+        amount: 20
+      '6':
+        type: WOOD_SPADE
+        damage: 48
+      '7':
+        type: IRON_PICKAXE
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '8':
+        type: STRING
+        amount: 2
+      '9':
+        type: BROWN_MUSHROOM
+        amount: 3
+      '10':
+        type: WATER_LILY
+      '11':
+        type: COBBLESTONE
+        amount: 34
+      '12':
+        type: BOWL
+        amount: 4
+      '14':
+        type: LEATHER
+        amount: 2
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COAL
+      '17':
+        type: WOOL
+        damage: 6
+      '18':
+        type: DIRT
+        amount: 5
+      '19':
+        type: LAPIS_ORE
+        amount: 12
+      '20':
+        type: POTATO_ITEM
+        amount: 8
+      '21':
+        type: BONE
+      '22':
+        type: IRON_INGOT
+        amount: 29
+      '23':
+        type: COOKED_CHICKEN
+        amount: 12
+      '24':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '25':
+        type: RAW_FISH
+        amount: 4
+      '26':
+        type: WORKBENCH
+        amount: 20
+      '27':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '28':
+        type: SEEDS
+        amount: 3
+      '29':
+        type: SULPHUR
+      '30':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '32':
+        type: WOOD
+        damage: 1
+        amount: 60
+      '33':
+        type: INK_SACK
+        damage: 4
+      '34':
+        type: STONE_SWORD
+        damage: 29
+      '35':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+  '34':
+    Time: 1462483222438
+    Exp: 138
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3465.106472573629
+      y: 80.0
+      z: 10727.184517378788
+      pitch: 4.649954
+      yaw: -71.55014
+    Items:
+      '0':
+        type: TORCH
+      '1':
+        type: SPIDER_EYE
+      '2':
+        type: WOOD_PICKAXE
+        damage: 56
+      '3':
+        type: GRILLED_PORK
+        amount: 7
+      '4':
+        type: ARROW
+        amount: 3
+      '5':
+        type: DIAMOND_ORE
+        amount: 20
+      '6':
+        type: WOOD_SPADE
+        damage: 48
+      '7':
+        type: IRON_PICKAXE
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '8':
+        type: STRING
+        amount: 2
+      '9':
+        type: BROWN_MUSHROOM
+        amount: 3
+      '10':
+        type: WATER_LILY
+      '11':
+        type: COBBLESTONE
+        amount: 34
+      '12':
+        type: BOWL
+        amount: 4
+      '14':
+        type: LEATHER
+        amount: 2
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COAL
+      '17':
+        type: WOOL
+        damage: 6
+      '18':
+        type: DIRT
+        amount: 5
+      '19':
+        type: LAPIS_ORE
+        amount: 12
+      '20':
+        type: POTATO_ITEM
+        amount: 8
+      '21':
+        type: BONE
+      '22':
+        type: IRON_INGOT
+        amount: 29
+      '23':
+        type: COOKED_CHICKEN
+        amount: 12
+      '24':
+        type: RAW_FISH
+        damage: 2
+        amount: 4
+      '25':
+        type: RAW_FISH
+        amount: 4
+      '26':
+        type: WORKBENCH
+        amount: 20
+      '27':
+        type: RAW_FISH
+        damage: 3
+        amount: 4
+      '28':
+        type: SEEDS
+        amount: 3
+      '29':
+        type: SULPHUR
+      '30':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '32':
+        type: WOOD
+        damage: 1
+        amount: 60
+      '33':
+        type: INK_SACK
+        damage: 4
+      '34':
+        type: STONE_SWORD
+        damage: 29
+      '35':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more

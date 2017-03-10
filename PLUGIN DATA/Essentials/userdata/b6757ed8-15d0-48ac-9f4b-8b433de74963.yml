@@ -1,0 +1,22 @@
+geolocation: Australia
+lastAccountName: bricksman64
+timestamps:
+  login: 1471440912552
+  logout: 1471440953876
+  kits:
+    citizen: 1471440936864
+ipAddress: 1.136.96.88
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+logoutlocation:
+  world: world
+  x: 480.64179131089406
+  y: 88.0
+  z: -215.11038094304755
+  yaw: 8.834474
+  pitch: 19.425985

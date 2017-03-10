@@ -1,0 +1,36 @@
+lastlocation:
+  world: world
+  x: -10863.108931819437
+  y: 95.0
+  z: 985.3417979571437
+  yaw: 12.748811
+  pitch: 27.449957
+lastAccountName: IamWhiteFang04
+timestamps:
+  login: 1478847109219
+  lastteleport: 1476431299538
+  logout: 1478847189343
+  kits:
+    color: 1472286090567
+    tools: 1472284131564
+    food: 1472286101842
+ipAddress: 122.150.143.172
+geolocation: Benowa, Queensland, Australia
+homes:
+  home:
+    world: world
+    x: -10871.557027244437
+    y: 97.0
+    z: 951.9697265343476
+    yaw: 274.94952
+    pitch: 13.799977
+money: '29241.81050000000000452'
+afk: false
+logoutlocation:
+  world: world
+  x: -10875.022501421401
+  y: 101.02442408821369
+  z: 938.6035329272979
+  yaw: -126.600525
+  pitch: 3.2999785
+godmode: false

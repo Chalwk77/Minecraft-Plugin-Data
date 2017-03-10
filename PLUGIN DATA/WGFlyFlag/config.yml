@@ -1,0 +1,6 @@
+send-messages: true
+messages:
+  fly-start: §6You can fly now.
+  fly-end: §6You cannot fly anymore.
+pvp-events: true
+pvp-timeout: 10000

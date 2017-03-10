@@ -1,0 +1,37 @@
+lastAccountName: Moosevinkle
+timestamps:
+  login: 1470221261857
+  lastteleport: 1470221487986
+  logout: 1470221765229
+  kits:
+    mccharacter: 1457524598273
+    color: 1455782563561
+  jail: 0
+ipAddress: 60.241.150.208
+geolocation: Australia
+lastlocation:
+  world: world
+  x: 616.3388182254503
+  y: 63.0
+  z: 261.69999998807907
+  yaw: 102.64376
+  pitch: 24.059181
+afk: false
+logoutlocation:
+  world: world
+  x: 575.5815795808958
+  y: 63.0
+  z: 238.98498020794426
+  yaw: -175.15637
+  pitch: 12.209176
+money: '2500'
+godmode: false
+homes:
+  home:
+    world: world
+    x: 3783.9045267786196
+    y: 54.0
+    z: 2950.755643993409
+    yaw: 38.33017
+    pitch: 1.7999256
+jailed: false

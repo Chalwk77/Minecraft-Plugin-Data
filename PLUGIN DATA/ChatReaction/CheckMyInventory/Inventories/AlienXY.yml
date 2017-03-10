@@ -1,0 +1,1317 @@
+Inventories:
+  '44':
+    Time: 1458455365254
+    Exp: 71919
+    Health: 110.0
+    MaxHealth: 110.0
+    Saturation: 13.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: JUMP
+        Duration: 180
+        Amplifier: 0
+    Location:
+      world: world
+      x: -3902.5830789624524
+      y: 69.0
+      z: -11751.856437212058
+      pitch: 20.100027
+      yaw: 193.2876
+    Items:
+      '0':
+        type: EMERALD
+        amount: 6
+      '1':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Long)
+          lore:
+          - ''
+          - '§7Material: §bGold'
+      '3':
+        type: WORKBENCH
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aWeapon Box
+          lore:
+          - ''
+          - §aUsed to craft Guns
+          - '§4§lWARNING:'
+          - When you craft a Gun youll get a random one
+      '4':
+        type: BONE
+        amount: 7
+      '5':
+        type: DIAMOND
+        amount: 16
+      '6':
+        type: CARROT_ITEM
+      '7':
+        type: GRILLED_PORK
+        amount: 64
+      '8':
+        type: GRILLED_PORK
+        amount: 10
+      '9':
+        type: BOW
+      '11':
+        type: PORK
+        amount: 10
+      '12':
+        type: FLINT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Handle
+      '13':
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Short)
+          lore:
+          - ''
+          - '§7Material: §bSteel'
+      '14':
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Normal)
+          lore:
+          - ''
+          - '§7Material: §bSteel'
+      '18':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+          - §cFlash Hider
+      '19':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7UMP-45
+          lore:
+          - ''
+          - '§7Type: §bAssault Rifle'
+          - '§7Ammo: §b0 | 0 / 320'
+          - '§7Damage: §b5.0'
+          - '§7Speed: §b3.0'
+          - '§7Clip Size: §b24'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '20':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-200 Intervention
+          lore:
+          - ''
+          - '§7Type: §bSniper Rifle'
+          - '§7Ammo: §b0 | 0 / 128'
+          - '§7Damage: §b20.0'
+          - '§7Speed: §b6.0'
+          - '§7Clip Size: §b1'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+          - §cGrip
+      '23':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Spas-12
+          lore:
+          - ''
+          - '§7Type: §bShotgun'
+          - '§7Ammo: §b3 | 4 / 256'
+          - '§7Damage: §b5.0'
+          - '§7Speed: §b4.0'
+          - '§7Clip Size: §b3'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '27':
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rMagnesium Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 5
+      '28':
+        type: BUCKET
+      '30':
+        type: GRILLED_PORK
+        amount: 62
+  '45':
+    Time: 1459465467638
+    Exp: 71919
+    Health: 110.0
+    MaxHealth: 110.0
+    Saturation: 13.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: JUMP
+        Duration: 180
+        Amplifier: 0
+    Location:
+      world: world
+      x: -3902.5830789624524
+      y: 69.0
+      z: -11751.856437212058
+      pitch: 20.100027
+      yaw: 193.2876
+    Items:
+      '0':
+        type: EMERALD
+        amount: 6
+      '1':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Long)
+          lore:
+          - ''
+          - '§7Material: §bGold'
+      '3':
+        type: WORKBENCH
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aWeapon Box
+          lore:
+          - ''
+          - §aUsed to craft Guns
+          - '§4§lWARNING:'
+          - When you craft a Gun youll get a random one
+      '4':
+        type: BONE
+        amount: 7
+      '5':
+        type: DIAMOND
+        amount: 16
+      '6':
+        type: CARROT_ITEM
+      '7':
+        type: GRILLED_PORK
+        amount: 64
+      '8':
+        type: GRILLED_PORK
+        amount: 10
+      '9':
+        type: BOW
+      '11':
+        type: PORK
+        amount: 10
+      '12':
+        type: FLINT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Handle
+      '13':
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Short)
+          lore:
+          - ''
+          - '§7Material: §bSteel'
+      '14':
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Normal)
+          lore:
+          - ''
+          - '§7Material: §bSteel'
+      '18':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+          - §cFlash Hider
+      '19':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7UMP-45
+          lore:
+          - ''
+          - '§7Type: §bAssault Rifle'
+          - '§7Ammo: §b0 | 0 / 320'
+          - '§7Damage: §b5.0'
+          - '§7Speed: §b3.0'
+          - '§7Clip Size: §b24'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '20':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-200 Intervention
+          lore:
+          - ''
+          - '§7Type: §bSniper Rifle'
+          - '§7Ammo: §b0 | 0 / 128'
+          - '§7Damage: §b20.0'
+          - '§7Speed: §b6.0'
+          - '§7Clip Size: §b1'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+          - §cGrip
+      '23':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Spas-12
+          lore:
+          - ''
+          - '§7Type: §bShotgun'
+          - '§7Ammo: §b3 | 4 / 256'
+          - '§7Damage: §b5.0'
+          - '§7Speed: §b4.0'
+          - '§7Clip Size: §b3'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '27':
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rMagnesium Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 5
+      '28':
+        type: BUCKET
+      '30':
+        type: GRILLED_PORK
+        amount: 62
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FALL: 4
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '46':
+    Time: 1459469875987
+    Exp: 71919
+    Health: 110.0
+    MaxHealth: 110.0
+    Saturation: 13.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: JUMP
+        Duration: 180
+        Amplifier: 0
+    Location:
+      world: world
+      x: -3902.5830789624524
+      y: 69.0
+      z: -11751.856437212058
+      pitch: 20.100027
+      yaw: 193.2876
+    Items:
+      '0':
+        type: EMERALD
+        amount: 6
+      '1':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Long)
+          lore:
+          - ''
+          - '§7Material: §bGold'
+      '3':
+        type: WORKBENCH
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aWeapon Box
+          lore:
+          - ''
+          - §aUsed to craft Guns
+          - '§4§lWARNING:'
+          - When you craft a Gun youll get a random one
+      '4':
+        type: BONE
+        amount: 7
+      '5':
+        type: DIAMOND
+        amount: 16
+      '6':
+        type: CARROT_ITEM
+      '7':
+        type: GRILLED_PORK
+        amount: 64
+      '8':
+        type: GRILLED_PORK
+        amount: 10
+      '9':
+        type: BOW
+      '11':
+        type: PORK
+        amount: 10
+      '12':
+        type: FLINT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Handle
+      '13':
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Short)
+          lore:
+          - ''
+          - '§7Material: §bSteel'
+      '14':
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Gun Barrel §8(Normal)
+          lore:
+          - ''
+          - '§7Material: §bSteel'
+      '18':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-9
+          lore:
+          - ''
+          - '§7Type: §bPistol'
+          - '§7Ammo: §b0 | 0 / 192'
+          - '§7Damage: §b4.5'
+          - '§7Speed: §b2.0'
+          - '§7Clip Size: §b8'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+          - §cFlash Hider
+      '19':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7UMP-45
+          lore:
+          - ''
+          - '§7Type: §bAssault Rifle'
+          - '§7Ammo: §b0 | 0 / 320'
+          - '§7Damage: §b5.0'
+          - '§7Speed: §b3.0'
+          - '§7Clip Size: §b24'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '20':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7M-200 Intervention
+          lore:
+          - ''
+          - '§7Type: §bSniper Rifle'
+          - '§7Ammo: §b0 | 0 / 128'
+          - '§7Damage: §b20.0'
+          - '§7Speed: §b6.0'
+          - '§7Clip Size: §b1'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+          - §cGrip
+      '23':
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Spas-12
+          lore:
+          - ''
+          - '§7Type: §bShotgun'
+          - '§7Ammo: §b3 | 4 / 256'
+          - '§7Damage: §b5.0'
+          - '§7Speed: §b4.0'
+          - '§7Clip Size: §b3'
+          - ''
+          - §2§oRight Click §ato fire
+          - §2§oLeft Click §ato zoom
+          - §2§oSneak + Right Click §ato load Ammo
+      '27':
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rMagnesium Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 5
+      '28':
+        type: BUCKET
+      '30':
+        type: GRILLED_PORK
+        amount: 62
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FALL: 4
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '47':
+    Time: 1459659265688
+    Exp: 72441
+    Health: 109.91999816894531
+    MaxHealth: 110.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: WEAKNESS
+        Duration: 109
+        Amplifier: 0
+      '2':
+        Name: JUMP
+        Duration: 218
+        Amplifier: 0
+    Location:
+      world: world
+      x: -3907.1910943487774
+      y: 51.0
+      z: -11746.128920801591
+      pitch: 17.249777
+      yaw: 8.635986
+    Items:
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FALL: 4
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 97
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 113
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 137
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '48':
+    Time: 1459766740202
+    Exp: 72441
+    Health: 109.91999816894531
+    MaxHealth: 110.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: WEAKNESS
+        Duration: 109
+        Amplifier: 0
+      '2':
+        Name: JUMP
+        Duration: 218
+        Amplifier: 0
+    Location:
+      world: world
+      x: -3907.1910943487774
+      y: 51.0
+      z: -11746.128920801591
+      pitch: 17.249777
+      yaw: 8.635986
+    Items:
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FALL: 4
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 97
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 113
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 137
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '49':
+    Time: 1459847491236
+    Exp: 72441
+    Health: 109.91999816894531
+    MaxHealth: 110.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: WEAKNESS
+        Duration: 109
+        Amplifier: 0
+      '2':
+        Name: JUMP
+        Duration: 218
+        Amplifier: 0
+    Location:
+      world: world
+      x: -3907.1910943487774
+      y: 51.0
+      z: -11746.128920801591
+      pitch: 17.249777
+      yaw: 8.635986
+    Items:
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FALL: 4
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 97
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 113
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 137
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '50':
+    Time: 1460146826274
+    Exp: 72441
+    Health: 109.91999816894531
+    MaxHealth: 110.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: WEAKNESS
+        Duration: 109
+        Amplifier: 0
+      '2':
+        Name: JUMP
+        Duration: 218
+        Amplifier: 0
+    Location:
+      world: world
+      x: -3907.1910943487774
+      y: 51.0
+      z: -11746.128920801591
+      pitch: 17.249777
+      yaw: 8.635986
+    Items:
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FALL: 4
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 97
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 113
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 137
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '51':
+    Time: 1460883173502
+    Exp: 72441
+    Health: 109.91999816894531
+    MaxHealth: 110.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: WEAKNESS
+        Duration: 109
+        Amplifier: 0
+      '2':
+        Name: JUMP
+        Duration: 218
+        Amplifier: 0
+    Location:
+      world: world
+      x: -3907.1910943487774
+      y: 51.0
+      z: -11746.128920801591
+      pitch: 17.249777
+      yaw: 8.635986
+    Items:
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FALL: 4
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 97
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 113
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 137
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '52':
+    Time: 1462120698252
+    Exp: 75044
+    Health: 110.0
+    MaxHealth: 110.0
+    Saturation: 1.2000008
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: JUMP
+        Duration: 127
+        Amplifier: 0
+    Location:
+      world: world
+      x: -3904.2126850775426
+      y: 70.0
+      z: -11767.938177316348
+      pitch: 14.958758
+      yaw: 215.89447
+    Items:
+      '1':
+        type: RAW_FISH
+        amount: 7
+      '2':
+        type: WOOD_SPADE
+        damage: 5
+      '3':
+        type: RAW_FISH
+        damage: 1
+      '4':
+        type: EGG
+        amount: 2
+      '9':
+        type: GOLD_NUGGET
+        amount: 44
+      '10':
+        type: BONE
+        amount: 58
+      '11':
+        type: COAL
+        amount: 43
+      '12':
+        type: ARROW
+        amount: 14
+      '13':
+        type: GOLDEN_APPLE
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Magical Apple
+      '14':
+        type: BOW
+        damage: 102
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '19':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Sword of Infinity
+          lore:
+          - §5Grants the user unwavering power!
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '22':
+        type: COOKED_BEEF
+        amount: 63
+      '27':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '28':
+        type: DIAMOND_SWORD
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '29':
+        type: GRILLED_PORK
+        amount: 2
+      '30':
+        type: GLASS_BOTTLE
+        amount: 3
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 33
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '53':
+    Time: 1462483222559
+    Exp: 75044
+    Health: 110.0
+    MaxHealth: 110.0
+    Saturation: 1.2000008
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: JUMP
+        Duration: 127
+        Amplifier: 0
+    Location:
+      world: world
+      x: -3904.2126850775426
+      y: 70.0
+      z: -11767.938177316348
+      pitch: 14.958758
+      yaw: 215.89447
+    Items:
+      '1':
+        type: RAW_FISH
+        amount: 7
+      '2':
+        type: WOOD_SPADE
+        damage: 5
+      '3':
+        type: RAW_FISH
+        damage: 1
+      '4':
+        type: EGG
+        amount: 2
+      '9':
+        type: GOLD_NUGGET
+        amount: 44
+      '10':
+        type: BONE
+        amount: 58
+      '11':
+        type: COAL
+        amount: 43
+      '12':
+        type: ARROW
+        amount: 14
+      '13':
+        type: GOLDEN_APPLE
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Magical Apple
+      '14':
+        type: BOW
+        damage: 102
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '19':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Sword of Infinity
+          lore:
+          - §5Grants the user unwavering power!
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '22':
+        type: COOKED_BEEF
+        amount: 63
+      '27':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '28':
+        type: DIAMOND_SWORD
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '29':
+        type: GRILLED_PORK
+        amount: 2
+      '30':
+        type: GLASS_BOTTLE
+        amount: 3
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 33
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

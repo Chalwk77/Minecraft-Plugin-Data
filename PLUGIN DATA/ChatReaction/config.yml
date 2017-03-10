@@ -1,0 +1,47 @@
+# ChatReaction version 1.6.2 configuration file
+debug: false
+check_updates: true
+reaction_stats:
+  track_stats: true
+  top_players_size: 50
+  hostname: 203.57.45.63
+  port: 3306
+  database: Chalwk
+  prefix: Reaction
+  username: Chalwk
+  password: hHM8dFpbaSGwhyKn
+reaction:
+  interval: 155
+  time_limit: 30
+  players_needed_to_start: 2
+  word_character_length: 10
+  ignore_case: false
+  use_custom_words: true
+  split_words_by_line: true
+  scramble_custom_words: true
+  scramble_at_random: true
+  scramble_spaces: true
+  disabled_worlds:
+  - world_nether
+  - world_the_end
+  reward_amount: 2
+  rewards:
+  - eco give @p 1500
+messages:
+  reaction_start:
+  - '&8[&e&lReaction&8] &bHover &7here &bto display the word!'
+  reaction_start_tooltip: '&f%word%'
+  scramble_start:
+  - '&8[&e&lUnscramble&8] &bHover &7here &bto display the word!'
+  scramble_start_tooltip: '&f%word%'
+  reaction_end:
+  - '&8[&e&lReaction&8] &cNobody got the word in time!'
+  - '&5* &cThe word was &f%word%'
+  scramble_end:
+  - '&8[&e&lUnscramble&8] &cNobody got the word in time!'
+  - '&5* &cThe word was &f%word%'
+  reaction_win:
+  - '&8[&e&lReaction&8] &f%player% &awon in &f%time% &aseconds! &cWord: &f(&7&c%word%&f)'
+  scramble_win:
+  - '&8[&e&lUnscramble&8] &f%player% &aunscrambled the word &f%word% &ain &f%time%
+    &aseconds!'

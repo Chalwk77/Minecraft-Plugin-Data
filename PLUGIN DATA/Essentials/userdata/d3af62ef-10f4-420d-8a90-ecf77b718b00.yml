@@ -1,0 +1,43 @@
+geolocation: New Zealand
+lastAccountName: flipper1020
+timestamps:
+  login: 1471713264860
+  logout: 1471713423588
+  lastteleport: 1471712825812
+  jail: 0
+ipAddress: 103.224.131.17
+lastlocation:
+  world: world
+  x: 9984.5
+  y: 219.0
+  z: 12670.5
+  yaw: 231.14717
+  pitch: 11.399922
+logoutlocation:
+  world: world
+  x: 9984.5
+  y: 219.0
+  z: 12670.5
+  yaw: 231.14717
+  pitch: 11.399922
+money: '2500'
+jailed: false
+homes:
+  room:
+    world: world
+    x: 556.9991210133717
+    y: 70.0
+    z: 497.72655851090803
+    yaw: -99.09247
+    pitch: 22.200012
+  home:
+    world: world
+    x: 556.9991210133717
+    y: 70.0
+    z: 497.72655851090803
+    yaw: -82.29248
+    pitch: 18.750011
+nickname: §bFlipper
+godmode: false
+afk: false
+teleportenabled: false

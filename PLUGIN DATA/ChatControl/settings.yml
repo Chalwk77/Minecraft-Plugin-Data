@@ -1,0 +1,439 @@
+# !---------------------------------------------------------!
+# ! File automatically updated at 17.11.2016 16:20:55
+# ! to plugin version v7.0.29
+# !---------------------------------------------------------!
+# ! Unfortunatelly due to how Bukkit handles YAML
+# ! configurations, all comments (#) were wiped. 
+# ! For reference values and comments open
+# ! settings.yml in the plugin JAR file.
+# !---------------------------------------------------------!
+
+Anti_Bot:
+  Rejoin_Delay_Seconds: 0
+  Block_Chat_Until_Moved: false
+  Block_Commands_Until_Moved:
+  - /afk
+  - /me
+  Show_Quit_Message_Only_If_Logged: true
+  Disallowed_Nicknames:
+  - (f+(\W|\d|_)*u+(\W|\d|_)*c+(\W|\d|_)*k+(\W|\d|_)*)
+  - bitch
+  - dick_in_butt
+  - asshole
+Anti_Caps:
+  Enabled: false
+  Enabled_In_Commands: false
+  Warn_Player: true
+  Commands_To_Apply:
+  - /msg
+  - /me
+  - /pm
+  - /t
+  - /w
+  - /r
+  - /w
+  - /r
+  - /m
+  - /t
+  - /whisper
+  - /emsg
+  - /tell
+  - /er
+  - /reply
+  - /ereply
+  - /etell
+  - /ewhisper
+  - /pm
+  Points:
+    Warn_Set: spam
+    Amount: 4 * ({capsPercentage} / 2)
+  Ignore_Usernames: false
+  Min_Message_Length: 5
+  Min_Caps_Percentage: 50
+  Min_Caps_In_A_Row: 5
+  Whitelist:
+  - OMG
+  - LOL
+  - WTF
+  - WOW
+  - ROFL
+Anti_Spam:
+  Similarity_Check:
+    Ignore_Special_Characters: false
+    Ignore_Duplicate_Characters: false
+    Ignore_First_Arguments_In_Commands: true
+  Commands:
+    Delay_Between_Commands: 0
+    Delay_Points:
+      Warn_Set: fastmessages
+      Amount: 3 - {delay}
+    Similar_Percentage_Block: 0
+    Similarity_Points:
+      Warn_Set: spam
+      Amount: 4 * ({similarityPercentage} / 2)
+    Whitelist_Works_Like_Blacklist: false
+    Whitelist_Similarity:
+    - msg
+    - me
+    - pm
+    - t
+    - w
+    - r
+    - w
+    - r
+    - m
+    - t
+    - whisper
+    - emsg
+    - tell
+    - er
+    - reply
+    - ereply
+    - etell
+    - ewhisper
+    - pm
+    Whitelist_Delay:
+    - spawn
+    Handle_As_Chat:
+    - me
+  Chat:
+    Delay_Between_Messages: 2
+    Delay_Points:
+      Warn_Set: fastmessages
+      Amount: 3 - {delay}
+    Similar_Percentage_Block: 0
+    Similarity_Message_Check_Count: 0
+    Similarity_Points:
+      Warn_Set: spam
+      Amount: 4 * ({similarityPercentage} / 2)
+    Regex_In_Whitelist: false
+    Whitelist_Similarity:
+    - hello
+    - hey
+    Whitelist_Delay:
+    - test
+Chat:
+  Channels:
+    Enabled: false
+    Join_Channels_By_Permission:
+      standard: chatcontrol.channel.standard
+    Notify_On_Join: true
+    Cancel_Event: false
+    Console_Format: '&8[{channel}] &7{message}'
+  Formatter:
+    Enabled: false
+    Interactive:
+      Enabled: false
+      Force_Console_Log: false
+      Format: Example_Format
+      Global_Format: Global_Chat
+      Admin_Chat_Format: Admin_Chat
+      Bungee_Chat_Format: Bungee_Chat
+    Static:
+      Message_Format: '{pl_prefix}{player}:{pl_suffix} {message}'
+      Global_Message_Format: '&8[GLOBAL]&f {pl_prefix}{player}:{pl_suffix} {message}'
+      Spy_Message_Format: '&8SPY: [{world}&8]&f {pl_prefix}{player}:{pl_suffix} {message}'
+      Admin_Chat_Format: '&8[&2A-Chat {player}&8]&2 {message}'
+      Bungee_Chat_Format: '&8[&fG&8] {player} &7>&f {message}'
+    Range:
+      Enabled: false
+      Distance: 100.0
+      Linked_Worlds:
+        normal:
+        - world
+        - world_nether
+        skyland:
+        - skyland
+        - skyland_nether
+  Grammar:
+    Insert_Dot:
+      Enabled: false
+      Min_Message_Length: 5
+    Capitalize:
+      Enabled: false
+      Min_Message_Length: 5
+Clear:
+  Broadcast: true
+  Do_Not_Clear_For_Staff: true
+  Console_Lines_To_Clear: 300
+Mute:
+  Broadcast: true
+  Prevent:
+    Writing_Books: true
+    Placing_Signs: true
+  Silence:
+    Join_Messages: true
+    Quit_Messages: true
+    Kick_Messages: true
+    Death_Messages: true
+  Disabled_Commands_During_Mute:
+  - me
+  - msg
+  - me
+  - pm
+  - t
+  - w
+  - r
+  - w
+  - r
+  - m
+  - t
+  - whisper
+  - emsg
+  - tell
+  - er
+  - reply
+  - ereply
+  - etell
+  - ewhisper
+  - pm
+  - auction
+Announcer:
+  Log_To_Console: true
+  Ignore_Self: false
+  Bungee: true
+  Sound: ENTITY_ARROW_HIT_PLAYER, 1.0, 0.1
+Admin_Chat:
+  Log_To_Console: true
+  Write_To_File: true
+Bungee_Chat:
+  Enabled_By_Default: false
+  Log_To_Console: true
+  Write_To_File: true
+Private_Messages:
+  Enabled: false
+  Bungee: false
+  Aliases:
+    msg:
+    - m
+    Tell:
+    - msg
+    - t
+    - whisper
+    Reply:
+    - r
+  Static_Format_Sender: '&8[&6you &8-> &6{player}&8] &7{message}'
+  Static_Format_Receiver: '&8[&6{player} &8-> &6you&8] &7{message}'
+  Format_Sender: Private_Message_Sender
+  Format_Receiver: Private_Message_Receiver
+Packets:
+  Enabled: true
+  Tab_Complete:
+    Disable: true
+    Disable_Only_In_Commands: true
+    Allow_When_Message_Has_Space: false
+    Allow_When_Length_Above: 0
+Rules:
+  Check_Chat: true
+  Check_Commands: true
+  Signs:
+    Check: true
+    Both_Directions: true
+  Books:
+    Check: true
+    Replace_Title: true
+    Replace_Pages: true
+  Items:
+    Check_Anvil: true
+    Replace_Name: true
+  Packets:
+    Check: true
+    Deserialize_Json: true
+  Chat_Ignorer:
+    Enabled: false
+    Sets:
+      exampleSet:
+        Ignored_By_Default: false
+Console:
+  Filter:
+    Enabled: false
+    Log: true
+    Filter_Console_Messages:
+    - Reached end of stream for
+    - Connection reset
+Signs:
+  Duplication:
+    Deny_Signs_With_Same_Text: false
+    Alert_Staff: true
+    Block_When_Violates_A_Rule: true
+    Drop_Sign: true
+Sound_Notify:
+  Enabled: true
+  Cooldown_Seconds: 0
+  Notify_Only_When_Afk: false
+  Notify_Only_If_Prefixed_With: none
+  Sound: BLOCK_NOTE_PLING, 15F, 5F
+  Color: none
+  Enabled_In_Commands:
+  - me
+  - msg
+  - me
+  - pm
+  - t
+  - w
+  - r
+  - w
+  - r
+  - m
+  - t
+  - whisper
+  - emsg
+  - tell
+  - er
+  - reply
+  - ereply
+  - etell
+  - ewhisper
+  - pm
+Groups:
+  Enabled: false
+  Always_Check_Updates: false
+  Group_List:
+    trusted:
+      Message_Delay: 0
+    guest:
+      Message_Delay: 4
+      Command_Delay: 6
+Points:
+  Enabled: true
+  Repeat_Last_Action: true
+  Smart_Warnings: true
+  Reset_Task:
+    Repeat_Every_Seconds: 20
+    Remove_Points_Amount:
+      global: 5
+      spam: 1
+  Warn_Sets:
+    global:
+      '5':
+      - warn &7Please obey the &2rules &7otherwise you will be &4punished&7.
+      '15':
+      - |-
+        warn &c**** &lHey &c{player} ****
+         &7-> &cThis is your &6final &cwarning!
+      '30':
+      - kick {player} &cKicked for breaking the rules
+    swear:
+      '4':
+      - warn &cYou have received first warning for swearing.
+      '6':
+      - warn &cPlease do not swear, otherwise an action will be taken!
+      '8':
+      - kick {player} &cInappropriate language (last warning)
+      '20':
+      - tempban {player} 30m autoban for swearing
+    AnvilAlert:
+      '4':
+      - warn &cYou have received first warning for swearing.
+      '6':
+      - warn &cPlease do not swear, otherwise an action will be taken!
+      '8':
+      - kick {player} &cInappropriate language (last warning)
+      '20':
+      - tempban {player} 30m autoban for swearing
+    spam:
+      '6':
+      - warn &cPlease do not act like spammer.
+      '10':
+      - warn &cPlease do not spam, otherwise you will be banned.
+      '12':
+      - kick {player} &cSpamming the chat (last warning)
+      '26':
+      - tempban {player} 10m autoban for chat spam
+    fastmessages:
+      '6':
+      - warn &cPlease slow down chat messages.
+      '10':
+      - warn &cSlow down chat, otherwise you will be banned.
+      '14':
+      - kick {player} &cSlow down chat (last warning)
+      '30':
+      - tempban {player} 10m autoban for chat spam
+Variables:
+  Custom_Enabled: false
+  Vault:
+    Multi_Prefix: false
+    Multi_Suffix: false
+  Apply_Custom_On:
+    Chat_Formatter: true
+    Player_Messages: true
+    Death_Messages: false
+    Motd: true
+    Rules: true
+    Timed_Messages: true
+Writer:
+  Write_Chat_Communication: true
+  Ignore_Players:
+  - ignoredAdmin
+  Write_Commands:
+  - me
+  - msg
+  - m
+  - tell
+  - t
+  - reply
+  - r
+  - mail
+Motd:
+  Enabled: true
+  Delay_Ticks: 3
+  Sound: ENTITY_FIREWORK_LAUNCH, 2F, 0.3F
+  Message:
+  - '&8&l*****************************************************'
+  - '&4&l** ATTENTION **'
+  - '&cJeriCraft will be closing down on December 23rd.'
+  - '&cFor more information, please visit https://goo.gl/z6XwV9'
+  - ' '
+  - '&8&l*****************************************************'
+Spy:
+  Prefix: '&8&o[&4&oSpying {player}&8&o] &7'
+  Bungee: false
+  Command_List:
+  - /tell
+  - /msg
+  - /t
+  - /whisper
+  - /r
+  - /reply
+  Command_List_Works_Like_Blacklist: false
+BungeeCords:
+  Enabled: false
+  Enabled_In:
+    Rule_Alerts: true
+    Handler_Alerts: true
+    Admin_Chat: true
+  Prefix: '&5[Bungee/{server_name}] &7'
+MySQL:
+  Enabled: false
+  Table_Prefix: ChatControl_
+  Enabled_In:
+    Channels: true
+  Connection:
+    Host: ''
+    Database: ''
+    User: ''
+    Password: ''
+    Port: '3306'
+Updater:
+  Enabled: true
+  Notify: true
+Listener_Priority:
+  Formatter: NORMAL
+  Checker: NORMAL
+Debugger:
+  Global: false
+  Log_To_Console: true
+  Save_To_File: true
+  Enabled_In: []
+Minimum_Players_To_Enable_Checks: 0
+Translate_Diacritical_Marks: true
+Regex_Timeout_Milis: 100
+Locale: en
+Log_Lag_Over_Milis: 100
+Verbose_Rules: true
+Silent_Startup: false
+Regex_Strip_Colors: true
+Reset_Cache_On_Quit: false
+Enforce_New_Line: false
+Server_Name: default
+Version: 16

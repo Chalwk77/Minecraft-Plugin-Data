@@ -1,0 +1,133 @@
+geolocation: Sydney, New South Wales, Australia
+lastAccountName: O92
+timestamps:
+  login: 1481422590784
+  lastteleport: 1481422645116
+  logout: 1481422679739
+  kits:
+    wool: 1466581649717
+    mod: 1460963062850
+    ande: 1461831869577
+    color: 1462269674048
+    pw: 1468537855459
+    rules: 1460962705114
+    mobeggs: 1460592876809
+    dtools: 1467369667074
+    tools: 1457990732452
+    pvpsword1: 1461831943772
+    ultra: 1465018464757
+    mccharacter: 1461563311057
+    sfdrinks: 1463897095876
+    elite: 1461999843011
+    donor: 1466376485742
+    sking_arena: 1467585650943
+    wood: 1468213248471
+    overlord: 1468052876971
+    eggs: 1465093927400
+    citizen: 1468218654579
+    sk_kit: 1460885453446
+    glass: 1462169494525
+    ore: 1466719033962
+    test: 1464501979716
+    banner: 1466228381246
+    quartz: 1467599167793
+    transport: 1467682821928
+    food: 1468220647624
+    boat: 1467504789904
+    firework: 1464501124446
+    wekit: 1461999785388
+    iron: 1469082492709
+    redstone: 1462315247957
+  lastheal: 1464247182451
+  jail: 0
+ipAddress: 122.106.246.2
+lastlocation:
+  world: world
+  x: 1059.7313232580402
+  y: 74.0010598645085
+  z: -617.4033635891282
+  yaw: -326.9535
+  pitch: 8.027611
+money: '40142.810599999999851824'
+afk: false
+homes:
+  a:
+    world: world
+    x: 1075.886579355862
+    y: 57.0
+    z: -636.1355968642378
+    yaw: -183.18382
+    pitch: 4.9556074
+  home:
+    world: world
+    x: -2070.7890009133057
+    y: 118.0
+    z: -1225.4954579910707
+    yaw: 92.85129
+    pitch: 4.598387
+  base:
+    world: world
+    x: -570.5104574847417
+    y: 63.0
+    z: -5496.3529096978855
+    yaw: -266.1519
+    pitch: 3.3696003
+  sphere:
+    world: world
+    x: -1845.148252563078
+    y: 101.0
+    z: 2166.0101556708723
+    yaw: -187.03474
+    pitch: -8.304027
+  air:
+    world: world
+    x: -2041.1304978858861
+    y: 223.0
+    z: -1135.7257469455633
+    yaw: 87.398964
+    pitch: 72.7968
+  farm:
+    world: world
+    x: -9323.667371757909
+    y: 67.0
+    z: 18195.026087996077
+    yaw: -315.7633
+    pitch: 49.44963
+  netherbase:
+    world: world_nether
+    x: -28.10078883378075
+    y: 128.0
+    z: 443.65071892778616
+    yaw: 2.539297
+    pitch: 6.723559
+  ziggy:
+    world: world
+    x: 7498.868637735647
+    y: 77.0
+    z: -5399.070470832988
+    yaw: 2.5949707
+    pitch: 19.216116
+  gfarm:
+    world: world
+    x: -7363.706348131734
+    y: 83.0
+    z: 15316.494035224165
+    yaw: -133.52075
+    pitch: 78.96002
+  tremlantis:
+    world: world
+    x: 7271.81030467761
+    y: 40.0
+    z: -4850.574914253749
+    yaw: 4.343975
+    pitch: 1.759159
+logoutlocation:
+  world: world
+  x: -2035.556395632018
+  y: 97.37429331309657
+  z: -1076.317652408872
+  yaw: -142.46397
+  pitch: 5.827175
+godmode: false
+jailed: false
+teleportenabled: false

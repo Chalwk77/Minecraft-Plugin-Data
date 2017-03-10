@@ -1,0 +1,25 @@
+lastlocation:
+  world: world
+  x: 608.2669870760539
+  y: 64.0
+  z: -704.0220353027856
+  yaw: 342.36316
+  pitch: 26.638882
+geolocation: Oakville, Ontario, Canada
+lastAccountName: johnhenry3
+timestamps:
+  login: 1473578951203
+  lastteleport: 1473578989178
+  kits:
+    citizen: 1472971515388
+    color: 1472972491843
+  logout: 1473579056059
+ipAddress: 70.48.32.217
+money: '7662.7239999999999995'
+logoutlocation:
+  world: world
+  x: 969.5
+  y: 139.0
+  z: 2589.5
+  yaw: 290.7641
+  pitch: 82.94433

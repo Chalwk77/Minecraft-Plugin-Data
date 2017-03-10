@@ -1,0 +1,23 @@
+lastlocation:
+  world: world
+  x: 416.44039386538975
+  y: 92.00133597911214
+  z: -106.31784405271038
+  yaw: 11.800476
+  pitch: 38.549965
+lastAccountName: HannahGrandy
+timestamps:
+  login: 1475039717230
+  logout: 1475039753524
+  lastteleport: 1470122995237
+ipAddress: 124.191.97.105
+geolocation: Hoppers Crossing, Victoria, Australia
+logoutlocation:
+  world: world
+  x: 474.85338215575194
+  y: 89.0
+  z: -189.13694659973422
+  yaw: 204.70035
+  pitch: 7.0499883
+money: '2500'
+afk: false

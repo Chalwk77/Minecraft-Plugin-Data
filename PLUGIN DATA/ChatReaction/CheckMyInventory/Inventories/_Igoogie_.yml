@@ -1,0 +1,2206 @@
+Inventories:
+  '25':
+    Time: 1458455365427
+    Exp: 2582
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9895033
+        Amplifier: 1
+    Location:
+      world: MiniGames
+      x: 17.294397242451847
+      y: 20.0
+      z: -923.46081089681
+      pitch: -6.1150475
+      yaw: -281.96954
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: IRON_PICKAXE
+        damage: 232
+      '2':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '3':
+        type: SLIME_BLOCK
+        amount: 64
+      '4':
+        type: COOKIE
+      '5':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: GRAVEL
+      '7':
+        type: COBBLESTONE
+        amount: 58
+      '8':
+        type: DIRT
+        amount: 6
+      '9':
+        type: POTION
+        damage: 16307
+      '10':
+        type: STICK
+        amount: 11
+      '11':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '12':
+        type: WOOL
+        amount: 12
+      '13':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '14':
+        type: GRILLED_PORK
+        amount: 13
+      '15':
+        type: ARROW
+        amount: 2
+      '16':
+        type: BONE
+        amount: 8
+      '17':
+        type: COOKED_CHICKEN
+        amount: 4
+      '18':
+        type: ROTTEN_FLESH
+        amount: 16
+      '19':
+        type: CARROT_ITEM
+      '20':
+        type: IRON_PICKAXE
+        damage: 177
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Pickaxe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '22':
+        type: SLIME_BLOCK
+        amount: 29
+      '25':
+        type: PORK
+        amount: 6
+      '27':
+        type: BREAD
+        amount: 3
+      '28':
+        type: RAILS
+        amount: 8
+      '29':
+        type: GLASS_BOTTLE
+        amount: 6
+      '32':
+        type: PUMPKIN_SEEDS
+        amount: 4
+      '33':
+        type: RAW_BEEF
+        amount: 2
+      '34':
+        type: IRON_AXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Axe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '35':
+        type: GRAVEL
+        amount: 64
+  '26':
+    Time: 1459465467802
+    Exp: 2582
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9892734
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476720.5
+      y: 23.0
+      z: 443097.5
+      pitch: -56.39999
+      yaw: 227.95514
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: IRON_PICKAXE
+        damage: 232
+      '2':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '3':
+        type: SLIME_BLOCK
+        amount: 64
+      '4':
+        type: COOKIE
+      '5':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: GRAVEL
+      '7':
+        type: COBBLESTONE
+        amount: 58
+      '8':
+        type: DIRT
+        amount: 6
+      '9':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '10':
+        type: STICK
+        amount: 11
+      '11':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '12':
+        type: WOOL
+        amount: 12
+      '13':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '14':
+        type: GRILLED_PORK
+        amount: 13
+      '15':
+        type: ARROW
+        amount: 2
+      '16':
+        type: BONE
+        amount: 8
+      '17':
+        type: COOKED_CHICKEN
+        amount: 4
+      '18':
+        type: ROTTEN_FLESH
+        amount: 16
+      '19':
+        type: CARROT_ITEM
+      '20':
+        type: IRON_PICKAXE
+        damage: 177
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Pickaxe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '22':
+        type: SLIME_BLOCK
+        amount: 29
+      '25':
+        type: PORK
+        amount: 6
+      '27':
+        type: BREAD
+        amount: 3
+      '28':
+        type: RAILS
+        amount: 8
+      '29':
+        type: GLASS_BOTTLE
+        amount: 6
+      '32':
+        type: PUMPKIN_SEEDS
+        amount: 4
+      '33':
+        type: RAW_BEEF
+        amount: 2
+      '34':
+        type: IRON_AXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Axe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '35':
+        type: GRAVEL
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 57
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '27':
+    Time: 1459469876138
+    Exp: 2582
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9892734
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476720.5
+      y: 23.0
+      z: 443097.5
+      pitch: -56.39999
+      yaw: 227.95514
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: IRON_PICKAXE
+        damage: 232
+      '2':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '3':
+        type: SLIME_BLOCK
+        amount: 64
+      '4':
+        type: COOKIE
+      '5':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: GRAVEL
+      '7':
+        type: COBBLESTONE
+        amount: 58
+      '8':
+        type: DIRT
+        amount: 6
+      '9':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '10':
+        type: STICK
+        amount: 11
+      '11':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '12':
+        type: WOOL
+        amount: 12
+      '13':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '14':
+        type: GRILLED_PORK
+        amount: 13
+      '15':
+        type: ARROW
+        amount: 2
+      '16':
+        type: BONE
+        amount: 8
+      '17':
+        type: COOKED_CHICKEN
+        amount: 4
+      '18':
+        type: ROTTEN_FLESH
+        amount: 16
+      '19':
+        type: CARROT_ITEM
+      '20':
+        type: IRON_PICKAXE
+        damage: 177
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Pickaxe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '22':
+        type: SLIME_BLOCK
+        amount: 29
+      '25':
+        type: PORK
+        amount: 6
+      '27':
+        type: BREAD
+        amount: 3
+      '28':
+        type: RAILS
+        amount: 8
+      '29':
+        type: GLASS_BOTTLE
+        amount: 6
+      '32':
+        type: PUMPKIN_SEEDS
+        amount: 4
+      '33':
+        type: RAW_BEEF
+        amount: 2
+      '34':
+        type: IRON_AXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Axe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '35':
+        type: GRAVEL
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 57
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '28':
+    Time: 1459659265823
+    Exp: 2582
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9892734
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476720.5
+      y: 23.0
+      z: 443097.5
+      pitch: -56.39999
+      yaw: 227.95514
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: IRON_PICKAXE
+        damage: 232
+      '2':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '3':
+        type: SLIME_BLOCK
+        amount: 64
+      '4':
+        type: COOKIE
+      '5':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: GRAVEL
+      '7':
+        type: COBBLESTONE
+        amount: 58
+      '8':
+        type: DIRT
+        amount: 6
+      '9':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '10':
+        type: STICK
+        amount: 11
+      '11':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '12':
+        type: WOOL
+        amount: 12
+      '13':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '14':
+        type: GRILLED_PORK
+        amount: 13
+      '15':
+        type: ARROW
+        amount: 2
+      '16':
+        type: BONE
+        amount: 8
+      '17':
+        type: COOKED_CHICKEN
+        amount: 4
+      '18':
+        type: ROTTEN_FLESH
+        amount: 16
+      '19':
+        type: CARROT_ITEM
+      '20':
+        type: IRON_PICKAXE
+        damage: 177
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Pickaxe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '22':
+        type: SLIME_BLOCK
+        amount: 29
+      '25':
+        type: PORK
+        amount: 6
+      '27':
+        type: BREAD
+        amount: 3
+      '28':
+        type: RAILS
+        amount: 8
+      '29':
+        type: GLASS_BOTTLE
+        amount: 6
+      '32':
+        type: PUMPKIN_SEEDS
+        amount: 4
+      '33':
+        type: RAW_BEEF
+        amount: 2
+      '34':
+        type: IRON_AXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Axe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '35':
+        type: GRAVEL
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 57
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '29':
+    Time: 1459766740374
+    Exp: 2582
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9892734
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476720.5
+      y: 23.0
+      z: 443097.5
+      pitch: -56.39999
+      yaw: 227.95514
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: IRON_PICKAXE
+        damage: 232
+      '2':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '3':
+        type: SLIME_BLOCK
+        amount: 64
+      '4':
+        type: COOKIE
+      '5':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: GRAVEL
+      '7':
+        type: COBBLESTONE
+        amount: 58
+      '8':
+        type: DIRT
+        amount: 6
+      '9':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '10':
+        type: STICK
+        amount: 11
+      '11':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '12':
+        type: WOOL
+        amount: 12
+      '13':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '14':
+        type: GRILLED_PORK
+        amount: 13
+      '15':
+        type: ARROW
+        amount: 2
+      '16':
+        type: BONE
+        amount: 8
+      '17':
+        type: COOKED_CHICKEN
+        amount: 4
+      '18':
+        type: ROTTEN_FLESH
+        amount: 16
+      '19':
+        type: CARROT_ITEM
+      '20':
+        type: IRON_PICKAXE
+        damage: 177
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Pickaxe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '22':
+        type: SLIME_BLOCK
+        amount: 29
+      '25':
+        type: PORK
+        amount: 6
+      '27':
+        type: BREAD
+        amount: 3
+      '28':
+        type: RAILS
+        amount: 8
+      '29':
+        type: GLASS_BOTTLE
+        amount: 6
+      '32':
+        type: PUMPKIN_SEEDS
+        amount: 4
+      '33':
+        type: RAW_BEEF
+        amount: 2
+      '34':
+        type: IRON_AXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Axe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '35':
+        type: GRAVEL
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 57
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '30':
+    Time: 1459847491452
+    Exp: 2582
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9892734
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476720.5
+      y: 23.0
+      z: 443097.5
+      pitch: -56.39999
+      yaw: 227.95514
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: IRON_PICKAXE
+        damage: 232
+      '2':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '3':
+        type: SLIME_BLOCK
+        amount: 64
+      '4':
+        type: COOKIE
+      '5':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: GRAVEL
+      '7':
+        type: COBBLESTONE
+        amount: 58
+      '8':
+        type: DIRT
+        amount: 6
+      '9':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '10':
+        type: STICK
+        amount: 11
+      '11':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '12':
+        type: WOOL
+        amount: 12
+      '13':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '14':
+        type: GRILLED_PORK
+        amount: 13
+      '15':
+        type: ARROW
+        amount: 2
+      '16':
+        type: BONE
+        amount: 8
+      '17':
+        type: COOKED_CHICKEN
+        amount: 4
+      '18':
+        type: ROTTEN_FLESH
+        amount: 16
+      '19':
+        type: CARROT_ITEM
+      '20':
+        type: IRON_PICKAXE
+        damage: 177
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Pickaxe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '22':
+        type: SLIME_BLOCK
+        amount: 29
+      '25':
+        type: PORK
+        amount: 6
+      '27':
+        type: BREAD
+        amount: 3
+      '28':
+        type: RAILS
+        amount: 8
+      '29':
+        type: GLASS_BOTTLE
+        amount: 6
+      '32':
+        type: PUMPKIN_SEEDS
+        amount: 4
+      '33':
+        type: RAW_BEEF
+        amount: 2
+      '34':
+        type: IRON_AXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Axe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '35':
+        type: GRAVEL
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 57
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '31':
+    Time: 1460146826425
+    Exp: 2582
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9892734
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476720.5
+      y: 23.0
+      z: 443097.5
+      pitch: -56.39999
+      yaw: 227.95514
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: IRON_PICKAXE
+        damage: 232
+      '2':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '3':
+        type: SLIME_BLOCK
+        amount: 64
+      '4':
+        type: COOKIE
+      '5':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: GRAVEL
+      '7':
+        type: COBBLESTONE
+        amount: 58
+      '8':
+        type: DIRT
+        amount: 6
+      '9':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '10':
+        type: STICK
+        amount: 11
+      '11':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '12':
+        type: WOOL
+        amount: 12
+      '13':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '14':
+        type: GRILLED_PORK
+        amount: 13
+      '15':
+        type: ARROW
+        amount: 2
+      '16':
+        type: BONE
+        amount: 8
+      '17':
+        type: COOKED_CHICKEN
+        amount: 4
+      '18':
+        type: ROTTEN_FLESH
+        amount: 16
+      '19':
+        type: CARROT_ITEM
+      '20':
+        type: IRON_PICKAXE
+        damage: 177
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Pickaxe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '22':
+        type: SLIME_BLOCK
+        amount: 29
+      '25':
+        type: PORK
+        amount: 6
+      '27':
+        type: BREAD
+        amount: 3
+      '28':
+        type: RAILS
+        amount: 8
+      '29':
+        type: GLASS_BOTTLE
+        amount: 6
+      '32':
+        type: PUMPKIN_SEEDS
+        amount: 4
+      '33':
+        type: RAW_BEEF
+        amount: 2
+      '34':
+        type: IRON_AXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Axe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '35':
+        type: GRAVEL
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 57
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '32':
+    Time: 1460883173693
+    Exp: 2582
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9892734
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476720.5
+      y: 23.0
+      z: 443097.5
+      pitch: -56.39999
+      yaw: 227.95514
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: IRON_PICKAXE
+        damage: 232
+      '2':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '3':
+        type: SLIME_BLOCK
+        amount: 64
+      '4':
+        type: COOKIE
+      '5':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: GRAVEL
+      '7':
+        type: COBBLESTONE
+        amount: 58
+      '8':
+        type: DIRT
+        amount: 6
+      '9':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '10':
+        type: STICK
+        amount: 11
+      '11':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '12':
+        type: WOOL
+        amount: 12
+      '13':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '14':
+        type: GRILLED_PORK
+        amount: 13
+      '15':
+        type: ARROW
+        amount: 2
+      '16':
+        type: BONE
+        amount: 8
+      '17':
+        type: COOKED_CHICKEN
+        amount: 4
+      '18':
+        type: ROTTEN_FLESH
+        amount: 16
+      '19':
+        type: CARROT_ITEM
+      '20':
+        type: IRON_PICKAXE
+        damage: 177
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Pickaxe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '22':
+        type: SLIME_BLOCK
+        amount: 29
+      '25':
+        type: PORK
+        amount: 6
+      '27':
+        type: BREAD
+        amount: 3
+      '28':
+        type: RAILS
+        amount: 8
+      '29':
+        type: GLASS_BOTTLE
+        amount: 6
+      '32':
+        type: PUMPKIN_SEEDS
+        amount: 4
+      '33':
+        type: RAW_BEEF
+        amount: 2
+      '34':
+        type: IRON_AXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Axe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '35':
+        type: GRAVEL
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 57
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '33':
+    Time: 1462120698419
+    Exp: 2582
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9892734
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476720.5
+      y: 23.0
+      z: 443097.5
+      pitch: -56.39999
+      yaw: 227.95514
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: IRON_PICKAXE
+        damage: 232
+      '2':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '3':
+        type: SLIME_BLOCK
+        amount: 64
+      '4':
+        type: COOKIE
+      '5':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: GRAVEL
+      '7':
+        type: COBBLESTONE
+        amount: 58
+      '8':
+        type: DIRT
+        amount: 6
+      '9':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '10':
+        type: STICK
+        amount: 11
+      '11':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '12':
+        type: WOOL
+        amount: 12
+      '13':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '14':
+        type: GRILLED_PORK
+        amount: 13
+      '15':
+        type: ARROW
+        amount: 2
+      '16':
+        type: BONE
+        amount: 8
+      '17':
+        type: COOKED_CHICKEN
+        amount: 4
+      '18':
+        type: ROTTEN_FLESH
+        amount: 16
+      '19':
+        type: CARROT_ITEM
+      '20':
+        type: IRON_PICKAXE
+        damage: 177
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Pickaxe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '22':
+        type: SLIME_BLOCK
+        amount: 29
+      '25':
+        type: PORK
+        amount: 6
+      '27':
+        type: BREAD
+        amount: 3
+      '28':
+        type: RAILS
+        amount: 8
+      '29':
+        type: GLASS_BOTTLE
+        amount: 6
+      '32':
+        type: PUMPKIN_SEEDS
+        amount: 4
+      '33':
+        type: RAW_BEEF
+        amount: 2
+      '34':
+        type: IRON_AXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Axe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '35':
+        type: GRAVEL
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 57
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '34':
+    Time: 1462483222768
+    Exp: 2582
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9892734
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476720.5
+      y: 23.0
+      z: 443097.5
+      pitch: -56.39999
+      yaw: 227.95514
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: IRON_PICKAXE
+        damage: 232
+      '2':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '3':
+        type: SLIME_BLOCK
+        amount: 64
+      '4':
+        type: COOKIE
+      '5':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: GRAVEL
+      '7':
+        type: COBBLESTONE
+        amount: 58
+      '8':
+        type: DIRT
+        amount: 6
+      '9':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '10':
+        type: STICK
+        amount: 11
+      '11':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '12':
+        type: WOOL
+        amount: 12
+      '13':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Basic Bow
+          enchants:
+            ARROW_INFINITE: 1
+          Unbreakable: true
+      '14':
+        type: GRILLED_PORK
+        amount: 13
+      '15':
+        type: ARROW
+        amount: 2
+      '16':
+        type: BONE
+        amount: 8
+      '17':
+        type: COOKED_CHICKEN
+        amount: 4
+      '18':
+        type: ROTTEN_FLESH
+        amount: 16
+      '19':
+        type: CARROT_ITEM
+      '20':
+        type: IRON_PICKAXE
+        damage: 177
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Pickaxe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '22':
+        type: SLIME_BLOCK
+        amount: 29
+      '25':
+        type: PORK
+        amount: 6
+      '27':
+        type: BREAD
+        amount: 3
+      '28':
+        type: RAILS
+        amount: 8
+      '29':
+        type: GLASS_BOTTLE
+        amount: 6
+      '32':
+        type: PUMPKIN_SEEDS
+        amount: 4
+      '33':
+        type: RAW_BEEF
+        amount: 2
+      '34':
+        type: IRON_AXE
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§lIron Axe
+          lore:
+          - §8IRON KIT
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '35':
+        type: GRAVEL
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 57
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

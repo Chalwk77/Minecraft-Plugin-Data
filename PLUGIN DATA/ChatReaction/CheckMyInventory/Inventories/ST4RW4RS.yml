@@ -1,0 +1,231 @@
+Inventories:
+  '25':
+    Time: 1458455350024
+    Exp: 5
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9932186
+        Amplifier: 1
+    Location:
+      world: world
+      x: -15968.300000011921
+      y: 67.0
+      z: 8315.641712781291
+      pitch: 17.01399
+      yaw: 250.26936
+    Items:
+      '0':
+        type: ROTTEN_FLESH
+        amount: 2
+      '15':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            Minecraft color§0
+            §0Codes:§0
+            §0 &0  §1 &1  §2 &2  §3 &3§0
+            §4 &4  §5 &5  §6 &6  §7 &7§0
+            §8 &8  §9 &9  §a &a  §b &b§0
+            §c &c  §d &d  §e &e  §f &f§0
+          generation: 0
+  '26':
+    Time: 1459465459807
+    Exp: 5
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 0
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9907627
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476.33205908586666
+      y: 88.0
+      z: -213.39170217775407
+      pitch: 5.8500013
+      yaw: 198.70068
+  '27':
+    Time: 1459469869070
+    Exp: 5
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 0
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9907627
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476.33205908586666
+      y: 88.0
+      z: -213.39170217775407
+      pitch: 5.8500013
+      yaw: 198.70068
+  '28':
+    Time: 1459659257931
+    Exp: 5
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 0
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9907627
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476.33205908586666
+      y: 88.0
+      z: -213.39170217775407
+      pitch: 5.8500013
+      yaw: 198.70068
+  '29':
+    Time: 1459766730879
+    Exp: 5
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 0
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9907627
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476.33205908586666
+      y: 88.0
+      z: -213.39170217775407
+      pitch: 5.8500013
+      yaw: 198.70068
+  '30':
+    Time: 1459847482534
+    Exp: 5
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 0
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9907627
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476.33205908586666
+      y: 88.0
+      z: -213.39170217775407
+      pitch: 5.8500013
+      yaw: 198.70068
+  '31':
+    Time: 1460146819215
+    Exp: 5
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 0
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9907627
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476.33205908586666
+      y: 88.0
+      z: -213.39170217775407
+      pitch: 5.8500013
+      yaw: 198.70068
+  '32':
+    Time: 1460883165587
+    Exp: 5
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 0
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9907627
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476.33205908586666
+      y: 88.0
+      z: -213.39170217775407
+      pitch: 5.8500013
+      yaw: 198.70068
+  '33':
+    Time: 1462120690314
+    Exp: 5
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 0
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9907627
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476.33205908586666
+      y: 88.0
+      z: -213.39170217775407
+      pitch: 5.8500013
+      yaw: 198.70068
+  '34':
+    Time: 1462483213138
+    Exp: 5
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 0
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9907627
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476.33205908586666
+      y: 88.0
+      z: -213.39170217775407
+      pitch: 5.8500013
+      yaw: 198.70068

@@ -1,0 +1,72 @@
+lastAccountName: RuEvenPro
+timestamps:
+  login: 1481781994325
+  logout: 1481782049949
+  lastteleport: 1475540870466
+  kits:
+    glass: 1471940275133
+    wool: 1461733489175
+    ore: 1461733596520
+    color: 1462241778343
+    pw: 1472278753030
+    banner: 1461733393827
+    potion1: 1461733873610
+    pvp: 1469098701924
+    dtools: 1471671539934
+    tools: 1470211775453
+    pvpsword1: 1461734171278
+    food: 1461726968619
+    planks: 1461733752488
+    wekit: 1465383301454
+    wood: 1461733442120
+    overlord: 1470212726263
+    redstone: 1461733690036
+  lastheal: 1471671414338
+  jail: 0
+ipAddress: 203.173.177.254
+logoutlocation:
+  world: world
+  x: 3747.5
+  y: 73.0
+  z: -2255.5
+  yaw: 146.99854
+  pitch: 23.849804
+geolocation: New Zealand
+lastlocation:
+  world: flat
+  x: 719.5
+  y: 6.0
+  z: -537.5
+  yaw: 40.800232
+  pitch: 5.850173
+money: '-3800.0'
+afk: false
+godmode: false
+homes:
+  home:
+    world: world
+    x: 4626.3459404914365
+    y: 66.0
+    z: -3937.897356782352
+    yaw: 241.9497
+    pitch: 4.3500447
+  mygrinder:
+    world: world
+    x: -416.5531620507515
+    y: 63.0
+    z: -631.4006409103279
+    yaw: 332.2495
+    pitch: 7.800019
+  viking:
+    world: world
+    x: 4426.439876973555
+    y: 67.0
+    z: -1833.5606630318503
+    yaw: 359.9087
+    pitch: 12.4499655
+socialspy: false
+teleportenabled: false
+jailed: false
+nickname: §cR§4u§aE§bv§ee§5n§8P§9r§2o
+acceptingPay: false
+powertools: {}

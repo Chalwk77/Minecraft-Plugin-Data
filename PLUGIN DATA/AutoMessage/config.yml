@@ -1,0 +1,334 @@
+#  ----------------------------------------------------
+#  AutoMessage Configuration File
+#  ----------------------------------------------------
+#  Message Configuration:
+#     Messages are handled in lists to allow for advanced customization!
+#     Feel free to add color codes by using & in your messages!
+#     To split a message onto multiple lines use the \n delimiter!
+#     Lines starting with / will be run as a command!
+#     To add single apostrophes into a message use ''.
+#     For a complete tutorial go to http://dev.bukkit.org/server-mods/automessage.
+#     If you are unfamiliar with YAML use the in-game commands: /am help
+
+settings:
+  enabled: true
+  min-players: 0
+  log-to-console: false
+message-lists:
+  json:
+    enabled: true
+    interval: 190
+    expiry: -1
+    random: false
+    messages:
+    - "{\n  \"text\": \"&8===========================================\n  &8=======&2&l]\
+      \ &c&lJeriCraft Chest Shops &2&l[&8&l=======\n             &f[&7Hover to view\
+      \ more information&f]\",\n  \"clickEvent\": {\n    \"action\": \"run_command\"\
+      ,\n    \"value\": \"/warp chestshoptut\"\n  },\n  \"hoverEvent\": {\n    \"\
+      action\": \"show_text\",\n    \"value\": \"\n  &8[&c&lJeriCraft&8] &2ChestShops:\
+      \ \n  &7Place a chest on the ground. Now place a sign directly on or above that\
+      \ chest.\n  &7On the sign, write:\n  &8[&eyour name&8]\n  &8[&equantity&8]\n\
+      \  &8[&eitem price&8]\n  &8[&eitem id&8]\n  &7\n  &7You need to have a price\
+      \ indicator, like &lB&7, which will apply to items that are &obought\n  &7and/or\
+      \ ''&lS&7'' (the SELL indicator). Prices are seperated by a colon (&f:&7).\n\
+      \  &7You can find the item ID of the item you''re holding by typing &b/iinfo.\n\
+      \  &cTIP: &7All items have a unique item ID. When creating a chest shop, you\
+      \ can write the\n  &7Item ID, or the full name of the item. For example: &o''stone''&7\
+      \ has an item ID of &l&n1&7 and \n  &o''grass''&7 has an item ID of &l&n2&7.\
+      \ \n  &7\n  &eExample:\n  &8[&eBilly&8]\n  &8[&e2&8]\n  &8[&eB 200:50 S&8]\n\
+      \  &8[&eDiamond&8]\n  &7In this exmaple, you can buy 2 diamonds from Billy for\
+      \ $200 and sell them back for $50.\n  &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°\"\n \
+      \ }\n}"
+    - |-
+      {
+        "text": "&8===========================================
+        &8=======&2&l] &c&lJeriCraft Property Market &2&l[&8&l=======
+        &7                        &b/houses
+        &7&oClick to view houses available for rent or purchase
+        &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/houses"
+        }
+      }
+    - |-
+      {
+        "text": "&8===========================================
+        &8=======&2&l] &c&lCustom Enchantment Runes &2&l[&8&l=======
+        &7                     &b/warp runeshop
+        &7&o                  Click to travel here
+        &b&o               Hover to view information
+        &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/warp runeshop"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "
+        &8=======&2&l] &c&lCustom Enchantment Runes &2&l[&8&l=======
+        [] &770+ custom enchantments
+        [] &7Random &aSuccess Rate &7and &cDestroy Rate
+        [] &7Protection Runes (White Scroll''s)
+        [] &7Cursed Stones (Black Scroll''s)
+        [] &7Magical Runes (Magical Dust)
+        [] &7Enchanter: Type &c/enchanter v1
+        [] &7Runes GUI Shop and Sign Shop
+        &bIf you need help with Runes, please ask a staff member.
+        &aType &b/runes &afor command help."
+        }
+      }
+    - |-
+      {
+        "text": "&8===========================================
+        &8=======&2&l] &c&lExotic Drink Shop (slimefun) &2&l[&8&l=======
+        &7                     &b/warp sfdrinks
+        &7&o                  Click to travel here
+        &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/warp sfdrinks"
+        }
+      }
+    - |-
+      {
+        "text": "&8===========================================
+        &8=======&2&l] &c&lGarden Center &2&l[&8&l=======
+        &7           &b/warp gardencenter
+        &7&o          Click to travel here
+        &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/warp gardencenter"
+        }
+      }
+    - |-
+      {
+        "text": "&8===========================================
+        &8=======&2&l] &c&lServer Armory &2&l[&8&l=======
+        &7               &b/warp armory
+        &7&o          Click to travel here
+        &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/warp armory"
+        }
+      }
+    - |-
+      {
+        "text": "&8===========================================
+        &8=======&2&l] &c&lJeriCraft PVP Arena &2&l[&8&l=======
+        &7                    &b/warp pvp
+        &7&o              Click to travel here
+        &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/warp pvp"
+        }
+      }
+    - |-
+      {
+        "text": "&8====================================
+        &8=======&2&l] &c&lServer Economy &2&l[&8&l=======
+              &f[&7&oHover here for information&f]
+        &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/warp info_economy"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "
+        &e&lECONOMY &7Buy, Sell and Trade with other players.
+        &7Players also have the opportunity to build their own towns, and sell/rent
+        &7out their plots or houses to other players for profit using our Buy-Rent Region Plugin.
+        &7Please ask a staff member to help you set this up."
+        }
+      }
+    - "{\n  \"text\": \"&8=======&2&l] &c&lJeriCraft Website and Community &2&l[&8&l=======\n\
+      \  &7              &6www.jericraft.enjin.com\n  &f           [&7Hover to view\
+      \ information&f]\n  &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°\",  \n  \"clickEvent\"\
+      : {\n    \"action\": \"open_url\",\n    \"value\": \"http://www.jericraft.enjin.com\"\
+      \n  },\n  \"hoverEvent\": {\n    \"action\": \"show_text\",\n    \"value\":\
+      \ \"\n  &8=======&2&l] &c&lOur Community &2&l[&8&l=======\n  &7JeriCraft boasts\
+      \ an open community forum which provides\n  &7a platform-focused dialogue on\
+      \ gamer''s worldwide.\n  &7Feel free to check in, have a look around, introduce\
+      \ yourself,\n  &7make an account and even join in our shenanigans!\n  &7You''re\
+      \ always welcome at JeriCraft! &djericraft.enjin.com\n  &8°°°°°°°°°°°°°°°°°°\
+      °°°°°°°°°°°°°°°°°°\"\n  }\n}"
+    - |-
+      {
+        "text": "&8===========================================
+        &8=======&2&l] &c&lJeriCraft - Vote for us! &2&l[&8&l=======
+        &7      &6www.jericraft.enjin.com/vote
+               &f[&7Hover to view rewards&f]",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "http://www.jericraft.enjin.com"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "
+        &8=======&2&l] &c&lREWARDS &2&l[&8&l=======
+        &7Vote for us every day and recieve in-game rewards and extras!
+        &6? &7$2500
+        &6? &71 Treasure Chest Key &f(&b/uc menu&f)
+        &6? &710 Diamonds
+        &6? &710 Bottle o' Enchanting
+        &6? &75 Emeralds
+        &6? &735 PorkChops
+        &6? &75% chance of receiving a cool Perk!
+        &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°"
+        }
+      }
+    - |-
+      {
+        "text": "&8===========================================
+        &8=======&2&l] &c&lJeriCraft Webstore &2&l[&8&l=======
+        &7             &6jericraft.enjin.com/shop
+        &7     Check out our webstore for premium features
+        &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "http://www.jericraft.enjin.com/shop"
+        }
+      }
+    - |-
+      {
+        "text": "&8[&c&lJeriCraft&8] &7Server Market &f(&bplots&f) &7available! /warp market",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/warp market"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "
+        &8=======&2&l] &c&lSERVER MARKET&2&l[&8&l=======
+        &7?  There are &688 plots &7available.
+        &7?  Click here to warp to Server Market!
+        &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°"
+        }
+      }
+    - |-
+      {
+        "text": "&8[&c&lJeriCraft&8] &7Nether Portals are disabled.
+        &7To travel to the nether, Type &b/warp nether",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/warp nether"
+        }
+      }
+  regular:
+    enabled: true
+    interval: 210
+    expiry: -1
+    random: false
+    messages:
+    - '&8=======&2&l] &cJeriCraft - Custom Mobs &2&l[&8&l=======\n &7JeriCraft plays
+      host to the &4Elite Mob &6Allience.\n &7We have 5 Mob Arenas, 70+ Custom Mythical
+      Mobs,\n &78 Vanilla overrides, 312 special mob skills and abilities,\n &7and
+      912 mythical items + more coming soon!\n &7Got a suggestion for a custom mob?\n
+      &7You name it, we can make it.\n &7Drop your suggestion in the hopper at &b/warp
+      suggestions\n&8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°'
+    - '&8=======&2&l] &4Neo Painting Switcher &2&l[&8&l=======\n &bFun Fact: &7You
+      can scroll through paintings! &f[&emembers only&f]\n &8Step 1: &7Place painting
+      on wall.\n &8Step 2: &7Right Click the painting.\n &8Step 3: &7Scroll with your
+      mouse wheel.\n &8Step 4: &7Look away or Right Click again to lock it in palce.\n
+      &8Step 5: &aEnjoy!\n &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°'
+    - '&8=======&2&l] &c&lSpawners: &aNotice &2&l[&8&l=======\n &7Unless your grinder
+      kills the mobs automatically,\n &7(i.e lava trap), please do not afk your spawner\n
+      &7for longer than a &7reasonable amount of time (7 minutes max).\n &7We appreciate
+      your cooperation. Thank you.\n &8같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같'
+    - '&8=======&2&l] &c&lParkour Arena &2&l[&8&l=======\n &b/warp parkour\n &2&l-
+      &73 Levels: &bEasy&7, &eMedium&7 and &cHard!\n &2&l- &7Avoid touching the &cred
+      wool &7floor. It will kill you.\n &2&l- &7When you die you will respawn at your
+      last checkpoint.\n &2&l- &7There are a total of 12 checkpoints.\n &2&l- &7At
+      the end of each level is a monetary reward:\n &2&l- &bEasy&7: &b$5000\n &2&l-
+      &eMedium&7: &b$10,000\n &2&l- &cHard&7: &b$20,000\n &7&oWhen you complete a
+      level, take a screenshot and post it on our forums!\n &djericraft.enjin.com/forums\n
+      &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°'
+    - '&8=======&2&l] &c&lCustom Enchantment Runes &2&l[&8&l=======\n &b/warp runeshop\n
+      &2&l- &7All runes have a random success and destroy rate.\n &2&l- &7Mobs have
+      a 1% chance of dropping Runes.\n &2&l- &7If a rune breaks upon enchanting, it
+      can''t be recovered.\n &2&l- &7Rune prices vary between $1232 and $9963.\n &2&l-
+      &5Rune Enchanters: &7Type &c/enchanter v1 &7or &c/enchanter v2\n &5&oRunes &7&ocan
+      now be aquired via the &7&l&oShop GUI.\n&7&oThere are 4 pages. &7&oType: &b&o/runes
+      shop <page #> &8°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°'
+    - '&8[&c&lJeriCraft&8] &7Archery shop now open! &b/warp archeryshop&7.'
+    - '&8[&c&lJeriCraft&8] &7Type &b/rg i &7or &b/rg i <region name> &7for a list
+      of information about the region you''re standing in.'
+    - '&8[&c&lJeriCraft&8] &7&lRegion Flags: &7You can change your region flags, settings
+      and add/remove members with our simple Region GUI system. Simply stand in your
+      region, and type &b/land&7. Click the icons to change your settings.'
+    - '&8[&c&lJeriCraft&8] &7&lAuctions: &7To bid on an item, type &b/bid <amount>&7.
+      &7Additionally, type &b/auctions &7for a list of Auction Commands.'
+    - '&8[&c&lJeriCraft&8] &7All chests, Furnaces, Dispensers, and doors placed by
+      YOU will be automatically locked, and only you will have access to them. To
+      give someone access to your equipment, type &b/unlock, &7and then punch the
+      chest to remove the lock. Alternatively, type &b/cmodify'
+    - '&8[&c&lJeriCraft&8] &7&lMedical Clinic: &7We sell medical supplies here! You
+      can travel here by typing: &b/warp clinic&7.'
+    - '&8[&c&lJeriCraft&8] &7Is &aSlimeFun &7too confusing for you? &7Our friendly
+      staff are alwyas happy to help. Just ask!'
+    - '&8[&c&lJeriCraft&8] &7Hard on seeing? Type &b/nv &7for night vision!'
+    - '&8[&c&lJeriCraft&8] &7Vote for &c&lJeriCraft &7every day and receive in-game
+      rewards and extras! &bJeriCraft.enjin.com/vote'
+    - '&8[&c&lJeriCraft&8] &7You can get &5&oMember &7rank for free by signing up
+      on our website! &bjericraft.enjin.com'
+    - '&8[&c&lJeriCraft&8] &7JeriCraft Cosmetics are available! &7Type &b/uc menu
+      main &7to access this feature.'
+    - '&8[&c&lJeriCraft&8] &7Use your in-game money to buy: &7&lCustom Machines&7,
+      &7&lWeapons&7, &7&lTools &7&lArmor &7and more!'
+    - '&8[&c&lJeriCraft&8] &7Buy or Craft GADGETS AND EQUIPMENT: Purchase or craft
+      over 600 custom gadgets and equipment!'
+    - '&8[&c&lJeriCraft&8] &2Economy: &7Buy, Sell and Trade with other players. &7Build
+      towns, sell/rent your plots or houses to other players for profit &7using our
+      Buy-Rent Region plugin. Please ask a staff member to help you set this up.'
+    - '&8[&c&lJeriCraft&8] &7JeriCraft boasts an open community forum which provides
+      a platform-focused dialogue on gamer''s worldwide. Feel free to check in, have
+      a look around, introduce yourself, make an account and even join in our shenanigans!
+      You''re always welcome at JeriCraft! &djericraft.enjin.com'
+    - '&8[&c&lJeriCraft&8] &7To buy SlimeFun related items, you will need to unlock
+      them in your Guide first! Do &b/sf guide &7for details.'
+    - '&8[&c&lJeriCraft&8] &7The first menu that appears when you type /sf guide &7lists
+      the various categories &bavailable &7to you. When you click on a Category, you
+      will be presented with some icons. Right Click an icon to learn how to craft
+      that Recipe'
+    - '&8[&c&lJeriCraft&8] &2Enchant Shop: &b/warp enchantshop &7for custom enchanted
+      weapons, tools and gadgets! &7Many more items will be added in the future'
+    - '&8[&c&lJeriCraft&8] &7Armory is now open! &b/warp armory'
+    - '&8[&c&lJeriCraft&8] &7If you lose your &2slimefun guide&7, type &b/sf guide
+      &7to get a new one! '
+    - '&8[&c&lJeriCraft&8] &7Type &b/sf guide &7to learn how to craft custom recipes,
+      machines, weapons, tools, armour, and more!'
+    - '&8[&c&lJeriCraft&8] &7Type &b/jobs&7 for a list of job related commands!'
+    - '&8[&c&lJeriCraft&8] &7Want to join a job? Type &b/jobs browse&7, choose up
+      to 3 jobs, then type &b/jobs join <job name>'
+    - '&8[&c&lJeriCraft&8] &7Jobs will allow you to get paid for breaking, placing,
+      killing, fishing, crafting and more! Gain experience as you perform your job.
+      Type &b/jobs &7for more information.'
+    - '&8[&c&lJeriCraft&8] &2Land Protection: &7Please ask a Staff Member to protect
+      your land - We can do this free of charge!'
+    - '&8[&c&lJeriCraft&8] &7To remove a member form your region, type &b/rg removemember
+      <region name> {player name}'
+    - '&8[&c&lJeriCraft&8] &7Item Recipies: Type &b/recipe <item id> &7to show a visual
+      representation of a recipe.'
+    - '&8[&c&lJeriCraft&8] &7Remember to do &b/back &7to return to your death location
+      if you die.'
+    - '&8[&c&lJeriCraft&8] &7The End: You can travel here by typing &b/warp end'
+    - '&8[&c&lJeriCraft&8] &2Spawner Restrictions: &7For every 4 spawners, you must
+      provide a 150 block radius seperation. Regions found to abuse this restriction
+      will have their spawners removed.'
+    - "&8[&c&lJeriCraft&8] &7Mob Spawners can be crafted! \n&7Type &b/recipe spawner\
+      \ &7for information"
+    - '&8[&c&lJeriCraft&8] &7Server Farm: &b/warp serverfarm'
+    - '&8[&c&lJeriCraft&8] &7District1 (zone2) - Houses available for purchase. &b/warp
+      d1zone2'
+    - '&8[&c&lJeriCraft&8] &7Exotic Drinks Shop: &b/warp sfdrinks'
+    - |-
+      &8[&c&lJeriCraft&8] &7Every time you die, a snapshot of your inventory is saved. There will be 10 snapshots per player at any time. These snapshots are held for 3 months each.
+       If you would like your inventory restored, staff can do this for you at a price of $10,000.
+    - '&8[&c&lJeriCraft&8] &7Spawners can be crafted! Type &b/recipe spawner'
+    - '&8[&c&lJeriCraft&8] &7You can &aBuy &7and &cSell &7spawners! Visit &b/warp
+      spawners'
+    - '&8[&c&lJeriCraft&8] &7Fun Fact: You can sit anywhere! Type &b/sit &7to sit!'

@@ -1,0 +1,1438 @@
+Inventories:
+  '25':
+    Time: 1458455355683
+    Exp: 11150
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5363.532309525151
+      y: 73.0
+      z: -12703.387951995828
+      pitch: 31.418304
+      yaw: 237.6076
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Swod
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 3
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 425
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eLemon Sapling
+      '3':
+        type: DIAMOND_SPADE
+        damage: 1020
+      '4':
+        type: INK_SACK
+        damage: 6
+      '5':
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Pan
+          lore:
+          - §a§oCan get you all kinds of Goodies...
+          - ''
+          - §7§eRight Click§7 to pan various Stuff out of Gravel
+      '6':
+        type: TORCH
+        amount: 15
+      '8':
+        type: COOKED_BEEF
+        amount: 60
+      '10':
+        type: INK_SACK
+        damage: 9
+      '11':
+        type: INK_SACK
+        damage: 12
+      '12':
+        type: INK_SACK
+        damage: 13
+      '13':
+        type: SUGAR
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '14':
+        type: INK_SACK
+        damage: 14
+      '15':
+        type: INK_SACK
+        damage: 10
+      '17':
+        type: INK_SACK
+        damage: 5
+      '19':
+        type: DIAMOND_BLOCK
+      '28':
+        type: CLAY_BRICK
+        amount: 64
+      '29':
+        type: CLAY_BRICK
+        amount: 64
+      '30':
+        type: CLAY_BRICK
+        amount: 64
+      '31':
+        type: BUCKET
+      '33':
+        type: CLAY_BRICK
+        amount: 64
+      '34':
+        type: CLAY_BRICK
+        amount: 64
+      '35':
+        type: COOKED_BEEF
+        amount: 47
+  '26':
+    Time: 1459465462419
+    Exp: 11150
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5363.532309525151
+      y: 73.0
+      z: -12703.387951995828
+      pitch: 31.418304
+      yaw: 237.6076
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Swod
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 3
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 425
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eLemon Sapling
+      '3':
+        type: DIAMOND_SPADE
+        damage: 1020
+      '4':
+        type: INK_SACK
+        damage: 6
+      '5':
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Pan
+          lore:
+          - §a§oCan get you all kinds of Goodies...
+          - ''
+          - §7§eRight Click§7 to pan various Stuff out of Gravel
+      '6':
+        type: TORCH
+        amount: 15
+      '8':
+        type: COOKED_BEEF
+        amount: 60
+      '10':
+        type: INK_SACK
+        damage: 9
+      '11':
+        type: INK_SACK
+        damage: 12
+      '12':
+        type: INK_SACK
+        damage: 13
+      '13':
+        type: SUGAR
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '14':
+        type: INK_SACK
+        damage: 14
+      '15':
+        type: INK_SACK
+        damage: 10
+      '17':
+        type: INK_SACK
+        damage: 5
+      '19':
+        type: DIAMOND_BLOCK
+      '28':
+        type: CLAY_BRICK
+        amount: 64
+      '29':
+        type: CLAY_BRICK
+        amount: 64
+      '30':
+        type: CLAY_BRICK
+        amount: 64
+      '31':
+        type: BUCKET
+      '33':
+        type: CLAY_BRICK
+        amount: 64
+      '34':
+        type: CLAY_BRICK
+        amount: 64
+      '35':
+        type: COOKED_BEEF
+        amount: 47
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 86
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 132
+      '39':
+        type: IRON_HELMET
+        damage: 132
+  '27':
+    Time: 1459469871374
+    Exp: 11150
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5363.532309525151
+      y: 73.0
+      z: -12703.387951995828
+      pitch: 31.418304
+      yaw: 237.6076
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Swod
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 3
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 425
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eLemon Sapling
+      '3':
+        type: DIAMOND_SPADE
+        damage: 1020
+      '4':
+        type: INK_SACK
+        damage: 6
+      '5':
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Pan
+          lore:
+          - §a§oCan get you all kinds of Goodies...
+          - ''
+          - §7§eRight Click§7 to pan various Stuff out of Gravel
+      '6':
+        type: TORCH
+        amount: 15
+      '8':
+        type: COOKED_BEEF
+        amount: 60
+      '10':
+        type: INK_SACK
+        damage: 9
+      '11':
+        type: INK_SACK
+        damage: 12
+      '12':
+        type: INK_SACK
+        damage: 13
+      '13':
+        type: SUGAR
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '14':
+        type: INK_SACK
+        damage: 14
+      '15':
+        type: INK_SACK
+        damage: 10
+      '17':
+        type: INK_SACK
+        damage: 5
+      '19':
+        type: DIAMOND_BLOCK
+      '28':
+        type: CLAY_BRICK
+        amount: 64
+      '29':
+        type: CLAY_BRICK
+        amount: 64
+      '30':
+        type: CLAY_BRICK
+        amount: 64
+      '31':
+        type: BUCKET
+      '33':
+        type: CLAY_BRICK
+        amount: 64
+      '34':
+        type: CLAY_BRICK
+        amount: 64
+      '35':
+        type: COOKED_BEEF
+        amount: 47
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 86
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 132
+      '39':
+        type: IRON_HELMET
+        damage: 132
+  '28':
+    Time: 1459659260932
+    Exp: 11150
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5363.532309525151
+      y: 73.0
+      z: -12703.387951995828
+      pitch: 31.418304
+      yaw: 237.6076
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Swod
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 3
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 425
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eLemon Sapling
+      '3':
+        type: DIAMOND_SPADE
+        damage: 1020
+      '4':
+        type: INK_SACK
+        damage: 6
+      '5':
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Pan
+          lore:
+          - §a§oCan get you all kinds of Goodies...
+          - ''
+          - §7§eRight Click§7 to pan various Stuff out of Gravel
+      '6':
+        type: TORCH
+        amount: 15
+      '8':
+        type: COOKED_BEEF
+        amount: 60
+      '10':
+        type: INK_SACK
+        damage: 9
+      '11':
+        type: INK_SACK
+        damage: 12
+      '12':
+        type: INK_SACK
+        damage: 13
+      '13':
+        type: SUGAR
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '14':
+        type: INK_SACK
+        damage: 14
+      '15':
+        type: INK_SACK
+        damage: 10
+      '17':
+        type: INK_SACK
+        damage: 5
+      '19':
+        type: DIAMOND_BLOCK
+      '28':
+        type: CLAY_BRICK
+        amount: 64
+      '29':
+        type: CLAY_BRICK
+        amount: 64
+      '30':
+        type: CLAY_BRICK
+        amount: 64
+      '31':
+        type: BUCKET
+      '33':
+        type: CLAY_BRICK
+        amount: 64
+      '34':
+        type: CLAY_BRICK
+        amount: 64
+      '35':
+        type: COOKED_BEEF
+        amount: 47
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 86
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 132
+      '39':
+        type: IRON_HELMET
+        damage: 132
+  '29':
+    Time: 1459766734447
+    Exp: 11150
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5363.532309525151
+      y: 73.0
+      z: -12703.387951995828
+      pitch: 31.418304
+      yaw: 237.6076
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Swod
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 3
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 425
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eLemon Sapling
+      '3':
+        type: DIAMOND_SPADE
+        damage: 1020
+      '4':
+        type: INK_SACK
+        damage: 6
+      '5':
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Pan
+          lore:
+          - §a§oCan get you all kinds of Goodies...
+          - ''
+          - §7§eRight Click§7 to pan various Stuff out of Gravel
+      '6':
+        type: TORCH
+        amount: 15
+      '8':
+        type: COOKED_BEEF
+        amount: 60
+      '10':
+        type: INK_SACK
+        damage: 9
+      '11':
+        type: INK_SACK
+        damage: 12
+      '12':
+        type: INK_SACK
+        damage: 13
+      '13':
+        type: SUGAR
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '14':
+        type: INK_SACK
+        damage: 14
+      '15':
+        type: INK_SACK
+        damage: 10
+      '17':
+        type: INK_SACK
+        damage: 5
+      '19':
+        type: DIAMOND_BLOCK
+      '28':
+        type: CLAY_BRICK
+        amount: 64
+      '29':
+        type: CLAY_BRICK
+        amount: 64
+      '30':
+        type: CLAY_BRICK
+        amount: 64
+      '31':
+        type: BUCKET
+      '33':
+        type: CLAY_BRICK
+        amount: 64
+      '34':
+        type: CLAY_BRICK
+        amount: 64
+      '35':
+        type: COOKED_BEEF
+        amount: 47
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 86
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 132
+      '39':
+        type: IRON_HELMET
+        damage: 132
+  '30':
+    Time: 1459847485514
+    Exp: 11150
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5363.532309525151
+      y: 73.0
+      z: -12703.387951995828
+      pitch: 31.418304
+      yaw: 237.6076
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Swod
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 3
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 425
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eLemon Sapling
+      '3':
+        type: DIAMOND_SPADE
+        damage: 1020
+      '4':
+        type: INK_SACK
+        damage: 6
+      '5':
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Pan
+          lore:
+          - §a§oCan get you all kinds of Goodies...
+          - ''
+          - §7§eRight Click§7 to pan various Stuff out of Gravel
+      '6':
+        type: TORCH
+        amount: 15
+      '8':
+        type: COOKED_BEEF
+        amount: 60
+      '10':
+        type: INK_SACK
+        damage: 9
+      '11':
+        type: INK_SACK
+        damage: 12
+      '12':
+        type: INK_SACK
+        damage: 13
+      '13':
+        type: SUGAR
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '14':
+        type: INK_SACK
+        damage: 14
+      '15':
+        type: INK_SACK
+        damage: 10
+      '17':
+        type: INK_SACK
+        damage: 5
+      '19':
+        type: DIAMOND_BLOCK
+      '28':
+        type: CLAY_BRICK
+        amount: 64
+      '29':
+        type: CLAY_BRICK
+        amount: 64
+      '30':
+        type: CLAY_BRICK
+        amount: 64
+      '31':
+        type: BUCKET
+      '33':
+        type: CLAY_BRICK
+        amount: 64
+      '34':
+        type: CLAY_BRICK
+        amount: 64
+      '35':
+        type: COOKED_BEEF
+        amount: 47
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 86
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 132
+      '39':
+        type: IRON_HELMET
+        damage: 132
+  '31':
+    Time: 1460146821577
+    Exp: 11150
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5363.532309525151
+      y: 73.0
+      z: -12703.387951995828
+      pitch: 31.418304
+      yaw: 237.6076
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Swod
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 3
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 425
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eLemon Sapling
+      '3':
+        type: DIAMOND_SPADE
+        damage: 1020
+      '4':
+        type: INK_SACK
+        damage: 6
+      '5':
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Pan
+          lore:
+          - §a§oCan get you all kinds of Goodies...
+          - ''
+          - §7§eRight Click§7 to pan various Stuff out of Gravel
+      '6':
+        type: TORCH
+        amount: 15
+      '8':
+        type: COOKED_BEEF
+        amount: 60
+      '10':
+        type: INK_SACK
+        damage: 9
+      '11':
+        type: INK_SACK
+        damage: 12
+      '12':
+        type: INK_SACK
+        damage: 13
+      '13':
+        type: SUGAR
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '14':
+        type: INK_SACK
+        damage: 14
+      '15':
+        type: INK_SACK
+        damage: 10
+      '17':
+        type: INK_SACK
+        damage: 5
+      '19':
+        type: DIAMOND_BLOCK
+      '28':
+        type: CLAY_BRICK
+        amount: 64
+      '29':
+        type: CLAY_BRICK
+        amount: 64
+      '30':
+        type: CLAY_BRICK
+        amount: 64
+      '31':
+        type: BUCKET
+      '33':
+        type: CLAY_BRICK
+        amount: 64
+      '34':
+        type: CLAY_BRICK
+        amount: 64
+      '35':
+        type: COOKED_BEEF
+        amount: 47
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 86
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 132
+      '39':
+        type: IRON_HELMET
+        damage: 132
+  '32':
+    Time: 1460883168518
+    Exp: 11150
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5363.532309525151
+      y: 73.0
+      z: -12703.387951995828
+      pitch: 31.418304
+      yaw: 237.6076
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Swod
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 3
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 425
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eLemon Sapling
+      '3':
+        type: DIAMOND_SPADE
+        damage: 1020
+      '4':
+        type: INK_SACK
+        damage: 6
+      '5':
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Pan
+          lore:
+          - §a§oCan get you all kinds of Goodies...
+          - ''
+          - §7§eRight Click§7 to pan various Stuff out of Gravel
+      '6':
+        type: TORCH
+        amount: 15
+      '8':
+        type: COOKED_BEEF
+        amount: 60
+      '10':
+        type: INK_SACK
+        damage: 9
+      '11':
+        type: INK_SACK
+        damage: 12
+      '12':
+        type: INK_SACK
+        damage: 13
+      '13':
+        type: SUGAR
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '14':
+        type: INK_SACK
+        damage: 14
+      '15':
+        type: INK_SACK
+        damage: 10
+      '17':
+        type: INK_SACK
+        damage: 5
+      '19':
+        type: DIAMOND_BLOCK
+      '28':
+        type: CLAY_BRICK
+        amount: 64
+      '29':
+        type: CLAY_BRICK
+        amount: 64
+      '30':
+        type: CLAY_BRICK
+        amount: 64
+      '31':
+        type: BUCKET
+      '33':
+        type: CLAY_BRICK
+        amount: 64
+      '34':
+        type: CLAY_BRICK
+        amount: 64
+      '35':
+        type: COOKED_BEEF
+        amount: 47
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 86
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 132
+      '39':
+        type: IRON_HELMET
+        damage: 132
+  '33':
+    Time: 1462120692984
+    Exp: 11150
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5363.532309525151
+      y: 73.0
+      z: -12703.387951995828
+      pitch: 31.418304
+      yaw: 237.6076
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Swod
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 3
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 425
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eLemon Sapling
+      '3':
+        type: DIAMOND_SPADE
+        damage: 1020
+      '4':
+        type: INK_SACK
+        damage: 6
+      '5':
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Pan
+          lore:
+          - §a§oCan get you all kinds of Goodies...
+          - ''
+          - §7§eRight Click§7 to pan various Stuff out of Gravel
+      '6':
+        type: TORCH
+        amount: 15
+      '8':
+        type: COOKED_BEEF
+        amount: 60
+      '10':
+        type: INK_SACK
+        damage: 9
+      '11':
+        type: INK_SACK
+        damage: 12
+      '12':
+        type: INK_SACK
+        damage: 13
+      '13':
+        type: SUGAR
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '14':
+        type: INK_SACK
+        damage: 14
+      '15':
+        type: INK_SACK
+        damage: 10
+      '17':
+        type: INK_SACK
+        damage: 5
+      '19':
+        type: DIAMOND_BLOCK
+      '28':
+        type: CLAY_BRICK
+        amount: 64
+      '29':
+        type: CLAY_BRICK
+        amount: 64
+      '30':
+        type: CLAY_BRICK
+        amount: 64
+      '31':
+        type: BUCKET
+      '33':
+        type: CLAY_BRICK
+        amount: 64
+      '34':
+        type: CLAY_BRICK
+        amount: 64
+      '35':
+        type: COOKED_BEEF
+        amount: 47
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 86
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 132
+      '39':
+        type: IRON_HELMET
+        damage: 132
+  '34':
+    Time: 1462483216314
+    Exp: 11150
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -5363.532309525151
+      y: 73.0
+      z: -12703.387951995828
+      pitch: 31.418304
+      yaw: 237.6076
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Swod
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+          repair-cost: 3
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 425
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      '2':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eLemon Sapling
+      '3':
+        type: DIAMOND_SPADE
+        damage: 1020
+      '4':
+        type: INK_SACK
+        damage: 6
+      '5':
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Pan
+          lore:
+          - §a§oCan get you all kinds of Goodies...
+          - ''
+          - §7§eRight Click§7 to pan various Stuff out of Gravel
+      '6':
+        type: TORCH
+        amount: 15
+      '8':
+        type: COOKED_BEEF
+        amount: 60
+      '10':
+        type: INK_SACK
+        damage: 9
+      '11':
+        type: INK_SACK
+        damage: 12
+      '12':
+        type: INK_SACK
+        damage: 13
+      '13':
+        type: SUGAR
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '14':
+        type: INK_SACK
+        damage: 14
+      '15':
+        type: INK_SACK
+        damage: 10
+      '17':
+        type: INK_SACK
+        damage: 5
+      '19':
+        type: DIAMOND_BLOCK
+      '28':
+        type: CLAY_BRICK
+        amount: 64
+      '29':
+        type: CLAY_BRICK
+        amount: 64
+      '30':
+        type: CLAY_BRICK
+        amount: 64
+      '31':
+        type: BUCKET
+      '33':
+        type: CLAY_BRICK
+        amount: 64
+      '34':
+        type: CLAY_BRICK
+        amount: 64
+      '35':
+        type: COOKED_BEEF
+        amount: 47
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 86
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 132
+      '39':
+        type: IRON_HELMET
+        damage: 132

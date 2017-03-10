@@ -1,0 +1,1169 @@
+Inventories:
+  '3':
+    Time: 1458455349722
+    Exp: 140
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 12.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -10665.959637256856
+      y: 79.0
+      z: -19042.266222506085
+      pitch: 9.75018
+      yaw: -330.29395
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '2':
+        type: LOG
+        amount: 64
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '4':
+        type: DIAMOND_SWORD
+        damage: 89
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: DIAMOND_AXE
+        damage: 376
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '8':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '9':
+        type: LOG
+        amount: 64
+      '10':
+        type: SAPLING
+        amount: 36
+      '11':
+        type: PORK
+        amount: 37
+      '12':
+        type: RAW_CHICKEN
+        amount: 3
+      '13':
+        type: APPLE
+        amount: 8
+      '14':
+        type: FEATHER
+        amount: 2
+      '15':
+        type: SAPLING
+        damage: 1
+      '16':
+        type: ARROW
+        amount: 4
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Tomato
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+          skull-owner: CSCoreLib
+      '18':
+        type: DIRT
+        amount: 9
+      '19':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '20':
+        type: LOG
+        damage: 2
+        amount: 45
+      '21':
+        type: SAPLING
+        damage: 2
+        amount: 8
+      '22':
+        type: LOG
+        amount: 64
+      '23':
+        type: STONE
+        damage: 3
+        amount: 15
+      '24':
+        type: LOG
+        amount: 24
+      '25':
+        type: STRING
+      '26':
+        type: SPIDER_EYE
+      '27':
+        type: ROTTEN_FLESH
+        amount: 2
+      '28':
+        type: SAND
+      '29':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '30':
+        type: COAL
+        amount: 17
+      '31':
+        type: RAW_BEEF
+        amount: 32
+      '32':
+        type: LEATHER
+        amount: 11
+      '33':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '34':
+        type: BONE
+        amount: 5
+      '35':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Pineapple Plant
+  '4':
+    Time: 1459465459479
+    Exp: 902
+    Health: 11.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9977903
+        Amplifier: 1
+    Location:
+      world: world
+      x: 1294.5735573721909
+      y: 78.0
+      z: 3853.1417887413936
+      pitch: 11.70008
+      yaw: -83.70108
+    Items:
+      '0':
+        type: WATER_BUCKET
+      '1':
+        type: SAND
+        amount: 46
+      '2':
+        type: BUCKET
+      '3':
+        type: DIAMOND_AXE
+        damage: 671
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_SWORD
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: IRON_SPADE
+        damage: 174
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 663
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: BUCKET
+      '8':
+        type: BUCKET
+      '9':
+        type: SANDSTONE
+        amount: 7
+      '10':
+        type: RABBIT
+      '11':
+        type: SAND
+        amount: 47
+      '12':
+        type: COBBLESTONE
+        amount: 5
+      '13':
+        type: ROTTEN_FLESH
+        amount: 2
+      '18':
+        type: DIRT
+        amount: 30
+      '27':
+        type: WOOD
+        damage: 1
+        amount: 62
+      '28':
+        type: LOG
+        damage: 1
+        amount: 45
+      '29':
+        type: APPLE
+        amount: 2
+      '32':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '33':
+        type: DIRT
+        amount: 59
+      '35':
+        type: IRON_SPADE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '5':
+    Time: 1459469868876
+    Exp: 902
+    Health: 11.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9977903
+        Amplifier: 1
+    Location:
+      world: world
+      x: 1294.5735573721909
+      y: 78.0
+      z: 3853.1417887413936
+      pitch: 11.70008
+      yaw: -83.70108
+    Items:
+      '0':
+        type: WATER_BUCKET
+      '1':
+        type: SAND
+        amount: 46
+      '2':
+        type: BUCKET
+      '3':
+        type: DIAMOND_AXE
+        damage: 671
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_SWORD
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: IRON_SPADE
+        damage: 174
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 663
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: BUCKET
+      '8':
+        type: BUCKET
+      '9':
+        type: SANDSTONE
+        amount: 7
+      '10':
+        type: RABBIT
+      '11':
+        type: SAND
+        amount: 47
+      '12':
+        type: COBBLESTONE
+        amount: 5
+      '13':
+        type: ROTTEN_FLESH
+        amount: 2
+      '18':
+        type: DIRT
+        amount: 30
+      '27':
+        type: WOOD
+        damage: 1
+        amount: 62
+      '28':
+        type: LOG
+        damage: 1
+        amount: 45
+      '29':
+        type: APPLE
+        amount: 2
+      '32':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '33':
+        type: DIRT
+        amount: 59
+      '35':
+        type: IRON_SPADE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '6':
+    Time: 1459659257550
+    Exp: 902
+    Health: 11.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9977903
+        Amplifier: 1
+    Location:
+      world: world
+      x: 1294.5735573721909
+      y: 78.0
+      z: 3853.1417887413936
+      pitch: 11.70008
+      yaw: -83.70108
+    Items:
+      '0':
+        type: WATER_BUCKET
+      '1':
+        type: SAND
+        amount: 46
+      '2':
+        type: BUCKET
+      '3':
+        type: DIAMOND_AXE
+        damage: 671
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_SWORD
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: IRON_SPADE
+        damage: 174
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 663
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: BUCKET
+      '8':
+        type: BUCKET
+      '9':
+        type: SANDSTONE
+        amount: 7
+      '10':
+        type: RABBIT
+      '11':
+        type: SAND
+        amount: 47
+      '12':
+        type: COBBLESTONE
+        amount: 5
+      '13':
+        type: ROTTEN_FLESH
+        amount: 2
+      '18':
+        type: DIRT
+        amount: 30
+      '27':
+        type: WOOD
+        damage: 1
+        amount: 62
+      '28':
+        type: LOG
+        damage: 1
+        amount: 45
+      '29':
+        type: APPLE
+        amount: 2
+      '32':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '33':
+        type: DIRT
+        amount: 59
+      '35':
+        type: IRON_SPADE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '7':
+    Time: 1459766730277
+    Exp: 902
+    Health: 11.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9977903
+        Amplifier: 1
+    Location:
+      world: world
+      x: 1294.5735573721909
+      y: 78.0
+      z: 3853.1417887413936
+      pitch: 11.70008
+      yaw: -83.70108
+    Items:
+      '0':
+        type: WATER_BUCKET
+      '1':
+        type: SAND
+        amount: 46
+      '2':
+        type: BUCKET
+      '3':
+        type: DIAMOND_AXE
+        damage: 671
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_SWORD
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: IRON_SPADE
+        damage: 174
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 663
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: BUCKET
+      '8':
+        type: BUCKET
+      '9':
+        type: SANDSTONE
+        amount: 7
+      '10':
+        type: RABBIT
+      '11':
+        type: SAND
+        amount: 47
+      '12':
+        type: COBBLESTONE
+        amount: 5
+      '13':
+        type: ROTTEN_FLESH
+        amount: 2
+      '18':
+        type: DIRT
+        amount: 30
+      '27':
+        type: WOOD
+        damage: 1
+        amount: 62
+      '28':
+        type: LOG
+        damage: 1
+        amount: 45
+      '29':
+        type: APPLE
+        amount: 2
+      '32':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '33':
+        type: DIRT
+        amount: 59
+      '35':
+        type: IRON_SPADE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '8':
+    Time: 1459847482234
+    Exp: 902
+    Health: 11.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9977903
+        Amplifier: 1
+    Location:
+      world: world
+      x: 1294.5735573721909
+      y: 78.0
+      z: 3853.1417887413936
+      pitch: 11.70008
+      yaw: -83.70108
+    Items:
+      '0':
+        type: WATER_BUCKET
+      '1':
+        type: SAND
+        amount: 46
+      '2':
+        type: BUCKET
+      '3':
+        type: DIAMOND_AXE
+        damage: 671
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_SWORD
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: IRON_SPADE
+        damage: 174
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 663
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: BUCKET
+      '8':
+        type: BUCKET
+      '9':
+        type: SANDSTONE
+        amount: 7
+      '10':
+        type: RABBIT
+      '11':
+        type: SAND
+        amount: 47
+      '12':
+        type: COBBLESTONE
+        amount: 5
+      '13':
+        type: ROTTEN_FLESH
+        amount: 2
+      '18':
+        type: DIRT
+        amount: 30
+      '27':
+        type: WOOD
+        damage: 1
+        amount: 62
+      '28':
+        type: LOG
+        damage: 1
+        amount: 45
+      '29':
+        type: APPLE
+        amount: 2
+      '32':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '33':
+        type: DIRT
+        amount: 59
+      '35':
+        type: IRON_SPADE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '9':
+    Time: 1460146818948
+    Exp: 902
+    Health: 11.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9977903
+        Amplifier: 1
+    Location:
+      world: world
+      x: 1294.5735573721909
+      y: 78.0
+      z: 3853.1417887413936
+      pitch: 11.70008
+      yaw: -83.70108
+    Items:
+      '0':
+        type: WATER_BUCKET
+      '1':
+        type: SAND
+        amount: 46
+      '2':
+        type: BUCKET
+      '3':
+        type: DIAMOND_AXE
+        damage: 671
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_SWORD
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: IRON_SPADE
+        damage: 174
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 663
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: BUCKET
+      '8':
+        type: BUCKET
+      '9':
+        type: SANDSTONE
+        amount: 7
+      '10':
+        type: RABBIT
+      '11':
+        type: SAND
+        amount: 47
+      '12':
+        type: COBBLESTONE
+        amount: 5
+      '13':
+        type: ROTTEN_FLESH
+        amount: 2
+      '18':
+        type: DIRT
+        amount: 30
+      '27':
+        type: WOOD
+        damage: 1
+        amount: 62
+      '28':
+        type: LOG
+        damage: 1
+        amount: 45
+      '29':
+        type: APPLE
+        amount: 2
+      '32':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '33':
+        type: DIRT
+        amount: 59
+      '35':
+        type: IRON_SPADE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '10':
+    Time: 1460883165249
+    Exp: 902
+    Health: 11.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9977903
+        Amplifier: 1
+    Location:
+      world: world
+      x: 1294.5735573721909
+      y: 78.0
+      z: 3853.1417887413936
+      pitch: 11.70008
+      yaw: -83.70108
+    Items:
+      '0':
+        type: WATER_BUCKET
+      '1':
+        type: SAND
+        amount: 46
+      '2':
+        type: BUCKET
+      '3':
+        type: DIAMOND_AXE
+        damage: 671
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_SWORD
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: IRON_SPADE
+        damage: 174
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 663
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: BUCKET
+      '8':
+        type: BUCKET
+      '9':
+        type: SANDSTONE
+        amount: 7
+      '10':
+        type: RABBIT
+      '11':
+        type: SAND
+        amount: 47
+      '12':
+        type: COBBLESTONE
+        amount: 5
+      '13':
+        type: ROTTEN_FLESH
+        amount: 2
+      '18':
+        type: DIRT
+        amount: 30
+      '27':
+        type: WOOD
+        damage: 1
+        amount: 62
+      '28':
+        type: LOG
+        damage: 1
+        amount: 45
+      '29':
+        type: APPLE
+        amount: 2
+      '32':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '33':
+        type: DIRT
+        amount: 59
+      '35':
+        type: IRON_SPADE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '11':
+    Time: 1462120690071
+    Exp: 902
+    Health: 11.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9977903
+        Amplifier: 1
+    Location:
+      world: world
+      x: 1294.5735573721909
+      y: 78.0
+      z: 3853.1417887413936
+      pitch: 11.70008
+      yaw: -83.70108
+    Items:
+      '0':
+        type: WATER_BUCKET
+      '1':
+        type: SAND
+        amount: 46
+      '2':
+        type: BUCKET
+      '3':
+        type: DIAMOND_AXE
+        damage: 671
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_SWORD
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: IRON_SPADE
+        damage: 174
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 663
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: BUCKET
+      '8':
+        type: BUCKET
+      '9':
+        type: SANDSTONE
+        amount: 7
+      '10':
+        type: RABBIT
+      '11':
+        type: SAND
+        amount: 47
+      '12':
+        type: COBBLESTONE
+        amount: 5
+      '13':
+        type: ROTTEN_FLESH
+        amount: 2
+      '18':
+        type: DIRT
+        amount: 30
+      '27':
+        type: WOOD
+        damage: 1
+        amount: 62
+      '28':
+        type: LOG
+        damage: 1
+        amount: 45
+      '29':
+        type: APPLE
+        amount: 2
+      '32':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '33':
+        type: DIRT
+        amount: 59
+      '35':
+        type: IRON_SPADE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '12':
+    Time: 1462483212900
+    Exp: 902
+    Health: 11.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 4
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9977903
+        Amplifier: 1
+    Location:
+      world: world
+      x: 1294.5735573721909
+      y: 78.0
+      z: 3853.1417887413936
+      pitch: 11.70008
+      yaw: -83.70108
+    Items:
+      '0':
+        type: WATER_BUCKET
+      '1':
+        type: SAND
+        amount: 46
+      '2':
+        type: BUCKET
+      '3':
+        type: DIAMOND_AXE
+        damage: 671
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_SWORD
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: IRON_SPADE
+        damage: 174
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 663
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: BUCKET
+      '8':
+        type: BUCKET
+      '9':
+        type: SANDSTONE
+        amount: 7
+      '10':
+        type: RABBIT
+      '11':
+        type: SAND
+        amount: 47
+      '12':
+        type: COBBLESTONE
+        amount: 5
+      '13':
+        type: ROTTEN_FLESH
+        amount: 2
+      '18':
+        type: DIRT
+        amount: 30
+      '27':
+        type: WOOD
+        damage: 1
+        amount: 62
+      '28':
+        type: LOG
+        damage: 1
+        amount: 45
+      '29':
+        type: APPLE
+        amount: 2
+      '32':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '33':
+        type: DIRT
+        amount: 59
+      '35':
+        type: IRON_SPADE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

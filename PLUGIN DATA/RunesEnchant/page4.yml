@@ -1,0 +1,46 @@
+# Maximum 54 slots.
+
+1:
+ enchantment: explosive
+ level: 1
+ price: 207
+2:
+ enchantment: explosive
+ level: 2
+ price: 4371 
+3:
+ enchantment: explosive
+ level: 3
+ price: 781 
+4:
+ enchantment: explosive
+ level: 4
+ price: 1122
+5:
+ enchantment: explosive
+ level: 5
+ price: 4973 
+6:
+ enchantment: lucky_mining
+ level: 1
+ price: 266 
+7:
+ enchantment: lucky_mining
+ level: 2 
+ price: 569
+8:
+ enchantment: lucky_mining
+ level: 3
+ price: 799 
+9:
+ enchantment: lucky_mining
+ level: 4
+ price: 1264
+10:
+ enchantment: lucky_mining
+ level: 5
+ price: 5083 
+11:
+ enchantment: shooter
+ level: 1
+ price: 266

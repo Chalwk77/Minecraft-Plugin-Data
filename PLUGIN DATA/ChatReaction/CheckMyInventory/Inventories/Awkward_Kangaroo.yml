@@ -1,0 +1,641 @@
+Inventories:
+  '1':
+    Time: 1460872930478
+    Exp: 13
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 5389
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 5389
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 1789
+        Amplifier: 3
+    Location:
+      world: world
+      x: 14733.469027184268
+      y: 11.0
+      z: 9138.163570329938
+      pitch: 37.8
+      yaw: -169.62292
+    Items:
+      '0':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            1. Create an account§0
+            §0on Enjin.§0
+            §02. Now go to§0
+            §0jericraft.enjin.com§0,§0
+            §0click 'join website'§0
+            §0(top right corner) §0
+            §0now go to your profile§0
+            §0page and click 'add§0
+            §0character'. §0
+            §03. To verify your§0
+            §0minecraft character -§0
+            §0In Minecraft login to§0
+            §0mclogin.enjin.com§0 §0
+          - |
+            by using the Direct§0
+            §0Connect option. (Don't§0
+            §0use "Add Server"). §0
+            §0You will be kicked from§0
+            §0the server and§0
+            §0provided with a code. §0
+            §0* Enter this code on§0
+            §0the Add Character§0
+            §0window. §0
+            §0* Enter code provided§0
+            §0by server§0
+          generation: 0
+      '1':
+        type: DIAMOND_SWORD
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '3':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '9':
+        type: COOKED_CHICKEN
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '10':
+        type: COOKED_BEEF
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '11':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '12':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '13':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '14':
+        type: STONE_SWORD
+      '15':
+        type: IRON_PICKAXE
+      '16':
+        type: STONE_SPADE
+      '17':
+        type: STONE_AXE
+      '18':
+        type: BREAD
+        amount: 32
+      '19':
+        type: TORCH
+        amount: 32
+      '20':
+        type: WATER_BUCKET
+      '21':
+        type: LAVA_BUCKET
+      '22':
+        type: BEETROOT_SOUP
+      '23':
+        type: BEETROOT_SOUP
+      '24':
+        type: BEETROOT_SOUP
+      '25':
+        type: BEETROOT_SOUP
+      '26':
+        type: BEETROOT_SOUP
+      '27':
+        type: BEETROOT_SOUP
+      '29':
+        type: BEETROOT_SOUP
+      '31':
+        type: BEETROOT_SOUP
+      '32':
+        type: BEETROOT_SOUP
+      '33':
+        type: BEETROOT_SOUP
+      '34':
+        type: BEETROOT_SOUP
+      '35':
+        type: ARROW
+        amount: 2
+  '2':
+    Time: 1460873003124
+    Exp: 13
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 9.6
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: REGENERATION
+        Duration: 349
+        Amplifier: 1
+      '2':
+        Name: DAMAGE_RESISTANCE
+        Duration: 5949
+        Amplifier: 0
+      '3':
+        Name: FIRE_RESISTANCE
+        Duration: 5949
+        Amplifier: 0
+      '4':
+        Name: ABSORPTION
+        Duration: 2349
+        Amplifier: 3
+    Location:
+      world: world
+      x: 14735.64957508908
+      y: 11.0
+      z: 9141.497724079087
+      pitch: 74.399994
+      yaw: 332.49866
+    Items:
+      '0':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            1. Create an account§0
+            §0on Enjin.§0
+            §02. Now go to§0
+            §0jericraft.enjin.com§0,§0
+            §0click 'join website'§0
+            §0(top right corner) §0
+            §0now go to your profile§0
+            §0page and click 'add§0
+            §0character'. §0
+            §03. To verify your§0
+            §0minecraft character -§0
+            §0In Minecraft login to§0
+            §0mclogin.enjin.com§0 §0
+          - |
+            by using the Direct§0
+            §0Connect option. (Don't§0
+            §0use "Add Server"). §0
+            §0You will be kicked from§0
+            §0the server and§0
+            §0provided with a code. §0
+            §0* Enter this code on§0
+            §0the Add Character§0
+            §0window. §0
+            §0* Enter code provided§0
+            §0by server§0
+          generation: 0
+      '1':
+        type: DIAMOND_SWORD
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '3':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '4':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '9':
+        type: COOKED_CHICKEN
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '10':
+        type: COOKED_BEEF
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '11':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '12':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '13':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '14':
+        type: STONE_SWORD
+      '15':
+        type: IRON_PICKAXE
+      '16':
+        type: STONE_SPADE
+      '17':
+        type: STONE_AXE
+      '18':
+        type: BREAD
+        amount: 32
+      '19':
+        type: TORCH
+        amount: 32
+      '20':
+        type: WATER_BUCKET
+      '21':
+        type: LAVA_BUCKET
+      '22':
+        type: BEETROOT_SOUP
+      '23':
+        type: BEETROOT_SOUP
+      '24':
+        type: BEETROOT_SOUP
+      '25':
+        type: BEETROOT_SOUP
+      '26':
+        type: BEETROOT_SOUP
+      '27':
+        type: BEETROOT_SOUP
+      '28':
+        type: BEETROOT_SOUP
+      '29':
+        type: BEETROOT_SOUP
+      '30':
+        type: BEETROOT_SOUP
+      '31':
+        type: BEETROOT_SOUP
+      '32':
+        type: BEETROOT_SOUP
+      '33':
+        type: ARROW
+        amount: 4
+      '34':
+        type: BONE
+  '3':
+    Time: 1460874630039
+    Exp: 137
+    Health: 0.0
+    MaxHealth: 30.0
+    Saturation: 7.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: BLINDNESS
+        Duration: 79
+        Amplifier: 2
+      '2':
+        Name: POISON
+        Duration: 79
+        Amplifier: 2
+      '3':
+        Name: WITHER
+        Duration: 171
+        Amplifier: 0
+    Location:
+      world: world
+      x: -1022.0336958977553
+      y: 60.0
+      z: -1311.2143365044592
+      pitch: 15.893384
+      yaw: 100.34629
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SPADE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: RED_ROSE
+        amount: 2
+      '6':
+        type: COOKED_CHICKEN
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '7':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Aluminum Dust
+      '8':
+        type: COBBLESTONE
+        amount: 57
+      '9':
+        type: COAL
+        amount: 54
+      '10':
+        type: STONE
+        damage: 1
+        amount: 3
+      '11':
+        type: COBBLESTONE
+        amount: 61
+      '12':
+        type: STONE
+        damage: 5
+        amount: 15
+      '13':
+        type: ROTTEN_FLESH
+        amount: 3
+      '14':
+        type: BREAD
+        amount: 32
+      '15':
+        type: WATER_BUCKET
+      '16':
+        type: ARROW
+        amount: 7
+      '17':
+        type: BONE
+        amount: 12
+      '18':
+        type: SKULL_ITEM
+        damage: 1
+      '22':
+        type: TORCH
+        amount: 32
+      '30':
+        type: LAVA_BUCKET
+      '39':
+        type: LEATHER_HELMET
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §dCrown of the King
+          lore:
+          - §6A kingly crown that grants
+          - §6the wearer unwavering power!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            PROTECTION_FIRE: 3
+            PROTECTION_EXPLOSIONS: 3
+            PROTECTION_PROJECTILE: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy55vz/o35c0bTYWBk6QkE9qYnHJtf3ZMSlloY/YGNgcc/NL80ocVBjAgIOBF26iX2JuKoNgempealFmsl5uYoVHamJOSQYzA6d/QWpRYklmfh5ECwtYJZevY0S8h6ujT4gHA9Wsl4ZZn52Xn5ydlJicHZRanFlckpiXnIrmECaYQ0S8/fydvZ0cnb3jg1yDPYNDHP2cXRkYAO9im8UwAQAA
+          color:
+            ==: Color
+            RED: 245
+            BLUE: 52
+            GREEN: 240
+  '4':
+    Time: 1460883168053
+    Exp: 137
+    Health: 21.309995651245117
+    MaxHealth: 30.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 479.1843989771256
+      y: 89.0
+      z: -188.70360035593538
+      pitch: 20.188395
+      yaw: 255.35236
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SPADE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: RED_ROSE
+        amount: 2
+      '6':
+        type: COOKED_CHICKEN
+        amount: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '7':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Aluminum Dust
+      '8':
+        type: COBBLESTONE
+        amount: 57
+      '9':
+        type: COAL
+        amount: 54
+      '10':
+        type: STONE
+        damage: 1
+        amount: 3
+      '11':
+        type: COBBLESTONE
+        amount: 61
+      '12':
+        type: STONE
+        damage: 5
+        amount: 15
+      '13':
+        type: ROTTEN_FLESH
+        amount: 3
+      '14':
+        type: BREAD
+        amount: 32
+      '15':
+        type: WATER_BUCKET
+      '16':
+        type: ARROW
+        amount: 7
+      '17':
+        type: BONE
+        amount: 12
+      '18':
+        type: SKULL_ITEM
+        damage: 1
+      '22':
+        type: TORCH
+        amount: 32
+      '30':
+        type: LAVA_BUCKET
+      '39':
+        type: LEATHER_HELMET
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §dCrown of the King
+          lore:
+          - §6A kingly crown that grants
+          - §6the wearer unwavering power!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            PROTECTION_FIRE: 3
+            PROTECTION_EXPLOSIONS: 3
+            PROTECTION_PROJECTILE: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy55vz/o35c0bTYWBk6QkE9qYnHJtf3ZMSlloY/YGNgcc/NL80ocVBjAgIOBF26iX2JuKoNgempealFmsl5uYoVHamJOSQYzA6d/QWpRYklmfh5ECwtYJZevY0S8h6ujT4gHA9Wsl4ZZn52Xn5ydlJicHZRanFlckpiXnIrmECaYQ0S8/fydvZ0cnb3jg1yDPYNDHP2cXRkYAO9im8UwAQAA
+          color:
+            ==: Color
+            RED: 245
+            BLUE: 52
+            GREEN: 240

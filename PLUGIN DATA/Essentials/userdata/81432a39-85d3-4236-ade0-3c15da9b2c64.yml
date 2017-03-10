@@ -1,0 +1,25 @@
+logoutlocation:
+  world: world
+  x: -28996.749007327966
+  y: 65.0
+  z: -18616.6871743363
+  yaw: 230.9602
+  pitch: 8.42237
+timestamps:
+  logout: 1481804324021
+  login: 1481804308221
+  lastteleport: 1479650557578
+  kits:
+    pw: 1481252186760
+lastAccountName: Chalwk
+ipAddress: 203.173.177.254
+lastlocation:
+  world: world
+  x: -704119.6660579571
+  y: 99.01392027532835
+  z: 446015.63122680836
+  yaw: 120.04834
+  pitch: 23.503029
+money: '6814.276'
+godmode: false
+afk: false

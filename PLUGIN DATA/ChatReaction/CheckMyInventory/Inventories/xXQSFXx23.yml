@@ -1,0 +1,1480 @@
+Inventories:
+  '25':
+    Time: 1458455359906
+    Exp: 22028
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 18.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -169649.5
+      y: 75.0
+      z: 54908.5
+      pitch: 4.6299677
+      yaw: 58.510452
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 128
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 873
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '4':
+        type: BOW
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: GRILLED_PORK
+        amount: 20
+      '6':
+        type: IRON_INGOT
+        amount: 7
+      '7':
+        type: ARROW
+        amount: 34
+      '8':
+        type: GOLDEN_APPLE
+        amount: 4
+      '9':
+        type: RAW_CHICKEN
+      '10':
+        type: COOKED_MUTTON
+        amount: 19
+      '11':
+        type: WOOL
+        amount: 7
+      '12':
+        type: WOOL
+        damage: 15
+      '13':
+        type: MUTTON
+        amount: 2
+      '14':
+        type: STRING
+        amount: 2
+  '26':
+    Time: 1459465465051
+    Exp: 22028
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 18.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -169649.5
+      y: 75.0
+      z: 54908.5
+      pitch: 4.6299677
+      yaw: 58.510452
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 128
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 873
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '4':
+        type: BOW
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: GRILLED_PORK
+        amount: 20
+      '6':
+        type: IRON_INGOT
+        amount: 7
+      '7':
+        type: ARROW
+        amount: 34
+      '8':
+        type: GOLDEN_APPLE
+        amount: 4
+      '9':
+        type: RAW_CHICKEN
+      '10':
+        type: COOKED_MUTTON
+        amount: 19
+      '11':
+        type: WOOL
+        amount: 7
+      '12':
+        type: WOOL
+        damage: 15
+      '13':
+        type: MUTTON
+        amount: 2
+      '14':
+        type: STRING
+        amount: 2
+      '36':
+        type: IRON_BOOTS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Armored Jet Boots
+          lore:
+          - '§7Material: §bSteel'
+          - '§7Charge: §b0.0 J'
+          - '§7Capacity: §b30.0 J'
+          - '§7Speed: §e0.45'
+          - '§7Accuracy: §e65%'
+          - ''
+          - §7Hold §eShift§7 to use
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '27':
+    Time: 1459469873584
+    Exp: 22028
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 18.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -169649.5
+      y: 75.0
+      z: 54908.5
+      pitch: 4.6299677
+      yaw: 58.510452
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 128
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 873
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '4':
+        type: BOW
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: GRILLED_PORK
+        amount: 20
+      '6':
+        type: IRON_INGOT
+        amount: 7
+      '7':
+        type: ARROW
+        amount: 34
+      '8':
+        type: GOLDEN_APPLE
+        amount: 4
+      '9':
+        type: RAW_CHICKEN
+      '10':
+        type: COOKED_MUTTON
+        amount: 19
+      '11':
+        type: WOOL
+        amount: 7
+      '12':
+        type: WOOL
+        damage: 15
+      '13':
+        type: MUTTON
+        amount: 2
+      '14':
+        type: STRING
+        amount: 2
+      '36':
+        type: IRON_BOOTS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Armored Jet Boots
+          lore:
+          - '§7Material: §bSteel'
+          - '§7Charge: §b0.0 J'
+          - '§7Capacity: §b30.0 J'
+          - '§7Speed: §e0.45'
+          - '§7Accuracy: §e65%'
+          - ''
+          - §7Hold §eShift§7 to use
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '28':
+    Time: 1459659263084
+    Exp: 22028
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 18.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -169649.5
+      y: 75.0
+      z: 54908.5
+      pitch: 4.6299677
+      yaw: 58.510452
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 128
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 873
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '4':
+        type: BOW
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: GRILLED_PORK
+        amount: 20
+      '6':
+        type: IRON_INGOT
+        amount: 7
+      '7':
+        type: ARROW
+        amount: 34
+      '8':
+        type: GOLDEN_APPLE
+        amount: 4
+      '9':
+        type: RAW_CHICKEN
+      '10':
+        type: COOKED_MUTTON
+        amount: 19
+      '11':
+        type: WOOL
+        amount: 7
+      '12':
+        type: WOOL
+        damage: 15
+      '13':
+        type: MUTTON
+        amount: 2
+      '14':
+        type: STRING
+        amount: 2
+      '36':
+        type: IRON_BOOTS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Armored Jet Boots
+          lore:
+          - '§7Material: §bSteel'
+          - '§7Charge: §b0.0 J'
+          - '§7Capacity: §b30.0 J'
+          - '§7Speed: §e0.45'
+          - '§7Accuracy: §e65%'
+          - ''
+          - §7Hold §eShift§7 to use
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '29':
+    Time: 1459766737125
+    Exp: 22028
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 18.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -169649.5
+      y: 75.0
+      z: 54908.5
+      pitch: 4.6299677
+      yaw: 58.510452
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 128
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 873
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '4':
+        type: BOW
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: GRILLED_PORK
+        amount: 20
+      '6':
+        type: IRON_INGOT
+        amount: 7
+      '7':
+        type: ARROW
+        amount: 34
+      '8':
+        type: GOLDEN_APPLE
+        amount: 4
+      '9':
+        type: RAW_CHICKEN
+      '10':
+        type: COOKED_MUTTON
+        amount: 19
+      '11':
+        type: WOOL
+        amount: 7
+      '12':
+        type: WOOL
+        damage: 15
+      '13':
+        type: MUTTON
+        amount: 2
+      '14':
+        type: STRING
+        amount: 2
+      '36':
+        type: IRON_BOOTS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Armored Jet Boots
+          lore:
+          - '§7Material: §bSteel'
+          - '§7Charge: §b0.0 J'
+          - '§7Capacity: §b30.0 J'
+          - '§7Speed: §e0.45'
+          - '§7Accuracy: §e65%'
+          - ''
+          - §7Hold §eShift§7 to use
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '30':
+    Time: 1459847488048
+    Exp: 22028
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 18.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -169649.5
+      y: 75.0
+      z: 54908.5
+      pitch: 4.6299677
+      yaw: 58.510452
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 128
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 873
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '4':
+        type: BOW
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: GRILLED_PORK
+        amount: 20
+      '6':
+        type: IRON_INGOT
+        amount: 7
+      '7':
+        type: ARROW
+        amount: 34
+      '8':
+        type: GOLDEN_APPLE
+        amount: 4
+      '9':
+        type: RAW_CHICKEN
+      '10':
+        type: COOKED_MUTTON
+        amount: 19
+      '11':
+        type: WOOL
+        amount: 7
+      '12':
+        type: WOOL
+        damage: 15
+      '13':
+        type: MUTTON
+        amount: 2
+      '14':
+        type: STRING
+        amount: 2
+      '36':
+        type: IRON_BOOTS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Armored Jet Boots
+          lore:
+          - '§7Material: §bSteel'
+          - '§7Charge: §b0.0 J'
+          - '§7Capacity: §b30.0 J'
+          - '§7Speed: §e0.45'
+          - '§7Accuracy: §e65%'
+          - ''
+          - §7Hold §eShift§7 to use
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '31':
+    Time: 1460146823644
+    Exp: 22028
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 18.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -169649.5
+      y: 75.0
+      z: 54908.5
+      pitch: 4.6299677
+      yaw: 58.510452
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 128
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 873
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '4':
+        type: BOW
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: GRILLED_PORK
+        amount: 20
+      '6':
+        type: IRON_INGOT
+        amount: 7
+      '7':
+        type: ARROW
+        amount: 34
+      '8':
+        type: GOLDEN_APPLE
+        amount: 4
+      '9':
+        type: RAW_CHICKEN
+      '10':
+        type: COOKED_MUTTON
+        amount: 19
+      '11':
+        type: WOOL
+        amount: 7
+      '12':
+        type: WOOL
+        damage: 15
+      '13':
+        type: MUTTON
+        amount: 2
+      '14':
+        type: STRING
+        amount: 2
+      '36':
+        type: IRON_BOOTS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Armored Jet Boots
+          lore:
+          - '§7Material: §bSteel'
+          - '§7Charge: §b0.0 J'
+          - '§7Capacity: §b30.0 J'
+          - '§7Speed: §e0.45'
+          - '§7Accuracy: §e65%'
+          - ''
+          - §7Hold §eShift§7 to use
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '32':
+    Time: 1460883170597
+    Exp: 22028
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 18.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -169649.5
+      y: 75.0
+      z: 54908.5
+      pitch: 4.6299677
+      yaw: 58.510452
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 128
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 873
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '4':
+        type: BOW
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: GRILLED_PORK
+        amount: 20
+      '6':
+        type: IRON_INGOT
+        amount: 7
+      '7':
+        type: ARROW
+        amount: 34
+      '8':
+        type: GOLDEN_APPLE
+        amount: 4
+      '9':
+        type: RAW_CHICKEN
+      '10':
+        type: COOKED_MUTTON
+        amount: 19
+      '11':
+        type: WOOL
+        amount: 7
+      '12':
+        type: WOOL
+        damage: 15
+      '13':
+        type: MUTTON
+        amount: 2
+      '14':
+        type: STRING
+        amount: 2
+      '36':
+        type: IRON_BOOTS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Armored Jet Boots
+          lore:
+          - '§7Material: §bSteel'
+          - '§7Charge: §b0.0 J'
+          - '§7Capacity: §b30.0 J'
+          - '§7Speed: §e0.45'
+          - '§7Accuracy: §e65%'
+          - ''
+          - §7Hold §eShift§7 to use
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '33':
+    Time: 1462120695364
+    Exp: 22028
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 18.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -169645.30514623167
+      y: 75.0
+      z: 54905.97125538904
+      pitch: 24.234768
+      yaw: -26.696785
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 128
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 873
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '4':
+        type: BOW
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: GRILLED_PORK
+        amount: 20
+      '6':
+        type: IRON_INGOT
+        amount: 7
+      '7':
+        type: ARROW
+        amount: 34
+      '8':
+        type: GOLDEN_APPLE
+        amount: 4
+      '9':
+        type: RAW_CHICKEN
+      '10':
+        type: COOKED_MUTTON
+        amount: 19
+      '11':
+        type: WOOL
+        amount: 7
+      '12':
+        type: WOOL
+        damage: 15
+      '13':
+        type: MUTTON
+        amount: 2
+      '14':
+        type: STRING
+        amount: 2
+      '36':
+        type: IRON_BOOTS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Armored Jet Boots
+          lore:
+          - '§7Material: §bSteel'
+          - '§7Charge: §b0.0 J'
+          - '§7Capacity: §b30.0 J'
+          - '§7Speed: §e0.45'
+          - '§7Accuracy: §e65%'
+          - ''
+          - §7Hold §eShift§7 to use
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '34':
+    Time: 1462483219072
+    Exp: 22028
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 18.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -169645.30514623167
+      y: 75.0
+      z: 54905.97125538904
+      pitch: 24.234768
+      yaw: -26.696785
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 128
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 873
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '4':
+        type: BOW
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: GRILLED_PORK
+        amount: 20
+      '6':
+        type: IRON_INGOT
+        amount: 7
+      '7':
+        type: ARROW
+        amount: 34
+      '8':
+        type: GOLDEN_APPLE
+        amount: 4
+      '9':
+        type: RAW_CHICKEN
+      '10':
+        type: COOKED_MUTTON
+        amount: 19
+      '11':
+        type: WOOL
+        amount: 7
+      '12':
+        type: WOOL
+        damage: 15
+      '13':
+        type: MUTTON
+        amount: 2
+      '14':
+        type: STRING
+        amount: 2
+      '36':
+        type: IRON_BOOTS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Armored Jet Boots
+          lore:
+          - '§7Material: §bSteel'
+          - '§7Charge: §b0.0 J'
+          - '§7Capacity: §b30.0 J'
+          - '§7Speed: §e0.45'
+          - '§7Accuracy: §e65%'
+          - ''
+          - §7Hold §eShift§7 to use
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

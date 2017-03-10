@@ -1,0 +1,87 @@
+lastlocation:
+  world: world_nether
+  x: 166.59884392442345
+  y: 70.0
+  z: -83.96376815949844
+  yaw: 124.59906
+  pitch: 46.650074
+lastAccountName: HunterLachy
+timestamps:
+  login: 1478336493258
+  logout: 1478336521542
+  lastteleport: 1471604902422
+ipAddress: 122.106.240.12
+geolocation: Narrabeen, New South Wales, Australia
+logoutlocation:
+  world: world
+  x: -2033.2226397417512
+  y: 80.0
+  z: -1189.2676214474477
+  yaw: 154.6611
+  pitch: -27.60004
+money: '2500'
+homes:
+  elytrafun:
+    world: world
+    x: -9557.560761913
+    y: 256.0
+    z: -11864.058537404393
+    yaw: -250.20523
+    pitch: 63.30011
+  myhouse:
+    world: world
+    x: -2054.1482690295256
+    y: 84.0625
+    z: -1184.638691116023
+    yaw: -10.189181
+    pitch: 26.875212
+  animalfarm:
+    world: world
+    x: -2068.835736928396
+    y: 77.0
+    z: -1169.4626163731668
+    yaw: 97.96086
+    pitch: 42.325188
+  peakshouse:
+    world: world
+    x: -2057.070393002278
+    y: 120.0
+    z: -1225.9090686634047
+    yaw: 96.31318
+    pitch: 40.949852
+  holoshouse:
+    world: world
+    x: -2082.417775743968
+    y: 118.0625
+    z: -1225.6976580228963
+    yaw: 271.51312
+    pitch: 36.149834
+  mtfshouse:
+    world: world
+    x: -2035.3492860464348
+    y: 113.0
+    z: -1216.518514546606
+    yaw: 8.410828
+    pitch: 40.350056
+  nessingshouse:
+    world: world
+    x: -2071.572880828418
+    y: 100.0
+    z: -1195.303265386337
+    yaw: 358.96277
+    pitch: 32.249805
+  lookout:
+    world: world
+    x: -2055.2471933920947
+    y: 99.0
+    z: -1190.5706929489618
+    yaw: 1.9631271
+    pitch: 38.69968
+  treegame:
+    world: world
+    x: -2040.730154213464
+    y: 223.0
+    z: -1136.6220422641552
+    yaw: -270.54846
+    pitch: 49.34999
+afk: false

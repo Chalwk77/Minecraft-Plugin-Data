@@ -1,0 +1,142 @@
+VarsonAxe:
+  Id: 279
+  Display: '&6Cataclysm, Battleaxe of Lord Varson'
+  Lore:
+  - '&8Rarity: &6Mythic'
+  - '&4&oVengence is finally mine'
+  Enchantments:
+  - DAMAGE_UNDEAD:10
+  - DAMAGE_ARTHROPODS:10
+  - DAMAGE_ALL:5
+  - FIRE_ASPECT:2
+  - ARROW_INFINITE:10
+  Options:
+    Damage: 13
+    MovementSpeed: 0.1
+    FollowRange: -10
+VarsonFlame:
+  Id: 377
+  Display: '&cFlamecore of Varson'
+  Lore:
+  - '&8Rarity: &6Mythic'
+  - '&4The core that burns within Varson...'
+  Enchantments:
+  - DURABILITY:1
+MASword:
+  Id: 267
+MAChest:
+  Id: 299
+  Data: 0
+  Display: '&6Mob Alliance Combat Chestplate'
+  Lore:
+  - '&8Rarity: &fCommon'
+  Options:
+    Color: 0,0,255
+MALegs:
+  Id: 300
+  Data: 0
+  Display: '&6Mob Alliance Combat Leggings'
+  Lore:
+  - '&8Rarity: &fCommon'
+  Options:
+    Color: 0,0,255
+MAFeet:
+  Id: 301
+  Data: 0
+  Display: '&6Mob Alliance Combat Boots'
+  Lore:
+  - '&8Rarity: &fCommon'
+  Options:
+    Color: 0,0,255
+MAHelmIII:
+  Id: 298
+  Display: '&6Mob Alliance &cLegionare Helm'
+  Lore:
+  - '&8Rarity: &fCommon'
+  Options:
+    Color: 255,0,0
+GodSword:
+  Id: 276
+  Data: 0
+  Enchantments:
+  - DAMAGE_ALL:5
+  - FIRE_ASPECT:2
+  - KNOCKBACK:2
+  - DAMAGE_UNDEAD:5
+  - DAMAGE_ARTHROPODS:5
+  - LOOT_BONUS_MOBS:3
+  - DURABILITY:3
+GodBow:
+  Id: 261
+  Data: 0
+  Enchantments:
+  - ARROW_FIRE:1
+  - ARROW_DAMAGE:5
+  - ARROW_KNOCKBACK:2
+  - ARROW_INFINITE:1
+  - DURABILITY:3
+GodHelm:
+  Id: 310
+  Data: 0
+  Enchantments:
+  - PROTECTION_FIRE:4
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - DURABILITY:3
+  - WATER_WORKER:1
+  - OXYGEN:3
+GodChestplate:
+  Id: 311
+  Data: 0
+  Enchantments:
+  - PROTECTION_FIRE:4
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - DURABILITY:3
+GodLeggings:
+  Id: 312
+  Data: 0
+  Enchantments:
+  - PROTECTION_FIRE:4
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - DURABILITY:3
+GodBoots:
+  Id: 313
+  Data: 0
+  Enchantments:
+  - PROTECTION_FIRE:4
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - PROTECTION_FALL:4
+  - DEPTH_STRIDER:3
+  - DURABILITY:3
+DroneB:
+  Id: 261
+  Data: 0
+  Display: '&8Iron Bow'
+  Lore:
+  - '&8Rarity: &6Mythic'
+  - '&4&oOne shot, one kill'
+  Enchantments:
+  - ARROW_DAMAGE:6
+  - DURABILITY:4
+  - ARROW_INFINITE:1
+DiamondHelm:
+  Id: 310
+DSentSword:
+  Id: 276
+  Data: 0
+  Enchantments:
+  - KNOCKBACK:2
+  - FIRE_ASPECT:1
+DroneDiamond:
+  Id: 264
+DroneIron:
+  Id: 265
+DroneRedstone:
+  Id: 331

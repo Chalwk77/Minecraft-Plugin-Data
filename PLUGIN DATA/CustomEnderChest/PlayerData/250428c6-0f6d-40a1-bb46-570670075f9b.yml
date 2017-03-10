@@ -1,0 +1,228 @@
+PlayerLastName: TheMagmaRusher
+EnderChestSize: 18
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 9
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aEnchanted Golden Apple
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aDiamond Shovel
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HOE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aDiamond Hoe
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    amount: 13
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §aHerobrine's Skill
+      custom-effects:
+      - ==: PotionEffect
+        effect: 8
+        duration: 2200
+        amplifier: 3
+        ambient: true
+        has-particles: true
+      - ==: PotionEffect
+        effect: 16
+        duration: 400
+        amplifier: 4
+        ambient: true
+        has-particles: true
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR_CANE
+    amount: 41
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §cSoul Jar §7(Magma Cube)
+      lore:
+      - ''
+      - '§7Infused Souls: §e128'
+      internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJusuPHBsadYksRRFZbvwsFVjUIDTCU/URy7HHycyoACq8HZpByq/uWlZSKPBMC3i3rEwX9irXyoLoml4SQ7NLlGkktQgqkC3ylamCOk830fWVuC9A6cWjHzpxVwHgSYHXKJWDgF8xuiiJz6iIXZmP1Jw5PCDp0/pm0Us0Zg41aTv77Ye5G+1/rdGnJ0Ny4p6TSzBkbYR2ZC/Fdr/M2+MPb4MHn3LCcCS9kGM+BYTjtWR1o/PTEfM6x/5pf2ab48hrTpI6wP7n95KF3uRt1g3DbpNsAsLCdc1CaniYV2W8tAEUeGFpK2DhHJxrJ3ZVBvAHQcXUEyoBAAA=
+      skull-owner: CSCoreLib
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §eCrying Challenge
+      custom-effects:
+      - ==: PotionEffect
+        effect: 23
+        duration: 400
+        amplifier: 3
+        ambient: true
+        has-particles: true
+      - ==: PotionEffect
+        effect: 2
+        duration: 2400
+        amplifier: 4
+        ambient: true
+        has-particles: true
+      - ==: PotionEffect
+        effect: 10
+        duration: 2800
+        amplifier: 1
+        ambient: true
+        has-particles: true
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §6Legendary Wolf
+      custom-effects:
+      - ==: PotionEffect
+        effect: 19
+        duration: 1800
+        amplifier: 1
+        ambient: true
+        has-particles: true
+      - ==: PotionEffect
+        effect: 21
+        duration: 2000
+        amplifier: 1
+        ambient: true
+        has-particles: true
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §4Strawberry Smoothie
+      lore:
+      - ''
+      - §7§oRestores §b§o5.0 §7§oHunger
+      custom-effects:
+      - ==: PotionEffect
+        effect: 23
+        duration: 10
+        amplifier: 0
+        ambient: true
+        has-particles: true
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §aFaithful Skill
+      custom-effects:
+      - ==: PotionEffect
+        effect: 27
+        duration: 1800
+        amplifier: 2
+        ambient: true
+        has-particles: true
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §9Gallifreyan Screwdriver
+      custom-effects:
+      - ==: PotionEffect
+        effect: 22
+        duration: 600
+        amplifier: 2
+        ambient: true
+        has-particles: true
+      - ==: PotionEffect
+        effect: 23
+        duration: 2200
+        amplifier: 1
+        ambient: true
+        has-particles: true
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §cEnchanted Lump
+      custom-effects:
+      - ==: PotionEffect
+        effect: 14
+        duration: 2600
+        amplifier: 4
+        ambient: true
+        has-particles: true
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §7Tome of Analizing
+      lore:
+      - ''
+      - §eRight Click §7to analize Items
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §7Tome of Analizing
+      lore:
+      - ''
+      - §eRight Click §7to analize Items
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §9Godly Swiftness
+      custom-effects:
+      - ==: PotionEffect
+        effect: 11
+        duration: 2000
+        amplifier: 3
+        ambient: true
+        has-particles: true

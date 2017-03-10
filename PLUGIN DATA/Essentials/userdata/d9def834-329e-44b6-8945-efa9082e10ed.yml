@@ -1,0 +1,21 @@
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+geolocation: Kellyville, New South Wales, Australia
+lastAccountName: LunaSounds
+timestamps:
+  login: 1470328942498
+  logout: 1470329251421
+ipAddress: 122.148.130.16
+logoutlocation:
+  world: world
+  x: 502.9284162414303
+  y: 88.0
+  z: -187.0000636614338
+  yaw: 89.95038
+  pitch: -3.0000052
+money: '2500'

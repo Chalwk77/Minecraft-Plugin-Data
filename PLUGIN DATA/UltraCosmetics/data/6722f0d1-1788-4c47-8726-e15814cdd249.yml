@@ -1,0 +1,34 @@
+Keys: 0
+Ammo:
+  batblaster: 0
+  chickenator: 0
+  colorbomb: 0
+  discoball: 0
+  etherealpearl: 0
+  fleshhook: 0
+  melonthrower: 0
+  blizzardblaster: 15
+  portalgun: 0
+  explosivesheep: 0
+  paintballgun: 0
+  thorhammer: 499
+  antigravity: 0
+  smashdown: 0
+  rocket: 0
+  blackhole: 0
+  tsunami: 0
+  tnt: 0
+  fungun: 79
+  parachute: 0
+  quakegun: 0
+  ghostparty: 0
+  firework: 0
+  christmastree: 103
+  freezecannon: 0
+  snowball: 0
+  partypopper: 643
+  trampoline: 23
+Gadgets-Enabled: true
+Third-Person-Morph-View: false
+Pet-Names:
+  EasterBunny: Hannipleb

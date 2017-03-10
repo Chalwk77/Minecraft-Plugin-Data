@@ -1,0 +1,23 @@
+lastlocation:
+  world: world
+  x: 675.5
+  y: 62.07500000000745
+  z: 154.5
+  yaw: 109.95014
+  pitch: 36.74999
+lastAccountName: JaspaOliver2005
+timestamps:
+  login: 1477888526210
+  logout: 1477888633305
+  lastteleport: 1473154219327
+ipAddress: 60.240.231.95
+geolocation: Eltham, Victoria, Australia
+money: '19828.81330000000000025'
+logoutlocation:
+  world: world
+  x: 674.5
+  y: 61.07500000000745
+  z: 154.5
+  yaw: -128.69998
+  pitch: -72.15002
+afk: false

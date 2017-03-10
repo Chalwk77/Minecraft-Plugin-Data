@@ -1,0 +1,42 @@
+lastAccountName: Hannibun
+timestamps:
+  login: 1470379947593
+  kits:
+    tools: 1448710408460
+    food: 1453102498688
+  lastteleport: 1470380595981
+  logout: 1470380598603
+ipAddress: 1.123.147.135
+geolocation: Adelaide, South Australia, Australia
+lastlocation:
+  world: world
+  x: -310414.16656666464
+  y: 71.0
+  z: -625922.1988510578
+  yaw: -275.70605
+  pitch: 11.235123
+money: '2500'
+logoutlocation:
+  world: world
+  x: 29156.5
+  y: 156.0
+  z: -13526.5
+  yaw: -89.09836
+  pitch: 4.499994
+homes:
+  home:
+    world: world
+    x: 29156.538586951265
+    y: 156.0
+    z: -13526.980239606122
+    yaw: -89.09836
+    pitch: 4.499994
+  mining:
+    world: world
+    x: -11149.644311339132
+    y: 68.0
+    z: 3407.9345261484414
+    yaw: -49.652557
+    pitch: 58.049934
+afk: false
+godmode: true

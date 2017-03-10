@@ -1,0 +1,132 @@
+#################################################################
+## YMIR
+# DROP ITEMS
+ymir_mind:
+  Id: diamond_helmet
+  Data: 214
+  Display: '&3&oYmirs Mind'
+  Lore:
+  - ''
+  - '&1&o...but of his brain,'
+  - '&1&othe heavy clouds are all created...'
+  Options:
+    Damage: 1
+  Enchantments:
+  - DURABILITY:4
+ymir_skull:
+  Id: 278
+  Data: 203
+  Display: '&3&oYmirs Skull'
+  Lore:
+  - ''
+  - '&1&o...the heaven from the skull,'
+  - '&1&oof that ice cold giant....'
+  Options:
+    MovementSpeed: 0.1
+  Enchantments:
+  - LOOT_BONUS_BLOCKS:5
+ymir_bones:
+  Id: diamond_chestplate
+  Data: 153
+  Display: '&3&oYmirs Bones'
+  Lore:
+  - ''
+  - '&1&oForged with the essence of Ymirs'
+  - '&1&obones. Increases ones greed.'
+  Options:
+    KnockbackResistance: 0.09
+    Damage: 1
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:6
+# GEAR ITEMS
+ymir_dummy:
+  Id: 0
+ymir_helmet:
+  Id: 310
+  Options:
+    Unbreakable: true
+  Enchantments:
+  - DURABILITY:1
+ymir_chestplate:
+  Id: 311
+  Options:
+    Unbreakable: true
+  Enchantments:
+  - DURABILITY:1
+ymir_chestplate_leather:
+  Id: 299
+  Options:
+    Unbreakable: true
+    Color: 84,213,235
+  Enchantments:
+  - DURABILITY:1
+ymir_leggings:
+  Id: 312
+  Options:
+    Unbreakable: true
+  Enchantments:
+  - DURABILITY:1
+ymir_leggings_leather:
+  Id: 300
+  Options:
+    Unbreakable: true
+    Color: 84,213,235
+  Enchantments:
+  - DURABILITY:1
+ymir_boots:
+  Id: 313
+  Options:
+    Unbreakable: true
+  Enchantments:
+  - DURABILITY:1
+ymir_weapon:
+  Id: 278
+  Options:
+    Unbreakable: true
+  Enchantments:
+  - DURABILITY:1
+#################################################################
+## DWARFS
+# DROP ITEMS
+DwarfenDiamondPickDrop:
+  Id: 278
+  Data: 1001
+  Display: '&b&oDwarfen Pickaxe'
+  Lore:
+  - ''
+  - '&c&oForged by dwarfs, for dwarfs.'
+  - '&c&oYou really shouldnt have this.'
+  Options:
+    MovementSpeed: 0.05
+  Enchantments:
+  - DAMAGE_ALL:2
+  - KNOCKBACK:1
+  - LOOT_BONUS_BLOCKS:4
+# GEAR ITEMS (DWARF)
+dblockitem:
+  Id: diamond_block
+NoRageIronPick:
+  Id: 257
+  Options:
+    Unbreakable: true
+  Enchantments:
+  - DAMAGE_ALL:4
+  - KNOCKBACK:1
+NoRageIronPickKBR:
+  Id: 257
+  Options:
+    Unbreakable: true
+    KnockbackResistance: 10
+  Enchantments:
+  - DAMAGE_ALL:4
+  - KNOCKBACK:1
+DwarfenDiamondPick:
+  Id: 278
+  Options:
+    Unbreakable: true
+    MovementSpeed: 0.1
+  Enchantments:
+  - DAMAGE_ALL:5
+  - DIG_SPEED:1
+  - KNOCKBACK:2
+  - LOOT_BONUS_BLOCKS:4

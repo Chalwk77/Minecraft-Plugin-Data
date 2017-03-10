@@ -1,0 +1,59 @@
+lastAccountName: salexm44
+timestamps:
+  login: 1472682671581
+  lastteleport: 1472704415244
+  kits:
+    color: 1468256194053
+    drinks: 1467756387297
+    sking_arena: 1467753820851
+    dtools: 1472628607401
+    food: 1472604215631
+  logout: 1472704572082
+ipAddress: 66.170.206.80
+geolocation: Conroe, Texas, United States
+lastlocation:
+  world: world_nether
+  x: -87.93195828720552
+  y: 60.0
+  z: -1222.3133473789123
+  yaw: 96.54999
+  pitch: 11.7000065
+money: '142179.08099999999758102'
+homes:
+  home:
+    world: world
+    x: 4968.512234108301
+    y: 92.0
+    z: -4684.1316353965285
+    yaw: -207.75064
+    pitch: 24.600079
+  up:
+    world: world
+    x: 6250.654208251012
+    y: 66.0
+    z: -6025.221975471066
+    yaw: 331.94763
+    pitch: 23.099945
+  mine:
+    world: world
+    x: 4283.355842913097
+    y: 10.0
+    z: -4401.500810639147
+    yaw: -32.701782
+    pitch: -2.999944
+  help:
+    world: world
+    x: 1257.0809131890433
+    y: 70.0
+    z: -709.654736842896
+    yaw: -307.31476
+    pitch: 18.672195
+logoutlocation:
+  world: world
+  x: 4993.699999988079
+  y: 101.5
+  z: -4686.300000011921
+  yaw: -226.5007
+  pitch: 26.100086
+afk: false
+godmode: false

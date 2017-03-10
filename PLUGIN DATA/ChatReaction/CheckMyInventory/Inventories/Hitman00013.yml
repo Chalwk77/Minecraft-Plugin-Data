@@ -1,0 +1,1818 @@
+Inventories:
+  '3':
+    Time: 1458455362299
+    Exp: 40
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 7.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14708.298728771413
+      y: 68.0
+      z: 9081.464012193372
+      pitch: 7.2434177
+      yaw: 95.95593
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: STONE
+        damage: 1
+        amount: 3
+      '2':
+        type: COBBLESTONE
+      '3':
+        type: LOG
+        damage: 1
+        amount: 11
+      '4':
+        type: DIAMOND_SWORD
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        damage: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '7':
+        type: DIAMOND_AXE
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '8':
+        type: RABBIT
+      '9':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Strawberry Bush
+      '10':
+        type: BONE
+        amount: 2
+      '11':
+        type: ARROW
+        amount: 2
+      '14':
+        type: DIRT
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '18':
+        type: SAPLING
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sweet Potato Plant
+      '19':
+        type: SULPHUR
+        amount: 2
+      '20':
+        type: SAND
+        amount: 3
+      '21':
+        type: RABBIT_HIDE
+        amount: 2
+      '22':
+        type: PORK
+        amount: 3
+      '25':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §aTea Leaf
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JbkIg/LogujKQ5xsCCgzA5kDI8ZNQgN+FX9xLLs8uScowKo8LZveiG+2+u5ElyBZ1LAu45o2rppagY6qJnFydE+OFpabji2kxeLDDNDBXWabrztKn6fgdLxoetbflcB4EmB1yQTPYdfPnrIjiUWR0+cRmJPHO1R7Eh9W5BLMuYrYhM5+c3S3o7Ov9bqsoMlUsMr2SXoc5ng1ggF34T6ScY/NIoH36VmWgdzGhH0518VjQrJIjqnayZ8GY+sDhv6SB/M9ev0EFvsEOipTBq2Xg5UEtxFZTN9YucmFR0953zETwAFXvxMcpit9qtry7dVDvAHcA8phyoBAAA=
+          skull-owner: CSCoreLib
+      '26':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Strawberry
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '27':
+        type: COOKED_CHICKEN
+        amount: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '34':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '35':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+  '4':
+    Time: 1459465465895
+    Exp: 338
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9980134
+        Amplifier: 1
+    Location:
+      world: world
+      x: -982.6999999880791
+      y: 13.0
+      z: -3823.4442255753283
+      pitch: 23.583916
+      yaw: -151.64478
+    Items:
+      '0':
+        type: STONE_PICKAXE
+        damage: 95
+      '1':
+        type: IRON_PICKAXE
+        damage: 185
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: COOKED_BEEF
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '4':
+        type: DIAMOND_SWORD
+        damage: 65
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: GRILLED_PORK
+        amount: 4
+      '7':
+        type: SUGAR
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 14
+      '9':
+        type: INK_SACK
+        damage: 4
+        amount: 28
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: GOLD_ORE
+        amount: 5
+      '12':
+        type: BONE
+      '13':
+        type: STONE
+        damage: 1
+      '14':
+        type: DIAMOND_PICKAXE
+        damage: 112
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '16':
+        type: COAL
+        amount: 42
+      '17':
+        type: ROTTEN_FLESH
+      '18':
+        type: STONE_PICKAXE
+      '21':
+        type: WORKBENCH
+      '22':
+        type: DIAMOND
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 26
+      '24':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '26':
+        type: STRING
+      '27':
+        type: STONE_PICKAXE
+      '29':
+        type: IRON_ORE
+        amount: 16
+      '30':
+        type: CHEST
+      '31':
+        type: MINECART
+      '32':
+        type: DIAMOND
+        amount: 20
+      '34':
+        type: COOKED_CHICKEN
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '5':
+    Time: 1459469874332
+    Exp: 338
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9980134
+        Amplifier: 1
+    Location:
+      world: world
+      x: -982.6999999880791
+      y: 13.0
+      z: -3823.4442255753283
+      pitch: 23.583916
+      yaw: -151.64478
+    Items:
+      '0':
+        type: STONE_PICKAXE
+        damage: 95
+      '1':
+        type: IRON_PICKAXE
+        damage: 185
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: COOKED_BEEF
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '4':
+        type: DIAMOND_SWORD
+        damage: 65
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: GRILLED_PORK
+        amount: 4
+      '7':
+        type: SUGAR
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 14
+      '9':
+        type: INK_SACK
+        damage: 4
+        amount: 28
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: GOLD_ORE
+        amount: 5
+      '12':
+        type: BONE
+      '13':
+        type: STONE
+        damage: 1
+      '14':
+        type: DIAMOND_PICKAXE
+        damage: 112
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '16':
+        type: COAL
+        amount: 42
+      '17':
+        type: ROTTEN_FLESH
+      '18':
+        type: STONE_PICKAXE
+      '21':
+        type: WORKBENCH
+      '22':
+        type: DIAMOND
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 26
+      '24':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '26':
+        type: STRING
+      '27':
+        type: STONE_PICKAXE
+      '29':
+        type: IRON_ORE
+        amount: 16
+      '30':
+        type: CHEST
+      '31':
+        type: MINECART
+      '32':
+        type: DIAMOND
+        amount: 20
+      '34':
+        type: COOKED_CHICKEN
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '6':
+    Time: 1459659263960
+    Exp: 338
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9980134
+        Amplifier: 1
+    Location:
+      world: world
+      x: -982.6999999880791
+      y: 13.0
+      z: -3823.4442255753283
+      pitch: 23.583916
+      yaw: -151.64478
+    Items:
+      '0':
+        type: STONE_PICKAXE
+        damage: 95
+      '1':
+        type: IRON_PICKAXE
+        damage: 185
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: COOKED_BEEF
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '4':
+        type: DIAMOND_SWORD
+        damage: 65
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: GRILLED_PORK
+        amount: 4
+      '7':
+        type: SUGAR
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 14
+      '9':
+        type: INK_SACK
+        damage: 4
+        amount: 28
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: GOLD_ORE
+        amount: 5
+      '12':
+        type: BONE
+      '13':
+        type: STONE
+        damage: 1
+      '14':
+        type: DIAMOND_PICKAXE
+        damage: 112
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '16':
+        type: COAL
+        amount: 42
+      '17':
+        type: ROTTEN_FLESH
+      '18':
+        type: STONE_PICKAXE
+      '21':
+        type: WORKBENCH
+      '22':
+        type: DIAMOND
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 26
+      '24':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '26':
+        type: STRING
+      '27':
+        type: STONE_PICKAXE
+      '29':
+        type: IRON_ORE
+        amount: 16
+      '30':
+        type: CHEST
+      '31':
+        type: MINECART
+      '32':
+        type: DIAMOND
+        amount: 20
+      '34':
+        type: COOKED_CHICKEN
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '7':
+    Time: 1459766738153
+    Exp: 338
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9980134
+        Amplifier: 1
+    Location:
+      world: world
+      x: -982.6999999880791
+      y: 13.0
+      z: -3823.4442255753283
+      pitch: 23.583916
+      yaw: -151.64478
+    Items:
+      '0':
+        type: STONE_PICKAXE
+        damage: 95
+      '1':
+        type: IRON_PICKAXE
+        damage: 185
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: COOKED_BEEF
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '4':
+        type: DIAMOND_SWORD
+        damage: 65
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: GRILLED_PORK
+        amount: 4
+      '7':
+        type: SUGAR
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 14
+      '9':
+        type: INK_SACK
+        damage: 4
+        amount: 28
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: GOLD_ORE
+        amount: 5
+      '12':
+        type: BONE
+      '13':
+        type: STONE
+        damage: 1
+      '14':
+        type: DIAMOND_PICKAXE
+        damage: 112
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '16':
+        type: COAL
+        amount: 42
+      '17':
+        type: ROTTEN_FLESH
+      '18':
+        type: STONE_PICKAXE
+      '21':
+        type: WORKBENCH
+      '22':
+        type: DIAMOND
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 26
+      '24':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '26':
+        type: STRING
+      '27':
+        type: STONE_PICKAXE
+      '29':
+        type: IRON_ORE
+        amount: 16
+      '30':
+        type: CHEST
+      '31':
+        type: MINECART
+      '32':
+        type: DIAMOND
+        amount: 20
+      '34':
+        type: COOKED_CHICKEN
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '8':
+    Time: 1459847489288
+    Exp: 338
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9980134
+        Amplifier: 1
+    Location:
+      world: world
+      x: -982.6999999880791
+      y: 13.0
+      z: -3823.4442255753283
+      pitch: 23.583916
+      yaw: -151.64478
+    Items:
+      '0':
+        type: STONE_PICKAXE
+        damage: 95
+      '1':
+        type: IRON_PICKAXE
+        damage: 185
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: COOKED_BEEF
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '4':
+        type: DIAMOND_SWORD
+        damage: 65
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: GRILLED_PORK
+        amount: 4
+      '7':
+        type: SUGAR
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 14
+      '9':
+        type: INK_SACK
+        damage: 4
+        amount: 28
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: GOLD_ORE
+        amount: 5
+      '12':
+        type: BONE
+      '13':
+        type: STONE
+        damage: 1
+      '14':
+        type: DIAMOND_PICKAXE
+        damage: 112
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '16':
+        type: COAL
+        amount: 42
+      '17':
+        type: ROTTEN_FLESH
+      '18':
+        type: STONE_PICKAXE
+      '21':
+        type: WORKBENCH
+      '22':
+        type: DIAMOND
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 26
+      '24':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '26':
+        type: STRING
+      '27':
+        type: STONE_PICKAXE
+      '29':
+        type: IRON_ORE
+        amount: 16
+      '30':
+        type: CHEST
+      '31':
+        type: MINECART
+      '32':
+        type: DIAMOND
+        amount: 20
+      '34':
+        type: COOKED_CHICKEN
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '9':
+    Time: 1460146824584
+    Exp: 338
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9980134
+        Amplifier: 1
+    Location:
+      world: world
+      x: -982.6999999880791
+      y: 13.0
+      z: -3823.4442255753283
+      pitch: 23.583916
+      yaw: -151.64478
+    Items:
+      '0':
+        type: STONE_PICKAXE
+        damage: 95
+      '1':
+        type: IRON_PICKAXE
+        damage: 185
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: COOKED_BEEF
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '4':
+        type: DIAMOND_SWORD
+        damage: 65
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: GRILLED_PORK
+        amount: 4
+      '7':
+        type: SUGAR
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 14
+      '9':
+        type: INK_SACK
+        damage: 4
+        amount: 28
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: GOLD_ORE
+        amount: 5
+      '12':
+        type: BONE
+      '13':
+        type: STONE
+        damage: 1
+      '14':
+        type: DIAMOND_PICKAXE
+        damage: 112
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '16':
+        type: COAL
+        amount: 42
+      '17':
+        type: ROTTEN_FLESH
+      '18':
+        type: STONE_PICKAXE
+      '21':
+        type: WORKBENCH
+      '22':
+        type: DIAMOND
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 26
+      '24':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '26':
+        type: STRING
+      '27':
+        type: STONE_PICKAXE
+      '29':
+        type: IRON_ORE
+        amount: 16
+      '30':
+        type: CHEST
+      '31':
+        type: MINECART
+      '32':
+        type: DIAMOND
+        amount: 20
+      '34':
+        type: COOKED_CHICKEN
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '10':
+    Time: 1460883171798
+    Exp: 338
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 11.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9978744
+        Amplifier: 1
+    Location:
+      world: world
+      x: 14702.053299022338
+      y: 71.0
+      z: 9140.115671183221
+      pitch: 26.887115
+      yaw: 177.65828
+    Items:
+      '0':
+        type: STONE_PICKAXE
+        damage: 95
+      '1':
+        type: IRON_PICKAXE
+        damage: 185
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: COOKED_BEEF
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '4':
+        type: DIAMOND_SWORD
+        damage: 65
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: GRILLED_PORK
+        amount: 3
+      '7':
+        type: SUGAR
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 14
+      '9':
+        type: INK_SACK
+        damage: 4
+        amount: 28
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: GOLD_ORE
+        amount: 5
+      '12':
+        type: BONE
+      '13':
+        type: STONE
+        damage: 1
+      '14':
+        type: DIAMOND_PICKAXE
+        damage: 112
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '16':
+        type: COAL
+        amount: 42
+      '17':
+        type: ROTTEN_FLESH
+      '18':
+        type: STONE_PICKAXE
+      '21':
+        type: WORKBENCH
+      '22':
+        type: DIAMOND
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 26
+      '24':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '26':
+        type: STRING
+      '27':
+        type: STONE_PICKAXE
+      '29':
+        type: IRON_ORE
+        amount: 16
+      '30':
+        type: CHEST
+      '31':
+        type: MINECART
+      '32':
+        type: DIAMOND
+        amount: 20
+      '34':
+        type: COOKED_CHICKEN
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '11':
+    Time: 1462120696445
+    Exp: 338
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 11.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9978744
+        Amplifier: 1
+    Location:
+      world: world
+      x: 14702.053299022338
+      y: 71.0
+      z: 9140.115671183221
+      pitch: 26.887115
+      yaw: 177.65828
+    Items:
+      '0':
+        type: STONE_PICKAXE
+        damage: 95
+      '1':
+        type: IRON_PICKAXE
+        damage: 185
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: COOKED_BEEF
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '4':
+        type: DIAMOND_SWORD
+        damage: 65
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: GRILLED_PORK
+        amount: 3
+      '7':
+        type: SUGAR
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 14
+      '9':
+        type: INK_SACK
+        damage: 4
+        amount: 28
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: GOLD_ORE
+        amount: 5
+      '12':
+        type: BONE
+      '13':
+        type: STONE
+        damage: 1
+      '14':
+        type: DIAMOND_PICKAXE
+        damage: 112
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '16':
+        type: COAL
+        amount: 42
+      '17':
+        type: ROTTEN_FLESH
+      '18':
+        type: STONE_PICKAXE
+      '21':
+        type: WORKBENCH
+      '22':
+        type: DIAMOND
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 26
+      '24':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '26':
+        type: STRING
+      '27':
+        type: STONE_PICKAXE
+      '29':
+        type: IRON_ORE
+        amount: 16
+      '30':
+        type: CHEST
+      '31':
+        type: MINECART
+      '32':
+        type: DIAMOND
+        amount: 20
+      '34':
+        type: COOKED_CHICKEN
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '12':
+    Time: 1462483220333
+    Exp: 338
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 11.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9978744
+        Amplifier: 1
+    Location:
+      world: world
+      x: 14702.053299022338
+      y: 71.0
+      z: 9140.115671183221
+      pitch: 26.887115
+      yaw: 177.65828
+    Items:
+      '0':
+        type: STONE_PICKAXE
+        damage: 95
+      '1':
+        type: IRON_PICKAXE
+        damage: 185
+      '2':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: COOKED_BEEF
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '4':
+        type: DIAMOND_SWORD
+        damage: 65
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '5':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '6':
+        type: GRILLED_PORK
+        amount: 3
+      '7':
+        type: SUGAR
+        amount: 2
+      '8':
+        type: TORCH
+        amount: 14
+      '9':
+        type: INK_SACK
+        damage: 4
+        amount: 28
+      '10':
+        type: ARROW
+        amount: 4
+      '11':
+        type: GOLD_ORE
+        amount: 5
+      '12':
+        type: BONE
+      '13':
+        type: STONE
+        damage: 1
+      '14':
+        type: DIAMOND_PICKAXE
+        damage: 112
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '16':
+        type: COAL
+        amount: 42
+      '17':
+        type: ROTTEN_FLESH
+      '18':
+        type: STONE_PICKAXE
+      '21':
+        type: WORKBENCH
+      '22':
+        type: DIAMOND
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 26
+      '24':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '26':
+        type: STRING
+      '27':
+        type: STONE_PICKAXE
+      '29':
+        type: IRON_ORE
+        amount: 16
+      '30':
+        type: CHEST
+      '31':
+        type: MINECART
+      '32':
+        type: DIAMOND
+        amount: 20
+      '34':
+        type: COOKED_CHICKEN
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

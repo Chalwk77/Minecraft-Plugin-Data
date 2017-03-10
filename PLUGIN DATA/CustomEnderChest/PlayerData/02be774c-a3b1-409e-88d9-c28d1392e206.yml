@@ -1,0 +1,550 @@
+PlayerLastName: Luucass
+EnderChestSize: 54
+EnderChestInventory:
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: LOG
+    amount: 42
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §dRaspberry Juice
+      lore:
+      - ''
+      - §7§oRestores §b§o3.0 §7§oHunger
+      custom-effects:
+      - ==: PotionEffect
+        effect: 23
+        duration: 6
+        amplifier: 0
+        ambient: true
+        has-particles: true
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: FURNACE
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §7Enhanced Furnace - §eIV
+      lore:
+      - ''
+      - '§7Processing Speed: §e3x'
+      - '§7Fuel Efficiency: §e2x'
+      - '§7Luck Multiplier: §e1x'
+      blockMaterial: FURNACE
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENDER_PEARL
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §4Dwellers §6Mining §4Cap
+      lore:
+      - §a+3 Health
+      - §3+1% Dodge
+      - §6+2% Critical Chance
+      - §c+5 Critical Damage
+      - §6This amazing cap gives the wearer unwavering §4Power
+      - §cDwellers Set
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        PROTECTION_FIRE: 4
+        PROTECTION_EXPLOSIONS: 4
+        PROTECTION_PROJECTILE: 4
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      repair-cost: 1
+      stored-enchants:
+        ARROW_DAMAGE: 5
+        PROTECTION_PROJECTILE: 4
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §k§1§kii§r§6Ultra§k§1§kii
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §cSoulbound Boots
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOOK_AND_QUILL
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_NUGGET
+    amount: 4
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §5Ender Lump §7- §eII
+      lore:
+      - ''
+      - '§c§oTier: II'
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER
+    amount: 37
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HOE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §cSoulbound Hoe
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §cSoulbound Shovel
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_ORE
+    amount: 11
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 6
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §k§6§kii§r§dJesus§k§6§kii
+  '31':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §rCobalt Chestplate
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 7
+        DURABILITY: 7
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §cHazmat Suit
+      lore:
+      - ''
+      - §bAllows you to walk through Fire
+      - §4§oPart of Hazmat Suit
+      color:
+        ==: Color
+        RED: 255
+        BLUE: 0
+        GREEN: 165
+  '34':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        DAMAGE_ALL: 3
+  '35':
+    ==: org.bukkit.inventory.ItemStack
+    type: DRAGON_EGG
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    damage: 32
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Hustln
+      lore:
+      - §1O§el§0y§2m§cp§1i§ec §0L§2e§cv§1e§el!
+      - §6Slots 2
+      - §7Zeus III
+      - §7Snare IV
+      - §7Tnt Shooter I
+      enchants:
+        ARROW_DAMAGE: 5
+        DURABILITY: 5
+        ARROW_FIRE: 1
+        ARROW_INFINITE: 1
+      repair-cost: 1
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §cHazmat Suit Leggings
+      lore:
+      - ''
+      - §4§oPart of Hazmat Suit
+      color:
+        ==: Color
+        RED: 255
+        BLUE: 0
+        GREEN: 165
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §a§lSlime Boots
+      lore:
+      - §7§oReinforced
+      - ''
+      - §a§oBouncy Feeling
+      - ''
+      - §9+ Jump Boost
+      - §9+ No Fall Damage
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+        DURABILITY: 4
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §cScuba Helmet
+      lore:
+      - ''
+      - §bAllows you to breathe Underwater
+      - §4§oPart of Hazmat Suit
+      color:
+        ==: Color
+        RED: 255
+        BLUE: 0
+        GREEN: 165
+  '33':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §5Artifact of Blink
+  '41':
+    ==: org.bukkit.inventory.ItemStack
+    type: EXP_BOTTLE
+    amount: 10
+  '30':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 5
+  '42':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD_SWORD
+    damage: 14
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Woodz
+      lore:
+      - §6Slots 3
+      - §7Plunder I
+      - §7Riftslayer I
+      enchants:
+        DAMAGE_ALL: 4
+        DURABILITY: 3
+        KNOCKBACK: 2
+      repair-cost: 1
+  '43':
+    ==: org.bukkit.inventory.ItemStack
+    type: GLASS_BOTTLE
+    amount: 19
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §cFlask of Knowledge
+      lore:
+      - ''
+      - §rAllows you to store some of
+      - §ryour Experience in a Bottle
+      - '§7Cost: §a1 Level'
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      color:
+        ==: Color
+        RED: 25
+        BLUE: 25
+        GREEN: 25
+  '37':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §k§6§kii§r§dJesus§k§6§kii
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        PROTECTION_EXPLOSIONS: 2
+  '49':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §9Chalwk
+      lore:
+      - §8JeriCraft Custom Heads
+      - ''
+      internal: H4sIAAAAAAAAAE2PwW6CQBiE/zZpQ0kfo1eSXRBaDh6aGnWJi0URXW4r/HZZF2oUmuJz9QFLb73NzDdzGBvAhsf1sTPm/fx5qAxacMtKeAoO0kUZlI63p64zwhfqhNItHB89QnCEhIbSBnsYnfDcVnh5AKvF77Y748UGgBsLHtbVRyP/Eri/DBJLC+4yaTqEH+wjku8UKXeRKXoWDD5dE7Nk+vTMmqzfv7GA1QOfvwaLPvzX9Vu59Y3wIpU3SbevM7LwVgbnK1rUm6/4mlzjSVTxbWz4LNOxLgiflErUoueaEZ5O1TJNXK4TGuupirU6itRU+WxaCb1S4sp9vmU0Tws/r7kv9KZnDQ0PyXg8vIJfi5jmdjABAAA=
+  '50':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 597
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+  '51':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      internal: H4sIAAAAAAAAAE2Sx47jZhCEuQvbmB34MXwjBmIQFQ4+MAeJQcz8b4zizyTm9Ez7kNbcfG1UVfdX6E8E+UT+tsqpqoz+lcEq/UB+ygnyzwU/kkRIXr8uVEJ+HQny9BUmKfZFxjiVhNeIiE/HT+TzbWrTfoTp8Av5GNN1nPp0+EQQ5McH8suCzyb8nvz8bcgwO82Kc3sMIxCMIqzR0WdT9iG/Hi0PiwHFZYGyPPNWt9ztZHl51i6cnWzKEMG6iA2FoR0rXp6kSwcEqbTz03LtyzLaIZeNbK/wT9cwzIMDD97pRjdOWJ831pZIwBFX/8oSF/Hq4SUx8uvryBur0/T84su8VJmdTIpiXwNlNkUjmjdUSxoH30N+15kVs3S7Mc7uebFBsPWZ3lYxPaXnvu9bgoVR2z2fyqQ5lp6pLHOPTKnQ2NeiK+gwGxxYmSwKk+zBi6eKfNFDMPAXsiygeIhma+PJaUlnz7qS0MWbtti36N12T+UPtKVSkhDaV1LlKd+IFcXTOIPv8dCopADd9hqLJUkEEohHh7p7jED2HZMGitcNJk6W8XCkFdcdWM10V/kQ7Oo2JvPdSwEh8Ov53j/6i2J0N03njsqkoPwk1eqs5GqoLebQddusohUo86k/daz8mJsIMqeZoxttbroeHhvN889VQGYHhqZ5HfXQlbl4EhBoVASkLXav1RIy2YvlGze6Vz8FuqUqqBcZOm83E8VGkl4dL538lNHxphddATjXK99vRgp0Ee4EFuQxc+Do2w7Gqm2dhK4WYXhqtwOTmWehFDMpxW6B4dglrkv9pbsG8pE4J/S5IybFqadoY5TNk4c13LYtFDPNPVEYTDXr5WP7fpGllKK3milHfJPSlTuahjtn6JSzw78fyJ9uWE3pDyPdFCz08ComzTzyaagXPKYV5aoV8aYWAaXbz0FumC0iQBuJrgJY+SQXz1Xj1C2wVUrn3FLdH5u6gxyIzqIS6qp5Zq578hbsASbDBcaSMoO6GoBD5ZHnQB0qXCgKQ0IM8M4qe+glU+CbeFy7FvAFPPSV6ntPIik4sBaYiO4xkdwN+CrUmwE62KjYUD69b397lu+8VyKZiw4v8/+0U+RVE/C0LfAAdq+pKmGvGPBzLHnn3/fHGngypnFPAnAy9WYlgf1mJgLizYCDolxUz82B/diCOqACW16DginUXaU0LtgB91YW9DHY5U3bHyQQeZj5+BVBPpA/tLBOkb/YPKyWEkH+AytankuBBAAA
+      skull-owner: Chalwk
+  '39':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 6
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eExplosive Pickaxe
+      lore:
+      - ''
+      - §rAllows you to mine a good bit
+      - §rof Blocks at once...
+      - ''
+      - §9Works with Fortune
+  '44':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eWooden Chest
+      lore:
+      - '§7Size: §e2x9'
+      - ''
+      - §rThis Chest can be opened by anyone
+      - §reven if your Base is protected.
+      internal: H4sIAAAAAAAAAE2L3W6CMBhAvy1bgmSPsVsSoBTC5YKb1mgdP/60dwIlUIoaBLP6THvIcbnLk3OOCWDCW9qOSn33l6pRwoBnUsJ76XgixyiwsB8iy8MessKisi2vQqFbuAgHTmCCOU1X0Q+NuM3AGMTPMPbiZgLAkwGv+5MaBfwKvbL5sbbL40oVmvgTZ6mttkReA3Le6zwiPukmv/zw1zr81+LhdMCKoVXNz/GYd3t7jRIllolTdLs7zWq5yVpvu9g9Nm4i+YIr3vGWyk/MZKvZgWAuY8Rc5rAHlbSLEV8kNZ/HmsoN4nOq2OGrZpIgmhVNdXRCAANe6KkTMIvS6NKLdZMD/AEUJ0u3JgEAAA==
+      skull-owner: CSCoreLib
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §cSmall Chunk of Uranium
+      lore:
+      - ''
+      - '§eRadiation Level: MODERATE'
+      - §4§oHazmat Suit required
+      internal: H4sIAAAAAAAAAE2LzU6DQBgAP40mlPgYXkmW38LBg1aSLimgQFt2bwW28rPbNhSaLk/lI8rR42RmVAAVXtJu5PyrPx8bzhR4xBW8eshyPadAWmWjSrP0ytVcfWlqy1IvXctheuUUKqjzdGH90LDrApSB3YexZ1cVAB4UeN4d+Mjgl8kA0bxGVR7wUmJn5ixFPMbtZYlPO1mssIPF7NfvzkZ6/1p7OOxtTsygpqfvsRA7tDETztaJXortjUx1E7a8psI36CftyNTJ0NhKmvlT2CYNbX/ucYbNKPsQkRF0RCRzQ6w4I1MofEla2oZZ3cV7yiPD12kaeMccvQEo8BQdBIPFKl2de7ZpCoA/iSb16SoBAAA=
+      skull-owner: CSCoreLib
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: FEATHER
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_SWORD
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Ruinr
+      lore:
+      - §6Slots 1
+      - §7Plunder I
+      - §7Riftslayer I
+      - §7Crushing V
+      - §7Curse IV
+      enchants:
+        DAMAGE_UNDEAD: 8
+        DURABILITY: 4
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §cHazmat Suit Leggings
+      lore:
+      - ''
+      - §4§oPart of Hazmat Suit
+      color:
+        ==: Color
+        RED: 255
+        BLUE: 0
+        GREEN: 165
+  '53':
+    ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+    amount: 18
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Chestplate
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        DURABILITY: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Hustle
+      lore:
+      - §6Slots 1
+      - §7Riftslayer I
+      - §7Plunder I
+      - §7Endless I
+      - §7Assassin III
+      enchants:
+        DAMAGE_ALL: 5
+        FIRE_ASPECT: 2
+        LOOT_BONUS_MOBS: 3
+      repair-cost: 15
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §rFerrosilicon Sword
+      enchants:
+        DAMAGE_UNDEAD: 8
+        DURABILITY: 4
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: STAINED_GLASS
+    amount: 42
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §5Rainbow Glass
+      lore:
+      - ''
+      - §dCycles through all Colors of the Rainbow!
+  '38':
+    ==: org.bukkit.inventory.ItemStack
+    type: STAINED_GLASS
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §5Rainbow Glass
+      lore:
+      - ''
+      - §dCycles through all Colors of the Rainbow!
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD_SWORD
+    damage: 27
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Woodz
+      lore:
+      - §6Slots 3
+      - §7Plunder I
+      - §7Riftslayer I
+      enchants:
+        DAMAGE_ALL: 4
+        DURABILITY: 3
+        KNOCKBACK: 2
+      repair-cost: 1
+  '29':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    damage: 7
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6The Pro-Bow
+      lore:
+      - §1O§el§0y§2m§cp§1i§ec §0L§2e§cv§1e§el!
+      - §6Slots 1
+      - §7Wild Mark I
+      - §7Zeus III
+      - §7Snare IV
+      - §7Arrow Rain V
+      enchants:
+        ARROW_DAMAGE: 5
+        DURABILITY: 5
+        ARROW_INFINITE: 1
+  '40':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_SWORD
+    damage: 82
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Ruinr
+      lore:
+      - §6Slots 1
+      - §7Plunder I
+      - §7Riftslayer I
+      - §7Crushing V
+      - §7Curse IV
+      enchants:
+        DAMAGE_UNDEAD: 8
+        DURABILITY: 4
+  '45':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_CHESTPLATE
+    damage: 11
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §5§lEnder Chestplate
+      lore:
+      - ''
+      - §a§oSometimes its here, sometimes there!
+      - §6Slots 4
+      - §7Strength III
+      color:
+        ==: Color
+        RED: 28
+        BLUE: 112
+        GREEN: 25

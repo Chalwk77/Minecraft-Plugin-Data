@@ -1,0 +1,22 @@
+lastAccountName: ItsKuzKan
+timestamps:
+  login: 1471431469513
+  lastteleport: 1471432274092
+  logout: 1471432304868
+ipAddress: 94.132.162.237
+geolocation: Portugal
+lastlocation:
+  world: world
+  x: 520.9764196700202
+  y: 66.0
+  z: 85.78524440614167
+  yaw: 87.099976
+  pitch: -11.100019
+money: '1000.0'
+logoutlocation:
+  world: world
+  x: 708.1281652665323
+  y: 65.0
+  z: -129.96116044235131
+  yaw: -49.249702
+  pitch: 2.7000232

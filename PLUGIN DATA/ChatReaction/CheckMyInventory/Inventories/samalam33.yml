@@ -1,0 +1,1546 @@
+Inventories:
+  '25':
+    Time: 1458455363963
+    Exp: 1887
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 17.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 660.3940341448414
+      y: 63.0
+      z: 289.36283008223324
+      pitch: 7.096958
+      yaw: -2.6082582
+    Items:
+      '0':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '4':
+        type: GRILLED_PORK
+        amount: 45
+      '5':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: DIAMOND_SWORD
+        damage: 128
+      '9':
+        type: POTATO_ITEM
+        amount: 2
+      '10':
+        type: GOLDEN_APPLE
+        amount: 6
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 2
+      '12':
+        type: IRON_HELMET
+        damage: 104
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '13':
+        type: COOKED_MUTTON
+        amount: 64
+      '15':
+        type: IRON_BOOTS
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '17':
+        type: DIAMOND
+        amount: 48
+      '20':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '24':
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '29':
+        type: ARROW
+        amount: 64
+      '30':
+        type: GRILLED_PORK
+        amount: 60
+      '32':
+        type: DIAMOND_AXE
+        damage: 16
+      '35':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+  '26':
+    Time: 1459465466781
+    Exp: 1887
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 17.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 660.3940341448414
+      y: 63.0
+      z: 289.36283008223324
+      pitch: 7.096958
+      yaw: -2.6082582
+    Items:
+      '0':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '4':
+        type: GRILLED_PORK
+        amount: 45
+      '5':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: DIAMOND_SWORD
+        damage: 128
+      '9':
+        type: POTATO_ITEM
+        amount: 2
+      '10':
+        type: GOLDEN_APPLE
+        amount: 6
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 2
+      '12':
+        type: IRON_HELMET
+        damage: 104
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '13':
+        type: COOKED_MUTTON
+        amount: 64
+      '15':
+        type: IRON_BOOTS
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '17':
+        type: DIAMOND
+        amount: 48
+      '20':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '24':
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '29':
+        type: ARROW
+        amount: 64
+      '30':
+        type: GRILLED_PORK
+        amount: 60
+      '32':
+        type: DIAMOND_AXE
+        damage: 16
+      '35':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 203
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+  '27':
+    Time: 1459469875225
+    Exp: 1887
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 17.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 660.3940341448414
+      y: 63.0
+      z: 289.36283008223324
+      pitch: 7.096958
+      yaw: -2.6082582
+    Items:
+      '0':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '4':
+        type: GRILLED_PORK
+        amount: 45
+      '5':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: DIAMOND_SWORD
+        damage: 128
+      '9':
+        type: POTATO_ITEM
+        amount: 2
+      '10':
+        type: GOLDEN_APPLE
+        amount: 6
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 2
+      '12':
+        type: IRON_HELMET
+        damage: 104
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '13':
+        type: COOKED_MUTTON
+        amount: 64
+      '15':
+        type: IRON_BOOTS
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '17':
+        type: DIAMOND
+        amount: 48
+      '20':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '24':
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '29':
+        type: ARROW
+        amount: 64
+      '30':
+        type: GRILLED_PORK
+        amount: 60
+      '32':
+        type: DIAMOND_AXE
+        damage: 16
+      '35':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 203
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+  '28':
+    Time: 1459659264970
+    Exp: 1887
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 17.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 660.3940341448414
+      y: 63.0
+      z: 289.36283008223324
+      pitch: 7.096958
+      yaw: -2.6082582
+    Items:
+      '0':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '4':
+        type: GRILLED_PORK
+        amount: 45
+      '5':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: DIAMOND_SWORD
+        damage: 128
+      '9':
+        type: POTATO_ITEM
+        amount: 2
+      '10':
+        type: GOLDEN_APPLE
+        amount: 6
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 2
+      '12':
+        type: IRON_HELMET
+        damage: 104
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '13':
+        type: COOKED_MUTTON
+        amount: 64
+      '15':
+        type: IRON_BOOTS
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '17':
+        type: DIAMOND
+        amount: 48
+      '20':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '24':
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '29':
+        type: ARROW
+        amount: 64
+      '30':
+        type: GRILLED_PORK
+        amount: 60
+      '32':
+        type: DIAMOND_AXE
+        damage: 16
+      '35':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 203
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+  '29':
+    Time: 1459766739405
+    Exp: 1887
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 17.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 660.3940341448414
+      y: 63.0
+      z: 289.36283008223324
+      pitch: 7.096958
+      yaw: -2.6082582
+    Items:
+      '0':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '4':
+        type: GRILLED_PORK
+        amount: 45
+      '5':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: DIAMOND_SWORD
+        damage: 128
+      '9':
+        type: POTATO_ITEM
+        amount: 2
+      '10':
+        type: GOLDEN_APPLE
+        amount: 6
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 2
+      '12':
+        type: IRON_HELMET
+        damage: 104
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '13':
+        type: COOKED_MUTTON
+        amount: 64
+      '15':
+        type: IRON_BOOTS
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '17':
+        type: DIAMOND
+        amount: 48
+      '20':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '24':
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '29':
+        type: ARROW
+        amount: 64
+      '30':
+        type: GRILLED_PORK
+        amount: 60
+      '32':
+        type: DIAMOND_AXE
+        damage: 16
+      '35':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 203
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+  '30':
+    Time: 1459847490361
+    Exp: 1887
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 17.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 660.3940341448414
+      y: 63.0
+      z: 289.36283008223324
+      pitch: 7.096958
+      yaw: -2.6082582
+    Items:
+      '0':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '4':
+        type: GRILLED_PORK
+        amount: 45
+      '5':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: DIAMOND_SWORD
+        damage: 128
+      '9':
+        type: POTATO_ITEM
+        amount: 2
+      '10':
+        type: GOLDEN_APPLE
+        amount: 6
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 2
+      '12':
+        type: IRON_HELMET
+        damage: 104
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '13':
+        type: COOKED_MUTTON
+        amount: 64
+      '15':
+        type: IRON_BOOTS
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '17':
+        type: DIAMOND
+        amount: 48
+      '20':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '24':
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '29':
+        type: ARROW
+        amount: 64
+      '30':
+        type: GRILLED_PORK
+        amount: 60
+      '32':
+        type: DIAMOND_AXE
+        damage: 16
+      '35':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 203
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+  '31':
+    Time: 1460146825529
+    Exp: 1887
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 17.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 660.3940341448414
+      y: 63.0
+      z: 289.36283008223324
+      pitch: 7.096958
+      yaw: -2.6082582
+    Items:
+      '0':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '4':
+        type: GRILLED_PORK
+        amount: 45
+      '5':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: DIAMOND_SWORD
+        damage: 128
+      '9':
+        type: POTATO_ITEM
+        amount: 2
+      '10':
+        type: GOLDEN_APPLE
+        amount: 6
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 2
+      '12':
+        type: IRON_HELMET
+        damage: 104
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '13':
+        type: COOKED_MUTTON
+        amount: 64
+      '15':
+        type: IRON_BOOTS
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '17':
+        type: DIAMOND
+        amount: 48
+      '20':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '24':
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '29':
+        type: ARROW
+        amount: 64
+      '30':
+        type: GRILLED_PORK
+        amount: 60
+      '32':
+        type: DIAMOND_AXE
+        damage: 16
+      '35':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 203
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+  '32':
+    Time: 1460883172790
+    Exp: 1887
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 17.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 660.3940341448414
+      y: 63.0
+      z: 289.36283008223324
+      pitch: 7.096958
+      yaw: -2.6082582
+    Items:
+      '0':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '4':
+        type: GRILLED_PORK
+        amount: 45
+      '5':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: DIAMOND_SWORD
+        damage: 128
+      '9':
+        type: POTATO_ITEM
+        amount: 2
+      '10':
+        type: GOLDEN_APPLE
+        amount: 6
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 2
+      '12':
+        type: IRON_HELMET
+        damage: 104
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '13':
+        type: COOKED_MUTTON
+        amount: 64
+      '15':
+        type: IRON_BOOTS
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '17':
+        type: DIAMOND
+        amount: 48
+      '20':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '24':
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '29':
+        type: ARROW
+        amount: 64
+      '30':
+        type: GRILLED_PORK
+        amount: 60
+      '32':
+        type: DIAMOND_AXE
+        damage: 16
+      '35':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 203
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+  '33':
+    Time: 1462120697487
+    Exp: 1887
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 17.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 660.3940341448414
+      y: 63.0
+      z: 289.36283008223324
+      pitch: 7.096958
+      yaw: -2.6082582
+    Items:
+      '0':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '4':
+        type: GRILLED_PORK
+        amount: 45
+      '5':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: DIAMOND_SWORD
+        damage: 128
+      '9':
+        type: POTATO_ITEM
+        amount: 2
+      '10':
+        type: GOLDEN_APPLE
+        amount: 6
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 2
+      '12':
+        type: IRON_HELMET
+        damage: 104
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '13':
+        type: COOKED_MUTTON
+        amount: 64
+      '15':
+        type: IRON_BOOTS
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '17':
+        type: DIAMOND
+        amount: 48
+      '20':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '24':
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '29':
+        type: ARROW
+        amount: 64
+      '30':
+        type: GRILLED_PORK
+        amount: 60
+      '32':
+        type: DIAMOND_AXE
+        damage: 16
+      '35':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 203
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+  '34':
+    Time: 1462483221693
+    Exp: 1887
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 17.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 660.3940341448414
+      y: 63.0
+      z: 289.36283008223324
+      pitch: 7.096958
+      yaw: -2.6082582
+    Items:
+      '0':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: GOLD_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: GOLD_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '4':
+        type: GRILLED_PORK
+        amount: 45
+      '5':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: DIAMOND_SWORD
+        damage: 128
+      '9':
+        type: POTATO_ITEM
+        amount: 2
+      '10':
+        type: GOLDEN_APPLE
+        amount: 6
+      '11':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 2
+      '12':
+        type: IRON_HELMET
+        damage: 104
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '13':
+        type: COOKED_MUTTON
+        amount: 64
+      '15':
+        type: IRON_BOOTS
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '17':
+        type: DIAMOND
+        amount: 48
+      '20':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '24':
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '29':
+        type: ARROW
+        amount: 64
+      '30':
+        type: GRILLED_PORK
+        amount: 60
+      '32':
+        type: DIAMOND_AXE
+        damage: 16
+      '35':
+        type: BOW
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 203
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET

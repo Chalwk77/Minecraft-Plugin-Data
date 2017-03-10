@@ -1,0 +1,590 @@
+Inventories:
+  '92':
+    Time: 1462633915354
+    Exp: 627043398
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3681.3473888217627
+      y: 63.0
+      z: -1724.1047784471064
+      pitch: 25.66696
+      yaw: -49.284546
+    Items:
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: ELYTRA
+        damage: 13
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            MENDING: 1
+          repair-cost: 3
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAEWQx86rRgCFuVEi/dfKY2SHfpluWNwFBptiiullRzUDM25gMPNMecg42WR7inS+syGIDfFnMLwgPD9vLYDNF/GbURN/STTP1IzUfrMMS31zVCV8i0VRfJf1TiwpVhJqvt0Qm0/p3jwn0Iw/ia+peU+vZzNuCIL48UX8DMDlWvyr/Pa33dLcvEp8OCh1cVxR05qXs7vUdmMewC6/N7SqkXZDRdZSk9S6C+CpjMbU9bmnum8O7uXcsDfnql3lVpDbFa/Phm50U+myLUq1+D6ImjA3QX7KSVXyWSd4mNbU98MhWvM2tqxdSJ4qI+yGUvPfc791DzrCcV7rsnGVoUc793nlXnLPr6LIJWDyya3rR8XcRwznBDYyBUauxkoW9jygz45YBcsy7DW7vN5MnSpO4ysmtabKxHauEuUF+ALo/SAr0rkK8KQ4CTZXI4ke1VhjDHbrFhdRx21LUZhB5V2KzCaXkJwZrim3RtUN3psznCW8Qa5XRfyGe1JubWxxlJBAyC9PD0jsET6sJowWTKnBoqpbclWwk1eWfMJTNZrn2BQPOciRbOZAFtcljTlM8zKvMSnITrG8sm/NlNnIj52beis/VFOMXzq87x60xxc3S3OvNOVeh5jqFnP0pfogurv5Jo565+6MbbFL9b56xPBekhz1fJ14n3o/h0OqKTqUts8LcEJfRSK5wkjIk4Y8oJwUmplRrG1LkXI+3Q6LffGduOwvlwH6JB7pbnYmfBaz0G6VRSriJePJ6slMQVm76Snozh4HkvAiiWArhRIQzLeczbi7TwkSBe1obttzar2cfRzbfInGLrUV8XR4q0YhZTrgdoXajNZDLU1zNyV7KBwXlrqw+xMeOl4RUP04/Poi/ogL+Gp+pM1qUkVCw4r1uzKVgdsfKKc3GFs9LI5q8w7ORuO6X0smv5dabOaKIRj98HZCc7B7iGxsYFv1lgxnXJYcuwx5rKsZi40HJldjZIAFVLo55wiOecR3ZRIBF5hdzTpTzpqjq164/zIMvJboSNWpCSMUv+sErnniAffqr3USfTb4sNF9ukIxNvr7zoCOFUTcxx/BpzMa/Q0Uuk9V6m222P+zFqLvJYr7Ch1RrfCvPPXmWou5Wo/XPBDpDGWLq9prrg68mzjQCT3a7r3V0Tw6TzLGRjmwkc1mOFo/jLSr2VSWfP7BNmWHPsrDI/zwszaOkRN+vNWU2pT6RRBfxO9OgRpiUywjujyhKIoE8Q8DQKFbjQQAAA==
+          skull-owner: awsmgrl888
+  '93':
+    Time: 1462634544339
+    Exp: 627043414
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 13
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3727.558205604644
+      y: 74.49273611125699
+      z: -1791.0665533738236
+      pitch: 43.96095
+      yaw: 335.27856
+    Items:
+      '1':
+        type: DIAMOND_SWORD
+        damage: 39
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAEWQx86rRgCFuVEi/dfKY2SHfpluWNwFBptiiullRzUDM25gMPNMecg42WR7inS+syGIDfFnMLwgPD9vLYDNF/GbURN/STTP1IzUfrMMS31zVCV8i0VRfJf1TiwpVhJqvt0Qm0/p3jwn0Iw/ia+peU+vZzNuCIL48UX8DMDlWvyr/Pa33dLcvEp8OCh1cVxR05qXs7vUdmMewC6/N7SqkXZDRdZSk9S6C+CpjMbU9bmnum8O7uXcsDfnql3lVpDbFa/Phm50U+myLUq1+D6ImjA3QX7KSVXyWSd4mNbU98MhWvM2tqxdSJ4qI+yGUvPfc791DzrCcV7rsnGVoUc793nlXnLPr6LIJWDyya3rR8XcRwznBDYyBUauxkoW9jygz45YBcsy7DW7vN5MnSpO4ysmtabKxHauEuUF+ALo/SAr0rkK8KQ4CTZXI4ke1VhjDHbrFhdRx21LUZhB5V2KzCaXkJwZrim3RtUN3psznCW8Qa5XRfyGe1JubWxxlJBAyC9PD0jsET6sJowWTKnBoqpbclWwk1eWfMJTNZrn2BQPOciRbOZAFtcljTlM8zKvMSnITrG8sm/NlNnIj52beis/VFOMXzq87x60xxc3S3OvNOVeh5jqFnP0pfogurv5Jo565+6MbbFL9b56xPBekhz1fJ14n3o/h0OqKTqUts8LcEJfRSK5wkjIk4Y8oJwUmplRrG1LkXI+3Q6LffGduOwvlwH6JB7pbnYmfBaz0G6VRSriJePJ6slMQVm76Snozh4HkvAiiWArhRIQzLeczbi7TwkSBe1obttzar2cfRzbfInGLrUV8XR4q0YhZTrgdoXajNZDLU1zNyV7KBwXlrqw+xMeOl4RUP04/Poi/ogL+Gp+pM1qUkVCw4r1uzKVgdsfKKc3GFs9LI5q8w7ORuO6X0smv5dabOaKIRj98HZCc7B7iGxsYFv1lgxnXJYcuwx5rKsZi40HJldjZIAFVLo55wiOecR3ZRIBF5hdzTpTzpqjq164/zIMvJboSNWpCSMUv+sErnniAffqr3USfTb4sNF9ukIxNvr7zoCOFUTcxx/BpzMa/Q0Uuk9V6m222P+zFqLvJYr7Ch1RrfCvPPXmWou5Wo/XPBDpDGWLq9prrg68mzjQCT3a7r3V0Tw6TzLGRjmwkc1mOFo/jLSr2VSWfP7BNmWHPsrDI/zwszaOkRN+vNWU2pT6RRBfxO9OgRpiUywjujyhKIoE8Q8DQKFbjQQAAA==
+          skull-owner: awsmgrl888
+      '38':
+        type: ELYTRA
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            MENDING: 1
+          repair-cost: 3
+  '94':
+    Time: 1462637833996
+    Exp: 640589716
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -7.421429061572599
+      y: 57.22452748282608
+      z: -3622.307481094962
+      pitch: 7.5553102
+      yaw: 262.2461
+    Items:
+      '1':
+        type: DIAMOND_SWORD
+        damage: 39
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAEWQx86rRgCFuVEi/dfKY2SHfpluWNwFBptiiullRzUDM25gMPNMecg42WR7inS+syGIDfFnMLwgPD9vLYDNF/GbURN/STTP1IzUfrMMS31zVCV8i0VRfJf1TiwpVhJqvt0Qm0/p3jwn0Iw/ia+peU+vZzNuCIL48UX8DMDlWvyr/Pa33dLcvEp8OCh1cVxR05qXs7vUdmMewC6/N7SqkXZDRdZSk9S6C+CpjMbU9bmnum8O7uXcsDfnql3lVpDbFa/Phm50U+myLUq1+D6ImjA3QX7KSVXyWSd4mNbU98MhWvM2tqxdSJ4qI+yGUvPfc791DzrCcV7rsnGVoUc793nlXnLPr6LIJWDyya3rR8XcRwznBDYyBUauxkoW9jygz45YBcsy7DW7vN5MnSpO4ysmtabKxHauEuUF+ALo/SAr0rkK8KQ4CTZXI4ke1VhjDHbrFhdRx21LUZhB5V2KzCaXkJwZrim3RtUN3psznCW8Qa5XRfyGe1JubWxxlJBAyC9PD0jsET6sJowWTKnBoqpbclWwk1eWfMJTNZrn2BQPOciRbOZAFtcljTlM8zKvMSnITrG8sm/NlNnIj52beis/VFOMXzq87x60xxc3S3OvNOVeh5jqFnP0pfogurv5Jo565+6MbbFL9b56xPBekhz1fJ14n3o/h0OqKTqUts8LcEJfRSK5wkjIk4Y8oJwUmplRrG1LkXI+3Q6LffGduOwvlwH6JB7pbnYmfBaz0G6VRSriJePJ6slMQVm76Snozh4HkvAiiWArhRIQzLeczbi7TwkSBe1obttzar2cfRzbfInGLrUV8XR4q0YhZTrgdoXajNZDLU1zNyV7KBwXlrqw+xMeOl4RUP04/Poi/ogL+Gp+pM1qUkVCw4r1uzKVgdsfKKc3GFs9LI5q8w7ORuO6X0smv5dabOaKIRj98HZCc7B7iGxsYFv1lgxnXJYcuwx5rKsZi40HJldjZIAFVLo55wiOecR3ZRIBF5hdzTpTzpqjq164/zIMvJboSNWpCSMUv+sErnniAffqr3USfTb4sNF9ukIxNvr7zoCOFUTcxx/BpzMa/Q0Uuk9V6m222P+zFqLvJYr7Ch1RrfCvPPXmWou5Wo/XPBDpDGWLq9prrg68mzjQCT3a7r3V0Tw6TzLGRjmwkc1mOFo/jLSr2VSWfP7BNmWHPsrDI/zwszaOkRN+vNWU2pT6RRBfxO9OgRpiUywjujyhKIoE8Q8DQKFbjQQAAA==
+          skull-owner: awsmgrl888
+      '38':
+        type: ELYTRA
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            MENDING: 1
+          repair-cost: 3
+  '95':
+    Time: 1462639622970
+    Exp: 654136195
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -2.03670685E7
+      y: 89.07500000000746
+      z: -1.28517335E7
+      pitch: 1.332834
+      yaw: 9.943344
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2PyY6jWBREqVK3lJWqz+idlTKDGbzIhQEzvDSDmXnqDbOBx2AwGPim+sh27npxN6ETcSPeMewd+23XE0Lm0OUlyt6wn2qK/UPGbE4QSf5xoKjs45ARx484YuIPLjvQZJrnWZbE79j7y9Rnw6PMxl/Y2yNbHtOQje8Yhv14w37ZZdFG38rPP2CmpxtOj+7SLoutTg8GVpYlUDu1icHNO/QD72y5QaSmfWfrFybL5DiEAE/mdb3u2qdVAZ3lzrycxxWpjrhqL1sfRftYpRo7OYOUjeZ4Sbov9s5lw2KAKfpSZE324LFiFM++ks97eQ745jgI0tkSBfGycBsXDDJ9X9FiG5somxoJSrfYVv5sutKFM604m3buYxugeRQ7C0Klk7S1EwtWlXDIJ/xpCCiyjquvIxFcEmIWAXWfWH2vWrZ/7fomiKVxPKDLsBWQoPn7gXu0ZvOISb8mNvAYC3PP+Xlz9GXcuuob3dt014fGFjwppuydIZfvVnwoRXfHG4oqjeq4pHep2cjzSLk850gNS1/kB2ADQ+vxXcVSy5ejx51wnSGonpdlIRe5WAhoRbVxtIe6JpBd9ZJRvBooezPqBeHY0ex+J3tcHeXySbG5cgyXWhSeKMvtKjpPpsybTtvup1NT3VZoDANt58auz5mZbfDbwT213JpQShZcQ/5m7NvNqYZl9q0CiWdG7fdLIVLyBfRNzzKCaSt3hV18ZoqZr3kEjaq39tTVktcytXmNLEdsUomDTwlJCLRugpiwv3jNLA5rdc7HWZuamcUFH8YdknLfP4pB/Oz5PbcNNXfE8XVZF/601yIfNeu99pwptT1+dPmp4ToGmQfhbBTOcWZpT9jhwEYHWyPwsJrvO60NBvXzDfvbi9CU/fg3WwEe+QRKKOsWB6fSqM64XqmkthWEIV5XXSxGteXXmIR9LHsACiqjVqDUyXDRfL3RRW2DjoU0B5WhA0tDdnHdATVsIIK+Xqrls0wUMMMGjdClb7HvlkYJQOxLbeTTt6RFfBpo5UUAW+SnUxhYRNJ4NgwkIgoA+v6XKoCA9rNMZe+QKt4KX7zRjqWLP4BTqsxrw8vz/M7tUsV6GiU3/4+dYh9Nry5r6EP80tAoFY44DG54+sq/bGcSyq89FapC37tpW41DH752nRbD92pYnWjoA6RXCWWILhU26hJutxuUQ0J3VBx+X4VQuBV06LiU5rhPtSWO+fXzE8PesL/0qMmw32oTFWUbDetpGjHsP/vRnRuTBAAA
+          skull-owner: ImaginaryAus
+      '1':
+        type: COBBLE_WALL
+  '96':
+    Time: 1462712261151
+    Exp: 762508902
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -704017.0106143242
+      y: 72.0
+      z: 446002.5869766023
+      pitch: -50.55758
+      yaw: 230.65756
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            KNOCKBACK: 1000
+      '9':
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            MENDING: 1
+          repair-cost: 3
+      '10':
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bReinforced Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 9
+            DURABILITY: 9
+  '97':
+    Time: 1462712297920
+    Exp: 762508902
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -704033.7374957156
+      y: 72.0
+      z: 446001.72445767216
+      pitch: 2.192579
+      yaw: 227.98262
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            KNOCKBACK: 1000
+      '9':
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            MENDING: 1
+          repair-cost: 3
+      '10':
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bReinforced Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 9
+            DURABILITY: 9
+  '98':
+    Time: 1462712329659
+    Exp: 762508910
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -704038.8910021305
+      y: 72.0
+      z: 446001.0248508917
+      pitch: 18.571413
+      yaw: 20.173271
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            KNOCKBACK: 1000
+      '2':
+        type: DIAMOND_SWORD
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Elucidator
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: DIAMOND_SPADE
+        damage: 244
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: LEATHER_CHESTPLATE
+        damage: 31
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+          color:
+            ==: Color
+            RED: 25
+            BLUE: 25
+            GREEN: 25
+      '9':
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            MENDING: 1
+          repair-cost: 3
+      '10':
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bReinforced Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 9
+            DURABILITY: 9
+  '99':
+    Time: 1462712908709
+    Exp: 762508910
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 186.07499998807907
+      y: 67.0
+      z: 1705.074999988079
+      pitch: 7.1154213
+      yaw: 150.36679
+    Items:
+      '0':
+        type: IRON_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            KNOCKBACK: 1000
+      '9':
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            MENDING: 1
+          repair-cost: 3
+      '36':
+        type: IRON_BOOTS
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bReinforced Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 9
+            DURABILITY: 9
+  '100':
+    Time: 1462713303871
+    Exp: 762508926
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 186.07499998807907
+      y: 67.0
+      z: 1705.074999988079
+      pitch: 7.777308
+      yaw: 145.38531
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 1000
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: COOKED_BEEF
+        amount: 2
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '8':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '22':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            MENDING: 1
+          repair-cost: 3
+  '101':
+    Time: 1462713411946
+    Exp: 762508934
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 168.58164538560635
+      y: 66.63588500535488
+      z: 1698.3285175105168
+      pitch: -7.522098
+      yaw: 291.24594
+    Items:
+      '0':
+        type: ARROW
+        amount: 2
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: COOKED_BEEF
+        amount: 2
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: ARMOR_STAND
+      '5':
+        type: IRON_BOOTS
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bReinforced Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 9
+            DURABILITY: 9
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 350
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Ice Breaker
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 31
+      '8':
+        type: DIAMOND_SWORD
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 1000
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 87
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            MENDING: 1
+          repair-cost: 3
+      '40':
+        type: BOW
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10

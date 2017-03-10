@@ -1,0 +1,519 @@
+Inventories:
+  '25':
+    Time: 1458455356824
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14945.300000011921
+      y: 72.0
+      z: -7344.47278477825
+      pitch: 10.650019
+      yaw: 270.3003
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '8':
+        type: WOOD
+        amount: 4
+  '26':
+    Time: 1459465462828
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14945.300000011921
+      y: 72.0
+      z: -7344.47278477825
+      pitch: 10.650019
+      yaw: 270.3003
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '8':
+        type: WOOD
+        amount: 4
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '27':
+    Time: 1459469871735
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14945.300000011921
+      y: 72.0
+      z: -7344.47278477825
+      pitch: 10.650019
+      yaw: 270.3003
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '8':
+        type: WOOD
+        amount: 4
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '28':
+    Time: 1459659261271
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14945.300000011921
+      y: 72.0
+      z: -7344.47278477825
+      pitch: 10.650019
+      yaw: 270.3003
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '8':
+        type: WOOD
+        amount: 4
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '29':
+    Time: 1459766734915
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14945.300000011921
+      y: 72.0
+      z: -7344.47278477825
+      pitch: 10.650019
+      yaw: 270.3003
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '8':
+        type: WOOD
+        amount: 4
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '30':
+    Time: 1459847485907
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14945.300000011921
+      y: 72.0
+      z: -7344.47278477825
+      pitch: 10.650019
+      yaw: 270.3003
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '8':
+        type: WOOD
+        amount: 4
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '31':
+    Time: 1460146821966
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14945.300000011921
+      y: 72.0
+      z: -7344.47278477825
+      pitch: 10.650019
+      yaw: 270.3003
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '8':
+        type: WOOD
+        amount: 4
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '32':
+    Time: 1460883168843
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14945.300000011921
+      y: 72.0
+      z: -7344.47278477825
+      pitch: 10.650019
+      yaw: 270.3003
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '8':
+        type: WOOD
+        amount: 4
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '33':
+    Time: 1462120693317
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14945.300000011921
+      y: 72.0
+      z: -7344.47278477825
+      pitch: 10.650019
+      yaw: 270.3003
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '8':
+        type: WOOD
+        amount: 4
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '34':
+    Time: 1462483216828
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14945.300000011921
+      y: 72.0
+      z: -7344.47278477825
+      pitch: 10.650019
+      yaw: 270.3003
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '8':
+        type: WOOD
+        amount: 4
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

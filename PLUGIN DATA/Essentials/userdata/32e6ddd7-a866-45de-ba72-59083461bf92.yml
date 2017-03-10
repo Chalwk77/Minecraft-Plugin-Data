@@ -1,0 +1,50 @@
+lastAccountName: RoBB_NZL
+timestamps:
+  login: 1468942875298
+  lastteleport: 1468944699123
+  logout: 1468944769037
+  jail: 0
+ipAddress: 121.75.107.105
+geolocation: New Zealand
+lastlocation:
+  world: world
+  x: -2334.0910399313902
+  y: 104.0
+  z: 3039.5015538786997
+  yaw: -73.67249
+  pitch: 0.52715653
+money: '2500'
+homes:
+  g:
+    world: world
+    x: -2321.376022187883
+    y: 104.0
+    z: 3038.7522902874925
+    yaw: 98.52734
+    pitch: 15.827169
+  h:
+    world: world
+    x: -2457.5
+    y: 78.0
+    z: 2910.5
+    yaw: 47.730667
+    pitch: 34.79979
+afk: false
+logoutlocation:
+  world: world
+  x: 484.1217706849937
+  y: 88.0
+  z: -227.2224539366109
+  yaw: 260.75226
+  pitch: -8.785774
+jailed: false
+mail:
+- §6[§rChalwk§6] §rThanks for donating again mate! Check out /warp hof
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'

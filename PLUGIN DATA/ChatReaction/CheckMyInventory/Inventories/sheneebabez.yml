@@ -1,0 +1,423 @@
+Inventories:
+  '14':
+    Time: 1461730159424
+    Exp: 13299
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -294780.4448976243
+      y: 58.0
+      z: 243031.16952252082
+      pitch: 15.950002
+      yaw: 167.13147
+    Items:
+      '8':
+        type: DIAMOND_AXE
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: me
+          enchants:
+            DAMAGE_ALL: 5
+          repair-cost: 1
+  '15':
+    Time: 1461730176633
+    Exp: 13299
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -294779.15918834915
+      y: 58.0
+      z: 243030.94860636414
+      pitch: 8.600009
+      yaw: 11.131448
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: me
+          enchants:
+            DAMAGE_ALL: 5
+          repair-cost: 1
+  '16':
+    Time: 1461730225298
+    Exp: 13299
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -294779.6561505898
+      y: 58.0
+      z: 243033.1493230308
+      pitch: 11.150009
+      yaw: -47.51856
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: me
+          enchants:
+            DAMAGE_ALL: 5
+          repair-cost: 1
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+  '17':
+    Time: 1462120689902
+    Exp: 39011
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -2383.635870761657
+      y: 69.0
+      z: 2459.0209306068245
+      pitch: 71.25006
+      yaw: -0.0010041535
+    Items:
+      '38':
+        type: ELYTRA
+        damage: 56
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cProgrammable Android §7(Woodcutter)
+          lore:
+          - ''
+          - '§8⇨ §7Function: Woodcutting'
+          - '§8⇨ §7Fuel Efficiency: 1.0x'
+          internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JVkQUE9NmB0iWBVYH3cAB8VXNQgKPhV/cR67HEyMyqACh/bYyvld33OC0kKvPI9fJJBOaNJrpkjpmsjxibaJLFybTy0pmSllGRMV0F9Theqm4KuA1Aa6pq2pqsKAC8KvEeJbAl+qXdZvDuw/c6VWc+tJwdbJle8vIz5KepTm1u8evrFl7Xsp/9as0mEKXHoHuLTuk2riC2HG0mLjZ5V4S12vB6Dn853ws5zZswr+d0PZsZKzDoU64dX4R2DjPkCu9U8NNHgBj7QiEVo+POoxMCVfhkVKNxjLNCMKyzynT4FUODNTyqCgb21zzUtixTgDzZJwnwqAQAA
+          skull-owner: CSCoreLib
+  '18':
+    Time: 1462280540992
+    Exp: 69159
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 12
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -2362.68310546875
+      y: 69.48750001192093
+      z: 2437.4521484375
+      pitch: 25.650051
+      yaw: 77.56877
+    Items:
+      '6':
+        type: DIAMOND
+        amount: 35
+      '7':
+        type: IRON_INGOT
+        amount: 61
+      '8':
+        type: GRILLED_PORK
+        amount: 59
+      '10':
+        type: IRON_BOOTS
+      '11':
+        type: IRON_BOOTS
+      '12':
+        type: IRON_BOOTS
+      '18':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_EXPLOSIONS: 9
+      '21':
+        type: IRON_BOOTS
+      '22':
+        type: IRON_BOOTS
+      '23':
+        type: IRON_BOOTS
+      '24':
+        type: IRON_BOOTS
+      '25':
+        type: IRON_BOOTS
+      '26':
+        type: IRON_BOOTS
+      '29':
+        type: IRON_BOOTS
+      '30':
+        type: IRON_BOOTS
+      '31':
+        type: IRON_BOOTS
+      '32':
+        type: IRON_BOOTS
+      '33':
+        type: IRON_BOOTS
+      '35':
+        type: IRON_BOOTS
+      '36':
+        type: IRON_BOOTS
+        damage: 99
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 99
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 99
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+      '39':
+        type: DIAMOND_HELMET
+        damage: 99
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+  '19':
+    Time: 1462283408612
+    Exp: 69164
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 11
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -2362.5936115491204
+      y: 69.48750001192093
+      z: 2437.6425256181974
+      pitch: 15.299957
+      yaw: 63.078876
+    Items:
+      '7':
+        type: GRILLED_PORK
+        amount: 64
+      '8':
+        type: DIAMOND
+        amount: 8
+      '35':
+        type: DIAMOND_BLOCK
+        amount: 35
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 125
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 125
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 125
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+      '39':
+        type: DIAMOND_HELMET
+        damage: 125
+  '20':
+    Time: 1462285593028
+    Exp: 69175
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 6.6000004
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: ABSORPTION
+        Duration: 1786
+        Amplifier: 0
+    Location:
+      world: world
+      x: -2362.798583984375
+      y: 69.48750001192093
+      z: 2437.41455078125
+      pitch: 9.150051
+      yaw: 60.46875
+    Items:
+      '7':
+        type: GOLDEN_APPLE
+        amount: 25
+      '8':
+        type: DIAMOND
+        amount: 25
+      '35':
+        type: DIAMOND_BLOCK
+        amount: 16
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 187
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 187
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 187
+      '39':
+        type: DIAMOND_HELMET
+        damage: 187
+  '21':
+    Time: 1462285862266
+    Exp: 69175
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 6.6000004
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: ABSORPTION
+        Duration: 1774
+        Amplifier: 0
+    Location:
+      world: world
+      x: -2362.798583984375
+      y: 69.48750001192093
+      z: 2437.41455078125
+      pitch: 13.499992
+      yaw: 67.81874
+    Items:
+      '6':
+        type: GOLDEN_APPLE
+        amount: 52
+      '7':
+        type: DIAMOND
+        amount: 14
+      '8':
+        type: DIAMOND_BLOCK
+        amount: 16
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 241
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 241
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 241
+      '39':
+        type: DIAMOND_HELMET
+        damage: 241
+  '22':
+    Time: 1462287160479
+    Exp: 69175
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 7.6000004
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: ABSORPTION
+        Duration: 1832
+        Amplifier: 0
+    Location:
+      world: world
+      x: -2362.648681640625
+      y: 69.48750001192093
+      z: 2437.35302734375
+      pitch: 7.950093
+      yaw: 58.968754
+    Items:
+      '7':
+        type: GOLDEN_APPLE
+        amount: 30
+      '8':
+        type: DIAMOND
+        amount: 45
+      '35':
+        type: DIAMOND_BLOCK
+        amount: 5
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 172
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 172
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 172
+      '39':
+        type: DIAMOND_HELMET
+        damage: 172
+  '23':
+    Time: 1462483223884
+    Exp: 69621
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2390.939059661091
+      y: 70.0
+      z: 2443.0486721617876
+      pitch: 7.349816
+      yaw: -284.115
+    Items:
+      '38':
+        type: ELYTRA
+        damage: 307
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cProgrammable Android §7(Woodcutter)
+          lore:
+          - ''
+          - '§8⇨ §7Function: Woodcutting'
+          - '§8⇨ §7Fuel Efficiency: 1.0x'
+          internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JVkQUE9NmB0iWBVYH3cAB8VXNQgKPhV/cR67HEyMyqACh/bYyvld33OC0kKvPI9fJJBOaNJrpkjpmsjxibaJLFybTy0pmSllGRMV0F9Theqm4KuA1Aa6pq2pqsKAC8KvEeJbAl+qXdZvDuw/c6VWc+tJwdbJle8vIz5KepTm1u8evrFl7Xsp/9as0mEKXHoHuLTuk2riC2HG0mLjZ5V4S12vB6Dn853ws5zZswr+d0PZsZKzDoU64dX4R2DjPkCu9U8NNHgBj7QiEVo+POoxMCVfhkVKNxjLNCMKyzynT4FUODNTyqCgb21zzUtixTgDzZJwnwqAQAA
+          skull-owner: CSCoreLib

@@ -1,0 +1,11 @@
+Name: GlassAngel
+TeleportLocation:
+  X: -180.5
+  Pitch: 0.0
+  Y: 58.0
+  Z: -102.5
+  World: world
+  Yaw: 0.0
+Charges:
+  Amount: 0
+  LastGot: 1479371200900

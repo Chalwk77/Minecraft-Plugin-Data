@@ -1,0 +1,34 @@
+lastAccountName: Joker_OTIS
+timestamps:
+  login: 1472737331568
+  logout: 1472737848769
+  kits:
+    citizen: 1472737635142
+  lastteleport: 1472737792896
+ipAddress: 86.185.6.62
+geolocation: London, London, United Kingdom
+lastlocation:
+  world: world
+  x: 644.3000000119209
+  y: 64.0625
+  z: 274.2889724429011
+  yaw: 134.5387
+  pitch: 61.050026
+afk: false
+logoutlocation:
+  world: world
+  x: 812.9559085892112
+  y: 65.0
+  z: -99.5606318899237
+  yaw: 284.31488
+  pitch: 31.650005
+mail:
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'
+money: '2562.76899999999979'

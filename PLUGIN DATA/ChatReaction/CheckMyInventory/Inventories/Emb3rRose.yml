@@ -1,0 +1,1987 @@
+Inventories:
+  '25':
+    Time: 1458455356554
+    Exp: 131
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.5999994
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310458.6999999881
+      y: 63.0
+      z: -626002.2332524514
+      pitch: 19.463434
+      yaw: 59.676575
+    Items:
+      '2':
+        type: DIAMOND_SWORD
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '3':
+        type: DIAMOND_AXE
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: IRON_ORE
+      '9':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '11':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: DIAMOND_SPADE
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '16':
+        type: WOOD
+        damage: 2
+        amount: 32
+      '17':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '18':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '19':
+        type: COOKED_BEEF
+        amount: 64
+      '20':
+        type: POTION
+        damage: 1
+      '21':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '22':
+        type: BUCKET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Portable Dustbin
+          lore:
+          - §a§oExterminates all Items thrown into it from the World
+          - ''
+          - §eRight Click§7 to open
+      '23':
+        type: CHEST
+      '25':
+        type: COOKED_CHICKEN
+        amount: 64
+      '26':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '30':
+        type: PORK
+        amount: 64
+      '31':
+        type: COAL
+        amount: 42
+      '34':
+        type: POTION
+        damage: 6
+      '35':
+        type: RAW_BEEF
+        amount: 9
+  '26':
+    Time: 1459465462748
+    Exp: 131
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.5999994
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310458.6999999881
+      y: 63.0
+      z: -626002.2332524514
+      pitch: 19.463434
+      yaw: 59.676575
+    Items:
+      '2':
+        type: DIAMOND_SWORD
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '3':
+        type: DIAMOND_AXE
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: IRON_ORE
+      '9':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '11':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: DIAMOND_SPADE
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '16':
+        type: WOOD
+        damage: 2
+        amount: 32
+      '17':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '18':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '19':
+        type: COOKED_BEEF
+        amount: 64
+      '20':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: regeneration
+      '21':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '22':
+        type: BUCKET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Portable Dustbin
+          lore:
+          - §a§oExterminates all Items thrown into it from the World
+          - ''
+          - §eRight Click§7 to open
+      '23':
+        type: CHEST
+      '25':
+        type: COOKED_CHICKEN
+        amount: 64
+      '26':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '30':
+        type: PORK
+        amount: 64
+      '31':
+        type: COAL
+        amount: 42
+      '34':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: night_vision
+      '35':
+        type: RAW_BEEF
+        amount: 9
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '27':
+    Time: 1459469871657
+    Exp: 131
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.5999994
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310458.6999999881
+      y: 63.0
+      z: -626002.2332524514
+      pitch: 19.463434
+      yaw: 59.676575
+    Items:
+      '2':
+        type: DIAMOND_SWORD
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '3':
+        type: DIAMOND_AXE
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: IRON_ORE
+      '9':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '11':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: DIAMOND_SPADE
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '16':
+        type: WOOD
+        damage: 2
+        amount: 32
+      '17':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '18':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '19':
+        type: COOKED_BEEF
+        amount: 64
+      '20':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: regeneration
+      '21':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '22':
+        type: BUCKET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Portable Dustbin
+          lore:
+          - §a§oExterminates all Items thrown into it from the World
+          - ''
+          - §eRight Click§7 to open
+      '23':
+        type: CHEST
+      '25':
+        type: COOKED_CHICKEN
+        amount: 64
+      '26':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '30':
+        type: PORK
+        amount: 64
+      '31':
+        type: COAL
+        amount: 42
+      '34':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: night_vision
+      '35':
+        type: RAW_BEEF
+        amount: 9
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '28':
+    Time: 1459659261197
+    Exp: 131
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.5999994
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310458.6999999881
+      y: 63.0
+      z: -626002.2332524514
+      pitch: 19.463434
+      yaw: 59.676575
+    Items:
+      '2':
+        type: DIAMOND_SWORD
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '3':
+        type: DIAMOND_AXE
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: IRON_ORE
+      '9':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '11':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: DIAMOND_SPADE
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '16':
+        type: WOOD
+        damage: 2
+        amount: 32
+      '17':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '18':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '19':
+        type: COOKED_BEEF
+        amount: 64
+      '20':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: regeneration
+      '21':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '22':
+        type: BUCKET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Portable Dustbin
+          lore:
+          - §a§oExterminates all Items thrown into it from the World
+          - ''
+          - §eRight Click§7 to open
+      '23':
+        type: CHEST
+      '25':
+        type: COOKED_CHICKEN
+        amount: 64
+      '26':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '30':
+        type: PORK
+        amount: 64
+      '31':
+        type: COAL
+        amount: 42
+      '34':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: night_vision
+      '35':
+        type: RAW_BEEF
+        amount: 9
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '29':
+    Time: 1459766734825
+    Exp: 131
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.5999994
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310458.6999999881
+      y: 63.0
+      z: -626002.2332524514
+      pitch: 19.463434
+      yaw: 59.676575
+    Items:
+      '2':
+        type: DIAMOND_SWORD
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '3':
+        type: DIAMOND_AXE
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: IRON_ORE
+      '9':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '11':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: DIAMOND_SPADE
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '16':
+        type: WOOD
+        damage: 2
+        amount: 32
+      '17':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '18':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '19':
+        type: COOKED_BEEF
+        amount: 64
+      '20':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: regeneration
+      '21':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '22':
+        type: BUCKET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Portable Dustbin
+          lore:
+          - §a§oExterminates all Items thrown into it from the World
+          - ''
+          - §eRight Click§7 to open
+      '23':
+        type: CHEST
+      '25':
+        type: COOKED_CHICKEN
+        amount: 64
+      '26':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '30':
+        type: PORK
+        amount: 64
+      '31':
+        type: COAL
+        amount: 42
+      '34':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: night_vision
+      '35':
+        type: RAW_BEEF
+        amount: 9
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '30':
+    Time: 1459847485830
+    Exp: 131
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.5999994
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -310458.6999999881
+      y: 63.0
+      z: -626002.2332524514
+      pitch: 19.463434
+      yaw: 59.676575
+    Items:
+      '2':
+        type: DIAMOND_SWORD
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '3':
+        type: DIAMOND_AXE
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Pineapple
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '7':
+        type: IRON_ORE
+      '9':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '11':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: DIAMOND_SPADE
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '16':
+        type: WOOD
+        damage: 2
+        amount: 32
+      '17':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '18':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '19':
+        type: COOKED_BEEF
+        amount: 64
+      '20':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: regeneration
+      '21':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '22':
+        type: BUCKET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Portable Dustbin
+          lore:
+          - §a§oExterminates all Items thrown into it from the World
+          - ''
+          - §eRight Click§7 to open
+      '23':
+        type: CHEST
+      '25':
+        type: COOKED_CHICKEN
+        amount: 64
+      '26':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '30':
+        type: PORK
+        amount: 64
+      '31':
+        type: COAL
+        amount: 42
+      '34':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: night_vision
+      '35':
+        type: RAW_BEEF
+        amount: 9
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '31':
+    Time: 1460146821894
+    Exp: 136
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.2000003
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -4060.775451003977
+      y: 78.0
+      z: -1107.74899745896
+      pitch: 23.625153
+      yaw: 169.70758
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: DIAMOND_SWORD
+        damage: 68
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '3':
+        type: DIAMOND_AXE
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: WOOD
+        damage: 2
+        amount: 32
+      '6':
+        type: PORK
+      '7':
+        type: IRON_ORE
+      '9':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: DIAMOND_SPADE
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '17':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '18':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '19':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '20':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: regeneration
+      '21':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '22':
+        type: BUCKET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Portable Dustbin
+          lore:
+          - §a§oExterminates all Items thrown into it from the World
+          - ''
+          - §eRight Click§7 to open
+      '23':
+        type: CHEST
+      '25':
+        type: COOKED_CHICKEN
+        amount: 64
+      '26':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: COOKED_BEEF
+        amount: 64
+      '30':
+        type: PORK
+        amount: 64
+      '31':
+        type: COAL
+        amount: 42
+      '34':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: night_vision
+      '35':
+        type: RAW_BEEF
+        amount: 9
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '32':
+    Time: 1460883168758
+    Exp: 136
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.2000003
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -4060.775451003977
+      y: 78.0
+      z: -1107.74899745896
+      pitch: 23.625153
+      yaw: 169.70758
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: DIAMOND_SWORD
+        damage: 68
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '3':
+        type: DIAMOND_AXE
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: WOOD
+        damage: 2
+        amount: 32
+      '6':
+        type: PORK
+      '7':
+        type: IRON_ORE
+      '9':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: DIAMOND_SPADE
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '17':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '18':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '19':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '20':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: regeneration
+      '21':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '22':
+        type: BUCKET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Portable Dustbin
+          lore:
+          - §a§oExterminates all Items thrown into it from the World
+          - ''
+          - §eRight Click§7 to open
+      '23':
+        type: CHEST
+      '25':
+        type: COOKED_CHICKEN
+        amount: 64
+      '26':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: COOKED_BEEF
+        amount: 64
+      '30':
+        type: PORK
+        amount: 64
+      '31':
+        type: COAL
+        amount: 42
+      '34':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: night_vision
+      '35':
+        type: RAW_BEEF
+        amount: 9
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '33':
+    Time: 1462120693247
+    Exp: 136
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.2000003
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -4060.775451003977
+      y: 78.0
+      z: -1107.74899745896
+      pitch: 23.625153
+      yaw: 169.70758
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: DIAMOND_SWORD
+        damage: 68
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '3':
+        type: DIAMOND_AXE
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: WOOD
+        damage: 2
+        amount: 32
+      '6':
+        type: PORK
+      '7':
+        type: IRON_ORE
+      '9':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: DIAMOND_SPADE
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '17':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '18':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '19':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '20':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: regeneration
+      '21':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '22':
+        type: BUCKET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Portable Dustbin
+          lore:
+          - §a§oExterminates all Items thrown into it from the World
+          - ''
+          - §eRight Click§7 to open
+      '23':
+        type: CHEST
+      '25':
+        type: COOKED_CHICKEN
+        amount: 64
+      '26':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: COOKED_BEEF
+        amount: 64
+      '30':
+        type: PORK
+        amount: 64
+      '31':
+        type: COAL
+        amount: 42
+      '34':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: night_vision
+      '35':
+        type: RAW_BEEF
+        amount: 9
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '34':
+    Time: 1462483216754
+    Exp: 136
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.2000003
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -4060.775451003977
+      y: 78.0
+      z: -1107.74899745896
+      pitch: 23.625153
+      yaw: 169.70758
+    Items:
+      '0':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '1':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '2':
+        type: DIAMOND_SWORD
+        damage: 68
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DAMAGE_ALL: 1
+      '3':
+        type: DIAMOND_AXE
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '5':
+        type: WOOD
+        damage: 2
+        amount: 32
+      '6':
+        type: PORK
+      '7':
+        type: IRON_ORE
+      '9':
+        type: DIAMOND
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eMustard Seed
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: DIAMOND_SPADE
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            DIG_SPEED: 1
+      '17':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dDiamond Hoe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '18':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '19':
+        type: OBSIDIAN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '20':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: regeneration
+      '21':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+      '22':
+        type: BUCKET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Portable Dustbin
+          lore:
+          - §a§oExterminates all Items thrown into it from the World
+          - ''
+          - §eRight Click§7 to open
+      '23':
+        type: CHEST
+      '25':
+        type: COOKED_CHICKEN
+        amount: 64
+      '26':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: COOKED_BEEF
+        amount: 64
+      '30':
+        type: PORK
+        amount: 64
+      '31':
+        type: COAL
+        amount: 42
+      '34':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: night_vision
+      '35':
+        type: RAW_BEEF
+        amount: 9
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1

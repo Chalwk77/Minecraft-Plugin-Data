@@ -1,0 +1,1857 @@
+Inventories:
+  '12':
+    Time: 1459846153488
+    Exp: 955
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14113.32471014923
+      y: 64.0
+      z: 9108.351253906465
+      pitch: 19.652071
+      yaw: 234.87512
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 615
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: DIAMOND_AXE
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '3':
+        type: DIAMOND_SPADE
+        damage: 659
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 1
+          repair-cost: 7
+      '4':
+        type: COOKED_CHICKEN
+        amount: 39
+      '6':
+        type: COBBLESTONE
+        amount: 6
+      '7':
+        type: GRILLED_PORK
+        amount: 11
+      '8':
+        type: TORCH
+        amount: 2
+  '13':
+    Time: 1459847481999
+    Exp: 995
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14087.144192606385
+      y: 63.0
+      z: 8988.541162668167
+      pitch: 11.5726385
+      yaw: 161.1751
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COBBLESTONE
+        amount: 7
+      '2':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 1
+          repair-cost: 7
+      '3':
+        type: COOKED_CHICKEN
+        amount: 36
+      '4':
+        type: LOG
+        amount: 5
+      '5':
+        type: ARROW
+        amount: 64
+      '6':
+        type: BOW
+        damage: 117
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '7':
+        type: STICK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '8':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '9':
+        type: SNOW_BALL
+        amount: 10
+      '10':
+        type: DIAMOND_SPADE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '11':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSuper Pickaxe
+          lore:
+          - // sp recur <radius>
+          - //sp area <radius>
+          - // (to turn off)
+      '12':
+        type: STRING
+        amount: 10
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '14':
+        type: TORCH
+        amount: 5
+      '15':
+        type: DIAMOND_PICKAXE
+        damage: 565
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '16':
+        type: DIAMOND_AXE
+        damage: 90
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '17':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 11
+      '18':
+        type: CARPET
+        damage: 14
+        amount: 8
+      '19':
+        type: DIRT
+        amount: 47
+      '20':
+        type: PACKED_ICE
+        amount: 28
+      '21':
+        type: STICK
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lSlap stick
+      '22':
+        type: TORCH
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aLight...
+          lore:
+          - Light up the area you are in!
+      '23':
+        type: ARROW
+        amount: 26
+      '24':
+        type: DIAMOND_AXE
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '25':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '26':
+        type: WOOD
+        damage: 1
+        amount: 11
+      '27':
+        type: STEP
+        damage: 6
+        amount: 3
+      '28':
+        type: RED_ROSE
+      '29':
+        type: SHEARS
+        damage: 194
+      '30':
+        type: SPIDER_EYE
+        amount: 5
+      '31':
+        type: SMOOTH_BRICK
+        amount: 64
+      '32':
+        type: RABBIT_FOOT
+      '33':
+        type: ROTTEN_FLESH
+        amount: 10
+      '34':
+        type: DIAMOND_PICKAXE
+        damage: 1035
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '35':
+        type: DIAMOND_HOE
+        damage: 71
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 180
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 145
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+          repair-cost: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 162
+      '40':
+        type: GRILLED_PORK
+        amount: 6
+  '14':
+    Time: 1459847514798
+    Exp: 995
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 11.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14135.560532951928
+      y: 67.7531999805212
+      z: 9089.646938794518
+      pitch: -3.4613972
+      yaw: 20.728638
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COBBLESTONE
+        amount: 7
+      '2':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 1
+          repair-cost: 7
+      '3':
+        type: COOKED_CHICKEN
+        amount: 36
+      '4':
+        type: LOG
+        amount: 5
+      '5':
+        type: ARROW
+        amount: 64
+      '6':
+        type: BOW
+        damage: 117
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '7':
+        type: STICK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '8':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '9':
+        type: SNOW_BALL
+        amount: 10
+      '10':
+        type: DIAMOND_SPADE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '11':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSuper Pickaxe
+          lore:
+          - // sp recur <radius>
+          - //sp area <radius>
+          - // (to turn off)
+      '12':
+        type: STRING
+        amount: 10
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '14':
+        type: TORCH
+        amount: 5
+      '15':
+        type: DIAMOND_PICKAXE
+        damage: 565
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '16':
+        type: DIAMOND_AXE
+        damage: 90
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '17':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 11
+      '18':
+        type: CARPET
+        damage: 14
+        amount: 8
+      '19':
+        type: DIRT
+        amount: 47
+      '20':
+        type: PACKED_ICE
+        amount: 28
+      '21':
+        type: STICK
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lSlap stick
+      '22':
+        type: TORCH
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aLight...
+          lore:
+          - Light up the area you are in!
+      '23':
+        type: ARROW
+        amount: 26
+      '24':
+        type: DIAMOND_AXE
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '25':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '26':
+        type: WOOD
+        damage: 1
+        amount: 11
+      '27':
+        type: STEP
+        damage: 6
+        amount: 3
+      '28':
+        type: RED_ROSE
+      '29':
+        type: SHEARS
+        damage: 194
+      '30':
+        type: SPIDER_EYE
+        amount: 5
+      '31':
+        type: SMOOTH_BRICK
+        amount: 64
+      '32':
+        type: RABBIT_FOOT
+      '33':
+        type: ROTTEN_FLESH
+        amount: 10
+      '34':
+        type: DIAMOND_PICKAXE
+        damage: 1035
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '35':
+        type: DIAMOND_HOE
+        damage: 71
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '40':
+        type: GRILLED_PORK
+        amount: 5
+  '15':
+    Time: 1459847555419
+    Exp: 995
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 14123.333086360999
+      y: 68.31610926689868
+      z: 9095.301878965092
+      pitch: 13.819958
+      yaw: 137.4162
+    Items:
+      '0':
+        type: PACKED_ICE
+        amount: 28
+      '1':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 11
+      '2':
+        type: DIRT
+        amount: 47
+      '3':
+        type: CARPET
+        damage: 14
+        amount: 8
+      '4':
+        type: GOLD_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '5':
+        type: ARROW
+        amount: 64
+      '6':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSuper Pickaxe
+          lore:
+          - // sp recur <radius>
+          - //sp area <radius>
+          - // (to turn off)
+      '7':
+        type: BOW
+        damage: 117
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '8':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '9':
+        type: DIAMOND_PICKAXE
+        damage: 1035
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '10':
+        type: GRILLED_PORK
+        amount: 5
+      '11':
+        type: STICK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '12':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '13':
+        type: TORCH
+        amount: 5
+      '14':
+        type: DIAMOND_AXE
+        damage: 90
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '15':
+        type: TORCH
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aLight...
+          lore:
+          - Light up the area you are in!
+      '16':
+        type: ARROW
+        amount: 26
+      '17':
+        type: DIAMOND_AXE
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '18':
+        type: DIAMOND_HOE
+        damage: 71
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '19':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 1
+          repair-cost: 7
+      '20':
+        type: SNOW_BALL
+        amount: 10
+      '21':
+        type: STICK
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lSlap stick
+      '22':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '23':
+        type: STEP
+        damage: 6
+        amount: 3
+      '24':
+        type: SHEARS
+        damage: 194
+      '25':
+        type: SPIDER_EYE
+        amount: 5
+      '26':
+        type: RABBIT_FOOT
+      '27':
+        type: COBBLESTONE
+        amount: 7
+      '28':
+        type: COOKED_CHICKEN
+        amount: 36
+      '29':
+        type: LOG
+        amount: 5
+      '30':
+        type: DIAMOND_SPADE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '31':
+        type: STRING
+        amount: 10
+      '32':
+        type: DIAMOND_PICKAXE
+        damage: 565
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '33':
+        type: WOOD
+        damage: 1
+        amount: 11
+      '34':
+        type: RED_ROSE
+      '35':
+        type: SMOOTH_BRICK
+        amount: 64
+  '16':
+    Time: 1459847636134
+    Exp: 1002
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 8.6
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: REGENERATION
+        Duration: 197
+        Amplifier: 1
+      '2':
+        Name: DAMAGE_RESISTANCE
+        Duration: 5797
+        Amplifier: 0
+      '3':
+        Name: FIRE_RESISTANCE
+        Duration: 5797
+        Amplifier: 0
+      '4':
+        Name: ABSORPTION
+        Duration: 2197
+        Amplifier: 3
+    Location:
+      world: world
+      x: 14134.212972957257
+      y: 67.0
+      z: 9099.993671359498
+      pitch: 12.685336
+      yaw: 209.7472
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_AXE
+        damage: 90
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: STICK
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lSlap stick
+      '3':
+        type: SPIDER_EYE
+        amount: 5
+      '4':
+        type: COOKED_CHICKEN
+        amount: 36
+      '5':
+        type: DIAMOND_SPADE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 565
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '7':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 10
+      '9':
+        type: STICK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '10':
+        type: COBBLESTONE
+        amount: 7
+      '11':
+        type: DIRT
+        amount: 47
+      '12':
+        type: ARROW
+        amount: 64
+      '13':
+        type: RABBIT_FOOT
+      '14':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '15':
+        type: TORCH
+        amount: 5
+      '16':
+        type: TORCH
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aLight...
+          lore:
+          - Light up the area you are in!
+      '17':
+        type: CARPET
+        damage: 14
+        amount: 8
+      '18':
+        type: ARROW
+        amount: 26
+      '19':
+        type: BOW
+        damage: 117
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '20':
+        type: LOG
+        amount: 5
+      '21':
+        type: DIAMOND_HOE
+        damage: 71
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '22':
+        type: SNOW_BALL
+        amount: 10
+      '23':
+        type: SMOOTH_BRICK
+        amount: 64
+      '24':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSuper Pickaxe
+          lore:
+          - // sp recur <radius>
+          - //sp area <radius>
+          - // (to turn off)
+      '25':
+        type: PACKED_ICE
+        amount: 28
+      '26':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '27':
+        type: DIAMOND_AXE
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '28':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 1
+          repair-cost: 7
+      '29':
+        type: GRILLED_PORK
+        amount: 5
+      '30':
+        type: WOOD
+        damage: 1
+        amount: 11
+      '31':
+        type: RED_ROSE
+      '32':
+        type: STEP
+        damage: 6
+        amount: 3
+      '33':
+        type: SHEARS
+        damage: 194
+      '34':
+        type: DIAMOND_PICKAXE
+        damage: 1035
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '35':
+        type: STRING
+        amount: 10
+  '17':
+    Time: 1460146827702
+    Exp: 1137
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14118.300000011921
+      y: 66.0
+      z: 9114.495670686163
+      pitch: 72.696686
+      yaw: 291.87585
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COBBLESTONE
+        amount: 41
+      '2':
+        type: DIAMOND_SPADE
+        damage: 670
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 1
+          repair-cost: 7
+      '3':
+        type: COOKED_CHICKEN
+        amount: 4
+      '4':
+        type: ARROW
+        amount: 64
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 1035
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '7':
+        type: DIAMOND_SPADE
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '8':
+        type: DIAMOND_SPADE
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '9':
+        type: SNOW_BALL
+        amount: 10
+      '10':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '11':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSuper Pickaxe
+          lore:
+          - // sp recur <radius>
+          - //sp area <radius>
+          - // (to turn off)
+      '12':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '13':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '14':
+        type: TORCH
+        amount: 5
+      '15':
+        type: DIAMOND_PICKAXE
+        damage: 565
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '16':
+        type: DIAMOND_AXE
+        damage: 90
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '17':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '18':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '19':
+        type: STRING
+      '20':
+        type: DIRT
+        amount: 3
+      '21':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+          skull-owner: CSCoreLib
+      '22':
+        type: TORCH
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aLight...
+          lore:
+          - Light up the area you are in!
+      '23':
+        type: ARROW
+        amount: 27
+      '24':
+        type: DIAMOND_AXE
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '25':
+        type: GRILLED_PORK
+        amount: 6
+      '26':
+        type: STICK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '27':
+        type: SMOOTH_BRICK
+        amount: 64
+      '28':
+        type: STEP
+        damage: 6
+        amount: 3
+      '29':
+        type: SHEARS
+        damage: 194
+      '31':
+        type: COBBLE_WALL
+        amount: 7
+      '32':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 11
+      '33':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '34':
+        type: BOW
+        damage: 119
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '35':
+        type: DIAMOND_HOE
+        damage: 71
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+  '18':
+    Time: 1460275100263
+    Exp: 1417
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 86689
+        Amplifier: 1
+    Location:
+      world: world
+      x: 14701.581275217975
+      y: 71.0
+      z: 9142.337425914344
+      pitch: 10.007577
+      yaw: 292.37244
+    Items:
+      '0':
+        type: STICK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '1':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '9':
+        type: BOW
+        damage: 160
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 8
+      '12':
+        type: DIAMOND_SWORD
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '13':
+        type: SNOW_BALL
+        amount: 16
+      '14':
+        type: DIAMOND_HELMET
+        damage: 81
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '15':
+        type: DIAMOND_CHESTPLATE
+        damage: 96
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '16':
+        type: DIAMOND_LEGGINGS
+        damage: 75
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '17':
+        type: DIAMOND_BOOTS
+        damage: 84
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '25':
+        type: ARROW
+  '19':
+    Time: 1460275646630
+    Exp: 1422
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 13.200001
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: REGENERATION
+        Duration: 226
+        Amplifier: 1
+      '2':
+        Name: NIGHT_VISION
+        Duration: 77588
+        Amplifier: 1
+      '3':
+        Name: DAMAGE_RESISTANCE
+        Duration: 5826
+        Amplifier: 0
+      '4':
+        Name: FIRE_RESISTANCE
+        Duration: 5826
+        Amplifier: 0
+      '5':
+        Name: ABSORPTION
+        Duration: 2226
+        Amplifier: 3
+    Location:
+      world: world
+      x: 14710.686621575367
+      y: 68.0
+      z: 9064.589510747715
+      pitch: 19.776875
+      yaw: 62.4812
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '2':
+        type: BOW
+        damage: 193
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 8
+      '13':
+        type: SNOW_BALL
+        amount: 16
+      '25':
+        type: ARROW
+      '28':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 187
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 166
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 202
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 181
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '20':
+    Time: 1460276426089
+    Exp: 105
+    Health: 15.199999809265137
+    MaxHealth: 20.0
+    Saturation: 0.6000004
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4295
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4295
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 695
+        Amplifier: 3
+    Location:
+      world: world
+      x: 14709.328654713843
+      y: 70.0
+      z: 9134.091051338195
+      pitch: 8.02194
+      yaw: -184.96613
+    Items:
+      '0':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '1':
+        type: DIAMOND_SWORD
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 3
+      '3':
+        type: BOW
+        damage: 264
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '4':
+        type: STRING
+      '5':
+        type: SNOW_BALL
+        amount: 16
+      '6':
+        type: BONE
+      '9':
+        type: DIAMOND_BOOTS
+        damage: 310
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '10':
+        type: DIAMOND_LEGGINGS
+        damage: 295
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '11':
+        type: DIAMOND_CHESTPLATE
+        damage: 340
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '12':
+        type: DIAMOND_HELMET
+        damage: 307
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '29':
+        type: DIAMOND_SWORD
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '31':
+        type: ARROW
+  '21':
+    Time: 1460883174919
+    Exp: 1154
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14704.815034541894
+      y: 73.53014785260955
+      z: 9096.218341705084
+      pitch: 12.844184
+      yaw: -111.01293
+    Items:
+      '0':
+        type: DIRT
+      '1':
+        type: REDSTONE_LAMP_OFF
+        amount: 4
+      '3':
+        type: CARPET
+        amount: 3
+      '4':
+        type: WOOL
+        amount: 12
+      '6':
+        type: STEP
+        damage: 1
+        amount: 9
+      '7':
+        type: SANDSTONE
+        damage: 2
+        amount: 27
+      '8':
+        type: DIAMOND_PICKAXE
+        damage: 656
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '9':
+        type: WRITTEN_BOOK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            1. Create an account§0
+            §0on Enjin.§0
+            §02. Now go to§0
+            §0jericraft.enjin.com§0,§0
+            §0click 'join website'§0
+            §0(top right corner) §0
+            §0now go to your profile§0
+            §0page and click 'add§0
+            §0character'. §0
+            §03. To verify your§0
+            §0minecraft character -§0
+            §0In Minecraft login to§0
+            §0mclogin.enjin.com§0 §0
+          - |
+            by using the Direct§0
+            §0Connect option. (Don't§0
+            §0use "Add Server"). §0
+            §0You will be kicked from§0
+            §0the server and§0
+            §0provided with a code. §0
+            §0* Enter this code on§0
+            §0the Add Character§0
+            §0window. §0
+            §0* Enter code provided§0
+            §0by server§0
+          generation: 0
+      '10':
+        type: IRON_BARDING
+      '11':
+        type: SADDLE
+      '12':
+        type: IRON_FENCE
+        amount: 2
+      '13':
+        type: IRON_BARDING
+      '14':
+        type: BONE
+        amount: 38
+      '15':
+        type: BOWL
+      '16':
+        type: ARROW
+        amount: 64
+      '17':
+        type: WHEAT
+      '18':
+        type: COAL
+        amount: 38
+      '19':
+        type: COOKED_BEEF
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '20':
+        type: INK_SACK
+        damage: 4
+        amount: 40
+      '21':
+        type: PACKED_ICE
+        amount: 28
+      '22':
+        type: FLINT
+        amount: 2
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Orange Pie
+          lore:
+          - ''
+          - §7§oRestores §b§o6.5 §7§oHunger
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4k/CvKwcOmUSEWhjqU3kqpKV2rBsEIn2ofcR53fHnvmQAmvG1/OqW+mvOxVtyA56iC9+PEtYNxySxUur7lVza1KHWZRX2GQmcSosApTTAf04U3bc2vIzBafm+7hl9NAHgy4DWnquPwy/vYJgdhV4dYsT4KHrzb2iqN5GUcnfK+nEVBpB9+9RGs+/Bfi1q6R6rwYkFOWVfq3F57G8VXG4fp7xsesnu6xG4hPwWWShfDQpMdQ3iP/XTHvGSZ+VgKTWQxkHks0j0RicY+HrCH3VxjdyGSeVUTmahCMhSdnPCYTacABrwkVHMYzbazc8PXdQnwB5vMQUMqAQAA
+          skull-owner: CSCoreLib
+      '24':
+        type: WOOL
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Rainbow Wool
+          lore:
+          - ''
+          - §dCycles through all Colors of the Rainbow!
+      '25':
+        type: STONE
+        amount: 62
+      '26':
+        type: REDSTONE
+        amount: 24
+      '27':
+        type: PUMPKIN
+        amount: 7
+      '28':
+        type: RED_SANDSTONE
+        damage: 2
+        amount: 64
+      '29':
+        type: ARROW
+        amount: 4
+      '30':
+        type: BEETROOT_SOUP
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '32':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmGwrSwNFDpEAakrb3MjsuPBWbahoKRd/IhZenufDnf0QF0eNm2g5Qf3bWqJWrwyEp4zUjluLbjGAUiMWyncI3cKolBc3QJtXFpY66DPkU37Poa7zPQevzphw7vOgA8aPC8z+SA8ItjSMTxTMpjKIuRLaa92xKZsOa2ZJf9mHtswdTk12+LaHT/fWmfHag8WeFZXNIhV3sSWRuJ641ZqM9v4ZdSBJs28UMZ7wpTBKKND8yamAr/i4ogbnnDTR5wmuzeFfdTm89XVtyk1mkulPAnr7iZ+KXizaqujqYLoMFTnCmEmbf1rh1GdQ7wB/QXCXcmAQAA
+          skull-owner: CSCoreLib
+      '33':
+        type: BUCKET
+      '34':
+        type: SANDSTONE
+        damage: 2
+        amount: 64
+      '35':
+        type: SADDLE

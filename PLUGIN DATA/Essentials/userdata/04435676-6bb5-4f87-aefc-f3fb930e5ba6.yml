@@ -1,0 +1,41 @@
+lastAccountName: xX_The_Hood_Xx
+timestamps:
+  login: 1481004132885
+  logout: 1481004364322
+  lastteleport: 1480938888603
+  kits:
+    citizen: 1480923904698
+ipAddress: 124.169.221.74
+geolocation: Australia
+lastlocation:
+  world: world
+  x: -310419.5171973082
+  y: 71.0
+  z: -625931.2302587172
+  yaw: 243.7442
+  pitch: 1.7851195
+logoutlocation:
+  world: world
+  x: -20080.36280378327
+  y: 67.5
+  z: -4415.483951044011
+  yaw: 123.398605
+  pitch: 23.850016
+mail:
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'
+- §6[§rServer§6] §rThanks for signing up. We appreciate your support!
+money: '59207.70979999999986536'
+homes:
+  home:
+    world: world
+    x: -20081.426185614582
+    y: 68.0
+    z: -4397.420853121564
+    yaw: -152.60136
+    pitch: 20.549988

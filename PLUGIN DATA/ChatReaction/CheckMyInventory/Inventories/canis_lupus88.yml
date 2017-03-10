@@ -1,0 +1,1735 @@
+Inventories:
+  '25':
+    Time: 1458455361520
+    Exp: 152
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9956555
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2272.932420662962
+      y: 83.0
+      z: 14010.046492349291
+      pitch: 7.7999487
+      yaw: 344.09863
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SPADE
+        damage: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: DIAMOND_AXE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '5':
+        type: BOW
+        damage: 264
+      '6':
+        type: CHEST
+        amount: 64
+      '9':
+        type: GLASS
+        amount: 24
+      '10':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '11':
+        type: DIAMOND
+        amount: 32
+      '12':
+        type: DIAMOND_CHESTPLATE
+      '13':
+        type: FURNACE
+        amount: 64
+      '14':
+        type: REDSTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '16':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '17':
+        type: DIRT
+      '18':
+        type: WOOL
+        damage: 6
+      '19':
+        type: WOOD_DOOR
+        amount: 2
+      '21':
+        type: COAL
+        amount: 64
+      '22':
+        type: THIN_GLASS
+        amount: 8
+      '23':
+        type: ARROW
+        amount: 4
+      '24':
+        type: GRILLED_PORK
+        amount: 6
+      '25':
+        type: GRILLED_PORK
+        amount: 64
+      '26':
+        type: EXP_BOTTLE
+        amount: 10
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: SEA_LANTERN
+        amount: 22
+      '29':
+        type: STICK
+        amount: 2
+      '30':
+        type: MUTTON
+        amount: 2
+      '31':
+        type: EMERALD
+        amount: 3
+      '32':
+        type: SUGAR_CANE
+        amount: 6
+      '33':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Blueberry
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8iseerBo6hIXWt2Cuzd+lq64qEEw4FP1Eeuxx8nM6AA6vGwPvVKf7anaK6HBIy7h1TJz0zX9wigLxzQcZDmGb4nSqESJfL+aOq5d6KDfp7Nou724TEDrxND1rbjoAPCgwXOSqV7ArxhDxHcSlbtQFSP27ky3SMW4Pk/xMRnzAHu4ufvV3FuPs3+t22Wpq5gdSn786vMmQWt7o8RqYxbN95XRREYpQYy+S0L5gaVhHad44CmxScPreBEpUkeS3ZYmX8yHmJYHTtnA6uUt/gglayIZWcRhFLvs9jOSIJxVO/QGoMFTlDUCJsE2OLVivc8B/gAhMB63KgEAAA==
+          skull-owner: CSCoreLib
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '35':
+        type: GLOWSTONE_DUST
+        amount: 64
+  '26':
+    Time: 1459465465581
+    Exp: 152
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9956555
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2272.932420662962
+      y: 83.0
+      z: 14010.046492349291
+      pitch: 7.7999487
+      yaw: 344.09863
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SPADE
+        damage: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: DIAMOND_AXE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '5':
+        type: BOW
+        damage: 264
+      '6':
+        type: CHEST
+        amount: 64
+      '9':
+        type: GLASS
+        amount: 24
+      '10':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '11':
+        type: DIAMOND
+        amount: 32
+      '12':
+        type: DIAMOND_CHESTPLATE
+      '13':
+        type: FURNACE
+        amount: 64
+      '14':
+        type: REDSTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '16':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '17':
+        type: DIRT
+      '18':
+        type: WOOL
+        damage: 6
+      '19':
+        type: WOOD_DOOR
+        amount: 2
+      '21':
+        type: COAL
+        amount: 64
+      '22':
+        type: THIN_GLASS
+        amount: 8
+      '23':
+        type: ARROW
+        amount: 4
+      '24':
+        type: GRILLED_PORK
+        amount: 6
+      '25':
+        type: GRILLED_PORK
+        amount: 64
+      '26':
+        type: EXP_BOTTLE
+        amount: 10
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: SEA_LANTERN
+        amount: 22
+      '29':
+        type: STICK
+        amount: 2
+      '30':
+        type: MUTTON
+        amount: 2
+      '31':
+        type: EMERALD
+        amount: 3
+      '32':
+        type: SUGAR_CANE
+        amount: 6
+      '33':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Blueberry
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8iseerBo6hIXWt2Cuzd+lq64qEEw4FP1Eeuxx8nM6AA6vGwPvVKf7anaK6HBIy7h1TJz0zX9wigLxzQcZDmGb4nSqESJfL+aOq5d6KDfp7Nou724TEDrxND1rbjoAPCgwXOSqV7ArxhDxHcSlbtQFSP27ky3SMW4Pk/xMRnzAHu4ufvV3FuPs3+t22Wpq5gdSn786vMmQWt7o8RqYxbN95XRREYpQYy+S0L5gaVhHad44CmxScPreBEpUkeS3ZYmX8yHmJYHTtnA6uUt/gglayIZWcRhFLvs9jOSIJxVO/QGoMFTlDUCJsE2OLVivc8B/gAhMB63KgEAAA==
+          skull-owner: CSCoreLib
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '35':
+        type: GLOWSTONE_DUST
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 4
+      '39':
+        type: DIAMOND_HELMET
+        damage: 4
+  '27':
+    Time: 1459469874075
+    Exp: 152
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9956555
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2272.932420662962
+      y: 83.0
+      z: 14010.046492349291
+      pitch: 7.7999487
+      yaw: 344.09863
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SPADE
+        damage: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: DIAMOND_AXE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '5':
+        type: BOW
+        damage: 264
+      '6':
+        type: CHEST
+        amount: 64
+      '9':
+        type: GLASS
+        amount: 24
+      '10':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '11':
+        type: DIAMOND
+        amount: 32
+      '12':
+        type: DIAMOND_CHESTPLATE
+      '13':
+        type: FURNACE
+        amount: 64
+      '14':
+        type: REDSTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '16':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '17':
+        type: DIRT
+      '18':
+        type: WOOL
+        damage: 6
+      '19':
+        type: WOOD_DOOR
+        amount: 2
+      '21':
+        type: COAL
+        amount: 64
+      '22':
+        type: THIN_GLASS
+        amount: 8
+      '23':
+        type: ARROW
+        amount: 4
+      '24':
+        type: GRILLED_PORK
+        amount: 6
+      '25':
+        type: GRILLED_PORK
+        amount: 64
+      '26':
+        type: EXP_BOTTLE
+        amount: 10
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: SEA_LANTERN
+        amount: 22
+      '29':
+        type: STICK
+        amount: 2
+      '30':
+        type: MUTTON
+        amount: 2
+      '31':
+        type: EMERALD
+        amount: 3
+      '32':
+        type: SUGAR_CANE
+        amount: 6
+      '33':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Blueberry
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8iseerBo6hIXWt2Cuzd+lq64qEEw4FP1Eeuxx8nM6AA6vGwPvVKf7anaK6HBIy7h1TJz0zX9wigLxzQcZDmGb4nSqESJfL+aOq5d6KDfp7Nou724TEDrxND1rbjoAPCgwXOSqV7ArxhDxHcSlbtQFSP27ky3SMW4Pk/xMRnzAHu4ufvV3FuPs3+t22Wpq5gdSn786vMmQWt7o8RqYxbN95XRREYpQYy+S0L5gaVhHad44CmxScPreBEpUkeS3ZYmX8yHmJYHTtnA6uUt/gglayIZWcRhFLvs9jOSIJxVO/QGoMFTlDUCJsE2OLVivc8B/gAhMB63KgEAAA==
+          skull-owner: CSCoreLib
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '35':
+        type: GLOWSTONE_DUST
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 4
+      '39':
+        type: DIAMOND_HELMET
+        damage: 4
+  '28':
+    Time: 1459659263631
+    Exp: 152
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9956555
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2272.932420662962
+      y: 83.0
+      z: 14010.046492349291
+      pitch: 7.7999487
+      yaw: 344.09863
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SPADE
+        damage: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: DIAMOND_AXE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '5':
+        type: BOW
+        damage: 264
+      '6':
+        type: CHEST
+        amount: 64
+      '9':
+        type: GLASS
+        amount: 24
+      '10':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '11':
+        type: DIAMOND
+        amount: 32
+      '12':
+        type: DIAMOND_CHESTPLATE
+      '13':
+        type: FURNACE
+        amount: 64
+      '14':
+        type: REDSTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '16':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '17':
+        type: DIRT
+      '18':
+        type: WOOL
+        damage: 6
+      '19':
+        type: WOOD_DOOR
+        amount: 2
+      '21':
+        type: COAL
+        amount: 64
+      '22':
+        type: THIN_GLASS
+        amount: 8
+      '23':
+        type: ARROW
+        amount: 4
+      '24':
+        type: GRILLED_PORK
+        amount: 6
+      '25':
+        type: GRILLED_PORK
+        amount: 64
+      '26':
+        type: EXP_BOTTLE
+        amount: 10
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: SEA_LANTERN
+        amount: 22
+      '29':
+        type: STICK
+        amount: 2
+      '30':
+        type: MUTTON
+        amount: 2
+      '31':
+        type: EMERALD
+        amount: 3
+      '32':
+        type: SUGAR_CANE
+        amount: 6
+      '33':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Blueberry
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8iseerBo6hIXWt2Cuzd+lq64qEEw4FP1Eeuxx8nM6AA6vGwPvVKf7anaK6HBIy7h1TJz0zX9wigLxzQcZDmGb4nSqESJfL+aOq5d6KDfp7Nou724TEDrxND1rbjoAPCgwXOSqV7ArxhDxHcSlbtQFSP27ky3SMW4Pk/xMRnzAHu4ufvV3FuPs3+t22Wpq5gdSn786vMmQWt7o8RqYxbN95XRREYpQYy+S0L5gaVhHad44CmxScPreBEpUkeS3ZYmX8yHmJYHTtnA6uUt/gglayIZWcRhFLvs9jOSIJxVO/QGoMFTlDUCJsE2OLVivc8B/gAhMB63KgEAAA==
+          skull-owner: CSCoreLib
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '35':
+        type: GLOWSTONE_DUST
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 4
+      '39':
+        type: DIAMOND_HELMET
+        damage: 4
+  '29':
+    Time: 1459766737730
+    Exp: 152
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9956555
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2272.932420662962
+      y: 83.0
+      z: 14010.046492349291
+      pitch: 7.7999487
+      yaw: 344.09863
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SPADE
+        damage: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: DIAMOND_AXE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '5':
+        type: BOW
+        damage: 264
+      '6':
+        type: CHEST
+        amount: 64
+      '9':
+        type: GLASS
+        amount: 24
+      '10':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '11':
+        type: DIAMOND
+        amount: 32
+      '12':
+        type: DIAMOND_CHESTPLATE
+      '13':
+        type: FURNACE
+        amount: 64
+      '14':
+        type: REDSTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '16':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '17':
+        type: DIRT
+      '18':
+        type: WOOL
+        damage: 6
+      '19':
+        type: WOOD_DOOR
+        amount: 2
+      '21':
+        type: COAL
+        amount: 64
+      '22':
+        type: THIN_GLASS
+        amount: 8
+      '23':
+        type: ARROW
+        amount: 4
+      '24':
+        type: GRILLED_PORK
+        amount: 6
+      '25':
+        type: GRILLED_PORK
+        amount: 64
+      '26':
+        type: EXP_BOTTLE
+        amount: 10
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: SEA_LANTERN
+        amount: 22
+      '29':
+        type: STICK
+        amount: 2
+      '30':
+        type: MUTTON
+        amount: 2
+      '31':
+        type: EMERALD
+        amount: 3
+      '32':
+        type: SUGAR_CANE
+        amount: 6
+      '33':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Blueberry
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8iseerBo6hIXWt2Cuzd+lq64qEEw4FP1Eeuxx8nM6AA6vGwPvVKf7anaK6HBIy7h1TJz0zX9wigLxzQcZDmGb4nSqESJfL+aOq5d6KDfp7Nou724TEDrxND1rbjoAPCgwXOSqV7ArxhDxHcSlbtQFSP27ky3SMW4Pk/xMRnzAHu4ufvV3FuPs3+t22Wpq5gdSn786vMmQWt7o8RqYxbN95XRREYpQYy+S0L5gaVhHad44CmxScPreBEpUkeS3ZYmX8yHmJYHTtnA6uUt/gglayIZWcRhFLvs9jOSIJxVO/QGoMFTlDUCJsE2OLVivc8B/gAhMB63KgEAAA==
+          skull-owner: CSCoreLib
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '35':
+        type: GLOWSTONE_DUST
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 4
+      '39':
+        type: DIAMOND_HELMET
+        damage: 4
+  '30':
+    Time: 1459847488961
+    Exp: 152
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9956555
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2272.932420662962
+      y: 83.0
+      z: 14010.046492349291
+      pitch: 7.7999487
+      yaw: 344.09863
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SPADE
+        damage: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: DIAMOND_AXE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '5':
+        type: BOW
+        damage: 264
+      '6':
+        type: CHEST
+        amount: 64
+      '9':
+        type: GLASS
+        amount: 24
+      '10':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '11':
+        type: DIAMOND
+        amount: 32
+      '12':
+        type: DIAMOND_CHESTPLATE
+      '13':
+        type: FURNACE
+        amount: 64
+      '14':
+        type: REDSTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '16':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '17':
+        type: DIRT
+      '18':
+        type: WOOL
+        damage: 6
+      '19':
+        type: WOOD_DOOR
+        amount: 2
+      '21':
+        type: COAL
+        amount: 64
+      '22':
+        type: THIN_GLASS
+        amount: 8
+      '23':
+        type: ARROW
+        amount: 4
+      '24':
+        type: GRILLED_PORK
+        amount: 6
+      '25':
+        type: GRILLED_PORK
+        amount: 64
+      '26':
+        type: EXP_BOTTLE
+        amount: 10
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: SEA_LANTERN
+        amount: 22
+      '29':
+        type: STICK
+        amount: 2
+      '30':
+        type: MUTTON
+        amount: 2
+      '31':
+        type: EMERALD
+        amount: 3
+      '32':
+        type: SUGAR_CANE
+        amount: 6
+      '33':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Blueberry
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8iseerBo6hIXWt2Cuzd+lq64qEEw4FP1Eeuxx8nM6AA6vGwPvVKf7anaK6HBIy7h1TJz0zX9wigLxzQcZDmGb4nSqESJfL+aOq5d6KDfp7Nou724TEDrxND1rbjoAPCgwXOSqV7ArxhDxHcSlbtQFSP27ky3SMW4Pk/xMRnzAHu4ufvV3FuPs3+t22Wpq5gdSn786vMmQWt7o8RqYxbN95XRREYpQYy+S0L5gaVhHad44CmxScPreBEpUkeS3ZYmX8yHmJYHTtnA6uUt/gglayIZWcRhFLvs9jOSIJxVO/QGoMFTlDUCJsE2OLVivc8B/gAhMB63KgEAAA==
+          skull-owner: CSCoreLib
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '35':
+        type: GLOWSTONE_DUST
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 4
+      '39':
+        type: DIAMOND_HELMET
+        damage: 4
+  '31':
+    Time: 1460146824292
+    Exp: 152
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9956555
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2272.932420662962
+      y: 83.0
+      z: 14010.046492349291
+      pitch: 7.7999487
+      yaw: 344.09863
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SPADE
+        damage: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: DIAMOND_AXE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '5':
+        type: BOW
+        damage: 264
+      '6':
+        type: CHEST
+        amount: 64
+      '9':
+        type: GLASS
+        amount: 24
+      '10':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '11':
+        type: DIAMOND
+        amount: 32
+      '12':
+        type: DIAMOND_CHESTPLATE
+      '13':
+        type: FURNACE
+        amount: 64
+      '14':
+        type: REDSTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '16':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '17':
+        type: DIRT
+      '18':
+        type: WOOL
+        damage: 6
+      '19':
+        type: WOOD_DOOR
+        amount: 2
+      '21':
+        type: COAL
+        amount: 64
+      '22':
+        type: THIN_GLASS
+        amount: 8
+      '23':
+        type: ARROW
+        amount: 4
+      '24':
+        type: GRILLED_PORK
+        amount: 6
+      '25':
+        type: GRILLED_PORK
+        amount: 64
+      '26':
+        type: EXP_BOTTLE
+        amount: 10
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: SEA_LANTERN
+        amount: 22
+      '29':
+        type: STICK
+        amount: 2
+      '30':
+        type: MUTTON
+        amount: 2
+      '31':
+        type: EMERALD
+        amount: 3
+      '32':
+        type: SUGAR_CANE
+        amount: 6
+      '33':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Blueberry
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8iseerBo6hIXWt2Cuzd+lq64qEEw4FP1Eeuxx8nM6AA6vGwPvVKf7anaK6HBIy7h1TJz0zX9wigLxzQcZDmGb4nSqESJfL+aOq5d6KDfp7Nou724TEDrxND1rbjoAPCgwXOSqV7ArxhDxHcSlbtQFSP27ky3SMW4Pk/xMRnzAHu4ufvV3FuPs3+t22Wpq5gdSn786vMmQWt7o8RqYxbN95XRREYpQYy+S0L5gaVhHad44CmxScPreBEpUkeS3ZYmX8yHmJYHTtnA6uUt/gglayIZWcRhFLvs9jOSIJxVO/QGoMFTlDUCJsE2OLVivc8B/gAhMB63KgEAAA==
+          skull-owner: CSCoreLib
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '35':
+        type: GLOWSTONE_DUST
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 4
+      '39':
+        type: DIAMOND_HELMET
+        damage: 4
+  '32':
+    Time: 1460883171492
+    Exp: 152
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9956555
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2272.932420662962
+      y: 83.0
+      z: 14010.046492349291
+      pitch: 7.7999487
+      yaw: 344.09863
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SPADE
+        damage: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: DIAMOND_AXE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '5':
+        type: BOW
+        damage: 264
+      '6':
+        type: CHEST
+        amount: 64
+      '9':
+        type: GLASS
+        amount: 24
+      '10':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '11':
+        type: DIAMOND
+        amount: 32
+      '12':
+        type: DIAMOND_CHESTPLATE
+      '13':
+        type: FURNACE
+        amount: 64
+      '14':
+        type: REDSTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '16':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '17':
+        type: DIRT
+      '18':
+        type: WOOL
+        damage: 6
+      '19':
+        type: WOOD_DOOR
+        amount: 2
+      '21':
+        type: COAL
+        amount: 64
+      '22':
+        type: THIN_GLASS
+        amount: 8
+      '23':
+        type: ARROW
+        amount: 4
+      '24':
+        type: GRILLED_PORK
+        amount: 6
+      '25':
+        type: GRILLED_PORK
+        amount: 64
+      '26':
+        type: EXP_BOTTLE
+        amount: 10
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: SEA_LANTERN
+        amount: 22
+      '29':
+        type: STICK
+        amount: 2
+      '30':
+        type: MUTTON
+        amount: 2
+      '31':
+        type: EMERALD
+        amount: 3
+      '32':
+        type: SUGAR_CANE
+        amount: 6
+      '33':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Blueberry
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8iseerBo6hIXWt2Cuzd+lq64qEEw4FP1Eeuxx8nM6AA6vGwPvVKf7anaK6HBIy7h1TJz0zX9wigLxzQcZDmGb4nSqESJfL+aOq5d6KDfp7Nou724TEDrxND1rbjoAPCgwXOSqV7ArxhDxHcSlbtQFSP27ky3SMW4Pk/xMRnzAHu4ufvV3FuPs3+t22Wpq5gdSn786vMmQWt7o8RqYxbN95XRREYpQYy+S0L5gaVhHad44CmxScPreBEpUkeS3ZYmX8yHmJYHTtnA6uUt/gglayIZWcRhFLvs9jOSIJxVO/QGoMFTlDUCJsE2OLVivc8B/gAhMB63KgEAAA==
+          skull-owner: CSCoreLib
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '35':
+        type: GLOWSTONE_DUST
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 4
+      '39':
+        type: DIAMOND_HELMET
+        damage: 4
+  '33':
+    Time: 1462120695975
+    Exp: 152
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9956555
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2272.932420662962
+      y: 83.0
+      z: 14010.046492349291
+      pitch: 7.7999487
+      yaw: 344.09863
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SPADE
+        damage: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: DIAMOND_AXE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '5':
+        type: BOW
+        damage: 264
+      '6':
+        type: CHEST
+        amount: 64
+      '9':
+        type: GLASS
+        amount: 24
+      '10':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '11':
+        type: DIAMOND
+        amount: 32
+      '12':
+        type: DIAMOND_CHESTPLATE
+      '13':
+        type: FURNACE
+        amount: 64
+      '14':
+        type: REDSTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '16':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '17':
+        type: DIRT
+      '18':
+        type: WOOL
+        damage: 6
+      '19':
+        type: WOOD_DOOR
+        amount: 2
+      '21':
+        type: COAL
+        amount: 64
+      '22':
+        type: THIN_GLASS
+        amount: 8
+      '23':
+        type: ARROW
+        amount: 4
+      '24':
+        type: GRILLED_PORK
+        amount: 6
+      '25':
+        type: GRILLED_PORK
+        amount: 64
+      '26':
+        type: EXP_BOTTLE
+        amount: 10
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: SEA_LANTERN
+        amount: 22
+      '29':
+        type: STICK
+        amount: 2
+      '30':
+        type: MUTTON
+        amount: 2
+      '31':
+        type: EMERALD
+        amount: 3
+      '32':
+        type: SUGAR_CANE
+        amount: 6
+      '33':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Blueberry
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8iseerBo6hIXWt2Cuzd+lq64qEEw4FP1Eeuxx8nM6AA6vGwPvVKf7anaK6HBIy7h1TJz0zX9wigLxzQcZDmGb4nSqESJfL+aOq5d6KDfp7Nou724TEDrxND1rbjoAPCgwXOSqV7ArxhDxHcSlbtQFSP27ky3SMW4Pk/xMRnzAHu4ufvV3FuPs3+t22Wpq5gdSn786vMmQWt7o8RqYxbN95XRREYpQYy+S0L5gaVhHad44CmxScPreBEpUkeS3ZYmX8yHmJYHTtnA6uUt/gglayIZWcRhFLvs9jOSIJxVO/QGoMFTlDUCJsE2OLVivc8B/gAhMB63KgEAAA==
+          skull-owner: CSCoreLib
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '35':
+        type: GLOWSTONE_DUST
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 4
+      '39':
+        type: DIAMOND_HELMET
+        damage: 4
+  '34':
+    Time: 1462483219862
+    Exp: 152
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9956555
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2272.932420662962
+      y: 83.0
+      z: 14010.046492349291
+      pitch: 7.7999487
+      yaw: 344.09863
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: DIAMOND_SPADE
+        damage: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: DIAMOND_AXE
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '5':
+        type: BOW
+        damage: 264
+      '6':
+        type: CHEST
+        amount: 64
+      '9':
+        type: GLASS
+        amount: 24
+      '10':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '11':
+        type: DIAMOND
+        amount: 32
+      '12':
+        type: DIAMOND_CHESTPLATE
+      '13':
+        type: FURNACE
+        amount: 64
+      '14':
+        type: REDSTONE
+        amount: 64
+      '15':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '16':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '17':
+        type: DIRT
+      '18':
+        type: WOOL
+        damage: 6
+      '19':
+        type: WOOD_DOOR
+        amount: 2
+      '21':
+        type: COAL
+        amount: 64
+      '22':
+        type: THIN_GLASS
+        amount: 8
+      '23':
+        type: ARROW
+        amount: 4
+      '24':
+        type: GRILLED_PORK
+        amount: 6
+      '25':
+        type: GRILLED_PORK
+        amount: 64
+      '26':
+        type: EXP_BOTTLE
+        amount: 10
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: SEA_LANTERN
+        amount: 22
+      '29':
+        type: STICK
+        amount: 2
+      '30':
+        type: MUTTON
+        amount: 2
+      '31':
+        type: EMERALD
+        amount: 3
+      '32':
+        type: SUGAR_CANE
+        amount: 6
+      '33':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Blueberry
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8iseerBo6hIXWt2Cuzd+lq64qEEw4FP1Eeuxx8nM6AA6vGwPvVKf7anaK6HBIy7h1TJz0zX9wigLxzQcZDmGb4nSqESJfL+aOq5d6KDfp7Nou724TEDrxND1rbjoAPCgwXOSqV7ArxhDxHcSlbtQFSP27ky3SMW4Pk/xMRnzAHu4ufvV3FuPs3+t22Wpq5gdSn786vMmQWt7o8RqYxbN95XRREYpQYy+S0L5gaVhHad44CmxScPreBEpUkeS3ZYmX8yHmJYHTtnA6uUt/gglayIZWcRhFLvs9jOSIJxVO/QGoMFTlDUCJsE2OLVivc8B/gAhMB63KgEAAA==
+          skull-owner: CSCoreLib
+      '34':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '35':
+        type: GLOWSTONE_DUST
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 4
+      '39':
+        type: DIAMOND_HELMET
+        damage: 4

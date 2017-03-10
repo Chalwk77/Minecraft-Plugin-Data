@@ -1,0 +1,681 @@
+Inventories:
+  '25':
+    Time: 1458455365549
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: ABSORPTION
+        Duration: 783
+        Amplifier: 0
+      '2':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '3':
+        Name: FIRE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+    Location:
+      world: world
+      x: 459.1023500189245
+      y: 109.5
+      z: -185.62834422048996
+      pitch: 10.799985
+      yaw: 179.05328
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 61
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 8
+      '9':
+        type: RABBIT_STEW
+      '13':
+        type: CAKE
+      '14':
+        type: COOKED_CHICKEN
+        amount: 60
+      '15':
+        type: COOKED_FISH
+        amount: 10
+      '16':
+        type: MELON
+        amount: 5
+      '17':
+        type: BAKED_POTATO
+        amount: 3
+      '28':
+        type: PORK
+        amount: 61
+  '26':
+    Time: 1459465467947
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 783
+        Amplifier: 0
+    Location:
+      world: world
+      x: 459.1023500189245
+      y: 109.5
+      z: -185.62834422048996
+      pitch: 10.799985
+      yaw: 179.05328
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 61
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 8
+      '9':
+        type: RABBIT_STEW
+      '13':
+        type: CAKE
+      '14':
+        type: COOKED_CHICKEN
+        amount: 60
+      '15':
+        type: COOKED_FISH
+        amount: 10
+      '16':
+        type: MELON
+        amount: 5
+      '17':
+        type: BAKED_POTATO
+        amount: 3
+      '28':
+        type: PORK
+        amount: 61
+  '27':
+    Time: 1459469876246
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 783
+        Amplifier: 0
+    Location:
+      world: world
+      x: 459.1023500189245
+      y: 109.5
+      z: -185.62834422048996
+      pitch: 10.799985
+      yaw: 179.05328
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 61
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 8
+      '9':
+        type: RABBIT_STEW
+      '13':
+        type: CAKE
+      '14':
+        type: COOKED_CHICKEN
+        amount: 60
+      '15':
+        type: COOKED_FISH
+        amount: 10
+      '16':
+        type: MELON
+        amount: 5
+      '17':
+        type: BAKED_POTATO
+        amount: 3
+      '28':
+        type: PORK
+        amount: 61
+  '28':
+    Time: 1459659265976
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 783
+        Amplifier: 0
+    Location:
+      world: world
+      x: 459.1023500189245
+      y: 109.5
+      z: -185.62834422048996
+      pitch: 10.799985
+      yaw: 179.05328
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 61
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 8
+      '9':
+        type: RABBIT_STEW
+      '13':
+        type: CAKE
+      '14':
+        type: COOKED_CHICKEN
+        amount: 60
+      '15':
+        type: COOKED_FISH
+        amount: 10
+      '16':
+        type: MELON
+        amount: 5
+      '17':
+        type: BAKED_POTATO
+        amount: 3
+      '28':
+        type: PORK
+        amount: 61
+  '29':
+    Time: 1459766740508
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 783
+        Amplifier: 0
+    Location:
+      world: world
+      x: 459.1023500189245
+      y: 109.5
+      z: -185.62834422048996
+      pitch: 10.799985
+      yaw: 179.05328
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 61
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 8
+      '9':
+        type: RABBIT_STEW
+      '13':
+        type: CAKE
+      '14':
+        type: COOKED_CHICKEN
+        amount: 60
+      '15':
+        type: COOKED_FISH
+        amount: 10
+      '16':
+        type: MELON
+        amount: 5
+      '17':
+        type: BAKED_POTATO
+        amount: 3
+      '28':
+        type: PORK
+        amount: 61
+  '30':
+    Time: 1459847491577
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 783
+        Amplifier: 0
+    Location:
+      world: world
+      x: 459.1023500189245
+      y: 109.5
+      z: -185.62834422048996
+      pitch: 10.799985
+      yaw: 179.05328
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 61
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 8
+      '9':
+        type: RABBIT_STEW
+      '13':
+        type: CAKE
+      '14':
+        type: COOKED_CHICKEN
+        amount: 60
+      '15':
+        type: COOKED_FISH
+        amount: 10
+      '16':
+        type: MELON
+        amount: 5
+      '17':
+        type: BAKED_POTATO
+        amount: 3
+      '28':
+        type: PORK
+        amount: 61
+  '31':
+    Time: 1460146826540
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 783
+        Amplifier: 0
+    Location:
+      world: world
+      x: 459.1023500189245
+      y: 109.5
+      z: -185.62834422048996
+      pitch: 10.799985
+      yaw: 179.05328
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 61
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 8
+      '9':
+        type: RABBIT_STEW
+      '13':
+        type: CAKE
+      '14':
+        type: COOKED_CHICKEN
+        amount: 60
+      '15':
+        type: COOKED_FISH
+        amount: 10
+      '16':
+        type: MELON
+        amount: 5
+      '17':
+        type: BAKED_POTATO
+        amount: 3
+      '28':
+        type: PORK
+        amount: 61
+  '32':
+    Time: 1460883173810
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 783
+        Amplifier: 0
+    Location:
+      world: world
+      x: 459.1023500189245
+      y: 109.5
+      z: -185.62834422048996
+      pitch: 10.799985
+      yaw: 179.05328
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 61
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 8
+      '9':
+        type: RABBIT_STEW
+      '13':
+        type: CAKE
+      '14':
+        type: COOKED_CHICKEN
+        amount: 60
+      '15':
+        type: COOKED_FISH
+        amount: 10
+      '16':
+        type: MELON
+        amount: 5
+      '17':
+        type: BAKED_POTATO
+        amount: 3
+      '28':
+        type: PORK
+        amount: 61
+  '33':
+    Time: 1462120698535
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 783
+        Amplifier: 0
+    Location:
+      world: world
+      x: 459.1023500189245
+      y: 109.5
+      z: -185.62834422048996
+      pitch: 10.799985
+      yaw: 179.05328
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 61
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 8
+      '9':
+        type: RABBIT_STEW
+      '13':
+        type: CAKE
+      '14':
+        type: COOKED_CHICKEN
+        amount: 60
+      '15':
+        type: COOKED_FISH
+        amount: 10
+      '16':
+        type: MELON
+        amount: 5
+      '17':
+        type: BAKED_POTATO
+        amount: 3
+      '28':
+        type: PORK
+        amount: 61
+  '34':
+    Time: 1462483222918
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4383
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 783
+        Amplifier: 0
+    Location:
+      world: world
+      x: 459.1023500189245
+      y: 109.5
+      z: -185.62834422048996
+      pitch: 10.799985
+      yaw: 179.05328
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: COOKED_BEEF
+        amount: 61
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 8
+      '9':
+        type: RABBIT_STEW
+      '13':
+        type: CAKE
+      '14':
+        type: COOKED_CHICKEN
+        amount: 60
+      '15':
+        type: COOKED_FISH
+        amount: 10
+      '16':
+        type: MELON
+        amount: 5
+      '17':
+        type: BAKED_POTATO
+        amount: 3
+      '28':
+        type: PORK
+        amount: 61

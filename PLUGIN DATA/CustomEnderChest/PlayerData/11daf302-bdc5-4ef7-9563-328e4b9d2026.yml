@@ -1,0 +1,157 @@
+PlayerLastName: Shtsngiggs
+EnderChestSize: 18
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANzkhNLWBgAAABt1TGHQAAAA==
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3zshMzk7NY2AAAGifiu0fAAAA
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAJz89JY2AAAIves4gcAAAA
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwL00sSslMzGNgAACFWNpqIAAAAA==
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMAfFTUotyM0tSGRgApa6DsSEAAAA=
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeAMyEyPys9NykxlYAAAHOM0OiEAAAA=
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB1z0gsLmFgAACDCT7SHQAAAA==
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANLiwFUgwAxMeU0x0AAAA=
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeBwzUtJLcpNzGNgAAB2vyyKIAAAAA==
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB1ykmsSmVgAAD/4nt7HQAAAA==
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: DRAGON_EGG
+    amount: 64
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAOyExnYAAASo1SARsAAAA=
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 40
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §cBroken Spawner
+      lore:
+      - '§7Type: §bEnderman'
+      - ''
+      - §cFractured, must be repaired in an Ancient Altar
+      blockMaterial: MOB_SPAWNER
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIRT
+    amount: 34
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §ePowered Spawner §7(Spider)
+      lore:
+      - ''
+      - '§8⇨ §e⚡ §7Max Entity Cap: 6'
+      - §8⇨ §e⚡ §7512 J Buffer
+      - §8⇨ §e⚡ §7240 J/Mob
+      internal: H4sIAAAAAAAAAE2LzW6CQBhFvzZtgqSP0S3J8Csuumiw6hA6FBlBZjfoEMBBDYIRnqqPWJZd3MXJOVcFUOEtPvVS/rSXopJCgWd8hHeL65ZrFK5WuK6hWe7C0HiuC806FrrBOULm3FFBnU5X0XaVuM1A6cSj61txUwHgSYHXhMtewK8YfMT2JTrufXkYsDMxjZEMcX2d43My5B52cDP5zacTDIt/rd3x1JaZ6ZfsHPV5k6DA3Eqx2eqHZndna2xkTWSTEZtZ6leEJidCoweh2CD0YIVphFiN7XAZmeFyVX6P0ZiNmcXWpGT1zpymk/WXzqgsM7qqmecvij36AFDghfBGwMyLvUsrgioH+APpiPodKgEAAA==
+      skull-owner: CSCoreLib
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    amount: 4
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §cBroken Spawner
+      lore:
+      - '§7Type: §bChicken'
+      - ''
+      - §cFractured, must be repaired in an Ancient Altar
+      blockMaterial: MOB_SPAWNER
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    amount: 5
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §cBroken Spawner
+      lore:
+      - '§7Type: §bMagma Cube'
+      - ''
+      - §cFractured, must be repaired in an Ancient Altar
+      blockMaterial: MOB_SPAWNER

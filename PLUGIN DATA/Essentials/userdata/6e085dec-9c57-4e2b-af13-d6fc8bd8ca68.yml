@@ -1,0 +1,87 @@
+lastlocation:
+  world: world
+  x: -7377.699999988079
+  y: 70.0
+  z: 15334.190235664091
+  yaw: 144.22504
+  pitch: 0.12737471
+lastAccountName: nessingwary
+timestamps:
+  login: 1474537597981
+  logout: 1474537918157
+  lastteleport: 1474428528059
+ipAddress: 14.200.171.111
+geolocation: Mona Vale, New South Wales, Australia
+logoutlocation:
+  world: world
+  x: -2072.699999988079
+  y: 100.0
+  z: -1207.300000011921
+  yaw: -344.09192
+  pitch: 22.143091
+mail:
+- §6[§rChalwk§6] §r/warp mobarena2 (new mob boss)
+- §6[§rChalwk§6] §rMob Arena's 1,4 and 3 are now open!
+- '§6[§rChalwk§6] §rFinal Boss: /warp mobarena5'
+- '§6[§rChalwk§6] §rFinal Boss: /warp mobarena5. God have mercy on your soul.'
+- §6[§rServer§6] §rAll NPC's have been removed from /baltop list
+- §6[§rChalwk§6] §rCustom Runes Enchant Shop now open! &b/warp runeshop
+- §6[§rChalwk§6] §rNew content available at /warp runeshop
+- '§6[§rServer§6] §rNotice: Known issue with /nv when wearing any type of helmet.'
+- '§6[§rChalwk§6] §rNotice: Known issue with Veinminer Rune Enchant. Do not use!'
+- '§6[§rChalwk§6] §rNotice: Disguises (/d) are ''temporarily'' disabled.'
+- '§6[§rServer§6] §rNotice: Webstore sale extended to Mon 25th Jul'
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'
+- §6[§rServer§6] §rThank you for your donation!
+homes:
+  lachyshouse:
+    world: world
+    x: -2062.306414780885
+    y: 80.0
+    z: -1181.1993993075039
+    yaw: 87.217224
+    pitch: 7.338784
+  fall:
+    world: world
+    x: -2039.5
+    y: 223.0
+    z: -1136.5
+    yaw: 97.1815
+    pitch: 51.81833
+  home:
+    world: world
+    x: -2071.484075398325
+    y: 100.0
+    z: -1195.550895516433
+    yaw: 73.98849
+    pitch: 32.685326
+  random:
+    world: world
+    x: -7445.300000011921
+    y: 65.0
+    z: 15308.512125643574
+    yaw: -34.769405
+    pitch: 22.134281
+  fal2:
+    world: world
+    x: -2001.699999988079
+    y: 77.0
+    z: -1117.386961765603
+    yaw: -266.58865
+    pitch: -0.53152037
+  farm:
+    world: world
+    x: -7366.840778601608
+    y: 95.17150653216154
+    z: 15332.567975063648
+    yaw: -84.89502
+    pitch: 82.75219
+money: '64078.23'
+afk: false

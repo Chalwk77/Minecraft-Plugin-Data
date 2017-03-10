@@ -1,0 +1,148 @@
+PlayerLastName: XxErza_ScarletxX
+EnderChestSize: 18
+EnderChestInventory:
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        LOOT_BONUS_BLOCKS: 3
+      repair-cost: 63
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 11
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aEnchanted Golden Apple
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: GRILLED_PORK
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_CHICKEN
+    amount: 8
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rChicken Cheeseburger
+      lore:
+      - ''
+      - §7§oRestores §b§o6.5 §7§oHunger
+      internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkYHi56KLRtA6RsSAPhx3gUB+DGgTDzHf1A2t3XZ6cc3QAHV7Wx0GIr+7c7AXX4JFs4bXG2Pa2jmeghtuG7XjcqEzsGq5vV36JG9/ybB30+3ThXb/n1wloPR/7oeNXHQAeNHjOSjFw+OEyQMVmh7abQNSSuHdO1kisyOHikVMmqxlxSXv3i3d3Kaf/Wqcvc0cwHOyKUzRUbYaWOBZ8EZt1m96YFe+KTzZSFSE6D1WRfByoEscwj8xVHkmqalzMj2qVxyJMUoclBDGLmdRKbZawkalvydoQFW2q/lqapIrJYNps0BuABk+0bDlMZuvZuePLfQXwCy1C9nsuAQAA
+      skull-owner: CSCoreLib
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENDER_PEARL
+    amount: 5
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPRUCE_DOOR_ITEM
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: ROTTEN_FLESH
+    amount: 7
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §rMagical Essence
+      lore:
+      - ''
+      - §7Redstone
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eMustard Seed
+      internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4kxYLIwYNxm5bQOvyH9FahRGpRg7BQP9c+4Dzu+PLeswFseFufOq2/m0tZaWnBMyng3ZOh8MY4cAIhkOOVwnMEzrET5mMhZVD6WGAb7Md0lU1bydsArFb2bdfImw0ATxa87oTuJPxKEyG+P6JiH+nckNGDN2ukl0RdA3LemcOMjEj98IvpKDbhv9ZvRerrDEdHfk66Q71DMV5puVi5eb394Wni0uEnoirxWcqPVBV1pk6GbTJ/mUaKDrcuV8RnG6aye3TK7rTnH1PDhknP5lxxVVTLOTVsThBTeU/VV03OblgmkwmABS9M1BIGs/Xs0si4OgD8Ace/7cMuAQAA
+      skull-owner: CSCoreLib
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: BONE
+    amount: 2
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §cApple Cider
+      custom-effects:
+      - ==: PotionEffect
+        effect: 23
+        duration: 14
+        amplifier: 0
+        ambient: true
+        has-particles: true
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §5Plum
+      internal: H4sIAAAAAAAAAE2LwU6DQBRFn0YTSvwMtyRDKSALF7Wtdkj7qlCRYQfDYBmGtqFgCl/lJ8rS5bnnHh1Ah4ew6pR6b05FqYQGtzSHR2tm21Ze5IbrpJkxczxieA4XhutxXnBzJlLzSQd9jM6iaUtxmYDWimvbNeKiA8CNBvdRqjoBv6L3SRIfSB77ivfUGXkfErWj8uzSY9RnC+rQevTrubPpvX9fu02/bMUs/5AcP7qsjsjGCpRYByavP39QqgolI9thZSc1G3bL1xLfIjXuB5SVhcPKZJJPcemX28GvcB9UONApG76tZOxw+VImcn7F6YqwGivsfa+IyTOABneY1gImi3BxasSmzAD+AE4GhzsqAQAA
+      skull-owner: CSCoreLib
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §9Blueberry Cheesecake
+      lore:
+      - ''
+      - §7§oRestores §b§o8.5 §7§oHunger
+      internal: H4sIAAAAAAAAAE2LzW6CQBhFvzZtgqSP0S3J8DfioosG0zhEoIKCM7tBx8I4qEGwwlP1EUt3Xd2ce+7VAXR4SY+dUp/N+VApocEj2cOryz3L5twzHMynhmO7O6OYYs/AlokcLgoTu0IHfTxdRNNW4joBrRX3tmvEVQeABw2eM646AT+iDxDblmi/DdSuJ3jkdYpUTORlSk5ZX/gEk3r0i3e87Gf/tm7Lc1dROyjZadUVdYaWdqLEIjF39eYWydCKcmKF+caOcyapPN5DK5DxnH4zmSg60CHKV4iuWUnlRxUNScXqMWVQU8nU2B/juSrDP7/+QmEazA5b9AagwVPEawETP/XPjVhWBcAvQ6c6VSoBAAA=
+      skull-owner: CSCoreLib
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    damage: 35
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - §6Slots 4
+      - §7Arrow Rain II
+      enchants:
+        ARROW_DAMAGE: 10
+        ARROW_KNOCKBACK: 10
+        ARROW_FIRE: 10
+        ARROW_INFINITE: 10
+      repair-cost: 7
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    damage: 27
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 10
+        DAMAGE_UNDEAD: 10
+        DURABILITY: 10
+        DAMAGE_ARTHROPODS: 10
+        KNOCKBACK: 10
+        FIRE_ASPECT: 10
+        LOOT_BONUS_MOBS: 10
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+    amount: 10

@@ -1,0 +1,90 @@
+lastAccountName: Biscuit894
+timestamps:
+  login: 1475727629772
+  lastteleport: 1473738753363
+  logout: 1475727734752
+  kits:
+    color: 1452332332220
+    food: 1452509617583
+ipAddress: 58.104.1.111
+geolocation: Charlestown, New South Wales, Australia
+lastlocation:
+  world: world
+  x: -1898.5394806585741
+  y: 239.9375
+  z: -1838.5703087486393
+  yaw: 190.92558
+  pitch: 23.100044
+logoutlocation:
+  world: world
+  x: -1801.7898483893864
+  y: 66.0
+  z: -1801.195173098028
+  yaw: -41.279297
+  pitch: -4.8000255
+money: '46866.69499999999930504'
+homes:
+  home:
+    world: world
+    x: -1802.4575164485
+    y: 66.0
+    z: -1804.486053297635
+    yaw: 329.82205
+    pitch: 8.700061
+  seatemple:
+    world: world
+    x: -1800.2016917605658
+    y: 48.0
+    z: -147.1792555827146
+    yaw: 186.57861
+    pitch: 28.349998
+  nether:
+    world: world_nether
+    x: -4312.738690935294
+    y: 50.0
+    z: 2401.9409809522003
+    yaw: 49.594334
+    pitch: 22.350037
+  endisland:
+    world: world_the_end
+    x: -1859.9805124033173
+    y: 99.0
+    z: 1925.2624734379376
+    yaw: 73.322075
+    pitch: 9.600085
+  seatemple2:
+    world: world
+    x: -4406.834374407198
+    y: 67.12649399206812
+    z: 2135.785746006333
+    yaw: 132.28058
+    pitch: 86.25004
+  megataiga:
+    world: world
+    x: -14336.722705102957
+    y: 69.0
+    z: 2089.9136348758448
+    yaw: -142.21826
+    pitch: 29.100075
+  temp:
+    world: world
+    x: -17586.76099257083
+    y: 27.0
+    z: 531.2942097649617
+    yaw: 263.5304
+    pitch: 3.4500432
+  jngle:
+    world: world
+    x: -11312.183266401777
+    y: 83.0
+    z: -29505.64701661503
+    yaw: 176.70093
+    pitch: 58.050014
+  ice:
+    world: world
+    x: 26918.43404430163
+    y: 97.0
+    z: 29001.98064537134
+    yaw: 117.66235
+    pitch: 24.750017
+afk: false

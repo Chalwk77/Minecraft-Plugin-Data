@@ -1,0 +1,46 @@
+lastlocation:
+  world: world
+  x: 701.5
+  y: 67.32436308490426
+  z: -122.5
+  yaw: -89.44945
+  pitch: 1.3500017
+lastAccountName: awsmgrl888
+timestamps:
+  login: 1481869631573
+  lastteleport: 1480933098149
+  logout: 1481869636061
+  kits:
+    citizen: 1459652271367
+    eggs: 1468652622993
+    sk_kit: 1465704683387
+    ore: 1476945629925
+    color: 1474169354464
+    pw: 1480154095811
+    dtools: 1474703612522
+    tools: 1470636283201
+    food: 1476587011579
+    ultra: 1480153889670
+    mccharacter: 1459651976040
+    firework: 1469442896615
+    overlord: 1465705484076
+ipAddress: 101.184.136.83
+geolocation: Australia
+homes:
+  home:
+    world: world
+    x: 18926.5
+    y: 63.0
+    z: 12356.5
+    yaw: -95.40039
+    pitch: 64.35001
+afk: false
+money: '1386842.77294999999861121'
+logoutlocation:
+  world: world
+  x: 2371.862500011921
+  y: 81.0
+  z: -4645.165964365194
+  yaw: -6.551675
+  pitch: 16.350084
+godmode: true

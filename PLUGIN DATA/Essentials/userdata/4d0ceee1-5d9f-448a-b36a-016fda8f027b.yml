@@ -1,0 +1,30 @@
+lastlocation:
+  world: world
+  x: -29018.5
+  y: 81.0
+  z: -574.5
+  yaw: -29.26325
+  pitch: 53.127617
+geolocation: Adelaide, South Australia, Australia
+lastAccountName: Dusty_Tornado
+timestamps:
+  login: 1473698306977
+  lastteleport: 1473699595013
+  logout: 1473699659353
+ipAddress: 122.105.146.158
+money: '5125.7519999999999950'
+logoutlocation:
+  world: world
+  x: 443.30000001192093
+  y: 88.5
+  z: -156.2479571218974
+  yaw: 278.92627
+  pitch: 80.83234
+homes:
+  home:
+    world: world
+    x: -29018.9097068945
+    y: 81.0
+    z: -574.6999999880791
+    yaw: -29.26325
+    pitch: 53.127617

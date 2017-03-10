@@ -1,0 +1,478 @@
+Inventories:
+  '1':
+    Time: 1480153210907
+    Killer: BilboSwagginzz_
+    DeathReasson: Entity attack
+    Exp: 2973061
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: GLOWING
+        Duration: 129
+        Amplifier: 1
+    Location:
+      world: world
+      x: -18667.517363895375
+      y: 47.0
+      z: 10653.332606242644
+      pitch: 16.172873
+      yaw: 217.90161
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 3000
+            DAMAGE_UNDEAD: 3000
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            ARROW_FIRE: 3000
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 305
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 119
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: WOOD_AXE
+      '5':
+        type: FLINT
+        amount: 64
+      '6':
+        type: COAL
+        amount: 64
+      '7':
+        type: COAL
+        amount: 64
+      '8':
+        type: COAL
+        amount: 64
+      '9':
+        type: LOG
+        amount: 28
+      '10':
+        type: GLOWSTONE_DUST
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Dust
+      '11':
+        type: FLINT
+        amount: 23
+      '12':
+        type: COAL
+        amount: 64
+      '13':
+        type: STRING
+        amount: 19
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: SPIDER_EYE
+        amount: 10
+      '16':
+        type: COAL
+        amount: 64
+      '17':
+        type: DIRT
+        amount: 64
+      '18':
+        type: GOLD_ORE
+        amount: 3
+      '19':
+        type: DIRT
+        amount: 64
+      '20':
+        type: COAL
+        amount: 64
+      '21':
+        type: DIRT
+        amount: 64
+      '22':
+        type: DIRT
+        amount: 64
+      '23':
+        type: DIRT
+        amount: 64
+      '24':
+        type: DIRT
+        amount: 64
+      '25':
+        type: COAL
+        amount: 64
+      '26':
+        type: RED_ROSE
+        amount: 3
+      '27':
+        type: LOG
+        damage: 2
+        amount: 18
+      '28':
+        type: COAL
+        amount: 35
+      '29':
+        type: DIAMOND_PICKAXE
+        damage: 326
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            SILK_TOUCH: 1
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '30':
+        type: SNOW_BALL
+        amount: 16
+      '31':
+        type: SEEDS
+        amount: 21
+      '32':
+        type: SNOW_BALL
+        amount: 16
+      '33':
+        type: SNOW_BALL
+        amount: 16
+      '34':
+        type: SNOW_BALL
+        amount: 16
+      '35':
+        type: SNOW_BALL
+        amount: 16
+  '2':
+    Time: 1480320906867
+    DeathReasson: Suicide
+    Exp: 61073
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 76094
+        Amplifier: 1
+    Location:
+      world: world
+      x: -1620.6544600953437
+      y: 68.62595791899085
+      z: -1043.6150952463927
+      pitch: 73.350006
+      yaw: 38.579895
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: SIGN
+      '2':
+        type: GRASS
+      '3':
+        type: WOOD_STAIRS
+      '4':
+        type: WOOD_AXE
+      '5':
+        type: RAW_CHICKEN
+      '6':
+        type: BONE
+        amount: 64
+      '7':
+        type: WOOD_AXE
+      '8':
+        type: SPONGE
+  '3':
+    Time: 1480320953597
+    DeathReasson: Suicide
+    Exp: 61073
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1620.583906031585
+      y: 68.4886385542065
+      z: -1039.4475287377918
+      pitch: 90.0
+      yaw: -59.24992
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: SIGN
+      '2':
+        type: GRASS
+      '3':
+        type: WOOD_STAIRS
+      '4':
+        type: WOOD_AXE
+      '5':
+        type: RAW_CHICKEN
+      '6':
+        type: BONE
+        amount: 64
+      '7':
+        type: WOOD_AXE
+      '8':
+        type: SPONGE
+  '4':
+    Time: 1480320998426
+    DeathReasson: Suicide
+    Exp: 61073
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1614.5658461109615
+      y: 68.19840422629096
+      z: -1034.859406078395
+      pitch: 56.1
+      yaw: 298.79974
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: SIGN
+      '2':
+        type: GRASS
+      '3':
+        type: WOOD_STAIRS
+      '4':
+        type: WOOD_AXE
+      '5':
+        type: RAW_CHICKEN
+      '6':
+        type: BONE
+        amount: 64
+      '7':
+        type: WOOD_AXE
+      '8':
+        type: SPONGE
+  '5':
+    Time: 1480321023816
+    DeathReasson: Suicide
+    Exp: 61073
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1620.5635605270963
+      y: 68.62595791899085
+      z: -1043.3263666656167
+      pitch: 89.4
+      yaw: 25.500061
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: SIGN
+      '2':
+        type: GRASS
+      '3':
+        type: WOOD_STAIRS
+      '4':
+        type: WOOD_AXE
+      '5':
+        type: RAW_CHICKEN
+      '6':
+        type: BONE
+        amount: 64
+      '7':
+        type: WOOD_AXE
+      '8':
+        type: SPONGE
+  '6':
+    Time: 1480321035774
+    DeathReasson: Suicide
+    Exp: 61073
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1620.5318030161689
+      y: 68.33293275542411
+      z: -1042.147425510794
+      pitch: 76.95001
+      yaw: -5.10004
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: SIGN
+      '2':
+        type: GRASS
+      '3':
+        type: WOOD_STAIRS
+      '4':
+        type: WOOD_AXE
+      '5':
+        type: RAW_CHICKEN
+      '6':
+        type: BONE
+        amount: 64
+      '7':
+        type: WOOD_AXE
+      '8':
+        type: SPONGE
+  '7':
+    Time: 1480321132248
+    DeathReasson: Suicide
+    Exp: 61073
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1620.300000011921
+      y: 68.29566555349932
+      z: -1017.1374999880791
+      pitch: 58.799995
+      yaw: -122.8508
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: SIGN
+      '2':
+        type: GRASS
+      '3':
+        type: WOOD_STAIRS
+      '4':
+        type: WOOD_AXE
+      '5':
+        type: RAW_CHICKEN
+      '6':
+        type: BONE
+        amount: 64
+      '7':
+        type: WOOD_AXE
+      '8':
+        type: SPONGE
+  '8':
+    Time: 1480321157869
+    DeathReasson: Suicide
+    Exp: 61073
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1617.838107079874
+      y: 68.19840422629096
+      z: -1009.3870294565651
+      pitch: 34.350048
+      yaw: 89.54996
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: SIGN
+      '2':
+        type: GRASS
+      '3':
+        type: WOOD_STAIRS
+      '4':
+        type: WOOD_AXE
+      '5':
+        type: RAW_CHICKEN
+      '6':
+        type: BONE
+        amount: 64
+      '7':
+        type: WOOD_AXE
+      '8':
+        type: SPONGE
+  '9':
+    Time: 1480321219835
+    DeathReasson: Suicide
+    Exp: 61073
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1620.2619685220752
+      y: 68.74718866953232
+      z: -998.0942189134628
+      pitch: 66.30003
+      yaw: 344.99976
+    Items:
+      '0':
+        type: WOOL
+      '1':
+        type: SIGN
+      '2':
+        type: GRASS
+      '3':
+        type: WOOD_STAIRS
+      '4':
+        type: WOOD_AXE
+      '5':
+        type: RAW_CHICKEN
+      '6':
+        type: BONE
+        amount: 64
+      '7':
+        type: WOOD_AXE
+      '8':
+        type: SPONGE

@@ -1,0 +1,469 @@
+Inventories:
+  '48':
+    Time: 1462171482247
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2408.692203114368
+      y: 69.0
+      z: 366.2221551945382
+      pitch: 41.055138
+      yaw: 115.39758
+  '49':
+    Time: 1462171493074
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2419.0769943020664
+      y: 72.0
+      z: 355.2448845710899
+      pitch: 14.655128
+      yaw: 116.297714
+  '50':
+    Time: 1462483220466
+    Exp: 33706787
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -335.1610062977966
+      y: 79.0
+      z: -2252.54882845396
+      pitch: 34.94992
+      yaw: 27.451796
+    Items:
+      '0':
+        type: STONE
+      '1':
+        type: ROTTEN_FLESH
+      '4':
+        type: END_BRICKS
+      '8':
+        type: GRASS
+  '51':
+    Time: 1462516796673
+    Exp: 202158384
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3016.5
+      y: 80.0
+      z: -2324.5
+      pitch: 8.100104
+      yaw: -265.5028
+    Items:
+      '0':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §c§lKiller§6§lPotion
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 2000
+            amplifier: 125
+            ambient: false
+            has-particles: false
+      '1':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §c§lKiller§6§lPotion
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 2000
+            amplifier: 125
+            ambient: false
+            has-particles: false
+      '5':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §c§lKiller§6§lPotion
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 2000
+            amplifier: 125
+            ambient: false
+            has-particles: false
+      '6':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §c§lKiller§6§lPotion
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 2000
+            amplifier: 125
+            ambient: false
+            has-particles: false
+      '7':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §c§lKiller§6§lPotion
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 2000
+            amplifier: 125
+            ambient: false
+            has-particles: false
+      '8':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §c§lKiller§6§lPotion
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 2000
+            amplifier: 125
+            ambient: false
+            has-particles: false
+      '9':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §c§lKiller§6§lPotion
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 2000
+            amplifier: 125
+            ambient: false
+            has-particles: false
+      '10':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §c§lKiller§6§lPotion
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 2000
+            amplifier: 125
+            ambient: false
+            has-particles: false
+      '11':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §c§lKiller§6§lPotion
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 2000
+            amplifier: 125
+            ambient: false
+            has-particles: false
+      '12':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §c§lKiller§6§lPotion
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 2000
+            amplifier: 125
+            ambient: false
+            has-particles: false
+      '13':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §c§lKiller§6§lPotion
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 2000
+            amplifier: 125
+            ambient: false
+            has-particles: false
+      '14':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §c§lKiller§6§lPotion
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 2000
+            amplifier: 125
+            ambient: false
+            has-particles: false
+      '38':
+        type: ELYTRA
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            PROTECTION_ENVIRONMENTAL: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+            PROTECTION_FALL: 4
+            OXYGEN: 3
+            MENDING: 1
+            WATER_WORKER: 1
+            THORNS: 3
+            DEPTH_STRIDER: 3
+            ARROW_DAMAGE: 5
+            DAMAGE_ALL: 5
+            ARROW_KNOCKBACK: 2
+            ARROW_FIRE: 1
+            ARROW_INFINITE: 1
+            KNOCKBACK: 2
+            FIRE_ASPECT: 2
+            LURE: 3
+          repair-cost: 134217727
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rPig Head
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJgqzx0EODbV0iHxVR3L0tsIafXTUIBvpUfcR67HEyMyaACS/bplfquz0fKyUNeKQFvBZFLnIhhUUIOVozj8wt4c4ySwo5zV1HFg6xTTDv00W2XSWvEzA6OXR9K68mADwY8LwXqpfwK8fA5ofSLg6BykdK7pxsbRXR+jKnp/2Y+ZRQfferd7IeF/9arxOpp5gblPy06TO9t9durOQqnuZ6d8OaDlizGU+ZyxzqRmncRGk4hhpV6GwGXqPGL6xQ70ZMdl60bH5YzRtexyUumYfJh80T5qATDqg/S/SDxfFgvwEY8IRCS5j4W//cynWVAfwB7qosRCoBAAA=
+          skull-owner: CSCoreLib
+  '52':
+    Time: 1462581514568
+    Exp: 202158384
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3159.5
+      y: 64.0
+      z: 1677.5
+      pitch: 4.9483557
+      yaw: 359.7025
+  '53':
+    Time: 1462594830212
+    Exp: 202158484
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3743.5
+      y: 74.0
+      z: -2260.5
+      pitch: 2.550003
+      yaw: -179.55
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '3':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '4':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '5':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '6':
+        type: BOW
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '7':
+        type: ARROW
+      '8':
+        type: DOUBLE_PLANT
+        damage: 5
+        amount: 7
+      '9':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '10':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+  '54':
+    Time: 1462601136684
+    Exp: 202158484
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3743.5
+      y: 74.0
+      z: -2260.5
+      pitch: 2.550003
+      yaw: -179.55
+  '55':
+    Time: 1462616294869
+    Exp: 235848494
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 4626.3459404914365
+      y: 66.0
+      z: -3937.897356782352
+      pitch: 4.3500447
+      yaw: 241.9497
+  '56':
+    Time: 1462661104289
+    Exp: 235848494
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2266.5
+      y: 64.0
+      z: 2758.5
+      pitch: 14.100021
+      yaw: 310.50006
+  '57':
+    Time: 1462662831391
+    Exp: 235848506
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -243.5
+      y: 69.0
+      z: 3510.5
+      pitch: 33.600002
+      yaw: -92.24991
+    Items:
+      '0':
+        type: ROTTEN_FLESH
+        amount: 5

@@ -1,0 +1,6 @@
+PlayerLastName: JaspaOliver2005
+EnderChestSize: 18
+EnderChestInventory:
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: WATER_BUCKET

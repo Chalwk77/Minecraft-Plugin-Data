@@ -1,0 +1,1179 @@
+Inventories:
+  '25':
+    Time: 1458455362616
+    Exp: 108
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2271.5924667551676
+      y: 83.0
+      z: 14008.582540583877
+      pitch: 24.000002
+      yaw: 354.50244
+    Items:
+      '0':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '1':
+        type: ENDER_PEARL
+        amount: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 23
+      '3':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: TORCH
+        amount: 16
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 32
+      '8':
+        type: DIAMOND_SWORD
+        damage: 27
+      '9':
+        type: COBBLESTONE
+        amount: 23
+      '10':
+        type: ROTTEN_FLESH
+        amount: 2
+      '11':
+        type: STONE
+        amount: 64
+      '12':
+        type: CLAY
+        amount: 5
+      '13':
+        type: SAND
+        amount: 37
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '15':
+        type: COAL
+      '16':
+        type: CAKE
+      '17':
+        type: APPLE
+        amount: 3
+      '18':
+        type: CAKE
+      '19':
+        type: CAKE
+      '20':
+        type: STRING
+        amount: 2
+      '21':
+        type: CAKE
+      '22':
+        type: INK_SACK
+        damage: 15
+        amount: 64
+      '23':
+        type: COOKED_BEEF
+        amount: 2
+      '24':
+        type: PORK
+        amount: 64
+      '25':
+        type: ARROW
+        amount: 3
+      '26':
+        type: CARROT_ITEM
+        amount: 5
+      '27':
+        type: INK_SACK
+        damage: 15
+        amount: 10
+      '28':
+        type: COOKED_CHICKEN
+        amount: 64
+      '30':
+        type: WOOD
+        amount: 3
+      '34':
+        type: BONE
+  '26':
+    Time: 1459465466053
+    Exp: 108
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2271.5924667551676
+      y: 83.0
+      z: 14008.582540583877
+      pitch: 24.000002
+      yaw: 354.50244
+    Items:
+      '0':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '1':
+        type: ENDER_PEARL
+        amount: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 23
+      '3':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: TORCH
+        amount: 16
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 32
+      '8':
+        type: DIAMOND_SWORD
+        damage: 27
+      '9':
+        type: COBBLESTONE
+        amount: 23
+      '10':
+        type: ROTTEN_FLESH
+        amount: 2
+      '11':
+        type: STONE
+        amount: 64
+      '12':
+        type: CLAY
+        amount: 5
+      '13':
+        type: SAND
+        amount: 37
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '15':
+        type: COAL
+      '16':
+        type: CAKE
+      '17':
+        type: APPLE
+        amount: 3
+      '18':
+        type: CAKE
+      '19':
+        type: CAKE
+      '20':
+        type: STRING
+        amount: 2
+      '21':
+        type: CAKE
+      '22':
+        type: INK_SACK
+        damage: 15
+        amount: 64
+      '23':
+        type: COOKED_BEEF
+        amount: 2
+      '24':
+        type: PORK
+        amount: 64
+      '25':
+        type: ARROW
+        amount: 3
+      '26':
+        type: CARROT_ITEM
+        amount: 5
+      '27':
+        type: INK_SACK
+        damage: 15
+        amount: 10
+      '28':
+        type: COOKED_CHICKEN
+        amount: 64
+      '30':
+        type: WOOD
+        amount: 3
+      '34':
+        type: BONE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 14
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 14
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 14
+      '39':
+        type: DIAMOND_HELMET
+        damage: 14
+  '27':
+    Time: 1459469874472
+    Exp: 108
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2271.5924667551676
+      y: 83.0
+      z: 14008.582540583877
+      pitch: 24.000002
+      yaw: 354.50244
+    Items:
+      '0':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '1':
+        type: ENDER_PEARL
+        amount: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 23
+      '3':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: TORCH
+        amount: 16
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 32
+      '8':
+        type: DIAMOND_SWORD
+        damage: 27
+      '9':
+        type: COBBLESTONE
+        amount: 23
+      '10':
+        type: ROTTEN_FLESH
+        amount: 2
+      '11':
+        type: STONE
+        amount: 64
+      '12':
+        type: CLAY
+        amount: 5
+      '13':
+        type: SAND
+        amount: 37
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '15':
+        type: COAL
+      '16':
+        type: CAKE
+      '17':
+        type: APPLE
+        amount: 3
+      '18':
+        type: CAKE
+      '19':
+        type: CAKE
+      '20':
+        type: STRING
+        amount: 2
+      '21':
+        type: CAKE
+      '22':
+        type: INK_SACK
+        damage: 15
+        amount: 64
+      '23':
+        type: COOKED_BEEF
+        amount: 2
+      '24':
+        type: PORK
+        amount: 64
+      '25':
+        type: ARROW
+        amount: 3
+      '26':
+        type: CARROT_ITEM
+        amount: 5
+      '27':
+        type: INK_SACK
+        damage: 15
+        amount: 10
+      '28':
+        type: COOKED_CHICKEN
+        amount: 64
+      '30':
+        type: WOOD
+        amount: 3
+      '34':
+        type: BONE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 14
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 14
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 14
+      '39':
+        type: DIAMOND_HELMET
+        damage: 14
+  '28':
+    Time: 1459659264139
+    Exp: 108
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2271.5924667551676
+      y: 83.0
+      z: 14008.582540583877
+      pitch: 24.000002
+      yaw: 354.50244
+    Items:
+      '0':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '1':
+        type: ENDER_PEARL
+        amount: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 23
+      '3':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: TORCH
+        amount: 16
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 32
+      '8':
+        type: DIAMOND_SWORD
+        damage: 27
+      '9':
+        type: COBBLESTONE
+        amount: 23
+      '10':
+        type: ROTTEN_FLESH
+        amount: 2
+      '11':
+        type: STONE
+        amount: 64
+      '12':
+        type: CLAY
+        amount: 5
+      '13':
+        type: SAND
+        amount: 37
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '15':
+        type: COAL
+      '16':
+        type: CAKE
+      '17':
+        type: APPLE
+        amount: 3
+      '18':
+        type: CAKE
+      '19':
+        type: CAKE
+      '20':
+        type: STRING
+        amount: 2
+      '21':
+        type: CAKE
+      '22':
+        type: INK_SACK
+        damage: 15
+        amount: 64
+      '23':
+        type: COOKED_BEEF
+        amount: 2
+      '24':
+        type: PORK
+        amount: 64
+      '25':
+        type: ARROW
+        amount: 3
+      '26':
+        type: CARROT_ITEM
+        amount: 5
+      '27':
+        type: INK_SACK
+        damage: 15
+        amount: 10
+      '28':
+        type: COOKED_CHICKEN
+        amount: 64
+      '30':
+        type: WOOD
+        amount: 3
+      '34':
+        type: BONE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 14
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 14
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 14
+      '39':
+        type: DIAMOND_HELMET
+        damage: 14
+  '29':
+    Time: 1459766738362
+    Exp: 108
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2271.5924667551676
+      y: 83.0
+      z: 14008.582540583877
+      pitch: 24.000002
+      yaw: 354.50244
+    Items:
+      '0':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '1':
+        type: ENDER_PEARL
+        amount: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 23
+      '3':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: TORCH
+        amount: 16
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 32
+      '8':
+        type: DIAMOND_SWORD
+        damage: 27
+      '9':
+        type: COBBLESTONE
+        amount: 23
+      '10':
+        type: ROTTEN_FLESH
+        amount: 2
+      '11':
+        type: STONE
+        amount: 64
+      '12':
+        type: CLAY
+        amount: 5
+      '13':
+        type: SAND
+        amount: 37
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '15':
+        type: COAL
+      '16':
+        type: CAKE
+      '17':
+        type: APPLE
+        amount: 3
+      '18':
+        type: CAKE
+      '19':
+        type: CAKE
+      '20':
+        type: STRING
+        amount: 2
+      '21':
+        type: CAKE
+      '22':
+        type: INK_SACK
+        damage: 15
+        amount: 64
+      '23':
+        type: COOKED_BEEF
+        amount: 2
+      '24':
+        type: PORK
+        amount: 64
+      '25':
+        type: ARROW
+        amount: 3
+      '26':
+        type: CARROT_ITEM
+        amount: 5
+      '27':
+        type: INK_SACK
+        damage: 15
+        amount: 10
+      '28':
+        type: COOKED_CHICKEN
+        amount: 64
+      '30':
+        type: WOOD
+        amount: 3
+      '34':
+        type: BONE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 14
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 14
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 14
+      '39':
+        type: DIAMOND_HELMET
+        damage: 14
+  '30':
+    Time: 1459847489478
+    Exp: 108
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2271.5924667551676
+      y: 83.0
+      z: 14008.582540583877
+      pitch: 24.000002
+      yaw: 354.50244
+    Items:
+      '0':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '1':
+        type: ENDER_PEARL
+        amount: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 23
+      '3':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: TORCH
+        amount: 16
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 32
+      '8':
+        type: DIAMOND_SWORD
+        damage: 27
+      '9':
+        type: COBBLESTONE
+        amount: 23
+      '10':
+        type: ROTTEN_FLESH
+        amount: 2
+      '11':
+        type: STONE
+        amount: 64
+      '12':
+        type: CLAY
+        amount: 5
+      '13':
+        type: SAND
+        amount: 37
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '15':
+        type: COAL
+      '16':
+        type: CAKE
+      '17':
+        type: APPLE
+        amount: 3
+      '18':
+        type: CAKE
+      '19':
+        type: CAKE
+      '20':
+        type: STRING
+        amount: 2
+      '21':
+        type: CAKE
+      '22':
+        type: INK_SACK
+        damage: 15
+        amount: 64
+      '23':
+        type: COOKED_BEEF
+        amount: 2
+      '24':
+        type: PORK
+        amount: 64
+      '25':
+        type: ARROW
+        amount: 3
+      '26':
+        type: CARROT_ITEM
+        amount: 5
+      '27':
+        type: INK_SACK
+        damage: 15
+        amount: 10
+      '28':
+        type: COOKED_CHICKEN
+        amount: 64
+      '30':
+        type: WOOD
+        amount: 3
+      '34':
+        type: BONE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 14
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 14
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 14
+      '39':
+        type: DIAMOND_HELMET
+        damage: 14
+  '31':
+    Time: 1460146824727
+    Exp: 108
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2271.5924667551676
+      y: 83.0
+      z: 14008.582540583877
+      pitch: 24.000002
+      yaw: 354.50244
+    Items:
+      '0':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '1':
+        type: ENDER_PEARL
+        amount: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 23
+      '3':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: TORCH
+        amount: 16
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 32
+      '8':
+        type: DIAMOND_SWORD
+        damage: 27
+      '9':
+        type: COBBLESTONE
+        amount: 23
+      '10':
+        type: ROTTEN_FLESH
+        amount: 2
+      '11':
+        type: STONE
+        amount: 64
+      '12':
+        type: CLAY
+        amount: 5
+      '13':
+        type: SAND
+        amount: 37
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '15':
+        type: COAL
+      '16':
+        type: CAKE
+      '17':
+        type: APPLE
+        amount: 3
+      '18':
+        type: CAKE
+      '19':
+        type: CAKE
+      '20':
+        type: STRING
+        amount: 2
+      '21':
+        type: CAKE
+      '22':
+        type: INK_SACK
+        damage: 15
+        amount: 64
+      '23':
+        type: COOKED_BEEF
+        amount: 2
+      '24':
+        type: PORK
+        amount: 64
+      '25':
+        type: ARROW
+        amount: 3
+      '26':
+        type: CARROT_ITEM
+        amount: 5
+      '27':
+        type: INK_SACK
+        damage: 15
+        amount: 10
+      '28':
+        type: COOKED_CHICKEN
+        amount: 64
+      '30':
+        type: WOOD
+        amount: 3
+      '34':
+        type: BONE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 14
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 14
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 14
+      '39':
+        type: DIAMOND_HELMET
+        damage: 14
+  '32':
+    Time: 1460883171933
+    Exp: 108
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2271.5924667551676
+      y: 83.0
+      z: 14008.582540583877
+      pitch: 24.000002
+      yaw: 354.50244
+    Items:
+      '0':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '1':
+        type: ENDER_PEARL
+        amount: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 23
+      '3':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: TORCH
+        amount: 16
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 32
+      '8':
+        type: DIAMOND_SWORD
+        damage: 27
+      '9':
+        type: COBBLESTONE
+        amount: 23
+      '10':
+        type: ROTTEN_FLESH
+        amount: 2
+      '11':
+        type: STONE
+        amount: 64
+      '12':
+        type: CLAY
+        amount: 5
+      '13':
+        type: SAND
+        amount: 37
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '15':
+        type: COAL
+      '16':
+        type: CAKE
+      '17':
+        type: APPLE
+        amount: 3
+      '18':
+        type: CAKE
+      '19':
+        type: CAKE
+      '20':
+        type: STRING
+        amount: 2
+      '21':
+        type: CAKE
+      '22':
+        type: INK_SACK
+        damage: 15
+        amount: 64
+      '23':
+        type: COOKED_BEEF
+        amount: 2
+      '24':
+        type: PORK
+        amount: 64
+      '25':
+        type: ARROW
+        amount: 3
+      '26':
+        type: CARROT_ITEM
+        amount: 5
+      '27':
+        type: INK_SACK
+        damage: 15
+        amount: 10
+      '28':
+        type: COOKED_CHICKEN
+        amount: 64
+      '30':
+        type: WOOD
+        amount: 3
+      '34':
+        type: BONE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 14
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 14
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 14
+      '39':
+        type: DIAMOND_HELMET
+        damage: 14
+  '33':
+    Time: 1462120696592
+    Exp: 108
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2271.5924667551676
+      y: 83.0
+      z: 14008.582540583877
+      pitch: 24.000002
+      yaw: 354.50244
+    Items:
+      '0':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '1':
+        type: ENDER_PEARL
+        amount: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 23
+      '3':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: TORCH
+        amount: 16
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 32
+      '8':
+        type: DIAMOND_SWORD
+        damage: 27
+      '9':
+        type: COBBLESTONE
+        amount: 23
+      '10':
+        type: ROTTEN_FLESH
+        amount: 2
+      '11':
+        type: STONE
+        amount: 64
+      '12':
+        type: CLAY
+        amount: 5
+      '13':
+        type: SAND
+        amount: 37
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '15':
+        type: COAL
+      '16':
+        type: CAKE
+      '17':
+        type: APPLE
+        amount: 3
+      '18':
+        type: CAKE
+      '19':
+        type: CAKE
+      '20':
+        type: STRING
+        amount: 2
+      '21':
+        type: CAKE
+      '22':
+        type: INK_SACK
+        damage: 15
+        amount: 64
+      '23':
+        type: COOKED_BEEF
+        amount: 2
+      '24':
+        type: PORK
+        amount: 64
+      '25':
+        type: ARROW
+        amount: 3
+      '26':
+        type: CARROT_ITEM
+        amount: 5
+      '27':
+        type: INK_SACK
+        damage: 15
+        amount: 10
+      '28':
+        type: COOKED_CHICKEN
+        amount: 64
+      '30':
+        type: WOOD
+        amount: 3
+      '34':
+        type: BONE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 14
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 14
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 14
+      '39':
+        type: DIAMOND_HELMET
+        damage: 14
+  '34':
+    Time: 1462483220550
+    Exp: 108
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2271.5924667551676
+      y: 83.0
+      z: 14008.582540583877
+      pitch: 24.000002
+      yaw: 354.50244
+    Items:
+      '0':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '1':
+        type: ENDER_PEARL
+        amount: 3
+      '2':
+        type: DIAMOND_AXE
+        damage: 23
+      '3':
+        type: COOKED_BEEF
+        amount: 64
+      '5':
+        type: TORCH
+        amount: 16
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 32
+      '8':
+        type: DIAMOND_SWORD
+        damage: 27
+      '9':
+        type: COBBLESTONE
+        amount: 23
+      '10':
+        type: ROTTEN_FLESH
+        amount: 2
+      '11':
+        type: STONE
+        amount: 64
+      '12':
+        type: CLAY
+        amount: 5
+      '13':
+        type: SAND
+        amount: 37
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweet Potato
+          internal: H4sIAAAAAAAAAE2L326CMBxGf1u2BMkeY7ckLVTQi10saLTE4sT5p71TKJPaqkFwwFPtEefulu/q5JzPBrDhZXmstf4oz3mhpQWPNINXnOYEeSR3iOtlDsEBcQYBCZyUpP4gwwEeDIkN9v10kWVVyGsPrEo2VV3Kqw0ADxY8r3e6lvAj2wiJ7QFl20inLfXv/LlEek7VJaCndbsPqU/N3U/f/Vk7/Nf2q92mr7kXHcRpUe/NGs28RMtpglOzus03tBHq+M26xAgzJlwtMFfcExPaxm5SCPW3cRd3q4Z1tOEudYX6wmzECO+4yxRrmImPYjJGYsQQC6NhvkVvABY8xTsjoRcuw3MpZ8Ue4BdHdQ0PKgEAAA==
+          skull-owner: CSCoreLib
+      '15':
+        type: COAL
+      '16':
+        type: CAKE
+      '17':
+        type: APPLE
+        amount: 3
+      '18':
+        type: CAKE
+      '19':
+        type: CAKE
+      '20':
+        type: STRING
+        amount: 2
+      '21':
+        type: CAKE
+      '22':
+        type: INK_SACK
+        damage: 15
+        amount: 64
+      '23':
+        type: COOKED_BEEF
+        amount: 2
+      '24':
+        type: PORK
+        amount: 64
+      '25':
+        type: ARROW
+        amount: 3
+      '26':
+        type: CARROT_ITEM
+        amount: 5
+      '27':
+        type: INK_SACK
+        damage: 15
+        amount: 10
+      '28':
+        type: COOKED_CHICKEN
+        amount: 64
+      '30':
+        type: WOOD
+        amount: 3
+      '34':
+        type: BONE
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 14
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 14
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 14
+      '39':
+        type: DIAMOND_HELMET
+        damage: 14

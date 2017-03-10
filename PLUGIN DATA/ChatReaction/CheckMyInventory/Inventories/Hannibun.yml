@@ -1,0 +1,960 @@
+Inventories:
+  '25':
+    Time: 1458455362771
+    Exp: 1423
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9712289
+        Amplifier: 1
+    Location:
+      world: world
+      x: 29160.26594119557
+      y: 159.0
+      z: -13526.20173942671
+      pitch: 56.249886
+      yaw: 48.00225
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            SILK_TOUCH: 1
+      '2':
+        type: GOLD_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 90
+      '5':
+        type: WOOD_SPADE
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2QyY6rZhCFuVeJ1LeVx8jOahl+M3lxF2CmH5sZM+0YzWzMDMoj5SHj3mVVqvrqlM6pTwT5RP6yqqmu9f6ZFXX6gfyECfI3SKmIDEnwhRNJ8oVHKPF1PlHk15mKkjDGo4g6hZ/I51vUpf1YpMMv5GNM13Hq0+ETQZAfH8gvq3i04ffk578uv4frIR1042kUtA7m5SWHnUwuV8CPqX21OLyrjyxhG6+JG61xxE3AYzfF0bUTJuiHLJs93pQfo76Exg0KKhVkJla1R/dMlbhwlh9K00eGphV0RVr0ilWoHoZ20yavpXHButYDfmFOUgRV9sBqVRWdrqt8SNXxeSdfI9uoNeFHZik0REZHtBCkcedzIFz3a6jfU1SkcEfBgMiVfGvY87Y+8TtB7iS1kdbClLi47E7J4Kx7ZTKbCWc6rxi9pYnHnV8Ax+mP+8PiW3o4KVDfY+bIHfkEh7B5knDLkpjLJW4rzSBn6PNRvI5LmtS6OFZXdbJGHCSkiJ3XzEL7sgCbIfQdNLosxecdNFz78gxhy8nLehuO5eFAH1oGrNj0mKLNgMHGiM7TcytbNfBX/8ClF40qteZFifu6OaHNWFhOB3N2tcU0cvunabjqNQz6PNnxwfD74+VYmMwaEB6zbJzPj+TauilWp0M0PWxcl885GIIkAINEe5N1GAjqJHTTK8mU20U8zmoRMQ5V0JZiAPfgzj3rdb3SjK6W6+apBZ0o22W+sJRnCVpNKOJDsLpUrwTH4sgEDTg3ni8XKT70VxY6zZy9DvpQY1VGuVJP2IfFZo+BcVUVroqIrFYG1hPcgj6zPkPI3rEoN/UIxXK+QFmDqe4bNyDpc5HpjmPY05O9m7p06eNQd+NiFA1A//5A/nTCekp//JNuMhq6WB2fzDzymEIreVS1Y0K1ffxdN2W/D7BltwgEXSQ6cnCBJCzlWgUQ+La/qZxTBZxZKNydUPYYaHZSBKJQqqJcqLuaw2IpYkmeg6YegjuRR+690AoZ+i4xha6MRQV831e7ABB5Ijlb4Mh17Dld3DgVLDs0bp36dpHRwMvRxHuzDZJvz7aF1tqbU7B1tujbU/PmEkPetvP/dokxdInaP8l50BpT1Djo7WTWqWRicXOfNU6t1bdXzWb2wIVAtdUmaPh3Jrbxy7oOOGZTRLj6O1xVLi/eP8E08b4rZQwUVyhUkV/VUn7r+V2z7yCwH+h33sh1UN8180TkC60d3v25CtzlO/ceifUIW+yceehvBPlA/lDDJkU+pLBti2hqEeQ/K1Dzaq8EAAA=
+          skull-owner: Hannibun
+  '26':
+    Time: 1459465466138
+    Exp: 1423
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9712289
+        Amplifier: 1
+    Location:
+      world: world
+      x: 29160.26594119557
+      y: 159.0
+      z: -13526.20173942671
+      pitch: 56.249886
+      yaw: 48.00225
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            SILK_TOUCH: 1
+      '2':
+        type: GOLD_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 90
+      '5':
+        type: WOOD_SPADE
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2QyY6rZhCFuVeJ1LeVx8jOahl+M3lxF2CmH5sZM+0YzWzMDMoj5SHj3mVVqvrqlM6pTwT5RP6yqqmu9f6ZFXX6gfyECfI3SKmIDEnwhRNJ8oVHKPF1PlHk15mKkjDGo4g6hZ/I51vUpf1YpMMv5GNM13Hq0+ETQZAfH8gvq3i04ffk578uv4frIR1042kUtA7m5SWHnUwuV8CPqX21OLyrjyxhG6+JG61xxE3AYzfF0bUTJuiHLJs93pQfo76Exg0KKhVkJla1R/dMlbhwlh9K00eGphV0RVr0ilWoHoZ20yavpXHButYDfmFOUgRV9sBqVRWdrqt8SNXxeSdfI9uoNeFHZik0REZHtBCkcedzIFz3a6jfU1SkcEfBgMiVfGvY87Y+8TtB7iS1kdbClLi47E7J4Kx7ZTKbCWc6rxi9pYnHnV8Ax+mP+8PiW3o4KVDfY+bIHfkEh7B5knDLkpjLJW4rzSBn6PNRvI5LmtS6OFZXdbJGHCSkiJ3XzEL7sgCbIfQdNLosxecdNFz78gxhy8nLehuO5eFAH1oGrNj0mKLNgMHGiM7TcytbNfBX/8ClF40qteZFifu6OaHNWFhOB3N2tcU0cvunabjqNQz6PNnxwfD74+VYmMwaEB6zbJzPj+TauilWp0M0PWxcl885GIIkAINEe5N1GAjqJHTTK8mU20U8zmoRMQ5V0JZiAPfgzj3rdb3SjK6W6+apBZ0o22W+sJRnCVpNKOJDsLpUrwTH4sgEDTg3ni8XKT70VxY6zZy9DvpQY1VGuVJP2IfFZo+BcVUVroqIrFYG1hPcgj6zPkPI3rEoN/UIxXK+QFmDqe4bNyDpc5HpjmPY05O9m7p06eNQd+NiFA1A//5A/nTCekp//JNuMhq6WB2fzDzymEIreVS1Y0K1ffxdN2W/D7BltwgEXSQ6cnCBJCzlWgUQ+La/qZxTBZxZKNydUPYYaHZSBKJQqqJcqLuaw2IpYkmeg6YegjuRR+690AoZ+i4xha6MRQV831e7ABB5Ijlb4Mh17Dld3DgVLDs0bp36dpHRwMvRxHuzDZJvz7aF1tqbU7B1tujbU/PmEkPetvP/dokxdInaP8l50BpT1Djo7WTWqWRicXOfNU6t1bdXzWb2wIVAtdUmaPh3Jrbxy7oOOGZTRLj6O1xVLi/eP8E08b4rZQwUVyhUkV/VUn7r+V2z7yCwH+h33sh1UN8180TkC60d3v25CtzlO/ceifUIW+yceehvBPlA/lDDJkU+pLBti2hqEeQ/K1Dzaq8EAAA=
+          skull-owner: Hannibun
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '27':
+    Time: 1459469874542
+    Exp: 1423
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9712289
+        Amplifier: 1
+    Location:
+      world: world
+      x: 29160.26594119557
+      y: 159.0
+      z: -13526.20173942671
+      pitch: 56.249886
+      yaw: 48.00225
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            SILK_TOUCH: 1
+      '2':
+        type: GOLD_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 90
+      '5':
+        type: WOOD_SPADE
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2QyY6rZhCFuVeJ1LeVx8jOahl+M3lxF2CmH5sZM+0YzWzMDMoj5SHj3mVVqvrqlM6pTwT5RP6yqqmu9f6ZFXX6gfyECfI3SKmIDEnwhRNJ8oVHKPF1PlHk15mKkjDGo4g6hZ/I51vUpf1YpMMv5GNM13Hq0+ETQZAfH8gvq3i04ffk578uv4frIR1042kUtA7m5SWHnUwuV8CPqX21OLyrjyxhG6+JG61xxE3AYzfF0bUTJuiHLJs93pQfo76Exg0KKhVkJla1R/dMlbhwlh9K00eGphV0RVr0ilWoHoZ20yavpXHButYDfmFOUgRV9sBqVRWdrqt8SNXxeSdfI9uoNeFHZik0REZHtBCkcedzIFz3a6jfU1SkcEfBgMiVfGvY87Y+8TtB7iS1kdbClLi47E7J4Kx7ZTKbCWc6rxi9pYnHnV8Ax+mP+8PiW3o4KVDfY+bIHfkEh7B5knDLkpjLJW4rzSBn6PNRvI5LmtS6OFZXdbJGHCSkiJ3XzEL7sgCbIfQdNLosxecdNFz78gxhy8nLehuO5eFAH1oGrNj0mKLNgMHGiM7TcytbNfBX/8ClF40qteZFifu6OaHNWFhOB3N2tcU0cvunabjqNQz6PNnxwfD74+VYmMwaEB6zbJzPj+TauilWp0M0PWxcl885GIIkAINEe5N1GAjqJHTTK8mU20U8zmoRMQ5V0JZiAPfgzj3rdb3SjK6W6+apBZ0o22W+sJRnCVpNKOJDsLpUrwTH4sgEDTg3ni8XKT70VxY6zZy9DvpQY1VGuVJP2IfFZo+BcVUVroqIrFYG1hPcgj6zPkPI3rEoN/UIxXK+QFmDqe4bNyDpc5HpjmPY05O9m7p06eNQd+NiFA1A//5A/nTCekp//JNuMhq6WB2fzDzymEIreVS1Y0K1ffxdN2W/D7BltwgEXSQ6cnCBJCzlWgUQ+La/qZxTBZxZKNydUPYYaHZSBKJQqqJcqLuaw2IpYkmeg6YegjuRR+690AoZ+i4xha6MRQV831e7ABB5Ijlb4Mh17Dld3DgVLDs0bp36dpHRwMvRxHuzDZJvz7aF1tqbU7B1tujbU/PmEkPetvP/dokxdInaP8l50BpT1Djo7WTWqWRicXOfNU6t1bdXzWb2wIVAtdUmaPh3Jrbxy7oOOGZTRLj6O1xVLi/eP8E08b4rZQwUVyhUkV/VUn7r+V2z7yCwH+h33sh1UN8180TkC60d3v25CtzlO/ceifUIW+yceehvBPlA/lDDJkU+pLBti2hqEeQ/K1Dzaq8EAAA=
+          skull-owner: Hannibun
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '28':
+    Time: 1459659264212
+    Exp: 1423
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9712289
+        Amplifier: 1
+    Location:
+      world: world
+      x: 29160.26594119557
+      y: 159.0
+      z: -13526.20173942671
+      pitch: 56.249886
+      yaw: 48.00225
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            SILK_TOUCH: 1
+      '2':
+        type: GOLD_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 90
+      '5':
+        type: WOOD_SPADE
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2QyY6rZhCFuVeJ1LeVx8jOahl+M3lxF2CmH5sZM+0YzWzMDMoj5SHj3mVVqvrqlM6pTwT5RP6yqqmu9f6ZFXX6gfyECfI3SKmIDEnwhRNJ8oVHKPF1PlHk15mKkjDGo4g6hZ/I51vUpf1YpMMv5GNM13Hq0+ETQZAfH8gvq3i04ffk578uv4frIR1042kUtA7m5SWHnUwuV8CPqX21OLyrjyxhG6+JG61xxE3AYzfF0bUTJuiHLJs93pQfo76Exg0KKhVkJla1R/dMlbhwlh9K00eGphV0RVr0ilWoHoZ20yavpXHButYDfmFOUgRV9sBqVRWdrqt8SNXxeSdfI9uoNeFHZik0REZHtBCkcedzIFz3a6jfU1SkcEfBgMiVfGvY87Y+8TtB7iS1kdbClLi47E7J4Kx7ZTKbCWc6rxi9pYnHnV8Ax+mP+8PiW3o4KVDfY+bIHfkEh7B5knDLkpjLJW4rzSBn6PNRvI5LmtS6OFZXdbJGHCSkiJ3XzEL7sgCbIfQdNLosxecdNFz78gxhy8nLehuO5eFAH1oGrNj0mKLNgMHGiM7TcytbNfBX/8ClF40qteZFifu6OaHNWFhOB3N2tcU0cvunabjqNQz6PNnxwfD74+VYmMwaEB6zbJzPj+TauilWp0M0PWxcl885GIIkAINEe5N1GAjqJHTTK8mU20U8zmoRMQ5V0JZiAPfgzj3rdb3SjK6W6+apBZ0o22W+sJRnCVpNKOJDsLpUrwTH4sgEDTg3ni8XKT70VxY6zZy9DvpQY1VGuVJP2IfFZo+BcVUVroqIrFYG1hPcgj6zPkPI3rEoN/UIxXK+QFmDqe4bNyDpc5HpjmPY05O9m7p06eNQd+NiFA1A//5A/nTCekp//JNuMhq6WB2fzDzymEIreVS1Y0K1ffxdN2W/D7BltwgEXSQ6cnCBJCzlWgUQ+La/qZxTBZxZKNydUPYYaHZSBKJQqqJcqLuaw2IpYkmeg6YegjuRR+690AoZ+i4xha6MRQV831e7ABB5Ijlb4Mh17Dld3DgVLDs0bp36dpHRwMvRxHuzDZJvz7aF1tqbU7B1tujbU/PmEkPetvP/dokxdInaP8l50BpT1Djo7WTWqWRicXOfNU6t1bdXzWb2wIVAtdUmaPh3Jrbxy7oOOGZTRLj6O1xVLi/eP8E08b4rZQwUVyhUkV/VUn7r+V2z7yCwH+h33sh1UN8180TkC60d3v25CtzlO/ceifUIW+yceehvBPlA/lDDJkU+pLBti2hqEeQ/K1Dzaq8EAAA=
+          skull-owner: Hannibun
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '29':
+    Time: 1459766738471
+    Exp: 1423
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9712289
+        Amplifier: 1
+    Location:
+      world: world
+      x: 29160.26594119557
+      y: 159.0
+      z: -13526.20173942671
+      pitch: 56.249886
+      yaw: 48.00225
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            SILK_TOUCH: 1
+      '2':
+        type: GOLD_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 90
+      '5':
+        type: WOOD_SPADE
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2QyY6rZhCFuVeJ1LeVx8jOahl+M3lxF2CmH5sZM+0YzWzMDMoj5SHj3mVVqvrqlM6pTwT5RP6yqqmu9f6ZFXX6gfyECfI3SKmIDEnwhRNJ8oVHKPF1PlHk15mKkjDGo4g6hZ/I51vUpf1YpMMv5GNM13Hq0+ETQZAfH8gvq3i04ffk578uv4frIR1042kUtA7m5SWHnUwuV8CPqX21OLyrjyxhG6+JG61xxE3AYzfF0bUTJuiHLJs93pQfo76Exg0KKhVkJla1R/dMlbhwlh9K00eGphV0RVr0ilWoHoZ20yavpXHButYDfmFOUgRV9sBqVRWdrqt8SNXxeSdfI9uoNeFHZik0REZHtBCkcedzIFz3a6jfU1SkcEfBgMiVfGvY87Y+8TtB7iS1kdbClLi47E7J4Kx7ZTKbCWc6rxi9pYnHnV8Ax+mP+8PiW3o4KVDfY+bIHfkEh7B5knDLkpjLJW4rzSBn6PNRvI5LmtS6OFZXdbJGHCSkiJ3XzEL7sgCbIfQdNLosxecdNFz78gxhy8nLehuO5eFAH1oGrNj0mKLNgMHGiM7TcytbNfBX/8ClF40qteZFifu6OaHNWFhOB3N2tcU0cvunabjqNQz6PNnxwfD74+VYmMwaEB6zbJzPj+TauilWp0M0PWxcl885GIIkAINEe5N1GAjqJHTTK8mU20U8zmoRMQ5V0JZiAPfgzj3rdb3SjK6W6+apBZ0o22W+sJRnCVpNKOJDsLpUrwTH4sgEDTg3ni8XKT70VxY6zZy9DvpQY1VGuVJP2IfFZo+BcVUVroqIrFYG1hPcgj6zPkPI3rEoN/UIxXK+QFmDqe4bNyDpc5HpjmPY05O9m7p06eNQd+NiFA1A//5A/nTCekp//JNuMhq6WB2fzDzymEIreVS1Y0K1ffxdN2W/D7BltwgEXSQ6cnCBJCzlWgUQ+La/qZxTBZxZKNydUPYYaHZSBKJQqqJcqLuaw2IpYkmeg6YegjuRR+690AoZ+i4xha6MRQV831e7ABB5Ijlb4Mh17Dld3DgVLDs0bp36dpHRwMvRxHuzDZJvz7aF1tqbU7B1tujbU/PmEkPetvP/dokxdInaP8l50BpT1Djo7WTWqWRicXOfNU6t1bdXzWb2wIVAtdUmaPh3Jrbxy7oOOGZTRLj6O1xVLi/eP8E08b4rZQwUVyhUkV/VUn7r+V2z7yCwH+h33sh1UN8180TkC60d3v25CtzlO/ceifUIW+yceehvBPlA/lDDJkU+pLBti2hqEeQ/K1Dzaq8EAAA=
+          skull-owner: Hannibun
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '30':
+    Time: 1459847489568
+    Exp: 1423
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9712289
+        Amplifier: 1
+    Location:
+      world: world
+      x: 29160.26594119557
+      y: 159.0
+      z: -13526.20173942671
+      pitch: 56.249886
+      yaw: 48.00225
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            SILK_TOUCH: 1
+      '2':
+        type: GOLD_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 90
+      '5':
+        type: WOOD_SPADE
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2QyY6rZhCFuVeJ1LeVx8jOahl+M3lxF2CmH5sZM+0YzWzMDMoj5SHj3mVVqvrqlM6pTwT5RP6yqqmu9f6ZFXX6gfyECfI3SKmIDEnwhRNJ8oVHKPF1PlHk15mKkjDGo4g6hZ/I51vUpf1YpMMv5GNM13Hq0+ETQZAfH8gvq3i04ffk578uv4frIR1042kUtA7m5SWHnUwuV8CPqX21OLyrjyxhG6+JG61xxE3AYzfF0bUTJuiHLJs93pQfo76Exg0KKhVkJla1R/dMlbhwlh9K00eGphV0RVr0ilWoHoZ20yavpXHButYDfmFOUgRV9sBqVRWdrqt8SNXxeSdfI9uoNeFHZik0REZHtBCkcedzIFz3a6jfU1SkcEfBgMiVfGvY87Y+8TtB7iS1kdbClLi47E7J4Kx7ZTKbCWc6rxi9pYnHnV8Ax+mP+8PiW3o4KVDfY+bIHfkEh7B5knDLkpjLJW4rzSBn6PNRvI5LmtS6OFZXdbJGHCSkiJ3XzEL7sgCbIfQdNLosxecdNFz78gxhy8nLehuO5eFAH1oGrNj0mKLNgMHGiM7TcytbNfBX/8ClF40qteZFifu6OaHNWFhOB3N2tcU0cvunabjqNQz6PNnxwfD74+VYmMwaEB6zbJzPj+TauilWp0M0PWxcl885GIIkAINEe5N1GAjqJHTTK8mU20U8zmoRMQ5V0JZiAPfgzj3rdb3SjK6W6+apBZ0o22W+sJRnCVpNKOJDsLpUrwTH4sgEDTg3ni8XKT70VxY6zZy9DvpQY1VGuVJP2IfFZo+BcVUVroqIrFYG1hPcgj6zPkPI3rEoN/UIxXK+QFmDqe4bNyDpc5HpjmPY05O9m7p06eNQd+NiFA1A//5A/nTCekp//JNuMhq6WB2fzDzymEIreVS1Y0K1ffxdN2W/D7BltwgEXSQ6cnCBJCzlWgUQ+La/qZxTBZxZKNydUPYYaHZSBKJQqqJcqLuaw2IpYkmeg6YegjuRR+690AoZ+i4xha6MRQV831e7ABB5Ijlb4Mh17Dld3DgVLDs0bp36dpHRwMvRxHuzDZJvz7aF1tqbU7B1tujbU/PmEkPetvP/dokxdInaP8l50BpT1Djo7WTWqWRicXOfNU6t1bdXzWb2wIVAtdUmaPh3Jrbxy7oOOGZTRLj6O1xVLi/eP8E08b4rZQwUVyhUkV/VUn7r+V2z7yCwH+h33sh1UN8180TkC60d3v25CtzlO/ceifUIW+yceehvBPlA/lDDJkU+pLBti2hqEeQ/K1Dzaq8EAAA=
+          skull-owner: Hannibun
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '31':
+    Time: 1460146824796
+    Exp: 1423
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9712289
+        Amplifier: 1
+    Location:
+      world: world
+      x: 29160.26594119557
+      y: 159.0
+      z: -13526.20173942671
+      pitch: 56.249886
+      yaw: 48.00225
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            SILK_TOUCH: 1
+      '2':
+        type: GOLD_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 90
+      '5':
+        type: WOOD_SPADE
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2QyY6rZhCFuVeJ1LeVx8jOahl+M3lxF2CmH5sZM+0YzWzMDMoj5SHj3mVVqvrqlM6pTwT5RP6yqqmu9f6ZFXX6gfyECfI3SKmIDEnwhRNJ8oVHKPF1PlHk15mKkjDGo4g6hZ/I51vUpf1YpMMv5GNM13Hq0+ETQZAfH8gvq3i04ffk578uv4frIR1042kUtA7m5SWHnUwuV8CPqX21OLyrjyxhG6+JG61xxE3AYzfF0bUTJuiHLJs93pQfo76Exg0KKhVkJla1R/dMlbhwlh9K00eGphV0RVr0ilWoHoZ20yavpXHButYDfmFOUgRV9sBqVRWdrqt8SNXxeSdfI9uoNeFHZik0REZHtBCkcedzIFz3a6jfU1SkcEfBgMiVfGvY87Y+8TtB7iS1kdbClLi47E7J4Kx7ZTKbCWc6rxi9pYnHnV8Ax+mP+8PiW3o4KVDfY+bIHfkEh7B5knDLkpjLJW4rzSBn6PNRvI5LmtS6OFZXdbJGHCSkiJ3XzEL7sgCbIfQdNLosxecdNFz78gxhy8nLehuO5eFAH1oGrNj0mKLNgMHGiM7TcytbNfBX/8ClF40qteZFifu6OaHNWFhOB3N2tcU0cvunabjqNQz6PNnxwfD74+VYmMwaEB6zbJzPj+TauilWp0M0PWxcl885GIIkAINEe5N1GAjqJHTTK8mU20U8zmoRMQ5V0JZiAPfgzj3rdb3SjK6W6+apBZ0o22W+sJRnCVpNKOJDsLpUrwTH4sgEDTg3ni8XKT70VxY6zZy9DvpQY1VGuVJP2IfFZo+BcVUVroqIrFYG1hPcgj6zPkPI3rEoN/UIxXK+QFmDqe4bNyDpc5HpjmPY05O9m7p06eNQd+NiFA1A//5A/nTCekp//JNuMhq6WB2fzDzymEIreVS1Y0K1ffxdN2W/D7BltwgEXSQ6cnCBJCzlWgUQ+La/qZxTBZxZKNydUPYYaHZSBKJQqqJcqLuaw2IpYkmeg6YegjuRR+690AoZ+i4xha6MRQV831e7ABB5Ijlb4Mh17Dld3DgVLDs0bp36dpHRwMvRxHuzDZJvz7aF1tqbU7B1tujbU/PmEkPetvP/dokxdInaP8l50BpT1Djo7WTWqWRicXOfNU6t1bdXzWb2wIVAtdUmaPh3Jrbxy7oOOGZTRLj6O1xVLi/eP8E08b4rZQwUVyhUkV/VUn7r+V2z7yCwH+h33sh1UN8180TkC60d3v25CtzlO/ceifUIW+yceehvBPlA/lDDJkU+pLBti2hqEeQ/K1Dzaq8EAAA=
+          skull-owner: Hannibun
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '32':
+    Time: 1460883172017
+    Exp: 1423
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9712289
+        Amplifier: 1
+    Location:
+      world: world
+      x: 29160.26594119557
+      y: 159.0
+      z: -13526.20173942671
+      pitch: 56.249886
+      yaw: 48.00225
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            SILK_TOUCH: 1
+      '2':
+        type: GOLD_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 90
+      '5':
+        type: WOOD_SPADE
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2QyY6rZhCFuVeJ1LeVx8jOahl+M3lxF2CmH5sZM+0YzWzMDMoj5SHj3mVVqvrqlM6pTwT5RP6yqqmu9f6ZFXX6gfyECfI3SKmIDEnwhRNJ8oVHKPF1PlHk15mKkjDGo4g6hZ/I51vUpf1YpMMv5GNM13Hq0+ETQZAfH8gvq3i04ffk578uv4frIR1042kUtA7m5SWHnUwuV8CPqX21OLyrjyxhG6+JG61xxE3AYzfF0bUTJuiHLJs93pQfo76Exg0KKhVkJla1R/dMlbhwlh9K00eGphV0RVr0ilWoHoZ20yavpXHButYDfmFOUgRV9sBqVRWdrqt8SNXxeSdfI9uoNeFHZik0REZHtBCkcedzIFz3a6jfU1SkcEfBgMiVfGvY87Y+8TtB7iS1kdbClLi47E7J4Kx7ZTKbCWc6rxi9pYnHnV8Ax+mP+8PiW3o4KVDfY+bIHfkEh7B5knDLkpjLJW4rzSBn6PNRvI5LmtS6OFZXdbJGHCSkiJ3XzEL7sgCbIfQdNLosxecdNFz78gxhy8nLehuO5eFAH1oGrNj0mKLNgMHGiM7TcytbNfBX/8ClF40qteZFifu6OaHNWFhOB3N2tcU0cvunabjqNQz6PNnxwfD74+VYmMwaEB6zbJzPj+TauilWp0M0PWxcl885GIIkAINEe5N1GAjqJHTTK8mU20U8zmoRMQ5V0JZiAPfgzj3rdb3SjK6W6+apBZ0o22W+sJRnCVpNKOJDsLpUrwTH4sgEDTg3ni8XKT70VxY6zZy9DvpQY1VGuVJP2IfFZo+BcVUVroqIrFYG1hPcgj6zPkPI3rEoN/UIxXK+QFmDqe4bNyDpc5HpjmPY05O9m7p06eNQd+NiFA1A//5A/nTCekp//JNuMhq6WB2fzDzymEIreVS1Y0K1ffxdN2W/D7BltwgEXSQ6cnCBJCzlWgUQ+La/qZxTBZxZKNydUPYYaHZSBKJQqqJcqLuaw2IpYkmeg6YegjuRR+690AoZ+i4xha6MRQV831e7ABB5Ijlb4Mh17Dld3DgVLDs0bp36dpHRwMvRxHuzDZJvz7aF1tqbU7B1tujbU/PmEkPetvP/dokxdInaP8l50BpT1Djo7WTWqWRicXOfNU6t1bdXzWb2wIVAtdUmaPh3Jrbxy7oOOGZTRLj6O1xVLi/eP8E08b4rZQwUVyhUkV/VUn7r+V2z7yCwH+h33sh1UN8180TkC60d3v25CtzlO/ceifUIW+yceehvBPlA/lDDJkU+pLBti2hqEeQ/K1Dzaq8EAAA=
+          skull-owner: Hannibun
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '33':
+    Time: 1462120696671
+    Exp: 1423
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9712289
+        Amplifier: 1
+    Location:
+      world: world
+      x: 29160.26594119557
+      y: 159.0
+      z: -13526.20173942671
+      pitch: 56.249886
+      yaw: 48.00225
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            SILK_TOUCH: 1
+      '2':
+        type: GOLD_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 90
+      '5':
+        type: WOOD_SPADE
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2QyY6rZhCFuVeJ1LeVx8jOahl+M3lxF2CmH5sZM+0YzWzMDMoj5SHj3mVVqvrqlM6pTwT5RP6yqqmu9f6ZFXX6gfyECfI3SKmIDEnwhRNJ8oVHKPF1PlHk15mKkjDGo4g6hZ/I51vUpf1YpMMv5GNM13Hq0+ETQZAfH8gvq3i04ffk578uv4frIR1042kUtA7m5SWHnUwuV8CPqX21OLyrjyxhG6+JG61xxE3AYzfF0bUTJuiHLJs93pQfo76Exg0KKhVkJla1R/dMlbhwlh9K00eGphV0RVr0ilWoHoZ20yavpXHButYDfmFOUgRV9sBqVRWdrqt8SNXxeSdfI9uoNeFHZik0REZHtBCkcedzIFz3a6jfU1SkcEfBgMiVfGvY87Y+8TtB7iS1kdbClLi47E7J4Kx7ZTKbCWc6rxi9pYnHnV8Ax+mP+8PiW3o4KVDfY+bIHfkEh7B5knDLkpjLJW4rzSBn6PNRvI5LmtS6OFZXdbJGHCSkiJ3XzEL7sgCbIfQdNLosxecdNFz78gxhy8nLehuO5eFAH1oGrNj0mKLNgMHGiM7TcytbNfBX/8ClF40qteZFifu6OaHNWFhOB3N2tcU0cvunabjqNQz6PNnxwfD74+VYmMwaEB6zbJzPj+TauilWp0M0PWxcl885GIIkAINEe5N1GAjqJHTTK8mU20U8zmoRMQ5V0JZiAPfgzj3rdb3SjK6W6+apBZ0o22W+sJRnCVpNKOJDsLpUrwTH4sgEDTg3ni8XKT70VxY6zZy9DvpQY1VGuVJP2IfFZo+BcVUVroqIrFYG1hPcgj6zPkPI3rEoN/UIxXK+QFmDqe4bNyDpc5HpjmPY05O9m7p06eNQd+NiFA1A//5A/nTCekp//JNuMhq6WB2fzDzymEIreVS1Y0K1ffxdN2W/D7BltwgEXSQ6cnCBJCzlWgUQ+La/qZxTBZxZKNydUPYYaHZSBKJQqqJcqLuaw2IpYkmeg6YegjuRR+690AoZ+i4xha6MRQV831e7ABB5Ijlb4Mh17Dld3DgVLDs0bp36dpHRwMvRxHuzDZJvz7aF1tqbU7B1tujbU/PmEkPetvP/dokxdInaP8l50BpT1Djo7WTWqWRicXOfNU6t1bdXzWb2wIVAtdUmaPh3Jrbxy7oOOGZTRLj6O1xVLi/eP8E08b4rZQwUVyhUkV/VUn7r+V2z7yCwH+h33sh1UN8180TkC60d3v25CtzlO/ceifUIW+yceehvBPlA/lDDJkU+pLBti2hqEeQ/K1Dzaq8EAAA=
+          skull-owner: Hannibun
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '34':
+    Time: 1462483220649
+    Exp: 1423
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9712289
+        Amplifier: 1
+    Location:
+      world: world
+      x: 29160.26594119557
+      y: 159.0
+      z: -13526.20173942671
+      pitch: 56.249886
+      yaw: 48.00225
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            SILK_TOUCH: 1
+      '2':
+        type: GOLD_PICKAXE
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Pickaxe
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: GOLD_AXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 90
+      '5':
+        type: WOOD_SPADE
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2QyY6rZhCFuVeJ1LeVx8jOahl+M3lxF2CmH5sZM+0YzWzMDMoj5SHj3mVVqvrqlM6pTwT5RP6yqqmu9f6ZFXX6gfyECfI3SKmIDEnwhRNJ8oVHKPF1PlHk15mKkjDGo4g6hZ/I51vUpf1YpMMv5GNM13Hq0+ETQZAfH8gvq3i04ffk578uv4frIR1042kUtA7m5SWHnUwuV8CPqX21OLyrjyxhG6+JG61xxE3AYzfF0bUTJuiHLJs93pQfo76Exg0KKhVkJla1R/dMlbhwlh9K00eGphV0RVr0ilWoHoZ20yavpXHButYDfmFOUgRV9sBqVRWdrqt8SNXxeSdfI9uoNeFHZik0REZHtBCkcedzIFz3a6jfU1SkcEfBgMiVfGvY87Y+8TtB7iS1kdbClLi47E7J4Kx7ZTKbCWc6rxi9pYnHnV8Ax+mP+8PiW3o4KVDfY+bIHfkEh7B5knDLkpjLJW4rzSBn6PNRvI5LmtS6OFZXdbJGHCSkiJ3XzEL7sgCbIfQdNLosxecdNFz78gxhy8nLehuO5eFAH1oGrNj0mKLNgMHGiM7TcytbNfBX/8ClF40qteZFifu6OaHNWFhOB3N2tcU0cvunabjqNQz6PNnxwfD74+VYmMwaEB6zbJzPj+TauilWp0M0PWxcl885GIIkAINEe5N1GAjqJHTTK8mU20U8zmoRMQ5V0JZiAPfgzj3rdb3SjK6W6+apBZ0o22W+sJRnCVpNKOJDsLpUrwTH4sgEDTg3ni8XKT70VxY6zZy9DvpQY1VGuVJP2IfFZo+BcVUVroqIrFYG1hPcgj6zPkPI3rEoN/UIxXK+QFmDqe4bNyDpc5HpjmPY05O9m7p06eNQd+NiFA1A//5A/nTCekp//JNuMhq6WB2fzDzymEIreVS1Y0K1ffxdN2W/D7BltwgEXSQ6cnCBJCzlWgUQ+La/qZxTBZxZKNydUPYYaHZSBKJQqqJcqLuaw2IpYkmeg6YegjuRR+690AoZ+i4xha6MRQV831e7ABB5Ijlb4Mh17Dld3DgVLDs0bp36dpHRwMvRxHuzDZJvz7aF1tqbU7B1tujbU/PmEkPetvP/dokxdInaP8l50BpT1Djo7WTWqWRicXOfNU6t1bdXzWb2wIVAtdUmaPh3Jrbxy7oOOGZTRLj6O1xVLi/eP8E08b4rZQwUVyhUkV/VUn7r+V2z7yCwH+h33sh1UN8180TkC60d3v25CtzlO/ceifUIW+yceehvBPlA/lDDJkU+pLBti2hqEeQ/K1Dzaq8EAAA=
+          skull-owner: Hannibun
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

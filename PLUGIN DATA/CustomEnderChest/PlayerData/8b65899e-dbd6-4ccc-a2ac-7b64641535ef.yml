@@ -1,0 +1,122 @@
+PlayerLastName: lilymay116
+EnderChestSize: 18
+EnderChestInventory:
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 10
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 64
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Zinc Dust
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 64
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Lead Dust
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    amount: 4
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Silver Dust
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    amount: 5
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Aluminum Dust
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Magnesium
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Tin Dust
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR
+    amount: 4
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Iron Dust
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Magnesium
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    amount: 4
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Tin Dust
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 64
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: GLOWSTONE_DUST
+    amount: 6
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Gold Dust
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Zinc Dust
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: GLOWSTONE_DUST
+    amount: 8
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Copper Dust
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_ORE
+    amount: 64
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Iron Dust

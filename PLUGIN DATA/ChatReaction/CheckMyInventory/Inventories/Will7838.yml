@@ -1,0 +1,1509 @@
+Inventories:
+  '44':
+    Time: 1460024651550
+    Exp: 2147483647
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2.0367004536954585E7
+      y: 79.79673560066871
+      z: -1.2851636631326683E7
+      pitch: 53.850018
+      yaw: -102.29906
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 134
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: DIAMOND_AXE
+        damage: 13
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SWORD
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: DIAMOND_SPADE
+        damage: 374
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '5':
+        type: DIAMOND_AXE
+        damage: 91
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 111
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '7':
+        type: BROWN_MUSHROOM
+        amount: 6
+      '8':
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        type: STONE
+        damage: 5
+        amount: 11
+      '10':
+        type: COBBLESTONE
+        amount: 64
+      '11':
+        type: DIRT
+        amount: 12
+      '12':
+        type: APPLE
+      '13':
+        type: SAPLING
+        damage: 3
+        amount: 4
+      '14':
+        type: LOG
+        damage: 3
+      '15':
+        type: ARROW
+        amount: 3
+      '16':
+        type: SEEDS
+        amount: 24
+      '17':
+        type: MOSSY_COBBLESTONE
+        amount: 64
+      '18':
+        type: COBBLESTONE_STAIRS
+        amount: 8
+      '19':
+        type: TRIPWIRE_HOOK
+        amount: 2
+      '20':
+        type: DISPENSER
+        amount: 2
+      '21':
+        type: REDSTONE
+        amount: 7
+      '22':
+        type: LEVER
+        amount: 3
+      '23':
+        type: SMOOTH_BRICK
+        damage: 3
+        amount: 3
+      '24':
+        type: MOSSY_COBBLESTONE
+        amount: 33
+      '25':
+        type: STRING
+      '26':
+        type: COBBLESTONE
+        amount: 17
+      '33':
+        type: ROTTEN_FLESH
+        amount: 6
+      '34':
+        type: IRON_INGOT
+        amount: 8
+      '35':
+        type: BONE
+        amount: 12
+  '45':
+    Time: 1460146825039
+    Exp: 2147483647
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 412719.2563089219
+      y: 72.0
+      z: 272479.5082042207
+      pitch: 12.0001955
+      yaw: -12.064209
+    Items:
+      '0':
+        type: FENCE
+      '1':
+        type: MONSTER_EGGS
+        damage: 2
+      '2':
+        type: DIRT
+      '3':
+        type: SPRUCE_FENCE_GATE
+      '4':
+        type: STEP
+        damage: 7
+      '5':
+        type: STAINED_GLASS_PANE
+        damage: 15
+      '6':
+        type: QUARTZ_BLOCK
+      '7':
+        type: BOAT_BIRCH
+      '8':
+        type: WATER_LILY
+        amount: 23
+      '9':
+        type: IRON_PLATE
+      '10':
+        type: GRASS
+      '11':
+        type: COAL_BLOCK
+      '12':
+        type: END_ROD
+      '13':
+        type: END_ROD
+      '14':
+        type: STONE
+        damage: 6
+  '46':
+    Time: 1460170728163
+    Exp: 13998
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 85872
+        Amplifier: 1
+    Location:
+      world: world
+      x: -1031.6656300272402
+      y: 60.582309611255205
+      z: -1331.0661070989415
+      pitch: -6.149885
+      yaw: 163.05817
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 140
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: DIAMOND_AXE
+        damage: 13
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SWORD
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: DIAMOND_SPADE
+        damage: 471
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '5':
+        type: DIAMOND_AXE
+        damage: 91
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 212
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '7':
+        type: DIRT
+        amount: 53
+      '8':
+        type: GLOWSTONE_DUST
+        amount: 25
+      '9':
+        type: SEEDS
+        amount: 64
+      '10':
+        type: DIRT
+        amount: 64
+      '11':
+        type: SAPLING
+      '12':
+        type: DIRT
+        amount: 64
+      '13':
+        type: ARROW
+        amount: 33
+      '14':
+        type: BONE
+        amount: 32
+      '15':
+        type: COAL
+        amount: 8
+      '16':
+        type: DIRT
+        amount: 64
+      '17':
+        type: DIRT
+        amount: 64
+      '18':
+        type: DIRT
+        amount: 64
+      '19':
+        type: SAND
+        amount: 14
+      '20':
+        type: YELLOW_FLOWER
+        amount: 2
+      '21':
+        type: SEEDS
+        amount: 64
+      '22':
+        type: RED_ROSE
+        damage: 3
+      '23':
+        type: SEEDS
+        amount: 7
+  '47':
+    Time: 1460170752440
+    Exp: 13998
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -1020.737161280733
+      y: 60.0
+      z: -1319.7471743362423
+      pitch: 6.0001297
+      yaw: 339.15833
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 140
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: DIAMOND_AXE
+        damage: 13
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SWORD
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: DIAMOND_SPADE
+        damage: 471
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '5':
+        type: DIAMOND_AXE
+        damage: 91
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 212
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '7':
+        type: DIRT
+        amount: 53
+      '8':
+        type: GLOWSTONE_DUST
+        amount: 25
+      '9':
+        type: SEEDS
+        amount: 64
+      '10':
+        type: DIRT
+        amount: 64
+      '11':
+        type: SAPLING
+      '12':
+        type: DIRT
+        amount: 64
+      '13':
+        type: ARROW
+        amount: 44
+      '14':
+        type: BONE
+        amount: 37
+      '15':
+        type: COAL
+        amount: 8
+      '16':
+        type: DIRT
+        amount: 64
+      '17':
+        type: DIRT
+        amount: 64
+      '18':
+        type: DIRT
+        amount: 64
+      '19':
+        type: SAND
+        amount: 14
+      '20':
+        type: YELLOW_FLOWER
+        amount: 2
+      '21':
+        type: SEEDS
+        amount: 64
+      '22':
+        type: RED_ROSE
+        damage: 3
+      '23':
+        type: SEEDS
+        amount: 7
+  '48':
+    Time: 1460175468550
+    Exp: 24841
+    Health: 3.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: WITHER
+        Duration: 189
+        Amplifier: 0
+    Location:
+      world: world
+      x: -1040.3079909856772
+      y: 63.0
+      z: -1319.3026328177025
+      pitch: 46.499996
+      yaw: 185.10976
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 146
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: DIAMOND_AXE
+        damage: 13
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SWORD
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: DIAMOND_SPADE
+        damage: 519
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '5':
+        type: DIAMOND_AXE
+        damage: 91
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 212
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '7':
+        type: SPONGE
+        damage: 1
+        amount: 3
+      '8':
+        type: SPONGE
+        amount: 6
+      '9':
+        type: GLOWSTONE_DUST
+        amount: 2
+      '10':
+        type: SAND
+        amount: 3
+      '11':
+        type: CARPET
+        damage: 14
+        amount: 2
+  '49':
+    Time: 1460495094522
+    Exp: 357364
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: WITHER
+        Duration: 180
+        Amplifier: 0
+    Location:
+      world: world
+      x: -1010.3715012593725
+      y: 60.0
+      z: -1319.851757207922
+      pitch: -8.249982
+      yaw: 163.50055
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 171
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SWORD
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '3':
+        type: DIAMOND_SPADE
+        damage: 369
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 159
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '5':
+        type: BOW
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '6':
+        type: ARROW
+        amount: 10
+      '7':
+        type: BONE
+        amount: 64
+      '8':
+        type: COAL
+        amount: 45
+      '9':
+        type: SAND
+        amount: 28
+      '10':
+        type: DIRT
+        amount: 64
+      '11':
+        type: SPONGE
+        damage: 1
+        amount: 4
+      '12':
+        type: GLOWSTONE_DUST
+        amount: 10
+      '13':
+        type: COBBLESTONE
+        amount: 64
+      '14':
+        type: STONE
+        damage: 3
+        amount: 64
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 64
+      '18':
+        type: COBBLESTONE
+        amount: 63
+      '19':
+        type: STONE
+        damage: 5
+        amount: 58
+      '20':
+        type: COAL
+        amount: 64
+      '21':
+        type: COBBLESTONE
+        amount: 62
+      '22':
+        type: DIRT
+        amount: 64
+      '23':
+        type: FLINT
+        amount: 8
+      '24':
+        type: STONE
+        damage: 3
+        amount: 44
+      '25':
+        type: COBBLESTONE
+        amount: 64
+      '26':
+        type: COBBLESTONE
+        amount: 64
+      '27':
+        type: COBBLESTONE
+        amount: 64
+      '28':
+        type: COBBLESTONE
+        amount: 64
+      '29':
+        type: COBBLESTONE
+        amount: 64
+      '30':
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '32':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '33':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '34':
+        type: SKULL_ITEM
+        damage: 1
+        amount: 2
+      '35':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 183
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 183
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 225
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 213
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '40':
+        type: SHIELD
+  '50':
+    Time: 1460883165113
+    Exp: 1744330
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 551.2766121990302
+      y: 68.11650136792812
+      z: 122.30000001192094
+      pitch: 40.049973
+      yaw: 141.55038
+    Items:
+      '0':
+        type: TNT
+      '1':
+        type: FIREBALL
+      '2':
+        type: WOOD_DOOR
+      '3':
+        type: WOOD
+        damage: 2
+      '4':
+        type: LOG
+        damage: 1
+        amount: 3
+      '5':
+        type: JUNGLE_WOOD_STAIRS
+      '6':
+        type: FIREWORK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          display-name: SolarWind
+          firework-effects:
+          - ==: Firework
+            flicker: true
+            trail: false
+            colors:
+            - ==: Color
+              RED: 222
+              BLUE: 42
+              GREEN: 207
+            - ==: Color
+              RED: 235
+              BLUE: 68
+              GREEN: 136
+            fade-colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            type: BALL_LARGE
+          - ==: Firework
+            flicker: false
+            trail: true
+            colors:
+            - ==: Color
+              RED: 222
+              BLUE: 42
+              GREEN: 207
+            - ==: Color
+              RED: 235
+              BLUE: 68
+              GREEN: 136
+            fade-colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            type: BALL
+          - ==: Firework
+            flicker: false
+            trail: true
+            colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            - ==: Color
+              RED: 123
+              BLUE: 190
+              GREEN: 47
+            fade-colors:
+            - ==: Color
+              RED: 216
+              BLUE: 152
+              GREEN: 129
+            type: STAR
+          power: 1
+      '7':
+        type: FIREWORK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          display-name: SolarWind
+          firework-effects:
+          - ==: Firework
+            flicker: true
+            trail: false
+            colors:
+            - ==: Color
+              RED: 222
+              BLUE: 42
+              GREEN: 207
+            - ==: Color
+              RED: 235
+              BLUE: 68
+              GREEN: 136
+            fade-colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            type: BALL_LARGE
+          - ==: Firework
+            flicker: false
+            trail: true
+            colors:
+            - ==: Color
+              RED: 222
+              BLUE: 42
+              GREEN: 207
+            - ==: Color
+              RED: 235
+              BLUE: 68
+              GREEN: 136
+            fade-colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            type: BALL
+          - ==: Firework
+            flicker: false
+            trail: true
+            colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            - ==: Color
+              RED: 123
+              BLUE: 190
+              GREEN: 47
+            fade-colors:
+            - ==: Color
+              RED: 216
+              BLUE: 152
+              GREEN: 129
+            type: STAR
+          power: 1
+      '8':
+        type: GRASS
+      '9':
+        type: LEVER
+      '10':
+        type: DIODE
+      '11':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cCranberry Bush
+      '12':
+        type: STONE
+        damage: 3
+      '13':
+        type: COBBLESTONE
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 33
+      '15':
+        type: GLOWSTONE_DUST
+        amount: 5
+      '16':
+        type: DIRT
+        amount: 5
+      '17':
+        type: STONE
+        damage: 1
+      '18':
+        type: STONE
+        damage: 5
+        amount: 4
+      '19':
+        type: STEP
+        damage: 6
+      '20':
+        type: FIREWORK
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          display-name: Angry Creeper
+          firework-effects:
+          - ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            fade-colors:
+            - ==: Color
+              RED: 59
+              BLUE: 26
+              GREEN: 81
+            type: CREEPER
+          power: 1
+      '21':
+        type: FLINT
+      '22':
+        type: FIREWORK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          display-name: SolarWind
+          firework-effects:
+          - ==: Firework
+            flicker: true
+            trail: false
+            colors:
+            - ==: Color
+              RED: 222
+              BLUE: 42
+              GREEN: 207
+            - ==: Color
+              RED: 235
+              BLUE: 68
+              GREEN: 136
+            fade-colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            type: BALL_LARGE
+          - ==: Firework
+            flicker: false
+            trail: true
+            colors:
+            - ==: Color
+              RED: 222
+              BLUE: 42
+              GREEN: 207
+            - ==: Color
+              RED: 235
+              BLUE: 68
+              GREEN: 136
+            fade-colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            type: BALL
+          - ==: Firework
+            flicker: false
+            trail: true
+            colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            - ==: Color
+              RED: 123
+              BLUE: 190
+              GREEN: 47
+            fade-colors:
+            - ==: Color
+              RED: 216
+              BLUE: 152
+              GREEN: 129
+            type: STAR
+          power: 1
+      '26':
+        type: FIREWORK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          display-name: SolarWind
+          firework-effects:
+          - ==: Firework
+            flicker: true
+            trail: false
+            colors:
+            - ==: Color
+              RED: 222
+              BLUE: 42
+              GREEN: 207
+            - ==: Color
+              RED: 235
+              BLUE: 68
+              GREEN: 136
+            fade-colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            type: BALL_LARGE
+          - ==: Firework
+            flicker: false
+            trail: true
+            colors:
+            - ==: Color
+              RED: 222
+              BLUE: 42
+              GREEN: 207
+            - ==: Color
+              RED: 235
+              BLUE: 68
+              GREEN: 136
+            fade-colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            type: BALL
+          - ==: Firework
+            flicker: false
+            trail: true
+            colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            - ==: Color
+              RED: 123
+              BLUE: 190
+              GREEN: 47
+            fade-colors:
+            - ==: Color
+              RED: 216
+              BLUE: 152
+              GREEN: 129
+            type: STAR
+          power: 1
+      '28':
+        type: FIREWORK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          display-name: SolarWind
+          firework-effects:
+          - ==: Firework
+            flicker: true
+            trail: false
+            colors:
+            - ==: Color
+              RED: 222
+              BLUE: 42
+              GREEN: 207
+            - ==: Color
+              RED: 235
+              BLUE: 68
+              GREEN: 136
+            fade-colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            type: BALL_LARGE
+          - ==: Firework
+            flicker: false
+            trail: true
+            colors:
+            - ==: Color
+              RED: 222
+              BLUE: 42
+              GREEN: 207
+            - ==: Color
+              RED: 235
+              BLUE: 68
+              GREEN: 136
+            fade-colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            type: BALL
+          - ==: Firework
+            flicker: false
+            trail: true
+            colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            - ==: Color
+              RED: 123
+              BLUE: 190
+              GREEN: 47
+            fade-colors:
+            - ==: Color
+              RED: 216
+              BLUE: 152
+              GREEN: 129
+            type: STAR
+          power: 1
+      '29':
+        type: FIREWORK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          display-name: Angry Creeper
+          firework-effects:
+          - ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            fade-colors:
+            - ==: Color
+              RED: 59
+              BLUE: 26
+              GREEN: 81
+            type: CREEPER
+          power: 1
+      '30':
+        type: FIREWORK
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          display-name: StarryNight
+          firework-effects:
+          - ==: Firework
+            flicker: true
+            trail: true
+            colors:
+            - ==: Color
+              RED: 222
+              BLUE: 42
+              GREEN: 207
+            - ==: Color
+              RED: 235
+              BLUE: 68
+              GREEN: 136
+            fade-colors:
+            - ==: Color
+              RED: 37
+              BLUE: 146
+              GREEN: 49
+            type: STAR
+          power: 1
+      '31':
+        type: WOOD_AXE
+      '35':
+        type: FIREWORK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          display-name: SolarWind
+          firework-effects:
+          - ==: Firework
+            flicker: true
+            trail: false
+            colors:
+            - ==: Color
+              RED: 222
+              BLUE: 42
+              GREEN: 207
+            - ==: Color
+              RED: 235
+              BLUE: 68
+              GREEN: 136
+            fade-colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            type: BALL_LARGE
+          - ==: Firework
+            flicker: false
+            trail: true
+            colors:
+            - ==: Color
+              RED: 222
+              BLUE: 42
+              GREEN: 207
+            - ==: Color
+              RED: 235
+              BLUE: 68
+              GREEN: 136
+            fade-colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            type: BALL
+          - ==: Firework
+            flicker: false
+            trail: true
+            colors:
+            - ==: Color
+              RED: 179
+              BLUE: 44
+              GREEN: 49
+            - ==: Color
+              RED: 123
+              BLUE: 190
+              GREEN: 47
+            fade-colors:
+            - ==: Color
+              RED: 216
+              BLUE: 152
+              GREEN: 129
+            type: STAR
+          power: 1
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+  '51':
+    Time: 1461565532206
+    Exp: 1074835
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 36412
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2392.87846882531
+      y: 70.0
+      z: 2440.8860081253833
+      pitch: 17.400158
+      yaw: -64.75226
+  '52':
+    Time: 1462120697010
+    Exp: 3730381
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 7.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 75165
+        Amplifier: 1
+    Location:
+      world: world
+      x: -7131.436259016153
+      y: 73.0
+      z: -5609.140137742555
+      pitch: -0.15011372
+      yaw: -116.63599
+    Items:
+      '0':
+        type: WOOD_AXE
+      '1':
+        type: GRASS
+      '36':
+        type: LEATHER_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §bBoots of the Stomper
+          lore:
+          - ''
+          - §9All Fall Damage you receive
+          - §9will be applied to nearby Mobs/Players
+          - ''
+          - §9+ No Fall Damage
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 255
+            GREEN: 255
+  '53':
+    Time: 1462483221078
+    Exp: 10648626
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 7.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 476.01840160017474
+      y: 88.0
+      z: -47.379344347580926
+      pitch: 50.54998
+      yaw: 256.1504
+    Items:
+      '0':
+        type: WOOD_STAIRS
+      '1':
+        type: SIGN
+      '3':
+        type: LEAVES
+      '4':
+        type: SAPLING
+      '5':
+        type: BED
+      '6':
+        type: LADDER
+        amount: 3
+      '7':
+        type: WOOD_AXE
+      '8':
+        type: NETHERRACK
+      '9':
+        type: PUMPKIN_SEEDS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rGrass Seeds
+          lore:
+          - ''
+          - §7§oCan be planted on Dirt
+      '36':
+        type: LEATHER_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §bBoots of the Stomper
+          lore:
+          - ''
+          - §9All Fall Damage you receive
+          - §9will be applied to nearby Mobs/Players
+          - ''
+          - §9+ No Fall Damage
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 255
+            GREEN: 255

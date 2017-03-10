@@ -1,0 +1,253 @@
+Inventories:
+  '1':
+    Time: 1462120692490
+    Exp: 145
+    Health: 30.0
+    MaxHealth: 30.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14870.839147261526
+      y: 64.0
+      z: 9101.300000011921
+      pitch: 30.449888
+      yaw: -114.25839
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 52
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SPADE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: RED_ROSE
+        amount: 2
+      '6':
+        type: COOKED_CHICKEN
+        amount: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '7':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Aluminum Dust
+      '8':
+        type: COBBLESTONE
+        amount: 57
+      '9':
+        type: COAL
+        amount: 54
+      '10':
+        type: STONE
+        damage: 1
+        amount: 3
+      '11':
+        type: COBBLESTONE
+        amount: 61
+      '12':
+        type: STONE
+        damage: 5
+        amount: 15
+      '13':
+        type: ROTTEN_FLESH
+        amount: 3
+      '14':
+        type: BREAD
+        amount: 32
+      '15':
+        type: WATER_BUCKET
+      '16':
+        type: ARROW
+        amount: 8
+      '17':
+        type: BONE
+        amount: 12
+      '18':
+        type: SKULL_ITEM
+        damage: 1
+      '19':
+        type: DIRT
+        amount: 5
+      '22':
+        type: TORCH
+        amount: 32
+      '30':
+        type: LAVA_BUCKET
+      '39':
+        type: LEATHER_HELMET
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §dCrown of the King
+          lore:
+          - §6A kingly crown that grants
+          - §6the wearer unwavering power!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            PROTECTION_FIRE: 3
+            PROTECTION_EXPLOSIONS: 3
+            PROTECTION_PROJECTILE: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy55vz/o35c0bTYWBk6QkE9qYnHJtf3ZMSlloY/YGNgcc/NL80ocVBjAgIOBF26iX2JuKoNgempealFmsl5uYoVHamJOSQYzA6d/QWpRYklmfh5ECwtYJZevY0S8h6ujT4gHA9Wsl4ZZn52Xn5ydlJicHZRanFlckpiXnIrmECaYQ0S8/fydvZ0cnb3jg1yDPYNDHP2cXRkYAO9im8UwAQAA
+          color:
+            ==: Color
+            RED: 245
+            BLUE: 52
+            GREEN: 240
+  '2':
+    Time: 1462483215780
+    Exp: 145
+    Health: 30.0
+    MaxHealth: 30.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14870.839147261526
+      y: 64.0
+      z: 9101.300000011921
+      pitch: 30.449888
+      yaw: -114.25839
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 52
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SPADE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '4':
+        type: RED_ROSE
+        amount: 2
+      '6':
+        type: COOKED_CHICKEN
+        amount: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '7':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Aluminum Dust
+      '8':
+        type: COBBLESTONE
+        amount: 57
+      '9':
+        type: COAL
+        amount: 54
+      '10':
+        type: STONE
+        damage: 1
+        amount: 3
+      '11':
+        type: COBBLESTONE
+        amount: 61
+      '12':
+        type: STONE
+        damage: 5
+        amount: 15
+      '13':
+        type: ROTTEN_FLESH
+        amount: 3
+      '14':
+        type: BREAD
+        amount: 32
+      '15':
+        type: WATER_BUCKET
+      '16':
+        type: ARROW
+        amount: 8
+      '17':
+        type: BONE
+        amount: 12
+      '18':
+        type: SKULL_ITEM
+        damage: 1
+      '19':
+        type: DIRT
+        amount: 5
+      '22':
+        type: TORCH
+        amount: 32
+      '30':
+        type: LAVA_BUCKET
+      '39':
+        type: LEATHER_HELMET
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §dCrown of the King
+          lore:
+          - §6A kingly crown that grants
+          - §6the wearer unwavering power!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            PROTECTION_FIRE: 3
+            PROTECTION_EXPLOSIONS: 3
+            PROTECTION_PROJECTILE: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy55vz/o35c0bTYWBk6QkE9qYnHJtf3ZMSlloY/YGNgcc/NL80ocVBjAgIOBF26iX2JuKoNgempealFmsl5uYoVHamJOSQYzA6d/QWpRYklmfh5ECwtYJZevY0S8h6ujT4gHA9Wsl4ZZn52Xn5ydlJicHZRanFlckpiXnIrmECaYQ0S8/fydvZ0cnb3jg1yDPYNDHP2cXRkYAO9im8UwAQAA
+          color:
+            ==: Color
+            RED: 245
+            BLUE: 52
+            GREEN: 240

@@ -1,0 +1,101 @@
+PlayerLastName: lizardkang
+EnderChestSize: 27
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_ORE
+    amount: 33
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nAssassin III
+      lore:
+      - §lRune of Assassin III
+      - §a92% Success Rate and §c8% Destroy Rate.
+      - §6Sword Enchant
+      - §7Place the Rune on a sword to enchant.
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nHealth Boost III
+      lore:
+      - §lRune of Health Boost III
+      - §a69% Success Rate and §c31% Destroy Rate.
+      - §6Chestplate Enchant
+      - §7Place the Rune on a chstplate to enchant.
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nSuperman Punch II
+      lore:
+      - §lRune of Superman Punch II
+      - §6Armour Enchant
+      - §7Place the Rune on armour to enchant.
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 9
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        DAMAGE_ALL: 5
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    damage: 85
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      repair-cost: 1
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_FIRE: 4
+        DURABILITY: 3
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 379
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: kybui
+      enchants:
+        DURABILITY: 1
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    amount: 5
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: MELON
+    amount: 5
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: COAL
+    amount: 27
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_FISH
+    amount: 10

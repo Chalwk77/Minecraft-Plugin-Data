@@ -1,0 +1,159 @@
+PlayerLastName: Molinder2004
+EnderChestSize: 18
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR_CANE
+    amount: 4
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §9Ruby Darkness
+      stored-enchants:
+        PROTECTION_PROJECTILE: 4
+        PROTECTION_FALL: 5
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: GLOWSTONE_DUST
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Gold Dust
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §6Ender Backpack
+      lore:
+      - §a§oA portable Ender Chest
+      - ''
+      - §eRight Click§7 to open
+      internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkkGhktZdGGgtkO4CFTaYcdlCOBM21Aw0mfyIWXp8nznOzKADC/p18T5x3BpOs4keCQ1vFqFgS17XStqVaiKjnVdKTVTVWrEStzgdaXhWgZ5ia5sGDt2W4E0sp9xGthNBoAHCZ6zgk8MftnsofzUovrk8Wom5sKHFPGI9FeLnLO5dIhJxOL3b6Y/2/++xlgcDU6x1+bneCpFhnyccLZP1Ep8fgdie6d9gCKXzrTnbS6IFmihiHaxGt4rIzpQLXdDQcUWB7t3EbleF7gJj5Yt0LI27ykK3aU7ei05q3YTbzYAEjyFhWCwclLnMjC/KwH+AD4EzxEmAQAA
+      skull-owner: CSCoreLib
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eEmerald Chest
+      lore:
+      - '§7Size: §e6x9'
+      - ''
+      - §rThis Chest can be opened by anyone
+      - §reven if your Base is protected.
+      internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3J4ADVhYtGYhziYLkUhB0DQwBn1CBU8an6iJ1lF2dxvosOoMNbdByF+OrPdSu4Bs+kgvc5NhFb2LVRMlQbVrGojMKZVwbCrCgdbHJmIR10dbrwfmj5dQbawO/D2POrDgBPGrwmhRg5/PLJQ/mhQdXBE+VEHOVxhMSedJcPckomtiYOkarffjq7aflvaw9FaosMe01+CkYmE7TDoeDb0Czl948vN0f6SEQmw5bGxMyl1/guudPuaOVuMGUPcqOSYn+uSAmi0u/2sVAENn0IZSrvgluW0vve3UhyMpd1sFoBaPDiF5LDbB2tzz3ftQzgD6kYvI8qAQAA
+      skull-owner: CSCoreLib
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 4
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §cSoul Jar §7(Silverfish)
+      lore:
+      - ''
+      - '§7Infused Souls: §e128'
+      internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJusuPHBsadYksRRFZbvwsFVjUIDTCU/URy7HHycyoACq8HZpByq/uWlZSKPBMC3i3rEwX9irXyoLoml4SQ7NLlGkktQgqkC3ylamCOk830fWVuC9A6cWjHzpxVwHgSYHXKJWDgF8xuiiJz6iIXZmP1Jw5PCDp0/pm0Us0Zg41aTv77Ye5G+1/rdGnJ0Ny4p6TSzBkbYR2ZC/Fdr/M2+MPb4MHn3LCcCS9kGM+BYTjtWR1o/PTEfM6x/5pf2ab48hrTpI6wP7n95KF3uRt1g3DbpNsAsLCdc1CaniYV2W8tAEUeGFpK2DhHJxrJ3ZVBvAHQcXUEyoBAAA=
+      skull-owner: CSCoreLib
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_CHESTPLATE
+    damage: 69
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER
+    amount: 63
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 1
+    amount: 4
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §cNecrotic Skull
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 7
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aEnchanted Golden Apple
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: PUMPKIN
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §5Purplicious Cow Pet
+      lore:
+      - §9Special
+      - '§7Favourite Food: Golden Apples'
+      - ''
+      - '§rRight-Click: §7Gives you Health Regeneration'
+      internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JODJSF100mugQB6pcZ3YODPEyowbBCk/VRyzL7r6Tcz4bwIa36NRq/V1fqoNWFjzTEt69sefiEpcORrhwXEk8Z+YS4uBKVpUk7odUlQ32cLqqujmo2wisRj2atlY3GwCeLHhNd7pV8Ks6H4l8j8rc10VHpwPHEdIhPV49ek47OadTaga/+pquu9m/ljS7jGg+8ffivGmlSdF6stVqtR0XJrkznDyEYZjhTc8WgebH1LCeY56lR54lWCzomC03SMT+KegLwmNtgiw14XKreSaGTXtuGAli9hNgYcLIn1U5+gSw4CXYGQWjeTS/1Gp9kAB/EAV4FyoBAAA=
+      skull-owner: CSCoreLib
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD_PICKAXE
+    damage: 22
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §7§kAnalize meh
+      lore:
+      - ''
+      - §7§oUnanalized
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: TORCH
+    amount: 61
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §9Jet Boots §7- §eV
+      lore:
+      - ''
+      - '§8⇨ §7Material: §bDamascus Steel'
+      - §c§o§8⇨ §e⚡ §70 / 75 J
+      - '§8⇨ §7Speed: §a0.55'
+      - '§8⇨ §7Accuracy: §a75%'
+      - ''
+      - §7Hold §eShift§7 to use
+      color:
+        ==: Color
+        RED: 192
+        BLUE: 192
+        GREEN: 192
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: BREWING_STAND_ITEM

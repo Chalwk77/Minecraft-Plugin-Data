@@ -1,0 +1,24 @@
+# NoFlyZone version: 1.3 Main Configuration
+# 
+# List regions below that will disable players from flying when they enter them
+
+no_fly_worlds:
+- none
+- none
+no_fly_message: '&7[&cNo Fly Zone&7] &4You are not permitted to fly here!'
+auto_fly_message: '&aYour Fly Mode has been toggled on!'
+no_fly_regions:
+  world:
+  - testflyregion
+  - mobarena1_skeletonking
+  - mobarena2_slimequeen
+  - mobarena3_pigmanboss
+  - mobarena4_witherboss
+  - mobarena5_zombieboss
+  - mobarena1
+  - mobarena2
+  - mobarena3
+  - mobarena4
+  - mobarena5
+  - parkour2
+  - pvp

@@ -1,0 +1,194 @@
+Inventories:
+  '26':
+    Time: 1459465462619
+    Exp: 109586
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -1137.9154188890448
+      y: 81.90205050235792
+      z: 4944.9104787781325
+      pitch: 8.850408
+      yaw: 15.300842
+    Items:
+      '0':
+        type: EGG
+  '27':
+    Time: 1459469871545
+    Exp: 109586
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -1137.9154188890448
+      y: 81.90205050235792
+      z: 4944.9104787781325
+      pitch: 8.850408
+      yaw: 15.300842
+    Items:
+      '0':
+        type: EGG
+  '28':
+    Time: 1459659261096
+    Exp: 113692
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -663.2349504713507
+      y: 68.0
+      z: 3413.6614619078205
+      pitch: 15.000054
+      yaw: 271.63898
+  '29':
+    Time: 1459766734675
+    Exp: 113692
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -663.2349504713507
+      y: 68.0
+      z: 3413.6614619078205
+      pitch: 15.000054
+      yaw: 271.63898
+  '30':
+    Time: 1459847485715
+    Exp: 113692
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -663.2349504713507
+      y: 68.0
+      z: 3413.6614619078205
+      pitch: 15.000054
+      yaw: 271.63898
+  '31':
+    Time: 1460146821791
+    Exp: 113692
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -663.2349504713507
+      y: 68.0
+      z: 3413.6614619078205
+      pitch: 15.000054
+      yaw: 271.63898
+  '32':
+    Time: 1460339000456
+    Exp: 117660
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: WITHER
+        Duration: 138
+        Amplifier: 0
+    Location:
+      world: world
+      x: -1030.8335878449857
+      y: 60.0
+      z: -1308.5673478793387
+      pitch: 16.050106
+      yaw: 121.2038
+  '33':
+    Time: 1460883168642
+    Exp: 138
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -641.0281107905737
+      y: 69.91164212395933
+      z: 3488.711711960799
+      pitch: 10.650055
+      yaw: 180.8888
+  '34':
+    Time: 1462120693146
+    Exp: 561
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 567.6999999880791
+      y: 66.0
+      z: 53.47029730291126
+      pitch: 25.049974
+      yaw: 314.7901
+    Items:
+      '0':
+        type: WOOD_STAIRS
+      '1':
+        type: WOOD
+        damage: 1
+      '2':
+        type: WOOD_AXE
+      '3':
+        type: TORCH
+        amount: 2
+  '35':
+    Time: 1462483216614
+    Exp: 561
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 567.6999999880791
+      y: 66.0
+      z: 53.47029730291126
+      pitch: 25.049974
+      yaw: 314.7901
+    Items:
+      '0':
+        type: WOOD_STAIRS
+      '1':
+        type: WOOD
+        damage: 1
+      '2':
+        type: WOOD_AXE
+      '3':
+        type: TORCH
+        amount: 2

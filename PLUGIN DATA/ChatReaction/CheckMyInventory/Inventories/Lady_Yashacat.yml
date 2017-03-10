@@ -1,0 +1,1371 @@
+Inventories:
+  '30':
+    Time: 1459847486973
+    Exp: 6552877
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -11837.7819997417
+      y: 64.0
+      z: -11537.292902731624
+      pitch: 27.544497
+      yaw: 291.7511
+    Items:
+      '0':
+        type: WOOD_AXE
+      '1':
+        type: DIAMOND_AXE
+        damage: 158
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: END_ROD
+        amount: 46
+      '3':
+        type: CHORUS_FRUIT
+        amount: 64
+      '4':
+        type: CHORUS_FRUIT
+        amount: 64
+      '5':
+        type: CHORUS_FRUIT
+        amount: 60
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 152
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+            DURABILITY: 3
+          repair-cost: 7
+      '8':
+        type: DIAMOND_SWORD
+        damage: 127
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '9':
+        type: IRON_INGOT
+        amount: 41
+      '10':
+        type: POTATO_ITEM
+      '11':
+        type: ROTTEN_FLESH
+        amount: 34
+      '12':
+        type: SULPHUR
+        amount: 20
+      '13':
+        type: SEEDS
+        amount: 6
+      '14':
+        type: SPIDER_EYE
+        amount: 3
+      '15':
+        type: ARROW
+        amount: 17
+      '16':
+        type: BONE
+        amount: 35
+      '17':
+        type: STRING
+        amount: 9
+      '18':
+        type: COOKED_CHICKEN
+        amount: 23
+      '19':
+        type: BOW
+        damage: 122
+      '20':
+        type: WOOL
+        damage: 7
+      '21':
+        type: GRILLED_PORK
+        amount: 2
+      '30':
+        type: FEATHER
+        amount: 20
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_FALL: 4
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            WATER_WORKER: 1
+            THORNS: 10
+          repair-cost: 7
+  '31':
+    Time: 1460146818758
+    Exp: 6687156
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -1814.5819981188145
+      y: 70.0
+      z: -1052.4317296376257
+      pitch: 25.89954
+      yaw: 223.69804
+    Items:
+      '0':
+        type: WOOD_AXE
+      '9':
+        type: LEATHER
+      '10':
+        type: IRON_INGOT
+        amount: 15
+      '11':
+        type: ANVIL
+      '27':
+        type: NETHER_STAR
+        amount: 4
+      '28':
+        type: SKULL_ITEM
+        damage: 1
+      '35':
+        type: LEASH
+  '32':
+    Time: 1460414369553
+    Exp: 6731153
+    Health: 1.4600027799606323
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 13
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: WITHER
+        Duration: 199
+        Amplifier: 0
+    Location:
+      world: world
+      x: -1009.3000000119209
+      y: 60.0
+      z: -1311.699999988079
+      pitch: 24.25534
+      yaw: 24.670654
+    Items:
+      '0':
+        type: BONE
+        amount: 64
+      '1':
+        type: COAL
+        amount: 22
+      '2':
+        type: ARROW
+        amount: 32
+      '3':
+        type: SKULL_ITEM
+        damage: 1
+      '4':
+        type: BONE
+        amount: 3
+      '8':
+        type: DIAMOND_SWORD
+        damage: 136
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_FALL: 4
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 176
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 175
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 284
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            WATER_WORKER: 1
+            THORNS: 10
+          repair-cost: 7
+  '33':
+    Time: 1460414379397
+    Exp: 100
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -1009.5
+      y: 60.0
+      z: -1311.5
+      pitch: 24.25534
+      yaw: 24.670654
+    Items:
+      '0':
+        type: DIAMOND_HELMET
+        damage: 284
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            WATER_WORKER: 1
+            THORNS: 10
+          repair-cost: 7
+      '1':
+        type: BONE
+        amount: 64
+      '2':
+        type: COAL
+        amount: 22
+      '3':
+        type: SKULL_ITEM
+        damage: 1
+      '4':
+        type: BONE
+        amount: 3
+      '5':
+        type: DIAMOND_SWORD
+        damage: 136
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: DIAMOND_BOOTS
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_FALL: 4
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '7':
+        type: DIAMOND_LEGGINGS
+        damage: 176
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '9':
+        type: DIAMOND_CHESTPLATE
+        damage: 175
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '34':
+    Time: 1460414393209
+    Exp: 49
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -1009.5
+      y: 60.0
+      z: -1311.5
+      pitch: 24.25534
+      yaw: 24.670654
+    Items:
+      '0':
+        type: DIAMOND_HELMET
+        damage: 284
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            WATER_WORKER: 1
+            THORNS: 10
+          repair-cost: 7
+      '1':
+        type: BONE
+        amount: 64
+      '2':
+        type: COAL
+        amount: 22
+      '3':
+        type: SKULL_ITEM
+        damage: 1
+      '4':
+        type: BONE
+        amount: 3
+      '5':
+        type: DIAMOND_SWORD
+        damage: 136
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '6':
+        type: DIAMOND_BOOTS
+        damage: 186
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_FALL: 4
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '7':
+        type: DIAMOND_LEGGINGS
+        damage: 176
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '9':
+        type: DIAMOND_CHESTPLATE
+        damage: 175
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '35':
+    Time: 1460414515785
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -1009.5543044794344
+      y: 69.0
+      z: -1310.3531195598414
+      pitch: 85.34065
+      yaw: 177.30716
+  '36':
+    Time: 1460414547791
+    Exp: 0
+    Health: 3.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: WITHER
+        Duration: 189
+        Amplifier: 0
+    Location:
+      world: world
+      x: -1029.5507379698754
+      y: 61.153107934874726
+      z: -1316.6042415079735
+      pitch: 14.427128
+      yaw: 296.79984
+  '37':
+    Time: 1460883169748
+    Exp: 26109
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -15319.653177019864
+      y: 18.0
+      z: -13195.116082830273
+      pitch: 18.944826
+      yaw: -232.82202
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 160
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+            DURABILITY: 3
+          repair-cost: 7
+      '2':
+        type: DIAMOND_AXE
+        damage: 162
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: BLAZE_ROD
+        amount: 64
+      '5':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rBlaze Head
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJID/14KGh/iyRtYCysrcFlsp2Vw1CFZ+rD1iPPU5mRgfQ4SX97qX8bI91I7kGj6iC18p7s3nJuGH5BTMcy2HGhI0Lg1VeUTG/tku/1EG/Tyfedg0/j0Dr+LXrW37WAeBBg+eMyZ7DLx9Ck+72ZrULZTkg786b1JRrJE4+OmRDESAPqbtfvnurYfKvdTtGXJmPwz09xH2hMnM1TiRfJlaptj+5KB1K8oFuEkFFKPDHfB+p+IoXoaKLrZvbc0XF7BKJmUtF1kQkVJigGyYzc02yBm/mAovYxrcvJ1K4wSS/oIM1qePpFECDJ8wUh1GQBseWr5oC4A+LkyGZLgEAAA==
+          skull-owner: CSCoreLib
+      '6':
+        type: BLAZE_ROD
+        amount: 25
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 7
+      '8':
+        type: DIAMOND_SWORD
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10000
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rChocolate Pear Cake
+          lore:
+          - ''
+          - §7§oRestores §b§o9.5 §7§oHunger
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eS0k6Eww6LbgqxsCGI9Ea1DEpRg+CE37UfOI47vrz3dAAdnjZVp9Rnc8pLJTS4dw/wjBDOHZ4RwyYzbLzYRBgcm1MDmxw7JrEzniEd9HE6i6YtxWUCWitubdeIiw4Adxo8bjPVCfgVvYfYrkCHnaf2vWuNHG2QClx5nrnHbc/nruXWo1+9Weve+ddO2yyZqpR4BTt+dbzeojUJlViF5r6Or0H0fgsSJtMorKksCn+ITbaghNWe8pNQMsmqYEkHlqQmXTJFhwqlw8fYfY/sSR/HfSr3N5bEJFjQH4opSnvPyXfoFUCDBz+rBUzmm/mpEeuSA/wBdY0DKC4BAAA=
+          skull-owner: CSCoreLib
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Wooden Safe
+          lore:
+          - '§7Size: §e2x9'
+          - ''
+          - §rThis Chest can only be opened by you
+          internal: H4sIAAAAAAAAAE2L3W6CMBhAvy1bgmSPsVsSoBTC5YKb1mgdP/60dwIlUIoaBLP6THvIcbnLk3OOCWDCW9qOSn33l6pRwoBnUsJ76XgixyiwsB8iy8MessKisi2vQqFbuAgHTmCCOU1X0Q+NuM3AGMTPMPbiZgLAkwGv+5MaBfwKvbL5sbbL40oVmvgTZ6mttkReA3Le6zwiPukmv/zw1zr81+LhdMCKoVXNz/GYd3t7jRIllolTdLs7zWq5yVpvu9g9Nm4i+YIr3vGWyk/MZKvZgWAuY8Rc5rAHlbSLEV8kNZ/HmsoN4nOq2OGrZpIgmhVNdXRCAANe6KkTMIvS6NKLdZMD/AEUJ0u3JgEAAA==
+          skull-owner: CSCoreLib
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 95
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 63
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§2§kii§r§5Elite§k§2§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            WATER_WORKER: 1
+            THORNS: 10
+          repair-cost: 7
+  '38':
+    Time: 1462120694381
+    Exp: 282244
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -15404.300000011921
+      y: 63.0
+      z: -13352.92089034536
+      pitch: 34.599503
+      yaw: 156.06525
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+            DURABILITY: 3
+          repair-cost: 7
+      '1':
+        type: DIAMOND_AXE
+        damage: 224
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Eyamaz Pet
+          lore:
+          - §9Special
+          - '§7Favourite Food: Souls'
+          - ''
+          - §rBeware! Eyamaz makes a Soul Pie
+          - §rout of the Souls of everything you kill
+          internal: H4sIAAAAAAAAAE2MwW6CQBRFX5s2QdLP6JZkQBh00UWjpEJkqGjBmR0wgyIzahCM8F39wLLs8uSce3UAHd62dSfld3MpKyk0ePY5vHOz5MIVloFLXBh2YWIjywUy3JnL53zm4mJm66CPo6to2krcJqC14tF2jbjpAPCkwWuSyU7Ar+gDxPZHxPeBLHofj7zbIhn5p6vrn5M+X/jYV6NffeJ1P//XOm2WOpJOgyM7b7pcJWg9jaVYxWahfu7h7oDIECtieRYdvCFK6YNapCZDaNLdxiIDP4XLjRlaIaIqUSyNFR0ODlNJPXqHpZ4dLZmkJ89mX+OPIjWrgnm5Rx8AGryQTAmYLLaLSyPWVQ7wB529T5IuAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rVery lucky Block
+          lore:
+          - '§7Luck: §a+80'
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '4':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '5':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '6':
+        type: DIAMOND_HOE
+        damage: 2
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 113
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 7
+      '8':
+        type: DIAMOND_SWORD
+        damage: 150
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10000
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '9':
+        type: IRON_BLOCK
+        amount: 3
+      '10':
+        type: DIAMOND_BLOCK
+        amount: 2
+      '11':
+        type: GOLD_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '12':
+        type: PUMPKIN_PIE
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bSoul Pie
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Portable Dustbin
+          lore:
+          - §rYour portable Item-Destroyer
+          - ''
+          - §eRight Click§7 to open
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JaEAUFcuGikrUOYsSqizI7RRxUGNQhW+K5+YFl2dXJz7tEBdHhZFY1SX9U5OyrU4JHu4VXuPDlEJIaHY2IMR3JveJmTGZaXEtNycSQd1EHvowtW9RGvA9BqvNdNhVcdAB40eI5T1SD8YhuYYnsw99tA7Vrq9jtamWpO88uInuJWTqlLy97P3tywHf/7OnW6cVRiBwdxWjSyjM3QXiqcLcmuXN9YFxTcf//hfpCLqHBYtLATi3XzT35IOqW4n9i9J7wTilux4l1xZ/l3JyJRJhs2FD5r51GQJ5t1T0ZE/lHSExlni8kEQIMnnpYIg+lqeq4wPEqAP0LEzzAuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eBackpack
+          lore:
+          - ''
+          - '§7Size: §e18'
+          - '§7ID: ce369728-0aad-4d12-800e-cd68eab75c5d#1'
+          - ''
+          - §7§eRight Click§7 to open
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+          skull-owner: CSCoreLib
+      '15':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eSmall Backpack
+          lore:
+          - ''
+          - '§7Size: §e9'
+          - '§7ID: ce369728-0aad-4d12-800e-cd68eab75c5d#0'
+          - ''
+          - §7§eRight Click§7 to open
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+          skull-owner: CSCoreLib
+      '16':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eLarge Backpack
+          lore:
+          - ''
+          - '§7Size: §e27'
+          - '§7ID: ce369728-0aad-4d12-800e-cd68eab75c5d#2'
+          - ''
+          - §7§eRight Click§7 to open
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+          skull-owner: CSCoreLib
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eGilded Backpack
+          lore:
+          - ''
+          - '§7Size: §e45'
+          - '§7ID: ce369728-0aad-4d12-800e-cd68eab75c5d#3'
+          - ''
+          - §7§eRight Click§7 to open
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+          skull-owner: CSCoreLib
+      '18':
+        type: FURNACE
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §7Enhanced Furnace - §eI
+          lore:
+          - ''
+          - '§7Processing Speed: §e1x'
+          - '§7Fuel Efficiency: §e1x'
+          - '§7Luck Multiplier: §e1x'
+          blockMaterial: FURNACE
+      '19':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cCranberry Jelly Sandwich
+          lore:
+          - ''
+          - §7§oRestores §b§o8.0 §7§oHunger
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8rfEo9Wqa1yoguLuDXC3AosahAZ4qj5iOfY4mRkdQIe3sGyV+qpvMldCg2dyhneZISkzKY3MQo7hYOwaKfaEMfU8LLGZeKnr6qCP013UTS4eE9Aa0TVtLR46ADxp8HpMVCvgV/QbxE8XdD5tVNYTPHIUIhWQ4u6R67FP5wSTavTrGd7203+t2ySxq5i9ufDrrk2rI9raeyXWezOrDj/BijosKocgmrnUWuY09kseMcsfzhWLme0vvjte0I7GB5MXnzYv2MAXBydYkJE/FF3Rzh92Fh2WFStmiA5lLk/mFECDFz+pBEzm4fxWi22eAvwBkC/2sSoBAAA=
+          skull-owner: CSCoreLib
+      '20':
+        type: EMERALD
+        amount: 4
+      '21':
+        type: DIAMOND
+        amount: 4
+      '22':
+        type: GOLD_INGOT
+        amount: 4
+      '23':
+        type: IRON_INGOT
+        amount: 4
+      '24':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '25':
+        type: FURNACE
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §7Carbonado Edged Furnace
+          lore:
+          - ''
+          - '§7Processing Speed: §e20x'
+          - '§7Fuel Efficiency: §e10x'
+          - '§7Luck Multiplier: §e3x'
+          blockMaterial: FURNACE
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '28':
+        type: FLINT_AND_STEEL
+        damage: 3
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 96
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: GOLD_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Chestplate
+          lore:
+          - §912-Carat
+          enchants:
+            DURABILITY: 10
+      '39':
+        type: LEATHER_HELMET
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §dCrown of the King
+          lore:
+          - §6A kingly crown that grants
+          - §6the wearer unwavering power!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            PROTECTION_FIRE: 3
+            PROTECTION_EXPLOSIONS: 3
+            PROTECTION_PROJECTILE: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy55vz/o35c0bTYWBk6QkE9qYnHJtf3ZMSlloY/YGNgcc/NL80ocVBjAgIOBF26iX2JuKoNgempealFmsl5uYoVHamJOSQYzA6d/QWpRYklmfh5ECwtYJZevY0S8h6ujT4gHA9Wsl4ZZn52Xn5ydlJicHZRanFlckpiXnIrmECaYQ0S8/fydvZ0cnb3jg1yDPYNDHP2cXRkYAO9im8UwAQAA
+          color:
+            ==: Color
+            RED: 245
+            BLUE: 52
+            GREEN: 240
+  '39':
+    Time: 1462483212785
+    Exp: 347790
+    Health: 30.0
+    MaxHealth: 30.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -15408.012811510804
+      y: 63.0
+      z: -13356.063778377662
+      pitch: 35.477856
+      yaw: 203.14864
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+            DURABILITY: 3
+          repair-cost: 7
+      '1':
+        type: DIAMOND_AXE
+        damage: 224
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Eyamaz Pet
+          lore:
+          - §9Special
+          - '§7Favourite Food: Souls'
+          - ''
+          - §rBeware! Eyamaz makes a Soul Pie
+          - §rout of the Souls of everything you kill
+          internal: H4sIAAAAAAAAAE2MwW6CQBRFX5s2QdLP6JZkQBh00UWjpEJkqGjBmR0wgyIzahCM8F39wLLs8uSce3UAHd62dSfld3MpKyk0ePY5vHOz5MIVloFLXBh2YWIjywUy3JnL53zm4mJm66CPo6to2krcJqC14tF2jbjpAPCkwWuSyU7Ar+gDxPZHxPeBLHofj7zbIhn5p6vrn5M+X/jYV6NffeJ1P//XOm2WOpJOgyM7b7pcJWg9jaVYxWahfu7h7oDIECtieRYdvCFK6YNapCZDaNLdxiIDP4XLjRlaIaIqUSyNFR0ODlNJPXqHpZ4dLZmkJ89mX+OPIjWrgnm5Rx8AGryQTAmYLLaLSyPWVQ7wB529T5IuAQAA
+          skull-owner: CSCoreLib
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Portable Dustbin
+          lore:
+          - §rYour portable Item-Destroyer
+          - ''
+          - §eRight Click§7 to open
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JaEAUFcuGikrUOYsSqizI7RRxUGNQhW+K5+YFl2dXJz7tEBdHhZFY1SX9U5OyrU4JHu4VXuPDlEJIaHY2IMR3JveJmTGZaXEtNycSQd1EHvowtW9RGvA9BqvNdNhVcdAB40eI5T1SD8YhuYYnsw99tA7Vrq9jtamWpO88uInuJWTqlLy97P3tywHf/7OnW6cVRiBwdxWjSyjM3QXiqcLcmuXN9YFxTcf//hfpCLqHBYtLATi3XzT35IOqW4n9i9J7wTilux4l1xZ/l3JyJRJhs2FD5r51GQJ5t1T0ZE/lHSExlni8kEQIMnnpYIg+lqeq4wPEqAP0LEzzAuAQAA
+          skull-owner: CSCoreLib
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 50
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rVery lucky Block
+          lore:
+          - '§7Luck: §a+80'
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '5':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '6':
+        type: DIAMOND_HOE
+        damage: 3
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 157
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 7
+      '8':
+        type: DIAMOND_SWORD
+        damage: 179
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10000
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '9':
+        type: DIAMOND_BLOCK
+        amount: 2
+      '10':
+        type: STAINED_CLAY
+        damage: 1
+      '11':
+        type: IRON_BLOCK
+      '12':
+        type: DIAMOND
+        amount: 4
+      '13':
+        type: GOLD_INGOT
+        amount: 4
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eBackpack
+          lore:
+          - ''
+          - '§7Size: §e18'
+          - '§7ID: ce369728-0aad-4d12-800e-cd68eab75c5d#1'
+          - ''
+          - §7§eRight Click§7 to open
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+          skull-owner: CSCoreLib
+      '15':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eSmall Backpack
+          lore:
+          - ''
+          - '§7Size: §e9'
+          - '§7ID: ce369728-0aad-4d12-800e-cd68eab75c5d#0'
+          - ''
+          - §7§eRight Click§7 to open
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+          skull-owner: CSCoreLib
+      '16':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eLarge Backpack
+          lore:
+          - ''
+          - '§7Size: §e27'
+          - '§7ID: ce369728-0aad-4d12-800e-cd68eab75c5d#2'
+          - ''
+          - §7§eRight Click§7 to open
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+          skull-owner: CSCoreLib
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eGilded Backpack
+          lore:
+          - ''
+          - '§7Size: §e45'
+          - '§7ID: ce369728-0aad-4d12-800e-cd68eab75c5d#3'
+          - ''
+          - §7§eRight Click§7 to open
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+          skull-owner: CSCoreLib
+      '18':
+        type: EMERALD
+        amount: 4
+      '19':
+        type: IRON_INGOT
+        amount: 4
+      '20':
+        type: STAINED_CLAY
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSlime Head
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJZGGVg4dGGl3CQsVV3L3xs0ZkUYOg4HP1Acuxx8nM6AA6fGyqTqmf5nIoldTglRTwaWP3gIpMGg7CtmHjaWGkWZoaMyxNy55hF7mWDvo4XWXTlvI2Aa2Vfds18qYDwIsG77tUdRJ+5eCbYn80i72v8oHgkdnGVBE5XafkvBuyBcGkHv3qCweD+6912jRxFEf+UZzXXVbvzADFSq5iK6+3d8rEUXjkIWo6CG+LosRX9LR9CC+s+IlbUUJt+vQrzvwy9HKbs/zJGXeiJUEi+e7pct1HS+pQxgfB4ipKiEXOlntYz+cAGryFaS1hstgsLo0MygzgD3+n25kuAQAA
+          skull-owner: CSCoreLib
+      '25':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rVery lucky Block
+          lore:
+          - '§7Luck: §a+80'
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '26':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rVery lucky Block
+          lore:
+          - '§7Luck: §a+80'
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '27':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '29':
+        type: STAINED_CLAY
+        damage: 7
+      '30':
+        type: STAINED_CLAY
+        damage: 6
+      '31':
+        type: STAINED_CLAY
+        damage: 5
+      '32':
+        type: STAINED_CLAY
+        damage: 4
+      '33':
+        type: STAINED_CLAY
+        damage: 3
+      '34':
+        type: STAINED_CLAY
+        damage: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 96
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: LEATHER_HELMET
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §dCrown of the King
+          lore:
+          - §6A kingly crown that grants
+          - §6the wearer unwavering power!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            PROTECTION_FIRE: 3
+            PROTECTION_EXPLOSIONS: 3
+            PROTECTION_PROJECTILE: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy55vz/o35c0bTYWBk6QkE9qYnHJtf3ZMSlloY/YGNgcc/NL80ocVBjAgIOBF26iX2JuKoNgempealFmsl5uYoVHamJOSQYzA6d/QWpRYklmfh5ECwtYJZevY0S8h6ujT4gHA9Wsl4ZZn52Xn5ydlJicHZRanFlckpiXnIrmECaYQ0S8/fydvZ0cnb3jg1yDPYNDHP2cXRkYAO9im8UwAQAA
+          color:
+            ==: Color
+            RED: 245
+            BLUE: 52
+            GREEN: 240

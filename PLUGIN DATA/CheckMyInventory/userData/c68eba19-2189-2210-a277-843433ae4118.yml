@@ -1,0 +1,11 @@
+Name: Quest Master
+TeleportLocation:
+  X: -168.5
+  Pitch: 0.0
+  Y: 63.0
+  Z: -100.5
+  World: world
+  Yaw: 0.0
+Charges:
+  Amount: 0
+  LastGot: 1479371200491

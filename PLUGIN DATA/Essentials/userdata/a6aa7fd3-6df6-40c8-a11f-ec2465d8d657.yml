@@ -1,0 +1,32 @@
+lastAccountName: HappyGreeny
+timestamps:
+  login: 1478809319200
+  logout: 1478810612019
+  lastteleport: 1471449134038
+ipAddress: 92.3.181.163
+geolocation: United Kingdom
+lastlocation:
+  world: world
+  x: 2300.7662841824067
+  y: 90.74433227925142
+  z: -1471.7112015614393
+  yaw: 111.13787
+  pitch: 35.530903
+homes:
+  home:
+    world: world
+    x: -20565.011566891444
+    y: 69.0
+    z: -24007.02551818729
+    yaw: -298.3506
+    pitch: 7.9499974
+money: '-5000.0'
+logoutlocation:
+  world: world
+  x: -20591.120912574625
+  y: 69.0
+  z: -23942.063124899556
+  yaw: 184.92285
+  pitch: -2.1000562
+godmode: true
+afk: false

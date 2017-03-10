@@ -1,0 +1,25 @@
+Name: redfacedassassin
+TeleportLocation:
+  X: 604.5
+  Pitch: 39.26807
+  Y: 66.07500000000746
+  Z: -284.5
+  World: world
+  Yaw: 58.187824
+Charges:
+  Amount: 0
+  LastGot: 1479390510420
+LogOutLocation:
+  X: -18603.809716475673
+  Pitch: 18.80483
+  Y: 120.0
+  Z: 10652.576524669163
+  World: world
+  Yaw: -19.075409
+DeathLocation:
+  X: -18659.15560563141
+  Pitch: 4.7164965
+  Y: 48.0
+  Z: 10646.300000011921
+  World: world
+  Yaw: 62.767

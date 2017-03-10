@@ -1,0 +1,1846 @@
+Inventories:
+  '27':
+    Time: 1458455361328
+    Exp: 446680
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9919595
+        Amplifier: 1
+      '2':
+        Name: JUMP
+        Duration: 172
+        Amplifier: 0
+    Location:
+      world: world
+      x: 476746.9732356705
+      y: 75.86724131532476
+      z: 443203.7615576413
+      pitch: 3.0517588
+      yaw: 263.344
+    Items:
+      '0':
+        type: BOW
+        damage: 107
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+          repair-cost: 15
+      '1':
+        type: DIAMOND_SWORD
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 141
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 455
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: DIAMOND_SPADE
+        damage: 272
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '6':
+        type: LOG
+        amount: 64
+      '7':
+        type: LOG
+        amount: 60
+      '8':
+        type: DIAMOND_AXE
+        damage: 154
+      '9':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '10':
+        type: SHEARS
+        damage: 27
+      '11':
+        type: LOG
+        amount: 33
+      '12':
+        type: ARROW
+        amount: 17
+      '13':
+        type: LOG
+        amount: 64
+      '15':
+        type: GRILLED_PORK
+        amount: 58
+      '16':
+        type: WOOL
+        damage: 2
+        amount: 46
+      '17':
+        type: LADDER
+        amount: 39
+      '18':
+        type: WOOL
+        damage: 7
+        amount: 52
+      '19':
+        type: WOOD
+        amount: 2
+      '20':
+        type: WOOL
+        damage: 15
+        amount: 39
+      '21':
+        type: SIGN
+        amount: 2
+      '22':
+        type: DIRT
+        amount: 46
+      '23':
+        type: STICK
+        amount: 3
+      '27':
+        type: EGG
+      '30':
+        type: WOOL
+        damage: 10
+        amount: 54
+      '31':
+        type: WOOL
+        damage: 13
+        amount: 42
+      '32':
+        type: WOOL
+        damage: 8
+        amount: 61
+      '34':
+        type: WOOD
+        damage: 1
+        amount: 19
+  '28':
+    Time: 1459465465502
+    Exp: 446685
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9912517
+        Amplifier: 1
+      '2':
+        Name: FAST_DIGGING
+        Duration: 155
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12283.125174653786
+      y: 48.5
+      z: 5944.322142361822
+      pitch: 37.50296
+      yaw: 271.46503
+    Items:
+      '0':
+        type: BOW
+        damage: 108
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+          repair-cost: 15
+      '1':
+        type: DIAMOND_SWORD
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 141
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 455
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: DIAMOND_SPADE
+        damage: 272
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '5':
+        type: GRILLED_PORK
+        amount: 57
+      '6':
+        type: LOG
+        amount: 64
+      '7':
+        type: LOG
+        amount: 60
+      '8':
+        type: DIAMOND_AXE
+        damage: 154
+      '9':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '10':
+        type: SHEARS
+        damage: 27
+      '11':
+        type: LOG
+        amount: 33
+      '12':
+        type: ARROW
+        amount: 17
+      '13':
+        type: LOG
+        amount: 64
+      '16':
+        type: WOOL
+        damage: 2
+        amount: 46
+      '17':
+        type: LADDER
+        amount: 39
+      '18':
+        type: WOOL
+        damage: 7
+        amount: 52
+      '19':
+        type: WOOD
+        amount: 2
+      '20':
+        type: WOOL
+        damage: 15
+        amount: 39
+      '21':
+        type: SIGN
+        amount: 2
+      '22':
+        type: DIRT
+        amount: 46
+      '23':
+        type: STICK
+        amount: 3
+      '27':
+        type: EGG
+      '30':
+        type: WOOL
+        damage: 10
+        amount: 54
+      '31':
+        type: WOOL
+        damage: 13
+        amount: 42
+      '32':
+        type: WOOL
+        damage: 8
+        amount: 61
+      '34':
+        type: WOOD
+        damage: 1
+        amount: 19
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 111
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '29':
+    Time: 1459469874012
+    Exp: 446685
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9912517
+        Amplifier: 1
+      '2':
+        Name: FAST_DIGGING
+        Duration: 155
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12283.125174653786
+      y: 48.5
+      z: 5944.322142361822
+      pitch: 37.50296
+      yaw: 271.46503
+    Items:
+      '0':
+        type: BOW
+        damage: 108
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+          repair-cost: 15
+      '1':
+        type: DIAMOND_SWORD
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 141
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 455
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: DIAMOND_SPADE
+        damage: 272
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '5':
+        type: GRILLED_PORK
+        amount: 57
+      '6':
+        type: LOG
+        amount: 64
+      '7':
+        type: LOG
+        amount: 60
+      '8':
+        type: DIAMOND_AXE
+        damage: 154
+      '9':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '10':
+        type: SHEARS
+        damage: 27
+      '11':
+        type: LOG
+        amount: 33
+      '12':
+        type: ARROW
+        amount: 17
+      '13':
+        type: LOG
+        amount: 64
+      '16':
+        type: WOOL
+        damage: 2
+        amount: 46
+      '17':
+        type: LADDER
+        amount: 39
+      '18':
+        type: WOOL
+        damage: 7
+        amount: 52
+      '19':
+        type: WOOD
+        amount: 2
+      '20':
+        type: WOOL
+        damage: 15
+        amount: 39
+      '21':
+        type: SIGN
+        amount: 2
+      '22':
+        type: DIRT
+        amount: 46
+      '23':
+        type: STICK
+        amount: 3
+      '27':
+        type: EGG
+      '30':
+        type: WOOL
+        damage: 10
+        amount: 54
+      '31':
+        type: WOOL
+        damage: 13
+        amount: 42
+      '32':
+        type: WOOL
+        damage: 8
+        amount: 61
+      '34':
+        type: WOOD
+        damage: 1
+        amount: 19
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 111
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '30':
+    Time: 1459659263568
+    Exp: 446685
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9912517
+        Amplifier: 1
+      '2':
+        Name: FAST_DIGGING
+        Duration: 155
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12283.125174653786
+      y: 48.5
+      z: 5944.322142361822
+      pitch: 37.50296
+      yaw: 271.46503
+    Items:
+      '0':
+        type: BOW
+        damage: 108
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+          repair-cost: 15
+      '1':
+        type: DIAMOND_SWORD
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 141
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 455
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: DIAMOND_SPADE
+        damage: 272
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '5':
+        type: GRILLED_PORK
+        amount: 57
+      '6':
+        type: LOG
+        amount: 64
+      '7':
+        type: LOG
+        amount: 60
+      '8':
+        type: DIAMOND_AXE
+        damage: 154
+      '9':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '10':
+        type: SHEARS
+        damage: 27
+      '11':
+        type: LOG
+        amount: 33
+      '12':
+        type: ARROW
+        amount: 17
+      '13':
+        type: LOG
+        amount: 64
+      '16':
+        type: WOOL
+        damage: 2
+        amount: 46
+      '17':
+        type: LADDER
+        amount: 39
+      '18':
+        type: WOOL
+        damage: 7
+        amount: 52
+      '19':
+        type: WOOD
+        amount: 2
+      '20':
+        type: WOOL
+        damage: 15
+        amount: 39
+      '21':
+        type: SIGN
+        amount: 2
+      '22':
+        type: DIRT
+        amount: 46
+      '23':
+        type: STICK
+        amount: 3
+      '27':
+        type: EGG
+      '30':
+        type: WOOL
+        damage: 10
+        amount: 54
+      '31':
+        type: WOOL
+        damage: 13
+        amount: 42
+      '32':
+        type: WOOL
+        damage: 8
+        amount: 61
+      '34':
+        type: WOOD
+        damage: 1
+        amount: 19
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 111
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '31':
+    Time: 1459766737644
+    Exp: 446685
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9912517
+        Amplifier: 1
+      '2':
+        Name: FAST_DIGGING
+        Duration: 155
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12283.125174653786
+      y: 48.5
+      z: 5944.322142361822
+      pitch: 37.50296
+      yaw: 271.46503
+    Items:
+      '0':
+        type: BOW
+        damage: 108
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+          repair-cost: 15
+      '1':
+        type: DIAMOND_SWORD
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 141
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 455
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: DIAMOND_SPADE
+        damage: 272
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '5':
+        type: GRILLED_PORK
+        amount: 57
+      '6':
+        type: LOG
+        amount: 64
+      '7':
+        type: LOG
+        amount: 60
+      '8':
+        type: DIAMOND_AXE
+        damage: 154
+      '9':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '10':
+        type: SHEARS
+        damage: 27
+      '11':
+        type: LOG
+        amount: 33
+      '12':
+        type: ARROW
+        amount: 17
+      '13':
+        type: LOG
+        amount: 64
+      '16':
+        type: WOOL
+        damage: 2
+        amount: 46
+      '17':
+        type: LADDER
+        amount: 39
+      '18':
+        type: WOOL
+        damage: 7
+        amount: 52
+      '19':
+        type: WOOD
+        amount: 2
+      '20':
+        type: WOOL
+        damage: 15
+        amount: 39
+      '21':
+        type: SIGN
+        amount: 2
+      '22':
+        type: DIRT
+        amount: 46
+      '23':
+        type: STICK
+        amount: 3
+      '27':
+        type: EGG
+      '30':
+        type: WOOL
+        damage: 10
+        amount: 54
+      '31':
+        type: WOOL
+        damage: 13
+        amount: 42
+      '32':
+        type: WOOL
+        damage: 8
+        amount: 61
+      '34':
+        type: WOOD
+        damage: 1
+        amount: 19
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 111
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '32':
+    Time: 1459847488880
+    Exp: 446685
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9912517
+        Amplifier: 1
+      '2':
+        Name: FAST_DIGGING
+        Duration: 155
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12283.125174653786
+      y: 48.5
+      z: 5944.322142361822
+      pitch: 37.50296
+      yaw: 271.46503
+    Items:
+      '0':
+        type: BOW
+        damage: 108
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+          repair-cost: 15
+      '1':
+        type: DIAMOND_SWORD
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 141
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 455
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: DIAMOND_SPADE
+        damage: 272
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '5':
+        type: GRILLED_PORK
+        amount: 57
+      '6':
+        type: LOG
+        amount: 64
+      '7':
+        type: LOG
+        amount: 60
+      '8':
+        type: DIAMOND_AXE
+        damage: 154
+      '9':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '10':
+        type: SHEARS
+        damage: 27
+      '11':
+        type: LOG
+        amount: 33
+      '12':
+        type: ARROW
+        amount: 17
+      '13':
+        type: LOG
+        amount: 64
+      '16':
+        type: WOOL
+        damage: 2
+        amount: 46
+      '17':
+        type: LADDER
+        amount: 39
+      '18':
+        type: WOOL
+        damage: 7
+        amount: 52
+      '19':
+        type: WOOD
+        amount: 2
+      '20':
+        type: WOOL
+        damage: 15
+        amount: 39
+      '21':
+        type: SIGN
+        amount: 2
+      '22':
+        type: DIRT
+        amount: 46
+      '23':
+        type: STICK
+        amount: 3
+      '27':
+        type: EGG
+      '30':
+        type: WOOL
+        damage: 10
+        amount: 54
+      '31':
+        type: WOOL
+        damage: 13
+        amount: 42
+      '32':
+        type: WOOL
+        damage: 8
+        amount: 61
+      '34':
+        type: WOOD
+        damage: 1
+        amount: 19
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 111
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '33':
+    Time: 1460146824230
+    Exp: 446685
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9912517
+        Amplifier: 1
+      '2':
+        Name: FAST_DIGGING
+        Duration: 155
+        Amplifier: 0
+    Location:
+      world: world
+      x: -12283.125174653786
+      y: 48.5
+      z: 5944.322142361822
+      pitch: 37.50296
+      yaw: 271.46503
+    Items:
+      '0':
+        type: BOW
+        damage: 108
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+          repair-cost: 15
+      '1':
+        type: DIAMOND_SWORD
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 141
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 455
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: DIAMOND_SPADE
+        damage: 272
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Unbr 10, Fort 10, Eff 10
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 1
+      '5':
+        type: GRILLED_PORK
+        amount: 57
+      '6':
+        type: LOG
+        amount: 64
+      '7':
+        type: LOG
+        amount: 60
+      '8':
+        type: DIAMOND_AXE
+        damage: 154
+      '9':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '10':
+        type: SHEARS
+        damage: 27
+      '11':
+        type: LOG
+        amount: 33
+      '12':
+        type: ARROW
+        amount: 17
+      '13':
+        type: LOG
+        amount: 64
+      '16':
+        type: WOOL
+        damage: 2
+        amount: 46
+      '17':
+        type: LADDER
+        amount: 39
+      '18':
+        type: WOOL
+        damage: 7
+        amount: 52
+      '19':
+        type: WOOD
+        amount: 2
+      '20':
+        type: WOOL
+        damage: 15
+        amount: 39
+      '21':
+        type: SIGN
+        amount: 2
+      '22':
+        type: DIRT
+        amount: 46
+      '23':
+        type: STICK
+        amount: 3
+      '27':
+        type: EGG
+      '30':
+        type: WOOL
+        damage: 10
+        amount: 54
+      '31':
+        type: WOOL
+        damage: 13
+        amount: 42
+      '32':
+        type: WOOL
+        damage: 8
+        amount: 61
+      '34':
+        type: WOOD
+        damage: 1
+        amount: 19
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 111
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '34':
+    Time: 1460883171422
+    Exp: 451194
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.2000008
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9856973
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476827.32053802686
+      y: 117.0
+      z: 443218.337374328
+      pitch: 51.08577
+      yaw: 340.62814
+    Items:
+      '0':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '1':
+        type: DIAMOND_SWORD
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 51
+      '3':
+        type: SHEARS
+        damage: 8
+      '4':
+        type: WOOL
+        damage: 15
+        amount: 64
+      '5':
+        type: WOOL
+        damage: 15
+        amount: 64
+      '6':
+        type: WOOL
+        damage: 15
+        amount: 64
+      '7':
+        type: WOOL
+        damage: 15
+        amount: 7
+      '8':
+        type: WOOL
+        amount: 62
+      '9':
+        type: WOOL
+        amount: 23
+      '10':
+        type: IRON_INGOT
+      '28':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '34':
+        type: SHEARS
+      '35':
+        type: SHEARS
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+  '35':
+    Time: 1462120695915
+    Exp: 451194
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.2000008
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9856973
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476827.32053802686
+      y: 117.0
+      z: 443218.337374328
+      pitch: 51.08577
+      yaw: 340.62814
+    Items:
+      '0':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '1':
+        type: DIAMOND_SWORD
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 51
+      '3':
+        type: SHEARS
+        damage: 8
+      '4':
+        type: WOOL
+        damage: 15
+        amount: 64
+      '5':
+        type: WOOL
+        damage: 15
+        amount: 64
+      '6':
+        type: WOOL
+        damage: 15
+        amount: 64
+      '7':
+        type: WOOL
+        damage: 15
+        amount: 7
+      '8':
+        type: WOOL
+        amount: 62
+      '9':
+        type: WOOL
+        amount: 23
+      '10':
+        type: IRON_INGOT
+      '28':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '34':
+        type: SHEARS
+      '35':
+        type: SHEARS
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+  '36':
+    Time: 1462483219784
+    Exp: 451194
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.2000008
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9856973
+        Amplifier: 1
+    Location:
+      world: world
+      x: 476827.32053802686
+      y: 117.0
+      z: 443218.337374328
+      pitch: 51.08577
+      yaw: 340.62814
+    Items:
+      '0':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '1':
+        type: DIAMOND_SWORD
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 51
+      '3':
+        type: SHEARS
+        damage: 8
+      '4':
+        type: WOOL
+        damage: 15
+        amount: 64
+      '5':
+        type: WOOL
+        damage: 15
+        amount: 64
+      '6':
+        type: WOOL
+        damage: 15
+        amount: 64
+      '7':
+        type: WOOL
+        damage: 15
+        amount: 7
+      '8':
+        type: WOOL
+        amount: 62
+      '9':
+        type: WOOL
+        amount: 23
+      '10':
+        type: IRON_INGOT
+      '28':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '34':
+        type: SHEARS
+      '35':
+        type: SHEARS
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: elLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1

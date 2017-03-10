@@ -1,0 +1,49 @@
+lastAccountName: ThatguyNerd
+timestamps:
+  login: 1469130363902
+  lastteleport: 1469131774090
+  logout: 1469131980469
+  kits:
+    citizen: 1468895751912
+ipAddress: 73.137.211.189
+geolocation: United States
+lastlocation:
+  world: world
+  x: 2776.011263233581
+  y: 69.9375
+  z: -3105.4335540108996
+  yaw: -330.18234
+  pitch: 14.700028
+logoutlocation:
+  world: world
+  x: 2426.7872015207026
+  y: 51.0
+  z: -3493.321886255718
+  yaw: -246.20251
+  pitch: 24.299679
+money: '2500'
+afk: false
+homes:
+  grinder:
+    world: world
+    x: 2426.576016737697
+    y: 50.0
+    z: -3494.699999988079
+    yaw: -271.2516
+    pitch: 42.89992
+  town:
+    world: world
+    x: 2773.300000011921
+    y: 70.0
+    z: -3088.793677723857
+    yaw: -114.03457
+    pitch: 36.07721
+mail:
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'

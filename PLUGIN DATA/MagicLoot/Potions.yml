@@ -1,0 +1,54 @@
+SPEED:
+  max-level: 5
+SLOW:
+  max-level: 5
+FAST_DIGGING:
+  max-level: 5
+SLOW_DIGGING:
+  max-level: 5
+INCREASE_DAMAGE:
+  max-level: 5
+HEAL:
+  max-level: 5
+HARM:
+  max-level: 5
+JUMP:
+  max-level: 5
+CONFUSION:
+  max-level: 5
+REGENERATION:
+  max-level: 5
+DAMAGE_RESISTANCE:
+  max-level: 5
+FIRE_RESISTANCE:
+  max-level: 5
+WATER_BREATHING:
+  max-level: 5
+INVISIBILITY:
+  max-level: 5
+BLINDNESS:
+  max-level: 5
+NIGHT_VISION:
+  max-level: 5
+HUNGER:
+  max-level: 5
+WEAKNESS:
+  max-level: 5
+POISON:
+  max-level: 5
+WITHER:
+  max-level: 5
+HEALTH_BOOST:
+  max-level: 5
+ABSORPTION:
+  max-level: 5
+SATURATION:
+  max-level: 5
+GLOWING:
+  max-level: 5
+LEVITATION:
+  max-level: 5
+LUCK:
+  max-level: 5
+UNLUCK:
+  max-level: 5

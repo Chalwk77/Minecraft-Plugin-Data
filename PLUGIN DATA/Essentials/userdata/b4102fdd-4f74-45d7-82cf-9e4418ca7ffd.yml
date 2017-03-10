@@ -1,0 +1,32 @@
+lastAccountName: GlassAngel
+timestamps:
+  login: 1473574086685
+  lastteleport: 1473575245023
+  logout: 1473576189170
+ipAddress: 27.33.101.94
+geolocation: Perth, Western Australia, Australia
+lastlocation:
+  world: world
+  x: 3955.490803161702
+  y: 81.87039192648382
+  z: 3607.6435516938777
+  yaw: -246.38077
+  pitch: 20.136738
+logoutlocation:
+  world: world
+  x: -1364.8547391284899
+  y: 76.0
+  z: 3339.7730260095595
+  yaw: 41.456543
+  pitch: 12.375713
+money: '2500'
+homes:
+  home:
+    world: world
+    x: -1392.447306573391
+    y: 65.0
+    z: 3310.35354227925
+    yaw: -176.81685
+    pitch: 24.149975
+afk: false
+godmode: true

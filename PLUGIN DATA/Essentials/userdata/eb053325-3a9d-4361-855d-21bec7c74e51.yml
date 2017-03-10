@@ -1,0 +1,102 @@
+lastAccountName: Raseori
+timestamps:
+  login: 1477357462183
+  logout: 1477357519798
+  lastteleport: 1477178623217
+  kits:
+    rules: 1468421024537
+    dtools: 1469258723390
+    food: 1469788892720
+  jail: 0
+ipAddress: 76.187.128.184
+geolocation: Dallas, Texas, United States
+lastlocation:
+  world: world
+  x: 11345.132518212387
+  y: 72.0
+  z: 9454.029073901798
+  yaw: -15.303693
+  pitch: 26.26787
+logoutlocation:
+  world: world
+  x: -2037.9328357743318
+  y: 80.0
+  z: 5162.193843548888
+  yaw: -43.58185
+  pitch: 28.38497
+money: '2500'
+homes:
+  base:
+    world: world
+    x: -2046.4384491144174
+    y: 72.0
+    z: 5165.1886987517255
+    yaw: 87.14453
+    pitch: 56.82236
+  lava:
+    world: world
+    x: -2020.699999988079
+    y: 10.0
+    z: 5291.020756117039
+    yaw: 352.10452
+    pitch: 41.46236
+  chest:
+    world: world
+    x: -2031.1940223672236
+    y: 21.0
+    z: 5164.389608391562
+    yaw: -178.85211
+    pitch: 9.513619
+  np2:
+    world: world
+    x: -1991.6792023312817
+    y: 76.0
+    z: 5153.723909226297
+    yaw: 348.19003
+    pitch: 36.547165
+  d:
+    world: world
+    x: -1930.5736004667165
+    y: 11.0
+    z: 4808.677899144148
+    yaw: -175.15668
+    pitch: 5.827136
+  new:
+    world: world
+    x: 3135.053482438466
+    y: 82.0
+    z: -3424.762499988079
+    yaw: 320.73328
+    pitch: 17.283066
+  mob:
+    world: world
+    x: -2106.987500011921
+    y: 82.0
+    z: 5375.007934736057
+    yaw: -247.23022
+    pitch: 45.039444
+  sky:
+    world: world
+    x: -2028.9000500273035
+    y: 118.0
+    z: 5168.404092502044
+    yaw: -277.70312
+    pitch: 79.21859
+  farm:
+    world: world
+    x: 11342.5
+    y: 71.0
+    z: 9454.5
+    yaw: -99.59381
+    pitch: 11.52049
+afk: false
+jailed: false
+mail:
+- '§6[§rChalwk§6] §rNOTICE: Eltyra''s have been fixed!'
+- '§6[§rChalwk§6] §rIntroducing Property Market: Type /houses to view houses for rent/sale
+  !'
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'

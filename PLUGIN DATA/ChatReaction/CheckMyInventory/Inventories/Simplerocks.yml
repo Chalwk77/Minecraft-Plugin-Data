@@ -1,0 +1,1045 @@
+Inventories:
+  '1':
+    Time: 1459465459769
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 425.1937411560091
+      y: 88.0
+      z: -184.4701131441402
+      pitch: 3.4236948
+      yaw: 98.75904
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            1. Create an account§0
+            §0on Enjin.§0
+            §02. Now go to§0
+            §0jericraft.enjin.com§0,§0
+            §0click 'join website'§0
+            §0(top right corner) §0
+            §0now go to your profile§0
+            §0page and click 'add§0
+            §0character'. §0
+            §03. To verify your§0
+            §0minecraft character -§0
+            §0In Minecraft login to§0
+            §0mclogin.enjin.com§0 §0
+          - |
+            by using the Direct§0
+            §0Connect option. (Don't§0
+            §0use "Add Server"). §0
+            §0You will be kicked from§0
+            §0the server and§0
+            §0provided with a code. §0
+            §0* Enter this code on§0
+            §0the Add Character§0
+            §0window. §0
+            §0* Enter code provided§0
+            §0by server§0
+          generation: 0
+      '3':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '4':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '5':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '7':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '8':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '9':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+  '2':
+    Time: 1459469869049
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 425.1937411560091
+      y: 88.0
+      z: -184.4701131441402
+      pitch: 3.4236948
+      yaw: 98.75904
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            1. Create an account§0
+            §0on Enjin.§0
+            §02. Now go to§0
+            §0jericraft.enjin.com§0,§0
+            §0click 'join website'§0
+            §0(top right corner) §0
+            §0now go to your profile§0
+            §0page and click 'add§0
+            §0character'. §0
+            §03. To verify your§0
+            §0minecraft character -§0
+            §0In Minecraft login to§0
+            §0mclogin.enjin.com§0 §0
+          - |
+            by using the Direct§0
+            §0Connect option. (Don't§0
+            §0use "Add Server"). §0
+            §0You will be kicked from§0
+            §0the server and§0
+            §0provided with a code. §0
+            §0* Enter this code on§0
+            §0the Add Character§0
+            §0window. §0
+            §0* Enter code provided§0
+            §0by server§0
+          generation: 0
+      '3':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '4':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '5':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '7':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '8':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '9':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+  '3':
+    Time: 1459659257888
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 425.1937411560091
+      y: 88.0
+      z: -184.4701131441402
+      pitch: 3.4236948
+      yaw: 98.75904
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            1. Create an account§0
+            §0on Enjin.§0
+            §02. Now go to§0
+            §0jericraft.enjin.com§0,§0
+            §0click 'join website'§0
+            §0(top right corner) §0
+            §0now go to your profile§0
+            §0page and click 'add§0
+            §0character'. §0
+            §03. To verify your§0
+            §0minecraft character -§0
+            §0In Minecraft login to§0
+            §0mclogin.enjin.com§0 §0
+          - |
+            by using the Direct§0
+            §0Connect option. (Don't§0
+            §0use "Add Server"). §0
+            §0You will be kicked from§0
+            §0the server and§0
+            §0provided with a code. §0
+            §0* Enter this code on§0
+            §0the Add Character§0
+            §0window. §0
+            §0* Enter code provided§0
+            §0by server§0
+          generation: 0
+      '3':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '4':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '5':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '7':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '8':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '9':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+  '4':
+    Time: 1459766730826
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 425.1937411560091
+      y: 88.0
+      z: -184.4701131441402
+      pitch: 3.4236948
+      yaw: 98.75904
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            1. Create an account§0
+            §0on Enjin.§0
+            §02. Now go to§0
+            §0jericraft.enjin.com§0,§0
+            §0click 'join website'§0
+            §0(top right corner) §0
+            §0now go to your profile§0
+            §0page and click 'add§0
+            §0character'. §0
+            §03. To verify your§0
+            §0minecraft character -§0
+            §0In Minecraft login to§0
+            §0mclogin.enjin.com§0 §0
+          - |
+            by using the Direct§0
+            §0Connect option. (Don't§0
+            §0use "Add Server"). §0
+            §0You will be kicked from§0
+            §0the server and§0
+            §0provided with a code. §0
+            §0* Enter this code on§0
+            §0the Add Character§0
+            §0window. §0
+            §0* Enter code provided§0
+            §0by server§0
+          generation: 0
+      '3':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '4':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '5':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '7':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '8':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '9':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+  '5':
+    Time: 1459847482512
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 425.1937411560091
+      y: 88.0
+      z: -184.4701131441402
+      pitch: 3.4236948
+      yaw: 98.75904
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            1. Create an account§0
+            §0on Enjin.§0
+            §02. Now go to§0
+            §0jericraft.enjin.com§0,§0
+            §0click 'join website'§0
+            §0(top right corner) §0
+            §0now go to your profile§0
+            §0page and click 'add§0
+            §0character'. §0
+            §03. To verify your§0
+            §0minecraft character -§0
+            §0In Minecraft login to§0
+            §0mclogin.enjin.com§0 §0
+          - |
+            by using the Direct§0
+            §0Connect option. (Don't§0
+            §0use "Add Server"). §0
+            §0You will be kicked from§0
+            §0the server and§0
+            §0provided with a code. §0
+            §0* Enter this code on§0
+            §0the Add Character§0
+            §0window. §0
+            §0* Enter code provided§0
+            §0by server§0
+          generation: 0
+      '3':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '4':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '5':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '7':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '8':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '9':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+  '6':
+    Time: 1460146819190
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 425.1937411560091
+      y: 88.0
+      z: -184.4701131441402
+      pitch: 3.4236948
+      yaw: 98.75904
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            1. Create an account§0
+            §0on Enjin.§0
+            §02. Now go to§0
+            §0jericraft.enjin.com§0,§0
+            §0click 'join website'§0
+            §0(top right corner) §0
+            §0now go to your profile§0
+            §0page and click 'add§0
+            §0character'. §0
+            §03. To verify your§0
+            §0minecraft character -§0
+            §0In Minecraft login to§0
+            §0mclogin.enjin.com§0 §0
+          - |
+            by using the Direct§0
+            §0Connect option. (Don't§0
+            §0use "Add Server"). §0
+            §0You will be kicked from§0
+            §0the server and§0
+            §0provided with a code. §0
+            §0* Enter this code on§0
+            §0the Add Character§0
+            §0window. §0
+            §0* Enter code provided§0
+            §0by server§0
+          generation: 0
+      '3':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '4':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '5':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '7':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '8':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '9':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+  '7':
+    Time: 1460883165553
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 425.1937411560091
+      y: 88.0
+      z: -184.4701131441402
+      pitch: 3.4236948
+      yaw: 98.75904
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            1. Create an account§0
+            §0on Enjin.§0
+            §02. Now go to§0
+            §0jericraft.enjin.com§0,§0
+            §0click 'join website'§0
+            §0(top right corner) §0
+            §0now go to your profile§0
+            §0page and click 'add§0
+            §0character'. §0
+            §03. To verify your§0
+            §0minecraft character -§0
+            §0In Minecraft login to§0
+            §0mclogin.enjin.com§0 §0
+          - |
+            by using the Direct§0
+            §0Connect option. (Don't§0
+            §0use "Add Server"). §0
+            §0You will be kicked from§0
+            §0the server and§0
+            §0provided with a code. §0
+            §0* Enter this code on§0
+            §0the Add Character§0
+            §0window. §0
+            §0* Enter code provided§0
+            §0by server§0
+          generation: 0
+      '3':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '4':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '5':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '7':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '8':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '9':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+  '8':
+    Time: 1462120690295
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 425.1937411560091
+      y: 88.0
+      z: -184.4701131441402
+      pitch: 3.4236948
+      yaw: 98.75904
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            1. Create an account§0
+            §0on Enjin.§0
+            §02. Now go to§0
+            §0jericraft.enjin.com§0,§0
+            §0click 'join website'§0
+            §0(top right corner) §0
+            §0now go to your profile§0
+            §0page and click 'add§0
+            §0character'. §0
+            §03. To verify your§0
+            §0minecraft character -§0
+            §0In Minecraft login to§0
+            §0mclogin.enjin.com§0 §0
+          - |
+            by using the Direct§0
+            §0Connect option. (Don't§0
+            §0use "Add Server"). §0
+            §0You will be kicked from§0
+            §0the server and§0
+            §0provided with a code. §0
+            §0* Enter this code on§0
+            §0the Add Character§0
+            §0window. §0
+            §0* Enter code provided§0
+            §0by server§0
+          generation: 0
+      '3':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '4':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '5':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '7':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '8':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '9':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+  '9':
+    Time: 1462483213116
+    Exp: 0
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 425.1937411560091
+      y: 88.0
+      z: -184.4701131441402
+      pitch: 3.4236948
+      yaw: 98.75904
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+      '1':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            1. Create an account§0
+            §0on Enjin.§0
+            §02. Now go to§0
+            §0jericraft.enjin.com§0,§0
+            §0click 'join website'§0
+            §0(top right corner) §0
+            §0now go to your profile§0
+            §0page and click 'add§0
+            §0character'. §0
+            §03. To verify your§0
+            §0minecraft character -§0
+            §0In Minecraft login to§0
+            §0mclogin.enjin.com§0 §0
+          - |
+            by using the Direct§0
+            §0Connect option. (Don't§0
+            §0use "Add Server"). §0
+            §0You will be kicked from§0
+            §0the server and§0
+            §0provided with a code. §0
+            §0* Enter this code on§0
+            §0the Add Character§0
+            §0window. §0
+            §0* Enter code provided§0
+            §0by server§0
+          generation: 0
+      '3':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '4':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '5':
+        type: COOKED_BEEF
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '7':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '8':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '9':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe

@@ -1,0 +1,101 @@
+PlayerLastName: MuddChi
+EnderChestSize: 18
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 225
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aDiamond Shovel
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    damage: 37
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aDiamond Sword
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_BEEF
+    amount: 9
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aSTEAK
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: PORK
+    amount: 3
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: EXP_BOTTLE
+    amount: 10
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 10
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 5
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: WHEAT
+    amount: 64
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: WHEAT
+    amount: 64
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: SEEDS
+    amount: 64
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: SEEDS
+    amount: 64
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: SEEDS
+    amount: 60
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: WHEAT
+    amount: 64
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: WHEAT
+    amount: 13
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §4Dwellers §6Mining §4Cap
+      lore:
+      - §a+3 Health
+      - §3+1% Dodge
+      - §6+2% Critical Chance
+      - §c+5 Critical Damage
+      - §6This amazing cap gives the wearer unwavering §4Power
+      - §cDwellers Set
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        PROTECTION_FIRE: 4
+        PROTECTION_EXPLOSIONS: 4
+        PROTECTION_PROJECTILE: 4
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    damage: 136
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aDiamond Axe
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: TORCH

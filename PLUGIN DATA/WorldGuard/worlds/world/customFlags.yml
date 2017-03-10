@@ -1,0 +1,4 @@
+regions:
+-   flags:
+        chat-prefix: §f[§cSafe Zone§f]
+    region: chat

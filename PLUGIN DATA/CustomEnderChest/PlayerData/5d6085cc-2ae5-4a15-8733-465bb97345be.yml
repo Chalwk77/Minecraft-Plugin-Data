@@ -1,0 +1,157 @@
+PlayerLastName: TemmieStar
+EnderChestSize: 27
+EnderChestInventory:
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 5
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aEnchanted Golden Apple
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    amount: 64
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 20
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §6Pinacolada
+      lore:
+      - ''
+      - §7§oRestores §b§o7.0 §7§oHunger
+      internal: H4sIAAAAAAAAAE2MzXKCMBhFv3baGWT6GN0yE0ygsrRiNY6JVf6UHZJYwEQdhE7hqfqIZdnFXdy551wTwISX4Nwq9VlfT6WSBjxSAa+5I0h2GnsWzmxpEeIJa4KRa2UYY3siHEIm0gRzkG6ybkp5H4HRyJ+mreXdBIAHA57jTLUSfmW3Qum+QGK/UnlH3aGHAVIbWt3e6CXujjPqUj3sy6m77rx/rNNkiaMOeFWkl2171DFa452Sy52d6+ib6TlJqw/N+3e18SPCqmjMfHFmVaHSBVcsmXeHZIt4OB2nYd4zTdEhjHruxwVPhujB8UXFF7RnIR8+vsrT3vYADHjimZYwmgWzay3X5RHgDyo8JQ4qAQAA
+      skull-owner: CSCoreLib
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rTiramisu with Strawberries
+      lore:
+      - ''
+      - §7§oRestores §b§o9.0 §7§oHunger
+      internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JDDfLwoUVU4c4WLyAzA7GITLOqEFoxOfqA5Zll+c73zEBTHjbnDqlvptLVSthwDM5wDsODryw3bHFx3ZpuUHlWEHJufXBS9uvClxgjEwwh+gqmrYWtxEYrbi3XSNuJgA8GfCaFqoT8Cv6CLH9ER32keI98QfebpBaEXkdk3PalzPiEz34xdRf9sG/r9cWmadyJzqyc9KVOkVLZ63EYo253v3Qbe7R8HRnIXFX4bSnmjq5/FS5ZCdq7x5MJmhgzbK5w2QkaZh7w+bFj8Sj2fzOvuJjLndubKc1zRIc6wSRMw6qZDIBMOAlLrSA0WwzuzRiWZcAf3nRanIuAQAA
+      skull-owner: CSCoreLib
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BLOCK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §rGold Block §7(24-Carat)
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 52
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:regeneration
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Boots
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        DURABILITY: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:swiftness
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:night_vision
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:healing
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strength
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:fire_resistance
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §4Dwellers §6Mining §4Cap
+      lore:
+      - §a+3 Health
+      - §3+1% Dodge
+      - §6+2% Critical Chance
+      - §c+5 Critical Damage
+      - §6This amazing cap gives the wearer unwavering §4Power
+      - §cDwellers Set
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        PROTECTION_FIRE: 4
+        PROTECTION_EXPLOSIONS: 4
+        PROTECTION_PROJECTILE: 4
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nBatvision I
+      lore:
+      - §lRune of Batvision I
+      - §a60% Success Rate and §c40% Destroy Rate.
+      - §6Helmet Enchant
+      - §7Place the Rune on a helmet to enchant.
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nSpeed III
+      lore:
+      - §lRune of Speed III
+      - §a5% Success Rate and §c95% Destroy Rate.
+      - §6Boot Enchant
+      - §7Place the Rune on a boot to enchant.

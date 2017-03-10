@@ -1,0 +1,36 @@
+lastlocation:
+  world: world
+  x: 479.37374589062006
+  y: 89.0
+  z: -184.4127733631825
+  yaw: 10.149933
+  pitch: -1.5000236
+geolocation: Rosewood, Queensland, Australia
+lastAccountName: Kickass_Rainbow
+timestamps:
+  login: 1476487169308
+  logout: 1476489860430
+ipAddress: 120.151.246.41
+money: '27717.9940000000000006'
+homes:
+  home:
+    world: world
+    x: -9230.778030739742
+    y: 66.0
+    z: 2643.8323400684267
+    yaw: -34.55182
+    pitch: 9.000169
+  flower:
+    world: world
+    x: -9221.425161579891
+    y: 64.0
+    z: 2653.2534746753777
+    yaw: -50.151825
+    pitch: 12.450169
+logoutlocation:
+  world: world
+  x: -9361.022464704402
+  y: 62.07326432466506
+  z: 2887.089118388093
+  yaw: -58.73122
+  pitch: 66.300705

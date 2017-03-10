@@ -1,0 +1,37 @@
+lastAccountName: ScarletLotus
+timestamps:
+  login: 1471612535699
+  lastteleport: 1471615519959
+  logout: 1471615670591
+ipAddress: 14.202.118.237
+geolocation: Albion, Victoria, Australia
+lastlocation:
+  world: world
+  x: 21608.30000001192
+  y: 70.0
+  z: 8232.300000011921
+  yaw: -220.7207
+  pitch: 24.869926
+money: '2788.3569999999999995'
+logoutlocation:
+  world: world
+  x: 27451.30000001192
+  y: 63.0
+  z: -22302.270259801408
+  yaw: -219.04926
+  pitch: 3.0173078
+homes:
+  home:
+    world: world
+    x: 3863.7872364367513
+    y: 22.0
+    z: -2648.210492146214
+    yaw: -102.511475
+    pitch: 19.687593
+mail:
+- §6[§rChalwk§6] §rAll slimefun 'exotic fruit/vegetables' and luckyblocks are currently broken.
+- §6[§rChalwk§6] §rExotic Fruits etc will no longer generate in the wild. Nor will Lucky Blocks.
+- §6[§rChalwk§6] §rHowever, we are still selling these custom items @ our designated server shops...
+- §6[§rChalwk§6] §r...i.e, /warp sfdrinks and so on. These items can be sold using chest shops also.
+- '§6[§rChalwk§6] §rMAP RESET INFO: http://goo.gl/vdMUwE'
+afk: false

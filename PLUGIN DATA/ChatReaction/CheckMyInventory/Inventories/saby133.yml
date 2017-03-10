@@ -1,0 +1,1471 @@
+Inventories:
+  '25':
+    Time: 1458455351036
+    Exp: 295
+    Health: 13.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9985739
+        Amplifier: 1
+    Location:
+      world: world
+      x: 638.6999999880791
+      y: 63.0
+      z: 290.30000001192093
+      pitch: 6.329635
+      yaw: 252.91118
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 651
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 795
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '3':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: TORCH
+        amount: 15
+      '5':
+        type: COOKED_BEEF
+        amount: 25
+      '6':
+        type: BONE
+        amount: 7
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: SPRUCE_FENCE
+        amount: 9
+      '9':
+        type: BRICK
+        amount: 10
+      '10':
+        type: PRISMARINE
+        damage: 1
+        amount: 3
+      '11':
+        type: BRICK_STAIRS
+        amount: 2
+      '12':
+        type: LEATHER
+        amount: 6
+      '13':
+        type: FEATHER
+        amount: 6
+      '14':
+        type: STRING
+        amount: 8
+      '15':
+        type: SUGAR_CANE
+        amount: 2
+      '16':
+        type: STICK
+        amount: 4
+      '17':
+        type: ARROW
+      '18':
+        type: SPIDER_EYE
+        amount: 2
+      '19':
+        type: INK_SACK
+        damage: 12
+        amount: 3
+      '20':
+        type: SEEDS
+      '21':
+        type: INK_SACK
+        damage: 11
+      '22':
+        type: SLIME_BLOCK
+        amount: 3
+      '23':
+        type: ROTTEN_FLESH
+      '26':
+        type: SLIME_BALL
+        amount: 9
+      '29':
+        type: INK_SACK
+        damage: 9
+        amount: 2
+      '32':
+        type: DIAMOND_AXE
+        damage: 355
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+      '33':
+        type: PRISMARINE
+        damage: 2
+        amount: 12
+      '34':
+        type: COOKED_MUTTON
+        amount: 59
+      '35':
+        type: WOOD
+        damage: 1
+        amount: 11
+  '26':
+    Time: 1459465460142
+    Exp: 295
+    Health: 13.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9985739
+        Amplifier: 1
+    Location:
+      world: world
+      x: 638.6999999880791
+      y: 63.0
+      z: 290.30000001192093
+      pitch: 6.329635
+      yaw: 252.91118
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 651
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 795
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '3':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: TORCH
+        amount: 15
+      '5':
+        type: COOKED_BEEF
+        amount: 25
+      '6':
+        type: BONE
+        amount: 7
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: SPRUCE_FENCE
+        amount: 9
+      '9':
+        type: BRICK
+        amount: 10
+      '10':
+        type: PRISMARINE
+        damage: 1
+        amount: 3
+      '11':
+        type: BRICK_STAIRS
+        amount: 2
+      '12':
+        type: LEATHER
+        amount: 6
+      '13':
+        type: FEATHER
+        amount: 6
+      '14':
+        type: STRING
+        amount: 8
+      '15':
+        type: SUGAR_CANE
+        amount: 2
+      '16':
+        type: STICK
+        amount: 4
+      '17':
+        type: ARROW
+      '18':
+        type: SPIDER_EYE
+        amount: 2
+      '19':
+        type: INK_SACK
+        damage: 12
+        amount: 3
+      '20':
+        type: SEEDS
+      '21':
+        type: INK_SACK
+        damage: 11
+      '22':
+        type: SLIME_BLOCK
+        amount: 3
+      '23':
+        type: ROTTEN_FLESH
+      '26':
+        type: SLIME_BALL
+        amount: 9
+      '29':
+        type: INK_SACK
+        damage: 9
+        amount: 2
+      '32':
+        type: DIAMOND_AXE
+        damage: 355
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+      '33':
+        type: PRISMARINE
+        damage: 2
+        amount: 12
+      '34':
+        type: COOKED_MUTTON
+        amount: 59
+      '35':
+        type: WOOD
+        damage: 1
+        amount: 11
+  '27':
+    Time: 1459469869332
+    Exp: 295
+    Health: 13.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9985739
+        Amplifier: 1
+    Location:
+      world: world
+      x: 638.6999999880791
+      y: 63.0
+      z: 290.30000001192093
+      pitch: 6.329635
+      yaw: 252.91118
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 651
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 795
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '3':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: TORCH
+        amount: 15
+      '5':
+        type: COOKED_BEEF
+        amount: 25
+      '6':
+        type: BONE
+        amount: 7
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: SPRUCE_FENCE
+        amount: 9
+      '9':
+        type: BRICK
+        amount: 10
+      '10':
+        type: PRISMARINE
+        damage: 1
+        amount: 3
+      '11':
+        type: BRICK_STAIRS
+        amount: 2
+      '12':
+        type: LEATHER
+        amount: 6
+      '13':
+        type: FEATHER
+        amount: 6
+      '14':
+        type: STRING
+        amount: 8
+      '15':
+        type: SUGAR_CANE
+        amount: 2
+      '16':
+        type: STICK
+        amount: 4
+      '17':
+        type: ARROW
+      '18':
+        type: SPIDER_EYE
+        amount: 2
+      '19':
+        type: INK_SACK
+        damage: 12
+        amount: 3
+      '20':
+        type: SEEDS
+      '21':
+        type: INK_SACK
+        damage: 11
+      '22':
+        type: SLIME_BLOCK
+        amount: 3
+      '23':
+        type: ROTTEN_FLESH
+      '26':
+        type: SLIME_BALL
+        amount: 9
+      '29':
+        type: INK_SACK
+        damage: 9
+        amount: 2
+      '32':
+        type: DIAMOND_AXE
+        damage: 355
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+      '33':
+        type: PRISMARINE
+        damage: 2
+        amount: 12
+      '34':
+        type: COOKED_MUTTON
+        amount: 59
+      '35':
+        type: WOOD
+        damage: 1
+        amount: 11
+  '28':
+    Time: 1459659258244
+    Exp: 295
+    Health: 13.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9985739
+        Amplifier: 1
+    Location:
+      world: world
+      x: 638.6999999880791
+      y: 63.0
+      z: 290.30000001192093
+      pitch: 6.329635
+      yaw: 252.91118
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 651
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 795
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '3':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: TORCH
+        amount: 15
+      '5':
+        type: COOKED_BEEF
+        amount: 25
+      '6':
+        type: BONE
+        amount: 7
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: SPRUCE_FENCE
+        amount: 9
+      '9':
+        type: BRICK
+        amount: 10
+      '10':
+        type: PRISMARINE
+        damage: 1
+        amount: 3
+      '11':
+        type: BRICK_STAIRS
+        amount: 2
+      '12':
+        type: LEATHER
+        amount: 6
+      '13':
+        type: FEATHER
+        amount: 6
+      '14':
+        type: STRING
+        amount: 8
+      '15':
+        type: SUGAR_CANE
+        amount: 2
+      '16':
+        type: STICK
+        amount: 4
+      '17':
+        type: ARROW
+      '18':
+        type: SPIDER_EYE
+        amount: 2
+      '19':
+        type: INK_SACK
+        damage: 12
+        amount: 3
+      '20':
+        type: SEEDS
+      '21':
+        type: INK_SACK
+        damage: 11
+      '22':
+        type: SLIME_BLOCK
+        amount: 3
+      '23':
+        type: ROTTEN_FLESH
+      '26':
+        type: SLIME_BALL
+        amount: 9
+      '29':
+        type: INK_SACK
+        damage: 9
+        amount: 2
+      '32':
+        type: DIAMOND_AXE
+        damage: 355
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+      '33':
+        type: PRISMARINE
+        damage: 2
+        amount: 12
+      '34':
+        type: COOKED_MUTTON
+        amount: 59
+      '35':
+        type: WOOD
+        damage: 1
+        amount: 11
+  '29':
+    Time: 1459766731403
+    Exp: 295
+    Health: 13.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9985739
+        Amplifier: 1
+    Location:
+      world: world
+      x: 638.6999999880791
+      y: 63.0
+      z: 290.30000001192093
+      pitch: 6.329635
+      yaw: 252.91118
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 651
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 795
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '3':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: TORCH
+        amount: 15
+      '5':
+        type: COOKED_BEEF
+        amount: 25
+      '6':
+        type: BONE
+        amount: 7
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: SPRUCE_FENCE
+        amount: 9
+      '9':
+        type: BRICK
+        amount: 10
+      '10':
+        type: PRISMARINE
+        damage: 1
+        amount: 3
+      '11':
+        type: BRICK_STAIRS
+        amount: 2
+      '12':
+        type: LEATHER
+        amount: 6
+      '13':
+        type: FEATHER
+        amount: 6
+      '14':
+        type: STRING
+        amount: 8
+      '15':
+        type: SUGAR_CANE
+        amount: 2
+      '16':
+        type: STICK
+        amount: 4
+      '17':
+        type: ARROW
+      '18':
+        type: SPIDER_EYE
+        amount: 2
+      '19':
+        type: INK_SACK
+        damage: 12
+        amount: 3
+      '20':
+        type: SEEDS
+      '21':
+        type: INK_SACK
+        damage: 11
+      '22':
+        type: SLIME_BLOCK
+        amount: 3
+      '23':
+        type: ROTTEN_FLESH
+      '26':
+        type: SLIME_BALL
+        amount: 9
+      '29':
+        type: INK_SACK
+        damage: 9
+        amount: 2
+      '32':
+        type: DIAMOND_AXE
+        damage: 355
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+      '33':
+        type: PRISMARINE
+        damage: 2
+        amount: 12
+      '34':
+        type: COOKED_MUTTON
+        amount: 59
+      '35':
+        type: WOOD
+        damage: 1
+        amount: 11
+  '30':
+    Time: 1459847482895
+    Exp: 295
+    Health: 13.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9985739
+        Amplifier: 1
+    Location:
+      world: world
+      x: 638.6999999880791
+      y: 63.0
+      z: 290.30000001192093
+      pitch: 6.329635
+      yaw: 252.91118
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 651
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 795
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '3':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: TORCH
+        amount: 15
+      '5':
+        type: COOKED_BEEF
+        amount: 25
+      '6':
+        type: BONE
+        amount: 7
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: SPRUCE_FENCE
+        amount: 9
+      '9':
+        type: BRICK
+        amount: 10
+      '10':
+        type: PRISMARINE
+        damage: 1
+        amount: 3
+      '11':
+        type: BRICK_STAIRS
+        amount: 2
+      '12':
+        type: LEATHER
+        amount: 6
+      '13':
+        type: FEATHER
+        amount: 6
+      '14':
+        type: STRING
+        amount: 8
+      '15':
+        type: SUGAR_CANE
+        amount: 2
+      '16':
+        type: STICK
+        amount: 4
+      '17':
+        type: ARROW
+      '18':
+        type: SPIDER_EYE
+        amount: 2
+      '19':
+        type: INK_SACK
+        damage: 12
+        amount: 3
+      '20':
+        type: SEEDS
+      '21':
+        type: INK_SACK
+        damage: 11
+      '22':
+        type: SLIME_BLOCK
+        amount: 3
+      '23':
+        type: ROTTEN_FLESH
+      '26':
+        type: SLIME_BALL
+        amount: 9
+      '29':
+        type: INK_SACK
+        damage: 9
+        amount: 2
+      '32':
+        type: DIAMOND_AXE
+        damage: 355
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+      '33':
+        type: PRISMARINE
+        damage: 2
+        amount: 12
+      '34':
+        type: COOKED_MUTTON
+        amount: 59
+      '35':
+        type: WOOD
+        damage: 1
+        amount: 11
+  '31':
+    Time: 1460146819504
+    Exp: 295
+    Health: 13.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9985739
+        Amplifier: 1
+    Location:
+      world: world
+      x: 638.6999999880791
+      y: 63.0
+      z: 290.30000001192093
+      pitch: 6.329635
+      yaw: 252.91118
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 651
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 795
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '3':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: TORCH
+        amount: 15
+      '5':
+        type: COOKED_BEEF
+        amount: 25
+      '6':
+        type: BONE
+        amount: 7
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: SPRUCE_FENCE
+        amount: 9
+      '9':
+        type: BRICK
+        amount: 10
+      '10':
+        type: PRISMARINE
+        damage: 1
+        amount: 3
+      '11':
+        type: BRICK_STAIRS
+        amount: 2
+      '12':
+        type: LEATHER
+        amount: 6
+      '13':
+        type: FEATHER
+        amount: 6
+      '14':
+        type: STRING
+        amount: 8
+      '15':
+        type: SUGAR_CANE
+        amount: 2
+      '16':
+        type: STICK
+        amount: 4
+      '17':
+        type: ARROW
+      '18':
+        type: SPIDER_EYE
+        amount: 2
+      '19':
+        type: INK_SACK
+        damage: 12
+        amount: 3
+      '20':
+        type: SEEDS
+      '21':
+        type: INK_SACK
+        damage: 11
+      '22':
+        type: SLIME_BLOCK
+        amount: 3
+      '23':
+        type: ROTTEN_FLESH
+      '26':
+        type: SLIME_BALL
+        amount: 9
+      '29':
+        type: INK_SACK
+        damage: 9
+        amount: 2
+      '32':
+        type: DIAMOND_AXE
+        damage: 355
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+      '33':
+        type: PRISMARINE
+        damage: 2
+        amount: 12
+      '34':
+        type: COOKED_MUTTON
+        amount: 59
+      '35':
+        type: WOOD
+        damage: 1
+        amount: 11
+  '32':
+    Time: 1460883165930
+    Exp: 295
+    Health: 13.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9985739
+        Amplifier: 1
+    Location:
+      world: world
+      x: 638.6999999880791
+      y: 63.0
+      z: 290.30000001192093
+      pitch: 6.329635
+      yaw: 252.91118
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 651
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 795
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '3':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: TORCH
+        amount: 15
+      '5':
+        type: COOKED_BEEF
+        amount: 25
+      '6':
+        type: BONE
+        amount: 7
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: SPRUCE_FENCE
+        amount: 9
+      '9':
+        type: BRICK
+        amount: 10
+      '10':
+        type: PRISMARINE
+        damage: 1
+        amount: 3
+      '11':
+        type: BRICK_STAIRS
+        amount: 2
+      '12':
+        type: LEATHER
+        amount: 6
+      '13':
+        type: FEATHER
+        amount: 6
+      '14':
+        type: STRING
+        amount: 8
+      '15':
+        type: SUGAR_CANE
+        amount: 2
+      '16':
+        type: STICK
+        amount: 4
+      '17':
+        type: ARROW
+      '18':
+        type: SPIDER_EYE
+        amount: 2
+      '19':
+        type: INK_SACK
+        damage: 12
+        amount: 3
+      '20':
+        type: SEEDS
+      '21':
+        type: INK_SACK
+        damage: 11
+      '22':
+        type: SLIME_BLOCK
+        amount: 3
+      '23':
+        type: ROTTEN_FLESH
+      '26':
+        type: SLIME_BALL
+        amount: 9
+      '29':
+        type: INK_SACK
+        damage: 9
+        amount: 2
+      '32':
+        type: DIAMOND_AXE
+        damage: 355
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+      '33':
+        type: PRISMARINE
+        damage: 2
+        amount: 12
+      '34':
+        type: COOKED_MUTTON
+        amount: 59
+      '35':
+        type: WOOD
+        damage: 1
+        amount: 11
+  '33':
+    Time: 1462120690540
+    Exp: 295
+    Health: 13.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9985739
+        Amplifier: 1
+    Location:
+      world: world
+      x: 638.6999999880791
+      y: 63.0
+      z: 290.30000001192093
+      pitch: 6.329635
+      yaw: 252.91118
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 651
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 795
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '3':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: TORCH
+        amount: 15
+      '5':
+        type: COOKED_BEEF
+        amount: 25
+      '6':
+        type: BONE
+        amount: 7
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: SPRUCE_FENCE
+        amount: 9
+      '9':
+        type: BRICK
+        amount: 10
+      '10':
+        type: PRISMARINE
+        damage: 1
+        amount: 3
+      '11':
+        type: BRICK_STAIRS
+        amount: 2
+      '12':
+        type: LEATHER
+        amount: 6
+      '13':
+        type: FEATHER
+        amount: 6
+      '14':
+        type: STRING
+        amount: 8
+      '15':
+        type: SUGAR_CANE
+        amount: 2
+      '16':
+        type: STICK
+        amount: 4
+      '17':
+        type: ARROW
+      '18':
+        type: SPIDER_EYE
+        amount: 2
+      '19':
+        type: INK_SACK
+        damage: 12
+        amount: 3
+      '20':
+        type: SEEDS
+      '21':
+        type: INK_SACK
+        damage: 11
+      '22':
+        type: SLIME_BLOCK
+        amount: 3
+      '23':
+        type: ROTTEN_FLESH
+      '26':
+        type: SLIME_BALL
+        amount: 9
+      '29':
+        type: INK_SACK
+        damage: 9
+        amount: 2
+      '32':
+        type: DIAMOND_AXE
+        damage: 355
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+      '33':
+        type: PRISMARINE
+        damage: 2
+        amount: 12
+      '34':
+        type: COOKED_MUTTON
+        amount: 59
+      '35':
+        type: WOOD
+        damage: 1
+        amount: 11
+  '34':
+    Time: 1462483213414
+    Exp: 295
+    Health: 13.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 6
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9985739
+        Amplifier: 1
+    Location:
+      world: world
+      x: 638.6999999880791
+      y: 63.0
+      z: 290.30000001192093
+      pitch: 6.329635
+      yaw: 252.91118
+    Items:
+      '0':
+        type: GOLD_SWORD
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_SPADE
+        damage: 651
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 795
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      '3':
+        type: GOLD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: TORCH
+        amount: 15
+      '5':
+        type: COOKED_BEEF
+        amount: 25
+      '6':
+        type: BONE
+        amount: 7
+      '7':
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        type: SPRUCE_FENCE
+        amount: 9
+      '9':
+        type: BRICK
+        amount: 10
+      '10':
+        type: PRISMARINE
+        damage: 1
+        amount: 3
+      '11':
+        type: BRICK_STAIRS
+        amount: 2
+      '12':
+        type: LEATHER
+        amount: 6
+      '13':
+        type: FEATHER
+        amount: 6
+      '14':
+        type: STRING
+        amount: 8
+      '15':
+        type: SUGAR_CANE
+        amount: 2
+      '16':
+        type: STICK
+        amount: 4
+      '17':
+        type: ARROW
+      '18':
+        type: SPIDER_EYE
+        amount: 2
+      '19':
+        type: INK_SACK
+        damage: 12
+        amount: 3
+      '20':
+        type: SEEDS
+      '21':
+        type: INK_SACK
+        damage: 11
+      '22':
+        type: SLIME_BLOCK
+        amount: 3
+      '23':
+        type: ROTTEN_FLESH
+      '26':
+        type: SLIME_BALL
+        amount: 9
+      '29':
+        type: INK_SACK
+        damage: 9
+        amount: 2
+      '32':
+        type: DIAMOND_AXE
+        damage: 355
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+      '33':
+        type: PRISMARINE
+        damage: 2
+        amount: 12
+      '34':
+        type: COOKED_MUTTON
+        amount: 59
+      '35':
+        type: WOOD
+        damage: 1
+        amount: 11

@@ -1,0 +1,21 @@
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+lastAccountName: jackbold
+timestamps:
+  login: 1470210925707
+  logout: 1470210967146
+ipAddress: 101.184.127.166
+geolocation: Australia
+logoutlocation:
+  world: world
+  x: 476.0960920494834
+  y: 89.0
+  z: -188.73107798433705
+  yaw: 19.862091
+  pitch: 6.348996
+money: '2500'

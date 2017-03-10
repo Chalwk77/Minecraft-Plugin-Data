@@ -1,0 +1,75 @@
+Inventories:
+  '1':
+    Time: 1481436456163
+    DeathReasson: Fall
+    Exp: 1471
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 33855
+        Amplifier: 1
+      '2':
+        Name: LEVITATION
+        Duration: 120
+        Amplifier: 1
+    Location:
+      world: world
+      x: -703999.3719419875
+      y: 81.0
+      z: 446002.00060656463
+      pitch: 61.923588
+      yaw: -160.22308
+    Items:
+      '4':
+        type: COOKED_BEEF
+        amount: 58
+      '8':
+        type: DIAMOND_SWORD
+        damage: 100
+      '36':
+        type: IRON_BOOTS
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rSilver Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      '37':
+        type: IRON_LEGGINGS
+        damage: 113
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7§kAnalize meh
+          lore:
+          - ''
+          - §7§oUnanalized
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 99
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sharp Absorption
+          lore:
+          - §9+ Levitation 2
+          enchants:
+            DIG_SPEED: 7
+            ARROW_DAMAGE: 7
+            DURABILITY: 2
+      '39':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSlime Head
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJZGGVg4dGGl3CQsVV3L3xs0ZkUYOg4HP1Acuxx8nM6AA6fGyqTqmf5nIoldTglRTwaWP3gIpMGg7CtmHjaWGkWZoaMyxNy55hF7mWDvo4XWXTlvI2Aa2Vfds18qYDwIsG77tUdRJ+5eCbYn80i72v8oHgkdnGVBE5XafkvBuyBcGkHv3qCweD+6912jRxFEf+UZzXXVbvzADFSq5iK6+3d8rEUXjkIWo6CG+LosRX9LR9CC+s+IlbUUJt+vQrzvwy9HKbs/zJGXeiJUEi+e7pct1HS+pQxgfB4ipKiEXOlntYz+cAGryFaS1hstgsLo0MygzgD3+n25kuAQAA
+          skull-owner: CSCoreLib

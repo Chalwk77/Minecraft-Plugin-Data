@@ -1,0 +1,46 @@
+lastAccountName: cyberpuff
+timestamps:
+  login: 1474872980333
+  lastteleport: 1474873630930
+  logout: 1474873957915
+ipAddress: 14.201.28.46
+geolocation: Caulfield South, Victoria, Australia
+lastlocation:
+  world: world
+  x: 476.2230884233569
+  y: 88.0
+  z: -221.9258279459712
+  yaw: -191.55745
+  pitch: -2.3554113
+money: '238554.5593999999999271'
+logoutlocation:
+  world: world
+  x: -2346.641761427172
+  y: 65.0
+  z: 4355.0661773503925
+  yaw: -6.9940996
+  pitch: -9.209545
+afk: false
+homes:
+  home:
+    world: world
+    x: -2310.3783496484057
+    y: 67.0
+    z: 4382.982569599341
+    yaw: 90.37521
+    pitch: 1.559895
+  island:
+    world: world
+    x: -4111.688103853177
+    y: 71.0
+    z: -21695.383308452616
+    yaw: -212.45233
+    pitch: 22.844309
+  nether:
+    world: world_nether
+    x: 524.3468963529923
+    y: 84.0
+    z: 126.05101801455285
+    yaw: 251.45935
+    pitch: 6.4552083
+godmode: false

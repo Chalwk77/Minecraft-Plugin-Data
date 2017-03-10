@@ -1,0 +1,901 @@
+Inventories:
+  '54':
+    Time: 1461729205211
+    Exp: 122
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -294782.60133776325
+      y: 58.0
+      z: 243046.17293455405
+      pitch: 10.650069
+      yaw: 40.528442
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 389
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Fatesealer
+          enchants:
+            DAMAGE_ALL: 2
+            KNOCKBACK: 2
+          repair-cost: 3
+      '1':
+        type: BOW
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Flaming Vengeance
+          enchants:
+            ARROW_DAMAGE: 4
+            ARROW_KNOCKBACK: 1
+            DURABILITY: 3
+            ARROW_FIRE: 1
+          repair-cost: 1
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 1004
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            LOOT_BONUS_BLOCKS: 1
+          repair-cost: 63
+      '8':
+        type: GRILLED_PORK
+        amount: 14
+      '9':
+        type: COOKED_BEEF
+        amount: 6
+      '17':
+        type: ARROW
+        amount: 51
+      '40':
+        type: SHIELD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: A Hylian Shield
+          internal: H4sIAAAAAAAAAHXNTQqAIBQE4CkTzaBDFe1bdAGT/kgU9G26fREtdNFy+GYYBSi0nfXmHBwddE16qyFHTbQEFxUALiG+DLZaz8B7b314qEBi5b4nVGVElFCTU/xbMTOnZwIMVafj8vZwA5dqWW66AAAA
+          blockMaterial: SHIELD
+  '55':
+    Time: 1461729324818
+    Exp: 56
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -294783.6999999881
+      y: 58.0
+      z: 243048.87922842323
+      pitch: -6.5999837
+      yaw: 331.231
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 401
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Fatesealer
+          enchants:
+            DAMAGE_ALL: 2
+            KNOCKBACK: 2
+          repair-cost: 3
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 1004
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            LOOT_BONUS_BLOCKS: 1
+          repair-cost: 63
+      '2':
+        type: BOW
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Flaming Vengeance
+          enchants:
+            ARROW_DAMAGE: 4
+            ARROW_KNOCKBACK: 1
+            DURABILITY: 3
+            ARROW_FIRE: 1
+          repair-cost: 1
+      '7':
+        type: COOKED_BEEF
+        amount: 6
+      '8':
+        type: GRILLED_PORK
+        amount: 14
+      '40':
+        type: SHIELD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: A Hylian Shield
+          internal: H4sIAAAAAAAAAHXNTQqAIBQE4CkTzaBDFe1bdAGT/kgU9G26fREtdNFy+GYYBSi0nfXmHBwddE16qyFHTbQEFxUALiG+DLZaz8B7b314qEBi5b4nVGVElFCTU/xbMTOnZwIMVafj8vZwA5dqWW66AAAA
+          blockMaterial: SHIELD
+  '56':
+    Time: 1461729342624
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -294776.7066621529
+      y: 58.0
+      z: 243047.25841670888
+      pitch: 9.750023
+      yaw: 148.98082
+    Items:
+      '0':
+        type: SHIELD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: A Hylian Shield
+          internal: H4sIAAAAAAAAAHXNTQqAIBQE4CkTzaBDFe1bdAGT/kgU9G26fREtdNFy+GYYBSi0nfXmHBwddE16qyFHTbQEFxUALiG+DLZaz8B7b314qEBi5b4nVGVElFCTU/xbMTOnZwIMVafj8vZwA5dqWW66AAAA
+          blockMaterial: SHIELD
+      '1':
+        type: DIAMOND_SWORD
+        damage: 403
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Fatesealer
+          enchants:
+            DAMAGE_ALL: 2
+            KNOCKBACK: 2
+          repair-cost: 3
+      '2':
+        type: GRILLED_PORK
+        amount: 14
+      '3':
+        type: DIODE
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 1004
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            LOOT_BONUS_BLOCKS: 1
+          repair-cost: 63
+      '19':
+        type: COOKED_BEEF
+        amount: 6
+      '29':
+        type: BOW
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Flaming Vengeance
+          enchants:
+            ARROW_DAMAGE: 4
+            ARROW_KNOCKBACK: 1
+            DURABILITY: 3
+            ARROW_FIRE: 1
+          repair-cost: 1
+  '57':
+    Time: 1461729394586
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -294779.5382260517
+      y: 58.0
+      z: 243044.70039278758
+      pitch: 11.400034
+      yaw: 243.18158
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 406
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Fatesealer
+          enchants:
+            DAMAGE_ALL: 2
+            KNOCKBACK: 2
+          repair-cost: 3
+      '1':
+        type: BOW
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Flaming Vengeance
+          enchants:
+            ARROW_DAMAGE: 4
+            ARROW_KNOCKBACK: 1
+            DURABILITY: 3
+            ARROW_FIRE: 1
+          repair-cost: 1
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 1004
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            LOOT_BONUS_BLOCKS: 1
+          repair-cost: 63
+      '7':
+        type: COOKED_BEEF
+        amount: 6
+      '8':
+        type: GRILLED_PORK
+        amount: 14
+      '9':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §8Blackberry Juice
+          lore:
+          - ''
+          - §7§oRestores §b§o3.0 §7§oHunger
+          custom-effects:
+          - ==: PotionEffect
+            effect: 23
+            duration: 6
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '40':
+        type: SHIELD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: A Hylian Shield
+          internal: H4sIAAAAAAAAAHXNTQqAIBQE4CkTzaBDFe1bdAGT/kgU9G26fREtdNFy+GYYBSi0nfXmHBwddE16qyFHTbQEFxUALiG+DLZaz8B7b314qEBi5b4nVGVElFCTU/xbMTOnZwIMVafj8vZwA5dqWW66AAAA
+          blockMaterial: SHIELD
+  '58':
+    Time: 1461729554454
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -294779.2203517644
+      y: 58.0
+      z: 243032.5776189399
+      pitch: 8.100068
+      yaw: 314.43204
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 430
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Fatesealer
+          enchants:
+            DAMAGE_ALL: 2
+            KNOCKBACK: 2
+          repair-cost: 3
+      '1':
+        type: BOW
+        damage: 13
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Flaming Vengeance
+          enchants:
+            ARROW_DAMAGE: 4
+            ARROW_KNOCKBACK: 1
+            DURABILITY: 3
+            ARROW_FIRE: 1
+          repair-cost: 1
+      '7':
+        type: COOKED_BEEF
+        amount: 6
+      '8':
+        type: GRILLED_PORK
+        amount: 14
+      '9':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §8Blackberry Juice
+          lore:
+          - ''
+          - §7§oRestores §b§o3.0 §7§oHunger
+          custom-effects:
+          - ==: PotionEffect
+            effect: 23
+            duration: 6
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '17':
+        type: ARROW
+        amount: 60
+      '18':
+        type: DIAMOND_PICKAXE
+        damage: 1004
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            LOOT_BONUS_BLOCKS: 1
+          repair-cost: 63
+      '40':
+        type: SHIELD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: A Hylian Shield
+          internal: H4sIAAAAAAAAAHXNTQqAIBQE4CkTzaBDFe1bdAGT/kgU9G26fREtdNFy+GYYBSi0nfXmHBwddE16qyFHTbQEFxUALiG+DLZaz8B7b314qEBi5b4nVGVElFCTU/xbMTOnZwIMVafj8vZwA5dqWW66AAAA
+          blockMaterial: SHIELD
+  '59':
+    Time: 1461729806731
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -294782.518022902
+      y: 58.78608123157454
+      z: 243030.24019620696
+      pitch: 9.600077
+      yaw: -94.61848
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '7':
+        type: COOKED_BEEF
+        amount: 6
+      '8':
+        type: GRILLED_PORK
+        amount: 14
+      '9':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §8Blackberry Juice
+          lore:
+          - ''
+          - §7§oRestores §b§o3.0 §7§oHunger
+          custom-effects:
+          - ==: PotionEffect
+            effect: 23
+            duration: 6
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '10':
+        type: DIAMOND_SWORD
+        damage: 430
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Fatesealer
+          enchants:
+            DAMAGE_ALL: 2
+            KNOCKBACK: 2
+          repair-cost: 3
+      '17':
+        type: ARROW
+        amount: 58
+      '18':
+        type: DIAMOND_PICKAXE
+        damage: 1004
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            LOOT_BONUS_BLOCKS: 1
+          repair-cost: 63
+      '27':
+        type: BOW
+        damage: 13
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Flaming Vengeance
+          enchants:
+            ARROW_DAMAGE: 4
+            ARROW_KNOCKBACK: 1
+            DURABILITY: 3
+            ARROW_FIRE: 1
+          repair-cost: 1
+      '40':
+        type: SHIELD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: A Hylian Shield
+          internal: H4sIAAAAAAAAAHXNTQqAIBQE4CkTzaBDFe1bdAGT/kgU9G26fREtdNFy+GYYBSi0nfXmHBwddE16qyFHTbQEFxUALiG+DLZaz8B7b314qEBi5b4nVGVElFCTU/xbMTOnZwIMVafj8vZwA5dqWW66AAAA
+          blockMaterial: SHIELD
+  '60':
+    Time: 1462120692310
+    Exp: 1277
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -295619.3751654667
+      y: 74.75767302297108
+      z: 243962.93731574193
+      pitch: -30.599949
+      yaw: 88.37988
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 50
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rTiramisu
+          lore:
+          - ''
+          - §7§oRestores §b§o8.0 §7§oHunger
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JDDfLwoUVU4c4WLyAzA7GITLOqEFoxOfqA5Zll+c73zEBTHjbnDqlvptLVSthwDM5wDsODryw3bHFx3ZpuUHlWEHJufXBS9uvClxgjEwwh+gqmrYWtxEYrbi3XSNuJgA8GfCaFqoT8Cv6CLH9ER32keI98QfebpBaEXkdk3PalzPiEz34xdRf9sG/r9cWmadyJzqyc9KVOkVLZ63EYo253v3Qbe7R8HRnIXFX4bSnmjq5/FS5ZCdq7x5MJmhgzbK5w2QkaZh7w+bFj8Sj2fzOvuJjLndubKc1zRIc6wSRMw6qZDIBMOAlLrSA0WwzuzRiWZcAf3nRanIuAQAA
+          skull-owner: CSCoreLib
+      '6':
+        type: COOKED_CHICKEN
+        amount: 60
+      '7':
+        type: COOKED_BEEF
+        amount: 53
+      '8':
+        type: GRILLED_PORK
+        amount: 64
+      '9':
+        type: FEATHER
+        amount: 54
+      '17':
+        type: ARROW
+        amount: 64
+      '18':
+        type: GRILLED_PORK
+        amount: 7
+      '26':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §8Blackberry Juice
+          lore:
+          - ''
+          - §7§oRestores §b§o3.0 §7§oHunger
+          custom-effects:
+          - ==: PotionEffect
+            effect: 23
+            duration: 6
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '35':
+        type: BREAD
+      '40':
+        type: SHIELD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: A Hylian Shield
+          internal: H4sIAAAAAAAAAHXNTQqAIBQE4CkTzaBDFe1bdAGT/kgU9G26fREtdNFy+GYYBSi0nfXmHBwddE16qyFHTbQEFxUALiG+DLZaz8B7b314qEBi5b4nVGVElFCTU/xbMTOnZwIMVafj8vZwA5dqWW66AAAA
+          blockMaterial: SHIELD
+  '61':
+    Time: 1462483215547
+    Exp: 1277
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -295619.3751654667
+      y: 74.75767302297108
+      z: 243962.93731574193
+      pitch: -30.599949
+      yaw: 88.37988
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 50
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '5':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rTiramisu
+          lore:
+          - ''
+          - §7§oRestores §b§o8.0 §7§oHunger
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JDDfLwoUVU4c4WLyAzA7GITLOqEFoxOfqA5Zll+c73zEBTHjbnDqlvptLVSthwDM5wDsODryw3bHFx3ZpuUHlWEHJufXBS9uvClxgjEwwh+gqmrYWtxEYrbi3XSNuJgA8GfCaFqoT8Cv6CLH9ER32keI98QfebpBaEXkdk3PalzPiEz34xdRf9sG/r9cWmadyJzqyc9KVOkVLZ63EYo253v3Qbe7R8HRnIXFX4bSnmjq5/FS5ZCdq7x5MJmhgzbK5w2QkaZh7w+bFj8Sj2fzOvuJjLndubKc1zRIc6wSRMw6qZDIBMOAlLrSA0WwzuzRiWZcAf3nRanIuAQAA
+          skull-owner: CSCoreLib
+      '6':
+        type: COOKED_CHICKEN
+        amount: 60
+      '7':
+        type: COOKED_BEEF
+        amount: 53
+      '8':
+        type: GRILLED_PORK
+        amount: 64
+      '9':
+        type: FEATHER
+        amount: 54
+      '17':
+        type: ARROW
+        amount: 64
+      '18':
+        type: GRILLED_PORK
+        amount: 7
+      '26':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §8Blackberry Juice
+          lore:
+          - ''
+          - §7§oRestores §b§o3.0 §7§oHunger
+          custom-effects:
+          - ==: PotionEffect
+            effect: 23
+            duration: 6
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '35':
+        type: BREAD
+      '40':
+        type: SHIELD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: A Hylian Shield
+          internal: H4sIAAAAAAAAAHXNTQqAIBQE4CkTzaBDFe1bdAGT/kgU9G26fREtdNFy+GYYBSi0nfXmHBwddE16qyFHTbQEFxUALiG+DLZaz8B7b314qEBi5b4nVGVElFCTU/xbMTOnZwIMVafj8vZwA5dqWW66AAAA
+          blockMaterial: SHIELD
+  '62':
+    Time: 1462657287613
+    Exp: 3165
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3744.745819559778
+      y: 63.0
+      z: -1797.2504979778912
+      pitch: 4.5494423
+      yaw: -53.29944
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 50
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Blueberry Jelly Sandwich
+          lore:
+          - ''
+          - §7§oRestores §b§o8.0 §7§oHunger
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8rfEo9Wqa1yoguLuDXC3AosahAZ4qj5iOfY4mRkdQIe3sGyV+qpvMldCg2dyhneZISkzKY3MQo7hYOwaKfaEMfU8LLGZeKnr6qCP013UTS4eE9Aa0TVtLR46ADxp8HpMVCvgV/QbxE8XdD5tVNYTPHIUIhWQ4u6R67FP5wSTavTrGd7203+t2ySxq5i9ufDrrk2rI9raeyXWezOrDj/BijosKocgmrnUWuY09kseMcsfzhWLme0vvjte0I7GB5MXnzYv2MAXBydYkJE/FF3Rzh92Fh2WFStmiA5lLk/mFECDFz+pBEzm4fxWi22eAvwBkC/2sSoBAAA=
+          skull-owner: CSCoreLib
+      '17':
+        type: ARROW
+        amount: 64
+      '18':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §5Peach
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkhpdl4aJRq0MYKMpDZsdjrOiMGgQjfFc/sCy7PDnnqAAqvG1PnRDfzWVfC67AM6ngHaOi0q3S0fLyY6qZdoG0IkdYq7CJLUPnzh4ZKqjjdOVNW/PbBJSWP9qu4TcVAJ4UeE1y0XH45b2L2O6Aqp0ryp7YI0dbJAJyvE7JOemLObGJHP360/Z6519rtXlqicxwD+wcdoVMkGdsBF9vcCnjO1v4dRaFDyZjkx5L7A8/Bk1jM9NdkQ3ixNLQylK/ZjJ8BNFpoKvQogNFNPVlsFgOQTq+Kzb6rwPVkyOVS0zO2NmHsxmAAi9+LjlM5tv5peFeXQD8AZ1UqjcuAQAA
+          skull-owner: CSCoreLib
+      '26':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §8Blackberry Juice
+          lore:
+          - ''
+          - §7§oRestores §b§o3.0 §7§oHunger
+          custom-effects:
+          - ==: PotionEffect
+            effect: 23
+            duration: 6
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rChicken Head
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSgkLnwcOibNZIGYogvVGoEW3VIKj0d+0HjuOOL+89E8CEt/WxlfKnPu8qKQx4JiW8Y8dDNv7ILYfjwhqNBLa4I7glsMtdXIx2JSpNMPvpIuqmEtcBGI14NG0triYAPBnwmuSyFfArugVi2z0qtwtZdMTrOV4jGZLDBZNT0vEp8Yjq/fzTW3bjf63b5Kkrs+Fiz05Ry1WClsOVFPOVXajNLYgzHc4iJ0x9O4zlgaWJoprcqd5oqrN7oAkKv303S8kjSJmi8fHBVNS7fcVSH1Ed2NkhQFT5Q6a+ZDg7anKyx7toMgEw4IXmSsBgup6ea7GsOMAfe7oceC4BAAA=
+          skull-owner: CSCoreLib
+      '35':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §6Thai Tea
+          lore:
+          - ''
+          - §7§oRestores §b§o7.0 §7§oHunger
+          custom-effects:
+          - ==: PotionEffect
+            effect: 23
+            duration: 14
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '40':
+        type: SHIELD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: A Hylian Shield
+          internal: H4sIAAAAAAAAAHXNTQqAIBQE4CkTzaBDFe1bdAGT/kgU9G26fREtdNFy+GYYBSi0nfXmHBwddE16qyFHTbQEFxUALiG+DLZaz8B7b314qEBi5b4nVGVElFCTU/xbMTOnZwIMVafj8vZwA5dqWW66AAAA
+          blockMaterial: SHIELD
+  '63':
+    Time: 1462657534497
+    Exp: 584
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3659.300000011921
+      y: 63.0
+      z: -1827.2375980749987
+      pitch: 56.543575
+      yaw: 268.35486
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 50
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '9':
+        type: ARROW
+        amount: 64
+      '17':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §8Blackberry Juice
+          lore:
+          - ''
+          - §7§oRestores §b§o3.0 §7§oHunger
+          custom-effects:
+          - ==: PotionEffect
+            effect: 23
+            duration: 6
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '18':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §5Peach
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkhpdl4aJRq0MYKMpDZsdjrOiMGgQjfFc/sCy7PDnnqAAqvG1PnRDfzWVfC67AM6ngHaOi0q3S0fLyY6qZdoG0IkdYq7CJLUPnzh4ZKqjjdOVNW/PbBJSWP9qu4TcVAJ4UeE1y0XH45b2L2O6Aqp0ryp7YI0dbJAJyvE7JOemLObGJHP360/Z6519rtXlqicxwD+wcdoVMkGdsBF9vcCnjO1v4dRaFDyZjkx5L7A8/Bk1jM9NdkQ3ixNLQylK/ZjJ8BNFpoKvQogNFNPVlsFgOQTq+Kzb6rwPVkyOVS0zO2NmHsxmAAi9+LjlM5tv5peFeXQD8AZ1UqjcuAQAA
+          skull-owner: CSCoreLib
+      '26':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §6Thai Tea
+          lore:
+          - ''
+          - §7§oRestores §b§o7.0 §7§oHunger
+          custom-effects:
+          - ==: PotionEffect
+            effect: 23
+            duration: 14
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Blueberry Jelly Sandwich
+          lore:
+          - ''
+          - §7§oRestores §b§o8.0 §7§oHunger
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8rfEo9Wqa1yoguLuDXC3AosahAZ4qj5iOfY4mRkdQIe3sGyV+qpvMldCg2dyhneZISkzKY3MQo7hYOwaKfaEMfU8LLGZeKnr6qCP013UTS4eE9Aa0TVtLR46ADxp8HpMVCvgV/QbxE8XdD5tVNYTPHIUIhWQ4u6R67FP5wSTavTrGd7203+t2ySxq5i9ufDrrk2rI9raeyXWezOrDj/BijosKocgmrnUWuY09kseMcsfzhWLme0vvjte0I7GB5MXnzYv2MAXBydYkJE/FF3Rzh92Fh2WFStmiA5lLk/mFECDFz+pBEzm4fxWi22eAvwBkC/2sSoBAAA=
+          skull-owner: CSCoreLib
+      '40':
+        type: SHIELD
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: A Hylian Shield
+          internal: H4sIAAAAAAAAAHXNTQqAIBQE4CkTzaBDFe1bdAGT/kgU9G26fREtdNFy+GYYBSi0nfXmHBwddE16qyFHTbQEFxUALiG+DLZaz8B7b314qEBi5b4nVGVElFCTU/xbMTOnZwIMVafj8vZwA5dqWW66AAAA
+          blockMaterial: SHIELD

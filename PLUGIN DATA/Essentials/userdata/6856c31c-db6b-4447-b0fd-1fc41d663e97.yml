@@ -1,0 +1,31 @@
+lastAccountName: MTF2003
+timestamps:
+  login: 1478318014901
+  lastteleport: 1472874932693
+  logout: 1478318146546
+ipAddress: 122.106.240.12
+geolocation: Narrabeen, New South Wales, Australia
+lastlocation:
+  world: world
+  x: 724.9985739294323
+  y: 64.5
+  z: -691.8419420930264
+  yaw: 296.43787
+  pitch: 8.3009815
+afk: false
+logoutlocation:
+  world: world
+  x: 370.78610922675955
+  y: 65.0
+  z: -1267.0542442721976
+  yaw: 260.16016
+  pitch: 15.286451
+money: '4000'
+homes:
+  matt:
+    world: world
+    x: -2031.2224470563876
+    y: 113.0
+    z: -1207.5860791093683
+    yaw: 40.81013
+    pitch: 19.824783

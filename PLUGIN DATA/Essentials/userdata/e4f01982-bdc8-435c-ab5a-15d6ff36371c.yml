@@ -1,0 +1,81 @@
+lastAccountName: O91
+timestamps:
+  login: 1481877851425
+  logout: 1481878139630
+  lastteleport: 1472971905604
+  kits:
+    mccharacter: 1466244465513
+    sking_arena: 1467443485460
+    iron: 1468484871362
+    rules: 1466569091091
+    dtools: 1468395517435
+    food: 1470988992167
+ipAddress: 122.106.251.130
+geolocation: Sydney, New South Wales, Australia
+lastlocation:
+  world: world
+  x: -1612.2117068967937
+  y: 68.72906941194748
+  z: -999.8121174408232
+  yaw: -83.54993
+  pitch: 26.549992
+logoutlocation:
+  world: world
+  x: -1612.151899790367
+  y: 67.70648786046942
+  z: -999.8318059724103
+  yaw: -65.84992
+  pitch: 20.699991
+money: '3848.82'
+afk: false
+homes:
+  home:
+    world: world
+    x: -9559.559896864957
+    y: 200.0
+    z: -11864.21424235454
+    yaw: -172.80566
+    pitch: 58.855125
+  'no':
+    world: world
+    x: 1037.3178851411233
+    y: 66.0
+    z: -648.2522078555446
+    yaw: -109.877495
+    pitch: 8.535594
+  top:
+    world: world
+    x: -9558.74890700192
+    y: 256.0
+    z: -11865.07611423897
+    yaw: -330.7556
+    pitch: 39.150085
+  my:
+    world: world
+    x: -2020.958398414639
+    y: 80.0
+    z: -1179.587770384481
+    yaw: 85.960236
+    pitch: 2.5752394
+  _:
+    world: world
+    x: -2048.30446072235
+    y: 82.0
+    z: -1132.3785703504802
+    yaw: 9.910498
+    pitch: 60.925236
+  divider:
+    world: world
+    x: -2062.2558566786574
+    y: 119.0
+    z: -1216.6567750338559
+    yaw: 101.02295
+    pitch: 19.259674
+  nv:
+    world: world_nether
+    x: -10.680289413887182
+    y: 128.99880867261496
+    z: 449.3929700526336
+    yaw: -17.441742
+    pitch: 22.24319
+godmode: false

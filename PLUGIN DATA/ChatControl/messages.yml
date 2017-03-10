@@ -1,0 +1,140 @@
+# !---------------------------------------------------------!
+# ! File automatically updated at 13.08.2016 20:24:37
+# ! to plugin version v7.0.8
+# !---------------------------------------------------------!
+# ! Unfortunatelly due to how Bukkit handles YAML
+# ! configurations, all comments (#) were wiped. 
+# ! For reference values and comments open
+# ! messages.yml in the plugin JAR file.
+# !---------------------------------------------------------!
+
+Enabled: true
+Join_Message:
+  Message: default
+  Conditions:
+    staff_message:
+      Permission: chatcontrol.joinmessage.joinmessage
+      Message:
+      - '&b&k-&f[&9&lJeriCraft&f]&b&k- &6 {pl_prefix}{player} &ajoined &3the server!'
+    jubileum_message:
+      Condition: player.getStatistic(Java.type("org.bukkit.Statistic").LEAVE_GAME) == 99
+      Message: |-
+        &6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        &e&l{player} &ejoined the server 100th time!
+        &6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Enabled: true
+Quit_Message:
+  Message: default
+  Conditions:
+    staff_message:
+      Permission: chatcontrol.joinmessage.joinmessage
+      Message:
+      - '&b&k-&f[&9&lJeriCraft&f]&b&k- &6 {pl_prefix}{player} &cleft &3the server!'
+  Enabled: true
+Kick_Message:
+  Message: default
+  Enabled: false
+Death_Messages:
+  Prefix: ''
+  Default:
+    Message:
+    - ''
+    Bungee_Message: hide
+    Display_To: ALL
+    Range: -1
+    Conditions:
+      silent_on_creative:
+        Gamemode: CREATIVE
+        Message: none
+  Contact:
+    Message: ''
+  Entity_Attack:
+    Message: ''
+    Conditions:
+      zombie:
+        Killer: ZOMBIE
+        Message:
+        - ''
+        - ''
+      pvp:
+        Killer: PLAYER
+        Killer_Message:
+        - ''
+        - ''
+        Message:
+        - ''
+        - ''
+        - ''
+  Projectile:
+    Message: ''
+  Suffocation:
+    Message: ''
+  Fall:
+    Message: ''
+  Fire:
+    Message: ''
+  Fire_Tick:
+    Message: ''
+  Melting:
+    Message: ''
+  Lava:
+    Message: ''
+  Drowning:
+    Message: ''
+  Block_Explosion:
+    Message: ''
+  Entity_Explosion:
+    Message: ''
+    Conditions:
+      creeper:
+        Killer: CREEPER
+        Message: ''
+  Void:
+    Message: ''
+  Lightning:
+    Message: ''
+  Suicide:
+    Message: ''
+  Starvation:
+    Message: ''
+  Poison:
+    Message: ''
+  Magic:
+    Message: ''
+  Wither:
+    Message: ''
+  Falling_Block:
+    Message: ''
+  Thorns:
+    Message: ''
+  Dragon_Breath:
+    Message: ''
+  Custom:
+    Message: ''
+  Fly_Into_Wall:
+    Message: ''
+  Hot_Floor:
+    Message: ''
+  Enabled: false
+Broadcaster:
+  Enabled: false
+  Mode: 0
+  Prefix: '&8[&2Tip&8]&2'
+  Suffix: ''
+  Delay_Seconds: 180
+  Messages:
+    global:
+    - Hey, {player}, did you know that we offer over 100 premium features on our webstore?
+    - Check out &awww.jericraft.enjin.com/shop
+    hardcore:
+    - Griefing is not permitted what-so-ever
+    hardcore_nether:
+    - includeFrom hardcore
+    ignored-world:
+    - excludeGlobal
+    creative:
+    - excludeGlobal
+    - Welcome on Creative world. Enjoy your gamemode :)
+    - "This is an example of multi-line.\nUse it if the new line character \nis not\
+      \ working for you."
+Hide_Join_Quit_Kick_Messages: false

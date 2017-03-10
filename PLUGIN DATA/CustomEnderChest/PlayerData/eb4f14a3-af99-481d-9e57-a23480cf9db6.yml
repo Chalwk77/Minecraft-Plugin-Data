@@ -1,0 +1,474 @@
+PlayerLastName: OnlyFeisty
+EnderChestSize: 45
+EnderChestInventory:
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: CLAY_BRICK
+    amount: 42
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §eCave Spider §fSpawner
+      internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxh4HJOLEsNLshMSS0CqecJzszJBitJLSpmYuBIBev0dGGwZmAAABnKFJBRAAAA
+      blockMaterial: MOB_SPAWNER
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: ANVIL
+    amount: 4
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: TORCH
+    amount: 64
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: SNOW_BALL
+    amount: 16
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BARDING
+  '31':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOOK
+    amount: 62
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: BANNER
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: BANNER
+      base-color: RED
+      patterns:
+      - ==: Pattern
+        color: BLACK
+        pattern: ms
+      - ==: Pattern
+        color: BLACK
+        pattern: cr
+      - ==: Pattern
+        color: RED
+        pattern: flo
+      - ==: Pattern
+        color: BLACK
+        pattern: bo
+      - ==: Pattern
+        color: RED
+        pattern: ms
+      - ==: Pattern
+        color: BLACK
+        pattern: mc
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    damage: 2
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    damage: 2
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: WRITTEN_BOOK
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: BOOK_SIGNED
+      title: ' '
+      author: ' '
+      pages:
+      - |
+        Minecraft color§0
+        §0Codes:§0
+        §0 &0  §1 &1  §2 &2  §3 &3§0
+        §4 &4  §5 &5  §6 &6  §7 &7§0
+        §8 &8  §9 &9  §a &a  §b &b§0
+        §c &c  §d &d  §e &e  §f &f§0
+      generation: 0
+  '28':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §b§lSlap stick
+  '41':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 95
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 3
+        LOOT_BONUS_BLOCKS: 2
+  '42':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 4
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIRT
+    amount: 64
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    amount: 20
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: COBBLESTONE
+    amount: 22
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE
+    damage: 3
+    amount: 3
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 33
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aDiamond Pickaxe
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: WRITTEN_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: BOOK_SIGNED
+      title: FANFIC
+      author: FeistySquirrel
+      pages:
+      - |-
+        ~~~~~~~~~~~~~~               FUNZZIES§0
+        §0              FANFIC§0
+        §0~~~~~~~~~~~~~~ Written By§0
+        §0Feisty§0
+        §0~~~~~~~~~~~~~~dunt read dis unless chu know le Aphmau's series characters etc
+      - |-
+        It was a monday and it was Aph's first day at highschool. Well 2nd time going to highschool since she had to move so many times. §0
+        §0Aph's Aunty: Mi'ah! Wake up! Get to school!§0
+        §0Aph: §0Fine...ill§0 get up...§0
+        §0She gets ready for school then
+      - |-
+        checks that she has all of her school items, then leaves. §0
+        §0Aph: I hope I dont get bullied as much as I did at my last school...§0
+        §0She doesnt realise who or what is in front of her so she runs straight into a guy on the way to school.
+      - |-
+        Aph: Gah! Oh my Irene! I'm sorry! I didnt see whe--§0
+        §0???: Hmph, its fine i §0guess...names§0 Aaron by the way...§0
+        §0Aph: Oh §0okay...My§0 names §0Aphmau...You§0 can call me Aph if you want...§0
+        §0Aaron: §0Cool...ill§0 see you around then i guess.
+      - 'Aph checks her class schedule and see''s that she has magicks class. She
+        runs around the school but cant find where her class is. She sits down beside
+        the lockers and looks down. Aph: Agh! First day and I''m going to be late
+        already!'
+      - |-
+        She hears a voice in front of her. §0
+        §0???: Are you okay?§0
+        §0Aph: Ha? *looks up* §0Oh...Hi...Yeh§0 I'm fine just a bit annoyed §0and--um....nothing§0 nevermind. She thought to herself and thought to not tell anyone anything except her name
+      - |-
+        Laurance: Names Laurance, whats wrong? Why are you annoyed?§0
+        §0Aph: Um....I can't find my first class...§0
+        §0Laurance: Oh, new comer hey? What class do you have first?§0
+        §0Aph: §0Oh...yeh§0 i am, um my first class is magicks class...
+      - |-
+        Laurance: Oh, I know where that class is, follow me :)§0
+        §0Aph: Okay...§0
+        §0After a bit of walking around, Laurance FINALLY does what he said and actually takes her to magicks class.§0
+        §0Aph: Heh, took a while but we finally got here, thanks Laurance...
+      - |
+        Laurance: You're welcome Aph, also, at recess, if you want to hang out with my friends and I you can :)§0
+        §0Aph: §0...Sure...I§0 guess§0
+        §0Laurance: Heh you seam very shy.§0
+        §0Aph: I guess, ill talk to you later i guess, ya know, class.§0
+        §0Laurance: Alright cya :)§0
+      - |-
+        Aph goes into class and sees Aaron at the back, she walked slowly to the back and sat next to Aaron.§0
+        §0Aaron: Why are you sitting next to me out of all people?§0
+        §0Aph: Because its the only seat at the back.§0
+        §0Aaron: §0Oh...okay
+      - |-
+        Teacher: OK CLASS, we have a new student called Aphmeow?§0
+        §0Aph: Its pronouced Aphmau...§0
+        §0Teacher: Yeh that, Aphmeow come up here and talk about yourself please§0
+        §0Aph: Fine...§0
+        §0She walks up to the front of the class
+      - |-
+        Nervous and shy.§0
+        §0Aph: §0Hi...my§0 names Aphmau...I went to military school then got home schooled for the rest of my life and today i started high school for the first time...*In her head>* (I hope thats enough info about me...)
+      - |-
+        Girl Student: I couldnt hear her properly! She is too quiet and stupid!§0
+        §0Teacher: IVY BE NICE, anyway, Aph, whats your magicks?§0
+        §0Aph:§0...Its§0 a secret...§0
+        §0Teacher: Well you're in magicks class, you have to show or tell us.
+      - |-
+        Aph:§0....Fine§0.§0.§0.§0.§0
+        §0She transforms into irene.§0
+        §0Aph: Is that better...?§0
+        §0Teacher: §0W-W-What...You're§0 you're irene...§0
+        §0Most of the class: WHAT THE HECK§0
+        §0Aph:...I'm not §0irene...just...just§0.§0.§0.
+      - |-
+        Teacher: Just..?§0
+        §0Aph:...I CANT DO IT§0
+        §0Aphmau transforms back to normal and runs out of the classroom sad, she sits on one of the benches.§0
+        §0Aph: ...I-I I dont know what to §0do...What§0 do I say? I'm not my mother...I miss her so much...
+      - |-
+        ...I have to stay strong, for her...I need to stay alive to protect the innocent and to keep my father away from others...§0
+        §0She starts to cry. Then all of a sudden Laurance comes running around the corner and sits next to Aph
+      - |-
+        Laurance: APH, are you okay?! What's wrong?! §0
+        §0Aph: *Wipes her tears away, keeps her head down* Nothing, I'm fine, dont worry.§0
+        §0Laurance: Okay, Aph, please, i know we only just met but just tell me? Please?§0
+        §0Aph: I §0cant...not§0 §0now...not§0 ever
+      - |-
+        its bad enough i showed my class...§0
+        §0Laurance: Showed? Mmm okay, if you wont show me or tell me thats fine, its almost recess, got about 5 minutes or so, so do you want to come with me? Ill take you to my friends, we got out early.
+      - |-
+        Aph:§0...Sure§0.§0.§0.§0
+        §0She follows Laurance behind him so he doesnt see her crying still.§0
+        §0Aph: (Why is he so §0nice...NO§0 Aph, dont fall for it.) §0
+        §0Laurance turns around§0
+        §0Laurance: Are you sure your okay?
+      - |-
+        Aph: Yea.§0
+        §0Laurance: If you say so...§0
+        §0They arrive at the place where Laurance's friends are at and Aaron is there too§0
+        §0Aaron: Aph? Can I talk to you for a bit? Alone?
+      - |-
+        Laurance: You guys know each other?§0
+        §0Aaron: Yeh, we met this morning§0
+        §0Aph: §0Mhm...sure§0 Aaron...§0
+        §0Aaron grabs Aph's hand and pulls her to the practise room§0
+        §0Aaron: I could tell something was wrong, i was going to run after you to see if you were okay but
+      - |
+        the teacher didnt allow me to, whats wrong?§0
+        §0Aph: Nothing is wrong, everything is absolutly fine *She does a fake smile to make him think she is fine*§0
+        §0Aaron: Aph, I can tell you arent fine, please, just tell me? §0
+        §0Aph:§0...Why§0 should i tell you.§0
+      - |-
+        Aaron: Why? Why not? I'm not going to hurt you, I just want to know to see if i can help§0
+        §0Aph: No one can help.§0
+        §0Aaron: ???§0
+        §0Aph: §0...You're§0 lucky I'm weak...I ran out of the classroom and transformed back to normal because I-I...I'm not my mother
+      - |-
+        Aaron: Mother?§0
+        §0Aph: §0....My§0 mother is §0Irene...she§0 §0died...protecting§0 §0me...and§0.§0.§0.§0
+        §0Aaron: You dont have to say anymore, I understand...§0
+        §0Aph: No you §0dont...you§0 have family that care about you I barely have an aunty
+      - "that takes care of me, she is evil, she hates me and forces me to do §0things...such§\
+        0 as giving her my power which...i havent done yet...I-§0\n§0Aaron: I do understand,\
+        \ my parents are dead too, im all alone, i live alone too, Also, dont give\
+        \ in, dont give your "
+      - |-
+        aunty your power, she doesnt deserve it.§0
+        §0Aph:...I'll §0try...thank§0 you...§0
+        §0Aaron: For what?§0
+        §0Aph: For §0listening...and§0 not ditching me straight away...§0
+        §0Aaron: Why would I do that?§0
+        §0Aph:§0...everyone§0 does
+      - |-
+        Aaron says to aph that he has to quickly text a friend before she starts to worry§0
+        §0Aarons text or AT: Hey Shu 8D§0
+        §0Aph's phone buzzes and she texts back§0
+        §0Aphs text: Cant talk right now §0FC...someone§0 just found out my secret...
+      - |-
+        FC: ?You mean your transformation etc? How?§0
+        §0Shu: I had to tell them bc he saw me in class...§0
+        §0Aaron: §0Um...Aph§0?§0
+        §0Aph: Yes...?§0
+        §0Aaron: Can I see your phone for a second?§0
+        §0Aph: Why...?§0
+        §0Aaron: Because whenever i send a text your phone
+      - |-
+        buzzes.§0
+        §0Aph: (It cant be him...) Fine...§0
+        §0She hands him her phone, after about a minute of him checking the texts he hands the phone back to her.§0
+        §0Aaron: Shu...§0
+        §0Aph: §0...FC§0.§0.§0.§0? You got to be joking me, its a joke
+      - |-
+        this isnt real...§0
+        §0Aaron: It is real, I'm FC..§0
+        §0Aph: FC...§0
+        §0Aaron: Shu..§0
+        §0Aph: I can't believe it's actually you...§0
+        §0Aaron: Same to you...*Hugs her as tight as he can*§0
+        §0Aph: ...*Blushes*§0
+        §0Aaron: Are you okay now?
+      - |-
+        Aph: I feel better §0yes...Let's§0 go back over to Laurance...§0
+        §0Aaron starts to walk over to Laurance and Aph starts to follow when all of a sudden she feels a strong pain in her eyes, like something was pulling them out
+      - |-
+        Aph: AH!§0
+        §0She screamed.§0
+        §0Aaron: Are you okay Aph!?!§0
+        §0Aph: Mmm! Yes I'm fine! AHHHHHHH *She falls to the ground while holding her hands on her eyes*§0
+        §0Aaron: Aph!§0
+        §0Aph started to transform into
+      - |-
+        her fathers form, which was the shadow lord, it started at her eyes then went down so thats why she had pain in her eyes§0
+        §0Aph: Ah!!! *Runs into the music room* AGH AHHHHHH OW OW OW!§0
+        §0Aaron ran after her and held her as she transformed
+      - |-
+        Aph: It  hurts...§0
+        §0Aaron: I know, just stay calm, I'm here...§0
+        §0Aph: AH!! *Cries* §0
+        §0Laurance: *Runs around the corner and knocks on the door* APH, ARE YOU OKAY?!§0
+        §0Aph: *Cries*§0
+        §0Aaron: Laurance, she is fine, she just needs to be left alone for a second.
+      - "Laurance: Okay...I trust you.§0\n§0Aaron: Good.§0\n§0Aph: *Cries* It hurts...*Her\
+        \ wings appear* OW!! §0\n§0Aaron: It's okay, the transformation is almost\
+        \ done...§0\n§0Aph: AH!!! *Finishes her transformation* *Sighs* "
+      - |-
+        Aaron: *Smiles* You okay?§0
+        §0Aph: Agh, that hurt so much...I--§0
+        §0???: I'll be waiting...§0
+        §0Aph: Ha?!§0
+        §0Aaron: What's wrong?§0
+        §0Aph: Didn't you hear that?!§0
+        §0Aaron: Hear what...?§0
+        §0Aph: *She pushes his arms off of her and stands up*
+      - |-
+        Where are you...!?!*She looks around*§0
+        §0Aaron: What are you talking about?§0
+        §0???: Hhahaha...§0
+        §0Aph: *Cries* please, father, stay away...§0
+        §0Father: §0Mwahahah...You§0 will go through many things in §0life...but§0 the worse thing will be when you die §0from...ME§0!§0!§0! Haahhaha.
+      - |-
+        The laugh slowly fades away...§0
+        §0Aph: *She falls on the ground* No no no no no no no no no no *Holds her hands on her head* *Cries*§0
+        §0Aaron: *He goes closer to her and pulls her towards him, he holds her against his body* §0Shhhh....It's§0 okay...
+      - |-
+        Aph: I'm just so scared §0now...What§0 if he actuall-§0
+        §0Aaron: he won't go near you, I won't let him...§0
+        §0Aph: *She wipes her tears away* Let's go outside now...§0
+        §0Aaron: You want to?§0
+        §0Aph: mhm...§0
+        §0They both stand up and walk outside
+      - |-
+        Laurance: APH! *He goes to her and holds her arms* Are you okay!?§0
+        §0Aph: (No...) Yes, I'm fine. Can you let go of me?§0
+        §0Laurance: Oh yeh §0sorry...What§0 happened? I heard screaming and you crying...§0
+        §0Aph:...........§0
+        §0Aaron: I'll explain if you want me to Aph
+      - |-
+        Aph: Yes please...§0
+        §0Aaron explains everything that happened, including them finding out about them being Shu and FC.§0
+        §0Lucinda: APH!?§0
+        §0Aph: ha?§0
+        §0Lucinda: it's me! Lucinda!§0
+        §0Aph: LUCINDA?!
+      - |-
+        Aph runs up to Lucinda and hugs her§0
+        §0Aaron: Aph?§0
+        §0Aph: Yes Aaron?§0
+        §0Aaron: Can I ask you a question?§0
+        §0Aph: Sure! What's up?§0
+        §0Aaron: Will you be my girlfriend?§0
+        §0Laurance: (nooooo)§0
+        §0Aph: Of course!§0
+        §0Aaron: *kisses her*
+      generation: 0
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: WRITTEN_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: BOOK_SIGNED
+      title: MCD
+      author: FeistySquirrel
+      pages:
+      - |-
+        Statues:§0
+        §0Travis, Katelyn, Nicole, Lucinda, Cadenza, Kawaii~Chan, Zane, Vylad, Aphmau, Garroth, laurance, Aaron, Dante, Teony §0
+        §0
+        §0Evil Characters:§0
+        §0Gene, Sasha, Zenix, Michi, Lillian, Ivy, Alex
+      generation: 0
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    type: LAVA_BUCKET
+  '29':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_CHICKEN
+    amount: 4
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aCooked Chicken
+      enchants:
+        DAMAGE_UNDEAD: 65535
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    amount: 30
+  '33':
+    ==: org.bukkit.inventory.ItemStack
+    type: QUARTZ
+    amount: 64
+  '34':
+    ==: org.bukkit.inventory.ItemStack
+    type: QUARTZ
+    amount: 64
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    type: QUARTZ
+    amount: 8
+  '39':
+    ==: org.bukkit.inventory.ItemStack
+    type: ELYTRA
+  '44':
+    ==: org.bukkit.inventory.ItemStack
+    type: LOG
+    damage: 1
+    amount: 58
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENDER_STONE
+    amount: 64
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: OBSIDIAN
+    amount: 25
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: NETHER_BRICK
+    amount: 64
+  '30':
+    ==: org.bukkit.inventory.ItemStack
+    type: END_BRICKS
+    amount: 64
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: WATER_BUCKET
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: BUCKET
+    amount: 11
+  '35':
+    ==: org.bukkit.inventory.ItemStack
+    type: LAVA_BUCKET
+  '37':
+    ==: org.bukkit.inventory.ItemStack
+    type: MAGMA_CREAM
+    amount: 2

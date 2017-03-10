@@ -1,0 +1,1248 @@
+Inventories:
+  '54':
+    Time: 1460146820969
+    Exp: 80222
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -6115.772582186465
+      y: 92.5
+      z: 6055.495467815321
+      pitch: -2.3934038
+      yaw: 107.86316
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 85
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 448
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '8':
+        type: GRILLED_PORK
+        amount: 64
+      '9':
+        type: GRILLED_PORK
+        amount: 17
+      '10':
+        type: EMERALD
+        amount: 5
+      '11':
+        type: EXP_BOTTLE
+        amount: 10
+      '12':
+        type: DIAMOND
+        amount: 10
+      '13':
+        type: SUGAR_CANE
+        amount: 2
+      '35':
+        type: DIAMOND_HOE
+        damage: 263
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '36':
+        type: LEATHER_BOOTS
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §eFarmer Shoes
+          lore:
+          - ''
+          - §6§oPrevents you from trampling your Crops
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 255
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 27
+      '39':
+        type: DIAMOND_HELMET
+        damage: 27
+  '55':
+    Time: 1460883167639
+    Exp: 80222
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -6115.772582186465
+      y: 92.5
+      z: 6055.495467815321
+      pitch: -2.3934038
+      yaw: 107.86316
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 85
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 448
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '8':
+        type: GRILLED_PORK
+        amount: 64
+      '9':
+        type: GRILLED_PORK
+        amount: 17
+      '10':
+        type: EMERALD
+        amount: 5
+      '11':
+        type: EXP_BOTTLE
+        amount: 10
+      '12':
+        type: DIAMOND
+        amount: 10
+      '13':
+        type: SUGAR_CANE
+        amount: 2
+      '35':
+        type: DIAMOND_HOE
+        damage: 263
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '36':
+        type: LEATHER_BOOTS
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §eFarmer Shoes
+          lore:
+          - ''
+          - §6§oPrevents you from trampling your Crops
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 255
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 27
+      '39':
+        type: DIAMOND_HELMET
+        damage: 27
+  '56':
+    Time: 1462072645724
+    Exp: 85053
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: WEAKNESS
+        Duration: 209
+        Amplifier: 3
+      '2':
+        Name: SLOW
+        Duration: 209
+        Amplifier: 1
+      '3':
+        Name: BLINDNESS
+        Duration: 209
+        Amplifier: 3
+      '4':
+        Name: SLOW_DIGGING
+        Duration: 209
+        Amplifier: 1
+      '5':
+        Name: CONFUSION
+        Duration: 209
+        Amplifier: 3
+      '6':
+        Name: WITHER
+        Duration: 210
+        Amplifier: 3
+    Location:
+      world: world
+      x: -6118.400882872706
+      y: 91.5
+      z: 6055.284988922067
+      pitch: 30.42069
+      yaw: 102.640015
+    Items:
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Uranium
+          lore:
+          - ''
+          - '§2Radiation Level: HIGH'
+          - §4§oHazmat Suit required
+          internal: H4sIAAAAAAAAAE2LzU6DQBgAP40mlPgYXkmW38LBg1aSLimgQFt2bwW28rPbNhSaLk/lI8rR42RmVAAVXtJu5PyrPx8bzhR4xBW8eshyPadAWmWjSrP0ytVcfWlqy1IvXctheuUUKqjzdGH90LDrApSB3YexZ1cVAB4UeN4d+Mjgl8kA0bxGVR7wUmJn5ixFPMbtZYlPO1mssIPF7NfvzkZ6/1p7OOxtTsygpqfvsRA7tDETztaJXortjUx1E7a8psI36CftyNTJ0NhKmvlT2CYNbX/ucYbNKPsQkRF0RCRzQ6w4I1MofEla2oZZ3cV7yiPD12kaeMccvQEo8BQdBIPFKl2de7ZpCoA/iSb16SoBAAA=
+          skull-owner: CSCoreLib
+      '3':
+        type: SUGAR_CANE
+        amount: 21
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 85
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 448
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '8':
+        type: GRILLED_PORK
+        amount: 63
+      '9':
+        type: GRILLED_PORK
+        amount: 17
+      '10':
+        type: EMERALD
+        amount: 5
+      '11':
+        type: EXP_BOTTLE
+        amount: 10
+      '12':
+        type: DIAMOND
+        amount: 10
+      '13':
+        type: SUGAR_CANE
+        amount: 64
+      '14':
+        type: SUGAR_CANE
+        amount: 64
+      '15':
+        type: SPIDER_EYE
+      '16':
+        type: ROTTEN_FLESH
+        amount: 12
+      '17':
+        type: POTATO_ITEM
+      '18':
+        type: LEATHER_BOOTS
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §eFarmer Shoes
+          lore:
+          - ''
+          - §6§oPrevents you from trampling your Crops
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 255
+      '19':
+        type: STRING
+        amount: 2
+      '20':
+        type: SUGAR_CANE
+        amount: 64
+      '21':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+      '35':
+        type: DIAMOND_HOE
+        damage: 263
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 27
+      '39':
+        type: DIAMOND_HELMET
+        damage: 27
+  '57':
+    Time: 1462072664388
+    Exp: 85053
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: WEAKNESS
+        Duration: 208
+        Amplifier: 3
+      '2':
+        Name: SLOW
+        Duration: 208
+        Amplifier: 1
+      '3':
+        Name: BLINDNESS
+        Duration: 208
+        Amplifier: 3
+      '4':
+        Name: SLOW_DIGGING
+        Duration: 208
+        Amplifier: 1
+      '5':
+        Name: CONFUSION
+        Duration: 208
+        Amplifier: 3
+      '6':
+        Name: WITHER
+        Duration: 210
+        Amplifier: 3
+    Location:
+      world: world
+      x: -6116.819326046032
+      y: 91.5
+      z: 6056.087250570468
+      pitch: 35.245758
+      yaw: 159.28787
+    Items:
+      '2':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Uranium
+          lore:
+          - ''
+          - '§2Radiation Level: HIGH'
+          - §4§oHazmat Suit required
+          internal: H4sIAAAAAAAAAE2LzU6DQBgAP40mlPgYXkmW38LBg1aSLimgQFt2bwW28rPbNhSaLk/lI8rR42RmVAAVXtJu5PyrPx8bzhR4xBW8eshyPadAWmWjSrP0ytVcfWlqy1IvXctheuUUKqjzdGH90LDrApSB3YexZ1cVAB4UeN4d+Mjgl8kA0bxGVR7wUmJn5ixFPMbtZYlPO1mssIPF7NfvzkZ6/1p7OOxtTsygpqfvsRA7tDETztaJXortjUx1E7a8psI36CftyNTJ0NhKmvlT2CYNbX/ucYbNKPsQkRF0RCRzQ6w4I1MofEla2oZZ3cV7yiPD12kaeMccvQEo8BQdBIPFKl2de7ZpCoA/iSb16SoBAAA=
+          skull-owner: CSCoreLib
+      '3':
+        type: SUGAR_CANE
+        amount: 21
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: DIAMOND_PICKAXE
+        damage: 85
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '6':
+        type: DIAMOND_AXE
+        damage: 448
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '8':
+        type: GRILLED_PORK
+        amount: 63
+      '9':
+        type: GRILLED_PORK
+        amount: 17
+      '10':
+        type: EMERALD
+        amount: 5
+      '11':
+        type: EXP_BOTTLE
+        amount: 10
+      '12':
+        type: DIAMOND
+        amount: 10
+      '13':
+        type: SUGAR_CANE
+        amount: 64
+      '14':
+        type: SUGAR_CANE
+        amount: 64
+      '15':
+        type: SPIDER_EYE
+      '16':
+        type: ROTTEN_FLESH
+        amount: 12
+      '17':
+        type: POTATO_ITEM
+      '18':
+        type: LEATHER_BOOTS
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §eFarmer Shoes
+          lore:
+          - ''
+          - §6§oPrevents you from trampling your Crops
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 255
+      '19':
+        type: STRING
+        amount: 2
+      '20':
+        type: SUGAR_CANE
+        amount: 64
+      '21':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rSpider Head
+          internal: H4sIAAAAAAAAAE2LwW6CQBiE/zZtgqSP0SsJsIBy8GC06hJciyLK3oBdFVjUIFSX5+oDlmMPc/jmm1EBVPjYlq0Q3/X1mAuuwCtm8ImYO2IJY9pQ1x3NQmiouRZKeuQjN2Gm7TqWCmp/uvG6yfl9AErDn01b87sKAC8KvEeJaDn8cunp9HDW2cETmcROz+FWF2tc3Ib4Esl0ih1c9X45cXzp/tvaTbK3RYy8M70EbVpFuo82gi83RlbtfmIzMMjsq8+8jPfziha7x3pWmn0vSXjO6cIr6WxT0OL0iDuSx+HpSYqsI2EmSTFB64VX0XBlr7pSEnNnEDN+4ovhHoPxGECBN5JUHAbT7fRacz9PAf4ADi41RC4BAAA=
+          skull-owner: CSCoreLib
+      '35':
+        type: DIAMOND_HOE
+        damage: 263
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 27
+      '39':
+        type: DIAMOND_HELMET
+        damage: 27
+  '58':
+    Time: 1462086729144
+    Exp: 180451
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -6120.579633191028
+      y: 71.0
+      z: 6062.416311469886
+      pitch: 47.441048
+      yaw: 36.319275
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 85
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '2':
+        type: GRILLED_PORK
+        amount: 58
+      '3':
+        type: DIAMOND_AXE
+        damage: 452
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '8':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '9':
+        type: BANNER
+        damage: 15
+      '10':
+        type: END_ROD
+        amount: 64
+      '11':
+        type: END_ROD
+        amount: 64
+      '12':
+        type: END_ROD
+        amount: 64
+      '13':
+        type: END_ROD
+        amount: 10
+      '14':
+        type: IRON_INGOT
+        amount: 15
+      '15':
+        type: DIAMOND
+        amount: 53
+      '18':
+        type: DIAMOND_CHESTPLATE
+        damage: 28
+      '19':
+        type: DIAMOND_BOOTS
+      '36':
+        type: LEATHER_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §eFarmer Shoes
+          lore:
+          - ''
+          - §6§oPrevents you from trampling your Crops
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 255
+      '37':
+        type: DIAMOND_LEGGINGS
+      '38':
+        type: ELYTRA
+        damage: 1
+      '39':
+        type: DIAMOND_HELMET
+        damage: 28
+      '40':
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYONgYIfyGZiKi5kZWJ3zc/KLgDKMDJRLlRQhSbGQKcXMwOKUWJwKZPMzMAAAfKofVNMAAAA=
+          blockMaterial: SHIELD
+  '59':
+    Time: 1462086806572
+    Exp: 180451
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -6121.399138860825
+      y: 71.0
+      z: 6063.703708659623
+      pitch: 46.752903
+      yaw: -322.73474
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 452
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '1':
+        type: GRILLED_PORK
+        amount: 58
+      '2':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 85
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '9':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '10':
+        type: DIAMOND_BOOTS
+      '11':
+        type: END_ROD
+        amount: 64
+      '12':
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYONgYIfyGZiKi5kZWJ3zc/KLgDKMDJRLlRQhSbGQKcXMwOKUWJwKZPMzMAAAfKofVNMAAAA=
+          blockMaterial: SHIELD
+      '13':
+        type: BANNER
+        damage: 15
+      '14':
+        type: LEATHER_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §eFarmer Shoes
+          lore:
+          - ''
+          - §6§oPrevents you from trampling your Crops
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 255
+      '15':
+        type: DIAMOND_LEGGINGS
+      '17':
+        type: DIAMOND_HELMET
+        damage: 28
+      '18':
+        type: END_ROD
+        amount: 64
+      '19':
+        type: DIAMOND_CHESTPLATE
+        damage: 28
+      '20':
+        type: END_ROD
+        amount: 64
+      '21':
+        type: DIAMOND
+        amount: 53
+      '22':
+        type: END_ROD
+        amount: 10
+      '23':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '24':
+        type: IRON_INGOT
+        amount: 15
+      '38':
+        type: ELYTRA
+        damage: 1
+  '60':
+    Time: 1462120692365
+    Exp: 197454
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -6135.354286343129
+      y: 91.0
+      z: 6053.333848391029
+      pitch: -14.372789
+      yaw: 178.66211
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 458
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '1':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: GRILLED_PORK
+        amount: 57
+      '4':
+        type: SUGAR_CANE
+        amount: 64
+      '5':
+        type: SUGAR_CANE
+        amount: 64
+      '6':
+        type: SUGAR_CANE
+        amount: 64
+      '7':
+        type: SUGAR_CANE
+        amount: 64
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: END_ROD
+        amount: 64
+      '10':
+        type: END_ROD
+        amount: 64
+      '11':
+        type: ELYTRA
+        damage: 1
+      '12':
+        type: SUGAR_CANE
+        amount: 64
+      '13':
+        type: END_ROD
+        amount: 64
+      '14':
+        type: DIAMOND_BOOTS
+      '15':
+        type: SUGAR_CANE
+        amount: 64
+      '16':
+        type: DIAMOND_PICKAXE
+        damage: 85
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '17':
+        type: SUGAR_CANE
+        amount: 64
+      '18':
+        type: BANNER
+        damage: 15
+      '19':
+        type: SUGAR_CANE
+        amount: 64
+      '20':
+        type: DIAMOND
+        amount: 53
+      '21':
+        type: IRON_INGOT
+        amount: 15
+      '22':
+        type: END_ROD
+        amount: 10
+      '23':
+        type: SUGAR_CANE
+        amount: 64
+      '24':
+        type: SUGAR_CANE
+        amount: 64
+      '25':
+        type: SUGAR_CANE
+        amount: 56
+      '36':
+        type: LEATHER_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §eFarmer Shoes
+          lore:
+          - ''
+          - §6§oPrevents you from trampling your Crops
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 255
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 28
+      '39':
+        type: DIAMOND_HELMET
+        damage: 28
+      '40':
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYONgYIfyGZiKi5kZWJ3zc/KLgDKMDJRLlRQhSbGQKcXMwOKUWJwKZPMzMAAAfKofVNMAAAA=
+          blockMaterial: SHIELD
+  '61':
+    Time: 1462315754886
+    Exp: 217117
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: WEAKNESS
+        Duration: 69
+        Amplifier: 3
+      '2':
+        Name: SLOW
+        Duration: 69
+        Amplifier: 1
+      '3':
+        Name: BLINDNESS
+        Duration: 69
+        Amplifier: 3
+      '4':
+        Name: SLOW_DIGGING
+        Duration: 69
+        Amplifier: 1
+      '5':
+        Name: CONFUSION
+        Duration: 69
+        Amplifier: 3
+      '6':
+        Name: WITHER
+        Duration: 70
+        Amplifier: 3
+    Location:
+      world: world
+      x: -6130.28321232956
+      y: 84.5
+      z: 6054.784282159354
+      pitch: 46.017334
+      yaw: 209.61545
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 458
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '1':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '2':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '3':
+        type: GRILLED_PORK
+        amount: 56
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: END_ROD
+        amount: 64
+      '10':
+        type: END_ROD
+        amount: 64
+      '11':
+        type: ELYTRA
+        damage: 1
+      '12':
+        type: LEATHER_BOOTS
+        damage: 48
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §eFarmer Shoes
+          lore:
+          - ''
+          - §6§oPrevents you from trampling your Crops
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 255
+      '13':
+        type: END_ROD
+        amount: 64
+      '16':
+        type: DIAMOND_PICKAXE
+        damage: 85
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '18':
+        type: BANNER
+        damage: 15
+      '20':
+        type: DIAMOND
+        amount: 53
+      '21':
+        type: IRON_INGOT
+        amount: 15
+      '22':
+        type: END_ROD
+        amount: 10
+      '36':
+        type: DIAMOND_BOOTS
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 28
+      '39':
+        type: DIAMOND_HELMET
+        damage: 28
+      '40':
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYONgYIfyGZiKi5kZWJ3zc/KLgDKMDJRLlRQhSbGQKcXMwOKUWJwKZPMzMAAAfKofVNMAAAA=
+          blockMaterial: SHIELD
+  '62':
+    Time: 1462317329403
+    Exp: 247567
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -6140.760912197121
+      y: 71.0
+      z: 6047.615918081417
+      pitch: -3.987715
+      yaw: 255.3559
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: SUGAR_CANE
+        amount: 64
+      '2':
+        type: SUGAR_CANE
+        amount: 64
+      '3':
+        type: SUGAR_CANE
+        amount: 64
+      '4':
+        type: SUGAR_CANE
+        amount: 64
+      '5':
+        type: SUGAR_CANE
+        amount: 52
+      '6':
+        type: DIAMOND_AXE
+        damage: 490
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '7':
+        type: DIAMOND_HOE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: COOKED_BEEF
+        amount: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '11':
+        type: DIAMOND_PICKAXE
+        damage: 85
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '14':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 63
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 64
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 91
+      '39':
+        type: DIAMOND_HELMET
+        damage: 91
+      '40':
+        type: SHIELD
+        damage: 50
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYONgYIfyGZiKi5kZWJ3zc/KLgDKMDJRLlRQhSbGQKcXMwOKUWJwKZPMzMAAAfKofVNMAAAA=
+          blockMaterial: SHIELD
+  '63':
+    Time: 1462483215625
+    Exp: 266772
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -6118.558836529171
+      y: 91.5
+      z: 6045.749207015303
+      pitch: 2.5190046
+      yaw: 208.56445
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: DIAMOND_HOE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 86
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '3':
+        type: DIAMOND_SPADE
+        damage: 581
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+      '4':
+        type: DIAMOND_AXE
+        damage: 501
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '5':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '6':
+        type: LEATHER_BOOTS
+        damage: 47
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §eFarmer Shoes
+          lore:
+          - ''
+          - §6§oPrevents you from trampling your Crops
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 255
+      '7':
+        type: SUGAR_CANE
+        amount: 64
+      '8':
+        type: SUGAR_CANE
+        amount: 64
+      '9':
+        type: SUGAR_CANE
+        amount: 19
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 64
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 65
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 92
+      '39':
+        type: DIAMOND_HELMET
+        damage: 92
+      '40':
+        type: SHIELD
+        damage: 50
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYONgYIfyGZiKi5kZWJ3zc/KLgDKMDJRLlRQhSbGQKcXMwOKUWJwKZPMzMAAAfKofVNMAAAA=
+          blockMaterial: SHIELD

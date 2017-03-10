@@ -1,0 +1,91 @@
+Groups:
+  Owner:
+    Permission: nte.owner
+    Prefix: '&6⚡&bScrat&6⚡ &4'
+    Suffix: '&4'
+    SortPriority: 1
+  Plasma:
+    Permission: nte.plasma
+    Prefix: '&4[&bVIP&4]&b '
+    Suffix: '&4'
+    SortPriority: 2
+  Legend:
+    Permission: nte.legend
+    Prefix: '&b文&clost&b文 &4'
+    Suffix: '&4'
+    SortPriority: 3
+  Senior-Admin:
+    Permission: nte.senioradmin
+    Prefix: '[&4S-Admin&f] &4 '
+    Suffix: '&6'
+    SortPriority: 3
+  Admin:
+    Permission: nte.admin
+    Prefix: '[&cAdmin&f]&c '
+    Suffix: '&6'
+    SortPriority: 5
+  Senior-Moderator:
+    Permission: nte.seniormoderator
+    Prefix: '[&3S-Mod&f]&3 '
+    Suffix: '&6'
+    SortPriority: 6
+  Moderator:
+    Permission: nte.Moderator
+    Prefix: '[&bMod&f]&b '
+    Suffix: '&6'
+    SortPriority: 7
+  Trial-Moderator:
+    Permission: nte.trialmoderator
+    Prefix: '[&dT-Mod&f]&b '
+    Suffix: '&6'
+    SortPriority: 8
+  Architect:
+    Permission: nte.architect
+    Prefix: '[Architect&f] '
+    Suffix: '&7'
+    SortPriority: 9
+  Builder:
+    Permission: nte.builder
+    Prefix: '[&eBuilder&f]&e '
+    Suffix: '&7'
+    SortPriority: 10
+  Tyrant:
+    Permission: nte.Tyrant
+    Prefix: '[&cTyrant&f]&c '
+    Suffix: '&7'
+    SortPriority: 11
+  Odwar:
+    Permission: nte.Odwar
+    Prefix: '[&cOdWar&f]&c '
+    Suffix: '&7'
+    SortPriority: 12
+  Elder:
+    Permission: nte.Elder
+    Prefix: '[&5Elder&f]&5 '
+    Suffix: '&7'
+    SortPriority: 13
+  Mortal:
+    Permission: nte.Mortal
+    Prefix: '[&bMortal&f]&b '
+    Suffix: '&7'
+    SortPriority: 14
+  Titan:
+    Permission: nte.Titan
+    Prefix: '[&eTitan&f]&e '
+    Suffix: '&7'
+    SortPriority: 15
+  Squire:
+    Permission: nte.Squire
+    Prefix: '[&8Squire&f]&8 '
+    Suffix: '&7'
+    SortPriority: 16
+  Member:
+    Permission: nte.member
+    Prefix: '[&5Member&f]&5 '
+    Suffix: '&7'
+    SortPriority: 17
+  Citizen:
+    Permission: nte.Citizen
+    Prefix: '[&2Citizen&f]&d '
+    Suffix: '&d'
+    SortPriority: 18

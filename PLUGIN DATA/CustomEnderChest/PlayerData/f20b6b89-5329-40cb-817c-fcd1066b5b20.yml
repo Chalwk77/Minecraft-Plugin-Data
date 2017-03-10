@@ -1,0 +1,11 @@
+PlayerLastName: CaptainZoid
+EnderChestSize: 18
+EnderChestInventory:
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: LOG
+    amount: 41
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: CACTUS
+    amount: 3

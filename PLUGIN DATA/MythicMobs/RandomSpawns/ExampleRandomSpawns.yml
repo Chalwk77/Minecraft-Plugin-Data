@@ -1,0 +1,126 @@
+# 
+# These example files show you how to inject Mythic Mobs
+# you've created into your world. The name of each block
+# can be whatever you'd like but must be unique.
+#RandomSkeletonKing:
+#  MobType: SkeletonKing
+#  Worlds: world
+#  Chance: 0.009
+#  Priority: 1
+#  Action: replace
+#  Conditions:
+#  - outside true
+ymir_dwa:
+  MobType: ymir_dwa
+  Worlds: world
+  Chance: 0.001
+  Priority: 1
+  Action: add
+ymir_dwa_w:
+  MobType: ymir_dwa_w
+  Worlds: world
+  Chance: 0.001
+  Priority: 2
+  Action: add
+ymir_dwa_a:
+  MobType: ymir_dwa_a
+  Worlds: world
+  Chance: 0.001
+  Priority: 3
+  Action: add
+ymir_dwa_b:
+  MobType: ymir_dwa_b
+  Worlds: world
+  Chance: 0.001
+  Priority: 4
+  Action: add
+Hybridzombie:
+  MobType: Hybridzombie
+  Worlds: world
+  Chance: 0.001
+  Priority: 5
+  Action: add
+Hybridspider:
+  MobType: Hybridspider
+  Worlds: world
+  Chance: 0.001
+  Priority: 6
+  Action: add
+Lesser_snow_witch:
+  MobType: Lesser_snow_witch
+  Worlds: world
+  Chance: 0.001
+  Priority: 7
+  Action: add
+Stealthzombie:
+  MobType: Stealthzombie
+  Worlds: world
+  Chance: 0.001
+  Priority: 8
+  Action: add
+Swordspider:
+  MobType: Swordspider
+  Worlds: world
+  Chance: 0.001
+  Priority: 9
+  Action: add
+Lurker:
+  MobType: Lurker
+  Worlds: world
+  Chance: 0.001
+  Priority: 10
+  Action: add
+Villager_Bandit:
+  MobType: Villager_Bandit
+  Worlds: world
+  Chance: 0.001
+  Priority: 11
+  Action: add
+SpiderPig:
+  MobType: SpiderPig
+  Worlds: world
+  Chance: 0.001
+  Priority: 12
+  Action: add
+SkeletalKnight:
+  MobType: SkeletalKnight
+  Worlds: world
+  Chance: 0.001
+  Priority: 13
+  Action: add
+WitherSkeleton_Warriors:
+  MobType: WitherSkeleton_Warriors
+  Worlds: world
+  Chance: 0.001
+  Priority: 14
+  Action: add
+Kraken:
+  MobType: Kraken
+  Worlds: world
+  Chance: 0.001
+  Priority: 15
+  Action: add
+BeachWalker:
+  MobType: BeachWalker
+  Worlds: world
+  Chance: 0.001
+  Priority: 16
+  Action: add
+Jacksparrow:
+  MobType: Jacksparrow
+  Worlds: world
+  Chance: 0.001
+  Priority: 17
+  Action: add
+Sailor:
+  MobType: Sailor
+  Worlds: world
+  Chance: 0.001
+  Priority: 18
+  Action: add
+DSent:
+  MobType: DSent
+  Worlds: world
+  Chance: 0.001
+  Priority: 19
+  Action: add

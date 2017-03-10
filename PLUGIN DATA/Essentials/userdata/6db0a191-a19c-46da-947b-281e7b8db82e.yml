@@ -1,0 +1,22 @@
+geolocation: United States
+lastAccountName: NinjazyMC
+timestamps:
+  login: 1471035540606
+  lastteleport: 1471035499238
+  logout: 1471035804608
+ipAddress: 72.25.31.125
+lastlocation:
+  world: world
+  x: 476710.31646654895
+  y: 75.0
+  z: 443199.7520271924
+  yaw: -130.23056
+  pitch: 34.45369
+logoutlocation:
+  world: world
+  x: 476711.52499137033
+  y: 76.0
+  z: 443219.01548967697
+  yaw: -115.48907
+  pitch: 17.607698
+money: '2500'

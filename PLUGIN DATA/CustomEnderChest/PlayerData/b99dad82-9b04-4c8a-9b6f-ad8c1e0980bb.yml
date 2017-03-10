@@ -1,0 +1,43 @@
+PlayerLastName: rollerman48
+EnderChestSize: 18
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: LOG
+    damage: 1
+    amount: 64
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    damage: 1
+    amount: 64
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER
+    amount: 9
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_SPADE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §8§lIron Shovel
+      lore:
+      - §8IRON KIT
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §8§lIron Pickaxe
+      lore:
+      - §8IRON KIT
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10

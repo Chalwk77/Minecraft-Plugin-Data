@@ -1,0 +1,1441 @@
+Inventories:
+  '3':
+    Time: 1459689839048
+    Exp: 3602
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 71826
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2.0366872991335675E7
+      y: 78.0
+      z: -1.2851662844064195E7
+      pitch: -90.0
+      yaw: 333.34518
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 274
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 65
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 33
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: COOKED_BEEF
+        amount: 37
+      '9':
+        type: STONE
+      '10':
+        type: COBBLESTONE
+        amount: 64
+      '11':
+        type: STONE
+        damage: 5
+        amount: 3
+      '12':
+        type: EMERALD
+        amount: 7
+      '13':
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eVillager §fSpawner
+          internal: H4sIAAAAAAAAAF2NwQrCUAwE1wolDaL/JPXgTajoOWh4hoa2tAH177V9F/G2MLMMA4zt3vtbe+jC4n2WRKC8j3fQxdwl6Vhh1wzy7E596BeKTwxgxSizSyjsR8ca5VUtPWK25ki13GsJ+VcZm8a8XbiOUwHSnK/xAj4Xo5sEogAAAA==
+          blockMaterial: MOB_SPAWNER
+      '14':
+        type: ROTTEN_FLESH
+        amount: 12
+      '15':
+        type: NAME_TAG
+        amount: 6
+      '16':
+        type: COAL
+        amount: 64
+      '17':
+        type: COAL
+        amount: 64
+      '18':
+        type: STONE
+        damage: 3
+        amount: 2
+      '19':
+        type: COBBLESTONE
+        amount: 17
+      '20':
+        type: BIRCH_DOOR_ITEM
+        amount: 3
+      '22':
+        type: COAL
+        amount: 63
+      '28':
+        type: DIAMOND_PICKAXE
+        damage: 50
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+          repair-cost: 1
+      '29':
+        type: DIAMOND_CHESTPLATE
+        damage: 132
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '31':
+        type: COAL
+        amount: 4
+      '34':
+        type: EMERALD
+        amount: 8
+      '35':
+        type: IRON_HELMET
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10000
+            DEPTH_STRIDER: 10000
+            PROTECTION_FIRE: 10000
+            PROTECTION_EXPLOSIONS: 10000
+            PROTECTION_PROJECTILE: 10000
+            THORNS: 10000
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 104
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: ELYTRA
+        damage: 139
+      '39':
+        type: DIAMOND_HELMET
+        damage: 125
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '4':
+    Time: 1459766729909
+    Exp: 5956
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 12.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3067.3601792554837
+      y: 54.0
+      z: -3320.4302489976103
+      pitch: 29.550116
+      yaw: 108.938965
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 194
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+          repair-cost: 1
+      '2':
+        type: DIAMOND_SPADE
+        damage: 65
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: TORCH
+        amount: 13
+      '5':
+        type: LOG
+        amount: 21
+      '6':
+        type: ARROW
+        amount: 8
+      '7':
+        type: BONE
+        amount: 4
+      '8':
+        type: COOKED_BEEF
+        amount: 30
+      '9':
+        type: GLOWSTONE_DUST
+        amount: 11
+      '10':
+        type: COAL
+        amount: 5
+      '11':
+        type: STEP
+        damage: 3
+      '12':
+        type: STONE
+        amount: 30
+      '13':
+        type: STONE
+        damage: 1
+        amount: 4
+      '14':
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eVillager §fSpawner
+          internal: H4sIAAAAAAAAAF2NwQrCUAwE1wolDaL/JPXgTajoOWh4hoa2tAH177V9F/G2MLMMA4zt3vtbe+jC4n2WRKC8j3fQxdwl6Vhh1wzy7E596BeKTwxgxSizSyjsR8ca5VUtPWK25ki13GsJ+VcZm8a8XbiOUwHSnK/xAj4Xo5sEogAAAA==
+          blockMaterial: MOB_SPAWNER
+      '15':
+        type: WOOD
+        amount: 14
+      '20':
+        type: DIAMOND_PICKAXE
+        damage: 286
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+            MENDING: 1
+          repair-cost: 1
+      '32':
+        type: SAPLING
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 153
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10000
+            DEPTH_STRIDER: 10000
+            PROTECTION_FIRE: 10000
+            PROTECTION_EXPLOSIONS: 10000
+            PROTECTION_PROJECTILE: 10000
+            THORNS: 10000
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 123
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 139
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 141
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '5':
+    Time: 1459767243239
+    Exp: 5956
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -703994.8103974378
+      y: 72.0
+      z: 446028.4190619791
+      pitch: 4.349743
+      yaw: 66.798676
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COOKED_BEEF
+        amount: 18
+      '2':
+        type: DIAMOND_BOOTS
+      '8':
+        type: BOW
+        damage: 38
+      '9':
+        type: DIAMOND_BOOTS
+        damage: 175
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10000
+            DEPTH_STRIDER: 10000
+            PROTECTION_FIRE: 10000
+            PROTECTION_EXPLOSIONS: 10000
+            PROTECTION_PROJECTILE: 10000
+            THORNS: 10000
+      '17':
+        type: ARROW
+        amount: 14
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 254
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 273
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 281
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '6':
+    Time: 1459767410543
+    Exp: 100
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -704011.6999999881
+      y: 72.0
+      z: 446045.6999999881
+      pitch: 18.252916
+      yaw: 186.49957
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COOKED_BEEF
+        amount: 17
+      '8':
+        type: BOW
+        damage: 38
+      '9':
+        type: DIAMOND_BOOTS
+      '10':
+        type: ARROW
+        amount: 14
+      '11':
+        type: DIAMOND_BOOTS
+        damage: 183
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10000
+            DEPTH_STRIDER: 10000
+            PROTECTION_FIRE: 10000
+            PROTECTION_EXPLOSIONS: 10000
+            PROTECTION_PROJECTILE: 10000
+            THORNS: 10000
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 277
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 293
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 304
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '7':
+    Time: 1459768485871
+    Exp: 127
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3193.8756139079824
+      y: 68.0
+      z: -3368.4890810604543
+      pitch: 19.499767
+      yaw: 267.1189
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: COOKED_BEEF
+        amount: 16
+      '2':
+        type: LEATHER
+        amount: 3
+      '3':
+        type: WOOL
+        amount: 3
+      '4':
+        type: FEATHER
+        amount: 2
+      '8':
+        type: BOW
+        damage: 163
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+          repair-cost: 1
+      '17':
+        type: ARROW
+  '8':
+    Time: 1459847488752
+    Exp: 162
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3065.2284289134273
+      y: 54.0
+      z: -3318.4075413389946
+      pitch: 8.399848
+      yaw: 30.543945
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 31
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 313
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+            MENDING: 1
+          repair-cost: 1
+      '2':
+        type: DIAMOND_SPADE
+        damage: 68
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: IRON_BLOCK
+        amount: 64
+      '5':
+        type: IRON_BLOCK
+        amount: 64
+      '6':
+        type: IRON_BLOCK
+        amount: 64
+      '7':
+        type: IRON_BLOCK
+        amount: 64
+      '8':
+        type: COOKED_BEEF
+        amount: 62
+      '9':
+        type: IRON_BLOCK
+        amount: 64
+      '10':
+        type: IRON_BLOCK
+        amount: 64
+      '11':
+        type: IRON_BLOCK
+        amount: 64
+      '12':
+        type: IRON_BLOCK
+        amount: 64
+      '13':
+        type: IRON_BLOCK
+        amount: 64
+      '14':
+        type: IRON_BLOCK
+        amount: 64
+      '15':
+        type: IRON_BLOCK
+        amount: 64
+      '16':
+        type: IRON_BLOCK
+        amount: 64
+      '17':
+        type: IRON_BLOCK
+        amount: 64
+      '18':
+        type: IRON_BLOCK
+        amount: 64
+      '19':
+        type: IRON_BLOCK
+        amount: 64
+      '20':
+        type: IRON_BLOCK
+        amount: 64
+      '21':
+        type: IRON_BLOCK
+        amount: 64
+      '22':
+        type: IRON_BLOCK
+        amount: 64
+      '23':
+        type: IRON_BLOCK
+        amount: 64
+      '24':
+        type: IRON_BLOCK
+        amount: 64
+      '25':
+        type: IRON_BLOCK
+        amount: 64
+      '26':
+        type: IRON_BLOCK
+        amount: 64
+      '27':
+        type: DIAMOND_PICKAXE
+        damage: 194
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+          repair-cost: 1
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 200
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: MY OP BOOTS!!!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10000
+            DEPTH_STRIDER: 10000
+            PROTECTION_FIRE: 10000
+            PROTECTION_EXPLOSIONS: 10000
+            PROTECTION_PROJECTILE: 10000
+            THORNS: 10000
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '39':
+        type: DIAMOND_HELMET
+        damage: 23
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+  '9':
+    Time: 1460146824009
+    Exp: 162
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3059.551948670765
+      y: 54.0
+      z: -3322.171957317449
+      pitch: 10.2001095
+      yaw: 77.0791
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 31
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 371
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+            MENDING: 1
+          repair-cost: 1
+      '2':
+        type: DIAMOND_SPADE
+        damage: 68
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 68
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '8':
+        type: COOKED_BEEF
+        amount: 61
+      '27':
+        type: DIAMOND_PICKAXE
+        damage: 194
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+          repair-cost: 1
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 200
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: MY OP BOOTS!!!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10000
+            DEPTH_STRIDER: 10000
+            PROTECTION_FIRE: 10000
+            PROTECTION_EXPLOSIONS: 10000
+            PROTECTION_PROJECTILE: 10000
+            THORNS: 10000
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '39':
+        type: DIAMOND_HELMET
+        damage: 23
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+  '10':
+    Time: 1460883165133
+    Exp: 175
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 11.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -3061.3262510554305
+      y: 65.0
+      z: -3345.5547837026147
+      pitch: 22.799963
+      yaw: 1.507019
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 31
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 436
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+            MENDING: 1
+          repair-cost: 1
+      '2':
+        type: DIAMOND_SPADE
+        damage: 73
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 93
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: IRON_BLOCK
+        amount: 55
+      '5':
+        type: LOG
+        amount: 16
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rIron Golem Head
+          internal: H4sIAAAAAAAAAE2LwU6DQBiEf40mlPgYXkkWKLQcFWoKKSCwUtjbAoul7LYNBS08kw8p3jxMMpPvGxlAhqekHTh/7851w5kE924Fz7RGVm3QSqErS1WWRblWqLaulbW2QktDY4WKChnk+XRhXd+w6wKknt36oWNXGQDuJHhMKR8Y/LDRQyQ7oCrzeDm65rxxgnjoHi8r95SOhe2arpj59sXcjdY/1+jp3uC57h3IKRoKkaKdHnO2jdVSfHyFTvsd4rc2mDjP8asIMOfkWM1pEXGqJhcbjeBU+LgSvsh14kRqMHnHwIlF+OdPZO6ft3C/0X0cNXWmWgASPARUMFjYiX3u2K4pAH4B2Lfi7CYBAAA=
+          skull-owner: CSCoreLib
+      '7':
+        type: TORCH
+        amount: 55
+      '8':
+        type: COOKED_BEEF
+        amount: 53
+      '9':
+        type: GRILLED_PORK
+        amount: 57
+      '10':
+        type: COBBLESTONE
+        amount: 64
+      '11':
+        type: SAPLING
+        amount: 6
+      '12':
+        type: STONE
+        damage: 3
+        amount: 13
+      '13':
+        type: COBBLESTONE
+        amount: 64
+      '14':
+        type: FLINT
+        amount: 25
+      '15':
+        type: APPLE
+        amount: 3
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '18':
+        type: IRON_ORE
+        amount: 9
+      '19':
+        type: STICK
+        amount: 29
+      '20':
+        type: WOOD
+        amount: 11
+      '21':
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        type: FENCE
+        amount: 5
+      '23':
+        type: STONE
+        damage: 1
+        amount: 24
+      '24':
+        type: COBBLESTONE
+        amount: 64
+      '25':
+        type: SUGAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Aluminum Dust
+      '26':
+        type: COAL
+        amount: 17
+      '27':
+        type: DIAMOND_PICKAXE
+        damage: 194
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+          repair-cost: 1
+      '28':
+        type: COBBLESTONE
+        amount: 64
+      '29':
+        type: COBBLESTONE
+        amount: 34
+      '30':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cApple Oak Sapling
+      '32':
+        type: IRON_BLOCK
+        amount: 64
+      '33':
+        type: TORCH
+        amount: 12
+      '34':
+        type: COBBLESTONE
+        amount: 64
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 238
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: MY OP BOOTS!!!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10000
+            DEPTH_STRIDER: 10000
+            PROTECTION_FIRE: 10000
+            PROTECTION_EXPLOSIONS: 10000
+            PROTECTION_PROJECTILE: 10000
+            THORNS: 10000
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 22
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '39':
+        type: DIAMOND_HELMET
+        damage: 52
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+  '11':
+    Time: 1462120695768
+    Exp: 4860
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.4000006
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14824.917855394906
+      y: 65.0
+      z: 9279.823826824382
+      pitch: 43.04998
+      yaw: 274.30408
+    Items:
+      '0':
+        type: COBBLESTONE
+        amount: 64
+      '1':
+        type: BEACON
+        amount: 2
+      '2':
+        type: GLASS
+        amount: 13
+      '3':
+        type: PACKED_ICE
+        amount: 24
+      '4':
+        type: DIAMOND_PICKAXE
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '5':
+        type: WOOD_STEP
+        damage: 1
+        amount: 46
+      '6':
+        type: DIAMOND_SPADE
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '7':
+        type: SEA_LANTERN
+        amount: 24
+      '8':
+        type: COOKED_CHICKEN
+        amount: 62
+      '9':
+        type: STONE
+        amount: 57
+      '10':
+        type: REDSTONE
+        amount: 40
+      '11':
+        type: PRISMARINE_CRYSTALS
+        amount: 2
+      '12':
+        type: SHEARS
+      '14':
+        type: SNOW_BALL
+        amount: 4
+      '15':
+        type: HOPPER
+        amount: 64
+      '17':
+        type: DIAMOND_HELMET
+      '18':
+        type: LEVER
+        amount: 2
+      '19':
+        type: DISPENSER
+      '20':
+        type: REDSTONE_COMPARATOR
+      '21':
+        type: DIODE
+        amount: 8
+      '22':
+        type: DIRT
+        amount: 28
+      '23':
+        type: IRON_DOOR
+      '24':
+        type: WOOD
+        damage: 1
+        amount: 2
+      '25':
+        type: IRON_BLOCK
+        amount: 42
+      '26':
+        type: SLIME_BLOCK
+        amount: 3
+      '27':
+        type: SMOOTH_BRICK
+        amount: 7
+      '28':
+        type: SMOOTH_STAIRS
+        amount: 4
+      '31':
+        type: DIAMOND_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '33':
+        type: COBBLESTONE
+        amount: 4
+      '34':
+        type: WOOD_STEP
+        damage: 1
+        amount: 62
+      '35':
+        type: PACKED_ICE
+        amount: 47
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: MY OP BOOTS!!!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10000
+            PROTECTION_FIRE: 10000
+            PROTECTION_EXPLOSIONS: 10000
+            PROTECTION_PROJECTILE: 10000
+            MENDING: 1
+            THORNS: 10000
+            DEPTH_STRIDER: 10000
+          repair-cost: 15
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            MENDING: 1
+            THORNS: 10
+          repair-cost: 15
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+  '12':
+    Time: 1462483219597
+    Exp: 127
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 474.6320580439144
+      y: 89.0
+      z: -187.75574949302717
+      pitch: -1.2000078
+      yaw: 88.60007
+    Items:
+      '0':
+        type: LEVER
+        amount: 2
+      '1':
+        type: BRICK_STAIRS
+        amount: 2
+      '2':
+        type: GLASS
+        amount: 13
+      '3':
+        type: DIAMOND_AXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '4':
+        type: SHEARS
+        damage: 1
+      '5':
+        type: SIGN
+        amount: 3
+      '6':
+        type: HOPPER
+        amount: 62
+      '7':
+        type: BUCKET
+        amount: 2
+      '12':
+        type: STICK
+      '13':
+        type: WOOD
+        damage: 1
+        amount: 16
+      '14':
+        type: ENCHANTMENT_TABLE
+      '15':
+        type: CARPET
+        damage: 11
+        amount: 16
+      '16':
+        type: IRON_BLOCK
+        amount: 26
+      '17':
+        type: STEP
+        amount: 16
+      '22':
+        type: STICK
+        amount: 28
+      '25':
+        type: GOLD_PLATE
+        amount: 3
+      '26':
+        type: DAYLIGHT_DETECTOR
+        amount: 2
+      '30':
+        type: STEP
+        amount: 64
+      '33':
+        type: DIAMOND_PICKAXE
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '35':
+        type: PACKED_ICE
+        amount: 7
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 65
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: MY OP BOOTS!!!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10000
+            PROTECTION_FIRE: 10000
+            PROTECTION_EXPLOSIONS: 10000
+            PROTECTION_PROJECTILE: 10000
+            MENDING: 1
+            THORNS: 10000
+            DEPTH_STRIDER: 10000
+          repair-cost: 15
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 136
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            MENDING: 1
+            THORNS: 10
+          repair-cost: 15
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 146
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §5Grants the user unwavering protection
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+          repair-cost: 1
+      '39':
+        type: ANVIL
+      '40':
+        type: COOKED_CHICKEN
+        amount: 44

@@ -1,0 +1,42 @@
+lastAccountName: ImaginaryAus
+timestamps:
+  login: 1477197333260
+  lastteleport: 1477200901276
+  logout: 1477201491722
+  kits:
+    firework: 1462778821737
+    color: 1468744225401
+    pw: 1469860734800
+    sking_arena: 1465913178993
+    tools: 1447392117881
+    overlord: 1461475614265
+  jail: 0
+ipAddress: 210.185.91.109
+geolocation: Australia
+lastlocation:
+  world: world_the_end
+  x: -192.64594274661215
+  y: 71.69257445153184
+  z: -1354.676069074057
+  yaw: 146.80124
+  pitch: 12.757242
+money: '1520820.07204999999852391'
+logoutlocation:
+  world: world
+  x: -310398.5854297732
+  y: 93.0
+  z: -626000.499624857
+  yaw: 35.056458
+  pitch: 10.184794
+afk: false
+homes:
+  home:
+    world: world
+    x: 126915.30000001192
+    y: 55.0
+    z: 433100.0134529365
+    yaw: 270.98193
+    pitch: 7.953226
+godmode: true
+teleportenabled: false
+jailed: false

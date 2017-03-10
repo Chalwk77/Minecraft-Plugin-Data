@@ -1,0 +1,21 @@
+lastAccountName: __gutsPrince__
+timestamps:
+  login: 1469998689728
+  logout: 1469998709700
+ipAddress: 73.204.33.78
+geolocation: United States
+lastlocation:
+  world: world
+  x: 477.5
+  y: 89.0
+  z: -187.5
+  yaw: 315.0
+  pitch: 0.44998962
+logoutlocation:
+  world: world
+  x: 477.75558808418657
+  y: 89.0
+  z: -187.02806171410563
+  yaw: 270.54996
+  pitch: -1.0500194
+money: '2500'

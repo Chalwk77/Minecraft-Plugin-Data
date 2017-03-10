@@ -1,0 +1,41 @@
+lastAccountName: kdc029
+timestamps:
+  login: 1479437734441
+  kits:
+    color: 1447283295694
+    iron: 1456458099169
+    dtools: 1479437899993
+    food: 1472602486733
+  lastteleport: 1479437843971
+  logout: 1479437972437
+  jail: 0
+ipAddress: 68.108.190.108
+geolocation: Las Vegas, Nevada, United States
+lastlocation:
+  world: world
+  x: 476798.66279327474
+  y: 125.74854000727336
+  z: 443242.20488258655
+  yaw: 97.87617
+  pitch: 29.095232
+money: '1184618.7760000000057091'
+homes:
+  home:
+    world: world
+    x: 476710.52602020116
+    y: 75.0
+    z: 443203.7558603183
+    yaw: -3.1476746
+    pitch: 70.34985
+logoutlocation:
+  world: world
+  x: -18630.92478343234
+  y: 115.48455964680561
+  z: 10618.949999988079
+  yaw: 68.161896
+  pitch: 43.859993
+afk: false
+jailed: false
+godmode: false
+mail:
+- §6[§rBiscuit894§6] §rDo you still have that pick for sale?

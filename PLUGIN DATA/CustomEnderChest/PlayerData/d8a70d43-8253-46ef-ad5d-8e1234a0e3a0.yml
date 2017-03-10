@@ -1,0 +1,94 @@
+PlayerLastName: _Lockie_
+EnderChestSize: 54
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: ROTTEN_FLESH
+    amount: 2
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Tome of Knowledge Sharing
+      lore:
+      - '§7Owner: §bNone'
+      - ''
+      - §eRight Click§7 to bind this Tome to yourself
+      - ''
+      - ''
+      - §eRight Click§7 to obtain all Researches by
+      - §7the previously assigned Owner
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §4Hood of Bongo Bongo
+      lore:
+      - §6The Hood of Bongo Bongo
+      enchants:
+        PROTECTION_PROJECTILE: 10
+        OXYGEN: 5
+      Unbreakable: true
+      color:
+        ==: Color
+        RED: 0
+        BLUE: 0
+        GREEN: 0
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §4Tunic of Bongo Bongo
+      lore:
+      - §6The Tunic of Bongo Bongo
+      enchants:
+        PROTECTION_FIRE: 10
+        THORNS: 5
+      Unbreakable: true
+      color:
+        ==: Color
+        RED: 0
+        BLUE: 0
+        GREEN: 0
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §4Leggings of Bongo Bongo
+      lore:
+      - §6The Leggings of Bongo Bongo
+      enchants:
+        PROTECTION_EXPLOSIONS: 10
+        THORNS: 5
+      Unbreakable: true
+      color:
+        ==: Color
+        RED: 0
+        BLUE: 0
+        GREEN: 0
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §4Feet of Bongo Bongo
+      lore:
+      - §6The Feet of Bongo Bongo
+      enchants:
+        DEPTH_STRIDER: 5
+        PROTECTION_FALL: 10
+      Unbreakable: true
+      color:
+        ==: Color
+        RED: 0
+        BLUE: 0
+        GREEN: 0

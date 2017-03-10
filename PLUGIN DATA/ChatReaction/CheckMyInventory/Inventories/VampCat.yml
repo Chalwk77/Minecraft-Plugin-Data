@@ -1,0 +1,996 @@
+Inventories:
+  '25':
+    Time: 1458455363580
+    Exp: 4928950
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9989163
+        Amplifier: 1
+    Location:
+      world: world
+      x: -15437.233343020464
+      y: 64.0
+      z: -13367.194509508723
+      pitch: 24.741674
+      yaw: 34.40161
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 89
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 335
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: IRON_HOE
+        damage: 2
+      '7':
+        type: LAPIS_BLOCK
+        amount: 43
+      '8':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '17':
+        type: DIAMOND_PICKAXE
+        damage: 33
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+            DURABILITY: 3
+          repair-cost: 3
+      '34':
+        type: LAPIS_BLOCK
+        amount: 64
+  '26':
+    Time: 1459465466530
+    Exp: 4928950
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9989163
+        Amplifier: 1
+    Location:
+      world: world
+      x: -15437.233343020464
+      y: 64.0
+      z: -13367.194509508723
+      pitch: 24.741674
+      yaw: 34.40161
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 89
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 335
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: IRON_HOE
+        damage: 2
+      '7':
+        type: LAPIS_BLOCK
+        amount: 43
+      '8':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '17':
+        type: DIAMOND_PICKAXE
+        damage: 33
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+            DURABILITY: 3
+          repair-cost: 3
+      '34':
+        type: LAPIS_BLOCK
+        amount: 64
+  '27':
+    Time: 1459469874926
+    Exp: 4928950
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 8.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9989163
+        Amplifier: 1
+    Location:
+      world: world
+      x: -15437.233343020464
+      y: 64.0
+      z: -13367.194509508723
+      pitch: 24.741674
+      yaw: 34.40161
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 89
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 335
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: IRON_HOE
+        damage: 2
+      '7':
+        type: LAPIS_BLOCK
+        amount: 43
+      '8':
+        type: GOLD_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '17':
+        type: DIAMOND_PICKAXE
+        damage: 33
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+            DURABILITY: 3
+          repair-cost: 3
+      '34':
+        type: LAPIS_BLOCK
+        amount: 64
+  '28':
+    Time: 1459659264639
+    Exp: 5047391
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -11984.893513158782
+      y: 80.0
+      z: -11503.698639591074
+      pitch: 2.3207784
+      yaw: 246.93008
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 89
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 335
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: IRON_HOE
+        damage: 2
+      '3':
+        type: ROTTEN_FLESH
+        amount: 4
+      '7':
+        type: LAPIS_BLOCK
+        amount: 43
+      '8':
+        type: GOLD_SWORD
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Sword
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 5
+            LOOT_BONUS_MOBS: 10
+      '17':
+        type: DIAMOND_PICKAXE
+        damage: 33
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+            DURABILITY: 3
+          repair-cost: 3
+      '34':
+        type: LAPIS_BLOCK
+        amount: 64
+  '29':
+    Time: 1459766739083
+    Exp: 6774005
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 72218
+        Amplifier: 1
+    Location:
+      world: world
+      x: -15234.300000011921
+      y: 13.200000047683716
+      z: -13441.067613733941
+      pitch: 10.17548
+      yaw: 268.12207
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 483
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: COBBLESTONE
+        amount: 64
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 14
+      '9':
+        type: COAL
+        amount: 64
+      '10':
+        type: COAL
+        amount: 56
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: COBBLESTONE
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 64
+      '18':
+        type: REDSTONE
+        amount: 64
+      '19':
+        type: REDSTONE
+        amount: 42
+      '22':
+        type: COBBLESTONE
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 64
+      '24':
+        type: COBBLESTONE
+        amount: 64
+      '25':
+        type: COBBLESTONE
+        amount: 64
+      '26':
+        type: COBBLESTONE
+        amount: 64
+      '27':
+        type: IRON_ORE
+        amount: 3
+      '28':
+        type: STRING
+      '33':
+        type: STONE
+        damage: 5
+        amount: 10
+      '34':
+        type: STONE
+        damage: 5
+        amount: 64
+      '35':
+        type: STONE
+        damage: 3
+        amount: 36
+      '38':
+        type: ELYTRA
+  '30':
+    Time: 1459847490013
+    Exp: 6774005
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 72218
+        Amplifier: 1
+    Location:
+      world: world
+      x: -15234.300000011921
+      y: 13.200000047683716
+      z: -13441.067613733941
+      pitch: 10.17548
+      yaw: 268.12207
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 483
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: COBBLESTONE
+        amount: 64
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 14
+      '9':
+        type: COAL
+        amount: 64
+      '10':
+        type: COAL
+        amount: 56
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: COBBLESTONE
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 64
+      '18':
+        type: REDSTONE
+        amount: 64
+      '19':
+        type: REDSTONE
+        amount: 42
+      '22':
+        type: COBBLESTONE
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 64
+      '24':
+        type: COBBLESTONE
+        amount: 64
+      '25':
+        type: COBBLESTONE
+        amount: 64
+      '26':
+        type: COBBLESTONE
+        amount: 64
+      '27':
+        type: IRON_ORE
+        amount: 3
+      '28':
+        type: STRING
+      '33':
+        type: STONE
+        damage: 5
+        amount: 10
+      '34':
+        type: STONE
+        damage: 5
+        amount: 64
+      '35':
+        type: STONE
+        damage: 3
+        amount: 36
+      '38':
+        type: ELYTRA
+  '31':
+    Time: 1460146825290
+    Exp: 6774005
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 72218
+        Amplifier: 1
+    Location:
+      world: world
+      x: -15234.300000011921
+      y: 13.200000047683716
+      z: -13441.067613733941
+      pitch: 10.17548
+      yaw: 268.12207
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 483
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: COBBLESTONE
+        amount: 64
+      '3':
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        type: COBBLESTONE
+        amount: 14
+      '9':
+        type: COAL
+        amount: 64
+      '10':
+        type: COAL
+        amount: 56
+      '11':
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: COBBLESTONE
+        amount: 64
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 64
+      '18':
+        type: REDSTONE
+        amount: 64
+      '19':
+        type: REDSTONE
+        amount: 42
+      '22':
+        type: COBBLESTONE
+        amount: 64
+      '23':
+        type: COBBLESTONE
+        amount: 64
+      '24':
+        type: COBBLESTONE
+        amount: 64
+      '25':
+        type: COBBLESTONE
+        amount: 64
+      '26':
+        type: COBBLESTONE
+        amount: 64
+      '27':
+        type: IRON_ORE
+        amount: 3
+      '28':
+        type: STRING
+      '33':
+        type: STONE
+        damage: 5
+        amount: 10
+      '34':
+        type: STONE
+        damage: 5
+        amount: 64
+      '35':
+        type: STONE
+        damage: 3
+        amount: 36
+      '38':
+        type: ELYTRA
+  '32':
+    Time: 1460883172505
+    Exp: 6784670
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 3794
+        Amplifier: 1
+    Location:
+      world: world
+      x: -15433.779436935336
+      y: 64.0
+      z: -13374.100872043968
+      pitch: 27.013832
+      yaw: 277.20685
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 233
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '38':
+        type: ELYTRA
+  '33':
+    Time: 1462120697263
+    Exp: 7856495
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -15414.332133366312
+      y: 63.0
+      z: -13352.415862378768
+      pitch: 39.98975
+      yaw: 35.918884
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: FENCE
+        amount: 3
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rOcelot Head
+          internal: H4sIAAAAAAAAAE2L3W6CMBhAvy1bgmSPsVsSKhblciNOa2zd5EfaO6pl/BQ1CIvwTHvIcbnLk3OOCWDCS1B1Wn82l6zQyoBHcoJXN8UIpZ6yZtJxrRmaSstDmWfZ84WbIplJiRcmmON0VU1bqNsEjFbd265RNxMAHgx4jlPdKfhV/cYWSW6fko0+9sQdOQxsvSPldU7OcS994pJ69Os3d9t7/1rcpgesubPJxfmrk3Vsb529Vus9OtbRDws5YlNWsQPtd+E3FjXHbIgcuhKaD/tKrFjFB45pKXJW5jkdKKYDQXRF77yO7qJ8L2i4tHn4UfFyWWQJ8gAMeGJprWDiB/6lUdtCAvwBCgxzuSYBAAA=
+          skull-owner: CSCoreLib
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 9
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rVery lucky Block
+          lore:
+          - '§7Luck: §a+80'
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '5':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §aPear Juice
+          lore:
+          - ''
+          - §7§oRestores §b§o3.0 §7§oHunger
+          custom-effects:
+          - ==: PotionEffect
+            effect: 23
+            duration: 6
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '6':
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Blistering Ingot §7(66%)
+          lore:
+          - ''
+          - '§2Radiation Level: HIGH'
+          - §4§oHazmat Suit required
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rLucky Block
+          lore:
+          - '§7Luck: §r0'
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '8':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rVery lucky Block
+          lore:
+          - '§7Luck: §a+80'
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '9':
+        type: POTATO_ITEM
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lPotatOS
+      '10':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: harming
+      '11':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: slowness
+      '12':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: weakness
+      '13':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: poison
+      '14':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '15':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '16':
+        type: SLIME_BALL
+        amount: 10
+      '17':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rVillager Head
+          internal: H4sIAAAAAAAAAE3Ly26CQBiG4b9NmyDpZXRLwllZNmh0CIdyhtkNOATqjBoEA1xTL7Isu/zyPp8IIMJHfBkZ++5vTceoAK/oDJ+aRpRGV01JbSpD0oleS6QyLWlnbGvVauodsRoRxPV0p/3Q0ccGhIFOw9jThwgALwK8Z4SNFH7p7Mi4aOVz4bB6Rua6k1hmAfq5b9E1mysbmYiv/fRlurP1zxoDyQ1Wak6Lr+FY8Ux2tYjRU6TUPH0GezTjfcv8JZ3KpeUexxf/6OlBEs7lEsoljzqPl0qpHuTVtThZbVIrOA8XnKNltVNwPOg+Tw1PRV1TKBaAAG8+4RQ2dmzfeup2FcAflm0iOSYBAAA=
+          skull-owner: CSCoreLib
+      '18':
+        type: GOLD_INGOT
+        amount: 18
+      '19':
+        type: EMERALD
+      '20':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: strength
+      '21':
+        type: GOLD_BLOCK
+        amount: 61
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lGold of Destiny
+          lore:
+          - §6§lA Present For You
+      '22':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '23':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: healing
+      '24':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: swiftness
+      '25':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: night_vision
+      '26':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: regeneration
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: ELYTRA
+        damage: 16
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '34':
+    Time: 1462483212613
+    Exp: 8775697
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -15407.345227952204
+      y: 65.19788672865297
+      z: -13355.23865560998
+      pitch: 44.584187
+      yaw: -60.862183
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '1':
+        type: DIAMOND_SWORD
+        damage: 62
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '8':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rVery lucky Block
+          lore:
+          - '§7Luck: §a+80'
+          internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+          skull-owner: CSCoreLib
+      '9':
+        type: FENCE
+      '38':
+        type: ELYTRA

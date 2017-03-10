@@ -1,0 +1,2079 @@
+Inventories:
+  '25':
+    Time: 1458455352179
+    Exp: 186
+    Health: 17.479999542236328
+    MaxHealth: 20.0
+    Saturation: 9.8
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 1.4575705625252737E7
+      y: 64.0
+      z: 2.0387954465619087E7
+      pitch: 26.011345
+      yaw: -235.33463
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: FURNACE
+      '2':
+        type: COOKED_BEEF
+        amount: 50
+      '3':
+        type: GOLD_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 3
+      '5':
+        type: DIAMOND_AXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '8':
+        type: STONE_SWORD
+        damage: 5
+      '9':
+        type: LOG
+        amount: 45
+      '11':
+        type: RAW_CHICKEN
+        amount: 2
+      '12':
+        type: APPLE
+      '13':
+        type: WOOD
+        amount: 12
+      '14':
+        type: COBBLESTONE
+        amount: 6
+      '15':
+        type: SULPHUR
+        amount: 12
+      '16':
+        type: DIRT
+        amount: 2
+      '17':
+        type: WORKBENCH
+      '18':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMustard Seed Plant
+      '20':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '21':
+        type: WOOD
+        damage: 2
+        amount: 44
+      '22':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '23':
+        type: SPIDER_EYE
+        amount: 2
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: STONE_PICKAXE
+        damage: 1
+      '26':
+        type: STONE_AXE
+        damage: 48
+      '27':
+        type: POTION
+        damage: 3
+      '29':
+        type: POTION
+        damage: 5
+      '30':
+        type: ARROW
+        amount: 11
+      '31':
+        type: SNOW_BALL
+        amount: 3
+      '32':
+        type: BONE
+        amount: 10
+      '33':
+        type: GRILLED_PORK
+        amount: 2
+      '35':
+        type: ENDER_PEARL
+        amount: 2
+  '26':
+    Time: 1459465460762
+    Exp: 186
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 9.8
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 1.4575705625252737E7
+      y: 64.0
+      z: 2.0387954465619087E7
+      pitch: 26.011345
+      yaw: -235.33463
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: FURNACE
+      '2':
+        type: COOKED_BEEF
+        amount: 50
+      '3':
+        type: GOLD_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 3
+      '5':
+        type: DIAMOND_AXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '8':
+        type: STONE_SWORD
+        damage: 5
+      '9':
+        type: LOG
+        amount: 45
+      '11':
+        type: RAW_CHICKEN
+        amount: 2
+      '12':
+        type: APPLE
+      '13':
+        type: WOOD
+        amount: 12
+      '14':
+        type: COBBLESTONE
+        amount: 6
+      '15':
+        type: SULPHUR
+        amount: 12
+      '16':
+        type: DIRT
+        amount: 2
+      '17':
+        type: WORKBENCH
+      '18':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMustard Seed Plant
+      '20':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '21':
+        type: WOOD
+        damage: 2
+        amount: 44
+      '22':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '23':
+        type: SPIDER_EYE
+        amount: 2
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: STONE_PICKAXE
+        damage: 1
+      '26':
+        type: STONE_AXE
+        damage: 48
+      '27':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '29':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: healing
+      '30':
+        type: ARROW
+        amount: 11
+      '31':
+        type: SNOW_BALL
+        amount: 3
+      '32':
+        type: BONE
+        amount: 10
+      '33':
+        type: GRILLED_PORK
+        amount: 2
+      '35':
+        type: ENDER_PEARL
+        amount: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '27':
+    Time: 1459469869886
+    Exp: 186
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 9.8
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 1.4575705625252737E7
+      y: 64.0
+      z: 2.0387954465619087E7
+      pitch: 26.011345
+      yaw: -235.33463
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: FURNACE
+      '2':
+        type: COOKED_BEEF
+        amount: 50
+      '3':
+        type: GOLD_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 3
+      '5':
+        type: DIAMOND_AXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '8':
+        type: STONE_SWORD
+        damage: 5
+      '9':
+        type: LOG
+        amount: 45
+      '11':
+        type: RAW_CHICKEN
+        amount: 2
+      '12':
+        type: APPLE
+      '13':
+        type: WOOD
+        amount: 12
+      '14':
+        type: COBBLESTONE
+        amount: 6
+      '15':
+        type: SULPHUR
+        amount: 12
+      '16':
+        type: DIRT
+        amount: 2
+      '17':
+        type: WORKBENCH
+      '18':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMustard Seed Plant
+      '20':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '21':
+        type: WOOD
+        damage: 2
+        amount: 44
+      '22':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '23':
+        type: SPIDER_EYE
+        amount: 2
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: STONE_PICKAXE
+        damage: 1
+      '26':
+        type: STONE_AXE
+        damage: 48
+      '27':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '29':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: healing
+      '30':
+        type: ARROW
+        amount: 11
+      '31':
+        type: SNOW_BALL
+        amount: 3
+      '32':
+        type: BONE
+        amount: 10
+      '33':
+        type: GRILLED_PORK
+        amount: 2
+      '35':
+        type: ENDER_PEARL
+        amount: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '28':
+    Time: 1459659258966
+    Exp: 186
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 9.8
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 1.4575705625252737E7
+      y: 64.0
+      z: 2.0387954465619087E7
+      pitch: 26.011345
+      yaw: -235.33463
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: FURNACE
+      '2':
+        type: COOKED_BEEF
+        amount: 50
+      '3':
+        type: GOLD_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 3
+      '5':
+        type: DIAMOND_AXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '8':
+        type: STONE_SWORD
+        damage: 5
+      '9':
+        type: LOG
+        amount: 45
+      '11':
+        type: RAW_CHICKEN
+        amount: 2
+      '12':
+        type: APPLE
+      '13':
+        type: WOOD
+        amount: 12
+      '14':
+        type: COBBLESTONE
+        amount: 6
+      '15':
+        type: SULPHUR
+        amount: 12
+      '16':
+        type: DIRT
+        amount: 2
+      '17':
+        type: WORKBENCH
+      '18':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMustard Seed Plant
+      '20':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '21':
+        type: WOOD
+        damage: 2
+        amount: 44
+      '22':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '23':
+        type: SPIDER_EYE
+        amount: 2
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: STONE_PICKAXE
+        damage: 1
+      '26':
+        type: STONE_AXE
+        damage: 48
+      '27':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '29':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: healing
+      '30':
+        type: ARROW
+        amount: 11
+      '31':
+        type: SNOW_BALL
+        amount: 3
+      '32':
+        type: BONE
+        amount: 10
+      '33':
+        type: GRILLED_PORK
+        amount: 2
+      '35':
+        type: ENDER_PEARL
+        amount: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '29':
+    Time: 1459766732285
+    Exp: 186
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 9.8
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 1.4575705625252737E7
+      y: 64.0
+      z: 2.0387954465619087E7
+      pitch: 26.011345
+      yaw: -235.33463
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: FURNACE
+      '2':
+        type: COOKED_BEEF
+        amount: 50
+      '3':
+        type: GOLD_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 3
+      '5':
+        type: DIAMOND_AXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '8':
+        type: STONE_SWORD
+        damage: 5
+      '9':
+        type: LOG
+        amount: 45
+      '11':
+        type: RAW_CHICKEN
+        amount: 2
+      '12':
+        type: APPLE
+      '13':
+        type: WOOD
+        amount: 12
+      '14':
+        type: COBBLESTONE
+        amount: 6
+      '15':
+        type: SULPHUR
+        amount: 12
+      '16':
+        type: DIRT
+        amount: 2
+      '17':
+        type: WORKBENCH
+      '18':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMustard Seed Plant
+      '20':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '21':
+        type: WOOD
+        damage: 2
+        amount: 44
+      '22':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '23':
+        type: SPIDER_EYE
+        amount: 2
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: STONE_PICKAXE
+        damage: 1
+      '26':
+        type: STONE_AXE
+        damage: 48
+      '27':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '29':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: healing
+      '30':
+        type: ARROW
+        amount: 11
+      '31':
+        type: SNOW_BALL
+        amount: 3
+      '32':
+        type: BONE
+        amount: 10
+      '33':
+        type: GRILLED_PORK
+        amount: 2
+      '35':
+        type: ENDER_PEARL
+        amount: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '30':
+    Time: 1459847483515
+    Exp: 186
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 9.8
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 1.4575705625252737E7
+      y: 64.0
+      z: 2.0387954465619087E7
+      pitch: 26.011345
+      yaw: -235.33463
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: FURNACE
+      '2':
+        type: COOKED_BEEF
+        amount: 50
+      '3':
+        type: GOLD_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 3
+      '5':
+        type: DIAMOND_AXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '8':
+        type: STONE_SWORD
+        damage: 5
+      '9':
+        type: LOG
+        amount: 45
+      '11':
+        type: RAW_CHICKEN
+        amount: 2
+      '12':
+        type: APPLE
+      '13':
+        type: WOOD
+        amount: 12
+      '14':
+        type: COBBLESTONE
+        amount: 6
+      '15':
+        type: SULPHUR
+        amount: 12
+      '16':
+        type: DIRT
+        amount: 2
+      '17':
+        type: WORKBENCH
+      '18':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMustard Seed Plant
+      '20':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '21':
+        type: WOOD
+        damage: 2
+        amount: 44
+      '22':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '23':
+        type: SPIDER_EYE
+        amount: 2
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: STONE_PICKAXE
+        damage: 1
+      '26':
+        type: STONE_AXE
+        damage: 48
+      '27':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '29':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: healing
+      '30':
+        type: ARROW
+        amount: 11
+      '31':
+        type: SNOW_BALL
+        amount: 3
+      '32':
+        type: BONE
+        amount: 10
+      '33':
+        type: GRILLED_PORK
+        amount: 2
+      '35':
+        type: ENDER_PEARL
+        amount: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '31':
+    Time: 1460146820086
+    Exp: 186
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 9.8
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 1.4575705625252737E7
+      y: 64.0
+      z: 2.0387954465619087E7
+      pitch: 26.011345
+      yaw: -235.33463
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: FURNACE
+      '2':
+        type: COOKED_BEEF
+        amount: 50
+      '3':
+        type: GOLD_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 3
+      '5':
+        type: DIAMOND_AXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '8':
+        type: STONE_SWORD
+        damage: 5
+      '9':
+        type: LOG
+        amount: 45
+      '11':
+        type: RAW_CHICKEN
+        amount: 2
+      '12':
+        type: APPLE
+      '13':
+        type: WOOD
+        amount: 12
+      '14':
+        type: COBBLESTONE
+        amount: 6
+      '15':
+        type: SULPHUR
+        amount: 12
+      '16':
+        type: DIRT
+        amount: 2
+      '17':
+        type: WORKBENCH
+      '18':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMustard Seed Plant
+      '20':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '21':
+        type: WOOD
+        damage: 2
+        amount: 44
+      '22':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '23':
+        type: SPIDER_EYE
+        amount: 2
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: STONE_PICKAXE
+        damage: 1
+      '26':
+        type: STONE_AXE
+        damage: 48
+      '27':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '29':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: healing
+      '30':
+        type: ARROW
+        amount: 11
+      '31':
+        type: SNOW_BALL
+        amount: 3
+      '32':
+        type: BONE
+        amount: 10
+      '33':
+        type: GRILLED_PORK
+        amount: 2
+      '35':
+        type: ENDER_PEARL
+        amount: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '32':
+    Time: 1460883166671
+    Exp: 186
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 9.8
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 1.4575705625252737E7
+      y: 64.0
+      z: 2.0387954465619087E7
+      pitch: 26.011345
+      yaw: -235.33463
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: FURNACE
+      '2':
+        type: COOKED_BEEF
+        amount: 50
+      '3':
+        type: GOLD_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 3
+      '5':
+        type: DIAMOND_AXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '8':
+        type: STONE_SWORD
+        damage: 5
+      '9':
+        type: LOG
+        amount: 45
+      '11':
+        type: RAW_CHICKEN
+        amount: 2
+      '12':
+        type: APPLE
+      '13':
+        type: WOOD
+        amount: 12
+      '14':
+        type: COBBLESTONE
+        amount: 6
+      '15':
+        type: SULPHUR
+        amount: 12
+      '16':
+        type: DIRT
+        amount: 2
+      '17':
+        type: WORKBENCH
+      '18':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMustard Seed Plant
+      '20':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '21':
+        type: WOOD
+        damage: 2
+        amount: 44
+      '22':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '23':
+        type: SPIDER_EYE
+        amount: 2
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: STONE_PICKAXE
+        damage: 1
+      '26':
+        type: STONE_AXE
+        damage: 48
+      '27':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '29':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: healing
+      '30':
+        type: ARROW
+        amount: 11
+      '31':
+        type: SNOW_BALL
+        amount: 3
+      '32':
+        type: BONE
+        amount: 10
+      '33':
+        type: GRILLED_PORK
+        amount: 2
+      '35':
+        type: ENDER_PEARL
+        amount: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '33':
+    Time: 1462120691196
+    Exp: 186
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 9.8
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 1.4575705625252737E7
+      y: 64.0
+      z: 2.0387954465619087E7
+      pitch: 26.011345
+      yaw: -235.33463
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: FURNACE
+      '2':
+        type: COOKED_BEEF
+        amount: 50
+      '3':
+        type: GOLD_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 3
+      '5':
+        type: DIAMOND_AXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '8':
+        type: STONE_SWORD
+        damage: 5
+      '9':
+        type: LOG
+        amount: 45
+      '11':
+        type: RAW_CHICKEN
+        amount: 2
+      '12':
+        type: APPLE
+      '13':
+        type: WOOD
+        amount: 12
+      '14':
+        type: COBBLESTONE
+        amount: 6
+      '15':
+        type: SULPHUR
+        amount: 12
+      '16':
+        type: DIRT
+        amount: 2
+      '17':
+        type: WORKBENCH
+      '18':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMustard Seed Plant
+      '20':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '21':
+        type: WOOD
+        damage: 2
+        amount: 44
+      '22':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '23':
+        type: SPIDER_EYE
+        amount: 2
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: STONE_PICKAXE
+        damage: 1
+      '26':
+        type: STONE_AXE
+        damage: 48
+      '27':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '29':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: healing
+      '30':
+        type: ARROW
+        amount: 11
+      '31':
+        type: SNOW_BALL
+        amount: 3
+      '32':
+        type: BONE
+        amount: 10
+      '33':
+        type: GRILLED_PORK
+        amount: 2
+      '35':
+        type: ENDER_PEARL
+        amount: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+  '34':
+    Time: 1462483214180
+    Exp: 186
+    Health: 18.0
+    MaxHealth: 20.0
+    Saturation: 9.8
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 1.4575705625252737E7
+      y: 64.0
+      z: 2.0387954465619087E7
+      pitch: 26.011345
+      yaw: -235.33463
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: FURNACE
+      '2':
+        type: COOKED_BEEF
+        amount: 50
+      '3':
+        type: GOLD_AXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: GOLDEN_APPLE
+        amount: 3
+      '5':
+        type: DIAMOND_AXE
+        damage: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '6':
+        type: DIAMOND_SPADE
+        damage: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '8':
+        type: STONE_SWORD
+        damage: 5
+      '9':
+        type: LOG
+        amount: 45
+      '11':
+        type: RAW_CHICKEN
+        amount: 2
+      '12':
+        type: APPLE
+      '13':
+        type: WOOD
+        amount: 12
+      '14':
+        type: COBBLESTONE
+        amount: 6
+      '15':
+        type: SULPHUR
+        amount: 12
+      '16':
+        type: DIRT
+        amount: 2
+      '17':
+        type: WORKBENCH
+      '18':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMustard Seed Plant
+      '20':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+      '21':
+        type: WOOD
+        damage: 2
+        amount: 44
+      '22':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '23':
+        type: SPIDER_EYE
+        amount: 2
+      '24':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '25':
+        type: STONE_PICKAXE
+        damage: 1
+      '26':
+        type: STONE_AXE
+        damage: 48
+      '27':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: fire_resistance
+      '29':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: healing
+      '30':
+        type: ARROW
+        amount: 11
+      '31':
+        type: SNOW_BALL
+        amount: 3
+      '32':
+        type: BONE
+        amount: 10
+      '33':
+        type: GRILLED_PORK
+        amount: 2
+      '35':
+        type: ENDER_PEARL
+        amount: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cSoulbound Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '39':
+        type: DIAMOND_HELMET
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§b§kii§r§4Donor§k§b§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1

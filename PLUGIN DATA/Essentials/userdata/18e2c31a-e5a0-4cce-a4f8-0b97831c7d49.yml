@@ -1,0 +1,31 @@
+lastlocation:
+  world: world_the_end
+  x: 63.96374057667852
+  y: 57.0
+  z: -1107.517486578325
+  yaw: 79.74621
+  pitch: 16.799982
+lastAccountName: jaydenwatts007
+timestamps:
+  login: 1473837263638
+  lastteleport: 1473839914595
+  logout: 1473840542913
+ipAddress: 121.222.129.185
+geolocation: Brisbane, Queensland, Australia
+logoutlocation:
+  world: world
+  x: -10881.292769955026
+  y: 100.0
+  z: 956.9478250192657
+  yaw: 78.89803
+  pitch: 20.249851
+money: '11399.79499999999999624'
+homes:
+  home:
+    world: world
+    x: -10891.057990823743
+    y: 98.0
+    z: 957.2134734860145
+    yaw: 52.197723
+    pitch: -7.050081
+afk: false

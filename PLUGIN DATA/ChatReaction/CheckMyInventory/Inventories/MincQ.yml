@@ -1,0 +1,1266 @@
+Inventories:
+  '17':
+    Time: 1461760647383
+    Exp: 7280996
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 1294.702893616071
+      y: 96.43689916928673
+      z: -764.4650657491408
+      pitch: 26.631207
+      yaw: 276.07205
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 204
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+          enchants:
+            DIG_SPEED: 5
+      '2':
+        type: DIAMOND_SPADE
+        damage: 167
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 562
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: ENDER_STONE
+        amount: 64
+      '5':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: ENDER_STONE
+        amount: 8
+      '8':
+        type: BOW
+        damage: 342
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '17':
+        type: ARROW
+      '28':
+        type: DIAMOND_PICKAXE
+        damage: 508
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '35':
+        type: FISHING_ROD
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LUCK: 3
+            DURABILITY: 3
+            LURE: 3
+          repair-cost: 7
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 34
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FALL: 4
+          repair-cost: 1
+      '38':
+        type: ELYTRA
+        damage: 378
+  '18':
+    Time: 1462120698591
+    Exp: 10639553
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 7.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: WATER_BREATHING
+        Duration: 209
+        Amplifier: 1
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 209
+        Amplifier: 1
+    Location:
+      world: world
+      x: 1266.175000011921
+      y: 71.0
+      z: -719.5964893978532
+      pitch: 60.27352
+      yaw: -283.5653
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 509
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 172
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 562
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '8':
+        type: FISHING_ROD
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LUCK: 3
+            DURABILITY: 3
+            LURE: 3
+          repair-cost: 7
+      '10':
+        type: IRON_INGOT
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bAluminum Ingot
+      '11':
+        type: IRON_INGOT
+        amount: 46
+      '12':
+        type: IRON_INGOT
+        amount: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bZinc Ingot
+      '13':
+        type: IRON_INGOT
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bMagnesium Ingot
+      '14':
+        type: IRON_INGOT
+        amount: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bLead Ingot
+      '15':
+        type: IRON_INGOT
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bTin Ingot
+      '16':
+        type: IRON_INGOT
+        amount: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bSilver Ingot
+      '17':
+        type: CLAY_BALL
+        amount: 57
+      '19':
+        type: COAL_BLOCK
+        amount: 64
+      '20':
+        type: COAL_BLOCK
+        amount: 64
+      '21':
+        type: BUCKET
+      '22':
+        type: SOUL_SAND
+        amount: 8
+      '24':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cCompressed Carbon
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JeAGcRRcNWhwiY1GKOjsuQxxmRg1CKzxVH7Esu/tOzvlMABNedrJV6rO+lEJxAx5JAa+pa6dF5swtXKalNZthbGVohizsIGy78zkv3YkJ5nC68roR/DYCo+H3pq35zQSABwOek1S1HH55FyB2OKHiEKi8I87A8Q6pDamuLjknXeYRh+jBr96ddYf/tXaT7m11nAYndo7aTCdoPd0qvtqOc/31HfbkzhaRTePlhMY52vhRHw6bVdJmCyboPpB0H6FQJ2LjBycay+6oqWT6Q4Z9odlCjlmlBNXhD/WX/VEEuDygNwADnmiqOYy8nXep+VpkAH8tV0JnKgEAAA==
+          skull-owner: CSCoreLib
+      '26':
+        type: CLAY_BRICK
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bCopper Ingot
+      '27':
+        type: SULPHUR
+        amount: 13
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sifted Ore
+      '31':
+        type: SUGAR
+        amount: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Silver Dust
+      '32':
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bDamascus Steel Ingot
+      '36':
+        type: LEATHER_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cRubber Boots
+          lore:
+          - ''
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 0
+      '37':
+        type: LEATHER_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cHazmat Suit Leggings
+          lore:
+          - ''
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '38':
+        type: LEATHER_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cHazmat Suit
+          lore:
+          - ''
+          - §bAllows you to walk through Fire
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '39':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+  '19':
+    Time: 1462353625825
+    Exp: 11377510
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: WATER_BREATHING
+        Duration: 243
+        Amplifier: 1
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 243
+        Amplifier: 1
+    Location:
+      world: world
+      x: -64.93872639473835
+      y: 105.0
+      z: 4405.705111835008
+      pitch: 77.999596
+      yaw: -171.64668
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 39
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 509
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 173
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 562
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+            DURABILITY: 1
+          repair-cost: 1
+      '8':
+        type: FISHING_ROD
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LUCK: 3
+            DURABILITY: 3
+            LURE: 3
+          repair-cost: 7
+      '9':
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bDamascus Steel Ingot
+      '10':
+        type: IRON_INGOT
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bAluminum Ingot
+      '11':
+        type: IRON_INGOT
+        amount: 12
+      '12':
+        type: IRON_INGOT
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bZinc Ingot
+      '13':
+        type: IRON_INGOT
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bMagnesium Ingot
+      '14':
+        type: IRON_INGOT
+        amount: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bLead Ingot
+      '15':
+        type: IRON_INGOT
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bTin Ingot
+      '16':
+        type: IRON_INGOT
+        amount: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bSilver Ingot
+      '17':
+        type: SULPHUR
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sifted Ore
+      '18':
+        type: CLAY_BALL
+        amount: 12
+      '19':
+        type: COAL_BLOCK
+        amount: 64
+      '20':
+        type: COAL_BLOCK
+        amount: 64
+      '21':
+        type: BUCKET
+      '22':
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eSpider §fSpawner
+          internal: H4sIAAAAAAAAAFWN0QqCQBBFrwbLOoT+jF8Q9tBbsEHPQw46uKjoQPT3pQtCbxfOuRwCCOUlTq/hOpra58Gdh0/71sKFWVtZClRh5vd4n0x+iONKADKCS6ZHroeME9xTtOttc7ZAsZ8bNv4XCeegcdipLGsOLyncoAa+J+Tp8JwAAAA=
+          blockMaterial: MOB_SPAWNER
+      '23':
+        type: SULPHUR
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Iron Dust
+      '24':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cCompressed Carbon
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JeAGcRRcNWhwiY1GKOjsuQxxmRg1CKzxVH7Esu/tOzvlMABNedrJV6rO+lEJxAx5JAa+pa6dF5swtXKalNZthbGVohizsIGy78zkv3YkJ5nC68roR/DYCo+H3pq35zQSABwOek1S1HH55FyB2OKHiEKi8I87A8Q6pDamuLjknXeYRh+jBr96ddYf/tXaT7m11nAYndo7aTCdoPd0qvtqOc/31HfbkzhaRTePlhMY52vhRHw6bVdJmCyboPpB0H6FQJ2LjBycay+6oqWT6Q4Z9odlCjlmlBNXhD/WX/VEEuDygNwADnmiqOYy8nXep+VpkAH8tV0JnKgEAAA==
+          skull-owner: CSCoreLib
+      '25':
+        type: GLOWSTONE_DUST
+      '27':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '28':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '29':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '30':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eCarbon
+          internal: H4sIAAAAAAAAAE2MzW6CQBRGb5s2QdLH6JaEX9GFC2MtDoGhKKLMDvCi0AENggWeqo9Yll1+Oed8IoAIb7vvlvOv+prlHAV4Jid4n81iRc50U0qNWJZ009SlRI1TCTHTUTPTJJmnIohjdMO6yfE+AaHBrmlrvIsA8CTAaxjzFuEXe1tmx4t8Oto87cl03MFO5h4pbiapwj5ZkSkpR75ZTp1+/s81mvhg8EizL6zy26QMZUfbctxslbTcPzyLDFGwNOiBqFFx7ljAci84K6667rzA7akVcmZFP1FJDHfwDfqx1txirzPL7+hAc88KS1actfFDp+rnhVTKPPMXCwABXmhcIkxWu9W1RidPAP4ArUsTYSoBAAA=
+          skull-owner: CSCoreLib
+      '33':
+        type: REDSTONE
+        amount: 56
+      '34':
+        type: CLAY_BRICK
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bCopper Ingot
+      '35':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cElectromagnet
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JwAjIwkUjrQ6RsXgBYcflN4IzahAa4Ln6gGXZ5XfO+VQAFd52l1aI7/p2KgUq8MwKeM/S3KEzdLS8mNna1CFEm1lItdQsqK0XORo2VUEdT3esmxIfE1Aa7Jq2xocKAE8KvIapaBF+sfdIcjyT4uiJvGfWuPc7IjasutvsGvbZgllMjn71Ya17519rNmlkiph65+QatJkMyZpuBa62ei4PP3HknTfLsIyHbcXl59Tf54PvXggfAnMTeZIbhy5xQ8EHLpMoMOLhq4wrr/Ldke8vRuL6ehKxjsug527c+csDZVfdOQXzOYACLzyVCJPFbnGrcV1mAH937CBNLgEAAA==
+          skull-owner: CSCoreLib
+      '36':
+        type: LEATHER_BOOTS
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cRubber Boots
+          lore:
+          - ''
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 0
+      '37':
+        type: LEATHER_LEGGINGS
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cHazmat Suit Leggings
+          lore:
+          - ''
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cHazmat Suit
+          lore:
+          - ''
+          - §bAllows you to walk through Fire
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '39':
+        type: LEATHER_HELMET
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+  '20':
+    Time: 1462483222981
+    Exp: 11379688
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -176.93293507591596
+      y: 77.9073315670937
+      z: -2393.033937091745
+      pitch: 8.0364275
+      yaw: -319.07715
+    Items:
+      '0':
+        type: SIGN
+  '21':
+    Time: 1462634462998
+    Exp: 11784208
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: WATER_BREATHING
+        Duration: 173
+        Amplifier: 1
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 173
+        Amplifier: 1
+    Location:
+      world: world
+      x: -3698.8996890887383
+      y: 64.16610926093821
+      z: -1740.8536237286883
+      pitch: 17.605495
+      yaw: -205.4685
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 39
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 509
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '2':
+        type: DIAMOND_SPADE
+        damage: 173
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 562
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            KNOCKBACK: 10000
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+            DURABILITY: 1
+          repair-cost: 1
+      '8':
+        type: FISHING_ROD
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LUCK: 3
+            DURABILITY: 3
+            LURE: 3
+          repair-cost: 7
+      '9':
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bDamascus Steel Ingot
+      '10':
+        type: IRON_INGOT
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bAluminum Ingot
+      '11':
+        type: IRON_INGOT
+        amount: 12
+      '12':
+        type: IRON_INGOT
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bZinc Ingot
+      '13':
+        type: IRON_INGOT
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bMagnesium Ingot
+      '14':
+        type: IRON_INGOT
+        amount: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bLead Ingot
+      '15':
+        type: IRON_INGOT
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bTin Ingot
+      '16':
+        type: IRON_INGOT
+        amount: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bSilver Ingot
+      '17':
+        type: SULPHUR
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Sifted Ore
+      '18':
+        type: CLAY_BALL
+        amount: 12
+      '19':
+        type: COAL_BLOCK
+        amount: 64
+      '20':
+        type: COAL_BLOCK
+        amount: 64
+      '21':
+        type: BUCKET
+      '22':
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eSpider §fSpawner
+          internal: H4sIAAAAAAAAAFWN0QqCQBBFrwbLOoT+jF8Q9tBbsEHPQw46uKjoQPT3pQtCbxfOuRwCCOUlTq/hOpra58Gdh0/71sKFWVtZClRh5vd4n0x+iONKADKCS6ZHroeME9xTtOttc7ZAsZ8bNv4XCeegcdipLGsOLyncoAa+J+Tp8JwAAAA=
+          blockMaterial: MOB_SPAWNER
+      '23':
+        type: SULPHUR
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Iron Dust
+      '24':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cCompressed Carbon
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JeAGcRRcNWhwiY1GKOjsuQxxmRg1CKzxVH7Esu/tOzvlMABNedrJV6rO+lEJxAx5JAa+pa6dF5swtXKalNZthbGVohizsIGy78zkv3YkJ5nC68roR/DYCo+H3pq35zQSABwOek1S1HH55FyB2OKHiEKi8I87A8Q6pDamuLjknXeYRh+jBr96ddYf/tXaT7m11nAYndo7aTCdoPd0qvtqOc/31HfbkzhaRTePlhMY52vhRHw6bVdJmCyboPpB0H6FQJ2LjBycay+6oqWT6Q4Z9odlCjlmlBNXhD/WX/VEEuDygNwADnmiqOYy8nXep+VpkAH8tV0JnKgEAAA==
+          skull-owner: CSCoreLib
+      '25':
+        type: GLOWSTONE_DUST
+      '27':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '28':
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '29':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '30':
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '31':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eCarbon
+          internal: H4sIAAAAAAAAAE2MzW6CQBRGb5s2QdLH6JaEX9GFC2MtDoGhKKLMDvCi0AENggWeqo9Yll1+Oed8IoAIb7vvlvOv+prlHAV4Jid4n81iRc50U0qNWJZ009SlRI1TCTHTUTPTJJmnIohjdMO6yfE+AaHBrmlrvIsA8CTAaxjzFuEXe1tmx4t8Oto87cl03MFO5h4pbiapwj5ZkSkpR75ZTp1+/s81mvhg8EizL6zy26QMZUfbctxslbTcPzyLDFGwNOiBqFFx7ljAci84K6667rzA7akVcmZFP1FJDHfwDfqx1txirzPL7+hAc88KS1actfFDp+rnhVTKPPMXCwABXmhcIkxWu9W1RidPAP4ArUsTYSoBAAA=
+          skull-owner: CSCoreLib
+      '33':
+        type: REDSTONE
+        amount: 56
+      '34':
+        type: CLAY_BRICK
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bCopper Ingot
+      '35':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cElectromagnet
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JwAjIwkUjrQ6RsXgBYcflN4IzahAa4Ln6gGXZ5XfO+VQAFd52l1aI7/p2KgUq8MwKeM/S3KEzdLS8mNna1CFEm1lItdQsqK0XORo2VUEdT3esmxIfE1Aa7Jq2xocKAE8KvIapaBF+sfdIcjyT4uiJvGfWuPc7IjasutvsGvbZgllMjn71Ya17519rNmlkiph65+QatJkMyZpuBa62ei4PP3HknTfLsIyHbcXl59Tf54PvXggfAnMTeZIbhy5xQ8EHLpMoMOLhq4wrr/Ldke8vRuL6ehKxjsug527c+csDZVfdOQXzOYACLzyVCJPFbnGrcV1mAH937CBNLgEAAA==
+          skull-owner: CSCoreLib
+      '36':
+        type: LEATHER_BOOTS
+        damage: 13
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cRubber Boots
+          lore:
+          - ''
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 0
+      '37':
+        type: LEATHER_LEGGINGS
+        damage: 13
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cHazmat Suit Leggings
+          lore:
+          - ''
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '38':
+        type: LEATHER_CHESTPLATE
+        damage: 13
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cHazmat Suit
+          lore:
+          - ''
+          - §bAllows you to walk through Fire
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '39':
+        type: LEATHER_HELMET
+        damage: 13
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+  '22':
+    Time: 1462638275497
+    Exp: 11865810
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 100.06024879198026
+      y: 99.0
+      z: -3296.1523008854742
+      pitch: 60.147697
+      yaw: -153.9659
+    Items:
+      '0':
+        type: WOOL
+        damage: 3
+      '1':
+        type: WOOL
+        damage: 7
+      '2':
+        type: STAINED_CLAY
+        damage: 9
+      '3':
+        type: WOOL
+        damage: 8
+      '8':
+        type: WOOD_AXE
+      '9':
+        type: SNOW_BLOCK
+      '10':
+        type: LOG
+        damage: 1
+      '11':
+        type: LEATHER
+      '12':
+        type: RAW_BEEF
+      '13':
+        type: STAINED_CLAY
+        damage: 3
+      '15':
+        type: WOOD
+        damage: 1
+      '16':
+        type: STEP
+        damage: 7
+      '17':
+        type: CARPET
+        damage: 15
+      '18':
+        type: SAND
+        damage: 1
+      '19':
+        type: ITEM_FRAME
+      '20':
+        type: REDSTONE_BLOCK
+  '23':
+    Time: 1462639658669
+    Exp: 11946861
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 10.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -57.03907058000853
+      y: 69.24341321608179
+      z: -3611.407573775628
+      pitch: 12.899302
+      yaw: -215.55524
+  '24':
+    Time: 1462639673838
+    Exp: 11946861
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -59.69999998807907
+      y: 67.0
+      z: -3607.919128042081
+      pitch: 40.115894
+      yaw: -7.63855
+  '25':
+    Time: 1462785979667
+    Exp: 11947427
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -3673.9275162801005
+      y: 93.0
+      z: -1728.672789977886
+      pitch: 34.7041
+      yaw: -173.51373
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10000
+            FIRE_ASPECT: 10000
+            LOOT_BONUS_MOBS: 10000
+      '6':
+        type: STAINED_CLAY
+        damage: 4
+      '7':
+        type: STAINED_CLAY
+        damage: 9
+      '8':
+        type: BARRIER
+      '9':
+        type: EXP_BOTTLE
+        amount: 10
+      '10':
+        type: STAINED_CLAY
+        damage: 6
+      '11':
+        type: STAINED_CLAY
+        damage: 14
+      '12':
+        type: WOOL
+        damage: 11
+      '13':
+        type: WOOL
+        damage: 3
+      '14':
+        type: STAINED_CLAY
+      '15':
+        type: DIAMOND
+        amount: 10
+      '16':
+        type: GRILLED_PORK
+        amount: 35
+  '26':
+    Time: 1462786360658
+    Exp: 11947427
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: -3721.589988560237
+      y: 98.11650136792812
+      z: -1720.8116619810526
+      pitch: 26.631407
+      yaw: -269.885
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10000
+            FIRE_ASPECT: 10000
+            LOOT_BONUS_MOBS: 10000
+      '1':
+        type: WOOD_AXE
+      '6':
+        type: STAINED_CLAY
+        damage: 4
+      '7':
+        type: STAINED_CLAY
+        damage: 9
+      '8':
+        type: BARRIER
+      '9':
+        type: EXP_BOTTLE
+        amount: 10
+      '10':
+        type: STAINED_CLAY
+        damage: 6
+      '11':
+        type: STAINED_CLAY
+        damage: 14
+      '12':
+        type: WOOL
+        damage: 11
+      '13':
+        type: WOOL
+        damage: 3
+      '14':
+        type: STAINED_CLAY
+      '15':
+        type: DIAMOND
+        amount: 10
+      '16':
+        type: GRILLED_PORK
+        amount: 35

@@ -1,0 +1,328 @@
+LordVarson:
+  MobType: Stray
+  Display: '&cMakuta Icarax'
+  Health: 2000
+  Damage: 20
+  Faction: MA
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 RandomLookAround
+  - 3 LookAtPlayers
+  - 4 RandomStroll
+  - 5 Float
+  AITargetSelectors:
+  - 0 clear
+  - 1 Players
+  DamageModifiers:
+  - WITHER 5
+  KillMessages:
+  - '<target.name> got torched by &cMakuta Icarax'
+  - '<target.name> got their face stomped in by &cMakuta Icarax'
+  - '&cMakuta Icarax &ftaught <target.name> a painful lesson about getting owned'
+  Skills:
+  - potion{t=FIRE_RESISTANCE;d=9999999;l=1} @Self ~onSpawn 1
+  - setstance{stance=Spawn} @Self ~onSpawn >0 1
+  - message{msg="<mob.name> &3has been defeated by <trigger.name>! &b/warp mobarena5"} @PlayersOnServer ~onDeath
+  - skill{skill=GenSmoke} @Self =60%
+  - skill{skill=VarsonSpawn} @Self ~onSpawn
+  - skill{skill=VarsonHealthBroadcast} @Self ~onDamaged 1
+  - skill{skill=VarsonFlamethrower} @SelfLocation ~onDamaged 0.3
+  - skill{skill=VarsonMissile} @Target ~onDamaged 0.3
+  - skill{skill=VarsonMissileRain} @Self ~onDamaged 0.3
+  - skill{skill=VarsonMassTeleport} @Self ~onDamaged 0.3
+  - skill{skill=VarsonCallPets} @Self ~onDamaged =50%
+  - skill{skill=VarsonFireBlast} @SelfLocation ~onDamaged 0.3
+  - skill{skill=VarsonFirePulse} @Self ~onDamaged 0.3
+  - skill{skill=VarsonFireyArmor} @Self ~onDamaged 0.3
+  - skill{skill=VarsonTripleWarp} @Self ~onDamaged 0.3
+  - skill{skill=VarsonUnhinged} @Target ~onTimer:10
+  - skill{skill=VarsonInitiatePhaseTwo} @Self ~onDamaged =60%
+  - skill{skill=VarsonInitiatePhaseThree} @Self ~onDamaged =10%
+  - skill{skill=VarsonCallMobAlliance} @Self =90%
+  - skill{skill=VarsonCallMobAlliance} @Self =80%
+  - skill{skill=VarsonCallMobAlliance} @Self =70%
+  - skill{skill=VarsonCallMobAlliance} @Self =60%
+  - skill{skill=VarsonCallMobAlliance} @Self =50%
+  - skill{skill=VarsonCallMobAlliance} @Self =40%
+  - skill{skill=VarsonCallMobAlliance} @Self =30%
+  - skill{skill=VarsonCallMobAlliance} @Self =20%
+  - skill{skill=VolcanicWeather} @Self ~onTimer:10 <60%
+  - effect:particles{particle=lava;amount=8;vSpread=0.5;hSpread=0.5;Speed=0.01;yOffset=1} @Self ~onTimer:10 1
+  - effect:lightning @self ~onDeath 1
+  - effect:lightning @self ~onDeath 1
+  - effect:lightning @self ~onDeath 1
+  - summon{type=0LordVarsonDeathDoll0;amount=1;radius=1} @Self ~onDeath
+  Modules:
+    ThreatTable: true
+  Equipment:
+  - FireImmuneChest:3
+  Options:
+    PreventOtherDrops: true
+    MaxCombatDistance: 15
+    FollowRange: 13
+    Despawn: true
+    MovementSpeed: 0.34
+    KnockbackResistance: 1
+  Drops:
+  - exp 1-10 1
+  - VarsonFlame 1 1
+  - VarsonAxe 1 0.25
+  - money 5000
+0LordVarsonDeathDoll0:
+  MobType: Stray
+  Display: '&cMakuta Icarax'
+  Health: 2000
+  Damage: 0
+  AIGoalSelectors:
+  - 0 clear
+  AITargetSelectors:
+  - 0 clear
+  DamageModifiers:
+  - PROJECTILE 0
+  - ENTITY_ATTACK 0
+  - MAGIC 0
+  Skills:
+  - potion{t=FIRE_RESISTANCE;d=9999999;l=1} @Self ~onSpawn 1
+  - ignite{ticks=50} @Self ~onTimer:20
+  - skill{skill=VarsonDeath} @Self ~onSpawn
+  Options:
+    PreventOtherDrops: true
+    FollowRange: 0
+    Despawn: true
+    MovementSpeed: 0.005
+    KnockbackResistance: 1
+GodSkeleton:
+  MobType: skeleton
+  Display: '&bRoyal Archer'
+  Health: 20
+  Damage: 2
+  Faction: MA
+  AIGoalSelectors:
+  - 0 clear
+  - 1 arrowattack
+  - 2 RandomLookAround
+  - 3 LookAtPlayers
+  - 4 RandomStroll
+  - 5 Float
+  - 6 opendoors
+  AITargetSelectors:
+  - 0 clear
+  - 1 hurtbytarget
+  - 2 specificfaction Target
+  - 3 players
+  - 4 specificfaction Townington
+  - 5 SpecificFaction Renegade
+  Skills:
+  - sendactionmessage{msg=“&bRoyal<&sp>Archer<&sp>&6(<mob.hp><&sp>&6/<&sp><mob.mhp>)”} @Trigger ~onDamaged 1
+  Equipment:
+  - GodBow:0
+  - GodHelm:4
+  - GodChestplate:3
+  - GodLeggings:2
+  - GodBoots:1
+  Drops:
+  - exp 1-10 1
+  - 364 1-2 0.5
+  - money 350
+  Options:
+    PreventItemPickup: true
+    Despawn: true
+GodZombie:
+  MobType: zombie
+  Display: '&bRoyal Guard'
+  Health: 20
+  Damage: 2
+  Faction: MA
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 RandomLookAround
+  - 3 LookAtPlayers
+  - 4 RandomStroll
+  - 5 Float
+  - 6 opendoors
+  AITargetSelectors:
+  - 0 clear
+  - 1 hurtbytarget
+  - 2 specificfaction Target
+  - 3 players
+  - 4 specificfaction Townington
+  - 5 SpecificFaction Renegade
+  Skills:
+  - sendactionmessage{msg=“&bRoyal<&sp>Guard<&sp>&6(<mob.hp><&sp>&6/<&sp><mob.mhp>)”} @Trigger ~onDamaged 1
+  Equipment:
+  - GodSword:0
+  - GodHelm:4
+  - GodChestplate:3
+  - GodLeggings:2
+  - GodBoots:1
+  Drops:
+  - exp 1-10 1
+  - 364 1-2 0.5
+  - money 350
+  Options:
+    PreventItemPickup: true
+    Despawn: true
+MAEliteMarksman:
+  Mobtype: skeleton
+  Display: '&6Mob Alliance &cElite Marksman'
+  Health: 135
+  Damage: 3
+  Faction: MA
+  AIGoalSelectors:
+  - 0 clear
+  - 1 arrowattack
+  - 2 RandomLookAround
+  - 3 LookAtPlayers
+  - 4 RandomStroll
+  - 5 Float
+  - 6 opendoors
+  - 7 fleesun
+  AITargetSelectors:
+  - 0 clear
+  - 1 hurtbytarget
+  - 2 specificfaction Target
+  - 3 players
+  - 4 specificfaction Townington
+  - 5 SpecificFaction Renegade
+  DamageModifiers:
+  - FIRE_TICK 6
+  Skills:
+  - skill{skill=MAExplosiveArrow} @Target ~onTimer:300 1
+  - sendactionmessage{msg=“&6Mob<&sp>Alliance<&sp>&cElite<&sp>Marksman<&sp>&6(<mob.hp><&sp>&6/<&sp><mob.mhp>)”} @Trigger ~onDamaged 1
+  Equipment:
+  - DroneB:0
+  - MAHelmIII:4
+  - MAChest:3
+  - MALegs:2
+  - MAFeet:1
+  Options:
+    PreventItemPickup: true
+    Despawn: true
+    PreventMobKillDrops: true
+  Drops:
+  - exp 1-10 1
+  - 364 1-2 0.5
+  - money 350
+  - MAHelmIII 1 .01
+MAElite:
+  Mobtype: ZOMBIE_VILLAGER
+  Display: '&6Mob Alliance &cElite Soldier'
+  Health: 170
+  Damage: 3
+  Faction: MA
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 RandomLookAround
+  - 3 LookAtPlayers
+  - 4 RandomStroll
+  - 5 Float
+  - 6 opendoors
+  - 7 fleesun
+  AITargetSelectors:
+  - 0 clear
+  - 1 hurtbytarget
+  - 2 specificfaction Target
+  - 3 players
+  - 4 specificfaction Townington
+  - 5 SpecificFaction Renegade
+  DamageModifiers:
+  - FIRE_TICK 6
+  Skills:
+  - sendactionmessage{msg=“&6Mob<&sp>Alliance<&sp>&cElite<&sp>Soldier<&sp>&6(<mob.hp><&sp>&6/<&sp><mob.mhp>)”} @Trigger ~onDamaged 1
+  Equipment:
+  - MASword:0
+  - MAHelmIII:4
+  - MAChest:3
+  - MALegs:2
+  - MAFeet:1
+  Options:
+    PreventItemPickup: true
+    Despawn: true
+    MovementSpeed: 0.3
+    PreventMobKillDrops: true
+  Drops:
+  - 364 1-2 0.5
+  - MAHelmIII 1 .01
+  - money 350
+DSent:
+  MobType: zombie
+  Drops:
+  - exp 1-10 1
+  - money 350
+  Display: '&bDiamond Sentinel'
+  Health: 50
+  Damage: 5
+  Faction: MA
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 RandomLookAround
+  - 3 LookAtPlayers
+  - 4 RandomStroll
+  - 5 Float
+  - 6 opendoors
+  AITargetSelectors:
+  - 0 clear
+  - 1 hurtbytarget
+  - 2 specificfaction Target
+  - 3 players
+  - 4 specificfaction Townington
+  - 5 SpecificFaction Renegade
+  DamageModifiers:
+  - PROJECTILE 1.25
+  - LIGHTNING 5
+  - WITHER 3
+  Skills:
+  - potion{t=FIRE_RESISTANCE;d=9999999;l=1} @Self ~onSpawn 1
+  - sendactionmessage{msg=“&bDiamond<&sp>Sentinel<&sp>&6(<mob.hp><&sp>&6/<&sp><mob.mhp>)”} @Trigger ~onDamaged 1
+  - skill{skill=DroneSmoke} @Self ~onDamaged =50% 1
+  - effect:sound{sound=random.explode;volume=1;p=1} @Self ~onDeath 1
+  - effect:itemspray{item=DroneRedstone;duration=60;amount=5;force=0.5} @Self ~onDeath 1
+  - effect:itemspray{item=DroneDiamond;duration=60;amount=5;force=0.5} @Self ~onDeath 1
+  - effect:sound{sound=mob.blaze.hit;volume=1;p=1} @Self ~onDamaged
+  Equipment:
+  - DSentSword:0
+  - DiamondHelm:4
+  Options:
+    ReinforcementsChance: 0
+    Silent: true
+    PreventItemPickup: true
+    PreventOtherDrops: true
+    PreventMobKillDrops: true
+    Despawn: true
+0PMissileMob0:
+  MobType: creeper
+  Display: '&6Precision Missile'
+  Health: 20
+  Damage: 0
+  AIGoalSelectors:
+  - 0 clear
+  AITargetSelectors:
+  - 0 clear
+  DamageModifiers:
+  - ENTITY_ATTACK 0
+  - PROJECTILE 0
+  - FIRE 0
+  - FIRE_TICK 0
+  - LAVA 0
+  - FALL 0
+  - SUFFOCATION 0
+  - MAGIC 0
+  - CUSTOM 0
+  - CONTACT 0
+  - ENTITY_EXPLOSION 0
+  - BLOCK_EXPLOSION 0
+  KillMessages:
+  - '<target.name> was skewered by a &6Missile'
+  - '<target.name> failed to avoid the &6Missile'
+  Skills:
+  - potion{t=INVISIBILITY;d=99999999;l=1} @Self ~onSpawn 1
+  - skill{skill=PrecisionMissile} @Self ~onSpawn 1
+  Options:
+    FuseTicks: 10000
+    MovementSpeed: 0.005
+    KnockbackResistance: 1
+    Silent: true

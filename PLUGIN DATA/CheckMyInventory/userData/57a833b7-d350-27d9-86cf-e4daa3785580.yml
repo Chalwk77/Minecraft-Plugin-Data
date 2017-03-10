@@ -1,0 +1,11 @@
+Name: Tut1
+TeleportLocation:
+  X: -167.5
+  Pitch: 0.0
+  Y: 70.0
+  Z: -118.5
+  World: world
+  Yaw: 0.0
+Charges:
+  Amount: 0
+  LastGot: 1479371201858

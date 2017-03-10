@@ -1,0 +1,13 @@
+randomtp:
+  world: world
+  v1:
+    ==: Vector
+    x: 433.0
+    y: 92.0
+    z: -175.0
+  v2:
+    ==: Vector
+    x: 437.0
+    y: 88.0
+    z: -175.0
+  material: PORTAL

@@ -1,0 +1,1976 @@
+Inventories:
+  '29':
+    Time: 1459465464336
+    Exp: 7844
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9997256
+        Amplifier: 1
+    Location:
+      world: world
+      x: 8157.918905373617
+      y: 47.015555072702206
+      z: -3761.0633147035314
+      pitch: 17.652884
+      yaw: -5.4718018
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 74
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_SPADE
+        damage: 1233
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 1
+          repair-cost: 15
+      '3':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '5':
+        type: DIRT
+        amount: 64
+      '6':
+        type: WOOL
+        amount: 28
+      '7':
+        type: COOKED_BEEF
+        amount: 21
+      '8':
+        type: FLINT_AND_STEEL
+        damage: 32
+      '9':
+        type: DOUBLE_PLANT
+        damage: 4
+        amount: 26
+      '10':
+        type: COOKIE
+      '11':
+        type: IRON_ORE
+        amount: 26
+      '12':
+        type: DIRT
+        amount: 64
+      '13':
+        type: WOOL
+        damage: 7
+        amount: 2
+      '14':
+        type: WOOL
+        damage: 15
+      '15':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '17':
+        type: COAL
+        amount: 17
+      '18':
+        type: DIRT
+        amount: 64
+      '19':
+        type: DIRT
+        amount: 64
+      '20':
+        type: DIRT
+        amount: 64
+      '21':
+        type: DIRT
+        amount: 64
+      '22':
+        type: DIRT
+        amount: 64
+      '23':
+        type: DIRT
+        amount: 64
+      '24':
+        type: DIRT
+        amount: 64
+      '25':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §aTea Leaf
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JbkIg/LogujKQ5xsCCgzA5kDI8ZNQgN+FX9xLLs8uScowKo8LZveiG+2+u5ElyBZ1LAu45o2rppagY6qJnFydE+OFpabji2kxeLDDNDBXWabrztKn6fgdLxoetbflcB4EmB1yQTPYdfPnrIjiUWR0+cRmJPHO1R7Eh9W5BLMuYrYhM5+c3S3o7Ov9bqsoMlUsMr2SXoc5ng1ggF34T6ScY/NIoH36VmWgdzGhH0518VjQrJIjqnayZ8GY+sDhv6SB/M9ev0EFvsEOipTBq2Xg5UEtxFZTN9YucmFR0953zETwAFXvxMcpit9qtry7dVDvAHcA8phyoBAAA=
+          skull-owner: CSCoreLib
+      '26':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIRT
+        amount: 64
+      '29':
+        type: PUMPKIN
+        amount: 4
+      '30':
+        type: DOUBLE_PLANT
+        damage: 5
+        amount: 26
+      '31':
+        type: DIRT
+        amount: 64
+      '32':
+        type: MUTTON
+        amount: 46
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: DIRT
+        amount: 64
+      '35':
+        type: WOOL
+        damage: 8
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_FALL: 1
+            PROTECTION_EXPLOSIONS: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_EXPLOSIONS: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 89
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '30':
+    Time: 1459469872817
+    Exp: 7844
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9997256
+        Amplifier: 1
+    Location:
+      world: world
+      x: 8157.918905373617
+      y: 47.015555072702206
+      z: -3761.0633147035314
+      pitch: 17.652884
+      yaw: -5.4718018
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 74
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_SPADE
+        damage: 1233
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 1
+          repair-cost: 15
+      '3':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '5':
+        type: DIRT
+        amount: 64
+      '6':
+        type: WOOL
+        amount: 28
+      '7':
+        type: COOKED_BEEF
+        amount: 21
+      '8':
+        type: FLINT_AND_STEEL
+        damage: 32
+      '9':
+        type: DOUBLE_PLANT
+        damage: 4
+        amount: 26
+      '10':
+        type: COOKIE
+      '11':
+        type: IRON_ORE
+        amount: 26
+      '12':
+        type: DIRT
+        amount: 64
+      '13':
+        type: WOOL
+        damage: 7
+        amount: 2
+      '14':
+        type: WOOL
+        damage: 15
+      '15':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '17':
+        type: COAL
+        amount: 17
+      '18':
+        type: DIRT
+        amount: 64
+      '19':
+        type: DIRT
+        amount: 64
+      '20':
+        type: DIRT
+        amount: 64
+      '21':
+        type: DIRT
+        amount: 64
+      '22':
+        type: DIRT
+        amount: 64
+      '23':
+        type: DIRT
+        amount: 64
+      '24':
+        type: DIRT
+        amount: 64
+      '25':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §aTea Leaf
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JbkIg/LogujKQ5xsCCgzA5kDI8ZNQgN+FX9xLLs8uScowKo8LZveiG+2+u5ElyBZ1LAu45o2rppagY6qJnFydE+OFpabji2kxeLDDNDBXWabrztKn6fgdLxoetbflcB4EmB1yQTPYdfPnrIjiUWR0+cRmJPHO1R7Eh9W5BLMuYrYhM5+c3S3o7Ov9bqsoMlUsMr2SXoc5ng1ggF34T6ScY/NIoH36VmWgdzGhH0518VjQrJIjqnayZ8GY+sDhv6SB/M9ev0EFvsEOipTBq2Xg5UEtxFZTN9YucmFR0953zETwAFXvxMcpit9qtry7dVDvAHcA8phyoBAAA=
+          skull-owner: CSCoreLib
+      '26':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIRT
+        amount: 64
+      '29':
+        type: PUMPKIN
+        amount: 4
+      '30':
+        type: DOUBLE_PLANT
+        damage: 5
+        amount: 26
+      '31':
+        type: DIRT
+        amount: 64
+      '32':
+        type: MUTTON
+        amount: 46
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: DIRT
+        amount: 64
+      '35':
+        type: WOOL
+        damage: 8
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_FALL: 1
+            PROTECTION_EXPLOSIONS: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_EXPLOSIONS: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 89
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '31':
+    Time: 1459659262455
+    Exp: 7844
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 8
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9997256
+        Amplifier: 1
+    Location:
+      world: world
+      x: 8157.918905373617
+      y: 47.015555072702206
+      z: -3761.0633147035314
+      pitch: 17.652884
+      yaw: -5.4718018
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 74
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_SPADE
+        damage: 1233
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 1
+          repair-cost: 15
+      '3':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '5':
+        type: DIRT
+        amount: 64
+      '6':
+        type: WOOL
+        amount: 28
+      '7':
+        type: COOKED_BEEF
+        amount: 21
+      '8':
+        type: FLINT_AND_STEEL
+        damage: 32
+      '9':
+        type: DOUBLE_PLANT
+        damage: 4
+        amount: 26
+      '10':
+        type: COOKIE
+      '11':
+        type: IRON_ORE
+        amount: 26
+      '12':
+        type: DIRT
+        amount: 64
+      '13':
+        type: WOOL
+        damage: 7
+        amount: 2
+      '14':
+        type: WOOL
+        damage: 15
+      '15':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '17':
+        type: COAL
+        amount: 17
+      '18':
+        type: DIRT
+        amount: 64
+      '19':
+        type: DIRT
+        amount: 64
+      '20':
+        type: DIRT
+        amount: 64
+      '21':
+        type: DIRT
+        amount: 64
+      '22':
+        type: DIRT
+        amount: 64
+      '23':
+        type: DIRT
+        amount: 64
+      '24':
+        type: DIRT
+        amount: 64
+      '25':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §aTea Leaf
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JbkIg/LogujKQ5xsCCgzA5kDI8ZNQgN+FX9xLLs8uScowKo8LZveiG+2+u5ElyBZ1LAu45o2rppagY6qJnFydE+OFpabji2kxeLDDNDBXWabrztKn6fgdLxoetbflcB4EmB1yQTPYdfPnrIjiUWR0+cRmJPHO1R7Eh9W5BLMuYrYhM5+c3S3o7Ov9bqsoMlUsMr2SXoc5ng1ggF34T6ScY/NIoH36VmWgdzGhH0518VjQrJIjqnayZ8GY+sDhv6SB/M9ev0EFvsEOipTBq2Xg5UEtxFZTN9YucmFR0953zETwAFXvxMcpit9qtry7dVDvAHcA8phyoBAAA=
+          skull-owner: CSCoreLib
+      '26':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIRT
+        amount: 64
+      '29':
+        type: PUMPKIN
+        amount: 4
+      '30':
+        type: DOUBLE_PLANT
+        damage: 5
+        amount: 26
+      '31':
+        type: DIRT
+        amount: 64
+      '32':
+        type: MUTTON
+        amount: 46
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: DIRT
+        amount: 64
+      '35':
+        type: WOOL
+        damage: 8
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_FALL: 1
+            PROTECTION_EXPLOSIONS: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_EXPLOSIONS: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 89
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '32':
+    Time: 1459766736397
+    Exp: 7846
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 18.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9978057
+        Amplifier: 1
+    Location:
+      world: world
+      x: 517.6670158660432
+      y: 126.48302977828122
+      z: -337.54704380778196
+      pitch: 53.41674
+      yaw: -202.91339
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_SPADE
+        damage: 1233
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 1
+          repair-cost: 15
+      '3':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '5':
+        type: DIRT
+        amount: 64
+      '6':
+        type: WOOL
+        amount: 28
+      '7':
+        type: COOKED_BEEF
+        amount: 19
+      '8':
+        type: FLINT_AND_STEEL
+        damage: 32
+      '9':
+        type: DOUBLE_PLANT
+        damage: 4
+        amount: 26
+      '10':
+        type: COOKIE
+      '11':
+        type: IRON_ORE
+        amount: 34
+      '12':
+        type: DIRT
+        amount: 64
+      '13':
+        type: WOOL
+        damage: 7
+        amount: 2
+      '14':
+        type: WOOL
+        damage: 15
+      '15':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '17':
+        type: COAL
+        amount: 17
+      '18':
+        type: DIRT
+        amount: 64
+      '19':
+        type: DIRT
+        amount: 64
+      '20':
+        type: DIRT
+        amount: 64
+      '21':
+        type: DIRT
+        amount: 64
+      '22':
+        type: DIRT
+        amount: 64
+      '23':
+        type: DIRT
+        amount: 64
+      '24':
+        type: DIRT
+        amount: 64
+      '25':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §aTea Leaf
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JbkIg/LogujKQ5xsCCgzA5kDI8ZNQgN+FX9xLLs8uScowKo8LZveiG+2+u5ElyBZ1LAu45o2rppagY6qJnFydE+OFpabji2kxeLDDNDBXWabrztKn6fgdLxoetbflcB4EmB1yQTPYdfPnrIjiUWR0+cRmJPHO1R7Eh9W5BLMuYrYhM5+c3S3o7Ov9bqsoMlUsMr2SXoc5ng1ggF34T6ScY/NIoH36VmWgdzGhH0518VjQrJIjqnayZ8GY+sDhv6SB/M9ev0EFvsEOipTBq2Xg5UEtxFZTN9YucmFR0953zETwAFXvxMcpit9qtry7dVDvAHcA8phyoBAAA=
+          skull-owner: CSCoreLib
+      '26':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIRT
+        amount: 64
+      '29':
+        type: PUMPKIN
+        amount: 4
+      '30':
+        type: DOUBLE_PLANT
+        damage: 5
+        amount: 26
+      '31':
+        type: DIRT
+        amount: 64
+      '32':
+        type: MUTTON
+        amount: 46
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: DIRT
+        amount: 64
+      '35':
+        type: WOOL
+        damage: 8
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_FALL: 1
+            PROTECTION_EXPLOSIONS: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_EXPLOSIONS: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 89
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '33':
+    Time: 1459847487337
+    Exp: 7846
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 18.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9978057
+        Amplifier: 1
+    Location:
+      world: world
+      x: 517.6670158660432
+      y: 126.48302977828122
+      z: -337.54704380778196
+      pitch: 53.41674
+      yaw: -202.91339
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_SPADE
+        damage: 1233
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 1
+          repair-cost: 15
+      '3':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '5':
+        type: DIRT
+        amount: 64
+      '6':
+        type: WOOL
+        amount: 28
+      '7':
+        type: COOKED_BEEF
+        amount: 19
+      '8':
+        type: FLINT_AND_STEEL
+        damage: 32
+      '9':
+        type: DOUBLE_PLANT
+        damage: 4
+        amount: 26
+      '10':
+        type: COOKIE
+      '11':
+        type: IRON_ORE
+        amount: 34
+      '12':
+        type: DIRT
+        amount: 64
+      '13':
+        type: WOOL
+        damage: 7
+        amount: 2
+      '14':
+        type: WOOL
+        damage: 15
+      '15':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '17':
+        type: COAL
+        amount: 17
+      '18':
+        type: DIRT
+        amount: 64
+      '19':
+        type: DIRT
+        amount: 64
+      '20':
+        type: DIRT
+        amount: 64
+      '21':
+        type: DIRT
+        amount: 64
+      '22':
+        type: DIRT
+        amount: 64
+      '23':
+        type: DIRT
+        amount: 64
+      '24':
+        type: DIRT
+        amount: 64
+      '25':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §aTea Leaf
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JbkIg/LogujKQ5xsCCgzA5kDI8ZNQgN+FX9xLLs8uScowKo8LZveiG+2+u5ElyBZ1LAu45o2rppagY6qJnFydE+OFpabji2kxeLDDNDBXWabrztKn6fgdLxoetbflcB4EmB1yQTPYdfPnrIjiUWR0+cRmJPHO1R7Eh9W5BLMuYrYhM5+c3S3o7Ov9bqsoMlUsMr2SXoc5ng1ggF34T6ScY/NIoH36VmWgdzGhH0518VjQrJIjqnayZ8GY+sDhv6SB/M9ev0EFvsEOipTBq2Xg5UEtxFZTN9YucmFR0953zETwAFXvxMcpit9qtry7dVDvAHcA8phyoBAAA=
+          skull-owner: CSCoreLib
+      '26':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIRT
+        amount: 64
+      '29':
+        type: PUMPKIN
+        amount: 4
+      '30':
+        type: DOUBLE_PLANT
+        damage: 5
+        amount: 26
+      '31':
+        type: DIRT
+        amount: 64
+      '32':
+        type: MUTTON
+        amount: 46
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: DIRT
+        amount: 64
+      '35':
+        type: WOOL
+        damage: 8
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_FALL: 1
+            PROTECTION_EXPLOSIONS: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_EXPLOSIONS: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 89
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '34':
+    Time: 1460146823030
+    Exp: 7846
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 18.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9978057
+        Amplifier: 1
+    Location:
+      world: world
+      x: 517.6670158660432
+      y: 126.48302977828122
+      z: -337.54704380778196
+      pitch: 53.41674
+      yaw: -202.91339
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 77
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: DIAMOND_SPADE
+        damage: 1233
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 1
+          repair-cost: 15
+      '3':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Lumber Axe
+          lore:
+          - §a§oCuts down the whole Tree...
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '4':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Baton
+          enchants:
+            KNOCKBACK: 10
+      '5':
+        type: DIRT
+        amount: 64
+      '6':
+        type: WOOL
+        amount: 28
+      '7':
+        type: COOKED_BEEF
+        amount: 19
+      '8':
+        type: FLINT_AND_STEEL
+        damage: 32
+      '9':
+        type: DOUBLE_PLANT
+        damage: 4
+        amount: 26
+      '10':
+        type: COOKIE
+      '11':
+        type: IRON_ORE
+        amount: 34
+      '12':
+        type: DIRT
+        amount: 64
+      '13':
+        type: WOOL
+        damage: 7
+        amount: 2
+      '14':
+        type: WOOL
+        damage: 15
+      '15':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '17':
+        type: COAL
+        amount: 17
+      '18':
+        type: DIRT
+        amount: 64
+      '19':
+        type: DIRT
+        amount: 64
+      '20':
+        type: DIRT
+        amount: 64
+      '21':
+        type: DIRT
+        amount: 64
+      '22':
+        type: DIRT
+        amount: 64
+      '23':
+        type: DIRT
+        amount: 64
+      '24':
+        type: DIRT
+        amount: 64
+      '25':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §aTea Leaf
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JbkIg/LogujKQ5xsCCgzA5kDI8ZNQgN+FX9xLLs8uScowKo8LZveiG+2+u5ElyBZ1LAu45o2rppagY6qJnFydE+OFpabji2kxeLDDNDBXWabrztKn6fgdLxoetbflcB4EmB1yQTPYdfPnrIjiUWR0+cRmJPHO1R7Eh9W5BLMuYrYhM5+c3S3o7Ov9bqsoMlUsMr2SXoc5ng1ggF34T6ScY/NIoH36VmWgdzGhH0518VjQrJIjqnayZ8GY+sDhv6SB/M9ev0EFvsEOipTBq2Xg5UEtxFZTN9YucmFR0953zETwAFXvxMcpit9qtry7dVDvAHcA8phyoBAAA=
+          skull-owner: CSCoreLib
+      '26':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '28':
+        type: DIRT
+        amount: 64
+      '29':
+        type: PUMPKIN
+        amount: 4
+      '30':
+        type: DOUBLE_PLANT
+        damage: 5
+        amount: 26
+      '31':
+        type: DIRT
+        amount: 64
+      '32':
+        type: MUTTON
+        amount: 46
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: DIRT
+        amount: 64
+      '35':
+        type: WOOL
+        damage: 8
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_FALL: 1
+            PROTECTION_EXPLOSIONS: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_EXPLOSIONS: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 89
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '35':
+    Time: 1460529263561
+    Exp: 7846
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 14
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9972945
+        Amplifier: 1
+      '2':
+        Name: WITHER
+        Duration: 147
+        Amplifier: 0
+    Location:
+      world: world
+      x: -1027.6942174805995
+      y: 60.856679926565775
+      z: -1328.400275597501
+      pitch: 1.233622
+      yaw: 44.448486
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 80
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '2':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '3':
+        type: GOLDEN_APPLE
+        amount: 64
+      '7':
+        type: COOKED_BEEF
+        amount: 19
+      '8':
+        type: FLINT_AND_STEEL
+        damage: 32
+      '9':
+        type: DIAMOND_LEGGINGS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_EXPLOSIONS: 1
+      '10':
+        type: COOKIE
+      '11':
+        type: DIAMOND_BOOTS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_FALL: 1
+            PROTECTION_EXPLOSIONS: 1
+      '13':
+        type: WOOL
+        damage: 7
+        amount: 2
+      '14':
+        type: WOOL
+        damage: 15
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '17':
+        type: COAL
+        amount: 17
+      '26':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '29':
+        type: PUMPKIN
+        amount: 4
+      '30':
+        type: DOUBLE_PLANT
+        damage: 5
+        amount: 26
+      '35':
+        type: WOOL
+        damage: 8
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 144
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 141
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 174
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '36':
+    Time: 1460883170028
+    Exp: 7849
+    Health: 19.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 609.2199831039852
+      y: 63.0
+      z: 420.4931600666605
+      pitch: 8.593144
+      yaw: -90.50354
+    Items:
+      '0':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '1':
+        type: GOLDEN_APPLE
+        amount: 64
+      '2':
+        type: COOKED_BEEF
+        amount: 19
+      '3':
+        type: FLINT_AND_STEEL
+        damage: 32
+      '4':
+        type: DIAMOND_LEGGINGS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_EXPLOSIONS: 1
+      '5':
+        type: DIAMOND_BOOTS
+        damage: 79
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+            PROTECTION_FALL: 1
+            PROTECTION_EXPLOSIONS: 1
+      '6':
+        type: COAL
+        amount: 17
+      '7':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '8':
+        type: DOUBLE_PLANT
+        damage: 5
+        amount: 26
+      '9':
+        type: WOOL
+        damage: 8
+      '11':
+        type: DIAMOND_CHESTPLATE
+        damage: 174
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '14':
+        type: DIAMOND_SWORD
+        damage: 80
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '16':
+        type: COOKIE
+      '17':
+        type: PUMPKIN
+        amount: 4
+      '18':
+        type: WOOL
+        damage: 15
+      '19':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '20':
+        type: WOOL
+        damage: 7
+        amount: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 144
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 141
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '37':
+    Time: 1462120694733
+    Exp: 7849
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 654.6647593203967
+      y: 62.5
+      z: 295.073289994623
+      pitch: 7.7664633
+      yaw: 356.79654
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 80
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: GOLDEN_APPLE
+        amount: 64
+      '2':
+        type: COOKED_BEEF
+        amount: 19
+      '3':
+        type: FLINT_AND_STEEL
+        damage: 32
+      '6':
+        type: COAL
+        amount: 17
+      '7':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '8':
+        type: DOUBLE_PLANT
+        damage: 5
+        amount: 26
+      '9':
+        type: WOOL
+        damage: 8
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '16':
+        type: COOKIE
+      '17':
+        type: PUMPKIN
+        amount: 4
+      '18':
+        type: WOOL
+        damage: 15
+      '19':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '20':
+        type: WOOL
+        damage: 7
+        amount: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 144
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 141
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '38':
+    Time: 1462483218264
+    Exp: 7849
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 654.6647593203967
+      y: 62.5
+      z: 295.073289994623
+      pitch: 7.7664633
+      yaw: 356.79654
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 80
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '1':
+        type: GOLDEN_APPLE
+        amount: 64
+      '2':
+        type: COOKED_BEEF
+        amount: 19
+      '3':
+        type: FLINT_AND_STEEL
+        damage: 32
+      '6':
+        type: COAL
+        amount: 17
+      '7':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Cabbage Plant
+      '8':
+        type: DOUBLE_PLANT
+        damage: 5
+        amount: 26
+      '9':
+        type: WOOL
+        damage: 8
+      '13':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Cabbage
+          internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+          skull-owner: CSCoreLib
+      '16':
+        type: COOKIE
+      '17':
+        type: PUMPKIN
+        amount: 4
+      '18':
+        type: WOOL
+        damage: 15
+      '19':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Lettuce Plant
+      '20':
+        type: WOOL
+        damage: 7
+        amount: 2
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 144
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 141
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

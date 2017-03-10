@@ -1,0 +1,207 @@
+PlayerLastName: exactproject
+EnderChestSize: 27
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 23
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §eSkeleton §fSpawner
+      internal: H4sIAAAAAAAAAF2OwQqDMBBERwuyhlI/pn9Q7MGbkELPS7vYkJCUuiD+fdVcxNvAe8OMAQwut5Be/h7V6fzggUA5d2+Q9RJEU6zR2C9PsU8qC+QwGgCFQZVdQul2Ok6onuKGj67WOlJv9ZaVj+rCdttHdrYu+K0rv7EESb7W4gr8AdY8SBa+AAAA
+      blockMaterial: MOB_SPAWNER
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Elemental Staff
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElMZ2ZgcUosTmVgYGBhYAAAKBxMjCEAAAA=
+      blockMaterial: SHIELD
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    damage: 14
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §cExplosive Bow
+      lore:
+      - §rAny Arrows fired using this Bow
+      - §rwill launch hit enemys into the air
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_SWORD
+    damage: 12
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §rSteel Sword
+      enchants:
+        DAMAGE_ALL: 5
+        DURABILITY: 6
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    damage: 86
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 5
+        DURABILITY: 3
+      repair-cost: 3
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_CHICKEN
+    amount: 64
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        MENDING: 1
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        MENDING: 1
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        MENDING: 1
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        MENDING: 1
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_LEGGINGS
+    damage: 190
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §a§lSlime Leggings
+      lore:
+      - §7§oReinforced
+      - ''
+      - §a§oBouncy Feeling
+      - ''
+      - §9+ Speed
+      - §6Slots 4
+      - §7Endless I
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+        DURABILITY: 4
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BOOTS
+    damage: 192
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §a§lSlime Boots
+      lore:
+      - §7§oReinforced
+      - ''
+      - §a§oBouncy Feeling
+      - ''
+      - §9+ Jump Boost
+      - §9+ No Fall Damage
+      - §6Slots 4
+      - §7Endless I
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+        DURABILITY: 4
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: The Burning Sander
+      enchants:
+        ARROW_DAMAGE: 5
+        ARROW_KNOCKBACK: 2
+        DURABILITY: 3
+        ARROW_FIRE: 1
+        MENDING: 1
+      repair-cost: 31
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 5
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 1
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: BUCKET
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    amount: 64
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_PICKAXE
+    damage: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Pickaxe
+      lore:
+      - §6Slots 4
+      - §7Endless I
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BOOTS
+    damage: 111
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_AXE
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Axe
+      lore:
+      - §6Slots 4
+      - §7Endless I
+      enchants:
+        DAMAGE_ALL: 10
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10

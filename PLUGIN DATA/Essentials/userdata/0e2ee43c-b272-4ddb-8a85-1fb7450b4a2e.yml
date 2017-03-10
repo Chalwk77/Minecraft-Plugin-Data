@@ -1,0 +1,36 @@
+geolocation: Cammeray, New South Wales, Australia
+lastlocation:
+  world: world
+  x: -479.00831507078607
+  y: 33.0
+  z: 768.9256151732559
+  yaw: 58.049133
+  pitch: 33.300148
+lastAccountName: dringoman
+timestamps:
+  login: 1473667068443
+  lastteleport: 1473667409199
+  logout: 1473667445436
+  kits:
+    citizen: 1471853273573
+    color: 1471767479461
+    tools: 1471853015953
+    food: 1471778252317
+ipAddress: 124.168.165.71
+money: '32264.61390000000001121'
+homes:
+  home:
+    world: world
+    x: -505.48246362050946
+    y: 91.0
+    z: 775.8103076394709
+    yaw: -103.33983
+    pitch: 35.999966
+logoutlocation:
+  world: world
+  x: -454.608807132329
+  y: 65.0
+  z: 791.6386696837852
+  yaw: -186.58997
+  pitch: 31.05002
+afk: false

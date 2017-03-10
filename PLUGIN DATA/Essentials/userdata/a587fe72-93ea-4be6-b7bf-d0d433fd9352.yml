@@ -1,0 +1,32 @@
+lastAccountName: redhotprime
+timestamps:
+  login: 1481215655361
+  lastteleport: 1481214949127
+  logout: 1481215808392
+ipAddress: 173.20.28.74
+geolocation: Herrin, Illinois, United States
+lastlocation:
+  world: world
+  x: -15315.972760226303
+  y: 174.0
+  z: -13176.74340260802
+  yaw: -21.519457
+  pitch: 13.885864
+money: '2027904.70246666666676245'
+godmode: true
+afk: false
+homes:
+  home:
+    world: world
+    x: -15315.37196413348
+    y: 174.0
+    z: -13176.491864185478
+    yaw: -353.14307
+    pitch: 62.09995
+logoutlocation:
+  world: world
+  x: -8136.133214009041
+  y: 193.0
+  z: -13518.032997738797
+  yaw: 4.3636475
+  pitch: 34.05005

@@ -1,0 +1,247 @@
+PlayerLastName: Cownerr
+EnderChestSize: 18
+EnderChestInventory:
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      internal: H4sIAAAAAAAAAE2Ly26CQBiF/zZtgqSP0S3JcLWzcGHExCEyFsXLsANmCIwzahBq6XP1Acuyi5OTL+c7JoAJb7tzr9Rne60aJQx4JhzePypUBL7DLYxd1/J46VvYrrBV8qAqCzzNA+SaYI6nm2i7RtwnYHTiu+tbcTcB4MmA10OuegG/YohQdqoRP0WqHEgwcrpDakPkbUouh6FYkIDocV/Ng/WA/7l+lx99xdyozi5JX+gDWrtbJVZbu9T7LyZpQ3+WDybnHpP7IXaihqVcZTqq45BLKonP9PKxCc82OyZOnC4HqpMxsUd1pJgcO9w7cUjrTVqiWGaSXGxcJbMZgAEvNNcCJovd4tqKdVMA/AEXS/npLgEAAA==
+      skull-owner: CSCoreLib
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_CHICKEN
+    amount: 47
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    damage: 18
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      internal: H4sIAAAAAAAAAH3MMQ6AIAADwCqoyKB/wrg7+AGCxBgREmDx9zI4yIBbm0vLAY5BGKfO2cYj3qvce7BFxqi9DRxAy9C9HWTzgaCZnHE+0YjMTNFq5T9UZXT9rMoUVHZIQIUMOmUKPLNYM13VAAAA
+      blockMaterial: SHIELD
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 14
+    amount: 40
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 1
+    amount: 10
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    damage: 29
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_HELMET
+    damage: 10
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §4Dwellers §6Mining §4Cap
+      lore:
+      - §a+3 Health
+      - §3+1% Dodge
+      - §6+2% Critical Chance
+      - §c+5 Critical Damage
+      - §6This amazing cap gives the wearer unwavering §4Power
+      - §cDwellers Set
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        PROTECTION_FIRE: 4
+        PROTECTION_EXPLOSIONS: 4
+        PROTECTION_PROJECTILE: 4
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 470
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 1
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 62
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 1
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    damage: 27
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 1
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    damage: 25
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: SMOOTH_BRICK
+    amount: 64
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: SMOOTH_BRICK
+    amount: 41
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rChicken Head
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSgkLnwcOibNZIGYogvVGoEW3VIKj0d+0HjuOOL+89E8CEt/WxlfKnPu8qKQx4JiW8Y8dDNv7ILYfjwhqNBLa4I7glsMtdXIx2JSpNMPvpIuqmEtcBGI14NG0triYAPBnwmuSyFfArugVi2z0qtwtZdMTrOV4jGZLDBZNT0vEp8Yjq/fzTW3bjf63b5Kkrs+Fiz05Ry1WClsOVFPOVXajNLYgzHc4iJ0x9O4zlgaWJoprcqd5oqrN7oAkKv303S8kjSJmi8fHBVNS7fcVSH1Ed2NkhQFT5Q6a+ZDg7anKyx7toMgEw4IXmSsBgup6ea7GsOMAfe7oceC4BAAA=
+      skull-owner: CSCoreLib
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: STEP
+    damage: 2
+    amount: 4
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: PORK
+    amount: 2
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rPig Head
+      internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJgqzx0EODbV0iHxVR3L0tsIafXTUIBvpUfcR67HEyMyaACS/bplfquz0fKyUNeKQFvBZFLnIhhUUIOVozj8wt4c4ySwo5zV1HFg6xTTDv00W2XSWvEzA6OXR9K68mADwY8LwXqpfwK8fA5ofSLg6BykdK7pxsbRXR+jKnp/2Y+ZRQfferd7IeF/9arxOpp5gblPy06TO9t9durOQqnuZ6d8OaDlizGU+ZyxzqRmncRGk4hhpV6GwGXqPGL6xQ70ZMdl60bH5YzRtexyUumYfJh80T5qATDqg/S/SDxfFgvwEY8IRCS5j4W//cynWVAfwB7qosRCoBAAA=
+      skull-owner: CSCoreLib
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: LAPIS_BLOCK
+    amount: 64
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: LAPIS_BLOCK
+    amount: 64
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    damage: 107
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lLucky Chestplate
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        DURABILITY: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 296
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §k§6§kii§r§dOverlord§k§6§kii
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 10
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: END_BRICKS
+    amount: 64
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BLOCK
+    amount: 55
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD_STEP
+    damage: 1
+    amount: 12
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: STAINED_GLASS
+    damage: 4
+    amount: 13
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    damage: 5
+    amount: 57
+  '28':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEAVES
+    amount: 31
+  '29':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 292
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 1
+  '30':
+    ==: org.bukkit.inventory.ItemStack
+    type: STEP
+    amount: 16
+  '31':
+    ==: org.bukkit.inventory.ItemStack
+    type: BUCKET
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    damage: 4
+    amount: 64
+  '33':
+    ==: org.bukkit.inventory.ItemStack
+    type: STAINED_GLASS
+    damage: 11
+    amount: 8
+  '34':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_INGOT
+    amount: 12
+  '35':
+    ==: org.bukkit.inventory.ItemStack
+    type: END_BRICKS
+    amount: 64
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    type: DARK_OAK_FENCE
+    amount: 14
+  '37':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    damage: 42
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 1
+  '38':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD_STEP
+    damage: 5
+    amount: 18
+  '39':
+    ==: org.bukkit.inventory.ItemStack
+    type: END_BRICKS
+    amount: 12

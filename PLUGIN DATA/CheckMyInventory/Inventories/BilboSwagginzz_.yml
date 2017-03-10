@@ -1,0 +1,742 @@
+Inventories:
+  '1':
+    Time: 1479881935947
+    Killer: §a§lZombie Warrior
+    DeathReasson: Entity attack
+    Exp: 429
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 13818.300000011921
+      y: 63.0
+      z: 29625.30000001192
+      pitch: -44.62692
+      yaw: 341.93457
+    Items:
+      '0':
+        type: LOG
+        amount: 18
+      '1':
+        type: COOKED_BEEF
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '2':
+        type: ROTTEN_FLESH
+      '3':
+        type: SUGAR_CANE
+        amount: 14
+      '4':
+        type: DIAMOND_SWORD
+        damage: 10
+      '5':
+        type: DIAMOND_AXE
+        damage: 74
+      '6':
+        type: DIAMOND_SPADE
+        damage: 32
+      '7':
+        type: DIAMOND_PICKAXE
+      '8':
+        type: DIAMOND_HOE
+        damage: 63
+      '9':
+        type: WATER_LILY
+        amount: 9
+      '10':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aLime Sapling
+      '11':
+        type: SAPLING
+        amount: 5
+      '12':
+        type: GOLD_NUGGET
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '13':
+        type: BROWN_MUSHROOM
+      '14':
+        type: MELON_SEEDS
+      '15':
+        type: PUMPKIN_SEEDS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rGrass Seeds
+          lore:
+          - ''
+          - §7§oCan be planted on Dirt
+      '16':
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Coconut Sapling
+      '17':
+        type: SAPLING
+        damage: 3
+      '18':
+        type: SEEDS
+        amount: 2
+      '28':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+          enchants:
+            DAMAGE_UNDEAD: 65535
+  '2':
+    Time: 1479966989731
+    Killer: §a§lZombie Warrior
+    DeathReasson: Entity attack
+    Exp: 1788
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1.7828194300000012E7
+      y: 63.0
+      z: -8967391.300000012
+      pitch: 9.334457
+      yaw: 156.42603
+    Items:
+      '0':
+        type: LOG_2
+        damage: 1
+        amount: 44
+      '1':
+        type: COOKED_BEEF
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '2':
+        type: CHEST
+        amount: 58
+      '3':
+        type: DIAMOND_SWORD
+        damage: 46
+      '4':
+        type: DIAMOND_HOE
+        damage: 67
+      '5':
+        type: DIAMOND_AXE
+        damage: 136
+      '6':
+        type: DIAMOND_SPADE
+        damage: 68
+      '7':
+        type: DIAMOND_PICKAXE
+        damage: 26
+      '8':
+        type: WOOD_DOOR
+        amount: 2
+      '9':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '11':
+        type: WOOD
+        damage: 5
+        amount: 64
+      '12':
+        type: TORCH
+        amount: 5
+      '13':
+        type: STRING
+      '23':
+        type: SMOOTH_BRICK
+        amount: 34
+      '33':
+        type: WOOD
+        amount: 8
+      '34':
+        type: LOG_2
+        damage: 1
+        amount: 64
+      '35':
+        type: WOOD
+        damage: 5
+        amount: 64
+  '3':
+    Time: 1480057564941
+    Killer: §3Hybrid zombie
+    DeathReasson: Entity attack
+    Exp: 19148
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: SPEED
+        Duration: 64
+        Amplifier: 2
+    Location:
+      world: world
+      x: -1.7828189300000012E7
+      y: 63.5
+      z: -8967387.894602133
+      pitch: -14.401119
+      yaw: -276.4203
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 128
+      '1':
+        type: ENDER_PORTAL_FRAME
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnder Bag ： Personal №1
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - '§7R-click: open bag'
+          - '§7⇧ + R-click ender box: sync №'
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCVqybVpRaWJqal1xppWDIlZ6Tn5SYY6WQlphTnMqlrhUSGeCqbqWQmpeSWpSUmA50JwARfhsHwwAAAA==
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cElderberry Jelly Sandwich
+          lore:
+          - ''
+          - §7§oRestores §b§o8.0 §7§oHunger
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJ8rfEo9Wqa1yoguLuDXC3AosahAZ4qj5iOfY4mRkdQIe3sGyV+qpvMldCg2dyhneZISkzKY3MQo7hYOwaKfaEMfU8LLGZeKnr6qCP013UTS4eE9Aa0TVtLR46ADxp8HpMVCvgV/QbxE8XdD5tVNYTPHIUIhWQ4u6R67FP5wSTavTrGd7203+t2ySxq5i9ufDrrk2rI9raeyXWezOrDj/BijosKocgmrnUWuY09kseMcsfzhWLme0vvjte0I7GB5MXnzYv2MAXBydYkJE/FF3Rzh92Fh2WFStmiA5lLk/mFECDFz+pBEzm4fxWi22eAvwBkC/2sSoBAAA=
+          skull-owner: CSCoreLib
+      '5':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cCranberry Pie
+          lore:
+          - ''
+          - §7§oRestores §b§o6.5 §7§oHunger
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4k/CvKwcOmUSEWhjqU3kqpKV2rBsEIn2ofcR53fHnvmQAmvG1/OqW+mvOxVtyA56iC9+PEtYNxySxUur7lVza1KHWZRX2GQmcSosApTTAf04U3bc2vIzBafm+7hl9NAHgy4DWnquPwy/vYJgdhV4dYsT4KHrzb2iqN5GUcnfK+nEVBpB9+9RGs+/Bfi1q6R6rwYkFOWVfq3F57G8VXG4fp7xsesnu6xG4hPwWWShfDQpMdQ3iP/XTHvGSZ+VgKTWQxkHks0j0RicY+HrCH3VxjdyGSeVUTmahCMhSdnPCYTacABrwkVHMYzbazc8PXdQnwB5vMQUMqAQAA
+          skull-owner: CSCoreLib
+      '6':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rFish Taco
+          lore:
+          - ''
+          - §7§oRestores §b§o9.0 §7§oHunger
+          internal: H4sIAAAAAAAAAE2MzW6CQBhFvzZtgqSP0S3JwDCoiy4MNXWIgxUQhR0/Y2A6owbBOD5VH7Esuzw591wTwIS3+GeQ8rs7H1vJDXimNbxPsYPcmVNZeOp4losIsgpSOlZREXeGa7u00dEEc4wuvOtbfp2A0fN7P3T8agLAkwGvaSEHDr9cByg/NKg+BLLS1Bs5iZHcUHGZ0lOqS596VI1+tfDWev5vS/piT2SGgyY/bYdSpWiNI8lXkV2p3W2TNCLfb3H4tdRMLDTbL232SFWoApEn9J49GhEKpjNBMXMiwdSWhMlu5OqeJczNP3eYiYxkgo3d+NUG8+MBfQAY8BIWisPEj/1zx9dtCfAHQ4XVGSoBAAA=
+          skull-owner: CSCoreLib
+      '7':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Sweetened Pear Cheesecake
+          lore:
+          - ''
+          - §7§oRestores §b§o9.0 §7§oHunger
+          internal: H4sIAAAAAAAAAE2LzW6CQBhFvzZtgqSP0S3J8DfioosG0zhEoIKCM7tBx8I4qEGwwlP1EUt3Xd2ce+7VAXR4SY+dUp/N+VApocEj2cOryz3L5twzHMynhmO7O6OYYs/AlokcLgoTu0IHfTxdRNNW4joBrRX3tmvEVQeABw2eM646AT+iDxDblmi/DdSuJ3jkdYpUTORlSk5ZX/gEk3r0i3e87Gf/tm7Lc1dROyjZadUVdYaWdqLEIjF39eYWydCKcmKF+caOcyapPN5DK5DxnH4zmSg60CHKV4iuWUnlRxUNScXqMWVQU8nU2B/juSrDP7/+QmEazA5b9AagwVPEawETP/XPjVhWBcAvQ6c6VSoBAAA=
+          skull-owner: CSCoreLib
+      '8':
+        type: GOLD_NUGGET
+        amount: 41
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '9':
+        type: DIAMOND_HELMET
+        damage: 12
+      '10':
+        type: DIAMOND_LEGGINGS
+        damage: 12
+      '18':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §dPig Pet
+          lore:
+          - §2Farm Animal (Peaceful)
+          - '§7Favourite Food: Carrots'
+          - ''
+          - §rBonus Saturation when eating
+          - §rAllows you to eat poisonous Food
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SsJgqzx0EODbV0iHxVR3L0tsIafXTUIBvpUfcR67HEyMyaACS/bplfquz0fKyUNeKQFvBZFLnIhhUUIOVozj8wt4c4ySwo5zV1HFg6xTTDv00W2XSWvEzA6OXR9K68mADwY8LwXqpfwK8fA5ofSLg6BykdK7pxsbRXR+jKnp/2Y+ZRQfferd7IeF/9arxOpp5gblPy06TO9t9durOQqnuZ6d8OaDlizGU+ZyxzqRmncRGk4hhpV6GwGXqPGL6xQ70ZMdl60bH5YzRtexyUumYfJh80T5qATDqg/S/SDxfFgvwEY8IRCS5j4W//cynWVAfwB7qosRCoBAAA=
+          skull-owner: CSCoreLib
+      '27':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Magma Cube Pet
+          lore:
+          - §cMob (Hostile)
+          - '§7Favourite Food: Nether Quartz'
+          - ''
+          - §rImmune to Lava
+          - §rQuite hungry
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkAAdh0YUxrQ5xsAhFh50jzyLOqEFohK/qJ5ZlVzcn51wTwISX5NQq9VlfDkeFBjyyAl7JGGXgu75Fx9SzxiQgli/tgzXxiY0+OtKW1ARzOF2xbo54G4HR4L1pa7yZAPBgwHO2Uy3CL3YhybclKbah2nfMGzhNiFqx6jph56yTM+YxPfjF1Ft2wb+WNrsNVcINy/wct1JnZOmuFS7W9l5//fD+m0ZpcYrSaccdTnlfVNGcE775KHkV37mOCe+HnYcnkbJeOMJdbd5pXuWlqLgjqr2T60wPnSv6uFslYXDYkjcAA56inUYYzZLZpcblUQL8AWLrM34qAQAA
+          skull-owner: CSCoreLib
+      '31':
+        type: MUSHROOM_SOUP
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rEgg Salad
+          lore:
+          - ''
+          - §7§oRestores §b§o6.0 §7§oHunger
+      '32':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §cCowberry Smoothie
+          lore:
+          - ''
+          - §7§oRestores §b§o5.0 §7§oHunger
+          custom-effects:
+          - ==: PotionEffect
+            effect: 23
+            duration: 10
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '33':
+        type: MUSHROOM_SOUP
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rPotato Salad
+          lore:
+          - ''
+          - §7§oRestores §b§o6.0 §7§oHunger
+      '35':
+        type: COOKED_CHICKEN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §6Slots 4
+          - §7Speed III
+  '4':
+    Time: 1480153250029
+    Killer: awsmgrl888
+    DeathReasson: Entity attack
+    Exp: 81046
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: GLOWING
+        Duration: 200
+        Amplifier: 1
+      '2':
+        Name: NIGHT_VISION
+        Duration: 88585
+        Amplifier: 1
+      '3':
+        Name: SPEED
+        Duration: 166
+        Amplifier: 2
+      '4':
+        Name: JUMP
+        Duration: 166
+        Amplifier: 2
+      '5':
+        Name: INCREASE_DAMAGE
+        Duration: 166
+        Amplifier: 2
+    Location:
+      world: world
+      x: -18671.80116538832
+      y: 47.0
+      z: 10654.520012313798
+      pitch: 8.353449
+      yaw: 127.024994
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          lore:
+          - §6Slots 1
+          - §7Riftslayer I
+          - §7Plunder I
+          - §7Crushing V
+          - §f§lPROTECTION RUNE
+          - §7Reborn III
+          enchants:
+            DAMAGE_ALL: 5
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Silk Pick
+          lore:
+          - §6Slots 2
+          - §7Haste III
+          - §7Lucky Mining V
+          - §7Endless I
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+          repair-cost: 1
+      '2':
+        type: DIAMOND_SPADE
+        damage: 94
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          enchants:
+            DIG_SPEED: 5
+      '3':
+        type: DIAMOND_AXE
+        damage: 94
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          enchants:
+            DIG_SPEED: 5
+      '4':
+        type: DIAMOND_HELMET
+        damage: 376
+        amount: 0
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_EXPLOSIONS: 1
+      '9':
+        type: ENDER_PORTAL_FRAME
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnder Bag ： Personal №1
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - '§7R-click: open bag'
+          - '§7⇧ + R-click ender box: sync №'
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCVqybVpRaWJqal1xppWDIlZ6Tn5SYY6WQlphTnMqlrhUSGeCqbqWQmpeSWpSUmA50JwARfhsHwwAAAA==
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 376
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          lore:
+          - §6Slots 3
+          - §7Speed III
+          - §7Jump III
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_EXPLOSIONS: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 376
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_EXPLOSIONS: 1
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 376
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          lore:
+          - §6Slots 4
+          - §7Strength III
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_EXPLOSIONS: 1
+  '5':
+    Time: 1480853115576
+    DeathReasson: Unknown
+    Exp: 36790
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 7.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 54110
+        Amplifier: 1
+      '2':
+        Name: SPEED
+        Duration: 193
+        Amplifier: 2
+      '3':
+        Name: JUMP
+        Duration: 193
+        Amplifier: 2
+      '4':
+        Name: INCREASE_DAMAGE
+        Duration: 193
+        Amplifier: 2
+    Location:
+      world: world
+      x: -1620.642435115646
+      y: 68.12371935188202
+      z: -1028.107376605185
+      pitch: 15.481646
+      yaw: 354.97592
+    Items:
+      '0':
+        type: BOW
+      '1':
+        type: DIAMOND_SWORD
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          lore:
+          - §6Slots 0
+          - §7Riftslayer I
+          - §7Plunder I
+          - §7Crushing V
+          - §f§lPROTECTION RUNE
+          - §7Reborn III
+          - §7Purge III
+          enchants:
+            DAMAGE_ALL: 5
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Silk Pick
+          lore:
+          - §6Slots 2
+          - §7Haste III
+          - §7Lucky Mining V
+          - §7Endless I
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+          repair-cost: 1
+      '3':
+        type: DIAMOND_AXE
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          lore:
+          - §6Slots 4
+          - §7Crushing V
+          enchants:
+            DIG_SPEED: 5
+      '4':
+        type: STONE
+        amount: 36
+      '27':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §bFaithful Challenge
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 1000
+            amplifier: 4
+            ambient: true
+            has-particles: true
+      '36':
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          lore:
+          - §6Slots 3
+          - §7Speed III
+          - §7Jump III
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_EXPLOSIONS: 1
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          lore:
+          - §6Slots 4
+          - §7Strength III
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_EXPLOSIONS: 1
+      '39':
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§1§kii§r§6Ultra§k§1§kii
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_EXPLOSIONS: 1
+  '6':
+    Time: 1481094737144
+    DeathReasson: Fall
+    Exp: 36940
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1596.699999988079
+      y: 62.0
+      z: -1015.1251533664911
+      pitch: 58.159184
+      yaw: 88.64842
+  '7':
+    Time: 1481094760592
+    DeathReasson: Unknown
+    Exp: 36940
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1619.1892093258136
+      y: 68.21589434553873
+      z: -1039.300000011921
+      pitch: 26.24833
+      yaw: -355.47357
+  '8':
+    Time: 1481266822107
+    DeathReasson: Unknown
+    Exp: 36940
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -1619.3251013903325
+      y: 68.21589434553873
+      z: -1039.300000011921
+      pitch: 23.361794
+      yaw: 2.4296246

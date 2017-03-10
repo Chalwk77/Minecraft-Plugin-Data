@@ -1,0 +1,1587 @@
+Inventories:
+  '25':
+    Time: 1458455350869
+    Exp: 12274
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9481165
+        Amplifier: 1
+    Location:
+      world: world
+      x: -578.4834817994763
+      y: 62.5
+      z: -4152.319853019404
+      pitch: 3.2480128
+      yaw: 179.73357
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 7
+      '2':
+        type: DIAMOND_AXE
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: DIAMOND_SPADE
+        damage: 180
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 1
+      '4':
+        type: BOW
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+            DURABILITY: 1
+      '6':
+        type: ENDER_PEARL
+        amount: 4
+      '7':
+        type: TORCH
+        amount: 17
+      '8':
+        type: COOKED_BEEF
+        amount: 25
+      '9':
+        type: COOKED_MUTTON
+        amount: 26
+      '10':
+        type: DIAMOND_BLOCK
+      '18':
+        type: GOLDEN_APPLE
+        amount: 2
+      '26':
+        type: COOKED_BEEF
+        amount: 64
+      '29':
+        type: GOLD_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '31':
+        type: ARROW
+        amount: 46
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: SADDLE
+      '35':
+        type: COOKED_BEEF
+        amount: 44
+  '26':
+    Time: 1459465460071
+    Exp: 12274
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9481165
+        Amplifier: 1
+    Location:
+      world: world
+      x: -578.4834817994763
+      y: 62.5
+      z: -4152.319853019404
+      pitch: 3.2480128
+      yaw: 179.73357
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 7
+      '2':
+        type: DIAMOND_AXE
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: DIAMOND_SPADE
+        damage: 180
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 1
+      '4':
+        type: BOW
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+            DURABILITY: 1
+      '6':
+        type: ENDER_PEARL
+        amount: 4
+      '7':
+        type: TORCH
+        amount: 17
+      '8':
+        type: COOKED_BEEF
+        amount: 25
+      '9':
+        type: COOKED_MUTTON
+        amount: 26
+      '10':
+        type: DIAMOND_BLOCK
+      '18':
+        type: GOLDEN_APPLE
+        amount: 2
+      '26':
+        type: COOKED_BEEF
+        amount: 64
+      '29':
+        type: GOLD_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '31':
+        type: ARROW
+        amount: 46
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: SADDLE
+      '35':
+        type: COOKED_BEEF
+        amount: 44
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 3
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+      '39':
+        type: DIAMOND_HELMET
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+  '27':
+    Time: 1459469869267
+    Exp: 12274
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9481165
+        Amplifier: 1
+    Location:
+      world: world
+      x: -578.4834817994763
+      y: 62.5
+      z: -4152.319853019404
+      pitch: 3.2480128
+      yaw: 179.73357
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 7
+      '2':
+        type: DIAMOND_AXE
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: DIAMOND_SPADE
+        damage: 180
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 1
+      '4':
+        type: BOW
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+            DURABILITY: 1
+      '6':
+        type: ENDER_PEARL
+        amount: 4
+      '7':
+        type: TORCH
+        amount: 17
+      '8':
+        type: COOKED_BEEF
+        amount: 25
+      '9':
+        type: COOKED_MUTTON
+        amount: 26
+      '10':
+        type: DIAMOND_BLOCK
+      '18':
+        type: GOLDEN_APPLE
+        amount: 2
+      '26':
+        type: COOKED_BEEF
+        amount: 64
+      '29':
+        type: GOLD_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '31':
+        type: ARROW
+        amount: 46
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: SADDLE
+      '35':
+        type: COOKED_BEEF
+        amount: 44
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 3
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+      '39':
+        type: DIAMOND_HELMET
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+  '28':
+    Time: 1459659258179
+    Exp: 12274
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9481165
+        Amplifier: 1
+    Location:
+      world: world
+      x: -578.4834817994763
+      y: 62.5
+      z: -4152.319853019404
+      pitch: 3.2480128
+      yaw: 179.73357
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 7
+      '2':
+        type: DIAMOND_AXE
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: DIAMOND_SPADE
+        damage: 180
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 1
+      '4':
+        type: BOW
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+            DURABILITY: 1
+      '6':
+        type: ENDER_PEARL
+        amount: 4
+      '7':
+        type: TORCH
+        amount: 17
+      '8':
+        type: COOKED_BEEF
+        amount: 25
+      '9':
+        type: COOKED_MUTTON
+        amount: 26
+      '10':
+        type: DIAMOND_BLOCK
+      '18':
+        type: GOLDEN_APPLE
+        amount: 2
+      '26':
+        type: COOKED_BEEF
+        amount: 64
+      '29':
+        type: GOLD_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '31':
+        type: ARROW
+        amount: 46
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: SADDLE
+      '35':
+        type: COOKED_BEEF
+        amount: 44
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 3
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+      '39':
+        type: DIAMOND_HELMET
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+  '29':
+    Time: 1459766731292
+    Exp: 12274
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9481165
+        Amplifier: 1
+    Location:
+      world: world
+      x: -578.4834817994763
+      y: 62.5
+      z: -4152.319853019404
+      pitch: 3.2480128
+      yaw: 179.73357
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 7
+      '2':
+        type: DIAMOND_AXE
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: DIAMOND_SPADE
+        damage: 180
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 1
+      '4':
+        type: BOW
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+            DURABILITY: 1
+      '6':
+        type: ENDER_PEARL
+        amount: 4
+      '7':
+        type: TORCH
+        amount: 17
+      '8':
+        type: COOKED_BEEF
+        amount: 25
+      '9':
+        type: COOKED_MUTTON
+        amount: 26
+      '10':
+        type: DIAMOND_BLOCK
+      '18':
+        type: GOLDEN_APPLE
+        amount: 2
+      '26':
+        type: COOKED_BEEF
+        amount: 64
+      '29':
+        type: GOLD_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '31':
+        type: ARROW
+        amount: 46
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: SADDLE
+      '35':
+        type: COOKED_BEEF
+        amount: 44
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 3
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+      '39':
+        type: DIAMOND_HELMET
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+  '30':
+    Time: 1459847482834
+    Exp: 12274
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9481165
+        Amplifier: 1
+    Location:
+      world: world
+      x: -578.4834817994763
+      y: 62.5
+      z: -4152.319853019404
+      pitch: 3.2480128
+      yaw: 179.73357
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 7
+      '2':
+        type: DIAMOND_AXE
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: DIAMOND_SPADE
+        damage: 180
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 1
+      '4':
+        type: BOW
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+            DURABILITY: 1
+      '6':
+        type: ENDER_PEARL
+        amount: 4
+      '7':
+        type: TORCH
+        amount: 17
+      '8':
+        type: COOKED_BEEF
+        amount: 25
+      '9':
+        type: COOKED_MUTTON
+        amount: 26
+      '10':
+        type: DIAMOND_BLOCK
+      '18':
+        type: GOLDEN_APPLE
+        amount: 2
+      '26':
+        type: COOKED_BEEF
+        amount: 64
+      '29':
+        type: GOLD_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '31':
+        type: ARROW
+        amount: 46
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: SADDLE
+      '35':
+        type: COOKED_BEEF
+        amount: 44
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 3
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+      '39':
+        type: DIAMOND_HELMET
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+  '31':
+    Time: 1460146819449
+    Exp: 12274
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9481165
+        Amplifier: 1
+    Location:
+      world: world
+      x: -578.4834817994763
+      y: 62.5
+      z: -4152.319853019404
+      pitch: 3.2480128
+      yaw: 179.73357
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 7
+      '2':
+        type: DIAMOND_AXE
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: DIAMOND_SPADE
+        damage: 180
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 1
+      '4':
+        type: BOW
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+            DURABILITY: 1
+      '6':
+        type: ENDER_PEARL
+        amount: 4
+      '7':
+        type: TORCH
+        amount: 17
+      '8':
+        type: COOKED_BEEF
+        amount: 25
+      '9':
+        type: COOKED_MUTTON
+        amount: 26
+      '10':
+        type: DIAMOND_BLOCK
+      '18':
+        type: GOLDEN_APPLE
+        amount: 2
+      '26':
+        type: COOKED_BEEF
+        amount: 64
+      '29':
+        type: GOLD_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '31':
+        type: ARROW
+        amount: 46
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: SADDLE
+      '35':
+        type: COOKED_BEEF
+        amount: 44
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 3
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+      '39':
+        type: DIAMOND_HELMET
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+  '32':
+    Time: 1460883165874
+    Exp: 12274
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9481165
+        Amplifier: 1
+    Location:
+      world: world
+      x: -578.4834817994763
+      y: 62.5
+      z: -4152.319853019404
+      pitch: 3.2480128
+      yaw: 179.73357
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 7
+      '2':
+        type: DIAMOND_AXE
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: DIAMOND_SPADE
+        damage: 180
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 1
+      '4':
+        type: BOW
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+            DURABILITY: 1
+      '6':
+        type: ENDER_PEARL
+        amount: 4
+      '7':
+        type: TORCH
+        amount: 17
+      '8':
+        type: COOKED_BEEF
+        amount: 25
+      '9':
+        type: COOKED_MUTTON
+        amount: 26
+      '10':
+        type: DIAMOND_BLOCK
+      '18':
+        type: GOLDEN_APPLE
+        amount: 2
+      '26':
+        type: COOKED_BEEF
+        amount: 64
+      '29':
+        type: GOLD_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '31':
+        type: ARROW
+        amount: 46
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: SADDLE
+      '35':
+        type: COOKED_BEEF
+        amount: 44
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 3
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+      '39':
+        type: DIAMOND_HELMET
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+  '33':
+    Time: 1462120690476
+    Exp: 12274
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9481165
+        Amplifier: 1
+    Location:
+      world: world
+      x: -578.4834817994763
+      y: 62.5
+      z: -4152.319853019404
+      pitch: 3.2480128
+      yaw: 179.73357
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 7
+      '2':
+        type: DIAMOND_AXE
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: DIAMOND_SPADE
+        damage: 180
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 1
+      '4':
+        type: BOW
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+            DURABILITY: 1
+      '6':
+        type: ENDER_PEARL
+        amount: 4
+      '7':
+        type: TORCH
+        amount: 17
+      '8':
+        type: COOKED_BEEF
+        amount: 25
+      '9':
+        type: COOKED_MUTTON
+        amount: 26
+      '10':
+        type: DIAMOND_BLOCK
+      '18':
+        type: GOLDEN_APPLE
+        amount: 2
+      '26':
+        type: COOKED_BEEF
+        amount: 64
+      '29':
+        type: GOLD_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '31':
+        type: ARROW
+        amount: 46
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: SADDLE
+      '35':
+        type: COOKED_BEEF
+        amount: 44
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 3
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+      '39':
+        type: DIAMOND_HELMET
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+  '34':
+    Time: 1462483213342
+    Exp: 12274
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 6.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9481165
+        Amplifier: 1
+    Location:
+      world: world
+      x: -578.4834817994763
+      y: 62.5
+      z: -4152.319853019404
+      pitch: 3.2480128
+      yaw: 179.73357
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 54
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+          repair-cost: 7
+      '2':
+        type: DIAMOND_AXE
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+      '3':
+        type: DIAMOND_SPADE
+        damage: 180
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 1
+      '4':
+        type: BOW
+        damage: 67
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+            DURABILITY: 1
+      '6':
+        type: ENDER_PEARL
+        amount: 4
+      '7':
+        type: TORCH
+        amount: 17
+      '8':
+        type: COOKED_BEEF
+        amount: 25
+      '9':
+        type: COOKED_MUTTON
+        amount: 26
+      '10':
+        type: DIAMOND_BLOCK
+      '18':
+        type: GOLDEN_APPLE
+        amount: 2
+      '26':
+        type: COOKED_BEEF
+        amount: 64
+      '29':
+        type: GOLD_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Axe
+          enchants:
+            DAMAGE_ALL: 10
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '31':
+        type: ARROW
+        amount: 46
+      '32':
+        type: WATER_BUCKET
+      '33':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - ''
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '34':
+        type: SADDLE
+      '35':
+        type: COOKED_BEEF
+        amount: 44
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 3
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 3
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+      '39':
+        type: DIAMOND_HELMET
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3

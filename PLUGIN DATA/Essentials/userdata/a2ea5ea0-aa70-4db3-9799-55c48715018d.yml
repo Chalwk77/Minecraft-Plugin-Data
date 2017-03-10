@@ -1,0 +1,31 @@
+lastlocation:
+  world: world
+  x: -18249.083410203915
+  y: 31.0
+  z: -11155.474353698357
+  yaw: 95.2923
+  pitch: 2.9085362
+geolocation: Australia
+lastAccountName: clivethebadass
+timestamps:
+  login: 1481431634564
+  lastteleport: 1481433273081
+  logout: 1481435902893
+ipAddress: 101.190.103.200
+money: '3728.5339999999999913'
+afk: false
+homes:
+  home:
+    world: world
+    x: -18237.30000001192
+    y: 64.0
+    z: -11175.13342441666
+    yaw: 190.44191
+    pitch: 18.567371
+logoutlocation:
+  world: world
+  x: -18238.975705740766
+  y: 64.0
+  z: -11177.446403576838
+  yaw: -140.54929
+  pitch: 7.6707954

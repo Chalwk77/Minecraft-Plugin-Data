@@ -1,0 +1,79 @@
+lastAccountName: Jumzanto
+timestamps:
+  login: 1476966048977
+  lastteleport: 1476967298052
+  logout: 1476970927260
+  kits:
+    mccharacter: 1459053001162
+    sfdrinks: 1476901488846
+    elite: 1476966400444
+    jesus: 1476956302442
+    donor: 1476966410622
+    vip: 1476966405621
+    dtools: 1476907579175
+    food: 1476901457762
+    ultra: 1476966390470
+  jail: 0
+ipAddress: 139.218.30.139
+geolocation: Australia
+lastlocation:
+  world: world
+  x: 1006550.140990947
+  y: 63.0
+  z: -754.8055195501146
+  yaw: -324.43762
+  pitch: 11.3901205
+money: '3427363.61100000000055648'
+afk: false
+homes:
+  home:
+    world: world
+    x: 676.1660810767073
+    y: 67.0
+    z: 284.26220120277554
+    yaw: 88.99002
+    pitch: 3.0915198
+  isle:
+    world: world
+    x: 1006539.126258143
+    y: 63.0
+    z: -742.5678102631044
+    yaw: -322.59845
+    pitch: 13.92233
+  retreat:
+    world: world
+    x: 813.0792967338775
+    y: 68.0
+    z: 299.4765971809909
+    yaw: -269.824
+    pitch: 14.01569
+  isolated:
+    world: world
+    x: 1029889.5677401138
+    y: 64.0
+    z: -1655.9344199547393
+    yaw: 90.18408
+    pitch: 20.483095
+  quarry:
+    world: world
+    x: -24663.529121043222
+    y: 76.0
+    z: 5895.254802143166
+    yaw: -358.68375
+    pitch: 34.53276
+  bm:
+    world: world
+    x: -24702.73782254651
+    y: 16.0
+    z: 5899.942426995853
+    yaw: -88.20925
+    pitch: 1.7220085
+logoutlocation:
+  world: world
+  x: -24697.84181790133
+  y: 34.0
+  z: 5926.535972319297
+  yaw: -148.63539
+  pitch: 9.326957
+godmode: true
+jailed: false

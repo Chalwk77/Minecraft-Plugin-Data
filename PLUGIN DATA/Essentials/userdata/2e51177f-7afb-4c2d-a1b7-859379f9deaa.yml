@@ -1,0 +1,31 @@
+lastlocation:
+  world: world
+  x: 478.95166661410394
+  y: 89.0
+  z: -181.73779075943872
+  yaw: -4.2502627
+  pitch: 10.949964
+geolocation: Brisbane, Queensland, Australia
+lastAccountName: MoonLight_S
+timestamps:
+  login: 1479565745587
+  logout: 1479565805781
+  lastteleport: 1479565797961
+ipAddress: 122.104.144.4
+logoutlocation:
+  world: world
+  x: -10544.5
+  y: 63.5
+  z: -11664.5
+  yaw: 92.549805
+  pitch: 19.800009
+money: '74260.15699999999979652'
+afk: false
+homes:
+  home:
+    world: world
+    x: -10544.861877019302
+    y: 63.5
+    z: -11664.604532869165
+    yaw: 88.499794
+    pitch: 0.90001583

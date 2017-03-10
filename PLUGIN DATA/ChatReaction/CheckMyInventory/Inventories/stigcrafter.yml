@@ -1,0 +1,493 @@
+Inventories:
+  '1':
+    Time: 1460883168609
+    Exp: 4897
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 88654
+        Amplifier: 1
+    Location:
+      world: world
+      x: -7188.6909277490295
+      y: 63.0
+      z: -5583.0057629982275
+      pitch: 27.599983
+      yaw: -215.32477
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: STONE
+        damage: 3
+        amount: 64
+      '3':
+        type: COAL
+        amount: 64
+      '4':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '5':
+        type: DIAMOND_SPADE
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 538
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '7':
+        type: COAL
+        amount: 64
+      '8':
+        type: FLINT
+        amount: 4
+      '9':
+        type: COAL
+        amount: 64
+      '10':
+        type: STONE
+        damage: 3
+        amount: 64
+      '11':
+        type: STONE
+        damage: 5
+        amount: 30
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: COBBLESTONE
+        amount: 64
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COAL
+        amount: 62
+      '16':
+        type: IRON_ORE
+        amount: 3
+      '17':
+        type: STONE
+        damage: 3
+        amount: 19
+      '18':
+        type: STONE
+        damage: 1
+        amount: 19
+      '19':
+        type: COBBLESTONE
+        amount: 47
+      '20':
+        type: DIRT
+        amount: 10
+      '21':
+        type: GLOWSTONE_DUST
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '2':
+    Time: 1462120693118
+    Exp: 4897
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 88654
+        Amplifier: 1
+    Location:
+      world: world
+      x: -7188.6909277490295
+      y: 63.0
+      z: -5583.0057629982275
+      pitch: 27.599983
+      yaw: -215.32477
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: STONE
+        damage: 3
+        amount: 64
+      '3':
+        type: COAL
+        amount: 64
+      '4':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '5':
+        type: DIAMOND_SPADE
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 538
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '7':
+        type: COAL
+        amount: 64
+      '8':
+        type: FLINT
+        amount: 4
+      '9':
+        type: COAL
+        amount: 64
+      '10':
+        type: STONE
+        damage: 3
+        amount: 64
+      '11':
+        type: STONE
+        damage: 5
+        amount: 30
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: COBBLESTONE
+        amount: 64
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COAL
+        amount: 62
+      '16':
+        type: IRON_ORE
+        amount: 3
+      '17':
+        type: STONE
+        damage: 3
+        amount: 19
+      '18':
+        type: STONE
+        damage: 1
+        amount: 19
+      '19':
+        type: COBBLESTONE
+        amount: 47
+      '20':
+        type: DIRT
+        amount: 10
+      '21':
+        type: GLOWSTONE_DUST
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '3':
+    Time: 1462483216571
+    Exp: 4897
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 88654
+        Amplifier: 1
+    Location:
+      world: world
+      x: -7188.6909277490295
+      y: 63.0
+      z: -5583.0057629982275
+      pitch: 27.599983
+      yaw: -215.32477
+    Items:
+      '0':
+        type: COOKED_BEEF
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+      '1':
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        type: STONE
+        damage: 3
+        amount: 64
+      '3':
+        type: COAL
+        amount: 64
+      '4':
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '5':
+        type: DIAMOND_SPADE
+        damage: 347
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 538
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '7':
+        type: COAL
+        amount: 64
+      '8':
+        type: FLINT
+        amount: 4
+      '9':
+        type: COAL
+        amount: 64
+      '10':
+        type: STONE
+        damage: 3
+        amount: 64
+      '11':
+        type: STONE
+        damage: 5
+        amount: 30
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: COBBLESTONE
+        amount: 64
+      '14':
+        type: COAL
+        amount: 64
+      '15':
+        type: COAL
+        amount: 62
+      '16':
+        type: IRON_ORE
+        amount: 3
+      '17':
+        type: STONE
+        damage: 3
+        amount: 19
+      '18':
+        type: STONE
+        damage: 1
+        amount: 19
+      '19':
+        type: COBBLESTONE
+        amount: 47
+      '20':
+        type: DIRT
+        amount: 10
+      '21':
+        type: GLOWSTONE_DUST
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

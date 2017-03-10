@@ -1,0 +1,1701 @@
+Inventories:
+  '25':
+    Time: 1458455354713
+    Exp: 5228
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9798820
+        Amplifier: 1
+    Location:
+      world: world
+      x: 50.31021782476455
+      y: 54.0
+      z: 1643.541091198852
+      pitch: 51.222134
+      yaw: 272.9908
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 209
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+          enchants:
+            DAMAGE_ALL: 4
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: COOKED_CHICKEN
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 51
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '5':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '6':
+        type: DIAMOND_SPADE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '7':
+        type: DIAMOND_HOE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: COBBLESTONE
+        amount: 61
+      '9':
+        type: COOKED_CHICKEN
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '10':
+        type: DIAMOND_PICKAXE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+      '11':
+        type: ROTTEN_FLESH
+        amount: 12
+      '12':
+        type: BOW
+        damage: 194
+      '13':
+        type: LAVA_BUCKET
+      '18':
+        type: MUTTON
+        amount: 24
+      '19':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '21':
+        type: ROTTEN_FLESH
+        amount: 64
+      '22':
+        type: ROTTEN_FLESH
+        amount: 64
+      '23':
+        type: ROTTEN_FLESH
+        amount: 64
+      '24':
+        type: ROTTEN_FLESH
+        amount: 64
+      '25':
+        type: ROTTEN_FLESH
+        amount: 64
+      '26':
+        type: ROTTEN_FLESH
+        amount: 64
+      '27':
+        type: ROTTEN_FLESH
+        amount: 64
+      '28':
+        type: ROTTEN_FLESH
+        amount: 64
+      '29':
+        type: ROTTEN_FLESH
+        amount: 64
+      '30':
+        type: ROTTEN_FLESH
+        amount: 64
+      '31':
+        type: ROTTEN_FLESH
+        amount: 64
+      '32':
+        type: ROTTEN_FLESH
+        amount: 64
+      '33':
+        type: ROTTEN_FLESH
+        amount: 64
+      '34':
+        type: INK_SACK
+        damage: 4
+        amount: 8
+      '35':
+        type: ROTTEN_FLESH
+        amount: 64
+  '26':
+    Time: 1459465462182
+    Exp: 5228
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9798820
+        Amplifier: 1
+    Location:
+      world: world
+      x: 50.31021782476455
+      y: 54.0
+      z: 1643.541091198852
+      pitch: 51.222134
+      yaw: 272.9908
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 209
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+          enchants:
+            DAMAGE_ALL: 4
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: COOKED_CHICKEN
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 51
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '5':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '6':
+        type: DIAMOND_SPADE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '7':
+        type: DIAMOND_HOE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: COBBLESTONE
+        amount: 61
+      '9':
+        type: COOKED_CHICKEN
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '10':
+        type: DIAMOND_PICKAXE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+      '11':
+        type: ROTTEN_FLESH
+        amount: 12
+      '12':
+        type: BOW
+        damage: 194
+      '13':
+        type: LAVA_BUCKET
+      '18':
+        type: MUTTON
+        amount: 24
+      '19':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '21':
+        type: ROTTEN_FLESH
+        amount: 64
+      '22':
+        type: ROTTEN_FLESH
+        amount: 64
+      '23':
+        type: ROTTEN_FLESH
+        amount: 64
+      '24':
+        type: ROTTEN_FLESH
+        amount: 64
+      '25':
+        type: ROTTEN_FLESH
+        amount: 64
+      '26':
+        type: ROTTEN_FLESH
+        amount: 64
+      '27':
+        type: ROTTEN_FLESH
+        amount: 64
+      '28':
+        type: ROTTEN_FLESH
+        amount: 64
+      '29':
+        type: ROTTEN_FLESH
+        amount: 64
+      '30':
+        type: ROTTEN_FLESH
+        amount: 64
+      '31':
+        type: ROTTEN_FLESH
+        amount: 64
+      '32':
+        type: ROTTEN_FLESH
+        amount: 64
+      '33':
+        type: ROTTEN_FLESH
+        amount: 64
+      '34':
+        type: INK_SACK
+        damage: 4
+        amount: 8
+      '35':
+        type: ROTTEN_FLESH
+        amount: 64
+  '27':
+    Time: 1459469871155
+    Exp: 5228
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9798820
+        Amplifier: 1
+    Location:
+      world: world
+      x: 50.31021782476455
+      y: 54.0
+      z: 1643.541091198852
+      pitch: 51.222134
+      yaw: 272.9908
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 209
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+          enchants:
+            DAMAGE_ALL: 4
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: COOKED_CHICKEN
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 51
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '5':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '6':
+        type: DIAMOND_SPADE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '7':
+        type: DIAMOND_HOE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: COBBLESTONE
+        amount: 61
+      '9':
+        type: COOKED_CHICKEN
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '10':
+        type: DIAMOND_PICKAXE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+      '11':
+        type: ROTTEN_FLESH
+        amount: 12
+      '12':
+        type: BOW
+        damage: 194
+      '13':
+        type: LAVA_BUCKET
+      '18':
+        type: MUTTON
+        amount: 24
+      '19':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '21':
+        type: ROTTEN_FLESH
+        amount: 64
+      '22':
+        type: ROTTEN_FLESH
+        amount: 64
+      '23':
+        type: ROTTEN_FLESH
+        amount: 64
+      '24':
+        type: ROTTEN_FLESH
+        amount: 64
+      '25':
+        type: ROTTEN_FLESH
+        amount: 64
+      '26':
+        type: ROTTEN_FLESH
+        amount: 64
+      '27':
+        type: ROTTEN_FLESH
+        amount: 64
+      '28':
+        type: ROTTEN_FLESH
+        amount: 64
+      '29':
+        type: ROTTEN_FLESH
+        amount: 64
+      '30':
+        type: ROTTEN_FLESH
+        amount: 64
+      '31':
+        type: ROTTEN_FLESH
+        amount: 64
+      '32':
+        type: ROTTEN_FLESH
+        amount: 64
+      '33':
+        type: ROTTEN_FLESH
+        amount: 64
+      '34':
+        type: INK_SACK
+        damage: 4
+        amount: 8
+      '35':
+        type: ROTTEN_FLESH
+        amount: 64
+  '28':
+    Time: 1459659260677
+    Exp: 5228
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9798820
+        Amplifier: 1
+    Location:
+      world: world
+      x: 50.31021782476455
+      y: 54.0
+      z: 1643.541091198852
+      pitch: 51.222134
+      yaw: 272.9908
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 209
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+          enchants:
+            DAMAGE_ALL: 4
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: COOKED_CHICKEN
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 51
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '5':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '6':
+        type: DIAMOND_SPADE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '7':
+        type: DIAMOND_HOE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: COBBLESTONE
+        amount: 61
+      '9':
+        type: COOKED_CHICKEN
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '10':
+        type: DIAMOND_PICKAXE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+      '11':
+        type: ROTTEN_FLESH
+        amount: 12
+      '12':
+        type: BOW
+        damage: 194
+      '13':
+        type: LAVA_BUCKET
+      '18':
+        type: MUTTON
+        amount: 24
+      '19':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '21':
+        type: ROTTEN_FLESH
+        amount: 64
+      '22':
+        type: ROTTEN_FLESH
+        amount: 64
+      '23':
+        type: ROTTEN_FLESH
+        amount: 64
+      '24':
+        type: ROTTEN_FLESH
+        amount: 64
+      '25':
+        type: ROTTEN_FLESH
+        amount: 64
+      '26':
+        type: ROTTEN_FLESH
+        amount: 64
+      '27':
+        type: ROTTEN_FLESH
+        amount: 64
+      '28':
+        type: ROTTEN_FLESH
+        amount: 64
+      '29':
+        type: ROTTEN_FLESH
+        amount: 64
+      '30':
+        type: ROTTEN_FLESH
+        amount: 64
+      '31':
+        type: ROTTEN_FLESH
+        amount: 64
+      '32':
+        type: ROTTEN_FLESH
+        amount: 64
+      '33':
+        type: ROTTEN_FLESH
+        amount: 64
+      '34':
+        type: INK_SACK
+        damage: 4
+        amount: 8
+      '35':
+        type: ROTTEN_FLESH
+        amount: 64
+  '29':
+    Time: 1459766734138
+    Exp: 5228
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9798820
+        Amplifier: 1
+    Location:
+      world: world
+      x: 50.31021782476455
+      y: 54.0
+      z: 1643.541091198852
+      pitch: 51.222134
+      yaw: 272.9908
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 209
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+          enchants:
+            DAMAGE_ALL: 4
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: COOKED_CHICKEN
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 51
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '5':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '6':
+        type: DIAMOND_SPADE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '7':
+        type: DIAMOND_HOE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: COBBLESTONE
+        amount: 61
+      '9':
+        type: COOKED_CHICKEN
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '10':
+        type: DIAMOND_PICKAXE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+      '11':
+        type: ROTTEN_FLESH
+        amount: 12
+      '12':
+        type: BOW
+        damage: 194
+      '13':
+        type: LAVA_BUCKET
+      '18':
+        type: MUTTON
+        amount: 24
+      '19':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '21':
+        type: ROTTEN_FLESH
+        amount: 64
+      '22':
+        type: ROTTEN_FLESH
+        amount: 64
+      '23':
+        type: ROTTEN_FLESH
+        amount: 64
+      '24':
+        type: ROTTEN_FLESH
+        amount: 64
+      '25':
+        type: ROTTEN_FLESH
+        amount: 64
+      '26':
+        type: ROTTEN_FLESH
+        amount: 64
+      '27':
+        type: ROTTEN_FLESH
+        amount: 64
+      '28':
+        type: ROTTEN_FLESH
+        amount: 64
+      '29':
+        type: ROTTEN_FLESH
+        amount: 64
+      '30':
+        type: ROTTEN_FLESH
+        amount: 64
+      '31':
+        type: ROTTEN_FLESH
+        amount: 64
+      '32':
+        type: ROTTEN_FLESH
+        amount: 64
+      '33':
+        type: ROTTEN_FLESH
+        amount: 64
+      '34':
+        type: INK_SACK
+        damage: 4
+        amount: 8
+      '35':
+        type: ROTTEN_FLESH
+        amount: 64
+  '30':
+    Time: 1459847485300
+    Exp: 5228
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9798820
+        Amplifier: 1
+    Location:
+      world: world
+      x: 50.31021782476455
+      y: 54.0
+      z: 1643.541091198852
+      pitch: 51.222134
+      yaw: 272.9908
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 209
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+          enchants:
+            DAMAGE_ALL: 4
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: COOKED_CHICKEN
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 51
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '5':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '6':
+        type: DIAMOND_SPADE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '7':
+        type: DIAMOND_HOE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: COBBLESTONE
+        amount: 61
+      '9':
+        type: COOKED_CHICKEN
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '10':
+        type: DIAMOND_PICKAXE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+      '11':
+        type: ROTTEN_FLESH
+        amount: 12
+      '12':
+        type: BOW
+        damage: 194
+      '13':
+        type: LAVA_BUCKET
+      '18':
+        type: MUTTON
+        amount: 24
+      '19':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '21':
+        type: ROTTEN_FLESH
+        amount: 64
+      '22':
+        type: ROTTEN_FLESH
+        amount: 64
+      '23':
+        type: ROTTEN_FLESH
+        amount: 64
+      '24':
+        type: ROTTEN_FLESH
+        amount: 64
+      '25':
+        type: ROTTEN_FLESH
+        amount: 64
+      '26':
+        type: ROTTEN_FLESH
+        amount: 64
+      '27':
+        type: ROTTEN_FLESH
+        amount: 64
+      '28':
+        type: ROTTEN_FLESH
+        amount: 64
+      '29':
+        type: ROTTEN_FLESH
+        amount: 64
+      '30':
+        type: ROTTEN_FLESH
+        amount: 64
+      '31':
+        type: ROTTEN_FLESH
+        amount: 64
+      '32':
+        type: ROTTEN_FLESH
+        amount: 64
+      '33':
+        type: ROTTEN_FLESH
+        amount: 64
+      '34':
+        type: INK_SACK
+        damage: 4
+        amount: 8
+      '35':
+        type: ROTTEN_FLESH
+        amount: 64
+  '31':
+    Time: 1460146821395
+    Exp: 5228
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9798820
+        Amplifier: 1
+    Location:
+      world: world
+      x: 50.31021782476455
+      y: 54.0
+      z: 1643.541091198852
+      pitch: 51.222134
+      yaw: 272.9908
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 209
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+          enchants:
+            DAMAGE_ALL: 4
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: COOKED_CHICKEN
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 51
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '5':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '6':
+        type: DIAMOND_SPADE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '7':
+        type: DIAMOND_HOE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: COBBLESTONE
+        amount: 61
+      '9':
+        type: COOKED_CHICKEN
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '10':
+        type: DIAMOND_PICKAXE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+      '11':
+        type: ROTTEN_FLESH
+        amount: 12
+      '12':
+        type: BOW
+        damage: 194
+      '13':
+        type: LAVA_BUCKET
+      '18':
+        type: MUTTON
+        amount: 24
+      '19':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '21':
+        type: ROTTEN_FLESH
+        amount: 64
+      '22':
+        type: ROTTEN_FLESH
+        amount: 64
+      '23':
+        type: ROTTEN_FLESH
+        amount: 64
+      '24':
+        type: ROTTEN_FLESH
+        amount: 64
+      '25':
+        type: ROTTEN_FLESH
+        amount: 64
+      '26':
+        type: ROTTEN_FLESH
+        amount: 64
+      '27':
+        type: ROTTEN_FLESH
+        amount: 64
+      '28':
+        type: ROTTEN_FLESH
+        amount: 64
+      '29':
+        type: ROTTEN_FLESH
+        amount: 64
+      '30':
+        type: ROTTEN_FLESH
+        amount: 64
+      '31':
+        type: ROTTEN_FLESH
+        amount: 64
+      '32':
+        type: ROTTEN_FLESH
+        amount: 64
+      '33':
+        type: ROTTEN_FLESH
+        amount: 64
+      '34':
+        type: INK_SACK
+        damage: 4
+        amount: 8
+      '35':
+        type: ROTTEN_FLESH
+        amount: 64
+  '32':
+    Time: 1460883168283
+    Exp: 5228
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9798820
+        Amplifier: 1
+    Location:
+      world: world
+      x: 50.31021782476455
+      y: 54.0
+      z: 1643.541091198852
+      pitch: 51.222134
+      yaw: 272.9908
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 209
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+          enchants:
+            DAMAGE_ALL: 4
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: COOKED_CHICKEN
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 51
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '5':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '6':
+        type: DIAMOND_SPADE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '7':
+        type: DIAMOND_HOE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: COBBLESTONE
+        amount: 61
+      '9':
+        type: COOKED_CHICKEN
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '10':
+        type: DIAMOND_PICKAXE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+      '11':
+        type: ROTTEN_FLESH
+        amount: 12
+      '12':
+        type: BOW
+        damage: 194
+      '13':
+        type: LAVA_BUCKET
+      '18':
+        type: MUTTON
+        amount: 24
+      '19':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '21':
+        type: ROTTEN_FLESH
+        amount: 64
+      '22':
+        type: ROTTEN_FLESH
+        amount: 64
+      '23':
+        type: ROTTEN_FLESH
+        amount: 64
+      '24':
+        type: ROTTEN_FLESH
+        amount: 64
+      '25':
+        type: ROTTEN_FLESH
+        amount: 64
+      '26':
+        type: ROTTEN_FLESH
+        amount: 64
+      '27':
+        type: ROTTEN_FLESH
+        amount: 64
+      '28':
+        type: ROTTEN_FLESH
+        amount: 64
+      '29':
+        type: ROTTEN_FLESH
+        amount: 64
+      '30':
+        type: ROTTEN_FLESH
+        amount: 64
+      '31':
+        type: ROTTEN_FLESH
+        amount: 64
+      '32':
+        type: ROTTEN_FLESH
+        amount: 64
+      '33':
+        type: ROTTEN_FLESH
+        amount: 64
+      '34':
+        type: INK_SACK
+        damage: 4
+        amount: 8
+      '35':
+        type: ROTTEN_FLESH
+        amount: 64
+  '33':
+    Time: 1462120692686
+    Exp: 5228
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9798820
+        Amplifier: 1
+    Location:
+      world: world
+      x: 50.31021782476455
+      y: 54.0
+      z: 1643.541091198852
+      pitch: 51.222134
+      yaw: 272.9908
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 209
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+          enchants:
+            DAMAGE_ALL: 4
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: COOKED_CHICKEN
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 51
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '5':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '6':
+        type: DIAMOND_SPADE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '7':
+        type: DIAMOND_HOE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: COBBLESTONE
+        amount: 61
+      '9':
+        type: COOKED_CHICKEN
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '10':
+        type: DIAMOND_PICKAXE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+      '11':
+        type: ROTTEN_FLESH
+        amount: 12
+      '12':
+        type: BOW
+        damage: 194
+      '13':
+        type: LAVA_BUCKET
+      '18':
+        type: MUTTON
+        amount: 24
+      '19':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '21':
+        type: ROTTEN_FLESH
+        amount: 64
+      '22':
+        type: ROTTEN_FLESH
+        amount: 64
+      '23':
+        type: ROTTEN_FLESH
+        amount: 64
+      '24':
+        type: ROTTEN_FLESH
+        amount: 64
+      '25':
+        type: ROTTEN_FLESH
+        amount: 64
+      '26':
+        type: ROTTEN_FLESH
+        amount: 64
+      '27':
+        type: ROTTEN_FLESH
+        amount: 64
+      '28':
+        type: ROTTEN_FLESH
+        amount: 64
+      '29':
+        type: ROTTEN_FLESH
+        amount: 64
+      '30':
+        type: ROTTEN_FLESH
+        amount: 64
+      '31':
+        type: ROTTEN_FLESH
+        amount: 64
+      '32':
+        type: ROTTEN_FLESH
+        amount: 64
+      '33':
+        type: ROTTEN_FLESH
+        amount: 64
+      '34':
+        type: INK_SACK
+        damage: 4
+        amount: 8
+      '35':
+        type: ROTTEN_FLESH
+        amount: 64
+  '34':
+    Time: 1462483216049
+    Exp: 5228
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 2.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9798820
+        Amplifier: 1
+    Location:
+      world: world
+      x: 50.31021782476455
+      y: 54.0
+      z: 1643.541091198852
+      pitch: 51.222134
+      yaw: 272.9908
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 209
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Sword
+          enchants:
+            DAMAGE_ALL: 4
+            KNOCKBACK: 2
+      '1':
+        type: DIAMOND_PICKAXE
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '2':
+        type: COOKED_CHICKEN
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '3':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 51
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Golden Apple
+      '5':
+        type: DIAMOND_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Axe
+      '6':
+        type: DIAMOND_SPADE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Shovel
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+      '7':
+        type: DIAMOND_HOE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Hoe
+      '8':
+        type: COBBLESTONE
+        amount: 61
+      '9':
+        type: COOKED_CHICKEN
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aCooked Chicken
+      '10':
+        type: DIAMOND_PICKAXE
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+      '11':
+        type: ROTTEN_FLESH
+        amount: 12
+      '12':
+        type: BOW
+        damage: 194
+      '13':
+        type: LAVA_BUCKET
+      '18':
+        type: MUTTON
+        amount: 24
+      '19':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '21':
+        type: ROTTEN_FLESH
+        amount: 64
+      '22':
+        type: ROTTEN_FLESH
+        amount: 64
+      '23':
+        type: ROTTEN_FLESH
+        amount: 64
+      '24':
+        type: ROTTEN_FLESH
+        amount: 64
+      '25':
+        type: ROTTEN_FLESH
+        amount: 64
+      '26':
+        type: ROTTEN_FLESH
+        amount: 64
+      '27':
+        type: ROTTEN_FLESH
+        amount: 64
+      '28':
+        type: ROTTEN_FLESH
+        amount: 64
+      '29':
+        type: ROTTEN_FLESH
+        amount: 64
+      '30':
+        type: ROTTEN_FLESH
+        amount: 64
+      '31':
+        type: ROTTEN_FLESH
+        amount: 64
+      '32':
+        type: ROTTEN_FLESH
+        amount: 64
+      '33':
+        type: ROTTEN_FLESH
+        amount: 64
+      '34':
+        type: INK_SACK
+        damage: 4
+        amount: 8
+      '35':
+        type: ROTTEN_FLESH
+        amount: 64

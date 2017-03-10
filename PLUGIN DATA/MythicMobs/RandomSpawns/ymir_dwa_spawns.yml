@@ -1,0 +1,10 @@
+ymir_dwa_spawns:
+  MobType: dwa
+  Worlds: world
+  Chance: 0.001
+  Priority: 1
+  Action: add
+#  Conditions:
+#  - inblock air
+#  - outside false
+#  - height 0-20

@@ -1,0 +1,145 @@
+title-name: '&2[&fJeriCraft RegionGUI&2]'
+error:
+  WorldDisabled: '&cSorry, but you can''t claim a region in this world.'
+  noPermission: '&cYou must be standing in an Active Region that you own!'
+  alreadyMember: '&6%name% &7is already a member of your region.'
+  notMember: '&6%name% &7is not a member of this region. &cCould not remove!'
+  cancel: '&cAction cancelled!'
+  noRegionFound: '&cSorry, but there is no region at your current position.'
+  notOwner: '&cSorry, but you do not own this region.'
+  notEnoughMoney: '&cThis module is disabled! Contact a Staff Member to Protect Land
+    for you.'
+  overlap: '&cYou would overlap one or more regions you don''t own!'
+  max_regions: '&cThis option is currently unavailable.'
+  borderLimit: '&cSorry, only one region border can be displayed at the same time!'
+  invalidVersion: '&cThe plugin does not support this server version! Cannot display
+    particles!'
+  noRegions: '&cYou do not own any regions in this world.'
+manage:
+  memberAdded: '&6%name%&7 is now a member of your region.'
+  memberRemoved: '&6%name%&7 has been removed from your region.'
+interface:
+  select:
+    title: Select your Region
+    description: '&7Left click to edit region &a%region%'
+  manage:
+    title: '&a&lManage your region'
+    members:
+      name: '&6>> &7Current Members:'
+    button_addMember:
+      name: '&7Click to &aadd&7 a player.'
+    button_info: '&6>> &7Info'
+    button_removeMember:
+      name: '&7Click to &cremove&7 a player.'
+      description:
+      - '&6>>&7Click here to open a new menu'
+      - '&6>>&7Just click on a player head'
+      - '&6>>&7to remove access to this region'
+    button_deleteRegion:
+      name: '&7Delete your region (&cNo Refund&7)'
+      description:
+      - '&6>>&7This will remove the whole region'
+      - '&6>>&7everything build on it will stay'
+      - '&6>>&7it just removes the protection against griefers!'
+    button_showBorder:
+      name: '&7Click to show the border.'
+      description:
+      - '&6>>&7This will outline your region with'
+      - '&6>>&7particles to show you where your'
+      - '&6>>&7region ends.'
+    button_flag:
+      name: '&7Click to open the Flag menu'
+      description:
+      - '&6>>&7In the flag menu you are able to set certain flags'
+      - '&6>>&7on or off which will allow or forbid'
+      - '&6>>&7the choosen actions/events'
+    button_welcome:
+      name: '&7Click to change the greeting message.'
+      description:
+      - '&6>>&7Change the welcome message'
+      - '&6>>&7a player sees when entering your region'
+    button_leave:
+      name: '&7Click to change the leave message.'
+      description:
+      - '&6>>&7Change the leave message'
+      - '&6>>&7a player sees when leaving your region'
+    info:
+      description:
+      - '&6>>&7You can access:'
+      - '&6* &7Flag Menu'
+  delete:
+    title: '&c&lConfirm Deletion'
+  buy:
+    title: '&4&lYou are not in a region!'
+  remove:
+    title: Current Members
+    desc: '&7Click to remove %name%'
+    successfull: '&6%name% &7has been removed from your region.'
+region:
+  messageDeleteAbort: §cRegion Deletion aborted!
+  messageAddMember: '&7Please type the &6name &7of the player you wish to &aadd&7:'
+  messageRemoveMember: '&7Please type the &6name &7of the player you wish to &cremove&7:'
+  messageDeleteNotice: '&cClose the Inventory at any time (ESC) to cancel the deletion
+    progress!'
+  removed: '&cYour region has been removed.'
+  create: '&aA new Region has been created for you.'
+  createMoney: '&aYou''ve paid %money% %currencyname%.'
+  reload: '&aConfiguration has been reloaded.'
+  messageInput: '&7Please type the new message you wish to set into the chat:'
+  welcomeMessageChanged: |-
+    &7Welcome message has been changed to:
+    %message%
+  farewellMessageChanged: |-
+    &7Farewell message has been changed to:
+    %message%
+  preview:
+    alreadyInMode: '&cYou are already in the preview mode!'
+    hotbarNotice: '&4Please make sure that slot 1 and 9 in your hotbar is empty'
+    enter: |-
+      &eYou are now in &6preview mode &e
+      Right click the glowstone dust to generate a preview region outline
+    rendered: '&eThe region outline has been set. Centered at your position.'
+    itemSet: '&7>>&e Preview'
+    itemCancel: '&7>>&c Cancel Preview mode'
+  list: '&6Your Regions in this world:'
+  welcomeRemoved: '&cWelcome message has been disabled.'
+  farewellRemoved: '&cFarewell message has been disabled.'
+displaytask:
+  start: '&7Showing border for &6%cooldown%&7 seconds.'
+  stop: '&7The region border is no longer visible.'
+flag:
+  menu_title: §lJeriCraft Region Flag Menu
+  message:
+    empty: §cSorry, but you currently cannot set any flags!
+  menu:
+    cleared: §7Flag (&6%flag%&7) has been cleared.
+    allowed: §7Flag (&6%flag%&7) is now &2allowed!
+    denied: §7Flag (&6%flag%&7) is now &4forbidden
+  pvp: PvP
+  notEnabled: '&7This flag is not enabled in your current world!'
+  block_break: Breaking blocks
+  block_place: Building blocks
+  chest_access: Access to chests
+  creeper: Creeper explosions
+  animals: Damage to animals
+  enderpearl: Enderpearl teleportation
+  expdrop: Exp Drops
+  grass_spread: Grass spread
+  ice_form: Ice form
+  iceMelt: Melting of ice blocks
+  interact: Interacting with blocks (buttons, lever, chests etc)
+  item_drop: Dropping items
+  item_pickup: Picking up items
+  leaves: Decaying leaves
+  mob_spawn: Mob spawning
+  mycelium: Mycelium spread
+  piston: Pistons
+  potion_splash: Potion splash
+  snow_fall: Snow fall
+  snow_melt: Snow melt
+  vine: Vine growth
+  entry: Entry
+  exit: Exit
+  fire-spread: Fire Spread
+  lava-spread: Lava Fire Spread
+  use: Interacting with blocks (buttons, lever, chests etc)

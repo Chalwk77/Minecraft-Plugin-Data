@@ -1,0 +1,143 @@
+PlayerLastName: Hitman00013
+EnderChestSize: 27
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - ''
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: LOG
+    damage: 1
+    amount: 11
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HOE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aDiamond Hoe
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: SAPLING
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §4Strawberry Bush
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: SAPLING
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Sweet Potato Plant
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR
+    amount: 2
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+    amount: 2
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: SAND
+    amount: 3
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: RABBIT_HIDE
+    amount: 2
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: ROTTEN_FLESH
+    amount: 5
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: STRING
+    amount: 3
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: PORK
+    amount: 3
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: COBBLESTONE
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIRT
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: SAPLING
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §dRaspberry Bush
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §cGrape
+      internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JUEliJy8NBoW5fAUgRB9gbLEoFdNQgK/a5+YD32OJkZFUCFl6gdhPjuTlUtuAKPuIRXky2QbbFKQxXLtbeclVpRVLbGdMcxC5Qbi7JSQb1PZ971Nb/MQOn52A8dv6gA8KDAc5KLgcMvn1yd7g96uXcFm/D8znGkiwA3Zxsfk6lY4TmWd795n3uT86+1+jy1RGa6B3oMh0ImumduBd9sDSZ3VyITEcQMkbWo6bq1grg1SByOPqJNJrNb1mAUpL7lp64ga1/3JR79r/BGfnZGJj9bgj5GgnYWSWlDU9pmKb7ho+FU4XIJoMATySWH2SpanTru1QXAH00CO3MuAQAA
+      skull-owner: CSCoreLib
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §cCowberry
+      internal: H4sIAAAAAAAAAE2LwW6CQBQAX5s2QdLP6JVkcRHK0apRjLu0uoLrTeBZwF01CK3rV/UT67HHyczYADa8rA6dUh/NaV8ptOAxKuCVvCHSves7gdsvHM8tPCeklDp+OAj8gGKRe54N9n06Y9NWeOmB1eK17Rq82ADwYMFzslMdwi+aOdluSlJs5io3kX9nsSIqjupzEB0Tk40iP9J3Pxv6CxP+awftLh0oSefl9vjZZTohC7pUOFu6uV5/SzEkW7EmUkvDRVLK+r1iKSOxKGspeMmmXMl07cpbUfNxopn46rOalzyd/DAtaTyd0FhMDL8Nr1Iww8eHar9xQwALnvhOI/RGq9GpwUWVAfwBwpgHjyoBAAA=
+      skull-owner: CSCoreLib
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §4Tomato
+      internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyS8K0sD0Q7pDLZQYNjxmAmPoW0oaOGb/EhZujw558gAMryE3STE13DhjWASPKIKXhnXHV5YmsIrLVdMXXeU4s20lS0vTFWvGNe4LYO8Tlc2jA27bUAa2X2cBnaTAeBBguc4FxODXzb7apbWapX6opyRvXIUqiJA7XWLzvFcuMhG/ep37/Z+dv611pgnlqCGX2fnw1T0sbo3joLtjlrZn76DqLuTBc24zTrcljr2yp/sE884QQZJ/Bq3cUsXv6bRSSee6Gi0coIN4sUNjTqDLNQiCdKC5EPQ/tDwVHMAJHgiec9g44buZWD7pgD4A+iCLJ4mAQAA
+      skull-owner: CSCoreLib
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 132
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 4
+        DURABILITY: 3
+        LOOT_BONUS_BLOCKS: 3
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    damage: 968
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aDiamond Sword
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_BEEF
+    amount: 43
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: BONE

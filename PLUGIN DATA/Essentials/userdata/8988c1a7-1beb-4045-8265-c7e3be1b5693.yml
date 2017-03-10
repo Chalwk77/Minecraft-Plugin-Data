@@ -1,0 +1,41 @@
+lastAccountName: Lukie2006
+timestamps:
+  login: 1481695826652
+  logout: 1481695836623
+  lastteleport: 1477602997468
+  kits:
+    color: 1469938474461
+    dtools: 1471071322278
+  mute: 0
+  jail: 0
+  lastheal: 1472211144641
+ipAddress: 203.173.177.254
+money: '-7500.0'
+logoutlocation:
+  world: world
+  x: 3691.5199650900217
+  y: 63.34829116583738
+  z: -2208.7992463040378
+  yaw: 37.19872
+  pitch: 12.899815
+geolocation: New Zealand
+lastlocation:
+  world: world
+  x: 27145.5
+  y: 68.0
+  z: -13425.5
+  yaw: -81.15
+  pitch: 9.6
+afk: false
+homes:
+  home:
+    world: world
+    x: 404925.53804100887
+    y: 68.0
+    z: 849466.9526050085
+    yaw: -1.1353455
+    pitch: 11.25
+godmode: true
+muted: false
+jailed: false
+teleportenabled: false

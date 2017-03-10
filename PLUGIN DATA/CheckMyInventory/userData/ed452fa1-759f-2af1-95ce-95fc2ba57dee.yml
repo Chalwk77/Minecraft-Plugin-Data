@@ -1,0 +1,11 @@
+Name: army
+TeleportLocation:
+  X: -178.5
+  Pitch: 0.0
+  Y: 68.0
+  Z: -113.5
+  World: world
+  Yaw: 0.0
+Charges:
+  Amount: 0
+  LastGot: 1479371201761

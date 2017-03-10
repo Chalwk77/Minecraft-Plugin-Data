@@ -1,0 +1,190 @@
+ProtocolLib Dump
+Timestamp: 08/22/16 22:49:22
+
+ProtocolLib Version: ProtocolLib v4.1.0-SNAPSHOT-b318
+Bukkit Version: 1.10.2-R0.1-SNAPSHOT
+Server Version: git-Spigot-1e4dd71-4507d99 (MC: 1.10.2)
+Java Version: 1.8.0_25
+
+ProtocolLib: com.comphenix.protocol.ProtocolLib@7390b091[
+  statistics=com.comphenix.protocol.metrics.Statistics@79643e50
+  backgroundCompiler=com.comphenix.protocol.reflect.compiler.BackgroundCompiler@52e75d0a
+  packetTask=2
+  tickCounter=176252
+  unhookTask=com.comphenix.protocol.injector.DelayedSingleTask@27596eba
+  configExpectedMod=1
+  updater=com.comphenix.protocol.updater.SpigotUpdater@751af647
+  redirectHandler=com.comphenix.protocol.ProtocolLib$2@2d54c00a
+  commandProtocol=com.comphenix.protocol.CommandProtocol@4533c7a7
+  commandPacket=com.comphenix.protocol.CommandPacket@29f35d05
+  commandFilter=com.comphenix.protocol.CommandFilter@b792eb2
+  skipDisable=false
+  isEnabled=true
+  loader=org.bukkit.plugin.java.JavaPluginLoader@a6fb47
+  server=CraftServer{serverName=CraftBukkit,serverVersion=git-Spigot-1e4dd71-4507d99,minecraftVersion=1.10.2}
+  file=plugins/ProtocolLib.jar
+  description=org.bukkit.plugin.PluginDescriptionFile@685b7f15
+  dataFolder=plugins/ProtocolLib
+  classLoader=org.bukkit.plugin.java.PluginClassLoader@1f2a7b27
+  naggable=true
+  ebean=<null>
+  newConfig=YamlConfiguration[path='', root='YamlConfiguration']
+  configFile=plugins/ProtocolLib/config.yml
+  logger=org.bukkit.plugin.PluginLogger@1d5e7ad4
+]
+Manager: com.comphenix.protocol.injector.PacketFilterManager@6dae7723[
+  unhookTask=com.comphenix.protocol.injector.DelayedSingleTask@27596eba
+  packetListeners=[PacketAdapter[plugin=PremiumVanish, sending=ListeningWhitelist{priority=NORMAL, packets=[PacketStatusOutServerInfo[0, legacy: 0]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST], PacketAdapter[plugin=PlaceholderAPI, sending=ListeningWhitelist{priority=HIGHEST, packets=[PacketPlayOutSetSlot[22, legacy: 47]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST], PacketAdapter[plugin=ChatControl, sending=ListeningWhitelist{priority=NORMAL, packets=[PacketPlayOutChat[15, legacy: 2]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST], PacketAdapter[plugin=CheckMyInventory, sending=EMPTY_WHITELIST, receiving=ListeningWhitelist{priority=HIGH, packets=[PacketPlayInArmAnimation[26, legacy: 10]], gamephase=PLAYING, options=[]}], PacketAdapter[plugin=PremiumVanish, sending=ListeningWhitelist{priority=HIGH, packets=[PacketPlayOutEntityEquipment[60, legacy: 4], PacketPlayOutWorldParticles[34, legacy: 42], PacketPlayOutAnimation[6, legacy: 11], PacketPlayOutNamedSoundEffect[71, legacy: 41], PacketPlayOutEntityMetadata[57, legacy: 28], PacketPlayOutBed[47, legacy: 10], PacketPlayOutRelEntityMove[37, legacy: 21], PacketPlayOutEntityEffect[76, legacy: 29], PacketPlayOutSpawnEntity[0, legacy: 14], PacketPlayOutEntityTeleport[74, legacy: 24], PacketPlayOutEntityLook[39, legacy: 22], PacketPlayOutRemoveEntityEffect[49, legacy: 30], PacketPlayOutNamedEntitySpawn[5, legacy: 12], PacketPlayOutCollect[73, legacy: 13], PacketPlayOutEntityHeadRotation[52, legacy: 25], PacketPlayOutEntityDestroy[48, legacy: 19], PacketPlayOutAttachEntity[58, legacy: 27], PacketPlayOutEntityStatus[27, legacy: 26], PacketPlayOutBlockBreakAnimation[8, legacy: 37], PacketPlayOutEntityVelocity[59, legacy: 18], PacketPlayOutRelEntityMoveLook[38, legacy: 23], PacketPlayOutSpawnEntityLiving[3, legacy: 15], PacketPlayOutTabComplete[14, legacy: 58], PacketPlayOutPlayerInfo[45, legacy: 56]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST], PacketAdapter[plugin=ServerListPlus, sending=ListeningWhitelist{priority=NORMAL, packets=[PacketHandshakingInSetProtocol[0, legacy: 0], PacketStatusOutServerInfo[0, legacy: 0]], gamephase=PLAYING, options=[ASYNC]}, receiving=ListeningWhitelist{priority=NORMAL, packets=[PacketHandshakingInSetProtocol[0, legacy: 0], PacketStatusOutServerInfo[0, legacy: 0]], gamephase=PLAYING, options=[ASYNC]}], PacketAdapter[plugin=ChatControl, sending=EMPTY_WHITELIST, receiving=ListeningWhitelist{priority=NORMAL, packets=[PacketPlayInTabComplete[1, legacy: 20]], gamephase=PLAYING, options=[]}], PacketAdapter[plugin=PlaceholderAPI, sending=ListeningWhitelist{priority=HIGHEST, packets=[PacketPlayOutPlayerListHeaderFooter[72, legacy: 71]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST], PacketAdapter[plugin=LibsDisguises, sending=ListeningWhitelist{priority=HIGH, packets=[PacketPlayOutSetSlot[22, legacy: 47], PacketPlayInSetCreativeSlot[24, legacy: 16], PacketPlayInWindowClick[7, legacy: 14], PacketPlayInHeldItemSlot[23, legacy: 9], PacketPlayOutWindowItems[20, legacy: 48]], gamephase=PLAYING, options=[]}, receiving=ListeningWhitelist{priority=HIGH, packets=[PacketPlayOutSetSlot[22, legacy: 47], PacketPlayInSetCreativeSlot[24, legacy: 16], PacketPlayInWindowClick[7, legacy: 14], PacketPlayInHeldItemSlot[23, legacy: 9], PacketPlayOutWindowItems[20, legacy: 48]], gamephase=PLAYING, options=[]}], PacketAdapter[plugin=PlaceholderAPI, sending=ListeningWhitelist{priority=HIGHEST, packets=[PacketPlayOutTitle[69, legacy: 69]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST], PacketAdapter[plugin=AntiCommandTab, sending=EMPTY_WHITELIST, receiving=ListeningWhitelist{priority=NORMAL, packets=[PacketPlayInTabComplete[1, legacy: 20]], gamephase=PLAYING, options=[]}], PacketAdapter[plugin=LibsDisguises, sending=ListeningWhitelist{priority=HIGH, packets=[PacketPlayOutEntityEquipment[60, legacy: 4], PacketPlayOutNamedEntitySpawn[5, legacy: 12], PacketPlayOutEntityHeadRotation[52, legacy: 25], PacketPlayOutAnimation[6, legacy: 11], PacketPlayOutEntityMetadata[57, legacy: 28], PacketPlayOutAttachEntity[58, legacy: 27], PacketPlayOutEntityStatus[27, legacy: 26], PacketPlayOutBed[47, legacy: 10], PacketPlayOutEntityVelocity[59, legacy: 18], PacketPlayOutUpdateAttributes[75, legacy: 32], PacketPlayOutRelEntityMove[37, legacy: 21], PacketPlayOutRelEntityMoveLook[38, legacy: 23], PacketPlayOutEntityEffect[76, legacy: 29], PacketPlayOutEntityTeleport[74, legacy: 24], PacketPlayOutEntityLook[39, legacy: 22]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST], PacketAdapter[plugin=CheckMyInventory, sending=ListeningWhitelist{priority=HIGH, packets=[PacketPlayOutUnloadChunk[29, legacy: 250]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST], PacketAdapter[plugin=LibsDisguises, sending=ListeningWhitelist{priority=HIGH, packets=[PacketPlayOutEntityEquipment[60, legacy: 4], PacketPlayOutNamedEntitySpawn[5, legacy: 12], PacketPlayOutCollect[73, legacy: 13], PacketPlayOutEntityHeadRotation[52, legacy: 25], PacketPlayOutAnimation[6, legacy: 11], PacketPlayOutEntityMetadata[57, legacy: 28], PacketPlayOutEntityStatus[27, legacy: 26], PacketPlayOutBed[47, legacy: 10], PacketPlayOutUpdateAttributes[75, legacy: 32], PacketPlayOutSpawnEntityExperienceOrb[1, legacy: 17], PacketPlayOutRelEntityMove[37, legacy: 21], PacketPlayOutRelEntityMoveLook[38, legacy: 23], PacketPlayOutSpawnEntity[0, legacy: 14], PacketPlayOutEntityTeleport[74, legacy: 24], PacketPlayOutEntityLook[39, legacy: 22], PacketPlayOutSpawnEntityLiving[3, legacy: 15], PacketPlayOutSpawnEntityPainting[4, legacy: 16]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST], PacketAdapter[plugin=HolographicDisplays, sending=ListeningWhitelist{priority=NORMAL, packets=[PacketPlayOutEntityMetadata[57, legacy: 28], PacketPlayOutSpawnEntity[0, legacy: 14], PacketPlayOutSpawnEntityLiving[3, legacy: 15]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST], PacketAdapter[plugin=PlaceholderAPI, sending=ListeningWhitelist{priority=HIGHEST, packets=[PacketPlayOutOpenWindow[19, legacy: 45]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST], PacketAdapter[plugin=PlaceholderAPI, sending=ListeningWhitelist{priority=HIGHEST, packets=[PacketPlayOutTileEntityData[9, legacy: 53]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST], PacketAdapter[plugin=PlaceholderAPI, sending=ListeningWhitelist{priority=HIGHEST, packets=[PacketPlayOutChat[15, legacy: 2]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST], PacketAdapter[plugin=LibsDisguises, sending=EMPTY_WHITELIST, receiving=ListeningWhitelist{priority=NORMAL, packets=[PacketPlayInUseEntity[10, legacy: 2]], gamephase=PLAYING, options=[]}], PacketAdapter[plugin=LibsDisguises, sending=ListeningWhitelist{priority=NORMAL, packets=[PacketPlayOutNamedSoundEffect[71, legacy: 41], PacketPlayOutEntityStatus[27, legacy: 26]], gamephase=PLAYING, options=[]}, receiving=EMPTY_WHITELIST]]
+  packetInjector=com.comphenix.protocol.injector.netty.ProtocolInjector$5@235402de
+  playerInjection=com.comphenix.protocol.injector.netty.ProtocolInjector$4@6b42c0c1
+  interceptWritePacket=com.comphenix.protocol.injector.packet.InterceptWritePacket@31a8a46
+  inputBufferedPackets=[]
+  recievedListeners=com.comphenix.protocol.injector.SortedPacketListenerList@3e753aa2
+  sendingListeners=com.comphenix.protocol.injector.SortedPacketListenerList@3db49d40
+  hasClosed=false
+  classLoader=org.bukkit.plugin.java.PluginClassLoader@1f2a7b27
+  reporter=com.comphenix.protocol.ProtocolLib$1@408d16ff
+  server=CraftServer{serverName=CraftBukkit,serverVersion=git-Spigot-1e4dd71-4507d99,minecraftVersion=1.10.2}
+  library=ProtocolLib v4.1.0-SNAPSHOT-b318
+  asyncFilterManager=com.comphenix.protocol.async.AsyncFilterManager@1792ec12
+  knowsServerPackets=true
+  knowsClientPackets=true
+  phaseLoginCount=3
+  phasePlayingCount=23
+  packetCreation=true
+  spigotInjector=<null>
+  nettyInjector=com.comphenix.protocol.injector.netty.ProtocolInjector@3182f8cc
+  pluginVerifier=com.comphenix.protocol.injector.PluginVerifier@1aafdcb0
+  hasRecycleDistance=true
+  minecraftVersion=(MC: 1.10.2)
+  loginPackets=com.comphenix.protocol.injector.LoginPackets@16fc2f7b
+  debug=true
+]
+
+Listeners:
+de.myzelyam.premiumvanish.main.visibility.ServerlistAdjustments$1@73a577e7[
+  plugin=PremiumVanish v1.6.7
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=NORMAL, packets=[PacketStatusOutServerInfo[0, legacy: 0]], gamephase=PLAYING, options=[]}
+]
+com.extendedclip.papi.injector.inventory.InventorySetSlotPacketListener@34d723d4[
+  plugin=PlaceholderAPI v2.5.1
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=HIGHEST, packets=[PacketPlayOutSetSlot[22, legacy: 47]], gamephase=PLAYING, options=[]}
+]
+nul.final...\\....if.Prn$2@5f99643f[
+  plugin=ChatControl v7.0.10
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=NORMAL, packets=[PacketPlayOutChat[15, legacy: 2]], gamephase=PLAYING, options=[]}
+]
+com.Zrips.CheckMyInventory.AllListeners.ProtocolEvent$1@634019c9[
+  plugin=CheckMyInventory v4.3.16.0
+  connectionSide=CLIENT_SIDE
+  receivingWhitelist=ListeningWhitelist{priority=HIGH, packets=[PacketPlayInArmAnimation[26, legacy: 10]], gamephase=PLAYING, options=[]}
+  sendingWhitelist=EMPTY_WHITELIST
+]
+de.myzelyam.premiumvanish.main.visibility.hiders.ProtocolLibHider$4@68bd9117[
+  plugin=PremiumVanish v1.6.7
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=HIGH, packets=[PacketPlayOutEntityEquipment[60, legacy: 4], PacketPlayOutWorldParticles[34, legacy: 42], PacketPlayOutAnimation[6, legacy: 11], PacketPlayOutNamedSoundEffect[71, legacy: 41], PacketPlayOutEntityMetadata[57, legacy: 28], PacketPlayOutBed[47, legacy: 10], PacketPlayOutRelEntityMove[37, legacy: 21], PacketPlayOutEntityEffect[76, legacy: 29], PacketPlayOutSpawnEntity[0, legacy: 14], PacketPlayOutEntityTeleport[74, legacy: 24], PacketPlayOutEntityLook[39, legacy: 22], PacketPlayOutRemoveEntityEffect[49, legacy: 30], PacketPlayOutNamedEntitySpawn[5, legacy: 12], PacketPlayOutCollect[73, legacy: 13], PacketPlayOutEntityHeadRotation[52, legacy: 25], PacketPlayOutEntityDestroy[48, legacy: 19], PacketPlayOutAttachEntity[58, legacy: 27], PacketPlayOutEntityStatus[27, legacy: 26], PacketPlayOutBlockBreakAnimation[8, legacy: 37], PacketPlayOutEntityVelocity[59, legacy: 18], PacketPlayOutRelEntityMoveLook[38, legacy: 23], PacketPlayOutSpawnEntityLiving[3, legacy: 15], PacketPlayOutTabComplete[14, legacy: 58], PacketPlayOutPlayerInfo[45, legacy: 56]], gamephase=PLAYING, options=[]}
+]
+net.minecrell.serverlistplus.bukkit.handlers.ProtocolLibHandler$StatusPacketListener@c094142[
+  plugin=ServerListPlus v3.4.6
+  connectionSide=BOTH
+  receivingWhitelist=ListeningWhitelist{priority=NORMAL, packets=[PacketHandshakingInSetProtocol[0, legacy: 0], PacketStatusOutServerInfo[0, legacy: 0]], gamephase=PLAYING, options=[ASYNC]}
+  sendingWhitelist=ListeningWhitelist{priority=NORMAL, packets=[PacketHandshakingInSetProtocol[0, legacy: 0], PacketStatusOutServerInfo[0, legacy: 0]], gamephase=PLAYING, options=[ASYNC]}
+]
+nul.final...\\....if.Prn$1@36fafa16[
+  plugin=ChatControl v7.0.10
+  connectionSide=CLIENT_SIDE
+  receivingWhitelist=ListeningWhitelist{priority=NORMAL, packets=[PacketPlayInTabComplete[1, legacy: 20]], gamephase=PLAYING, options=[]}
+  sendingWhitelist=EMPTY_WHITELIST
+]
+com.extendedclip.papi.injector.tab.TabPacketListener@41b4c019[
+  plugin=PlaceholderAPI v2.5.1
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=HIGHEST, packets=[PacketPlayOutPlayerListHeaderFooter[72, legacy: 71]], gamephase=PLAYING, options=[]}
+]
+me.libraryaddict.disguise.utilities.packetlisteners.PacketListenerInventory@30b5255b[
+  libsDisguises=LibsDisguises v9.0.9
+  plugin=LibsDisguises v9.0.9
+  connectionSide=BOTH
+  receivingWhitelist=ListeningWhitelist{priority=HIGH, packets=[PacketPlayOutSetSlot[22, legacy: 47], PacketPlayInSetCreativeSlot[24, legacy: 16], PacketPlayInWindowClick[7, legacy: 14], PacketPlayInHeldItemSlot[23, legacy: 9], PacketPlayOutWindowItems[20, legacy: 48]], gamephase=PLAYING, options=[]}
+  sendingWhitelist=ListeningWhitelist{priority=HIGH, packets=[PacketPlayOutSetSlot[22, legacy: 47], PacketPlayInSetCreativeSlot[24, legacy: 16], PacketPlayInWindowClick[7, legacy: 14], PacketPlayInHeldItemSlot[23, legacy: 9], PacketPlayOutWindowItems[20, legacy: 48]], gamephase=PLAYING, options=[]}
+]
+com.extendedclip.papi.injector.TitlePacketListener@33071bd7[
+  plugin=PlaceholderAPI v2.5.1
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=HIGHEST, packets=[PacketPlayOutTitle[69, legacy: 69]], gamephase=PLAYING, options=[]}
+]
+cc.playmc.anticommandtab.AntiCommandTab$1@34250f15[
+  plugin=AntiCommandTab v3.4
+  connectionSide=CLIENT_SIDE
+  receivingWhitelist=ListeningWhitelist{priority=NORMAL, packets=[PacketPlayInTabComplete[1, legacy: 20]], gamephase=PLAYING, options=[]}
+  sendingWhitelist=EMPTY_WHITELIST
+]
+me.libraryaddict.disguise.utilities.packetlisteners.PacketListenerViewDisguises@76c7b116[
+  libsDisguises=LibsDisguises v9.0.9
+  plugin=LibsDisguises v9.0.9
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=HIGH, packets=[PacketPlayOutEntityEquipment[60, legacy: 4], PacketPlayOutNamedEntitySpawn[5, legacy: 12], PacketPlayOutEntityHeadRotation[52, legacy: 25], PacketPlayOutAnimation[6, legacy: 11], PacketPlayOutEntityMetadata[57, legacy: 28], PacketPlayOutAttachEntity[58, legacy: 27], PacketPlayOutEntityStatus[27, legacy: 26], PacketPlayOutBed[47, legacy: 10], PacketPlayOutEntityVelocity[59, legacy: 18], PacketPlayOutUpdateAttributes[75, legacy: 32], PacketPlayOutRelEntityMove[37, legacy: 21], PacketPlayOutRelEntityMoveLook[38, legacy: 23], PacketPlayOutEntityEffect[76, legacy: 29], PacketPlayOutEntityTeleport[74, legacy: 24], PacketPlayOutEntityLook[39, legacy: 22]], gamephase=PLAYING, options=[]}
+]
+com.Zrips.CheckMyInventory.AllListeners.ProtocolEvent$3@29fd704c[
+  plugin=CheckMyInventory v4.3.16.0
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=HIGH, packets=[PacketPlayOutUnloadChunk[29, legacy: 250]], gamephase=PLAYING, options=[]}
+]
+me.libraryaddict.disguise.utilities.packetlisteners.PacketListenerMain@35e00bb2[
+  libsDisguises=LibsDisguises v9.0.9
+  plugin=LibsDisguises v9.0.9
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=HIGH, packets=[PacketPlayOutEntityEquipment[60, legacy: 4], PacketPlayOutNamedEntitySpawn[5, legacy: 12], PacketPlayOutCollect[73, legacy: 13], PacketPlayOutEntityHeadRotation[52, legacy: 25], PacketPlayOutAnimation[6, legacy: 11], PacketPlayOutEntityMetadata[57, legacy: 28], PacketPlayOutEntityStatus[27, legacy: 26], PacketPlayOutBed[47, legacy: 10], PacketPlayOutUpdateAttributes[75, legacy: 32], PacketPlayOutSpawnEntityExperienceOrb[1, legacy: 17], PacketPlayOutRelEntityMove[37, legacy: 21], PacketPlayOutRelEntityMoveLook[38, legacy: 23], PacketPlayOutSpawnEntity[0, legacy: 14], PacketPlayOutEntityTeleport[74, legacy: 24], PacketPlayOutEntityLook[39, legacy: 22], PacketPlayOutSpawnEntityLiving[3, legacy: 15], PacketPlayOutSpawnEntityPainting[4, legacy: 16]], gamephase=PLAYING, options=[]}
+]
+com.gmail.filoghost.holographicdisplays.bridge.protocollib.current.ProtocolLibHookImpl$1@414bf4ff[
+  plugin=HolographicDisplays v2.2
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=NORMAL, packets=[PacketPlayOutEntityMetadata[57, legacy: 28], PacketPlayOutSpawnEntity[0, legacy: 14], PacketPlayOutSpawnEntityLiving[3, legacy: 15]], gamephase=PLAYING, options=[]}
+]
+com.extendedclip.papi.injector.inventory.InventoryWindowPacketListener@5aace4b6[
+  plugin=PlaceholderAPI v2.5.1
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=HIGHEST, packets=[PacketPlayOutOpenWindow[19, legacy: 45]], gamephase=PLAYING, options=[]}
+]
+com.extendedclip.papi.injector.tab.SignPacketListener@39ecbcb0[
+  signs={}
+  refreshInterval=30
+  updateTask=org.bukkit.craftbukkit.v1_10_R1.scheduler.CraftTask@5471447e
+  plugin=PlaceholderAPI v2.5.1
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=HIGHEST, packets=[PacketPlayOutTileEntityData[9, legacy: 53]], gamephase=PLAYING, options=[]}
+]
+com.extendedclip.papi.injector.chat.SpigotChatPacketListener@4a66a25b[
+  plugin=PlaceholderAPI v2.5.1
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=HIGHEST, packets=[PacketPlayOutChat[15, legacy: 2]], gamephase=PLAYING, options=[]}
+]
+me.libraryaddict.disguise.utilities.packetlisteners.PacketListenerClientInteract@4223cadd[
+  plugin=LibsDisguises v9.0.9
+  connectionSide=CLIENT_SIDE
+  receivingWhitelist=ListeningWhitelist{priority=NORMAL, packets=[PacketPlayInUseEntity[10, legacy: 2]], gamephase=PLAYING, options=[]}
+  sendingWhitelist=EMPTY_WHITELIST
+]
+me.libraryaddict.disguise.utilities.packetlisteners.PacketListenerSounds@56c3c7fc[
+  plugin=LibsDisguises v9.0.9
+  connectionSide=SERVER_SIDE
+  receivingWhitelist=EMPTY_WHITELIST
+  sendingWhitelist=ListeningWhitelist{priority=NORMAL, packets=[PacketPlayOutNamedSoundEffect[71, legacy: 41], PacketPlayOutEntityStatus[27, legacy: 26]], gamephase=PLAYING, options=[]}
+]

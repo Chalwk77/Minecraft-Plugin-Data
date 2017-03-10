@@ -1,0 +1,11 @@
+Name: '§bTutorial #9'
+TeleportLocation:
+  X: -181.5
+  Pitch: 0.0
+  Y: 64.0
+  Z: -113.5
+  World: world
+  Yaw: 0.0
+Charges:
+  Amount: 0
+  LastGot: 1479371201121

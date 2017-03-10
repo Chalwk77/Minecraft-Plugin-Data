@@ -1,0 +1,48 @@
+geolocation: Cammeray, New South Wales, Australia
+lastAccountName: brokenassassin64
+timestamps:
+  login: 1472898378332
+  lastteleport: 1472905293041
+  logout: 1472905407772
+  kits:
+    citizen: 1471770598413
+    food: 1472898597044
+ipAddress: 124.168.165.71
+lastlocation:
+  world: world
+  x: 22068.5
+  y: 103.90199999809265
+  z: 16178.5
+  yaw: 169.35066
+  pitch: 25.800072
+money: '30792.06639999999999046'
+homes:
+  home:
+    world: world
+    x: -472.8259470813013
+    y: 63.0625
+    z: 818.4189699575529
+    yaw: 266.10947
+    pitch: 0.59997064
+  forester:
+    world: world
+    x: -7788.300000011921
+    y: 73.0
+    z: -26351.68478585584
+    yaw: 307.65033
+    pitch: 60.299965
+  new:
+    world: world
+    x: 22068.933350057705
+    y: 104.0
+    z: 16178.361183651441
+    yaw: 169.35066
+    pitch: 25.800072
+logoutlocation:
+  world: world
+  x: 22063.995090299515
+  y: 104.0
+  z: 16181.558502758211
+  yaw: -346.79913
+  pitch: 52.05012
+afk: false

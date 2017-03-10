@@ -1,0 +1,74 @@
+lastAccountName: VampCat
+timestamps:
+  login: 1481085368037
+  lastteleport: 1481088374958
+  logout: 1481088391517
+ipAddress: 173.20.28.74
+geolocation: Herrin, Illinois, United States
+lastlocation:
+  world: world
+  x: 659.0104458566689
+  y: 84.95456061314938
+  z: -170.5409509377835
+  yaw: 5.507324
+  pitch: 11.143307
+money: '257157.18779999999994405'
+afk: false
+logoutlocation:
+  world: world
+  x: -286742.5
+  y: 77.0
+  z: -577991.5
+  yaw: -0.49026218
+  pitch: 15.675339
+godmode: true
+homes:
+  home1:
+    world: world
+    x: -15426.5
+    y: 64.0
+    z: -13369.5
+    yaw: 152.20467
+    pitch: 23.529943
+  water1:
+    world: world
+    x: -310126.34855010535
+    y: 63.0
+    z: -625942.610883345
+    yaw: 192.7447
+    pitch: 33.88935
+  vg:
+    world: world
+    x: -3218.383166804625
+    y: 63.0
+    z: -10796.926895744667
+    yaw: -89.682884
+    pitch: 11.418561
+  moo:
+    world: world
+    x: -301085.16411110904
+    y: 72.0
+    z: -608223.6011410143
+    yaw: 337.83264
+    pitch: 30.598656
+  icat:
+    world: world
+    x: -300922.1803852792
+    y: 70.0
+    z: -607625.0108820599
+    yaw: 311.55176
+    pitch: 9.64532
+  jcat:
+    world: world
+    x: -286742.44123837305
+    y: 77.0
+    z: -577991.2425806804
+    yaw: -0.49026218
+    pitch: 15.675339
+  vgb:
+    world: world
+    x: -283590.03290994803
+    y: 69.0
+    z: -571254.3455393037
+    yaw: 220.57971
+    pitch: 27.872074

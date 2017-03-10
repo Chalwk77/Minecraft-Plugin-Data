@@ -1,0 +1,22 @@
+lastlocation:
+  world: world_nether
+  x: 47.35882068686748
+  y: 29.0
+  z: 1.9776552834754282
+  yaw: 211.14987
+  pitch: 55.500004
+lastAccountName: Diamond360
+timestamps:
+  login: 1469946482642
+  lastteleport: 1469947389629
+  logout: 1469947479983
+ipAddress: 118.210.198.156
+geolocation: Adelaide, South Australia, Australia
+logoutlocation:
+  world: world
+  x: 477.6836403404351
+  y: 89.0
+  z: -187.50128524409956
+  yaw: 338.34998
+  pitch: -38.400017
+money: '2500'

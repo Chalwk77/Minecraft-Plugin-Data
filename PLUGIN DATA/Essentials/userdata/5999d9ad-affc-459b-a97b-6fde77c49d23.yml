@@ -1,0 +1,44 @@
+lastlocation:
+  world: world
+  x: 25458.322286034585
+  y: 83.0
+  z: 14163.070420308473
+  yaw: 205.01663
+  pitch: 9.735726
+geolocation: Auckland, Auckland, New Zealand
+lastAccountName: RiffzX
+timestamps:
+  login: 1477790941280
+  lastteleport: 1477791974904
+  logout: 1477792292171
+ipAddress: 122.62.172.182
+homes:
+  home:
+    world: world
+    x: 25461.29378367866
+    y: 83.78608123157454
+    z: 14160.249966143812
+    yaw: 12.440765
+    pitch: 25.835684
+  wood:
+    world: world
+    x: 25258.846308316126
+    y: 63.0
+    z: 14096.463799963984
+    yaw: 77.485535
+    pitch: -2.6317923
+  ______:
+    world: world
+    x: 25256.38676933094
+    y: 63.0
+    z: 14095.260225997015
+    yaw: 77.485535
+    pitch: -2.6317923
+money: '-401.8710000000000029'
+logoutlocation:
+  world: world
+  x: 25463.70562435321
+  y: 85.0
+  z: 14153.688257166696
+  yaw: 270.58182
+  pitch: 10.819398

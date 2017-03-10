@@ -1,0 +1,1340 @@
+Inventories:
+  '25':
+    Time: 1458455355340
+    Exp: 1540
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9512360
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3823.0914357649967
+      y: 9.0
+      z: -2260.9260853117144
+      pitch: 15.000013
+      yaw: -99.4527
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 100
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '1':
+        type: REDSTONE
+        amount: 64
+      '2':
+        type: STONE
+        damage: 5
+        amount: 31
+      '3':
+        type: IRON_ORE
+        amount: 10
+      '4':
+        type: STONE
+        damage: 3
+        amount: 26
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: ROTTEN_FLESH
+        amount: 2
+      '7':
+        type: ARROW
+      '8':
+        type: BONE
+      '9':
+        type: COAL
+        amount: 31
+      '10':
+        type: DIRT
+        amount: 2
+      '11':
+        type: INK_SACK
+        damage: 4
+        amount: 54
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: STONE
+        damage: 1
+        amount: 27
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: REDSTONE
+        amount: 57
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 45
+      '30':
+        type: STONE
+        damage: 4
+  '26':
+    Time: 1459465462348
+    Exp: 1540
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9512360
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3823.0914357649967
+      y: 9.0
+      z: -2260.9260853117144
+      pitch: 15.000013
+      yaw: -99.4527
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 100
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '1':
+        type: REDSTONE
+        amount: 64
+      '2':
+        type: STONE
+        damage: 5
+        amount: 31
+      '3':
+        type: IRON_ORE
+        amount: 10
+      '4':
+        type: STONE
+        damage: 3
+        amount: 26
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: ROTTEN_FLESH
+        amount: 2
+      '7':
+        type: ARROW
+      '8':
+        type: BONE
+      '9':
+        type: COAL
+        amount: 31
+      '10':
+        type: DIRT
+        amount: 2
+      '11':
+        type: INK_SACK
+        damage: 4
+        amount: 54
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: STONE
+        damage: 1
+        amount: 27
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: REDSTONE
+        amount: 57
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 45
+      '30':
+        type: STONE
+        damage: 4
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '27':
+    Time: 1459469871306
+    Exp: 1540
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9512360
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3823.0914357649967
+      y: 9.0
+      z: -2260.9260853117144
+      pitch: 15.000013
+      yaw: -99.4527
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 100
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '1':
+        type: REDSTONE
+        amount: 64
+      '2':
+        type: STONE
+        damage: 5
+        amount: 31
+      '3':
+        type: IRON_ORE
+        amount: 10
+      '4':
+        type: STONE
+        damage: 3
+        amount: 26
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: ROTTEN_FLESH
+        amount: 2
+      '7':
+        type: ARROW
+      '8':
+        type: BONE
+      '9':
+        type: COAL
+        amount: 31
+      '10':
+        type: DIRT
+        amount: 2
+      '11':
+        type: INK_SACK
+        damage: 4
+        amount: 54
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: STONE
+        damage: 1
+        amount: 27
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: REDSTONE
+        amount: 57
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 45
+      '30':
+        type: STONE
+        damage: 4
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '28':
+    Time: 1459659260859
+    Exp: 1540
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9512360
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3823.0914357649967
+      y: 9.0
+      z: -2260.9260853117144
+      pitch: 15.000013
+      yaw: -99.4527
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 100
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '1':
+        type: REDSTONE
+        amount: 64
+      '2':
+        type: STONE
+        damage: 5
+        amount: 31
+      '3':
+        type: IRON_ORE
+        amount: 10
+      '4':
+        type: STONE
+        damage: 3
+        amount: 26
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: ROTTEN_FLESH
+        amount: 2
+      '7':
+        type: ARROW
+      '8':
+        type: BONE
+      '9':
+        type: COAL
+        amount: 31
+      '10':
+        type: DIRT
+        amount: 2
+      '11':
+        type: INK_SACK
+        damage: 4
+        amount: 54
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: STONE
+        damage: 1
+        amount: 27
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: REDSTONE
+        amount: 57
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 45
+      '30':
+        type: STONE
+        damage: 4
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '29':
+    Time: 1459766734332
+    Exp: 1540
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9512360
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3823.0914357649967
+      y: 9.0
+      z: -2260.9260853117144
+      pitch: 15.000013
+      yaw: -99.4527
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 100
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '1':
+        type: REDSTONE
+        amount: 64
+      '2':
+        type: STONE
+        damage: 5
+        amount: 31
+      '3':
+        type: IRON_ORE
+        amount: 10
+      '4':
+        type: STONE
+        damage: 3
+        amount: 26
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: ROTTEN_FLESH
+        amount: 2
+      '7':
+        type: ARROW
+      '8':
+        type: BONE
+      '9':
+        type: COAL
+        amount: 31
+      '10':
+        type: DIRT
+        amount: 2
+      '11':
+        type: INK_SACK
+        damage: 4
+        amount: 54
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: STONE
+        damage: 1
+        amount: 27
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: REDSTONE
+        amount: 57
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 45
+      '30':
+        type: STONE
+        damage: 4
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '30':
+    Time: 1459847485428
+    Exp: 1540
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9512360
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3823.0914357649967
+      y: 9.0
+      z: -2260.9260853117144
+      pitch: 15.000013
+      yaw: -99.4527
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 100
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '1':
+        type: REDSTONE
+        amount: 64
+      '2':
+        type: STONE
+        damage: 5
+        amount: 31
+      '3':
+        type: IRON_ORE
+        amount: 10
+      '4':
+        type: STONE
+        damage: 3
+        amount: 26
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: ROTTEN_FLESH
+        amount: 2
+      '7':
+        type: ARROW
+      '8':
+        type: BONE
+      '9':
+        type: COAL
+        amount: 31
+      '10':
+        type: DIRT
+        amount: 2
+      '11':
+        type: INK_SACK
+        damage: 4
+        amount: 54
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: STONE
+        damage: 1
+        amount: 27
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: REDSTONE
+        amount: 57
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 45
+      '30':
+        type: STONE
+        damage: 4
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '31':
+    Time: 1460146821511
+    Exp: 1540
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9512360
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3823.0914357649967
+      y: 9.0
+      z: -2260.9260853117144
+      pitch: 15.000013
+      yaw: -99.4527
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 100
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '1':
+        type: REDSTONE
+        amount: 64
+      '2':
+        type: STONE
+        damage: 5
+        amount: 31
+      '3':
+        type: IRON_ORE
+        amount: 10
+      '4':
+        type: STONE
+        damage: 3
+        amount: 26
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: ROTTEN_FLESH
+        amount: 2
+      '7':
+        type: ARROW
+      '8':
+        type: BONE
+      '9':
+        type: COAL
+        amount: 31
+      '10':
+        type: DIRT
+        amount: 2
+      '11':
+        type: INK_SACK
+        damage: 4
+        amount: 54
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: STONE
+        damage: 1
+        amount: 27
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: REDSTONE
+        amount: 57
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 45
+      '30':
+        type: STONE
+        damage: 4
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '32':
+    Time: 1460883168427
+    Exp: 1540
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9512360
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3823.0914357649967
+      y: 9.0
+      z: -2260.9260853117144
+      pitch: 15.000013
+      yaw: -99.4527
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 100
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '1':
+        type: REDSTONE
+        amount: 64
+      '2':
+        type: STONE
+        damage: 5
+        amount: 31
+      '3':
+        type: IRON_ORE
+        amount: 10
+      '4':
+        type: STONE
+        damage: 3
+        amount: 26
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: ROTTEN_FLESH
+        amount: 2
+      '7':
+        type: ARROW
+      '8':
+        type: BONE
+      '9':
+        type: COAL
+        amount: 31
+      '10':
+        type: DIRT
+        amount: 2
+      '11':
+        type: INK_SACK
+        damage: 4
+        amount: 54
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: STONE
+        damage: 1
+        amount: 27
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: REDSTONE
+        amount: 57
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 45
+      '30':
+        type: STONE
+        damage: 4
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '33':
+    Time: 1462120692812
+    Exp: 1540
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9512360
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3823.0914357649967
+      y: 9.0
+      z: -2260.9260853117144
+      pitch: 15.000013
+      yaw: -99.4527
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 100
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '1':
+        type: REDSTONE
+        amount: 64
+      '2':
+        type: STONE
+        damage: 5
+        amount: 31
+      '3':
+        type: IRON_ORE
+        amount: 10
+      '4':
+        type: STONE
+        damage: 3
+        amount: 26
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: ROTTEN_FLESH
+        amount: 2
+      '7':
+        type: ARROW
+      '8':
+        type: BONE
+      '9':
+        type: COAL
+        amount: 31
+      '10':
+        type: DIRT
+        amount: 2
+      '11':
+        type: INK_SACK
+        damage: 4
+        amount: 54
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: STONE
+        damage: 1
+        amount: 27
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: REDSTONE
+        amount: 57
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 45
+      '30':
+        type: STONE
+        damage: 4
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+  '34':
+    Time: 1462483216230
+    Exp: 1540
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 9.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 9512360
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3823.0914357649967
+      y: 9.0
+      z: -2260.9260853117144
+      pitch: 15.000013
+      yaw: -99.4527
+    Items:
+      '0':
+        type: DIAMOND_PICKAXE
+        damage: 100
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '1':
+        type: REDSTONE
+        amount: 64
+      '2':
+        type: STONE
+        damage: 5
+        amount: 31
+      '3':
+        type: IRON_ORE
+        amount: 10
+      '4':
+        type: STONE
+        damage: 3
+        amount: 26
+      '5':
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        type: ROTTEN_FLESH
+        amount: 2
+      '7':
+        type: ARROW
+      '8':
+        type: BONE
+      '9':
+        type: COAL
+        amount: 31
+      '10':
+        type: DIRT
+        amount: 2
+      '11':
+        type: INK_SACK
+        damage: 4
+        amount: 54
+      '12':
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        type: STONE
+        damage: 1
+        amount: 27
+      '14':
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        type: REDSTONE
+        amount: 57
+      '16':
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        type: COBBLESTONE
+        amount: 45
+      '30':
+        type: STONE
+        damage: 4
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 70
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '37':
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10
+      '39':
+        type: DIAMOND_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLucky Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 10
+            PROTECTION_PROJECTILE: 10
+            THORNS: 10

@@ -1,0 +1,22 @@
+Inventories:
+  '1':
+    Time: 1481422601735
+    DeathReasson: Fall
+    Exp: 745
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: -2055.699999988079
+      y: 86.0
+      z: -1103.7562920314913
+      pitch: 23.644802
+      yaw: 15.416852
+    Items:
+      '0':
+        type: DIRT
+        amount: 2

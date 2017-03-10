@@ -1,0 +1,537 @@
+# 
+#  					BukkitDev Help page : http://dev.bukkit.org/server-mods/mycommand/    					#
+block:
+  world:
+    x-1617y83z-987:
+      launchby: player
+      command:
+      - /blockprize3
+    x-1617y77z-987:
+      launchby: player
+      command:
+      - /blockprize2
+    x-1617y71z-987:
+      launchby: player
+      command:
+      - /blockprize1
+    x805y66z-133:
+      launchby: player
+      command:
+      - /rune_description_1
+    x805y66z-131:
+      launchby: player
+      command:
+      - /rune_description_2
+    x805y66z-129:
+      launchby: player
+      command:
+      - /rune_description_3
+    x805y66z-127:
+      launchby: player
+      command:
+      - /rune_description_4
+    x805y66z-125:
+      launchby: player
+      command:
+      - /rune_description_5
+    x805y66z-123:
+      launchby: player
+      command:
+      - /rune_description_6
+    x805y66z-121:
+      launchby: player
+      command:
+      - /rune_description_7
+    x805y66z-119:
+      launchby: player
+      command:
+      - /rune_description_8
+    x805y66z-117:
+      launchby: player
+      command:
+      - /rune_description_9
+    x805y66z-115:
+      launchby: player
+      command:
+      - /rune_description_10
+    x805y66z-113:
+      launchby: player
+      command:
+      - /rune_description_11
+    x805y66z-107:
+      launchby: player
+      command:
+      - /rune_description_12
+    x805y66z-105:
+      launchby: player
+      command:
+      - /rune_description_13
+    x805y66z-103:
+      launchby: player
+      command:
+      - /rune_description_14
+    x805y66z-101:
+      launchby: player
+      command:
+      - /rune_description_15
+    x805y66z-99:
+      launchby: player
+      command:
+      - /rune_description_16
+    x805y66z-97:
+      launchby: player
+      command:
+      - /rune_description_17
+    x805y66z-95:
+      launchby: player
+      command:
+      - /rune_description_18
+    x805y66z-93:
+      launchby: player
+      command:
+      - /rune_description_19
+    x805y66z-91:
+      launchby: player
+      command:
+      - /rune_description_20
+    x805y66z-89:
+      launchby: player
+      command:
+      - /rune_description_21
+    x805y66z-87:
+      launchby: player
+      command:
+      - /rune_description_22
+    x809y66z-133:
+      launchby: player
+      command:
+      - /rune_description_23
+    x809y66z-131:
+      launchby: player
+      command:
+      - /rune_description_24
+    x809y66z-129:
+      launchby: player
+      command:
+      - /rune_description_25
+    x809y66z-127:
+      launchby: player
+      command:
+      - /rune_description_26
+    x809y66z-125:
+      launchby: player
+      command:
+      - /rune_description_27
+    x809y66z-123:
+      launchby: player
+      command:
+      - /rune_description_28
+    x809y66z-121:
+      launchby: player
+      command:
+      - /rune_description_29
+    x809y66z-119:
+      launchby: player
+      command:
+      - /rune_description_30
+    x809y66z-117:
+      launchby: player
+      command:
+      - /rune_description_31
+    x809y66z-115:
+      launchby: player
+      command:
+      - /rune_description_32
+    x809y66z-113:
+      launchby: player
+      command:
+      - /rune_description_33
+    x809y66z-107:
+      launchby: player
+      command:
+      - /rune_description_34
+    x809y66z-105:
+      launchby: player
+      command:
+      - /rune_description_35
+    x809y66z-103:
+      launchby: player
+      command:
+      - /rune_description_36
+    x809y66z-101:
+      launchby: player
+      command:
+      - /rune_description_37
+    x809y66z-99:
+      launchby: player
+      command:
+      - /rune_description_38
+    x809y66z-97:
+      launchby: player
+      command:
+      - /rune_description_39
+    x809y66z-95:
+      launchby: player
+      command:
+      - /rune_description_40
+    x809y66z-93:
+      launchby: player
+      command:
+      - /rune_description_41
+    x809y66z-91:
+      launchby: player
+      command:
+      - /rune_description_42
+    x809y66z-89:
+      launchby: player
+      command:
+      - /rune_description_43
+    x809y66z-87:
+      launchby: player
+      command:
+      - /rune_description_44
+    x813y66z-133:
+      launchby: player
+      command:
+      - /rune_description_45
+    x813y66z-131:
+      launchby: player
+      command:
+      - /rune_description_46
+    x813y66z-129:
+      launchby: player
+      command:
+      - /rune_description_47
+    x813y66z-127:
+      launchby: player
+      command:
+      - /rune_description_48
+    x813y66z-125:
+      launchby: player
+      command:
+      - /rune_description_49
+    x813y66z-123:
+      launchby: player
+      command:
+      - /rune_description_50
+    x813y66z-121:
+      launchby: player
+      command:
+      - /rune_description_51
+    x813y66z-119:
+      launchby: player
+      command:
+      - /rune_description_52
+    x813y66z-117:
+      launchby: player
+      command:
+      - /rune_description_53
+    x813y66z-115:
+      launchby: player
+      command:
+      - /rune_description_54
+    x813y66z-113:
+      launchby: player
+      command:
+      - /rune_description_55
+    x813y66z-111:
+      launchby: player
+      command:
+      - /rune_description_56
+    x813y66z-109:
+      launchby: player
+      command:
+      - /rune_description_57
+    x813y66z-107:
+      launchby: player
+      command:
+      - /rune_description_58
+    x813y66z-105:
+      launchby: player
+      command:
+      - /rune_description_59
+    x813y66z-103:
+      launchby: player
+      command:
+      - /rune_description_60
+    x813y66z-101:
+      launchby: player
+      command:
+      - /rune_description_61
+    x813y66z-99:
+      launchby: player
+      command:
+      - /rune_description_62
+    x813y66z-97:
+      launchby: player
+      command:
+      - /rune_description_63
+    x813y66z-95:
+      launchby: player
+      command:
+      - /rune_description_64
+    x813y66z-93:
+      launchby: player
+      command:
+      - /rune_description_65
+    x813y66z-91:
+      launchby: player
+      command:
+      - /rune_description_66
+    x813y66z-89:
+      launchby: player
+      command:
+      - /rune_description_67
+    x813y66z-87:
+      launchby: player
+      command:
+      - /rune_description_68
+    x804y66z-133:
+      launchby: player
+      command:
+      - /rune_description_1
+    x804y66z-131:
+      launchby: player
+      command:
+      - /rune_description_2
+    x804y66z-129:
+      launchby: player
+      command:
+      - /rune_description_3
+    x804y66z-127:
+      launchby: player
+      command:
+      - /rune_description_4
+    x804y66z-125:
+      launchby: player
+      command:
+      - /rune_description_5
+    x804y66z-123:
+      launchby: player
+      command:
+      - /rune_description_6
+    x804y66z-121:
+      launchby: player
+      command:
+      - /rune_description_7
+    x804y66z-119:
+      launchby: player
+      command:
+      - /rune_description_8
+    x804y66z-117:
+      launchby: player
+      command:
+      - /rune_description_9
+    x804y66z-115:
+      launchby: player
+      command:
+      - /rune_description_10
+    x804y66z-113:
+      launchby: player
+      command:
+      - /rune_description_11
+    x804y66z-107:
+      launchby: player
+      command:
+      - /rune_description_12
+    x804y66z-105:
+      launchby: player
+      command:
+      - /rune_description_13
+    x804y66z-103:
+      launchby: player
+      command:
+      - /rune_description_14
+    x804y66z-101:
+      launchby: player
+      command:
+      - /rune_description_15
+    x804y66z-99:
+      launchby: player
+      command:
+      - /rune_description_16
+    x804y66z-97:
+      launchby: player
+      command:
+      - /rune_description_17
+    x804y66z-95:
+      launchby: player
+      command:
+      - /rune_description_18
+    x804y66z-93:
+      launchby: player
+      command:
+      - /rune_description_19
+    x804y66z-91:
+      launchby: player
+      command:
+      - /rune_description_20
+    x804y66z-89:
+      launchby: player
+      command:
+      - /rune_description_21
+    x804y66z-87:
+      launchby: player
+      command:
+      - /rune_description_22
+    x814y66z-133:
+      launchby: player
+      command:
+      - /rune_description_45
+    x814y66z-131:
+      launchby: player
+      command:
+      - /rune_description_46
+    x814y66z-129:
+      launchby: player
+      command:
+      - /rune_description_47
+    x814y66z-127:
+      launchby: player
+      command:
+      - /rune_description_48
+    x814y66z-125:
+      launchby: player
+      command:
+      - /rune_description_49
+    x814y66z-123:
+      launchby: player
+      command:
+      - /rune_description_50
+    x814y66z-121:
+      launchby: player
+      command:
+      - /rune_description_51
+    x814y66z-119:
+      launchby: player
+      command:
+      - /rune_description_52
+    x814y66z-117:
+      launchby: player
+      command:
+      - /rune_description_53
+    x814y66z-115:
+      launchby: player
+      command:
+      - /rune_description_54
+    x814y66z-113:
+      launchby: player
+      command:
+      - /rune_description_55
+    x814y66z-111:
+      launchby: player
+      command:
+      - /rune_description_56
+    x814y66z-109:
+      launchby: player
+      command:
+      - /rune_description_57
+    x814y66z-107:
+      launchby: player
+      command:
+      - /rune_description_58
+    x814y66z-105:
+      launchby: player
+      command:
+      - /rune_description_59
+    x814y66z-103:
+      launchby: player
+      command:
+      - /rune_description_60
+    x814y66z-101:
+      launchby: player
+      command:
+      - /rune_description_61
+    x814y66z-99:
+      launchby: player
+      command:
+      - /rune_description_62
+    x814y66z-97:
+      launchby: player
+      command:
+      - /rune_description_63
+    x814y66z-95:
+      launchby: player
+      command:
+      - /rune_description_64
+    x814y66z-93:
+      launchby: player
+      command:
+      - /rune_description_65
+    x814y66z-91:
+      launchby: player
+      command:
+      - /rune_description_66
+    x814y66z-89:
+      launchby: player
+      command:
+      - /rune_description_67
+    x814y66z-87:
+      launchby: player
+      command:
+      - /rune_description_68
+    x793y66z-100:
+      launchby: player
+      command:
+      - /enchanter v1
+    x793y66z-120:
+      launchby: player
+      command:
+      - /enchanter v1
+    x785y66z-99:
+      launchby: player
+      command:
+      - /runes shop 1
+    x785y66z-100:
+      launchby: player
+      command:
+      - /runes shop 2
+    x785y66z-101:
+      launchby: player
+      command:
+      - /runes shop 3
+    x785y66z-102:
+      launchby: player
+      command:
+      - /runes shop 4
+    x785y66z-118:
+      launchby: player
+      command:
+      - /runes shop 1
+    x785y66z-119:
+      launchby: player
+      command:
+      - /runes shop 2
+    x785y66z-120:
+      launchby: player
+      command:
+      - /runes shop 3
+    x785y66z-121:
+      launchby: player
+      command:
+      - /runes shop 4
+    x793y66z-131:
+      launchby: player
+      command:
+      - /enchanter v2
+    x793y66z-89:
+      launchby: player
+      command:
+      - /enchanter v2
+    x775y69z-344:
+      launchby: player
+      command:
+      - /mob sheep:yellow
+  flat:
+    x636y9z-412:
+      launchby: player
+      command:
+      - /blockprize1
+    x636y15z-412:
+      launchby: player
+      command:
+      - /blockprize2
+    x636y21z-412:
+      launchby: player
+      command:
+      - /blockprize3

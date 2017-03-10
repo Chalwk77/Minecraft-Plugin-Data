@@ -1,0 +1,194 @@
+PlayerLastName: Avelant
+EnderChestSize: 27
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §cCranberry Juice
+      lore:
+      - ''
+      - §7§oRestores §b§o3.0 §7§oHunger
+      custom-effects:
+      - ==: PotionEffect
+        effect: 23
+        duration: 6
+        amplifier: 0
+        ambient: true
+        has-particles: true
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §cMedicine
+      lore:
+      - ''
+      - §aLevel III - Medical Supply
+      - ''
+      - §rRestores 4 Hearts
+      - §rExtinguishes Fire
+      - §rCures Poison/Wither/Radiation
+      - ''
+      - §7§eRight Click§7 to drink
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §cMedicine
+      lore:
+      - ''
+      - §aLevel III - Medical Supply
+      - ''
+      - §rRestores 4 Hearts
+      - §rExtinguishes Fire
+      - §rCures Poison/Wither/Radiation
+      - ''
+      - §7§eRight Click§7 to drink
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HOE
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§nShadowstep III
+      lore:
+      - §lRune of Shadowstep III
+      - §aRandom Success Rate and §cRandom Destroy Rate.
+      - §6Armour Enchant
+      - §7Place the Rune on Armour to enchant.
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rChicken Head
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSgkLnwcOibNZIGYogvVGoEW3VIKj0d+0HjuOOL+89E8CEt/WxlfKnPu8qKQx4JiW8Y8dDNv7ILYfjwhqNBLa4I7glsMtdXIx2JSpNMPvpIuqmEtcBGI14NG0triYAPBnwmuSyFfArugVi2z0qtwtZdMTrOV4jGZLDBZNT0vEp8Yjq/fzTW3bjf63b5Kkrs+Fiz05Ry1WClsOVFPOVXajNLYgzHc4iJ0x9O4zlgaWJoprcqd5oqrN7oAkKv303S8kjSJmi8fHBVNS7fcVSH1Ed2NkhQFT5Q6a+ZDg7anKyx7toMgEw4IXmSsBgup6ea7GsOMAfe7oceC4BAAA=
+      skull-owner: CSCoreLib
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: §cMedicine
+      lore:
+      - ''
+      - §aLevel III - Medical Supply
+      - ''
+      - §rRestores 4 Hearts
+      - §rExtinguishes Fire
+      - §rCures Poison/Wither/Radiation
+      - ''
+      - §7§eRight Click§7 to drink
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      internal: H4sIAAAAAAAAAE2L0W6CMBiF/y1bgmSPsVuTSkHHhReLGqyxZSCi9A6kTmqrBmGhPtcecFzu7pzvfMcGsOFtc26V+qqvx0oJC55JCe/l0cU498XQQ7kzdD2nGBbio08ThP3cOeAJ8m2w+9NN1E0l7gOwGtE1bS3uNgA8WfCa5qoV8CvMCvH9CZX7lToYMu57skEqJPI2IZfUFDMyJrrfl5/jtfH/uV6T7zyV4dWJX6K20Cla41iJZTw66O0P1+zMdOSwBzU0oB5NaJfprct2i47JWPJ5KdmOSy6JGwaZCQNqwvnCYUmEeUAeNFg8aPKNWc8yHUs2TytyGfnHaDoFsOCF5VrAYLaZXWuxrgqAP8P2zHMuAQAA
+      skull-owner: CSCoreLib
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: MELON_SEEDS
+    amount: 3
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEASH
+    amount: 3
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    type: RAW_CHICKEN
+    amount: 2
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: REDSTONE
+    amount: 10
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: §eSlimefun Guide §7(Right Click)
+      lore:
+      - §2
+      - §rThis is your basic Guide for Slimefun
+      - §rYou can see all Items added by this Plugin
+      - §ror its Addons including their Recipes
+      - §ra bit of information and more
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    type: LOG
+    amount: 4
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: LOG
+    damage: 1
+    amount: 6
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_CHICKEN
+    amount: 4
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aCooked Chicken
+      enchants:
+        DAMAGE_UNDEAD: 65535
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: RAW_BEEF
+    amount: 9
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rCow Head
+      internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkQB51aaTqEBnrA3DYAV4rMKMGoQJf1U8syy5PzjkqgApvu7IR4qu6nnKBCjzTI7yTlKT6h51ojm2gZp7MiZY4lq2hYVmOSVAnZqaCOkw3rOoc7yNQamzrpsK7CgBPCryGiWgQfrHzSHw4k+PBE1lH7YH3OyLWtLg59BJ26YzaVA5+ObVX3eRfa9VJZAk+9s7xZdOkMiSr8VbgcqtnMvhh0cbgfSzixafFXE8yg+txkbW891tWzAvW+w8mOeFRWPr9dBy7393aLYdGlL6kD2bMc+YGHdtn7XoRlrwP8tNBnwAo8MISiTCa7WbXCld5CvAH4UJI9ioBAAA=
+      skull-owner: CSCoreLib
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    amount: 2
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    type: DISPENSER
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: FEATHER
+    amount: 4

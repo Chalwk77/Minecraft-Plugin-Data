@@ -1,0 +1,1741 @@
+Inventories:
+  '8':
+    Time: 1456054359431
+    Exp: 3238348
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 8778928
+        Amplifier: 1
+    Location:
+      world: world
+      x: -8132190.699822609
+      y: 108.6538225055925
+      z: -1.0577391997418096E7
+      pitch: 60.508648
+      yaw: -22.226105
+    Items:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_PICKAXE
+      damage: 52
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SPADE
+      damage: 1
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DAMAGE_ALL: 10
+          DAMAGE_UNDEAD: 10
+          DURABILITY: 10
+          DAMAGE_ARTHROPODS: 10
+          KNOCKBACK: 10
+          FIRE_ASPECT: 10
+          LOOT_BONUS_MOBS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          ARROW_DAMAGE: 10
+          ARROW_KNOCKBACK: 10
+          ARROW_FIRE: 10
+          ARROW_INFINITE: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 4
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIRT
+      amount: 5
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 54
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+    - null
+    - null
+    - null
+    - null
+    Armor:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+  '9':
+    Time: 1456057996843
+    Exp: 3238348
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 8778928
+        Amplifier: 1
+    Location:
+      world: world
+      x: -8132190.699822609
+      y: 108.6538225055925
+      z: -1.0577391997418096E7
+      pitch: 60.508648
+      yaw: -22.226105
+    Items:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_PICKAXE
+      damage: 52
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SPADE
+      damage: 1
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DAMAGE_ALL: 10
+          DAMAGE_UNDEAD: 10
+          DURABILITY: 10
+          DAMAGE_ARTHROPODS: 10
+          KNOCKBACK: 10
+          FIRE_ASPECT: 10
+          LOOT_BONUS_MOBS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          ARROW_DAMAGE: 10
+          ARROW_KNOCKBACK: 10
+          ARROW_FIRE: 10
+          ARROW_INFINITE: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 4
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIRT
+      amount: 5
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 54
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+    - null
+    - null
+    - null
+    - null
+    Armor:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+  '10':
+    Time: 1456559977718
+    Exp: 3238348
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 8778928
+        Amplifier: 1
+    Location:
+      world: world
+      x: -8132190.699822609
+      y: 108.6538225055925
+      z: -1.0577391997418096E7
+      pitch: 60.508648
+      yaw: -22.226105
+    Items:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_PICKAXE
+      damage: 52
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SPADE
+      damage: 1
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DAMAGE_ALL: 10
+          DAMAGE_UNDEAD: 10
+          DURABILITY: 10
+          DAMAGE_ARTHROPODS: 10
+          KNOCKBACK: 10
+          FIRE_ASPECT: 10
+          LOOT_BONUS_MOBS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          ARROW_DAMAGE: 10
+          ARROW_KNOCKBACK: 10
+          ARROW_FIRE: 10
+          ARROW_INFINITE: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 4
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIRT
+      amount: 5
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 54
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+    - null
+    - null
+    - null
+    - null
+    Armor:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+  '11':
+    Time: 1456693407685
+    Exp: 3238348
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 8778928
+        Amplifier: 1
+    Location:
+      world: world
+      x: -8132190.699822609
+      y: 108.6538225055925
+      z: -1.0577391997418096E7
+      pitch: 60.508648
+      yaw: -22.226105
+    Items:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_PICKAXE
+      damage: 52
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SPADE
+      damage: 1
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DAMAGE_ALL: 10
+          DAMAGE_UNDEAD: 10
+          DURABILITY: 10
+          DAMAGE_ARTHROPODS: 10
+          KNOCKBACK: 10
+          FIRE_ASPECT: 10
+          LOOT_BONUS_MOBS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          ARROW_DAMAGE: 10
+          ARROW_KNOCKBACK: 10
+          ARROW_FIRE: 10
+          ARROW_INFINITE: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 4
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIRT
+      amount: 5
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 54
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+    - null
+    - null
+    - null
+    - null
+    Armor:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+  '12':
+    Time: 1456961696313
+    Exp: 3238348
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 8778928
+        Amplifier: 1
+    Location:
+      world: world
+      x: -8132190.699822609
+      y: 108.6538225055925
+      z: -1.0577391997418096E7
+      pitch: 60.508648
+      yaw: -22.226105
+    Items:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_PICKAXE
+      damage: 52
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SPADE
+      damage: 1
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DAMAGE_ALL: 10
+          DAMAGE_UNDEAD: 10
+          DURABILITY: 10
+          DAMAGE_ARTHROPODS: 10
+          KNOCKBACK: 10
+          FIRE_ASPECT: 10
+          LOOT_BONUS_MOBS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          ARROW_DAMAGE: 10
+          ARROW_KNOCKBACK: 10
+          ARROW_FIRE: 10
+          ARROW_INFINITE: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 4
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIRT
+      amount: 5
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 54
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+    - null
+    - null
+    - null
+    - null
+    Armor:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+  '13':
+    Time: 1456999011323
+    Exp: 3238348
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 8778928
+        Amplifier: 1
+    Location:
+      world: world
+      x: -8132190.699822609
+      y: 108.6538225055925
+      z: -1.0577391997418096E7
+      pitch: 60.508648
+      yaw: -22.226105
+    Items:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_PICKAXE
+      damage: 52
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SPADE
+      damage: 1
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DAMAGE_ALL: 10
+          DAMAGE_UNDEAD: 10
+          DURABILITY: 10
+          DAMAGE_ARTHROPODS: 10
+          KNOCKBACK: 10
+          FIRE_ASPECT: 10
+          LOOT_BONUS_MOBS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          ARROW_DAMAGE: 10
+          ARROW_KNOCKBACK: 10
+          ARROW_FIRE: 10
+          ARROW_INFINITE: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 4
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIRT
+      amount: 5
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 54
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+    - null
+    - null
+    - null
+    - null
+    Armor:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+  '14':
+    Time: 1457084771470
+    Exp: 3238348
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 8778928
+        Amplifier: 1
+    Location:
+      world: world
+      x: -8132190.699822609
+      y: 108.6538225055925
+      z: -1.0577391997418096E7
+      pitch: 60.508648
+      yaw: -22.226105
+    Items:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_PICKAXE
+      damage: 52
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SPADE
+      damage: 1
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DAMAGE_ALL: 10
+          DAMAGE_UNDEAD: 10
+          DURABILITY: 10
+          DAMAGE_ARTHROPODS: 10
+          KNOCKBACK: 10
+          FIRE_ASPECT: 10
+          LOOT_BONUS_MOBS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          ARROW_DAMAGE: 10
+          ARROW_KNOCKBACK: 10
+          ARROW_FIRE: 10
+          ARROW_INFINITE: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 4
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIRT
+      amount: 5
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 54
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+    - null
+    - null
+    - null
+    - null
+    Armor:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+  '15':
+    Time: 1457084971465
+    Exp: 3238348
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 8778928
+        Amplifier: 1
+    Location:
+      world: world
+      x: -8132190.699822609
+      y: 108.6538225055925
+      z: -1.0577391997418096E7
+      pitch: 60.508648
+      yaw: -22.226105
+    Items:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_PICKAXE
+      damage: 52
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SPADE
+      damage: 1
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DAMAGE_ALL: 10
+          DAMAGE_UNDEAD: 10
+          DURABILITY: 10
+          DAMAGE_ARTHROPODS: 10
+          KNOCKBACK: 10
+          FIRE_ASPECT: 10
+          LOOT_BONUS_MOBS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          ARROW_DAMAGE: 10
+          ARROW_KNOCKBACK: 10
+          ARROW_FIRE: 10
+          ARROW_INFINITE: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 4
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIRT
+      amount: 5
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 54
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+    - null
+    - null
+    - null
+    - null
+    Armor:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+  '16':
+    Time: 1457085419536
+    Exp: 3238348
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 8778928
+        Amplifier: 1
+    Location:
+      world: world
+      x: -8132190.699822609
+      y: 108.6538225055925
+      z: -1.0577391997418096E7
+      pitch: 60.508648
+      yaw: -22.226105
+    Items:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_PICKAXE
+      damage: 52
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SPADE
+      damage: 1
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DAMAGE_ALL: 10
+          DAMAGE_UNDEAD: 10
+          DURABILITY: 10
+          DAMAGE_ARTHROPODS: 10
+          KNOCKBACK: 10
+          FIRE_ASPECT: 10
+          LOOT_BONUS_MOBS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          ARROW_DAMAGE: 10
+          ARROW_KNOCKBACK: 10
+          ARROW_FIRE: 10
+          ARROW_INFINITE: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 4
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIRT
+      amount: 5
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 54
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+    - null
+    - null
+    - null
+    - null
+    Armor:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+  '17':
+    Time: 1457238456145
+    Exp: 3238348
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 8778928
+        Amplifier: 1
+    Location:
+      world: world
+      x: -8132190.699822609
+      y: 108.6538225055925
+      z: -1.0577391997418096E7
+      pitch: 60.508648
+      yaw: -22.226105
+    Items:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_PICKAXE
+      damage: 52
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SPADE
+      damage: 1
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DIG_SPEED: 10
+          DURABILITY: 10
+          LOOT_BONUS_BLOCKS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          DAMAGE_ALL: 10
+          DAMAGE_UNDEAD: 10
+          DURABILITY: 10
+          DAMAGE_ARTHROPODS: 10
+          KNOCKBACK: 10
+          FIRE_ASPECT: 10
+          LOOT_BONUS_MOBS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          ARROW_DAMAGE: 10
+          ARROW_KNOCKBACK: 10
+          ARROW_FIRE: 10
+          ARROW_INFINITE: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 4
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIRT
+      amount: 5
+    - ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 54
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+    - null
+    - null
+    - null
+    - null
+    Armor:
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10
+    - ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §k§6§kii§r§dOverlord§k§6§kii
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 10
+          PROTECTION_FIRE: 10
+          PROTECTION_EXPLOSIONS: 10
+          PROTECTION_PROJECTILE: 10
+          THORNS: 10

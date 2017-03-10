@@ -1,0 +1,215 @@
+Inventories:
+  '1':
+    Time: 1480933104855
+    Killer: JasperJagg
+    DeathReasson: Entity attack
+    Exp: 985
+    Health: 13.60795783996582
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 13
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: GLOWING
+        Duration: 183
+        Amplifier: 1
+      '2':
+        Name: NIGHT_VISION
+        Duration: 79457
+        Amplifier: 1
+    Location:
+      world: world
+      x: 704.0613885750122
+      y: 65.0
+      z: -122.39343498724297
+      pitch: -5.708931
+      yaw: -256.23782
+    Items:
+      '0':
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Pan
+          lore:
+          - §a§oCan get you all kinds of Goodies...
+          - ''
+          - §7§eRight Click§7 to pan various Stuff out of Gravel
+      '1':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '2':
+        type: DIAMOND_SWORD
+        damage: 24
+      '3':
+        type: DIAMOND_SPADE
+        damage: 212
+      '4':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '5':
+        type: DIAMOND_AXE
+        damage: 29
+      '6':
+        type: DIAMOND_PICKAXE
+        damage: 835
+      '8':
+        type: VINE
+        amount: 16
+      '9':
+        type: DIAMOND_SWORD
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §6Slots 4
+          - §7Reborn III
+      '10':
+        type: TORCH
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aLight the way...
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '12':
+        type: GOLD_NUGGET
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '14':
+        type: WHEAT
+        amount: 3
+      '15':
+        type: BONE
+        amount: 6
+      '16':
+        type: BOW
+      '17':
+        type: SADDLE
+      '18':
+        type: HAY_BLOCK
+        amount: 16
+      '19':
+        type: DIAMOND_SPADE
+      '21':
+        type: IRON_ORE
+        amount: 11
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Lettuce
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JOjjIogsDrQ7RocpIZXZcxnKZUYNgoE/VRyzLLr9zzqcD6PAS1p2Un83lVEqhwSPJ4RWnSZahmWXkDrYNK3eQscC2Y9goxci27GRhWjro4+kqmrYUtwlorejbrhE3HQAeNHiOEtkJ+BWDb/JjYeZHX2YDweNmoSkDUl1tco6G1CWYqNGvl3gzOP/aeZt8zWWM/IKfd12qInOD9lKs99NMHe7UyxBf7Szq+VXAsin3ChVXy5+4+ihGPqNqXwbeFtHZex+s/CJg32jrHYYti3tekYGyuueMF3QV1Zzlioa+czqabwAaPNFECZi4oXtpxKZMAf4Aw0zIyyoBAAA=
+          skull-owner: CSCoreLib
+      '24':
+        type: DIAMOND_HOE
+      '25':
+        type: STICK
+        amount: 6
+      '26':
+        type: STRING
+        amount: 15
+      '29':
+        type: GHAST_TEAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eAdvanced Moisture Checker
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Tests the saturation level
+          - §7 of a 5x5 area of farmland.
+          - '§7R-click: §ruse'
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCVqyorhUSGeCqbqWQmFKWmJecmpKbn1lcUlqUmpyRmpydWgR0GwB9JaXztwAAAA==
+      '31':
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7Grandpas Walking Stick
+          enchants:
+            KNOCKBACK: 5
+      '32':
+        type: DIAMOND_PICKAXE
+      '33':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Corn
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkUKC66KLVNA5xxiIKwm6ER2WYUYNgxa/qJ5Z01dW9J/dcE8CEp7Bqlfqsj0Wp0IB7msOzXZAxsTPHEoVLLMdBtMQQXcvLXScfi6zIRW6C2Z9OWDclngdgNHht2hrPJgDcGfAYCdUi/GDnk3S7J/nWV1lHvZ7XIVFLKk8v9BB1uyn1qO73+Zu36Cb/XLcRsauSkb9PD0G70xFZjFYK5ys705vLMvYrdvv6Znpjp/pDshnf91nyW9Al8l2zIZfJOrgmmld8lnVs6Kt0XV1ZHPx1JpVMdVrxmLpcRpqF/qTYklcAAx640AiDaTg91rgodwC/0Tn3OSoBAAA=
+          skull-owner: CSCoreLib
+      '34':
+        type: COOKED_BEEF
+        amount: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aSTEAK
+          enchants:
+            DAMAGE_UNDEAD: 65535
+      '35':
+        type: TORCH
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §6Slots 4
+          - §7Immolation II
+      '39':
+        type: DIAMOND_HELMET
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §6Slots 3
+          - §7Shadowstep III
+          - §7Stealth III

@@ -1,0 +1,35 @@
+PlayerLastName: MincQ
+EnderChestSize: 54
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eLarge Backpack
+      lore:
+      - ''
+      - '§7Size: §e27'
+      - '§7ID: 4302986c-cf26-49a2-b55f-6c19f99836a5#1'
+      - ''
+      - §7§eRight Click§7 to open
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+      skull-owner: CSCoreLib
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §eLarge Backpack
+      lore:
+      - ''
+      - '§7Size: §e27'
+      - '§7ID: 4302986c-cf26-49a2-b55f-6c19f99836a5#0'
+      - ''
+      - §7§eRight Click§7 to open
+      internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+      skull-owner: CSCoreLib

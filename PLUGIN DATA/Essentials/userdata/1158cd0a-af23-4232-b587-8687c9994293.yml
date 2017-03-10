@@ -1,0 +1,38 @@
+lastlocation:
+  world: world
+  x: -11674.5
+  y: 64.0
+  z: -9335.5
+  yaw: 203.04512
+  pitch: 5.46688
+lastAccountName: FireWarlock
+timestamps:
+  login: 1480578379887
+  lastteleport: 1480579254097
+  logout: 1480579428537
+  kits:
+    color: 1475043716813
+    rules: 1469881100913
+    dtools: 1479967032883
+    tools: 1473472077689
+    food: 1477047664041
+ipAddress: 203.40.108.131
+geolocation: Australia
+homes:
+  home:
+    world: world
+    x: -11674.712542728905
+    y: 64.0
+    z: -9335.149810720384
+    yaw: 203.04512
+    pitch: 5.46688
+money: '153733.05768333333122096'
+logoutlocation:
+  world: world
+  x: -28984.354429208626
+  y: 69.36819527715333
+  z: -18624.30873419415
+  yaw: -34.255573
+  pitch: 24.336866
+afk: false
+godmode: false

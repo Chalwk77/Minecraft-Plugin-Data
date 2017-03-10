@@ -1,0 +1,93 @@
+Keys: 75
+Ammo:
+  batblaster: 172
+  chickenator: 0
+  colorbomb: 0
+  discoball: 0
+  etherealpearl: 620
+  fleshhook: 169
+  melonthrower: 0
+  blizzardblaster: 411
+  portalgun: 0
+  explosivesheep: 0
+  paintballgun: 841
+  thorhammer: 58
+  antigravity: 0
+  smashdown: 48
+  rocket: 0
+  blackhole: 54
+  tsunami: 0
+  tnt: 64
+  fungun: 286
+  parachute: 0
+  quakegun: 88
+  ghostparty: 0
+  firework: 0
+  christmastree: 39
+  freezecannon: 71
+  snowball: 0
+  partypopper: 0
+  trampoline: 489
+  be:
+    isach:
+      ultracosmetics:
+        cosmetics:
+          gadgets:
+            gadgettype@52cfc263: 0
+            gadgettype@80d22bf: 0
+            gadgettype@6f075924: 0
+            gadgettype@7a6c6b34: 0
+            gadgettype@50171737: 0
+            gadgettype@4a619410: 0
+            gadgettype@7150f0b0: 0
+            gadgettype@a533293: 0
+            gadgettype@31f75e92: 0
+            gadgettype@2ae24a9: 0
+            gadgettype@541ffca0: 0
+            gadgettype@2481f60d: 0
+            gadgettype@14933be0: 0
+            gadgettype@22571da9: 0
+            gadgettype@43c3504b: 0
+            gadgettype@49b7b148: 0
+            gadgettype@6ecb7240: 0
+            gadgettype@3ffb7acc: 0
+            gadgettype@1c0ffcb5: 0
+            gadgettype@376f94a1: 0
+            gadgettype@50df983a: 0
+            gadgettype@5657762: 0
+            gadgettype@5d25dadf: 0
+            gadgettype@6fecd9f5: 0
+            gadgettype@5cf9855e: 0
+            gadgettype@60dba05: 0
+            gadgettype@1d61e55b: 0
+            gadgettype@57dd2dd8: 0
+            gadgettype@d21f3ac: 0
+            gadgettype@161be75e: 0
+            gadgettype@34dbb34e: 0
+            gadgettype@7ee7d1dd: 0
+            gadgettype@11515fab: 0
+            gadgettype@5e210e97: 0
+            gadgettype@16c892e3: 0
+            gadgettype@5c586ea6: 0
+            gadgettype@917f780: 0
+            gadgettype@7ee37b20: 0
+            gadgettype@afdd6eb: 0
+            gadgettype@21b851bc: 0
+            gadgettype@5ac9bfbf: 0
+            gadgettype@58ca3b2a: 0
+            gadgettype@aaedcf5: 0
+            gadgettype@7f5a17b: 0
+            gadgettype@76cc7909: 0
+            gadgettype@41ccfb53: 0
+            gadgettype@b9127f2: 0
+            gadgettype@155ce086: 0
+            gadgettype@3c574597: 0
+            gadgettype@471a42e0: 0
+            gadgettype@5e22d055: 0
+            gadgettype@795adccf: 0
+            gadgettype@3367b815: 0
+            gadgettype@c0b15e0: 0
+Gadgets-Enabled: true
+Third-Person-Morph-View: true
+Pet-Names:
+  Wither: Brent

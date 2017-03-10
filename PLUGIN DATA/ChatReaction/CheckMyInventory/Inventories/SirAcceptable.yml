@@ -1,0 +1,654 @@
+Inventories:
+  '3':
+    Time: 1459833408987
+    Exp: 140
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2699.5
+      y: 81.07500000000746
+      z: 3457.5
+      pitch: 27.752495
+      yaw: -20.050503
+    Items:
+      '0':
+        type: IRON_PICKAXE
+        damage: 30
+      '1':
+        type: STONE_SPADE
+        damage: 52
+      '2':
+        type: IRON_AXE
+        damage: 133
+      '3':
+        type: BOW
+        damage: 41
+      '4':
+        type: COOKED_BEEF
+      '5':
+        type: GLOWSTONE
+        amount: 30
+      '6':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '7':
+        type: BIRCH_WOOD_STAIRS
+        amount: 2
+      '9':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            1. Create an account§0
+            §0on Enjin.§0
+            §02. Now go to§0
+            §0jericraft.enjin.com§0,§0
+            §0click 'join website'§0
+            §0(top right corner) §0
+            §0now go to your profile§0
+            §0page and click 'add§0
+            §0character'. §0
+            §03. To verify your§0
+            §0minecraft character -§0
+            §0In Minecraft login to§0
+            §0mclogin.enjin.com§0 §0
+          - |
+            by using the Direct§0
+            §0Connect option. (Don't§0
+            §0use "Add Server"). §0
+            §0You will be kicked from§0
+            §0the server and§0
+            §0provided with a code. §0
+            §0* Enter this code on§0
+            §0the Add Character§0
+            §0window. §0
+            §0* Enter code provided§0
+            §0by server§0
+          generation: 0
+      '10':
+        type: BONE
+        amount: 5
+      '11':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '12':
+        type: SULPHUR
+        amount: 2
+      '13':
+        type: SPRUCE_DOOR_ITEM
+        amount: 2
+      '14':
+        type: WOOD
+        damage: 1
+        amount: 39
+      '15':
+        type: SPRUCE_FENCE
+        amount: 30
+      '16':
+        type: ROTTEN_FLESH
+      '17':
+        type: WOOD
+        amount: 42
+      '18':
+        type: STICK
+        amount: 64
+      '19':
+        type: SHIELD
+      '22':
+        type: STICK
+        amount: 26
+      '23':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '24':
+        type: LADDER
+        amount: 12
+      '25':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          internal: H4sIAAAAAAAAAE2Ly06DQBRAr0YTSvwMtyRTXpWFiwbSdkgZ5NEHs2NgKowzbUNBxa/yE2Xp8uScowPo8JR9DFK+dZdTK7kG97iG5zljFjJfPKMuXduwPeQaZW1ahsvm9WJRWcx0uA76NF1517f8NgOt59/90PGbDgB3GjzuSzlw+OVjiOixQfUxlNWI3YnzDMkYi+sCn/cj87GL1eQ3S3c7ev9apy8PjiyssKHnZGBqj7ZWKvkmnVdq91mYoYgDbBaHVUMVtuk6VERUdhysJBHvDgkSFOWpivLIiYPdFxFpE5mFTcUSkXVi00OqCpEgEhBJfmhbZKF3OqJXAA0eSKk4zPzMv3R82zKAP2iN20EqAQAA
+          skull-owner: CSCoreLib
+      '26':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '27':
+        type: WOOD
+        damage: 2
+        amount: 64
+      '28':
+        type: COBBLESTONE_STAIRS
+        amount: 2
+      '29':
+        type: WATER_BUCKET
+      '30':
+        type: ARROW
+        amount: 35
+      '31':
+        type: TORCH
+        amount: 9
+      '32':
+        type: LOG
+        amount: 45
+      '33':
+        type: COBBLESTONE
+        amount: 45
+      '34':
+        type: COAL
+        amount: 12
+      '35':
+        type: WOOL
+  '4':
+    Time: 1459833438274
+    Exp: 63
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2699.5
+      y: 81.07500000000746
+      z: 3457.5
+      pitch: 25.739313
+      yaw: 20.374153
+  '5':
+    Time: 1459833463766
+    Exp: 35
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2699.5
+      y: 81.07500000000746
+      z: 3457.5
+      pitch: -1.0500194
+      yaw: 270.54996
+  '6':
+    Time: 1459833488228
+    Exp: 21
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 18
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2699.5
+      y: 81.07500000000746
+      z: 3457.5
+      pitch: 31.05411
+      yaw: -49.563717
+  '7':
+    Time: 1459847483312
+    Exp: 397
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 19
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2701.7682391917515
+      y: 76.0
+      z: 3454.4060827087574
+      pitch: 26.423754
+      yaw: 320.7377
+    Items:
+      '0':
+        type: IRON_PICKAXE
+        damage: 249
+      '1':
+        type: IRON_SPADE
+        damage: 160
+      '2':
+        type: STONE_SWORD
+        damage: 53
+      '3':
+        type: BOW
+        damage: 33
+      '4':
+        type: TORCH
+        amount: 7
+      '5':
+        type: COOKED_BEEF
+        amount: 58
+      '6':
+        type: COBBLESTONE
+        amount: 50
+      '8':
+        type: WATER_BUCKET
+      '9':
+        type: WOOD
+        damage: 1
+        amount: 42
+      '10':
+        type: STICK
+        amount: 7
+      '11':
+        type: COAL
+        amount: 63
+      '12':
+        type: WORKBENCH
+      '27':
+        type: DIAMOND_PICKAXE
+        damage: 35
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aDiamond Pickaxe
+      '28':
+        type: IRON_AXE
+        damage: 217
+      '30':
+        type: ARROW
+        amount: 40
+      '36':
+        type: IRON_BOOTS
+        damage: 35
+      '37':
+        type: IRON_LEGGINGS
+        damage: 35
+      '38':
+        type: IRON_CHESTPLATE
+        damage: 35
+      '39':
+        type: IRON_HELMET
+        damage: 35
+      '40':
+        type: SHIELD
+        damage: 71
+  '8':
+    Time: 1459860225018
+    Exp: 549
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 7.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2911.5570421628454
+      y: 68.0
+      z: 3430.932928013184
+      pitch: 44.15377
+      yaw: 260.46204
+    Items:
+      '0':
+        type: IRON_PICKAXE
+        damage: 165
+      '1':
+        type: IRON_SPADE
+        damage: 202
+      '2':
+        type: IRON_AXE
+        damage: 203
+      '3':
+        type: BOW
+        damage: 49
+      '4':
+        type: TORCH
+        amount: 11
+      '5':
+        type: COOKED_BEEF
+        amount: 49
+      '6':
+        type: DIRT
+        amount: 11
+      '8':
+        type: WATER_BUCKET
+      '9':
+        type: WOOD
+        damage: 1
+        amount: 42
+      '10':
+        type: STICK
+        amount: 7
+      '11':
+        type: COAL
+        amount: 63
+      '12':
+        type: WORKBENCH
+        amount: 2
+      '13':
+        type: SHIELD
+        damage: 71
+      '14':
+        type: COBBLESTONE
+        amount: 47
+      '15':
+        type: IRON_HELMET
+      '23':
+        type: IRON_CHESTPLATE
+      '24':
+        type: IRON_LEGGINGS
+      '30':
+        type: ARROW
+        amount: 27
+      '36':
+        type: IRON_BOOTS
+        damage: 49
+  '9':
+    Time: 1460146819911
+    Exp: 532
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 12.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2704.470895006517
+      y: 76.0
+      z: 3453.669280849581
+      pitch: 20.545345
+      yaw: 158.76544
+    Items:
+      '0':
+        type: IRON_PICKAXE
+        damage: 44
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+      '1':
+        type: IRON_SPADE
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+      '2':
+        type: IRON_AXE
+        damage: 102
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '3':
+        type: BOW
+        damage: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+      '4':
+        type: TORCH
+        amount: 24
+      '5':
+        type: COOKED_BEEF
+        amount: 34
+      '6':
+        type: DIRT
+        amount: 34
+      '8':
+        type: WATER_BUCKET
+      '9':
+        type: WOOD
+        amount: 48
+      '10':
+        type: COAL
+        amount: 61
+      '11':
+        type: WORKBENCH
+        amount: 2
+      '12':
+        type: COBBLESTONE
+        amount: 42
+      '30':
+        type: ARROW
+        amount: 20
+  '10':
+    Time: 1460883166416
+    Exp: 532
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 12.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2704.470895006517
+      y: 76.0
+      z: 3453.669280849581
+      pitch: 20.545345
+      yaw: 158.76544
+    Items:
+      '0':
+        type: IRON_PICKAXE
+        damage: 44
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+      '1':
+        type: IRON_SPADE
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+      '2':
+        type: IRON_AXE
+        damage: 102
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '3':
+        type: BOW
+        damage: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+      '4':
+        type: TORCH
+        amount: 24
+      '5':
+        type: COOKED_BEEF
+        amount: 34
+      '6':
+        type: DIRT
+        amount: 34
+      '8':
+        type: WATER_BUCKET
+      '9':
+        type: WOOD
+        amount: 48
+      '10':
+        type: COAL
+        amount: 61
+      '11':
+        type: WORKBENCH
+        amount: 2
+      '12':
+        type: COBBLESTONE
+        amount: 42
+      '30':
+        type: ARROW
+        amount: 20
+  '11':
+    Time: 1462120691008
+    Exp: 532
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 12.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2704.470895006517
+      y: 76.0
+      z: 3453.669280849581
+      pitch: 20.545345
+      yaw: 158.76544
+    Items:
+      '0':
+        type: IRON_PICKAXE
+        damage: 44
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+      '1':
+        type: IRON_SPADE
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+      '2':
+        type: IRON_AXE
+        damage: 102
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '3':
+        type: BOW
+        damage: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+      '4':
+        type: TORCH
+        amount: 24
+      '5':
+        type: COOKED_BEEF
+        amount: 34
+      '6':
+        type: DIRT
+        amount: 34
+      '8':
+        type: WATER_BUCKET
+      '9':
+        type: WOOD
+        amount: 48
+      '10':
+        type: COAL
+        amount: 61
+      '11':
+        type: WORKBENCH
+        amount: 2
+      '12':
+        type: COBBLESTONE
+        amount: 42
+      '30':
+        type: ARROW
+        amount: 20
+  '12':
+    Time: 1462483213964
+    Exp: 532
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 12.8
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 2704.470895006517
+      y: 76.0
+      z: 3453.669280849581
+      pitch: 20.545345
+      yaw: 158.76544
+    Items:
+      '0':
+        type: IRON_PICKAXE
+        damage: 44
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+      '1':
+        type: IRON_SPADE
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+      '2':
+        type: IRON_AXE
+        damage: 102
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '3':
+        type: BOW
+        damage: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 1
+      '4':
+        type: TORCH
+        amount: 24
+      '5':
+        type: COOKED_BEEF
+        amount: 34
+      '6':
+        type: DIRT
+        amount: 34
+      '8':
+        type: WATER_BUCKET
+      '9':
+        type: WOOD
+        amount: 48
+      '10':
+        type: COAL
+        amount: 61
+      '11':
+        type: WORKBENCH
+        amount: 2
+      '12':
+        type: COBBLESTONE
+        amount: 42
+      '30':
+        type: ARROW
+        amount: 20

@@ -1,0 +1,1233 @@
+Inventories:
+  '1':
+    Time: 1479635695050
+    Killer: §a§lZombie Warrior
+    DeathReasson: Entity attack
+    Exp: 6960
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: LUCK
+        Duration: 1316910
+        Amplifier: 0
+      '2':
+        Name: NIGHT_VISION
+        Duration: 19154
+        Amplifier: 1
+    Location:
+      world: world
+      x: 3861.5
+      y: 22.0
+      z: -2648.5
+      pitch: 9.542512
+      yaw: -81.19059
+    Items:
+      '0':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '1':
+        type: BOW
+        damage: 175
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Bro
+          enchants:
+            ARROW_DAMAGE: 5
+            ARROW_FIRE: 1
+            ARROW_INFINITE: 1
+          repair-cost: 15
+      '2':
+        type: GOLD_NUGGET
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '3':
+        type: DIAMOND_PICKAXE
+        damage: 547
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 9Golden Spell
+          lore:
+          - §a- Slow Digging 7
+          - §a- Jump 7
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 8
+            LURE: 3
+          repair-cost: 7
+      '4':
+        type: IRON_SWORD
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rNickel Sword
+          enchants:
+            DAMAGE_ALL: 6
+            DURABILITY: 5
+      '5':
+        type: DIAMOND_SPADE
+        damage: 246
+      '6':
+        type: DIAMOND_AXE
+        damage: 832
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePointless Swiftness
+          enchants:
+            PROTECTION_PROJECTILE: 2
+            LOOT_BONUS_BLOCKS: 5
+      '7':
+        type: COOKED_BEEF
+        amount: 61
+      '8':
+        type: WATER_BUCKET
+      '9':
+        type: LEATHER
+        amount: 2
+      '10':
+        type: SPECTRAL_ARROW
+        amount: 16
+      '11':
+        type: TIPPED_ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:slowness
+      '12':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nEntangle I
+          lore:
+          - §lRune of Entangle I
+          - §a24% Success Rate and §c76% Destroy Rate.
+          - §6Bow Enchant
+          - §7Place the Rune on a bow to enchant.
+      '13':
+        type: COOKED_BEEF
+      '14':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rCow Head
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkQB51aaTqEBnrA3DYAV4rMKMGoQJf1U8syy5PzjkqgApvu7IR4qu6nnKBCjzTI7yTlKT6h51ojm2gZp7MiZY4lq2hYVmOSVAnZqaCOkw3rOoc7yNQamzrpsK7CgBPCryGiWgQfrHzSHw4k+PBE1lH7YH3OyLWtLg59BJ26YzaVA5+ObVX3eRfa9VJZAk+9s7xZdOkMiSr8VbgcqtnMvhh0cbgfSzixafFXE8yg+txkbW891tWzAvW+w8mOeFRWPr9dBy7393aLYdGlL6kD2bMc+YGHdtn7XoRlrwP8tNBnwAo8MISiTCa7WbXCld5CvAH4UJI9ioBAAA=
+          skull-owner: CSCoreLib
+      '18':
+        type: STICK
+        amount: 13
+      '19':
+        type: TIPPED_ARROW
+        amount: 28
+      '20':
+        type: ARROW
+        amount: 20
+      '21':
+        type: DIAMOND_PICKAXE
+        damage: 948
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eUnbelievable Spell
+          lore:
+          - §b- Luck 4
+          - §c- Confusion 7
+          enchants:
+            FIRE_ASPECT: 3
+            SILK_TOUCH: 4
+            LOOT_BONUS_BLOCKS: 5
+      '22':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §eHellish Rose
+          custom-effects:
+          - ==: PotionEffect
+            effect: 3
+            duration: 1000
+            amplifier: 4
+            ambient: true
+            has-particles: true
+          - ==: PotionEffect
+            effect: 24
+            duration: 800
+            amplifier: 3
+            ambient: true
+            has-particles: true
+      '24':
+        type: DIAMOND_HELMET
+        damage: 105
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §7§kAnalize meh
+          lore:
+          - ''
+          - §7§oUnanalized
+      '26':
+        type: BONE
+        amount: 3
+      '27':
+        type: STRING
+        amount: 10
+      '28':
+        type: TIPPED_ARROW
+        amount: 63
+      '29':
+        type: ARROW
+        amount: 64
+      '30':
+        type: DIAMOND_PICKAXE
+        damage: 167
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+          repair-cost: 1
+      '35':
+        type: LAVA_BUCKET
+  '2':
+    Time: 1479635730782
+    Killer: §a§lZombie Warrior
+    DeathReasson: Entity attack
+    Exp: 6960
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 3861.5
+      y: 22.0
+      z: -2648.5
+      pitch: 9.542512
+      yaw: -81.19059
+  '3':
+    Time: 1479721917906
+    DeathReasson: Fall
+    Exp: 11044
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 68346
+        Amplifier: 1
+    Location:
+      world: world
+      x: -3784.699999988079
+      y: 47.0
+      z: 22059.69999998808
+      pitch: 56.39999
+      yaw: 261.30005
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 529
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Awkward Lump
+          lore:
+          - §c- Glowing 4
+          - §c- Jump 3
+          enchants:
+            WATER_WORKER: 1
+      '1':
+        type: STONE_SPADE
+        damage: 110
+      '2':
+        type: IRON_AXE
+        damage: 147
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMaster Absorption
+          lore:
+          - §e+ Harm 4
+          - §9+ Heal 4
+          enchants:
+            OXYGEN: 3
+            PROTECTION_FALL: 3
+            LOOT_BONUS_BLOCKS: 6
+      '3':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rWither Head
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JaEhwO6bLTRITIUlNfseIyVcUYNQiPzVf3Esuzy5JyjA+jwtj8PQnx112MrmAbPuIH3Rel5yHGXhl16tTG3m4VRWY1tIFRZ3rw51mbJdNCn6ca6vmX3GWg9e/RDx+46ADxp8JqWYmDwy0bfpPnJbHJf1CN2Jz7sTRFifvPwJR2rFXaxnPz2w92Ny38t6ssMicLxT/QSDZVMzZ0TC7aNrVomP4UdS6JiESisaBaZwSFShJ9tkhVWoRKHbmIZ8O8HySIrUMFIZYLCgxCEn2QhMaJryilPebjxz2T9qcKsaI+5tQTQ4IWUksFstV9dO7ZrK4A/I6RGxCoBAAA=
+          skull-owner: CSCoreLib
+      '4':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §aAdvanced Tool
+          custom-effects:
+          - ==: PotionEffect
+            effect: 3
+            duration: 1800
+            amplifier: 3
+            ambient: true
+            has-particles: true
+          - ==: PotionEffect
+            effect: 14
+            duration: 1400
+            amplifier: 4
+            ambient: true
+            has-particles: true
+          - ==: PotionEffect
+            effect: 5
+            duration: 200
+            amplifier: 4
+            ambient: true
+            has-particles: true
+      '5':
+        type: DIAMOND_SWORD
+        damage: 109
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Herobrine's Lion
+          lore:
+          - §e+ Increase Damage 7
+          enchants:
+            ARROW_DAMAGE: 6
+            SILK_TOUCH: 2
+            PROTECTION_EXPLOSIONS: 7
+            ARROW_INFINITE: 7
+      '6':
+        type: COOKED_BEEF
+        amount: 21
+      '7':
+        type: LAVA_BUCKET
+      '8':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 9
+      '9':
+        type: PORK
+        amount: 64
+      '10':
+        type: COOKED_CHICKEN
+        amount: 64
+      '11':
+        type: GOLD_NUGGET
+        amount: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '12':
+        type: TIPPED_ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:slowness
+      '13':
+        type: BONE
+        amount: 19
+      '14':
+        type: IRON_INGOT
+        amount: 2
+      '15':
+        type: ROTTEN_FLESH
+        amount: 11
+      '16':
+        type: SULPHUR
+        amount: 10
+      '17':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nMischief III
+          lore:
+          - §lRune of Mischief III
+          - §a41% Success Rate and §c59% Destroy Rate.
+          - §6Weapon Enchant
+          - §7Place the Rune on any weapon to enchant.
+      '18':
+        type: WHEAT
+      '19':
+        type: SPIDER_EYE
+      '20':
+        type: GOLDEN_APPLE
+      '21':
+        type: SAND
+        amount: 10
+      '22':
+        type: IRON_BARDING
+      '23':
+        type: DIAMOND_SWORD
+        damage: 414
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eBrave Cry
+          enchants:
+            DEPTH_STRIDER: 8
+            WATER_WORKER: 5
+      '24':
+        type: IRON_BARDING
+      '25':
+        type: GOLD_BARDING
+      '26':
+        type: WATER_BUCKET
+      '27':
+        type: STONE
+        damage: 5
+      '31':
+        type: ARROW
+        amount: 20
+      '33':
+        type: STRING
+        amount: 17
+      '34':
+        type: DIAMOND
+        amount: 7
+      '35':
+        type: TORCH
+        amount: 29
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Faithful Wolf
+          lore:
+          - §b- Poison 5
+          enchants:
+            ARROW_KNOCKBACK: 2
+            DAMAGE_ARTHROPODS: 8
+            MENDING: 3
+      '37':
+        type: IRON_LEGGINGS
+        damage: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rMagnesium Leggings
+          lore:
+          - §6Slots 4
+          - §7Flame Cloak I
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 5
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 331
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eUnbelievable Tool
+          enchants:
+            DAMAGE_ALL: 8
+            LOOT_BONUS_MOBS: 5
+            PROTECTION_EXPLOSIONS: 3
+  '4':
+    Time: 1479724365619
+    DeathReasson: Fall
+    Exp: 12149
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 1.8000002
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 58514
+        Amplifier: 1
+    Location:
+      world: world
+      x: -10007.619500146959
+      y: 90.0
+      z: 9828.275133475783
+      pitch: 88.34999
+      yaw: 3.3881226
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 541
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Awkward Lump
+          lore:
+          - §c- Glowing 4
+          - §c- Jump 3
+          enchants:
+            WATER_WORKER: 1
+      '1':
+        type: STONE_SPADE
+        damage: 110
+      '2':
+        type: BOW
+        damage: 82
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Amazing Challenge
+          lore:
+          - §b- Harm 3
+          enchants:
+            ARROW_DAMAGE: 6
+      '3':
+        type: DIAMOND_SWORD
+        damage: 138
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Herobrine's Lion
+          lore:
+          - §e+ Increase Damage 7
+          enchants:
+            ARROW_DAMAGE: 6
+            SILK_TOUCH: 2
+            PROTECTION_EXPLOSIONS: 7
+            ARROW_INFINITE: 7
+      '5':
+        type: COOKED_BEEF
+        amount: 4
+      '6':
+        type: COOKED_CHICKEN
+        amount: 64
+      '7':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '8':
+        type: WATER_BUCKET
+      '9':
+        type: BONE
+        amount: 3
+      '10':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §aAdvanced Tool
+          custom-effects:
+          - ==: PotionEffect
+            effect: 3
+            duration: 1800
+            amplifier: 3
+            ambient: true
+            has-particles: true
+          - ==: PotionEffect
+            effect: 14
+            duration: 1400
+            amplifier: 4
+            ambient: true
+            has-particles: true
+          - ==: PotionEffect
+            effect: 5
+            duration: 200
+            amplifier: 4
+            ambient: true
+            has-particles: true
+      '12':
+        type: GOLD_NUGGET
+        amount: 13
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '13':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §9Herobrine's Intelligence
+          stored-enchants:
+            SILK_TOUCH: 3
+            DURABILITY: 7
+      '16':
+        type: BLAZE_POWDER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rMagical Essence
+          lore:
+          - ''
+          - §7Iron
+      '17':
+        type: ENDER_PEARL
+      '19':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Pomegranate Pie
+          lore:
+          - ''
+          - §7§oRestores §b§o6.5 §7§oHunger
+          internal: H4sIAAAAAAAAAE2LT2+CMBxAf1u2BMk+xq4k/CvKwcOmUSEWhjqU3kqpKV2rBsEIn2ofcR53fHnvmQAmvG1/OqW+mvOxVtyA56iC9+PEtYNxySxUur7lVza1KHWZRX2GQmcSosApTTAf04U3bc2vIzBafm+7hl9NAHgy4DWnquPwy/vYJgdhV4dYsT4KHrzb2iqN5GUcnfK+nEVBpB9+9RGs+/Bfi1q6R6rwYkFOWVfq3F57G8VXG4fp7xsesnu6xG4hPwWWShfDQpMdQ3iP/XTHvGSZ+VgKTWQxkHks0j0RicY+HrCH3VxjdyGSeVUTmahCMhSdnPCYTacABrwkVHMYzbazc8PXdQnwB5vMQUMqAQAA
+          skull-owner: CSCoreLib
+      '20':
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §9Frozen Lump
+          custom-effects:
+          - ==: PotionEffect
+            effect: 6
+            duration: 400
+            amplifier: 2
+            ambient: true
+            has-particles: true
+      '24':
+        type: LAVA_BUCKET
+      '26':
+        type: LEATHER_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §a§lSlime Boots
+          lore:
+          - ''
+          - §a§oBouncy Feeling
+          - ''
+          - §9+ Jump Boost
+          - §9+ No Fall Damage
+          color:
+            ==: Color
+            RED: 0
+            BLUE: 0
+            GREEN: 255
+      '27':
+        type: ELYTRA
+        damage: 9
+      '29':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eObsidian Chest
+          lore:
+          - '§7Size: §e4x9'
+          - §bWithstands Explosions
+          - ''
+          - §rThis Chest can be opened by anyone
+          - §reven if your Base is protected.
+          internal: H4sIAAAAAAAAAE2My26CQBhG/zZtgqSP0S3JwDAoy0YTHaJQuYgzOy5jBWbUIBjhqfqIZdnll3POpwPo8BE1vZTf7fVUSaHBKy3hc0EWJSnIycjQwjJslGMjm88LgxCMbRO7jm25OuhTdBNtV4n7DLROPLu+FXcdAF40eD9kshfwKwYP8eMZlUdPFgN1ph1HSAa0vs3p5TDkS+pQNfHNl7Md3H8u6bKUSIa9M7/s+1wd0BaHUmxCs1DJI1glJlOJ7Y87y4+9mine8DpsgtVZsfjnuasLi68oCtb7gdWl5CnDLOaNv2YjT8Oajc3AVWL64/SRespf76vT0XQBNHjzMyVgtoyW11ZsqxzgD8sHcIUqAQAA
+          skull-owner: CSCoreLib
+      '30':
+        type: DIAMOND_SWORD
+        damage: 414
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eBrave Cry
+          enchants:
+            DEPTH_STRIDER: 8
+            WATER_WORKER: 5
+      '31':
+        type: OBSIDIAN
+        amount: 9
+      '32':
+        type: ARROW
+        amount: 14
+      '33':
+        type: TORCH
+        amount: 29
+      '34':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §bUnholy Challenge
+          stored-enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 5
+            PROTECTION_FALL: 3
+            KNOCKBACK: 5
+      '35':
+        type: DIAMOND
+        amount: 14
+      '37':
+        type: IRON_LEGGINGS
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §rMagnesium Leggings
+          lore:
+          - §6Slots 4
+          - §7Flame Cloak I
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 5
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 356
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eUnbelievable Tool
+          enchants:
+            DAMAGE_ALL: 8
+            LOOT_BONUS_MOBS: 5
+            PROTECTION_EXPLOSIONS: 3
+  '5':
+    Time: 1479728441242
+    Killer: Arrow
+    DeathReasson: Projectile
+    Exp: 13482
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 34329
+        Amplifier: 1
+      '2':
+        Name: INCREASE_DAMAGE
+        Duration: 252
+        Amplifier: 6
+    Location:
+      world: world
+      x: 597.7763816105399
+      y: 89.0
+      z: -408.84750400030896
+      pitch: -10.349953
+      yaw: 15.402832
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 541
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Awkward Lump
+          lore:
+          - §c- Glowing 4
+          - §c- Jump 3
+          enchants:
+            WATER_WORKER: 1
+      '1':
+        type: DIAMOND_SWORD
+        damage: 183
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Herobrine's Lion
+          lore:
+          - §e+ Increase Damage 7
+          enchants:
+            ARROW_DAMAGE: 6
+            SILK_TOUCH: 2
+            PROTECTION_EXPLOSIONS: 7
+            ARROW_INFINITE: 7
+      '2':
+        type: BOW
+        damage: 150
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §b- Harm 3
+          enchants:
+            ARROW_DAMAGE: 6
+            ARROW_KNOCKBACK: 2
+            ARROW_FIRE: 1
+            ARROW_INFINITE: 1
+          repair-cost: 3
+      '3':
+        type: COOKED_CHICKEN
+        amount: 45
+      '4':
+        type: COOKED_BEEF
+        amount: 10
+      '5':
+        type: STRING
+        amount: 4
+      '6':
+        type: DIAMOND
+        amount: 8
+      '7':
+        type: TORCH
+        amount: 29
+      '8':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '9':
+        type: SPIDER_EYE
+      '10':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §aInfused Magnet
+          lore:
+          - ''
+          - §rMagical infused Magnets
+          - §rattract nearby Items
+          - §ras long as it is somewhere in
+          - §ryour Inventory
+          - ''
+          - §7Hold §eShift§7 to pick up nearby Items
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JwAjIwkUjrQ6RsXgBYcflN4IzahAa4Ln6gGXZ5XfO+VQAFd52l1aI7/p2KgUq8MwKeM/S3KEzdLS8mNna1CFEm1lItdQsqK0XORo2VUEdT3esmxIfE1Aa7Jq2xocKAE8KvIapaBF+sfdIcjyT4uiJvGfWuPc7IjasutvsGvbZgllMjn71Ya17519rNmlkiph65+QatJkMyZpuBa62ei4PP3HknTfLsIyHbcXl59Tf54PvXggfAnMTeZIbhy5xQ8EHLpMoMOLhq4wrr/Ldke8vRuL6ehKxjsug527c+csDZVfdOQXzOYACLzyVCJPFbnGrcV1mAH937CBNLgEAAA==
+          skull-owner: CSCoreLib
+      '11':
+        type: ENCHANTMENT_TABLE
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §5Auto Enchanter
+          lore:
+          - ''
+          - §aMedium Machine
+          - '§8⇨ §7Speed: 1x'
+          - §8⇨ §e⚡ §718 J/s
+          blockMaterial: ENCHANTMENT_TABLE
+      '12':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §7Tome of Analizing
+          lore:
+          - ''
+          - §eRight Click §7to analize Items
+      '13':
+        type: BONE
+      '14':
+        type: GOLD_NUGGET
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '15':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rBurrito
+          lore:
+          - ''
+          - §7§oRestores §b§o9.0 §7§oHunger
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JaEt7JsxMcYB6pSdNiBXIRhUIPQOn5VP7Esuzw556gAKrzt6l6Iz/ZSVAIVeCY5vGOB2cSxCi23J7ZmO46teUfD04qJa3ljE130dBXUYbpi21V4G4HS4b3rW7ypAPCkwGucih7hF+VKTw6lnh9W4iiJO3C000VI+HVMzrHMpsQlzeCXH+5aev9ap0v3jmDWqkzOmz5rYn1tbQUut8ax+fpmEbUDc2ZSPheUM5NGJzOJ2E/ATw/6qGWyJzJ4bAVriKQ8rqi/sQNelozXRhjNrMDcOMmC3kN/XocLJkOfVcXB8AAUeAnSBmE03U0vLa6rDOAPZz/P2SoBAAA=
+          skull-owner: CSCoreLib
+      '16':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nCorruption IV
+          lore:
+          - §lRune of Corruption IV
+          - §a6% Success Rate and §c94% Destroy Rate.
+          - §6Axe Enchant
+          - §7Place the Rune on a axe to enchant.
+      '19':
+        type: DIAMOND_CHESTPLATE
+        damage: 392
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eUnbelievable Tool
+          enchants:
+            DAMAGE_ALL: 8
+            LOOT_BONUS_MOBS: 5
+            PROTECTION_EXPLOSIONS: 3
+      '29':
+        type: ARROW
+        amount: 4
+      '33':
+        type: WATER_BUCKET
+      '34':
+        type: LAVA_BUCKET
+      '35':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §aUnholy Monster
+          custom-effects:
+          - ==: PotionEffect
+            effect: 14
+            duration: 400
+            amplifier: 2
+            ambient: true
+            has-particles: true
+          - ==: PotionEffect
+            effect: 16
+            duration: 1000
+            amplifier: 2
+            ambient: true
+            has-particles: true
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 351
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bRuby Skill
+          lore:
+          - §a- Heal 2
+          - §e- Increase Damage 8
+          enchants:
+            DEPTH_STRIDER: 4
+            DAMAGE_ALL: 7
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 131
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Wizard
+          lore:
+          - §c- Slow 5
+          enchants:
+            DEPTH_STRIDER: 2
+            THORNS: 4
+      '38':
+        type: ELYTRA
+        damage: 14
+  '6':
+    Time: 1479728531975
+    Killer: xXMizuchiXx
+    DeathReasson: Entity attack
+    Exp: 13641
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: GLOWING
+        Duration: 200
+        Amplifier: 1
+      '2':
+        Name: INCREASE_DAMAGE
+        Duration: 3
+        Amplifier: 6
+    Location:
+      world: world
+      x: 575.9204766930301
+      y: 66.5
+      z: -374.0947661449984
+      pitch: -5.6999736
+      yaw: 178.60272
+    Items:
+      '0':
+        type: DIAMOND_AXE
+        damage: 541
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Awkward Lump
+          lore:
+          - §c- Glowing 4
+          - §c- Jump 3
+          enchants:
+            WATER_WORKER: 1
+      '1':
+        type: DIAMOND_SWORD
+        damage: 183
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Herobrine's Lion
+          lore:
+          - §e+ Increase Damage 7
+          enchants:
+            ARROW_DAMAGE: 6
+            SILK_TOUCH: 2
+            PROTECTION_EXPLOSIONS: 7
+            ARROW_INFINITE: 7
+      '2':
+        type: BOW
+        damage: 154
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - §b- Harm 3
+          enchants:
+            ARROW_DAMAGE: 6
+            ARROW_KNOCKBACK: 2
+            ARROW_FIRE: 1
+            ARROW_INFINITE: 1
+          repair-cost: 3
+      '3':
+        type: DIAMOND
+        amount: 8
+      '4':
+        type: SKULL_ITEM
+        damage: 3
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §aInfused Magnet
+          lore:
+          - ''
+          - §rMagical infused Magnets
+          - §rattract nearby Items
+          - §ras long as it is somewhere in
+          - §ryour Inventory
+          - ''
+          - §7Hold §eShift§7 to pick up nearby Items
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JwAjIwkUjrQ6RsXgBYcflN4IzahAa4Ln6gGXZ5XfO+VQAFd52l1aI7/p2KgUq8MwKeM/S3KEzdLS8mNna1CFEm1lItdQsqK0XORo2VUEdT3esmxIfE1Aa7Jq2xocKAE8KvIapaBF+sfdIcjyT4uiJvGfWuPc7IjasutvsGvbZgllMjn71Ya17519rNmlkiph65+QatJkMyZpuBa62ei4PP3HknTfLsIyHbcXl59Tf54PvXggfAnMTeZIbhy5xQ8EHLpMoMOLhq4wrr/Ldke8vRuL6ehKxjsug527c+csDZVfdOQXzOYACLzyVCJPFbnGrcV1mAH937CBNLgEAAA==
+          skull-owner: CSCoreLib
+      '5':
+        type: ENCHANTMENT_TABLE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §5Auto Enchanter
+          lore:
+          - ''
+          - §aMedium Machine
+          - '§8⇨ §7Speed: 1x'
+          - §8⇨ §e⚡ §718 J/s
+          blockMaterial: ENCHANTMENT_TABLE
+      '6':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §7Tome of Analizing
+          lore:
+          - ''
+          - §eRight Click §7to analize Items
+      '7':
+        type: BONE
+      '8':
+        type: GOLD_NUGGET
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eChunk of Luck§r
+          lore:
+          - §7§oCurrency§r
+          enchants:
+            DURABILITY: 1
+          repair-cost: 2147483647
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+      '9':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rBurrito
+          lore:
+          - ''
+          - §7§oRestores §b§o9.0 §7§oHunger
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JaEt7JsxMcYB6pSdNiBXIRhUIPQOn5VP7Esuzw556gAKrzt6l6Iz/ZSVAIVeCY5vGOB2cSxCi23J7ZmO46teUfD04qJa3ljE130dBXUYbpi21V4G4HS4b3rW7ypAPCkwGucih7hF+VKTw6lnh9W4iiJO3C000VI+HVMzrHMpsQlzeCXH+5aev9ap0v3jmDWqkzOmz5rYn1tbQUut8ax+fpmEbUDc2ZSPheUM5NGJzOJ2E/ATw/6qGWyJzJ4bAVriKQ8rqi/sQNelozXRhjNrMDcOMmC3kN/XocLJkOfVcXB8AAUeAnSBmE03U0vLa6rDOAPZz/P2SoBAAA=
+          skull-owner: CSCoreLib
+      '10':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nCorruption IV
+          lore:
+          - §lRune of Corruption IV
+          - §a6% Success Rate and §c94% Destroy Rate.
+          - §6Axe Enchant
+          - §7Place the Rune on a axe to enchant.
+      '11':
+        type: COOKED_BEEF
+        amount: 10
+      '12':
+        type: ARROW
+        amount: 5
+      '13':
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §aUnholy Monster
+          custom-effects:
+          - ==: PotionEffect
+            effect: 14
+            duration: 400
+            amplifier: 2
+            ambient: true
+            has-particles: true
+          - ==: PotionEffect
+            effect: 16
+            duration: 1000
+            amplifier: 2
+            ambient: true
+            has-particles: true
+      '14':
+        type: STRING
+        amount: 4
+      '15':
+        type: TORCH
+        amount: 29
+      '16':
+        type: ELYTRA
+        damage: 14
+      '17':
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§nThief II
+          lore:
+          - §lRune of Thief II
+          - §a59% Success Rate and §c41% Destroy Rate.
+          - §6Weapon Enchant
+          - §7Place the Rune on any weapon to enchant.
+      '18':
+        type: COOKED_CHICKEN
+        amount: 45
+      '19':
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §eSlimefun Guide §7(Right Click)
+          lore:
+          - §2
+          - §rThis is your basic Guide for Slimefun
+          - §rYou can see all Items added by this Plugin
+          - §ror its Addons including their Recipes
+          - §ra bit of information and more
+      '20':
+        type: SPIDER_EYE
+      '21':
+        type: WATER_BUCKET
+      '22':
+        type: LAVA_BUCKET
+      '36':
+        type: DIAMOND_BOOTS
+        damage: 361
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bRuby Skill
+          lore:
+          - §a- Heal 2
+          - §e- Increase Damage 8
+          enchants:
+            DEPTH_STRIDER: 4
+            DAMAGE_ALL: 7
+      '37':
+        type: DIAMOND_LEGGINGS
+        damage: 144
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEnchanted Wizard
+          lore:
+          - §c- Slow 5
+          enchants:
+            DEPTH_STRIDER: 2
+            THORNS: 4
+      '38':
+        type: DIAMOND_CHESTPLATE
+        damage: 402
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eUnbelievable Tool
+          enchants:
+            DAMAGE_ALL: 8
+            LOOT_BONUS_MOBS: 5
+            PROTECTION_EXPLOSIONS: 3

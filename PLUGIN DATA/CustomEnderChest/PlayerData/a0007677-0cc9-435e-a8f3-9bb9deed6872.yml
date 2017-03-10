@@ -1,0 +1,78 @@
+PlayerLastName: johanzetterberg
+EnderChestSize: 18
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rPopcorn
+      lore:
+      - ''
+      - §7§oRestores §b§o4.0 §7§oHunger
+      internal: H4sIAAAAAAAAAE2LzW6CQBhFvzZtgqSP0S3JAGUKCxeNpjrEGSuCyuz4GQI4owbBAs/VB6zddXnPOVcH0OFle+yk/GrORSWFBo8kh1eEsOtmRWF4NhbGm+1iI0WJaVh5WtieWyQiwTro99NFNG0lrhPQWtG3XSOuOgA8aPC8S2Qn4EcMPuKHEuUHX2YDwfcdbpFck/ryTk67IZ0RTNTdLz/wavD+tU6b7B0Z237JT5suVTu0sgMploGZqehGw43DLNKzeV5z9SlZSAY6j8x1mCs2+pJaFPF9bNI66qmKHFZnNp2Tbx4GFVvwko1/nI7xyMvYCo7rBe3JyfSKzXQKoMETS5SAyWw7OzdiVaUAv8mYGuouAQAA
+      skull-owner: CSCoreLib
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: §rCow Head
+      internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkQB51aaTqEBnrA3DYAV4rMKMGoQJf1U8syy5PzjkqgApvu7IR4qu6nnKBCjzTI7yTlKT6h51ojm2gZp7MiZY4lq2hYVmOSVAnZqaCOkw3rOoc7yNQamzrpsK7CgBPCryGiWgQfrHzSHw4k+PBE1lH7YH3OyLWtLg59BJ26YzaVA5+ObVX3eRfa9VJZAk+9s7xZdOkMiSr8VbgcqtnMvhh0cbgfSzixafFXE8yg+txkbW891tWzAvW+w8mOeFRWPr9dBy7393aLYdGlL6kD2bMc+YGHdtn7XoRlrwP8tNBnwAo8MISiTCa7WbXCld5CvAH4UJI9ioBAAA=
+      skull-owner: CSCoreLib
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Aluminum Dust
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_CHICKEN
+    amount: 16
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aCooked Chicken
+      enchants:
+        DAMAGE_UNDEAD: 65535
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: RAW_CHICKEN
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE
+    damage: 3
+    amount: 16
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE
+    damage: 1
+    amount: 16
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIRT
+    amount: 7
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    amount: 3
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HOE
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    type: GLOWSTONE_DUST
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Gold Dust

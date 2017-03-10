@@ -1,0 +1,492 @@
+# 
+# This example file shows you how to set up special items
+# for your mobs to equip or drop.
+ianjkHead:
+  Id: 397
+  Data: 3
+  Amount: 1
+  Display: '.'
+  Options:
+    Player: ianjk
+BlackHelmet:
+  Id: 298
+  Data: 0
+  Amount: 1
+  Options:
+    Color: 0,0,0
+BlackChest:
+  Id: 299
+  Data: 0
+  Amount: 1
+  Options:
+    Color: 0,0,0
+KarazschHead:
+  Id: 397
+  Data: 3
+  Options:
+    SkinTexture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTQ0OTY1YzI0NjlhM2M2OGM5N2I1NzU0OWZiNDFhOTkwYTJlNmQ2NDFiNTZhYWY0Y2M1MjM2MGIxOThmYjRjIn19fQ
+Nhat:
+  Id: 298
+  Data: 0
+  Display: '&4Hood of Bongo Bongo'
+  Lore:
+  - '&6The Hood of Bongo Bongo'
+  Enchantments:
+  - PROTECTION_PROJECTILE:10
+  - OXYGEN:5
+  Options:
+    Color: 0,0,0
+    Health: 5
+    Unbreakable: true
+Nchest:
+  Id: 299
+  Data: 0
+  Display: '&4Tunic of Bongo Bongo'
+  Lore:
+  - '&6The Tunic of Bongo Bongo'
+  Enchantments:
+  - PROTECTION_FIRE:10
+  - THORNS:5
+  Options:
+    Color: 0,0,0
+    Health: 15
+    Unbreakable: true
+Npants:
+  Id: 300
+  Data: 0
+  Display: '&4Leggings of Bongo Bongo'
+  Lore:
+  - '&6The Leggings of Bongo Bongo'
+  Enchantments:
+  - PROTECTION_EXPLOSIONS:10
+  - THORNS:5
+  Options:
+    Color: 0,0,0
+    Health: 5
+    Unbreakable: true
+Nboots:
+  Id: 301
+  Data: 0
+  Display: '&4Feet of Bongo Bongo'
+  Lore:
+  - '&6The Feet of Bongo Bongo'
+  Enchantments:
+  - PROTECTION_FALL:10
+  - DEPTH_STRIDER:5
+  Options:
+    Color: 0,0,0
+    Health: 5
+    Unbreakable: true
+Nwand:
+  Id: 294
+  Data: 0
+  Display: '&4Staff of Bongo Bongo'
+  Lore:
+  - '&6The Staff of Bongo Bongo'
+  Enchantments:
+  - DAMAGE_ALL:15
+  - KNOCKBACK:2
+  Options:
+    Unbreakable: true
+Nbook:
+  Id: 387
+  Data: 0
+  Display: '&4Tome of Bongo Bongo'
+  Lore:
+  - '&6The Tome of Bongo Bongo'
+  Enchantments:
+  - LOOT_BONUS_MOBS:20
+  - KNOCKBACK:10
+  Options:
+    Health: 40
+    Unbreakable: true
+SkeletonKingSword:
+  Id: 276
+  Data: 0
+  Display: '&3King''s Sword'
+  Lore:
+  - '&6A powerful sword used by'
+  - '&6the King of Skeletons.'
+  Enchantments:
+  - DAMAGE_ALL:5
+  - KNOCKBACK:2
+  - FIRE_ASPECT:2
+  Options:
+    Health: 10
+    MovementSpeed: 0.1
+KingsCrown:
+  Id: 298
+  Data: 0
+  Amount: 1
+  Display: '&dCrown of the King'
+  Lore:
+  - '&6A kingly crown that grants'
+  - '&6the wearer unwavering power!'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:3
+  - PROTECTION_PROJECTILE:3
+  - PROTECTION_FIRE:3
+  - PROTECTION_EXPLOSIONS:3
+  Options:
+    Color: 245,240,52
+    Health: 10
+    KnockbackResistance: 10
+BongosShield:
+  Id: shield
+  Display: '&dKings Shield'
+  Lore:
+  - '&6A kingly shield that grants'
+  - '&6the holder unwavering power!'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:3
+  - PROTECTION_PROJECTILE:3
+  - PROTECTION_FIRE:3
+  - PROTECTION_EXPLOSIONS:3
+  Options:
+    Color: RED
+  BannerLayers:
+  - WHITE CURLY_BORDER
+  - WHITE STRIPE_CENTER
+  - BLACK STRIPE_BOTTOM
+  - WHITE CREEPER
+  - BLUE STRIPE_TOP
+  - BLACK TRIANGLES_TOP
+KingsShield:
+  Id: shield
+  Display: '&dKings Shield'
+  Lore:
+  - '&6A kingly shield that grants'
+  - '&6the holder unwavering power!'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:3
+  - PROTECTION_PROJECTILE:3
+  - PROTECTION_FIRE:3
+  - PROTECTION_EXPLOSIONS:3
+  Options:
+    Color: RED
+  BannerLayers:
+  - WHITE CURLY_BORDER
+  - WHITE STRIPE_CENTER
+  - BLACK STRIPE_BOTTOM
+  - WHITE CREEPER
+  - YELLOW STRIPE_TOP
+  - BLACK TRIANGLES_TOP
+KingsBoots:
+  Id: 317
+  Data: 0
+  Amount: 1
+  Display: '&Boots of the King'
+  Lore:
+  - '&6A kingly set of boots that grants'
+  - '&6the wearer unwavering power!'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:3
+  - PROTECTION_PROJECTILE:3
+  - PROTECTION_FIRE:3
+  - PROTECTION_EXPLOSIONS:3
+  Options:
+    Health: 10
+    KnockbackResistance: 10
+KingsChestplate:
+  Id: 315
+  Data: 0
+  Amount: 1
+  Display: '&Chestplate of the King'
+  Lore:
+  - '&6A kingly set of boots that grants'
+  - '&6the wearer unwavering power!'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:3
+  - PROTECTION_PROJECTILE:3
+  - PROTECTION_FIRE:3
+  - PROTECTION_EXPLOSIONS:3
+  Options:
+    Health: 10
+    KnockbackResistance: 10
+ChainMailHelmet:
+  Id: 302
+  Data: 0
+  Amount: 1
+  Display: '&Skeletal Helmet'
+  Lore:
+  - '&6A helmet that grants'
+  - '&6the wearer unwavering power!'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:3
+  - PROTECTION_PROJECTILE:3
+  - PROTECTION_FIRE:3
+  - PROTECTION_EXPLOSIONS:3
+  Options:
+    Health: 10
+    KnockbackResistance: 10
+KingsLeggings:
+  Id: 316
+  Data: 0
+  Amount: 1
+  Display: '&Leggings of the King'
+  Lore:
+  - '&6A kingly set of boots that grants'
+  - '&6the wearer unwavering power!'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:3
+  - PROTECTION_PROJECTILE:3
+  - PROTECTION_FIRE:3
+  - PROTECTION_EXPLOSIONS:3
+  Options:
+    Health: 10
+    KnockbackResistance: 10
+stratocap:
+  Id: 397
+  Data: 3
+  Amount: 1
+  Display: stratocap
+  Options:
+    Player: stratocap
+Artifrost:
+  Id: 352
+  Data: 0
+  Amount: 1
+  Display: '&5Artifact of Frost'
+Artidestruct:
+  Id: 352
+  Data: 0
+  Amount: 1
+  Display: '&5Artifact of Destruction'
+Artifire:
+  Id: 352
+  Data: 0
+  Amount: 1
+  Display: '&5Artifact of Fire'
+Artilife:
+  Id: 340
+  Data: 0
+  Amount: 1
+  Display: '&5Artifact of Life'
+Artiblink:
+  Id: 340
+  Data: 0
+  Amount: 1
+  Display: '&5Artifact of Blink'
+Articripple:
+  Id: 340
+  Data: 0
+  Amount: 1
+  Display: '&5Artifact of Cripple'
+Artideath:
+  Id: 352
+  Data: 0
+  Amount: 1
+  Display: '&5Artifact of Death'
+Artidrain:
+  Id: 340
+  Data: 0
+  Amount: 1
+  Display: '&5Artifact of Drain'
+Artientomb:
+  Id: 352
+  Data: 0
+  Amount: 1
+  Display: '&5Artifact of &3Entomb'
+Artisun:
+  Id: 340
+  Data: 0
+  Amount: 1
+  Display: '&5Artifact of the &eSun'
+Articleanse:
+  Id: 340
+  Data: 0
+  Amount: 1
+  Display: '&5Artifact of &2Cle&aanse'
+boswer_jr:
+  Id: 397
+  Data: 3
+  Amount: 1
+  Display: boswer_jr
+  Options:
+    Player: boswer_jr
+Krakenbow:
+  Id: 261
+  Data: 0
+  Amount: 1
+  Display: '&2Slimey &6Harpoon&2 of the &5Kraken'
+  Lore:
+  - '&3+1% Dodge'
+  - '&6Release the Kraken inside!'
+  - '&cDeath to all &3Squid!'
+  Enchantments:
+  - ARROW_FIRE:1
+  - ARROW_DAMAGE:4
+  - ARROW_KNOCKBACK:2
+Lordsword:
+  Id: 276
+  Data: 0
+  Display: '&6cGreatsword &6of the &eMajestic'
+  Enchantments:
+  - DAMAGE_ALL:4
+  - KNOCKBACK:2
+  - FIRE_ASPECT:1
+  - DURABILITY:1
+  - LOOT_BONUS_MOBS:1
+Saintsword:
+  Id: 276
+  Data: 0
+  Display: '&5Donation &dGreatsword &5of the &dSaint'
+  Lore:
+  Enchantments:
+  - DAMAGE_ALL:5
+  - FIRE_ASPECT:2
+  - DURABILITY:1
+  - LOOT_BONUS_MOBS:2
+JackEquip:
+  Drops:
+  - 346:0:1:0 1
+  - Jackchest:3 1
+  - 312:0:1:2 1
+  - 313:0:1:1 1
+Hawaiian29:
+  Id: 397
+  Data: 3
+  Amount: 1
+  Display: Hawaiian29
+  Options:
+    Player: Hawaiian29
+aidantristan:
+  Id: 397
+  Data: 3
+  Amount: 1
+  Display: aidantristan
+  Options:
+    Player: aidantristan
+Herobrine:
+  Id: 397
+  Data: 3
+  Amount: 1
+  Display: Herobrine
+  Options:
+    Player: Herobrine
+Jackchest:
+  Id: 299
+  Options:
+    Color: 255,40,40
+bradleynegs:
+  Id: 397
+  Data: 3
+  Amount: 1
+  Display: bradleynegs
+  Options:
+    Player: bradleynegs
+DwellersHat:
+  Id: 314
+  Data: 0
+  Amount: 1
+  Display: '&4Dwellers &6Mining &4Cap'
+  Lore:
+  - '&a+3 Health'
+  - '&3+1% Dodge'
+  - '&6+2% Critical Chance'
+  - '&c+5 Critical Damage'
+  - '&6This amazing cap gives the wearer unwavering &4Power'
+  - '&cDwellers Set'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_PROJECTILE:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_EXPLOSIONS:4
+VanillaSkeletonHat:
+  Id: 306
+  Data: 0
+  Amount: 1
+  Display: '&4Cap &6Of &4Infinite'
+  Lore:
+  - '&a+3 Health'
+  - '&3+1% Dodge'
+  - '&6+2% Critical Chance'
+  - '&c+5 Critical Damage'
+  - '&6This amazing cap gives the wearer unwavering &4Power'
+  - '&cDwellers Set'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_PROJECTILE:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_EXPLOSIONS:4
+DwellersChest:
+  Id: 314
+  Data: 0
+  Amount: 1
+  Display: '&4Dwellers &6Mining &4Garb'
+  Lore:
+  - '&a+3 Health'
+  - '&3+1% Dodge'
+  - '&6+2% Critical Chance'
+  - '&c+5 Critical Damage'
+  - '&6This amazing chestplate gives the wearer unwavering &4Power'
+  - '&cDwellers Set'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_PROJECTILE:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_EXPLOSIONS:4
+DwellersSkirt:
+  Id: 314
+  Data: 0
+  Amount: 1
+  Display: '&4Dwellers &6Mining &4Skirt'
+  Lore:
+  - '&a+3 Health'
+  - '&3+1% Dodge'
+  - '&6+2% Critical Chance'
+  - '&c+5 Critical Damage'
+  - '&d+1 Soul Leech'
+  - '&6This amazing skirt gives the wearer unwavering &4Power'
+  - '&cDwellers Set'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_PROJECTILE:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_EXPLOSIONS:4
+DwellersShoes:
+  Id: 317
+  Data: 0
+  Amount: 1
+  Display: '&4Dwellers &6Mining &4Shoes!'
+  Lore:
+  - '&a+3 Health'
+  - '&3+1% Dodge'
+  - '&6+2% Critical Chance'
+  - '&c+5 Critical Damage'
+  - '&6These amazing boots give the wearer unwavering &4Power'
+  - '&cDwellers Set'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_PROJECTILE:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_EXPLOSIONS:4
+VanillaSkeletonShoes:
+  Id: 309
+  Data: 0
+  Amount: 1
+  Display: '&4Boots &6of &4Infinite'
+  Lore:
+  - '&a+3 Health'
+  - '&3+1% Dodge'
+  - '&6+2% Critical Chance'
+  - '&c+5 Critical Damage'
+  - '&6These amazing boots give the wearer unwavering &4Power'
+  - '&cDwellers Set'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_PROJECTILE:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_EXPLOSIONS:4
+DwellersAxe:
+  Id: 279
+  Data: 0
+  Display: '&4Dwellers &6Mining &4Axe &6of Maiming'
+  Lore:
+  - '&3+1% Dodge'
+  - '&6This amazing axe gives the wearer unwavering &4Power'
+  - '&cDwellers Set'
+  Enchantments:
+  - DAMAGE_ALL:6
+  - FIRE_ASPECT:2
+  - DIG_SPEED:5

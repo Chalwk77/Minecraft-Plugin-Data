@@ -1,0 +1,364 @@
+{
+  "signs": [
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -210.0
+      },
+      "type": "TOPVOTER",
+      "index": 1
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -209.0
+      },
+      "type": "TOPVOTER",
+      "index": 2
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -208.0
+      },
+      "type": "TOPVOTER",
+      "index": 3
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -207.0
+      },
+      "type": "TOPVOTER",
+      "index": 4
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -206.0
+      },
+      "type": "TOPVOTER",
+      "index": 5
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -205.0
+      },
+      "type": "TOPVOTER",
+      "index": 6
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -204.0
+      },
+      "type": "TOPVOTER",
+      "index": 7
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -203.0
+      },
+      "type": "TOPVOTER",
+      "index": 8
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -216.0
+      },
+      "type": "TOPPLAYER",
+      "index": 1
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -217.0
+      },
+      "type": "TOPPLAYER",
+      "index": 2
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -218.0
+      },
+      "type": "TOPPLAYER",
+      "index": 3
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -219.0
+      },
+      "type": "TOPPLAYER",
+      "index": 4
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -220.0
+      },
+      "type": "TOPPLAYER",
+      "index": 5
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -221.0
+      },
+      "type": "TOPPLAYER",
+      "index": 6
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -222.0
+      },
+      "type": "TOPPLAYER",
+      "index": 7
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -223.0
+      },
+      "type": "TOPPLAYER",
+      "index": 8
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -224.0
+      },
+      "type": "TOPPLAYER",
+      "index": 9
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -202.0
+      },
+      "type": "TOPVOTER",
+      "index": 9
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -224.0
+      },
+      "type": "NEWMEMBER",
+      "index": 1
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -223.0
+      },
+      "type": "NEWMEMBER",
+      "index": 2
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -222.0
+      },
+      "type": "NEWMEMBER",
+      "index": 3
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -221.0
+      },
+      "type": "NEWMEMBER",
+      "index": 4
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -220.0
+      },
+      "type": "NEWMEMBER",
+      "index": 5
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -219.0
+      },
+      "type": "NEWMEMBER",
+      "index": 6
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -218.0
+      },
+      "type": "NEWMEMBER",
+      "index": 7
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -217.0
+      },
+      "type": "NEWMEMBER",
+      "index": 8
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 482.0,
+        "y": 89.0,
+        "z": -216.0
+      },
+      "type": "NEWMEMBER",
+      "index": 9
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -202.0
+      },
+      "type": "DONATION",
+      "index": 1
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -203.0
+      },
+      "type": "DONATION",
+      "index": 2
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -204.0
+      },
+      "type": "DONATION",
+      "index": 3
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -205.0
+      },
+      "type": "DONATION",
+      "index": 4
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -206.0
+      },
+      "type": "DONATION",
+      "index": 5
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -207.0
+      },
+      "type": "DONATION",
+      "index": 6
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -208.0
+      },
+      "type": "DONATION",
+      "index": 7
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -209.0
+      },
+      "type": "DONATION",
+      "index": 8
+    },
+    {
+      "location": {
+        "world": "world",
+        "x": 472.0,
+        "y": 89.0,
+        "z": -210.0
+      },
+      "type": "DONATION",
+      "index": 9
+    }
+  ]
+}

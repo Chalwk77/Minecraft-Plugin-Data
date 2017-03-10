@@ -1,0 +1,33 @@
+lastlocation:
+  world: world
+  x: 482.10194998887715
+  y: 88.0
+  z: -170.5906470701562
+  yaw: 200.04987
+  pitch: 39.44998
+lastAccountName: DragonicAngel
+timestamps:
+  login: 1475120686322
+  logout: 1475120692621
+  lastteleport: 1474774467196
+  kits:
+    citizen: 1473416715072
+    tools: 1473416671305
+ipAddress: 120.155.117.73
+geolocation: Australia
+money: '7137.0789999999998413'
+logoutlocation:
+  world: world_nether
+  x: 33.93981346265161
+  y: 60.0
+  z: 24.221067913643033
+  yaw: 173.4071
+  pitch: 1.3259798
+homes:
+  home:
+    world: world
+    x: -28113.5636614995
+    y: 67.0
+    z: 23319.153235944883
+    yaw: 308.7931
+    pitch: 56.222824

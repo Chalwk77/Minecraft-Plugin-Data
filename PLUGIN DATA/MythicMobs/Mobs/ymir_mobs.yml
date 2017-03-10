@@ -1,0 +1,492 @@
+################################################
+### ymir related
+ymir:
+  Type: giant
+  Display: '&bYmir'
+  Health: 900
+  Damage: 20
+  Faction: ymir
+  Options:
+    Despawn: false
+    MovementSpeed: 0.2
+    KnockbackResistance: 100
+    FollowRange: 35
+    MaximumCombatDistance: 45
+  Equipment:
+  - ymir_helmet:4
+  - ymir_chestplate:3
+  - ymir_leggings:2
+  - ymir_boots:1
+  - ymir_weapon:0
+  DamageModifiers:
+  - ENTITY_ATTACK 1.1
+  - ENTITY_EXPLOSION 0
+  - PROJECTILE 0.11
+  - FALL 0
+  - FIRE_TICK 0
+  - FIRE 0
+  - LAVA 0
+  AIGoalSelectors:
+  - 0 clear
+  - 1 MeleeAttack
+  - 2 MoveTowardsTarget
+  - 3 LookAtPlayers
+  - 4 Float
+  AITargetSelectors:
+  - 0 clear
+  - 1 attacker
+  - 2 players
+  Skills:
+  - skill{sync=true;s=ymir_initialisation} @self ~onSpawn
+  - skill{sync=true;s=ymir_misc_engine} @self ~onTimer:5
+  - skill{sync=true;s=ymir_battle_skill_engine} @self ~onTimer:5
+  - skill{sync=true;s=ymir_on_attack_core} ~onAttack
+  - skill{sync=true;s=ymir_on_damaged_core} @self ~onDamaged
+  - skill{sync=true;s=ymir_death_1} @self ~onDeath
+ymir_dummy:
+  Type: giant
+  Display: '&7YMIR DUMMY'
+  Health: 2000
+  Damage: 0
+  Options:
+    Silent: true
+    Despawn: false
+    MovementSpeed: 0
+    KnockbackResistance: 100
+  Skills:
+  - skill{sync=true;s=ymir_death_2} @PlayersInRadius{radius=50} ~onSpawn
+  Equipment:
+  - ymir_helmet:4
+  - ymir_chestplate:3
+  - ymir_leggings:2
+  - ymir_weapon:0
+  AIGoalSelectors:
+  - 0 clear
+  - 1 LookAtPlayers
+  AITargetSelectors:
+  - 0 clear
+################################################
+### protective wisps
+ymir_wisp1:
+  Type: blaze
+  Health: 10
+  Damage: 1
+  Options:
+    MovementSpeed: 0.5
+    FollowRange: 100
+    Silent: true
+    Despawn: false
+    PreventOtherDrops: true
+  Disguise:
+    Type: cow
+    ShowName: false
+  DamageModifiers:
+  - PROJECTILE 100
+  - ENTITY_ATTACK 0
+  - DROWNING 0
+  - LIGHTNING 0
+  - MAGIC 0
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 movetowardstarget
+  AITargetSelectors:
+  - 0 clear
+  - 1 specificfactionmonsters ymir
+  Skills:
+  - setstance{stance=Practical_Calm} @self ~onSpawn
+  - setstance{stance=PreCombat_Phase1_Wavetoggler} @MobsInRadius{radius=100;types=ymir} ~onDeath
+  - potion{type=INVISIBILITY;d=72000;l=1} @self ~onSpawn
+  - skill{sync=true;s=ymir_wisps_perimeter_skill_listener} @self ~onTimer:5
+ymir_wisp2:
+  Type: blaze
+  Health: 10
+  Damage: 1
+  Options:
+    MovementSpeed: 0.5
+    FollowRange: 100
+    Silent: true
+    Despawn: false
+    PreventOtherDrops: true
+  Disguise:
+    Type: cow
+    ShowName: false
+  DamageModifiers:
+  - PROJECTILE 100
+  - ENTITY_ATTACK 0
+  - DROWNING 0
+  - LIGHTNING 0
+  - MAGIC 0
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 movetowardstarget
+  AITargetSelectors:
+  - 0 clear
+  - 1 specificfactionmonsters ymir
+  Skills:
+  - skill{sync=true;s=ymir_initialisation_wisps} @self ~onSpawn
+  - skill{sync=true;s=ymir_initialisation_wisps_2} @self ~onTimer:5
+  - setstance{stance=PreCombat_Phase2_Wavetoggler} @MobsInRadius{radius=100;types=ymir} ~onDeath
+  - skill{sync=true;s=ymir_wisps_perimeter_skill_listener} @self ~onTimer:5
+ymir_wisp3:
+  Type: blaze
+  Health: 10
+  Damage: 1
+  Options:
+    MovementSpeed: 0.5
+    FollowRange: 100
+    Silent: true
+    Despawn: false
+    PreventOtherDrops: true
+  Disguise:
+    Type: cow
+    ShowName: false
+  DamageModifiers:
+  - PROJECTILE 100
+  - ENTITY_ATTACK 0
+  - DROWNING 0
+  - LIGHTNING 0
+  - MAGIC 0
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 movetowardstarget
+  AITargetSelectors:
+  - 0 clear
+  - 1 specificfactionmonsters ymir
+  Skills:
+  - skill{sync=true;s=ymir_initialisation_wisps} @self ~onSpawn
+  - skill{sync=true;s=ymir_initialisation_wisps_2} @self ~onTimer:5
+  - setstance{stance=PreCombat_Phase3_Wavetoggler} @MobsInRadius{radius=100;types=ymir} ~onDeath
+  - skill{sync=true;s=ymir_wisps_perimeter_skill_listener} @self ~onTimer:5
+################################################
+### ice block minion
+ymir_ibm:                                      
+  Type: Endermite
+  Display: '&bIce Block'
+  Health: 4
+  Damage: 16
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  Options:
+    Silent: true
+  Skills:
+  - skill{sync=true;s=ymir_iceblock_minion_initialisation} @self ~onSpawn
+  - skill{sync=true;s=ymir_dwa_stone_minion_fx} @self ~onCombat
+  - skill{sync=true;s=ymir_dwa_stone_minion_fx} @self ~onDeath
+  - effect:particles{p=blockcrack_174;a=15;hS=0.2;vS=0.1;v=1;y=0.5} @self ~onTimer:5
+ymir_ibmc:
+  Type: ARMOR_STAND
+  Options:
+    Invisible: true
+  Skills:
+  - skill{sync=true;s=ymir_iceblock_minion_check} @self ~onSpawn
+  - remove{delay=1} @self ~onSpawn
+ymir_ibmm:
+  Type: Bat
+  Options:
+    Silent: true
+  Skills:
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>Invulnerable<&co>1b<&rc>"} @self ~onSpawn
+  - potion{t=INVISIBILITY;d=400;l=0} @self ~onSpawn
+  - remove{delay=300} @self ~onSpawn
+################################################
+### dummies
+ymir_ibs:                                      # iceblock bomb summoning dummy
+  Type: armor_stand
+  Options:
+    Invisible: true
+  Skills:
+  - effect:particles{p=instantSpell;a=100;hS=1;vS=1;v=0;y=0} @self ~onTimer:5
+  - jump{v=4} @self ~onSpawn
+  - summon{m=ymir_ib;a=15;r=10;yn=10;yu=true;delay=45} @self ~onSpawn
+  - throw{v=10;vy=3;delay=46} @MobsInRadius{r=20;t=ymir_ib} ~onSpawn
+  - effect:particles{p=instantSpell;a=1000;hS=7;vS=7;v=0;y=0;delay=47} @self ~onSpawn
+  - effect:explosion{delay=48} @self ~onSpawn
+  - remove{delay=49} @self ~onSpawn
+ymir_ib:                                       # iceblock bomb
+  Type: creeper
+  Display: '&bYmir'
+  Health: 1
+  Damage: 20
+  DamageModifiers:
+  - ENTITY_EXPLOSION 0
+  - ENTITY_ATTACK 0
+  - PROJECTILE 0
+  - FALL 0
+  AITargetSelectors:
+  - 0 clear
+  Options:
+    Silent: true
+    PreventOtherDrops: true
+    FuseTicks: 20
+    ExplosionRadius: 5
+  Skills:
+  - disguise{d=block:ICE} @self ~onSpawn
+  - disguise{d=block:PACKED_ICE} @self ~onSpawn 0.5
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>ignited<&co>1b<&rc>";delay=30} @self ~onSpawn 0.5
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>ignited<&co>1b<&rc>";delay=35} @self ~onSpawn 0.625
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>ignited<&co>1b<&rc>";delay=40} @self ~onSpawn 0.75
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>ignited<&co>1b<&rc>";delay=45} @self ~onSpawn 0.875
+  - command{c="execute <target.uuid> ~ ~ ~ entitydata <target.uuid> <&lc>ignited<&co>1b<&rc>";delay=50} @self ~onSpawn 1
+  - remove{delay=70} @self ~onSpawn
+ymir_pl:                                       # primary loot dummy
+  Type: silverfish
+  Options:
+    Silent: true
+    PreventOtherDrops: true
+  Skills:
+  - potion{t=INVISIBILITY;d=72000;l=0} @self ~onSpawn
+  - suicide{delay=20} ~onSpawn
+  Drops:
+  - ymir_drops
+ymir_sl:                                       # secondary loot dummy 
+  Type: silverfish
+  Options:
+    Silent: true
+    PreventOtherDrops: true
+  Skills:
+  - potion{t=INVISIBILITY;d=72000;l=0} @self ~onSpawn
+  - suicide{delay=20} ~onSpawn
+  Drops:
+  - ymir_drops_xp
+ymir_alr:                                      # ambient lightning rod dummy
+  Type: armor_stand
+  Options:
+    Invisible: true
+  Skills:
+  - effect:lightning{delay=200} @self ~onSpawn
+  - remove{delay=201} @self ~onSpawn
+ymir_plr:                                      # practical lightning rod (30 ticks) dummy
+  Type: armor_stand
+  Display: '&bYmir'
+  KillMessages:
+  - '<target.name> was killed by &bYmir&r<&sq>s lightning attack.'
+  Options:
+    Invisible: true
+    Despawn: true
+    HasGravity: false
+  Skills:
+  - effect:lightning{delay=30} @PIR{r=3} ~onSpawn
+  - damage{a=10;i=false;delay=30} @PIR{r=3} ~onSpawn
+  - remove{delay=32} @self ~onSpawn
+ymir_ss:                                       # short slowness effect (6 seconds)
+  Type: armor_stand
+  Options:
+    Invisible: true
+  Skills:
+  - mounttarget{} @PlayersInRadius{r=1} ~onSpawn
+  - effect:sound{s=step.snow;v=2;p=0.5} @self ~onTimer:5 0.2
+  - effect:sound{s=step.snow;v=2;p=0.7} @self ~onTimer:5 0.1
+  - effect:particles{p=blockcrack_174;a=10;vS=0;hS=0.1;v=0;y=0.1} @self ~onTimer:5 0.9
+  - effect:particles{p=snowshovel;a=5;vS=0;hS=0.1;v=0;y=0.1} @self ~onTimer:5 0.9
+  - remove{delay=120} @self ~onSpawn
+ymir_ls:                                       # long slowness effect (12 seconds)
+  Type: armor_stand
+  Options:
+    Invisible: true
+  Skills:
+  - mounttarget{} @PlayersInRadius{r=1} ~onSpawn
+  - effect:sound{s=step.snow;v=2;p=0.5} @self ~onTimer:5 0.2
+  - effect:sound{s=step.snow;v=2;p=0.7} @self ~onTimer:5 0.1
+  - effect:particles{p=blockcrack_174;a=10;vS=0;hS=0.1;v=0;y=0.1} @self ~onTimer:5 0.9
+  - effect:particles{p=snowshovel;a=5;vS=0;hS=0.1;v=0;y=0.1} @self ~onTimer:5 0.9
+  - remove{delay=240} @self ~onSpawn
+ymir_it:                                       # frostbite dummy
+  Type: armor_stand
+  Options:
+    Invisible: true
+  Skills:
+  - skill{sync=true;s=ymir_frostbite} @self ~onSpawn
+################################################
+### dwarf related
+ymir_dwa:                                      # main dwarf
+  Type: skeleton
+  Display: '&7Dwarf'
+  Health: 100
+  Faction: dwa
+  Options:
+    Silent: true
+    MovementSpeed: 0.3
+    PreventOtherDrops: true
+    PreventItemPickup: true
+    KnockbackResistance: 0.6
+    ReinforcementsChance: 0
+  AIGoalSelectors:
+  - 0 clear
+  - 1 MeleeAttack
+  - 2 MoveTowardsTarget
+  - 3 RandomStroll
+  - 4 LookAtPlayers
+  - 5 Float
+  AITargetSelectors:
+  - 0 clear
+  - 1 Attacker
+  Equipment:
+  - NoRageIronPick:0
+  Skills:
+# initiation
+  - skill{sync=true;s=ymir_dwa_initiation} @self ~onSpawn
+  - skill{sync=true;s=ymir_dwa_target_manipulator} @self ~onDamaged
+# phase related
+  - skill{s=ymir_dwa_ragemode_check;sync=true} @self ~onDamaged <50%
+# fx / environmental
+  - skill{sync=true;s=ymir_dwa_hit_fx} @self ~onDamaged
+  - skill{sync=true;s=ymir_dwa_death_fx} @self ~onDeath
+  - effect:particles{particle=reddust;amount=25;vS=0.5;hS=0.5;Speed=0;yoffset=1} @self ~onTimer:20 <50%
+  - skill{sync=true;s=ymir_dwa_slowness} @self ~onTimer:5
+# combat skills
+  - skill{sync=true;s=ymir_dwa_stone_minion} @self ~onTimer:140 0.5
+  - skill{sync=true;s=ymir_dwa_random_powerpunch} @target ~onAttack 0.25
+  - skill{sync=true;s=ymir_dwa_random_poison} @target ~onAttack 0.2
+  Drops:
+  - money 500
+  - dwarfendrops
+ymir_dwa_w:                                    # dwarven warrior (minion)
+  Type: skeleton
+  Display: '&7&oDwarven Warrior'
+  Health: 60
+  Drops:
+  - money 500
+  Faction: dwa
+  Options:
+    MovementSpeed: 0.25
+    FollowRange: 100
+    PreventOtherDrops: true
+    Despawn: false
+  AIGoalSelectors:
+  - 0 clear
+  - 1 MeleeAttack
+  - 2 MoveTowardsTarget
+  - 3 Float
+  AITargetSelectors:
+  - 0 clear
+  - 1 attacker
+  - 2 players
+  Skills:
+# initiation
+  - skill{sync=true;s=ymir_dwa_w_initialisation} @self ~onSpawn
+  - skill{sync=true;s=ymir_dwa_m_ymir_enabler_engine} @MobsInRadius{r=150;t=ymir} ~onTimer:5
+# battle skills
+  - skill{sync=true;s=ymir_dwa_m_ragemode_phasecheck} @self ~onDamaged <50%
+  - skill{sync=true;s=ymir_dwa_stone_minion} @self ~onTimer:280 0.5
+# fx / environmental
+  - skill{sync=true;s=ymir_dwa_hit_fx} @selflocation ~onDamaged
+  - skill{sync=true;s=ymir_dwa_death_fx} @self ~onDeath
+  - effect:particles{p=reddust;a=20;vS=0.5;hS=0.5;v=0;y=1} @self ~onTimer:5 0.18 <50%
+ymir_dwa_a:                                    # dwarven archer (minion)
+  Type: Skeleton
+  Display: '&7&oDwarven Archer'
+  Health: 45
+  Damage: 1
+  Faction: dwa
+  Drops:
+  - money 500
+  Options:
+    MovementSpeed: 0.22
+    FollowRange: 100
+    Silent: true
+    PreventOtherDrops: true
+    Despawn: false
+  AIGoalSelectors:
+  - 0 clear
+  - 1 meleeattack
+  - 2 MoveTowardsTarget
+  - 3 Float
+  AITargetSelectors:
+  - 0 clear
+  - 1 attacker
+  - 2 players
+  Skills:
+# initiation
+  - skill{sync=true;s=ymir_dwa_a_initialisation} @self ~onSpawn
+  - skill{sync=true;s=ymir_dwa_m_ymir_enabler_engine} @MobsInRadius{r=150;t=ymir} ~onTimer:5
+# battle skills
+  - skill{sync=true;s=ymir_dwa_m_ragemode_phasecheck} @self ~onDamaged <50%
+  - skill{sync=true;s=ymir_dwa_a_archery_engine} @target ~onTimer:40
+# fx / environmental
+  - skill{sync=true;s=ymir_dwa_hit_fx} @selflocation ~onDamaged
+  - skill{sync=true;s=ymir_dwa_death_fx} @self ~onDeath
+  - effect:particles{p=reddust;a=20;vS=0.5;hS=0.5;v=0;y=1} @self ~onTimer:5 0.18 <50%
+ymir_dwa_b:                                    # dwarven blacksmith (minion)
+  Type: skeleton
+  Display: '&7&oDwarven Blacksmith'
+  Health: 100
+  Damage: 1
+  Faction: dwa
+  Drops:
+  - money 500
+  Options:
+    PreventOtherDrops: true
+    MovementSpeed: 0.275
+    FollowRange: 100
+    Despawn: false
+  AIGoalSelectors:
+  - 0 clear
+  - 1 MeleeAttack
+  - 2 MoveTowardsTarget
+  - 3 Float
+  AITargetSelectors:
+  - 0 clear
+  - 1 attacker
+  - 2 players
+  Skills:
+# initiation
+  - skill{sync=true;s=ymir_dwa_b_initialisation} @self ~onSpawn
+  - skill{sync=true;s=ymir_dwa_m_ymir_enabler_engine} @MobsInRadius{r=150;t=ymir} ~onTimer:5
+# battle skills
+  - skill{sync=true;s=ymir_dwa_b_buff} @MobsInRadius{r=7;t=ymir_dwa_w,ymir_dwa_a} ~onTimer:80
+  - skill{sync=true;s=ymir_dwa_b_debuff} @target ~onAttack
+  - skill{sync=true;s=ymir_dwa_m_ragemode_phasecheck} @self ~onDamaged <50%
+# fx / environmental
+  - skill{sync=true;s=ymir_dwa_hit_fx} @selflocation ~onDamaged
+  - skill{sync=true;s=ymir_dwa_death_fx} @self ~onDeath
+  - effect:particles{p=reddust;a=20;vS=0.5;hS=0.5;v=0;y=1} @self ~onTimer:5 0.18 <50%
+  - effect:particles{particle=enchantmenttable;amount=100;vS=2.5;hS=2.5;Speed=0;yoffset=1} @self ~onTimer:20 0.8
+### minion minions
+ymir_dwa_sb:                                   # STONE BLOCK MINION
+  Type: Endermite
+  Display: '&7Stone Block'
+  Health: 10
+  Damage: 6
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  Options:
+    Silent: true
+  Skills:
+  - skill{sync=true;s=ymir_dwa_stone_minion_spawn} @self ~onSpawn
+  - skill{sync=true;s=ymir_dwa_stone_minion_fx} @self ~onCombat
+  - skill{sync=true;s=ymir_dwa_stone_minion_fx} @self ~onDeath
+ymir_dwa_sbc:                                  # ^ conditioner
+  Type: ARMOR_STAND
+  Options:
+    Invisible: true
+  Skills:
+  - skill{sync=true;s=ymir_dwa_stone_minion_check} @self ~onSpawn
+### dummies
+ymir_dblock:                                   # this is the floating diamond block
+  Type: ARMOR_STAND
+  Options:
+    ItemHead: dblockitem
+    Invisible: true
+  Skills:
+  - summon{m=ymir_dblock_animator;a=1;r=0} @self ~onSpawn
+  - skill{sync=true;s=ymir_dwa_summon_ymir_2} @PlayersInRadius{radius=50} ~onSpawn
+ymir_dblock_animator:                          # this one makes the diamond block float
+  Type: ARMOR_STAND
+  Options:
+    Invisible: true
+  Skills:
+  - skill{sync=true;s=ymir_dwa_summon_ymir_2b} @self ~onSpawn
+  - skill{sync=true;s=ymir_dblock_animator_engine} @MobsInRadius{r=7;t=ymir_dblock} ~onTimer:5
+ymir_dblock_ib:                                # this one turns the ground around the diamond block to ice
+  Type: ARMOR_STAND
+  Options:
+    Invisible: true
+  Skills:
+  - skill{sync=true;s=ymir_dblock_ib_check} @self ~onSpawn
+  - remove{delay=1} @self ~onSpawn
+################################################

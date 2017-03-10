@@ -1,0 +1,35 @@
+lastlocation:
+  world: world
+  x: -12431.865576401146
+  y: 77.0
+  z: 9214.610818783014
+  yaw: 208.05017
+  pitch: 8.250006
+geolocation: West Jordan, Utah, United States
+lastAccountName: Jible
+timestamps:
+  login: 1475045833374
+  lastteleport: 1475045917530
+  logout: 1475046208429
+  kits:
+    citizen: 1474852436717
+    tools: 1474792421571
+ipAddress: 174.23.191.19
+money: '61904.80469399999999993'
+homes:
+  home:
+    world: world
+    x: -14801.96677689026
+    y: 64.0
+    z: 22093.005200156054
+    yaw: 295.74872
+    pitch: 21.000557
+logoutlocation:
+  world: world
+  x: 37.915798259078066
+  y: 78.0
+  z: -11903.083899025418
+  yaw: 286.95
+  pitch: 7.4999924
+afk: false
+godmode: false

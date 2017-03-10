@@ -1,0 +1,34 @@
+lastlocation:
+  world: world
+  x: 1970.8323315242728
+  y: 49.231523797587016
+  z: -302.2254291309258
+  yaw: 237.17477
+  pitch: 31.273077
+lastAccountName: 05wildflower
+timestamps:
+  login: 1471046301301
+  logout: 1471046506413
+  lastteleport: 1467934669845
+  kits:
+    color: 1464503955473
+    food: 1467412632739
+ipAddress: 182.239.137.124
+geolocation: Adelaide, South Australia, Australia
+logoutlocation:
+  world: world
+  x: 1961.9396664555975
+  y: 67.0
+  z: -289.30000001192093
+  yaw: 230.40839
+  pitch: 20.33018
+homes:
+  home:
+    world: world
+    x: 1950.9362165298048
+    y: 67.0
+    z: -292.5777210758143
+    yaw: 202.97736
+    pitch: 24.607147
+money: '2500'
+afk: false

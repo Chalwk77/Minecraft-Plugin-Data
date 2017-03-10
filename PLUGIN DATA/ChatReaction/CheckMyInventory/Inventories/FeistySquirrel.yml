@@ -1,0 +1,1614 @@
+Inventories:
+  '25':
+    Time: 1461234690601
+    Exp: 4
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14694.744943834938
+      y: 68.0
+      z: 9120.048004962746
+      pitch: -3.177013
+      yaw: -203.86447
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 189
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 138
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 162
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 145
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '5':
+        type: WOOL
+        damage: 14
+        amount: 9
+      '9':
+        type: ROTTEN_FLESH
+        amount: 6
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+      '11':
+        type: TORCH
+        amount: 64
+      '12':
+        type: BONE
+        amount: 2
+      '13':
+        type: STAINED_GLASS_PANE
+        amount: 19
+      '14':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dJesus§k§6§kii
+      '15':
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 65535
+            MENDING: 10
+          blockMaterial: SHIELD
+      '16':
+        type: TORCH
+        amount: 43
+      '17':
+        type: COAL
+      '19':
+        type: STAINED_GLASS_PANE
+        amount: 64
+      '20':
+        type: BANNER
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          base-color: RED
+          patterns:
+          - ==: Pattern
+            color: BLACK
+            pattern: ms
+          - ==: Pattern
+            color: BLACK
+            pattern: cr
+          - ==: Pattern
+            color: RED
+            pattern: flo
+          - ==: Pattern
+            color: BLACK
+            pattern: bo
+          - ==: Pattern
+            color: RED
+            pattern: ms
+          - ==: Pattern
+            color: BLACK
+            pattern: mc
+      '21':
+        type: RED_ROSE
+        damage: 8
+        amount: 6
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Aphmau
+          lore:
+          - §8JeriCraft Custom Heads
+          - §8JeriCraft Custom Heads
+          internal: H4sIAAAAAAAAAE2Py06DQBiFf01MkPgYbkkGmA6ycGGkpkMKSDvcZsdlKJehNi0Y8Ll8QFm6OIuT73yLowKo8HTsJyk/r191K4UC97SC5xer1KsSY63Cla3hAhGtsKpSM0xB6oLkeU2wCuoqXcR1bMXtEZRRzON0FTcVAO4UeIhzOQn4FYuLeNqgKnVluVCydnZEMqDdxaLneCneKaHDyndvZL/Y/7abMU82MjPdhp/DqRhitDcPUuwOejlE35z1KEiiNeHMWbYErOk81uu883Q+bE3f2Bp8cAfuhLPfRTp3GuknGfKTyOAOnf2fCHvdSQ/YaeEJxRn76LzWtesUva4P4A+mya4/HAEAAA==
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Chalwk
+          lore:
+          - §8JeriCraft Custom Heads
+          - §8JeriCraft Custom Heads
+          internal: H4sIAAAAAAAAAE2PQW+CMBiGvy1Zwsh+xq4kRSzIwcMyo5ZYHIhguUkpKbU4g2AGv2s/cBx3fPM8z+E1AUx4O1x6rb/a76rWwoBnUsL7zBMLxP2FNed8bs2RcCyfe6VVYIFt38eFqLgJ5hTdRNvV4v4KRid+ur4VdxMAngx4Sc+6F/ArhgDlJ4nKU6D5QNxpJwek90TdPHJNh+KTuKSZ+PbD3Q3+Pxd35wxr5gQyv0Z90aRo58RabGObN8dHOEZjuApqmoWablIVKo7oqpSsYQNVBNFkLfdJNKMqskO1lqGSF5boOt+sa6ZiyUaKaUbsPOE4byhm6jiQq+1X0XI5PYA/1HKUcRwBAAA=
+      '24':
+        type: SKULL_ITEM
+        amount: 5
+      '25':
+        type: STONE
+        damage: 3
+      '26':
+        type: WOOD
+        damage: 5
+        amount: 14
+      '27':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '28':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '29':
+        type: ELYTRA
+        damage: 3
+      '30':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §dCrown of the King
+          lore:
+          - §6A kingly crown that grants
+          - §6the wearer unwavering power!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            PROTECTION_FIRE: 3
+            PROTECTION_EXPLOSIONS: 3
+            PROTECTION_PROJECTILE: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGDgYGHgCA31dPHNLy55vz/o35c0bTYWBk6QkE9qYnHJtf3ZMSlloY/YGNgcc/NL80ocVBjAgIOBF26iX2JuKoNgempealFmsl5uYoVHamJOSQYzA6d/QWpRYklmfh5ECwtYJZevY0S8h6ujT4gHA9Wsl4ZZn52Xn5ydlJicHZRanFlckpiXnIrmECaYQ0S8/fydvZ0cnb3jg1yDPYNDHP2cXZGdNEui6EprsvN5ZCf1BqTIFPrNsKBDiJQGirDfv+cdgWz9bP9zTWcfuAkNUIjoMEv8Kwh3sUd2Un9mga/OrV0/6RAir++X/L73zVUf2foplxd8KDk5z2SAQuSRYEQUr4rfVmQnzTHdJZryd5skHULk96mE/A1aDh+Rrd9anKOV+nD5bHqGCAMAwqoWvGYEAAA=
+          color:
+            ==: Color
+            RED: 245
+            BLUE: 52
+            GREEN: 240
+      '31':
+        type: INK_SACK
+        amount: 13
+      '32':
+        type: STICK
+        amount: 3
+      '34':
+        type: STAINED_GLASS_PANE
+        damage: 14
+        amount: 11
+      '35':
+        type: INK_SACK
+        damage: 1
+        amount: 2
+  '26':
+    Time: 1461234705870
+    Exp: 0
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 5.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Location:
+      world: world
+      x: 14687.89299035814
+      y: 68.0
+      z: 9102.644407739583
+      pitch: 59.762924
+      yaw: -192.34508
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 189
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 138
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 162
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 145
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '5':
+        type: WOOL
+        damage: 14
+        amount: 9
+      '9':
+        type: ROTTEN_FLESH
+        amount: 6
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+      '11':
+        type: TORCH
+        amount: 64
+      '12':
+        type: BONE
+        amount: 2
+      '13':
+        type: STAINED_GLASS_PANE
+        amount: 19
+      '14':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dJesus§k§6§kii
+      '15':
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 65535
+            MENDING: 10
+          blockMaterial: SHIELD
+      '16':
+        type: TORCH
+        amount: 43
+      '17':
+        type: COAL
+      '19':
+        type: STAINED_GLASS_PANE
+        amount: 64
+      '20':
+        type: BANNER
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          base-color: RED
+          patterns:
+          - ==: Pattern
+            color: BLACK
+            pattern: ms
+          - ==: Pattern
+            color: BLACK
+            pattern: cr
+          - ==: Pattern
+            color: RED
+            pattern: flo
+          - ==: Pattern
+            color: BLACK
+            pattern: bo
+          - ==: Pattern
+            color: RED
+            pattern: ms
+          - ==: Pattern
+            color: BLACK
+            pattern: mc
+      '21':
+        type: RED_ROSE
+        damage: 8
+        amount: 6
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Aphmau
+          lore:
+          - §8JeriCraft Custom Heads
+          - §8JeriCraft Custom Heads
+          internal: H4sIAAAAAAAAAE2Py06DQBiFf01MkPgYbkkGmA6ycGGkpkMKSDvcZsdlKJehNi0Y8Ll8QFm6OIuT73yLowKo8HTsJyk/r191K4UC97SC5xer1KsSY63Cla3hAhGtsKpSM0xB6oLkeU2wCuoqXcR1bMXtEZRRzON0FTcVAO4UeIhzOQn4FYuLeNqgKnVluVCydnZEMqDdxaLneCneKaHDyndvZL/Y/7abMU82MjPdhp/DqRhitDcPUuwOejlE35z1KEiiNeHMWbYErOk81uu883Q+bE3f2Bp8cAfuhLPfRTp3GuknGfKTyOAOnf2fCHvdSQ/YaeEJxRn76LzWtesUva4P4A+mya4/HAEAAA==
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Chalwk
+          lore:
+          - §8JeriCraft Custom Heads
+          - §8JeriCraft Custom Heads
+          internal: H4sIAAAAAAAAAE2PQW+CMBiGvy1Zwsh+xq4kRSzIwcMyo5ZYHIhguUkpKbU4g2AGv2s/cBx3fPM8z+E1AUx4O1x6rb/a76rWwoBnUsL7zBMLxP2FNed8bs2RcCyfe6VVYIFt38eFqLgJ5hTdRNvV4v4KRid+ur4VdxMAngx4Sc+6F/ArhgDlJ4nKU6D5QNxpJwek90TdPHJNh+KTuKSZ+PbD3Q3+Pxd35wxr5gQyv0Z90aRo58RabGObN8dHOEZjuApqmoWablIVKo7oqpSsYQNVBNFkLfdJNKMqskO1lqGSF5boOt+sa6ZiyUaKaUbsPOE4byhm6jiQq+1X0XI5PYA/1HKUcRwBAAA=
+      '24':
+        type: SKULL_ITEM
+        amount: 5
+      '25':
+        type: STONE
+        damage: 3
+      '26':
+        type: WOOD
+        damage: 5
+        amount: 14
+      '27':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '28':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '29':
+        type: ELYTRA
+        damage: 3
+      '30':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §dCrown of the King
+          lore:
+          - §6A kingly crown that grants
+          - §6the wearer unwavering power!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            PROTECTION_FIRE: 3
+            PROTECTION_EXPLOSIONS: 3
+            PROTECTION_PROJECTILE: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGAQYGHgCA31dPHNLy55vz/o35c0bTYWBk6QkE9qYnHJtf3ZMSlloY/YGNgcc/NL80ocVBjAgIOBF26iX2JuKoNgempealFmsl5uYoVHamJOSQYzA6d/QWpRYklmfh5ECwtYJZevY0S8h6ujT4gHA9Wsl4ZZn52Xn5ydlJicHZRanFlckpiXnIrmECaYQ0S8/fydvZ0cnb3jg1yDPYNDHP2cXZGdNEui6EprsvN5ZCf1BqTIFPrNsKBDiJQGirDfv+cdgWz9bP9zTWcfuAkNUIjoMEv8Kwh3sUd2Un9mga/OrV0/6RAir++X/L73zVUf2foplxd8KDk5z2SAQuSRYEQUr4rfVmQnzTHdJZryd5skHULk96mE/A1aDh+Rrd9anKOV+nD57AEKER+X/1+dX3gtR3bSlkfKYpWTNjXRIUS+W93p+tfscA3Z+klXbvWpdLRaD1CIJG0V7t6m7jkR2UnLDqTVLqkXN6NDiCjovV13bouXLkqmZa2fyGFrwDtAISIj3FZbdc3lHbKTur5xXOzVUeGhQ4jkropOCd/vkoBs/a4vHc/+LsvvGqAQOZQcW7lpl8sMZCdNXOitc3rWpDY6hIhylB+/6xKvfmTr1+k7rsw3E/SkZ4gwAABJ4zfUrggAAA==
+          color:
+            ==: Color
+            RED: 245
+            BLUE: 52
+            GREEN: 240
+      '31':
+        type: INK_SACK
+        amount: 13
+      '32':
+        type: STICK
+        amount: 3
+      '34':
+        type: STAINED_GLASS_PANE
+        damage: 14
+        amount: 11
+      '35':
+        type: INK_SACK
+        damage: 1
+        amount: 2
+  '27':
+    Time: 1461234791036
+    Exp: 20
+    Health: 0.0
+    MaxHealth: 30.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 4920
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 4920
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 1320
+        Amplifier: 3
+    Location:
+      world: world
+      x: 14704.653543526778
+      y: 77.5
+      z: 9104.863103588461
+      pitch: -12.7573595
+      yaw: 356.50116
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 191
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 138
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 162
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 145
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '5':
+        type: WOOL
+        damage: 14
+        amount: 4
+      '6':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dJesus§k§6§kii
+      '9':
+        type: ROTTEN_FLESH
+        amount: 6
+      '10':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+      '11':
+        type: TORCH
+        amount: 43
+      '12':
+        type: BONE
+        amount: 2
+      '13':
+        type: STAINED_GLASS_PANE
+        amount: 19
+      '15':
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 10
+            DURABILITY: 10
+            FIRE_ASPECT: 65535
+            MENDING: 10
+          blockMaterial: SHIELD
+      '16':
+        type: TORCH
+        amount: 64
+      '17':
+        type: COAL
+      '19':
+        type: STAINED_GLASS_PANE
+        amount: 64
+      '20':
+        type: BANNER
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          base-color: RED
+          patterns:
+          - ==: Pattern
+            color: BLACK
+            pattern: ms
+          - ==: Pattern
+            color: BLACK
+            pattern: cr
+          - ==: Pattern
+            color: RED
+            pattern: flo
+          - ==: Pattern
+            color: BLACK
+            pattern: bo
+          - ==: Pattern
+            color: RED
+            pattern: ms
+          - ==: Pattern
+            color: BLACK
+            pattern: mc
+      '21':
+        type: RED_ROSE
+        damage: 8
+        amount: 6
+      '22':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Aphmau
+          lore:
+          - §8JeriCraft Custom Heads
+          - §8JeriCraft Custom Heads
+          internal: H4sIAAAAAAAAAE2Py06DQBiFf01MkPgYbkkGmA6ycGGkpkMKSDvcZsdlKJehNi0Y8Ll8QFm6OIuT73yLowKo8HTsJyk/r191K4UC97SC5xer1KsSY63Cla3hAhGtsKpSM0xB6oLkeU2wCuoqXcR1bMXtEZRRzON0FTcVAO4UeIhzOQn4FYuLeNqgKnVluVCydnZEMqDdxaLneCneKaHDyndvZL/Y/7abMU82MjPdhp/DqRhitDcPUuwOejlE35z1KEiiNeHMWbYErOk81uu883Q+bE3f2Bp8cAfuhLPfRTp3GuknGfKTyOAOnf2fCHvdSQ/YaeEJxRn76LzWtesUva4P4A+mya4/HAEAAA==
+      '23':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §9Chalwk
+          lore:
+          - §8JeriCraft Custom Heads
+          - §8JeriCraft Custom Heads
+          internal: H4sIAAAAAAAAAE2PQW+CMBiGvy1Zwsh+xq4kRSzIwcMyo5ZYHIhguUkpKbU4g2AGv2s/cBx3fPM8z+E1AUx4O1x6rb/a76rWwoBnUsL7zBMLxP2FNed8bs2RcCyfe6VVYIFt38eFqLgJ5hTdRNvV4v4KRid+ur4VdxMAngx4Sc+6F/ArhgDlJ4nKU6D5QNxpJwek90TdPHJNh+KTuKSZ+PbD3Q3+Pxd35wxr5gQyv0Z90aRo58RabGObN8dHOEZjuApqmoWablIVKo7oqpSsYQNVBNFkLfdJNKMqskO1lqGSF5boOt+sa6ZiyUaKaUbsPOE4byhm6jiQq+1X0XI5PYA/1HKUcRwBAAA=
+      '24':
+        type: SKULL_ITEM
+        amount: 5
+      '25':
+        type: STONE
+        damage: 3
+      '26':
+        type: WOOD
+        damage: 5
+        amount: 14
+      '27':
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '28':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '29':
+        type: ELYTRA
+        damage: 3
+      '30':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §dCrown of the King
+          lore:
+          - §6A kingly crown that grants
+          - §6the wearer unwavering power!
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            PROTECTION_FIRE: 3
+            PROTECTION_EXPLOSIONS: 3
+            PROTECTION_PROJECTILE: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBQYGHgCA31dPHNLy55vz/o35c0bTYWBk6QkE9qYnHJtf3ZMSlloY/YGNgcc/NL80ocVBjAgIOBF26iX2JuKoNgempealFmsl5uYoVHamJOSQYzA6d/QWpRYklmfh5ECwtYJZevY0S8h6ujT4gHA9Wsl4ZZn52Xn5ydlJicHZRanFlckpiXnIrmECaYQ0S8/fydvZ0cnb3jg1yDPYNDHP2cXZGdNEui6EprsvN5ZCf1BqTIFPrNsKBDiJQGirDfv+cdgWz9bP9zTWcfuAkNUIjoMEv8Kwh3sUd2Un9mga/OrV0/6RAir++X/L73zVUf2foplxd8KDk5z2SAQuSRYEQUr4rfVmQnzTHdJZryd5skHULk96mE/A1aDh+Rrd9anKOV+nD57AEKER+X/1+dX3gtR3bSlkfKYpWTNjXRIUS+W93p+tfscA3Z+klXbvWpdLRaD1CIJG0V7t6m7jkR2UnLDqTVLqkXN6NDiCjovV13bouXLkqmZa2fyGFrwDtAISIj3FZbdc3lHbKTur5xXOzVUeGhQ4jkropOCd/vkoBs/a4vHc/+LsvvGqAQOZQcW7lpl8sMZCdNXOitc3rWpDY6hIhylB+/6xKvfmTr1+k7rsw3E/QcqFxjMyHt83P/3chO2uDAcy316bGDdAiR7a/Yw4RtvFOQrd/Gyf6HOSVRZIBCJC+o83Fwj7cpspPmWqwoPiYVuJkOIbLhB0NewRfnD8jWT4vKsXy9cO/cAQqRZOdft27GOyxCdtLeJKZMbellu+kQIplneY+tl3fzRrZ+1u8Nlv/P/l47QCGSkSL8oP6YjweykyZEJ6gesLtCRKOR4hDJ/jh9gkuSiw6y9ZNlpf/a8V9eM0AhEix/Tltogi9KiGx1cVLo3Dehlw4hcpZN8MxpGVclZOs3nwx+28M223KAQqSh//nVBGmPLShF24FS9xmv+aroECJ2b+9cXBDlgNKJ2J+isMn0d3XWAIXIWTn/Vs4CnwpkJ61Z4PO5Z7bMZzqEyO3ArNjW3w5yyNa3PniqePTWtf0DFCIm35rDuQ56oZSsfaKSaw/eW8xFhxDpnTO/pSfJKwfZ+p0TfvU3tm7cTs8QYQAAN3Q5cj4RAAA=
+          color:
+            ==: Color
+            RED: 245
+            BLUE: 52
+            GREEN: 240
+      '31':
+        type: INK_SACK
+        amount: 13
+      '32':
+        type: STICK
+        amount: 3
+      '34':
+        type: STAINED_GLASS_PANE
+        damage: 14
+        amount: 11
+      '35':
+        type: INK_SACK
+        damage: 1
+        amount: 2
+  '28':
+    Time: 1461487523455
+    Exp: 6945
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 15
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 33488
+        Amplifier: 1
+    Location:
+      world: world
+      x: 14781.652233424606
+      y: 69.0
+      z: 9129.34047839225
+      pitch: 19.76386
+      yaw: -153.91351
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Slice and Dice
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 225
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 216
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 184
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '5':
+        type: LOG
+        amount: 22
+      '8':
+        type: JUNGLE_FENCE
+        amount: 17
+      '11':
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          title: ' '
+          author: ' '
+          pages:
+          - |
+            Minecraft color§0
+            §0Codes:§0
+            §0 &0  §1 &1  §2 &2  §3 &3§0
+            §4 &4  §5 &5  §6 &6  §7 &7§0
+            §8 &8  §9 &9  §a &a  §b &b§0
+            §c &c  §d &d  §e &e  §f &f§0
+          generation: 0
+      '12':
+        type: WOOD
+        damage: 1
+        amount: 22
+      '13':
+        type: QUARTZ_BLOCK
+        amount: 29
+      '14':
+        type: WOOD
+        damage: 3
+        amount: 63
+      '15':
+        type: DIRT
+        amount: 8
+      '16':
+        type: GLASS
+        amount: 64
+      '17':
+        type: WOOD_STEP
+        damage: 5
+        amount: 26
+      '18':
+        type: WOOD
+        amount: 20
+      '20':
+        type: WOOD_STEP
+        damage: 1
+        amount: 24
+      '21':
+        type: SPRUCE_WOOD_STAIRS
+        amount: 6
+      '22':
+        type: JUNGLE_WOOD_STAIRS
+        amount: 54
+      '23':
+        type: STICK
+        amount: 64
+      '24':
+        type: SPRUCE_FENCE
+        amount: 25
+      '25':
+        type: STAINED_CLAY
+        damage: 7
+        amount: 64
+      '26':
+        type: WOOD
+        damage: 3
+        amount: 64
+      '27':
+        type: WOOD_STEP
+        damage: 1
+        amount: 64
+      '28':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '29':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '30':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '31':
+        type: WOOD
+        damage: 1
+        amount: 64
+      '32':
+        type: STICK
+        amount: 32
+      '35':
+        type: SPRUCE_WOOD_STAIRS
+        amount: 64
+  '29':
+    Time: 1461569296545
+    Exp: 2319
+    Health: 0.0
+    MaxHealth: 30.0
+    Saturation: 0.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: REGENERATION
+        Duration: 67
+        Amplifier: 1
+      '2':
+        Name: DAMAGE_RESISTANCE
+        Duration: 5667
+        Amplifier: 0
+      '3':
+        Name: FIRE_RESISTANCE
+        Duration: 5667
+        Amplifier: 0
+      '4':
+        Name: ABSORPTION
+        Duration: 2067
+        Amplifier: 3
+      '5':
+        Name: WITHER
+        Duration: 176
+        Amplifier: 0
+    Location:
+      world: world
+      x: -1017.5525990828825
+      y: 60.914011452343296
+      z: -1318.6848171756747
+      pitch: 4.853104
+      yaw: -175.20056
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 51
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §3King's Sword
+          lore:
+          - §6A powerful sword used by
+          - §6the King of Skeletons.
+          enchants:
+            DAMAGE_ALL: 5
+            FIRE_ASPECT: 2
+            KNOCKBACK: 2
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy6ZzXhSLPf0XTMWBk6QkE9qYnHJxMvldySSHzWwMbA55uaX5pU4qDCAAQcDL9xEv8TcVAbB9NS81KLMZL3cxAqP1MSckgxmBk7/gtSixJLM/DyIFhawSi5fx4h4D1dHnxAPBlKtt985EwRmYVgvCrc+vyw1NzWvJLggNTUFzQlMMCfw+fqHufq6+oXEBwe4urowMAAAPD2g4CQBAAA=
+      '1':
+        type: BOW
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 58
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lEPIC
+          lore:
+          - §cI am Hungry...
+      '3':
+        type: COOKED_BEEF
+        amount: 62
+      '4':
+        type: COAL
+        amount: 7
+      '5':
+        type: BONE
+        amount: 2
+      '6':
+        type: ARROW
+      '9':
+        type: QUARTZ_BLOCK
+        amount: 29
+      '10':
+        type: WOOD
+        damage: 3
+        amount: 3
+      '12':
+        type: WOOD
+        damage: 5
+        amount: 33
+      '15':
+        type: WOOD
+        damage: 5
+        amount: 61
+      '20':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 64
+      '21':
+        type: DIAMOND_AXE
+        damage: 246
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '22':
+        type: DIAMOND_SPADE
+        damage: 184
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '23':
+        type: SKULL_ITEM
+        damage: 1
+      '25':
+        type: WOOD_STEP
+        damage: 5
+        amount: 44
+      '28':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '29':
+        type: DIAMOND_PICKAXE
+        damage: 225
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '30':
+        type: DIRT
+        amount: 3
+      '34':
+        type: WOOD_STEP
+        damage: 5
+        amount: 25
+      '35':
+        type: WOOD
+        damage: 5
+        amount: 64
+      '39':
+        type: DIAMOND_HELMET
+        damage: 171
+  '30':
+    Time: 1461569321154
+    Exp: 100
+    Health: 0.0
+    MaxHealth: 40.0
+    Saturation: 1.0
+    Hunger: 20
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: REGENERATION
+        Duration: 69
+        Amplifier: 1
+      '2':
+        Name: DAMAGE_RESISTANCE
+        Duration: 5669
+        Amplifier: 0
+      '3':
+        Name: FIRE_RESISTANCE
+        Duration: 5669
+        Amplifier: 0
+      '4':
+        Name: BLINDNESS
+        Duration: 17
+        Amplifier: 2
+      '5':
+        Name: POISON
+        Duration: 17
+        Amplifier: 2
+      '6':
+        Name: ABSORPTION
+        Duration: 2069
+        Amplifier: 3
+      '7':
+        Name: WITHER
+        Duration: 177
+        Amplifier: 0
+    Location:
+      world: world
+      x: -1027.240782593941
+      y: 60.0
+      z: -1325.6154409311134
+      pitch: -1.2585944
+      yaw: -184.52167
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §3King's Sword
+          lore:
+          - §6A powerful sword used by
+          - §6the King of Skeletons.
+          enchants:
+            DAMAGE_ALL: 5
+            FIRE_ASPECT: 2
+            KNOCKBACK: 2
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYWHgCA31dPHNLy6ZzXhSLPf0XTMWBk6QkE9qYnHJxMvldySSHzWwMbA55uaX5pU4qDCAAQcDL9xEv8TcVAbB9NS81KLMZL3cxAqP1MSckgxmBk7/gtSixJLM/DyIFhawSi5fx4h4D1dHnxAPBlKtt985EwRmYVgvCrc+vyw1NzWvJLggNTUFzQlMMCfw+fqHufq6+oXEBwe4urogO0OLZ515bJLfDmRn7JhzI3D6EYOXdAiF2sVv9Fa+9dyHbP3amqdbu66aKNE6FBgA7lmLzSoCAAA=
+      '1':
+        type: BOW
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lEPIC
+          lore:
+          - §cI am Hungry...
+      '3':
+        type: COOKED_BEEF
+        amount: 62
+      '4':
+        type: COAL
+        amount: 7
+      '5':
+        type: BONE
+        amount: 2
+      '6':
+        type: ARROW
+      '9':
+        type: QUARTZ_BLOCK
+        amount: 29
+      '10':
+        type: WOOD
+        damage: 3
+        amount: 3
+      '12':
+        type: WOOD
+        damage: 5
+        amount: 33
+      '15':
+        type: WOOD
+        damage: 5
+        amount: 61
+      '20':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 64
+      '21':
+        type: DIAMOND_AXE
+        damage: 246
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '22':
+        type: DIAMOND_SPADE
+        damage: 184
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '23':
+        type: SKULL_ITEM
+        damage: 1
+      '25':
+        type: WOOD_STEP
+        damage: 5
+        amount: 44
+      '28':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '29':
+        type: DIAMOND_PICKAXE
+        damage: 225
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '30':
+        type: DIRT
+        amount: 3
+      '34':
+        type: WOOD_STEP
+        damage: 5
+        amount: 25
+      '35':
+        type: WOOD
+        damage: 5
+        amount: 64
+      '39':
+        type: DIAMOND_HELMET
+        damage: 198
+  '31':
+    Time: 1461569573035
+    Exp: 121
+    Health: 0.0
+    MaxHealth: 60.0
+    Saturation: 0.0
+    Hunger: 16
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: DAMAGE_RESISTANCE
+        Duration: 5480
+        Amplifier: 0
+      '2':
+        Name: FIRE_RESISTANCE
+        Duration: 5480
+        Amplifier: 0
+      '3':
+        Name: ABSORPTION
+        Duration: 1880
+        Amplifier: 3
+      '4':
+        Name: WITHER
+        Duration: 172
+        Amplifier: 0
+    Location:
+      world: world
+      x: -1021.4918405326041
+      y: 60.0
+      z: -1312.9197225637022
+      pitch: 1.4577036
+      yaw: -221.10315
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 88
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §3King's Sword
+          lore:
+          - §6A powerful sword used by
+          - §6the King of Skeletons.
+          enchants:
+            DAMAGE_ALL: 5
+            FIRE_ASPECT: 2
+            KNOCKBACK: 2
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGDgYGHgCA31dPHNLy6ZzXhSLPf0XTMWBk6QkE9qYnHJxMvldySSHzWwMbA55uaX5pU4qDCAAQcDL9xEv8TcVAbB9NS81KLMZL3cxAqP1MSckgxmBk7/gtSixJLM/DyIFhawSi5fx4h4D1dHnxAPBlKtt985EwRmYVgvCrc+vyw1NzWvJLggNTUFzQlMMCfw+fqHufq6+oXEBwe4urogO0OLZ515bJLfDmRn7JhzI3D6EYOXdAiF2sVv9Fa+9dyHbP3amqdbu66aKNExFLjMZN2YpTxXITtjy66PL7W/dXLSIRQstSIiLr7zvItsfc+z+xmmL1npGQr885p81Ff5tCM7Y5MiK9/3hLmKdAiFiGguQZYIv0nI1rd/2WeizP6O5jmCAQD3cOKFNgQAAA==
+      '1':
+        type: BOW
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 50
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lEPIC
+          lore:
+          - §cI am Hungry...
+      '3':
+        type: COOKED_BEEF
+        amount: 62
+      '4':
+        type: COAL
+        amount: 7
+      '5':
+        type: BONE
+        amount: 2
+      '6':
+        type: ARROW
+      '9':
+        type: QUARTZ_BLOCK
+        amount: 29
+      '10':
+        type: WOOD
+        damage: 3
+        amount: 3
+      '11':
+        type: DIAMOND_HELMET
+        damage: 198
+      '12':
+        type: WOOD
+        damage: 5
+        amount: 33
+      '15':
+        type: WOOD
+        damage: 5
+        amount: 61
+      '20':
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 64
+      '21':
+        type: DIAMOND_AXE
+        damage: 246
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '22':
+        type: DIAMOND_SPADE
+        damage: 184
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '23':
+        type: SKULL_ITEM
+        damage: 1
+      '25':
+        type: WOOD_STEP
+        damage: 5
+        amount: 44
+      '28':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '29':
+        type: DIAMOND_PICKAXE
+        damage: 225
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '30':
+        type: DIRT
+        amount: 3
+      '34':
+        type: WOOD_STEP
+        damage: 5
+        amount: 25
+      '35':
+        type: WOOD
+        damage: 5
+        amount: 64
+  '32':
+    Time: 1461832636047
+    Exp: 13435
+    Health: 0.0
+    MaxHealth: 20.0
+    Saturation: 0.0
+    Hunger: 17
+    GameMode: SURVIVAL
+    FlyModeOn: false
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 70271
+        Amplifier: 1
+    Location:
+      world: world
+      x: -2430.865662224419
+      y: 62.515702276380296
+      z: 2456.7489218266282
+      pitch: 3.5630965
+      yaw: 274.9225
+    Items:
+      '0':
+        type: DIAMOND_SWORD
+        damage: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Slice and Dice
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 10
+            DAMAGE_ARTHROPODS: 10
+            DURABILITY: 10
+            KNOCKBACK: 10
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 10
+      '1':
+        type: BOW
+        damage: 145
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 10
+            ARROW_FIRE: 10
+            ARROW_INFINITE: 10
+      '2':
+        type: DIAMOND_PICKAXE
+        damage: 227
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '3':
+        type: DIAMOND_AXE
+        damage: 268
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '4':
+        type: DIAMOND_SPADE
+        damage: 192
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '5':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rHorse Head
+          internal: H4sIAAAAAAAAAE2L0VKCQBRAb03NINNn9MrMIizpY4nlOu5SKiL7BnhV1l1tEJrgq/rE6K3HM+ccG8CGh9Wp0fq9uuxLjRbcsh08ZkPMqTcmDrq0cHzMds4o8wJnGOR+7o/+HNpg99MnVnWJ1wFYNX7XTYVXGwBuLLjfZLpB+MF2TuT2SHbbuS5aFvS8XhEdMfX5xM6bNp+wgJnez56DRTv+19I6S6hOvflRnj+a3GzIwltqnC3dwsRfQk0pD5kfrQ8dDw8e716UCAsiOkajRJQimbrybUrTjrlRyP1UvZ54GFNpYiKMVLxL+1camcRDoZjH1ancb90xgAV3IjMIg8lqcqlwUeYAv082OgIqAQAA
+          skull-owner: CSCoreLib
+      '6':
+        type: LEATHER
+        amount: 6
+      '9':
+        type: BEETROOT_SOUP
+      '11':
+        type: LEASH
+        amount: 4
+      '24':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eGilded Backpack
+          lore:
+          - ''
+          - '§7Size: §e45'
+          - '§7ID: eb4f14a3-af99-481d-9e57-a23480cf9db6#1'
+          - ''
+          - §7§eRight Click§7 to open
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSCohyVJFZInUKQ+kNaJmtRQ2CGfyq/cRx3PHlvacD6PAWnVulPutrKRTX4BkzeC/zsnQRRwZyCm7YiLvGzGa2MSmmmc1mFiscpoM+TDdeN4LfR6A1/Kdpa37XAeBJg9ckUy2HX94FiB5PiB0DVXTYGTiOkNpieZviS9LlS+zgavDrubPp3H/tpMkOE5VawYledm1eJWhj7RVf78dF9fUg3kKm0ldEMkHiVZcecEe9vaCSnInpSxovVHrwKyJ9GfaBpN7O3Hr+mX6E/Tb+tlIzEWGPTdLPzTQOe1qtRHkcuwAavJCs4jBaRstrzTciB/gD3xO5PCoBAAA=
+          skull-owner: CSCoreLib
+      '27':
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          color:
+            ==: Color
+            RED: 153
+            BLUE: 51
+            GREEN: 51
+      '28':
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §k§6§kii§r§dOverlord§k§6§kii
+      '32':
+        type: WOOD_STEP
+        damage: 5
+        amount: 16
+      '33':
+        type: DIRT
+        amount: 25
+      '38':
+        type: ELYTRA
+        damage: 69
+  '33':
+    Time: 1462120697138
+    Exp: 2414
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 4.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Potions:
+      '1':
+        Name: NIGHT_VISION
+        Duration: 72489
+        Amplifier: 1
+    Location:
+      world: world
+      x: 14829.378148190825
+      y: 73.0
+      z: 9275.31116476407
+      pitch: 53.82031
+      yaw: 22.584925
+    Items:
+      '0':
+        type: BIRCH_FENCE
+      '1':
+        type: SANDSTONE
+        damage: 2
+      '2':
+        type: BRICK_STAIRS
+      '3':
+        type: STEP
+        damage: 4
+      '5':
+        type: STEP
+      '9':
+        type: STONE
+      '10':
+        type: LAVA_BUCKET
+      '11':
+        type: GLASS
+      '12':
+        type: GLOWSTONE
+      '13':
+        type: OBSIDIAN
+        amount: 64
+      '14':
+        type: NETHER_BRICK
+      '15':
+        type: RABBIT_HIDE
+      '16':
+        type: STRING
+        amount: 2
+      '17':
+        type: SPIDER_EYE
+      '32':
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rRabbit Head
+          internal: H4sIAAAAAAAAAE2LT0+DMBxAfxpNGPFjeCUpfycHD0qWrGRUZQXW3mArjq7dFgYG+FR+RDl6fHnvmQAmPG1PvVKf7aVulDDgHh/guQ5C/6X0XMur/MryyiWywtBHliiDPaqQcGwvNMGcp6tou0bcFmB0Yuj6VtxMALgz4DEvVS/gV4wx4rsjOuxitR9xMDPdIvWB5XWJz/lYRTjAevbrt2Azhv9avysLXzE3PvLzV1/pHG3cVIl1au919sM1GwjN/ISeEKMrl9DTRArsMZlqXqwcIleI6VwS+d5w+T0wh9mJTI9cck0oQ8mUTGzKbFJkDqGHho1xWO/QK4ABD6TUAhbRNrq0YtNUAH8ral0XKgEAAA==
+          skull-owner: CSCoreLib
+  '34':
+    Time: 1462483221232
+    Exp: 4160
+    Health: 20.0
+    MaxHealth: 20.0
+    Saturation: 3.0
+    Hunger: 20
+    GameMode: CREATIVE
+    FlyModeOn: true
+    Location:
+      world: world
+      x: 14842.033948677645
+      y: 77.5
+      z: 9276.714236961716
+      pitch: 30.823292
+      yaw: -213.7511

@@ -1,0 +1,18 @@
+Name: TheFireTroll
+TeleportLocation:
+  X: 477.5
+  Pitch: 0.44998962
+  Y: 89.0
+  Z: -187.5
+  World: world
+  Yaw: 315.0
+Charges:
+  Amount: 0
+  LastGot: 1480909444199
+LogOutLocation:
+  X: 475.2996163409209
+  Pitch: 4.335095
+  Y: 89.0
+  Z: -183.57017045296286
+  World: world
+  Yaw: 282.385

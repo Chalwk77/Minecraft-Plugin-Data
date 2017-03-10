@@ -1,0 +1,93 @@
+Keys: 20
+Ammo:
+  batblaster: 375
+  chickenator: 100
+  colorbomb: 507
+  discoball: 398
+  etherealpearl: 717
+  fleshhook: 109
+  melonthrower: 372
+  blizzardblaster: 662
+  portalgun: 322
+  explosivesheep: 794
+  paintballgun: 234
+  thorhammer: 192
+  antigravity: 308
+  smashdown: 531
+  rocket: 0
+  blackhole: 469
+  tsunami: 512
+  tnt: 78
+  fungun: 151
+  parachute: 272
+  quakegun: 214
+  ghostparty: 1368
+  firework: 642
+  christmastree: 908
+  freezecannon: 412
+  snowball: 289
+  partypopper: 303
+  trampoline: 765
+  be:
+    isach:
+      ultracosmetics:
+        cosmetics:
+          gadgets:
+            gadgettype@79fc13f: 0
+            gadgettype@305fcef5: 0
+            gadgettype@542728b3: 0
+            gadgettype@15722f9a: 0
+            gadgettype@5fcc04f6: 0
+            gadgettype@639594f2: 0
+            gadgettype@3f548e92: 0
+            gadgettype@49f85241: 0
+            gadgettype@6b1c6bb6: 0
+            gadgettype@68aeb96d: 0
+            gadgettype@4340304b: 0
+            gadgettype@6881dc57: 0
+            gadgettype@7e90a7bd: 0
+            gadgettype@500fc4b8: 0
+            gadgettype@660dec85: 0
+            gadgettype@222e1abe: 0
+            gadgettype@29b50cbe: 0
+            gadgettype@3533efdb: 0
+            gadgettype@1492ecb4: 0
+            gadgettype@1770c54e: 0
+            gadgettype@3c904011: 0
+            gadgettype@6af5b782: 0
+            gadgettype@45461aa5: 0
+            gadgettype@71b33388: 0
+            gadgettype@7aac48d6: 0
+            gadgettype@59bea121: 0
+            gadgettype@8cebabf: 0
+            gadgettype@57dd2dd8: 0
+            gadgettype@d21f3ac: 0
+            gadgettype@161be75e: 0
+            gadgettype@34dbb34e: 0
+            gadgettype@7ee7d1dd: 0
+            gadgettype@11515fab: 0
+            gadgettype@5e210e97: 0
+            gadgettype@16c892e3: 0
+            gadgettype@5c586ea6: 0
+            gadgettype@917f780: 0
+            gadgettype@7ee37b20: 0
+            gadgettype@afdd6eb: 0
+            gadgettype@21b851bc: 0
+            gadgettype@5ac9bfbf: 0
+            gadgettype@58ca3b2a: 0
+            gadgettype@aaedcf5: 0
+            gadgettype@7f5a17b: 0
+            gadgettype@76cc7909: 0
+            gadgettype@41ccfb53: 0
+            gadgettype@b9127f2: 0
+            gadgettype@155ce086: 0
+            gadgettype@3c574597: 0
+            gadgettype@471a42e0: 0
+            gadgettype@5e22d055: 0
+            gadgettype@795adccf: 0
+            gadgettype@3367b815: 0
+            gadgettype@c0b15e0: 0
+Gadgets-Enabled: true
+Third-Person-Morph-View: false
+Pet-Names:
+  Cow: LilCow

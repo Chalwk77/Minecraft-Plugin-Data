@@ -1,0 +1,20 @@
+# Enable debug info in console
+debug-mode: false
+
+# Enable colors in console output
+color-logs: true
+
+# Update the server list ping MOTD to show when server is scheduled for shutdown/restart
+update-ping-motd: true
+
+# Commands to perform just before the server shuts down
+shutdown-commands:
+
+# When should the countdown message be displayed to the user?
+# This setting only effects the title and chat. The hotbar text
+# will always be shown.
+# Warning: For advanced users only!
+display-intervals:
+- timeLeft % 300 == 0
+- timeLeft == 30
+- timeLeft <= 10

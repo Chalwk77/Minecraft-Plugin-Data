@@ -1,0 +1,30 @@
+lastlocation:
+  world: world_nether
+  x: 18.665788177064012
+  y: 57.0
+  z: 106.93252795284549
+  yaw: -274.69962
+  pitch: -53.24999
+lastAccountName: 21sickcars
+timestamps:
+  login: 1470538802420
+  logout: 1470538867194
+  lastteleport: 1470538860341
+ipAddress: 123.211.184.176
+geolocation: Gold Coast, Queensland, Australia
+logoutlocation:
+  world: world
+  x: -10894.821790159458
+  y: 99.0
+  z: 956.8849791922365
+  yaw: 197.85028
+  pitch: 49.800003
+money: '2500'
+homes:
+  home:
+    world: world
+    x: -10896.181465778418
+    y: 99.0
+    z: 955.432388317819
+    yaw: 160.50029
+    pitch: 35.250004

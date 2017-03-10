@@ -1,0 +1,59 @@
+# This message is sent when the Rune is given to player.
+rune-give: '&aYou have given %player% the Enchanting Rune.'
+
+# This message is sent when the Rune is received.
+rune-receive: '&aYou have received the Enchanting Rune'
+
+# This message is sent when a player do not have permission to do any stuff regarding this plugin.
+no-permission: '&cYou do not have permission to execute this command.'
+
+# Message sent when applying an enchantment and there is no slot available.
+no-slots: '&cThere is no empty slot left on the current item.'
+
+# Message sent when plugin is reloaded.
+plugin-reload: '&aSuccessfully reloaded files of the plugin.'
+
+# Message sent when the given player is offline.
+player-offline: '&c%player% is not online.'
+
+# Message sent when enchantment is successful
+enchant-successful: '&aThe enchantment has been successfully applied!'
+
+# Message sent when enchantment is unsuccessful
+enchant-unsuccessful: '&cThe enchantment is unsuccessful.'
+
+# Message sent when enchantment is un-successful but item is saved by protection rune.
+enchant-protection: '&aEnchantment was unsuccessful but the item was saved from getting destroyed by &f&lPROTECTION RUNE.' 
+
+# Message sent when you attempt to add more items in tinkerer but its already full.
+tinkerer-full: '&cSorry, you cannot add more items as the tinkerer is full.'
+
+# Message sent when you trade in tinkerer.
+tinkerer-trade: '&aThanks for using Tinkerer!'
+
+# Message sent when you don't have enough money to purchase Runes with money.
+no-money: '&cYou do not have enough money.'
+
+# Message sent when you do not have enough money to purchase Runes with XP.
+no-xp: '&cYou do not have enough XP'
+
+# Message sent when you take off the random enchant from an item through The Cursed Stone. 
+cursed-stone-used: '&6You took off &e%enchant%'
+
+# Message sent when you use magical rune but you can't use it as the slots have exceeded its limit.
+slot-exceed-limit: '&cYou cannot exceed the limit of slots, which is 15!'
+
+# Message sent when you are about to purchase a Rune from Shop GUI, but you cannot afford it.
+no-money-shop: '&cYou cannot afford to purchase this Rune.'
+
+# Message sent when you purchase a Rune from Shop. '%enchant%' placeholder will return the enchantment name with the level.
+rune-purchased: '&aYou purchased the rune of &e&n%enchant% &afor $%price%.'
+
+# Message sent when a player tries to execute the command '/runes trade' but does not have any item in his hand.
+trade-no-item: '&cYou must hold an item in your hand in order to execute this command.'
+
+# Message sent when a player tries to execute the command '/runes trade' but does not have an applicable item.
+trade-error: '&cYou must hold an item which has any custom enchant.'
+
+# Message sent when the trade is successful.
+trade-success: '&aYou have received the &bFortune Shard&a.'

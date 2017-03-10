@@ -1,0 +1,46 @@
+lastlocation:
+  world: world
+  x: 29323.024283985174
+  y: 71.0
+  z: -24684.843527631238
+  yaw: 48.144653
+  pitch: 5.099988
+geolocation: Kungsör, Vastmanlands Lan, Sweden
+lastAccountName: Molinder2004
+timestamps:
+  login: 1475264762244
+  logout: 1475265113354
+  lastteleport: 1475264892559
+  kits:
+    citizen: 1474262801197
+ipAddress: 217.175.123.91
+money: '34796.3482000000000145'
+logoutlocation:
+  world: world
+  x: -15428.475891957632
+  y: 76.0
+  z: -24769.233509685357
+  yaw: 57.600975
+  pitch: 11.399994
+homes:
+  home:
+    world: world
+    x: -15446.433774205574
+    y: 76.0
+    z: -24755.801230303943
+    yaw: -68.099434
+    pitch: 35.550083
+  ex:
+    world: world
+    x: 14795.315791113811
+    y: 64.82711731432457
+    z: -14338.24966562834
+    yaw: -289.19943
+    pitch: 10.199995
+  acculy:
+    world: world
+    x: 29015.722160878926
+    y: 85.0
+    z: -28086.051134420253
+    yaw: 108.45038
+    pitch: 25.500006
