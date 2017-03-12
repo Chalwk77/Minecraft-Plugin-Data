@@ -10,8 +10,9 @@ groups:
     - -bukkit.command.help
     - -minecraft.command.me
     - -essentials.me
-    - modifyworld.chat
+    - nte.guest
     - modifyworld.*
+    - modifyworld.chat
     - worldguard.region.addmember.own.*
     - worldguard.region.removemember.own.*
     - worldguard.region.info.*
@@ -79,7 +80,7 @@ groups:
       rank: '900'
       prefix: '&f[&3Member&f] &7'
     permissions:
-    - new.permission
+    - nte.member
   Owner:
     inheritance:
     - Member
@@ -87,7 +88,19 @@ groups:
       rank: '1'
       prefix: '&f[&4OWNER&f] &7'
     permissions:
+    - coreprotect.*
     - permissions.*
+    - worldedit.*
+    - worldguard.*
+    - nte.owner
+    - nametagedit.use
+    - nametagedit.reload
+    - nametagedit.clear.others
+    - nametagedit.clear.self
+    - nametagedit.edit.others
+    - nametagedit.edit.self
+    - nametagedit.groups
+    - worldguard.notify
     - essentials.time
     - essentials.gamemode
     - essentials.gamemode.all
@@ -110,26 +123,44 @@ groups:
     - essentials.fly
     - essentials.keepxp
     - essentials.clearinventory
+    - bukkit.command.me
+    - bukkit.command.plugins
+    - bukkit.command.help
+    - minecraft.command.me
+    - essentials.me
   Developer:
     inheritance:
     - Owner
     options:
       rank: '1'
       prefix: '&f[&6DEVELOPER&f] &7'
+    permissions:
+    - nte.developer
 users:
   0e72b9a7-eaad-4034-847c-1ab77bfbc61e:
     group:
     - Owner
     options:
       name: rbb1213
+      last-login-time: '1489326042'
+      last-logout-time: '1489336995'
   5ed62974-b9fe-46b9-9429-5080e91c476c:
     group:
     - Owner
     options:
       name: MuLaN389
+      last-login-time: '1489330137'
+      last-logout-time: '1489336880'
   81432a39-85d3-4236-ade0-3c15da9b2c64:
     group:
     - Developer
     options:
       name: Chalwk
+      last-login-time: '1489361884'
+  2abeea2f-2a5c-4aa7-bc10-86090bf0acf7:
+    options:
+      name: RuEvenPro
+      last-logout-time: '1489361562'
+    group:
+    - Guest
 schema-version: 1
