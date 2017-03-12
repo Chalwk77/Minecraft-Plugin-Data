@@ -81,7 +81,7 @@ groups:
       rank-ladder: Member
       prefix: '&f[&3Member&f] &7'
     permissions:
-    - jericho.jericho
+    - new.permission
   Owner:
     inheritance:
     - Member
@@ -121,18 +121,18 @@ groups:
       rank: '1'
       prefix: '&f[&6DEV&f] &7'
     permissions:
-    - jericho.jericho
+    - new.permission
 users:
   0e72b9a7-eaad-4034-847c-1ab77bfbc61e:
     group:
     - Owner
     options:
       name: rbb1213
-  03fa7bf2-9634-4e24-93e2-9e7726340160:
+  5ed62974-b9fe-46b9-9429-5080e91c476c:
     group:
     - Owner
     options:
-      name: MaDHaTTeR140
+      name: MuLaN389
   81432a39-85d3-4236-ade0-3c15da9b2c64:
     group:
     - Developer
