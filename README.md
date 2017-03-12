@@ -1,6 +1,6 @@
 # Minecraft-Plugin-Data
-Plugin Data for JeriCraft Survival/Economy Server
+Plugin Data Files for JeriCraft Survival/Economy Server
 
 Server Owner: Jericho Crosby (Chalwk).
 
-Some plugin jar's will not be available for download as they're a premium resource. 
+Due to premium plugin licensing, I will not provide plugin jar's for premium resources that I have purchased.
