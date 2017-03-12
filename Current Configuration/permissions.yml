@@ -77,7 +77,6 @@ groups:
     - Guest
     options:
       rank: '900'
-      rank-ladder: Member
       prefix: '&f[&3Member&f] &7'
     permissions:
     - new.permission
@@ -86,7 +85,6 @@ groups:
     - Member
     options:
       rank: '1'
-      rank-ladder: Owner
       prefix: '&f[&4OWNER&f] &7'
     permissions:
     - permissions.*
