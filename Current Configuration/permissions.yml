@@ -10,13 +10,12 @@ groups:
     - -bukkit.command.help
     - -minecraft.command.me
     - -essentials.me
-    - nte.member
+    - modifyworld.chat
+    - modifyworld.*
     - worldguard.region.addmember.own.*
     - worldguard.region.removemember.own.*
     - worldguard.region.info.*
     - worldguard.region.list.own
-    - modifyworld.chat
-    - modifyworld.*
     - essentials.recipe
     - essentials.kit.color
     - essentials.keepxp
@@ -90,11 +89,10 @@ groups:
       rank-ladder: Owner
       prefix: '&f[&4OWNER&f] &7'
     permissions:
-    - modifyworld.*
     - permissions.*
     - essentials.time
-    - essentials.gamemode.all
     - essentials.gamemode
+    - essentials.gamemode.all
     - essentials.warp
     - essentials.chat.url
     - essentials.tp
